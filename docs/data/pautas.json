@@ -1,6 +1,195 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Desafios do audiovisual: qualidade e eficiência em crise",
+  "resumo": "As produtora de conteúdo enfrentam a pressão de orçamentos e prazos, e precisam equilibrar qualidade com eficiência. É essencial se adaptar às novas demandas de mercado para garantir sobrevivência.",
+  "fatos": [
+   "As produtora Kaus, Modernista e Live Nation estão lutando para manter a qualidade em um mercado com orçamentos apertados.",
+   "A demanda por conteúdo cresce, mas a pressão por eficiência e prazos dificulta o processo.",
+   "A complexidade das produções atuais requer estruturas adaptáveis, sem aumentar custos.",
+   "O público se tornou mais seletivo e exige excelência em experiências de entretenimento.",
+   "A produção audiovisual não conquistou nenhum Leão em Film no Cannes Lions entre 2024 e 2026, evidenciando a crise no setor."
+  ],
+  "numeros": [],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Temor de não se adaptar e perder mercado.",
+  "angulo": "As dificuldades enfrentadas pelas produtoras revelam a importância de uma estratégia sólida de marketing digital e automação para se destacar no mercado.",
+  "gancho": "*Equilíbrio entre qualidade e eficiência* é essencial!",
+  "ideias": [
+   "Como o marketing digital pode ajudar sua empresa?",
+   "Estratégias para enfrentar orçamentos apertados!",
+   "A importância da excelência na produção audiovisual."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://www.meioemensagem.com.br/cabore/produtoras-buscam-equilibrio-entre-qualidade-e-eficiencia",
+  "publicadoEm": "2026-10-20T10:51:40-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Investimentos em marketing: aumentos e cortes impactam o mercado",
+  "resumo": "Os maiores anunciantes do mundo investiram US$ 326,2 bilhões em publicidade, uma alta de 12,7%. Entender essas tendências é crucial para ajustar estratégias e não ficar para trás.",
+  "fatos": [
+   "Os 50 maiores anunciantes globais elevaram seus investimentos publicitários em 12,7% em um ano.",
+   "Alibaba e JD.com foram responsáveis por mais da metade do aumento nos investimentos.",
+   "Alibaba quase dobrou seus investimentos, atingindo US$ 30,2 bilhões em 2026.",
+   "A Progressive aumentou seus gastos em 28,2%, totalizando US$ 5,1 bilhões em publicidade.",
+   "Por outro lado, a Pfizer reduziu seus investimentos em 18,2%, totalizando US$ 2,7 bilhões."
+  ],
+  "numeros": [
+   {
+    "valor": "326,2 bilhões",
+    "rotulo": "investimentos em publicidade"
+   },
+   {
+    "valor": "12,7%",
+    "rotulo": "crescimento em relação ao ano anterior"
+   },
+   {
+    "valor": "30,2 bilhões",
+    "rotulo": "investimentos do Alibaba"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "perder participação no mercado e clientes potenciais",
+  "angulo": "Compreender as tendências de investimento pode ajudar sua empresa a se destacar e a se posicionar adequadamente no mercado, mostrando a importância de uma estratégia de marketing bem-planejada.",
+  "gancho": "Descubra como *os investimentos mudam o jogo dos negócios*",
+  "ideias": [
+   "O que o aumento nos investimentos significa para o seu negócio?",
+   "Empresas que investem em publicidade: quem são as líderes?",
+   "Como ajustar sua estratégia de marketing na era digital?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/os-anunciantes-que-mais-aumentaram-e-cortaram-investimentos-no-mundo",
+  "publicadoEm": "2026-10-19T17:56:32-03:00",
+  "data": "2026-10-19",
+  "id": "2026-10-20-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "E-commerce pode crescer 104% até 2036",
+  "resumo": "O e-commerce brasileiro está projetado para um crescimento significativo nos próximos anos, o que pode impactar positivamente as vendas. Empresários devem se preparar para esse crescimento.",
+  "fatos": [
+   "O e-commerce no Brasil tem potencial para crescer 104% até 2036.",
+   "Esse crescimento pode favorecer diversas empresas e setores do comércio.",
+   "É essencial que empresários se adaptem às novas demandas do consumidor."
+  ],
+  "numeros": [],
+  "fonte": "Revista Empreende",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder oportunidades no crescente mercado online",
+  "angulo": "O crescimento do e-commerce é uma chance para empresários se modernizarem e atraírem clientes, tornando essencial investir em marketing digital e uma boa gestão de redes.",
+  "gancho": "Prepare-se para *o crescimento do e-commerce*",
+  "ideias": [
+   "Oportunidades de vendas online",
+   "Adapte seu negócio para o e-commerce",
+   "Como o e-commerce pode alavancar suas vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://www.google.com/search?q=E-commerce+no+Brasil+pode+crescer+104%25+at%C3%A9+2036+Revista+Empreende",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-20T11:09:00-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Redução de valor da Anthropic pode afetar o mercado de IA",
+  "resumo": "A Anthropic, empresa de IA, teve sua avaliação reduzida em US$ 500 bilhões, levantando preocupações sobre uma bolha. Isso pode impactar investimentos e a confiança no setor.",
+  "fatos": [
+   "A avaliação da Anthropic caiu de US$ 2 trilhões para US$ 1,5 trilhão.",
+   "O crescimento da receita foi de 45%, subindo de US$ 11,6 bilhões para US$ 16,8 bilhões no terceiro trimestre de 2026.",
+   "O prejuízo líquido da Anthropic em 2025 foi de aproximadamente US$ 42 bilhões.",
+   "Os custos para manter sistemas de IA da Anthropic serão de pelo menos US$ 518 bilhões ao longo de uma década."
+  ],
+  "numeros": [
+   {
+    "valor": "500",
+    "rotulo": "milhões de dólares na redução de avaliação"
+   },
+   {
+    "valor": "42",
+    "rotulo": "bilhões de dólares em prejuízo líquido em 2025"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda de investimento em tecnologia e inovação",
+  "angulo": "Com o impacto da revisão na avaliação de uma gigante da IA, muitos empresários podem perceber a importância de estar preparados para as mudanças no mercado e garantir uma presença digital forte.",
+  "gancho": "Atenção: *mercado de IA à beira de mudanças*",
+  "ideias": [
+   "A importância do marketing digital em tempos de incertezas",
+   "Preparando seu negócio para o futuro da IA",
+   "Como garantir visibilidade no mercado em transformação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://canaltech.com.br/mercado/ipo-da-dona-do-claude-tem-corte-de-us-500-bi-e-acende-alerta-de-bolha/",
+  "publicadoEm": "2026-10-19T12:01:00-03:00",
+  "data": "2026-10-19",
+  "id": "2026-10-20-vpr-06"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Marketing ágil: como garantir decisões acertadas",
   "resumo": "Apressar decisões baseadas em dados confiáveis é um desafio. A Norstat se destaca na coleta de dados para ajudar marcas a obter informações precisas rapidamente, facilitando a tomada de decisões fundamentadas.",
   "fatos": [
@@ -258,6 +447,253 @@
   "publicadoEm": "2026-10-19T15:51:00-03:00",
   "data": "2026-10-19",
   "id": "2026-10-20-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Custo de vida: eletrificação do transporte pode impactar empresários",
+  "resumo": "Proposta visa a eletrificação da frota de ônibus e caminhões no Brasil, reduzindo custos a longo prazo. Iniciativa busca desenvolver empregos verdes e combater a poluição.",
+  "fatos": [
+   "A Política Nacional de Eletrificação do Transporte busca reduzir emissões de gases e poluição.",
+   "30% das vendas de ônibus novos devem ser zero emissão até 2030; 50% dos caminhões até 2035.",
+   "Venda de ônibus a diesel será proibida a partir de 2040 e caminhões a diesel a partir de 2045.",
+   "Incentivos fiscais e linhas de crédito serão oferecidos para veículos elétricos e componentes.",
+   "A proposta inclui a criação do Programa Nacional de Incentivo à Eletrificação do Transporte."
+  ],
+  "numeros": [
+   {
+    "valor": "30%",
+    "rotulo": "vendas anuais de ônibus zero emissão até 2030"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "vendas de caminhões pesados zero emissão até 2035"
+   },
+   {
+    "valor": "2040",
+    "rotulo": "proibição da venda de ônibus a diesel"
+   },
+   {
+    "valor": "2045",
+    "rotulo": "proibição da venda de caminhões a diesel"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "Medo de aumento nos custos operacionais e necessidade de adaptação",
+  "angulo": "A eletrificação do transporte pode trazer custos a curto prazo, mas desenvolver habilidades no mercado financeiro se torna essencial para se adequar às mudanças e evitar surpresas no futuro.",
+  "gancho": "Custo de vida pode mudar com *eletrificação do transporte*",
+  "ideias": [
+   "Como a eletrificação pode afetar seu negócio?",
+   "Fique atento às mudanças da eletrificação no Brasil!",
+   "Está preparado para o futuro do transporte?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://www.camara.leg.br/noticias/1309832-projeto-cria-politica-nacional-para-eletrificar-frota-de-onibus-e-caminhoes-no-brasil",
+  "publicadoEm": "2026-10-20T10:49:00-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Impacto do Bolsa Família no custo de vida",
+  "resumo": "Em outubro, 19,3 milhões de famílias recebem Bolsa Família, elevando a folha de pagamentos para R$ 15 bilhões. Entenda como isso afeta seu bolso e a economia.",
+  "fatos": [
+   "O valor médio do benefício do Bolsa Família é de R$ 782,92.",
+   "A folha de pagamentos aumentou de R$ 13 bilhões em setembro para R$ 15 bilhões em outubro.",
+   "Mais de 194 municípios em sete estados receberam pagamento unificado devido a situações de emergência.",
+   "O pagamento foi concentrado em três dias até dezembro, afetando o ciclo financeiro de muitas famílias.",
+   "Desde 2024, não há mais desconto do Seguro Defeso para beneficiários do Bolsa Família."
+  ],
+  "numeros": [
+   {
+    "valor": "19,3 milhões",
+    "rotulo": "famílias beneficiadas"
+   },
+   {
+    "valor": "R$ 15 bilhões",
+    "rotulo": "folha de pagamentos em outubro"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "dependência excessiva de salários e benefícios temporários",
+  "angulo": "Aprender a operar no mercado financeiro pode ser uma solução para não ficar refém de benefícios ou do custo de vida crescente.",
+  "gancho": "como *aumentos no Bolsa Família* impactam sua renda?",
+  "ideias": [
+   "Como o Bolsa Família afeta sua renda?",
+   "Entenda o impacto do aumento no Bolsa Família",
+   "Como lidar com o custo de vida em tempos de crise?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-outubro",
+  "publicadoEm": "2026-10-20T07:30:00-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Negativação de contas deve ter notificação prévia",
+  "resumo": "Novo projeto de lei visa garantir que consumidores sejam avisados antes da negativação por contas de serviços essenciais como água e luz. A proposta ainda está em análise na Câmara.",
+  "fatos": [
+   "O Projeto de Lei 3330/26 propõe notificação prévia para contas atrasadas de serviços como água, luz e gás.",
+   "A inclusão em cadastros de maus pagadores só poderá ocorrer após uma notificação clara ao consumidor.",
+   "Se a regra não for cumprida, a empresa deve remover o nome do cliente dos cadastros de proteção ao crédito."
+  ],
+  "numeros": [],
+  "fonte": "Agência Câmara",
+  "categoria": "Leis",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "não ser avisado antes da negativação da conta",
+  "angulo": "Entender as regras sobre a negativação pode ser a chave para evitar surpresas financeiras. Conhecer o mercado financeiro te dá autonomia para gerenciar melhor suas finanças.",
+  "gancho": "*Seja avisado antes da negativação!*",
+  "ideias": [
+   "Como evitar a negativação da conta",
+   "Importância da notificação de serviços essenciais",
+   "O que fazer se você for negativado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://www.camara.leg.br/noticias/1307904-projeto-exige-notificacao-previa-sobre-renegociacao-de-contas-de-agua-e-luz-antes-da-negativacao",
+  "publicadoEm": "2026-10-19T14:11:00-03:00",
+  "data": "2026-10-19",
+  "id": "2026-10-20-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fraudes em folha podem gerar novas penalizações",
+  "resumo": "O Projeto de Lei 3312/26 propõe penas severas para fraudes em descontos indevidos na folha de pagamento. Sintomas dessa prática comprometem a dignidade e a capacidade financeira das vítimas.",
+  "fatos": [
+   "O Projeto de Lei 3312/26 classifica como crime descontos não autorizados em folhas de pagamento e benefícios.",
+   "A pena prevista é de 4 a 8 anos de reclusão, além de multa para os infratores.",
+   "As punições podem ser aumentadas se o crime envolver pessoas jurídicas ou plataformas digitais.",
+   "A prática já compromete a dignidade e a capacidade de arcar com despesas básicas dos afetados.",
+   "O projeto ainda precisa passar pelas comissões antes de ser votado pela Câmara e Senado."
+  ],
+  "numeros": [
+   {
+    "valor": "4 a 8",
+    "rotulo": "anos de reclusão"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Leis",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "medo de perder parte do salário devido a fraudes",
+  "angulo": "Entender como as fraudes podem impactar seu salário é essencial, pois isso mostra a importância de ter alternativas de renda além do salário fixo.",
+  "gancho": "Novo projeto contra *fraudes em pagamento*",
+  "ideias": [
+   "Proteja seu salário de fraudes",
+   "Mudanças na legislação podem afetar seu bolso",
+   "Como evitar ser vítima de descontos indevidos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://www.camara.leg.br/noticias/1309538-projeto-pune-fraude-por-desconto-indevido-em-folha-de-pagamento",
+  "publicadoEm": "2026-10-19T18:56:00-03:00",
+  "data": "2026-10-19",
+  "id": "2026-10-20-trader-05"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudança na carga horária: impactos no seu bolso",
+  "resumo": "Nova emenda constitucional reduz carga semanal de trabalho e pode afetar a renda. Entenda como isso pode influenciar seus ganhos e a importância de diversificar sua fonte de renda.",
+  "fatos": [
+   "A emenda constitucional EC 141/2026 acaba com a escala de trabalho 6x1.",
+   "A carga horária semanal será reduzida de 44 para 40 horas em 14 meses.",
+   "A transição prevê que a carga de 42 horas entra em vigor em 15 de dezembro.",
+   "Não haverá redução salarial durante a mudança.",
+   "Trabalhadores terão direito a duas folgas semanais."
+  ],
+  "numeros": [
+   {
+    "valor": "40",
+    "rotulo": "horas semanais após redução"
+   },
+   {
+    "valor": "14",
+    "rotulo": "meses de transição"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "preocupação com a redução da renda mensal",
+  "angulo": "Com a mudança na legislação, é essencial considerar alternativas de renda, como o aprendizado no mercado financeiro, para evitar riscos associados à depender apenas do salário.",
+  "gancho": "seu trabalho *pode mudar para melhor*",
+  "ideias": [
+   "O que muda com a nova carga horária?",
+   "Como diversificar sua renda hoje",
+   "Aprenda a investir e amplie seus ganhos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:32:41-03:00",
+  "url": "https://www12.senado.leg.br/noticias/audios/2026/10/carga-maxima-de-trabalho-passara-a-42-horas-semanais-em-15-de-dezembro",
+  "publicadoEm": "2026-10-19T16:19:03-03:00",
+  "data": "2026-10-19",
+  "id": "2026-10-20-trader-04"
  },
  {
   "segmento": "trader",
