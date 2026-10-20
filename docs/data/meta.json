@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-19T22:28:10-03:00",
+  "ultimaColeta": "2026-10-19T22:31:59-03:00",
   "novas": 0,
   "atualizadas": 0,
   "status": "erro",
-  "mensagem": "Falta o segredo OPENAI_API_KEY no repositório.",
+  "mensagem": "OpenAI 401: {\n    \"error\": {\n        \"message\": \"Incorrect API key provided: CdfEip7m************************************************************************************************************************************************2ecA. You can find your API key at https://platform.openai.com/account/",
   "falhas": [],
   "manual": true,
   "historico": [
+   "2026-10-19T22:31:59-03:00",
    "2026-10-19T22:28:10-03:00",
    "2026-10-19T19:10:00-03:00",
    "2026-10-19T13:13:00-03:00",
@@ -18,19 +19,21 @@
    "2026-10-16T07:25:00-03:00",
    "2026-10-15T21:20:00-03:00",
    "2026-10-15T19:07:00-03:00",
-   "2026-10-15T13:20:00-03:00",
-   "2026-10-15T12:00:00-03:00"
+   "2026-10-15T13:20:00-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-19T22:28:10-03:00",
+  "ultimaColeta": "2026-10-19T22:31:59-03:00",
   "novas": 0,
   "atualizadas": 0,
   "status": "erro",
-  "mensagem": "Falta o segredo OPENAI_API_KEY no repositório.",
-  "falhas": [],
+  "mensagem": "OpenAI 401: {\n    \"error\": {\n        \"message\": \"Incorrect API key provided: CdfEip7m************************************************************************************************************************************************2ecA. You can find your API key at https://platform.openai.com/account/",
+  "falhas": [
+   "E-Commerce Brasil (HTTPError)"
+  ],
   "manual": true,
   "historico": [
+   "2026-10-19T22:31:59-03:00",
    "2026-10-19T22:28:10-03:00",
    "2026-10-19T19:10:00-03:00",
    "2026-10-19T13:13:00-03:00",
@@ -41,8 +44,7 @@
    "2026-10-16T07:25:00-03:00",
    "2026-10-15T21:20:00-03:00",
    "2026-10-15T19:07:00-03:00",
-   "2026-10-15T13:20:00-03:00",
-   "2026-10-15T12:00:00-03:00"
+   "2026-10-15T13:20:00-03:00"
   ]
  }
 }
