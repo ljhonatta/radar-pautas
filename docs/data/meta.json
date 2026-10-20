@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-19T22:31:59-03:00",
-  "novas": 0,
-  "atualizadas": 0,
-  "status": "erro",
-  "mensagem": "OpenAI 401: {\n    \"error\": {\n        \"message\": \"Incorrect API key provided: CdfEip7m************************************************************************************************************************************************2ecA. You can find your API key at https://platform.openai.com/account/",
+  "ultimaColeta": "2026-10-20T11:24:50-03:00",
+  "novas": 3,
+  "atualizadas": 1,
+  "status": "ok",
+  "mensagem": "3 pauta(s) nova(s) e 1 atualizada(s): Impacto da reforma tributária na conta de luz; Fim da escala 6x1: impacto nas empresas; Economia cresce 0,5%: Reflexos no bolso do brasileiro.",
   "falhas": [],
   "manual": true,
   "historico": [
+   "2026-10-20T11:24:50-03:00",
    "2026-10-19T22:31:59-03:00",
    "2026-10-19T22:28:10-03:00",
    "2026-10-19T19:10:00-03:00",
@@ -18,21 +19,21 @@
    "2026-10-16T11:15:00-03:00",
    "2026-10-16T07:25:00-03:00",
    "2026-10-15T21:20:00-03:00",
-   "2026-10-15T19:07:00-03:00",
-   "2026-10-15T13:20:00-03:00"
+   "2026-10-15T19:07:00-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-19T22:31:59-03:00",
-  "novas": 0,
+  "ultimaColeta": "2026-10-20T11:24:50-03:00",
+  "novas": 5,
   "atualizadas": 0,
-  "status": "erro",
-  "mensagem": "OpenAI 401: {\n    \"error\": {\n        \"message\": \"Incorrect API key provided: CdfEip7m************************************************************************************************************************************************2ecA. You can find your API key at https://platform.openai.com/account/",
+  "status": "ok",
+  "mensagem": "5 pauta(s) nova(s): Recuperação financeira da Ri Happy: o impacto no varejo; Inteligência Artificial: necessidade de investir em marketing estratégico; Alibaba supera Amazon: o impacto no Brasil.",
   "falhas": [
    "E-Commerce Brasil (HTTPError)"
   ],
   "manual": true,
   "historico": [
+   "2026-10-20T11:24:50-03:00",
    "2026-10-19T22:31:59-03:00",
    "2026-10-19T22:28:10-03:00",
    "2026-10-19T19:10:00-03:00",
@@ -43,8 +44,7 @@
    "2026-10-16T11:15:00-03:00",
    "2026-10-16T07:25:00-03:00",
    "2026-10-15T21:20:00-03:00",
-   "2026-10-15T19:07:00-03:00",
-   "2026-10-15T13:20:00-03:00"
+   "2026-10-15T19:07:00-03:00"
   ]
  }
 }

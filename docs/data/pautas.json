@@ -1,6 +1,414 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Marketing ágil: como garantir decisões acertadas",
+  "resumo": "Apressar decisões baseadas em dados confiáveis é um desafio. A Norstat se destaca na coleta de dados para ajudar marcas a obter informações precisas rapidamente, facilitando a tomada de decisões fundamentadas.",
+  "fatos": [
+   "A Norstat está presente em 45 países e possui 14 milhões de respondentes.",
+   "Na América Latina, a Norstat conta com 10 milhões de respondentes em 20 países.",
+   "A empresa oferece soluções digitais como Norstat Express e Norstat Studio para decisões rápidas.",
+   "Com a IA, a Norstat melhora a eficiência da pesquisa de mercado sem perder a qualidade.",
+   "Julio Calil, Country Manager, afirma que a demanda está mudando para soluções mais rápidas e integradas."
+  ],
+  "numeros": [
+   {
+    "valor": "14 milhões",
+    "rotulo": "respondentes da Norstat"
+   },
+   {
+    "valor": "10 milhões",
+    "rotulo": "respondentes na América Latina"
+   },
+   {
+    "valor": "20",
+    "rotulo": "países na América Latina com respondentes"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder oportunidades ao decidir sem dados confiáveis",
+  "angulo": "Entender a importância de dados precisos pode levar sua empresa a buscar soluções eficazes e rápidas, melhorando o desempenho no mercado.",
+  "gancho": "Decisões ágeis e *dados de qualidade*",
+  "ideias": [
+   "Como dados rápidos podem mudar seu negócio",
+   "A importância da qualidade na pesquisa de mercado",
+   "Decisões estratégicas com inteligência artificial"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:24:50-03:00",
+  "url": "https://www.meioemensagem.com.br/patrocinado/norstat/o-que-muda-quando-o-marketing-precisa-de-respostas-rapidas",
+  "publicadoEm": "2026-10-20T00:00:28-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Itaú inova ao permitir pagamentos com pontos acumulados",
+  "resumo": "O Itaú agora permite transferências via Pix usando pontos acumulados em compras. Esta mudança traz mais flexibilidade para os usuários, mas ainda dependem de saldo disponível.",
+  "fatos": [
+   "Clientes do Itaú podem usar pontos acumulados para transferências via Pix.",
+   "A opção disponível inclui pagamento por chave, código, QR Code e aproximação.",
+   "Não é possível usar essa funcionalidade no Pix Automático.",
+   "A novidade começou a ser liberada em outubro e estará disponível para todos até o final do ano.",
+   "A funcionalidade não cobre pontos de programas parceiros, apenas do saldo acumulado no banco."
+  ],
+  "numeros": [
+   {
+    "valor": "100%",
+    "rotulo": "usuários com acesso até o fim do ano"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas e clientes para concorrentes mais ágeis",
+  "angulo": "Entender como essa inovação pode transformar a experiência do cliente é crucial. Aprenda como o marketing pode ajudar seu negócio a se adaptar.",
+  "gancho": "*Itaú facilita pagamentos com pontos acumulados*",
+  "ideias": [
+   "Como a inovação no pagamento pode elevar suas vendas?",
+   "A importância de acompanhar as inovações financeiras.",
+   "Seu negócio preparado para novas formas de pagamento?"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:24:50-03:00",
+  "url": "https://canaltech.com.br/apps/itau-libera-pagamentos-de-pix-com-pontos-acumulados-na-conta/",
+  "publicadoEm": "2026-10-20T10:06:47-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Alibaba supera Amazon: o impacto no Brasil",
+  "resumo": "O Alibaba ultrapassou a Amazon em investimento publicitário global em 2025. No Brasil, suas posições são diferentes, revelando lacunas nas estratégias de marketing.",
+  "fatos": [
+   "Alibaba investiu US$ 30,2 bilhões em publicidade em 2025, frente a US$ 23,5 bilhões da Amazon.",
+   "No Brasil, a Amazon investiu R$ 1,13 bilhão, um aumento de 13% em relação a 2024.",
+   "O Alibaba caiu de 125ª para 142ª posição no ranking de anunciantes do Brasil, com R$ 95,2 milhões em investimentos.",
+   "Apesar da liderança global, o Alibaba enfrenta dificuldades no mercado brasileiro em comparação com a Amazon.",
+   "O estudo da Global Payments mostra que 72% dos consumidores brasileiros aceitam usar IA para compras."
+  ],
+  "numeros": [
+   {
+    "valor": "30,2 bilhões",
+    "rotulo": "investimento do Alibaba globalmente"
+   },
+   {
+    "valor": "1,13 bilhões",
+    "rotulo": "investimento da Amazon no Brasil"
+   },
+   {
+    "valor": "95,2 milhões",
+    "rotulo": "investimento do Alibaba no Brasil"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder espaço para concorrentes mais bem posicionados",
+  "angulo": "Com o cenário competitivo mudando, é crucial fortalecer sua presença online e no marketing para não ficar para trás.",
+  "gancho": "Faça seu negócio brilhar em meio a *grandes investimentos*!",
+  "ideias": [
+   "A escalada do Alibaba no Brasil: o que aprender?",
+   "Como a Amazon mantém sua posição no mercado?",
+   "IA e publicidade: o futuro à frente!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:24:50-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/alibaba-e-amazon-qual-a-presenca-dos-maiores-do-mundo-no-brasil",
+  "publicadoEm": "2026-10-20T06:00:51-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência Artificial: necessidade de investir em marketing estratégico",
+  "resumo": "A pressão por eficiência no marketing, impulsionada pela inteligência artificial, redefine como as agências são remuneradas, exigindo investimento em tecnologia e talento para resultados melhores.",
+  "fatos": [
+   "A tecnologia está mudando a forma de remuneração das agências de marketing.",
+   "57% das organizações têm metas de redução de custos de pelo menos 7%.",
+   "A preferência por modelos integrados entre anunciantes passou de 36% em 2024 para 54,4% em 2026.",
+   "As agências estão investindo em tecnologia, dados, automação e segurança, essenciais para competitividade.",
+   "O modelo de remuneração tradicional ainda se baseia em horas de trabalho, o que gera pressão sobre os honorários."
+  ],
+  "numeros": [
+   {
+    "valor": "14,8",
+    "rotulo": "média de parceiros de marketing por empresa"
+   },
+   {
+    "valor": "36% a 54,4%",
+    "rotulo": "mudança na preferência por modelos integrados"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder relevância e competitividade no mercado",
+  "angulo": "Com a IA redefinindo os custos de produção, empresários precisam entender que investir em tecnologias e estratégias não é apenas um custo, mas sim uma necessidade para garantir o crescimento.",
+  "gancho": "*A eficiência do marketing* nunca foi tão crucial!",
+  "ideias": [
+   "Tecnologia: como ela altera seu custo?",
+   "Entenda a importância de investir em IA",
+   "O futuro das agências: mudança na remuneração"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:24:50-03:00",
+  "url": "https://www.meioemensagem.com.br/comunicacao/kika-samblas-da-scopen-tecnologia-pressiona-honorarios",
+  "publicadoEm": "2026-10-20T06:01:49-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Recuperação financeira da Ri Happy: o impacto no varejo",
+  "resumo": "A Ri Happy, junto a outras empresas, pede recuperação extrajudicial para renegociar R$ 827,4 milhões em dívidas, resultado de vários fatores como a pandemia e a queda nas vendas.",
+  "fatos": [
+   "A Ri Happy precisa renegociar R$ 827,4 milhões em dívidas.",
+   "Os problemas financeiros foram impactados pela pandemia e altos juros.",
+   "A concorrência com plataformas como Shopee e AliExpress também afetou suas receitas.",
+   "A empresa já havia solicitado recuperação de R$ 292 milhões antes, mas sem sucesso.",
+   "Este movimento é parte de um plano de reestruturação financeiro e operacional."
+  ],
+  "numeros": [
+   {
+    "valor": "827400000",
+    "rotulo": "dívidas da Ri Happy"
+   },
+   {
+    "valor": "292000000",
+    "rotulo": "dívidas anteriores renegociadas"
+   },
+   {
+    "valor": "308800000",
+    "rotulo": "valor já negociado com credores"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "temor de queda nas vendas e dívidas acumuladas",
+  "angulo": "O cenário de recuperação da Ri Happy destaca a importância de estratégias efetivas em marketing e presença digital para minimizar perdas e fortalecer o negócio.",
+  "gancho": "Recuperação da Ri Happy: *como evitar crises*?",
+  "ideias": [
+   "O que podemos aprender com a Ri Happy?",
+   "Dicas para evitar dívidas no varejo!",
+   "A importância do marketing digital no varejo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:24:50-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/ri-happy-pede-recuperacao-extrajudicial-veja-casos-de-2026",
+  "publicadoEm": "2026-10-19T15:51:00-03:00",
+  "data": "2026-10-19",
+  "id": "2026-10-20-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Economia cresce 0,5%: Reflexos no bolso do brasileiro",
+  "resumo": "Após dois meses de recuo, a economia brasileira mostrou crescimento de 0,5% em agosto, gerando expectativas de melhora para o consumidor e empresário. A situação ainda é desafiadora, especialmente com juros elevados.",
+  "fatos": [
+   "A economia cresceu 0,5% de julho para agosto, segundo a FGV.",
+   "No acumulado de 12 meses, a alta é de 1,8%.",
+   "O crescimento foi impulsionado pela indústria extrativa e serviços.",
+   "O consumo das famílias cresceu 0,4%, principalmente em produtos duráveis.",
+   "O PIB acumulado até agosto foi estimado em R$ 9,020 trilhões."
+  ],
+  "numeros": [
+   {
+    "valor": "9,020 trilhões",
+    "rotulo": "PIB acumulado até agosto"
+   },
+   {
+    "valor": "0,5%",
+    "rotulo": "crescimento de agosto"
+   },
+   {
+    "valor": "1,8%",
+    "rotulo": "crescimento em 12 meses"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "preocupação com crescimento e consumo em queda",
+  "angulo": "Neste cenário de alta, aprender sobre o mercado financeiro pode ser a chave para escapar do peso da dependência de um único salário e conquistar mais autonomia financeira.",
+  "gancho": "Economia *crescendo*, mas e seu bolso?",
+  "ideias": [
+   "Como a alta do PIB pode impactar seu negócio",
+   "Indústria e serviços: O que vem por aí?",
+   "Entenda como o crescimento da economia afeta seu dia a dia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:24:50-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-cresce-05-em-agosto-apos-dois-meses-de-recuo-estima-fgv",
+  "publicadoEm": "2026-10-19T11:52:00-03:00",
+  "data": "2026-10-19",
+  "id": "2026-10-20-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impacto nas empresas",
+  "resumo": "Mudanças na carga de trabalho estão desafiando empresários a se adaptarem. Com o fim da escala 6x1, novas estratégias são necessárias para manter a produtividade.",
+  "fatos": [
+   "A escala 6x1, que envolvia trabalho em turnos, foi abolida.",
+   "Empresas precisam se reinventar para se adaptarem a essa nova realidade.",
+   "A mudança pode impactar a gestão de pessoal e a eficiência operacional."
+  ],
+  "numeros": [],
+  "fonte": "RADAR DIGITAL BRASÍLIA",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais"
+  ],
+  "dor": "Falta de flexibilidade pode comprometer a produtividade.",
+  "angulo": "Com as novas demandas do mercado, aprender sobre o mercado financeiro pode ajudar a desenvolver habilidades que gerem renda de forma mais flexível.",
+  "gancho": "Adapte-se ao *novo cenário de trabalho*",
+  "ideias": [
+   "Como a mudança da escala 6x1 afeta seu negócio?",
+   "Estratégias para se adaptar a novas regras de trabalho.",
+   "Flexibilidade no trabalho: chave para novas oportunidades."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:24:50-03:00",
+  "url": "https://www.google.com/search?q=Empresas+precisam+se+adaptar+ao+fim+da+escala+6x1+RADAR+DIGITAL+BRAS%C3%8DLIA",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-20T11:20:54-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Impacto da reforma tributária na conta de luz",
+  "resumo": "A Aneel avança em adequações para mitigar os efeitos da reforma tributária nas tarifas de energia, visando preservar o equilíbrio econômico-financeiro e a modicidade tarifária. A consulta pública é um passo crucial nesse processo.",
+  "fatos": [
+   "A Aneel iniciou um processo para adequar o setor de energia às novas regras tributárias.",
+   "A regulamentação entra em vigor em 1º de janeiro de 2027.",
+   "Consultas públicas foram abertas para discutir as adequações nos contratos regulados de geração e comercialização de energia.",
+   "A proposta visa expurgar o PIS/Pasep e Cofins dos preços da energia.",
+   "Créditos tributários antigos serão devolvidos aos consumidores com atualização pela Selic."
+  ],
+  "numeros": [
+   {
+    "valor": "1º de janeiro de 2027",
+    "rotulo": "data de vigência das novas regras"
+   },
+   {
+    "valor": "10 dias",
+    "rotulo": "duração das consultas públicas"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Impostos",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Empresários"
+  ],
+  "dor": "contas de energia altas devido à carga tributária",
+  "angulo": "Entender as mudanças na tributação da energia pode ser essencial para empresários e consumidores, mostrando como o mercado financeiro pode oferecer alternativas para lidar com custos elevados.",
+  "gancho": "*Fique atento!* Mudanças na conta de luz",
+  "ideias": [
+   "Aneel e a reforma: o que muda para você?",
+   "Nova tributação altera conta de energia?",
+   "Saiba como a reforma tributária afeta seu bolso"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T11:24:50-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/aneel-avanca-para-reduzir-impacto-da-reforma-tributaria-na-conta-de-luz/",
+  "publicadoEm": "2026-10-20T10:56:50-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "ANPD cobra Meta sobre bloqueios de contas no Facebook e Instagram",
   "resumo": "A ANPD notificou a Meta e deu cinco dias úteis para explicar critérios de denúncia, remoção de conteúdo e suspensão de contas.",
   "fatos": [
@@ -2013,7 +2421,7 @@
  },
  {
   "angulo": "Mostrar o antes/depois da jornada: margem do empresário encolhe e o CLT ganha um dia livre. Quem depende só de horas trabalhadas fica exposto; aprender mercado financeiro é habilidade que gera renda fora da escala.",
-  "atualizadoEm": "2026-10-19T07:20:00-03:00",
+  "atualizadoEm": "2026-10-20T11:24:50-03:00",
   "categoria": "Trabalho",
   "cena": "congresso",
   "coletadoEm": "2026-10-15T11:01:00-03:00",
@@ -2022,7 +2430,7 @@
   "fatos": [
    "Congresso promulgou em 16 de outubro a Emenda Constitucional 141, em sessão com a presença de Lula (Gazeta do Povo; A Crítica).",
    "Senado aprovou a PEC em dois turnos em 14 de outubro, com 75 votos a 1.",
-   "Primeira etapa vale 60 dias após a promulgação, em dezembro, antes do Natal: jornada de 42 horas e dois dias de folga.",
+   "A redução da jornada para 42 horas semanais entrará em vigor em 15 de dezembro, antes do Natal.",
    "A redução para 40 horas semanais entra 12 meses depois; não pode haver corte de salário.",
    "Ministério do Trabalho estima 14,8 milhões de trabalhadores formais na escala 6x1; FGV Ibre vê folha até 20% mais cara em negócios de 44 horas.",
    "InfoMoney (O Globo): com salário mínimo de R$ 1.621, a hora sobe de R$ 7,37 para R$ 8,11 na jornada de 40 horas; MEIs ficam de fora da redução."
@@ -2084,7 +2492,7 @@
    "CLT",
    "Autônomos"
   ],
-  "resumo": "Emenda foi promulgada nesta sexta (16/10); jornada cai para 42 horas em dezembro e 40 horas um ano depois, sem corte de salário.",
+  "resumo": "Emenda foi promulgada na sexta (16/10); jornada cai para 42 horas em 15 de dezembro e 40 horas um ano depois, sem corte de salário.",
   "segmento": "trader",
   "status": "atualizada",
   "titulo": "Fim da escala 6x1 é promulgado e jornada cai para 40 horas",
