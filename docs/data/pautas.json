@@ -1,6 +1,213 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Entenda as marcas mais lembradas na Black Friday",
+  "resumo": "Uma pesquisa da Kantar revela as marcas que se destacam na Black Friday. Isso mostra a importância do posicionamento no mercado para o sucesso nas vendas.",
+  "fatos": [
+   "Os eletrônicos lideram a lembrança de marcas na Black Friday com 38,4%.",
+   "Os marketplaces aparecem em segundo lugar, com 29,1% das citações.",
+   "A pesquisa ouviu 800 brasileiros que compraram durante a Black Friday de 2025.",
+   "Samsung foi citada como a marca mais lembrada por 19,6% dos consumidores.",
+   "52% dos consumidores compraram tanto online quanto em lojas físicas.",
+   "92% dos entrevistados fizeram alguma aquisição online."
+  ],
+  "numeros": [
+   {
+    "valor": "38,4",
+    "rotulo": "lembrança de eletrônicos"
+   },
+   {
+    "valor": "29,1",
+    "rotulo": "lembrança de marketplaces"
+   },
+   {
+    "valor": "800",
+    "rotulo": "entrevistados na pesquisa"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Medo de perder oportunidades na Black Friday",
+  "angulo": "Entender as marcas lembradas na Black Friday pode ajudar a estruturar estratégias de marketing mais eficazes nas próximas campanhas.",
+  "gancho": "Você sabe quais marcas *dominam a Black Friday*?",
+  "ideias": [
+   "Marcas que mais vendem na Black Friday",
+   "A importância do marketing na Black Friday",
+   "Como se destacar entre as grandes marcas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:51:41-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/as-marcas-mais-lembradas-pelos-consumidores-na-black-friday-segundo-a-kantar",
+  "publicadoEm": "2026-10-21T14:46:40-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Meta condenada pode afetar empresas no mercado digital",
+  "resumo": "A Meta foi condenada a pagar R$ 135 bilhões por enganar usuários sobre proteção de dados. Essa situação destaca a importância da transparência e confiança no mercado digital.",
+  "fatos": [
+   "A Meta foi condenada a pagar cerca de R$ 135 bilhões devido a mais de 43 milhões de violações de dados em um caso relacionado à Cambridge Analytica.",
+   "O tribunal do Novo México inicialmente definiu uma multa de R$ 1,19 trilhão, que foi reduzida posteriormente.",
+   "Esse escândalo levantou preocupações sobre práticas de coleta e tratamento de dados pessoais pelas empresas.",
+   "A Meta já havia resolvido outros processos relacionados ao mesmo escândalo, totalizando quase R$ 91,8 bilhões em acordos anteriores.",
+   "O caso destaca a necessidade de empresas investirem em segurança e transparência em dados para evitar penalidades e manter a confiança do consumidor."
+  ],
+  "numeros": [
+   {
+    "valor": "135000000000",
+    "rotulo": "multas impostas à Meta"
+   },
+   {
+    "valor": "43000000",
+    "rotulo": "violações de dados identificadas"
+   },
+   {
+    "valor": "1190000000000",
+    "rotulo": "valor da multa inicial"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder clientes e enfrentar multas pesadas",
+  "angulo": "Este caso mostra como a falha na gestão de dados pode impactar severamente suas finanças e reputação. Conheça como a VPR Vision Prime pode ajudar a evitar lacunas na sua estratégia digital.",
+  "gancho": "Meta em apuros: *o futuro do marketing digital*",
+  "ideias": [
+   "Como a Meta pode impactar o seu negócio",
+   "A importância da transparência no marketing",
+   "Como se proteger de penalidades no digital"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:51:41-03:00",
+  "url": "https://olhardigital.com.br/2026/10/21/pro/meta-e-condenada-a-pagar-r-135-bilhoes-em-caso-ligado-a-cambridge-analytica/",
+  "publicadoEm": "2026-10-21T15:18:05-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Vulnerabilidades podem afetar sua empresa e vendas",
+  "resumo": "Falhas no PHP resultam em interrupções em serviços digitais, impactando operações. É crucial estar preparado para evitar perdas financeiras. O marketing digital se torna essencial nesse cenário.",
+  "fatos": [
+   "Falhas graves de segurança no PHP levaram órgãos públicos brasileiros a suspender serviços digitais.",
+   "A Anatel retirou o Sistema Eletrônico de Informações (SEI) do ar devido às vulnerabilidades.",
+   "O Tribunal Regional Federal da 1ª Região também suspendeu acessos externos ao SEI.",
+   "As falhas recebem nota 9,2 em gravidade e podem permitir ataques a servidores.",
+   "Vários países já suspenderam serviços digitais por causa das mesmas vulnerabilidades."
+  ],
+  "numeros": [
+   {
+    "valor": "9,2",
+    "rotulo": "nota de gravidade das falhas"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de vendas e acesso a clientes por falhas em sistemas",
+  "angulo": "A segurança digital fragilizada pode resultar em grandes perdas; investir em marketing digital é fundamental para manter a presença online e mitigar riscos.",
+  "gancho": "Atenção: *sistemas em risco* para seu negócio!",
+  "ideias": [
+   "Segurança digital: como proteger seu negócio?",
+   "Mudanças que o PHP traz para o varejo",
+   "Evite perdas financeiras com marketing digital"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:51:41-03:00",
+  "url": "https://canaltech.com.br/seguranca/falhas-no-php-chegam-ao-brasil-e-fazem-anatel-e-tribunais-suspenderem-sistemas/",
+  "publicadoEm": "2026-10-21T15:48:39-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Falhas no PHP: sua empresa está segura?",
+  "resumo": "Duas falhas graves no PHP podem comprometer milhões de sites, levando a riscos de invasão e roubo de dados. Empresários precisam se atentar à segurança de seus sites.",
+  "fatos": [
+   "As vulnerabilidades permitem que criminosos invadam servidores sem precisar de senhas.",
+   "69,3% dos sites cuja linguagem de programação é conhecida utilizam PHP.",
+   "Mais de 43% das páginas da internet usam WordPress, que depende do PHP.",
+   "A nota de gravidade das falhas é 9,2 de 10, uma das mais altas.",
+   "Governos de pelo menos sete países retiraram serviços digitais do ar preventivamente."
+  ],
+  "numeros": [
+   {
+    "valor": "43",
+    "rotulo": "porcentagem de páginas que usam WordPress"
+   },
+   {
+    "valor": "9,2",
+    "rotulo": "nota de gravidade das falhas"
+   },
+   {
+    "valor": "7",
+    "rotulo": "número de países que suspenderam serviços"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Prestadores de serviço",
+   "Comércio local"
+  ],
+  "dor": "apenas um ataque pode comprometer suas vendas e informações",
+  "angulo": "A segurança dos sites é fundamental para evitar prejuízos financeiros, mostrando como nossa assessoria pode ajudar na proteção e atualizações constantes.",
+  "gancho": "seu site está *em risco*?",
+  "ideias": [
+   "Como proteger seu site contra invasões?",
+   "A importância da atualização de sistemas",
+   "Entenda as vulnerabilidades do PHP!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:51:41-03:00",
+  "url": "https://canaltech.com.br/seguranca/alerta-mundial-falhas-no-php-colocam-milhoes-de-sites-em-risco/",
+  "publicadoEm": "2026-10-21T12:00:03-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-08"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Transformação digital: a chave para reagir no mercado",
   "resumo": "Fabiana Feitosa, nova CIO da Danone Brasil, fala sobre a importância da tecnologia e a necessidade de um marketing eficiente. A integração entre áreas é fundamental para entender o consumidor.",
   "fatos": [
@@ -333,6 +540,208 @@
   "publicadoEm": "2026-10-21T09:31:52-03:00",
   "data": "2026-10-21",
   "id": "2026-10-21-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "R$ 6,5 bilhões para setores afetados por tarifas",
+  "resumo": "Medida Provisória destina R$ 6,5 bilhões para setores impactados por tarifas dos EUA. O valor é parte do Plano Brasil Soberano e atenderá demanda crescente por recursos.",
+  "fatos": [
+   "A Medida Provisória 1397/26 libera R$ 6,5 bilhões do Orçamento de 2026.",
+   "O crédito é para financiar setores afetados pelo tarifaço dos EUA sobre exportações.",
+   "O BNDES indicou que a demanda por recursos foi muito maior do que o esperado."
+  ],
+  "numeros": [
+   {
+    "valor": "6,5 bilhões",
+    "rotulo": "crédito disponível"
+   },
+   {
+    "valor": "13,5 bilhões",
+    "rotulo": "recursos totais previstos"
+   },
+   {
+    "valor": "120 dias",
+    "rotulo": "prazo para aprovação da MP"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "aumento da carga tributária e desvalorização do real",
+  "angulo": "Com a dependência de salários, o ambiente de negócios se torna desafiador. Aprender sobre mercado financeiro oferece alternativas para minimizar riscos.",
+  "gancho": "Descubra como *sobreviver ao tarifaço*",
+  "ideias": [
+   "Como o tarifaço pode afetar seu negócio",
+   "Estratégias para driblar a crise econômica",
+   "Aprenda a investir e aumentar sua renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:51:41-03:00",
+  "url": "https://www.camara.leg.br/noticias/1312754-medida-provisoria-destina-mais-r-65-bilhoes-para-setores-afetados-por-tarifaco-dos-eua",
+  "publicadoEm": "2026-10-21T15:59:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Nova lei traz alívio para microempreendedores",
+  "resumo": "A nova lei sancionada oferece perdão de dívidas para MEIs, aumentando o limite de faturamento e promovendo alívio financeiro. Essa mudança pode impactar positivamente a economia dos empreendedores.",
+  "fatos": [
+   "A lei aprovada traz perdão de dívidas com a União para microempreendedores individuais (MEIs).",
+   "Cerca de 4 milhões de MEIs poderão ter suas dívidas perdoadas, beneficiando 17,6 milhões de empreendedores.",
+   "O limite anual de faturamento do MEI aumentará de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028.",
+   "Microempreendedores poderão agora contratar até dois empregados, facilitando a expansão dos negócios.",
+   "Mais de R$ 18,7 bilhões em dívidas serão perdoados, com um valor médio de débito de aproximadamente R$ 3,4 mil."
+  ],
+  "numeros": [
+   {
+    "valor": "17,6 milhões",
+    "rotulo": "MEIs que podem ser beneficiados"
+   },
+   {
+    "valor": "4 milhões",
+    "rotulo": "MEIs com dívidas perdoadas"
+   },
+   {
+    "valor": "R$ 18,7 bilhões",
+    "rotulo": "valor total das dívidas perdoadas"
+   },
+   {
+    "valor": "R$ 3,4 mil",
+    "rotulo": "valor médio das dívidas dos MEIs"
+   },
+   {
+    "valor": "78 a 0",
+    "rotulo": "votos no Senado"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "medo de não conseguir pagar dívidas e manter o negócio",
+  "angulo": "Com essa mudança, empreendedores podem enxergar novas oportunidades além do salário fixo. Aprender o mercado financeiro pode ser um caminho para expandir seus ganhos.",
+  "gancho": "lei *alivia dívidas* de microempreendedores",
+  "ideias": [
+   "Como a nova lei pode ajudar seu negócio",
+   "MEIs e o impacto do perdão de dívidas",
+   "Descubra as oportunidades com o novo limite de faturamento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:51:41-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei",
+  "publicadoEm": "2026-10-21T13:33:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Nova lei apoia microempreendedores e melhora negócios",
+  "resumo": "A nova lei aumenta o faturamento do MEI, permite perdão de dívidas e facilita contratações. Mudanças prometem impactar positivamente a formalização e geração de renda.",
+  "fatos": [
+   "A Lei Complementar 238 de 2026 amplia o limite de faturamento do MEI de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028.",
+   "O perdão de dívidas com a União abrange débitos até 13 de outubro de 2026, incluindo juros e multas.",
+   "A nova lei permite a contratação de até dois empregados com salário mínimo ou piso da categoria.",
+   "Facilita a participação de micro e pequenas empresas em licitações públicas com regras específicas."
+  ],
+  "numeros": [
+   {
+    "valor": "81, 110, 140",
+    "rotulo": "limites de faturamento do MEI em R$"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Empresários",
+   "Profissionais liberais"
+  ],
+  "dor": "medo de dívidas e dificuldades para crescer",
+  "angulo": "A legislação traz novas oportunidades para microempreendedores, incentivando a formalização e o crescimento. Conheça as opções do mercado financeiro para complementar sua renda sem depender apenas do negócio.",
+  "gancho": "*A nova lei que muda tudo para os MEIs*",
+  "ideias": [
+   "Entenda a nova lei do MEI",
+   "O que muda para seu negócio?",
+   "Dívidas perdoadas: como se beneficiar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:51:41-03:00",
+  "url": "https://www12.senado.leg.br/noticias/materias/2026/10/21/nova-lei-amplia-limite-de-faturamento-do-mei-e-preve-perdao-de-dividas",
+  "publicadoEm": "2026-10-21T15:50:47-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "ISS no PIS/Cofins: impacto de R$ 35,4 bi",
+  "resumo": "O julgamento no STF sobre a inclusão do ISS no PIS/Cofins pode impactar em até R$ 35,4 bilhões. O placar atual está empatado em 5 a 5.",
+  "fatos": [
+   "O STF está julgando se o ISS deve ser incluído na base de cálculo do PIS/Cofins.",
+   "A estimativa de impacto financeiro para a União em caso de derrota é de R$ 35,4 bilhões.",
+   "O julgamento está empatado em 5 a 5, aguardando o voto do ministro Luiz Fux para desempatar."
+  ],
+  "numeros": [
+   {
+    "valor": "35,4 bilhões",
+    "rotulo": "impacto financeiro para a União"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais"
+  ],
+  "dor": "aumento de impostos que compromete a renda",
+  "angulo": "Com a possível exclusão do ISS, você pode ter uma folga no orçamento, mostrando que entender o mercado financeiro é fundamental para lidar com essas mudanças.",
+  "gancho": "*Mudanças fiscais que afetam seu bolso!*",
+  "ideias": [
+   "O que a mudança no ISS significa para sua empresa?",
+   "Como o PIS/Cofins pode impactar sua renda?",
+   "Entenda a importância do mercado financeiro nesse cenário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T16:51:41-03:00",
+  "url": "https://www.infomoney.com.br/brasil/stf-comeca-a-julgar-exclusao-do-iss-da-base-do-pis-cofins-impacto-e-de-r-354-bi/",
+  "publicadoEm": "2026-10-21T16:12:37-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-05"
  },
  {
   "segmento": "trader",

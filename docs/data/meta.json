@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-21T11:43:30-03:00",
+  "ultimaColeta": "2026-10-21T16:51:41-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Governo destina R$ 6,49 bilhões para exportação; Crédito extra pode aliviar o custo de vida; Nova isenção no Imposto de Renda pode ajudar seu bolso.",
+  "mensagem": "4 pauta(s) nova(s): ISS no PIS/Cofins: impacto de R$ 35,4 bi; Nova lei apoia microempreendedores e melhora negócios; Nova lei traz alívio para microempreendedores.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-21T16:51:41-03:00",
    "2026-10-21T11:43:30-03:00",
    "2026-10-20T21:13:13-03:00",
    "2026-10-20T16:47:07-03:00",
@@ -18,21 +19,21 @@
    "2026-10-19T19:10:00-03:00",
    "2026-10-19T13:13:00-03:00",
    "2026-10-19T07:20:00-03:00",
-   "2026-10-16T11:30:00-03:00",
-   "2026-10-16T11:19:00-03:00"
+   "2026-10-16T11:30:00-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-21T11:43:30-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-10-21T16:51:41-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Vulnerabilidade no PHP: o que fazer agora?; Como o TikTok Shop pode impactar suas vendas?; Desemprego na divisão de games do XBOX.",
+  "mensagem": "4 pauta(s) nova(s): Falhas no PHP: sua empresa está segura?; Vulnerabilidades podem afetar sua empresa e vendas; Meta condenada pode afetar empresas no mercado digital.",
   "falhas": [
    "E-Commerce Brasil (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-21T16:51:41-03:00",
    "2026-10-21T11:43:30-03:00",
    "2026-10-20T21:13:13-03:00",
    "2026-10-20T16:47:07-03:00",
@@ -43,8 +44,7 @@
    "2026-10-19T19:10:00-03:00",
    "2026-10-19T13:13:00-03:00",
    "2026-10-19T07:20:00-03:00",
-   "2026-10-16T11:30:00-03:00",
-   "2026-10-16T11:19:00-03:00"
+   "2026-10-16T11:30:00-03:00"
   ]
  }
 }
