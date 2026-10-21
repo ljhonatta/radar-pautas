@@ -150,6 +150,19 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
 @media (max-width:640px){.top{min-height:160px;padding:20px 16px 16px}}
 .offscreen{position:fixed;left:-30000px;top:0;pointer-events:none}
 @media (prefers-reduced-motion:reduce){.track{transition:none}}
+/* área segura: o conteúdo nunca passa do bloco .bd (margens do feed) */
+.sl .bd{overflow:hidden}
+.sl .hdr{flex:none}
+.sl .lab,.sl .eb,.sl .bigl{font-size:calc(25px * var(--t))}
+.sl .fnt{font-size:calc(20px * var(--t))}
+.sl .bigl{letter-spacing:.16em;line-height:1.4;max-height:2.8em;overflow:hidden}
+.sl .stat .sv{min-width:0;max-width:62%;overflow:hidden}
+.sl .bign,.sl .wm,.sl .pc .pv{overflow:hidden}
+.sl .h,.sl .p,.sl .tx,.sl .pt,.sl .st,.sl .pi b,.sl .pi span,.sl .duo .v,.sl .cq,.sl .qt,.sl .eq .q,.sl .cmp>div{overflow-wrap:break-word;min-width:0}
+.sl.aperta .tx{max-height:calc(1.36em * 6);overflow:hidden}
+.sl.aperta .p{max-height:calc(1.42em * 4);overflow:hidden}
+.sl.aperta .pi span,.sl.aperta .pt,.sl.aperta .st,.sl.aperta .duo .v{max-height:calc(1.35em * 2);overflow:hidden}
+
 
 /* ===== SLIDE 1080×1350 · estrutura no .L-<layout>, cor nas variáveis do segmento · --t = ajuste do texto ===== */
 .sl{width:1080px;height:1350px;position:relative;overflow:hidden;background:var(--bg);color:var(--txt);font-family:"Montserrat",sans-serif;--t:1}
@@ -776,8 +789,13 @@ function slideHTML(d,s,i){
  }
  return `<div class="sl L-${lay} V-${P.v} ${s.tipo}" style="${vars}"><div class="fx">${decoHTML(lay,i)}</div>${tk}${extra}${idx}${ico}<div class="bd">${hdr?`<div class="hdr">${hdr}</div>`:""}<div class="cnt">${body}</div></div>${ft}</div>`;
 }
-function fit(el){if(!el)return;const bd=el.querySelector(".bd");if(!bd)return;let t=1;el.style.setProperty("--t","1");
- let g=0;while(bd.scrollHeight>bd.clientHeight+2&&t>.58&&g++<14){t-=.04;el.style.setProperty("--t",t.toFixed(2));}}
+function fit(el){if(!el)return;const bd=el.querySelector(".bd");if(!bd)return;let t=1;el.classList.remove("aperta");el.style.setProperty("--t","1");
+ /* largura: número grande, título ou logo-texto que não cabem encolhem só eles */
+ const larg=()=>el.querySelectorAll(".bign,.sv,.pv,.wm,.h,.bo2").forEach(x=>{x.style.fontSize="";if(x.scrollWidth>x.clientWidth+2){const f=parseFloat(getComputedStyle(x).fontSize);x.style.fontSize=(f*x.clientWidth/x.scrollWidth*.97).toFixed(1)+"px";}});
+ const sobra=()=>bd.scrollHeight>bd.clientHeight+2;
+ larg();let g=0;while(sobra()&&t>.5&&g++<14){t-=.04;el.style.setProperty("--t",t.toFixed(2));larg();}
+ /* último recurso: corta parágrafos longos em vez de invadir a margem */
+ if(sobra()){el.classList.add("aperta");larg();}}
 /* ================= ESTADO ================= */
 let db=null,sample=null,downloads=null,assets=null,mcp=null;
 let SEG="trader",PAUTAS=[],COLETA={},CONFIG={},MARCA={},HIST=[],VHIST=[];
@@ -957,6 +975,18 @@ function sampleErr(e){const c=e?.code;if(c==="no_key")return "Coloque sua chave 
 function pautaTxt(p){if(!p)return `Notícia: ${deck.pauta?.titulo||""} (${deck.pauta?.fonte||""}).`;
  return `TÍTULO: ${p.titulo}\nFONTE: ${p.fonte} · ${p.data||""} · ${p.url||""}\nRESUMO: ${p.resumo||""}\nFATOS CONFIRMADOS:\n${(p.fatos||[]).map(f=>"- "+f).join("\n")}\nNÚMEROS DA FONTE: ${(p.numeros||[]).map(n=>`${n.valor} (${n.rotulo})`).join("; ")||"nenhum além dos fatos"}\nQUEM SENTE: ${(p.publico||[]).join(", ")} · DOR: ${p.dor||""}\nÂNGULO SUGERIDO: ${p.angulo||""}`;}
 const REGRAS=`REGRAS: nunca invente números, percentuais, datas, votos, leis ou fontes; use só o que está na notícia. Se faltar número para um tipo que pede número, use outro tipo. Não prometa ganhos, não diga "fique rico", não recomende ativo nenhum, não ataque pessoas nem partidos (trate governo e leis pelo efeito no bolso). Linguagem de Instagram em português do Brasil, direta, frases curtas, sem cara de coach.`;
+function cw(t,n){t=String(t??"").trim();const w=t.split(/\s+/);if(w.length<=n)return t;let r=w.slice(0,n).join(" ").replace(/[,;:.–-]+$/,"");if((r.match(/\*/g)||[]).length%2)r=r.replace(/\*([^*]*)$/,"$1");return r+"…";}
+function limita(s){const L={titulo:s.tipo==="capa"?10:8,sub:26,eyebrow:5,rotulo:4,legenda:7,texto:s.tipo==="texto"?50:40,intro:20,statTexto:18,fecho:22,frase:16,fonte:8,notasTitulo:3,colA:3,colB:3};
+ for(const k in L)if(typeof s[k]==="string")s[k]=cw(s[k],L[k]);
+ if(typeof s.numero==="string"&&s.numero.replace(/\*/g,"").length>14)s.numero=cw(s.numero,3);
+ if(typeof s.statValor==="string"&&s.statValor.length>12)s.statValor=cw(s.statValor,2);
+ if(Array.isArray(s.passos))s.passos=s.passos.slice(0,4).map(p=>({...p,t:cw(p?.t,5),d:cw(p?.d,16)}));
+ if(Array.isArray(s.linhas))s.linhas=s.linhas.slice(0,5).map(x=>({item:cw(x?.item,4),antes:cw(x?.antes,4),depois:cw(x?.depois,4)}));
+ if(Array.isArray(s.notas))s.notas=s.notas.slice(0,2).map(x=>({k:cw(x?.k,3),v:cw(x?.v,14)}));
+ if(Array.isArray(s.barras))s.barras=s.barras.slice(0,3).map(x=>({...x,texto:cw(x?.texto,14)}));
+ if(Array.isArray(s.chips))s.chips=s.chips.slice(0,6).map(x=>cw(x,3));
+ if(Array.isArray(s.equacao))s.equacao=s.equacao.slice(0,3).map(x=>cw(x,4));
+ return s;}
 function promptDeck(n){const M=marcaDe(deck.seg),S=SEGS[deck.seg];
  return `Você é estrategista de conteúdo de captação para Instagram.
 CONTEXTO DO PERFIL: ${S.ctx}
@@ -977,7 +1007,7 @@ TIPOS (campos exatos):
 - texto: {"tipo":"texto","ticker":[...],"rotulo":"// ...","titulo":"...","texto":"até 45 palavras","fonte":"..."}
 ticker: 3 a 5 itens {"k":"RÓTULO","v":"valor"} no estilo de terminal de cotação, ex {"k":"6x1","v":"▼"}, {"k":"JORNADA","v":"44h → 40h"}, {"k":"RADAR","v":"// DD.MM.AA"}. Use ▲ ▼ →.
 Todo slide (menos a capa) pode ter "icone" (ícone 3D), uma de: ${Object.keys(ICONES).join(", ")}.
-Títulos: até 7 palavras, 1 ou 2 palavras-chave entre *asteriscos*. Use cada tipo no máximo uma vez, exceto texto.
+LIMITES RÍGIDOS (o slide é 1080×1350 e o texto excedente é cortado): respeite o número de palavras de cada campo; "legenda" do fato tem no máximo 6 palavras em CAIXA ALTA separadas por ·, nunca uma frase; "numero" tem no máximo 10 caracteres. Títulos: até 7 palavras, 1 ou 2 palavras-chave entre *asteriscos*. Use cada tipo no máximo uma vez, exceto texto.
 legenda (OBRIGATÓRIA, escreva primeiro): gancho forte na primeira linha, 2 a 3 parágrafos curtos, CTA "Comente ${M.key}", linha "Fonte: <veículo>." e, na última linha, no máximo 3 hashtags, todas em letras minúsculas e sem acento.
 ${REGRAS}
 Responda só JSON, com a legenda antes dos slides: {"legenda":"...","slides":[...]}`;}
@@ -991,7 +1021,7 @@ async function gerarLegenda(){if(!sample){deck.legenda=PAUTA_ATUAL?legendaLocal(
 async function gerar(){if(!deck)return;if(!sample){setStatus("genStatus","A IA não está disponível nesta visualização.","err");return;}
  const n=deck.n;genCtl?.abort();genCtl=new AbortController();$("busy").hidden=false;$("btnGerar").disabled=true;$("btnParar").hidden=false;setStatus("genStatus","Escrevendo…");
  try{const r=await sample.json(promptDeck(n),{signal:genCtl.signal,modelTier:"complex",cache:false});
-  const sl=(r?.slides||[]).filter(s=>s&&TIPOS[s.tipo]&&s.tipo!=="cta").slice(0,n-1);if(!sl.length)throw {code:"invalid_json"};
+  const sl=(r?.slides||[]).filter(s=>s&&TIPOS[s.tipo]&&s.tipo!=="cta").slice(0,n-1).map(limita);if(!sl.length)throw {code:"invalid_json"};
   const capa=sl.find(s=>s.tipo==="capa");if(capa){if(CENAS[capa.cena]&&deck.capa.cena!=="img"&&deck.capa.cena!=="ia")deck.capa.cena=capa.cena;if(Array.isArray(capa.labels))deck.capa.labels=capa.labels.slice(0,3);delete capa.cena;delete capa.labels;}
   deck.slides=[...sl,{tipo:"cta"}];deck.legenda=limpaLegenda(r.legenda);deck.exemplo=false;cur=0;touch();renderEditor();setStatus("genStatus","Carrossel pronto. Troque o modelo acima ou edite cada slide.","ok");
   if(!deck.legenda)gerarLegenda();}
