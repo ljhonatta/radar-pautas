@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" preserveAspectRatio="xMaxYMid slice">
+ <defs>
+  <radialGradient id="bg" cx="78%" cy="50%" r="70%"><stop offset="0" stop-color="#121a33"/><stop offset=".55" stop-color="#090d1a"/><stop offset="1" stop-color="#05070e"/></radialGradient>
+  <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6a13"/><stop offset="1" stop-color="#3d6bff"/></linearGradient>
+  <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff6a13" stop-opacity="0"/><stop offset="1" stop-color="#ff6a13" stop-opacity=".55"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="2.5"/></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#3d6bff" stroke-opacity=".09"/></pattern>
+ </defs>
+ <rect width="1200" height="400" fill="url(#bg)"/>
+ <rect width="1200" height="400" fill="url(#grid)"/>
+ <!-- velas ao fundo -->
+ <g filter="url(#soft)" opacity=".45">
+  <path d="M520 330 L580 300 L640 312 L700 270 L760 284 L820 236" fill="none" stroke="#3d6bff" stroke-width="3"/>
+  <g fill="#3d6bff"><rect x="536" y="300" width="10" height="34"/><rect x="596" y="290" width="10" height="26"/><rect x="656" y="296" width="10" height="30"/><rect x="716" y="258" width="10" height="34"/></g>
+  <g fill="#ff6a13"><rect x="566" y="306" width="10" height="22"/><rect x="626" y="300" width="10" height="20"/><rect x="686" y="264" width="10" height="28"/><rect x="746" y="270" width="10" height="24"/></g>
+ </g>
+ <!-- radar -->
+ <g transform="translate(940 200)">
+  <circle r="300" fill="#ff6a13" opacity=".05"/>
+  <g fill="none" stroke="url(#ring)" filter="url(#glow)">
+   <circle r="170" stroke-width="3"/>
+   <circle r="118" stroke-width="2" stroke-opacity=".75"/>
+   <circle r="66" stroke-width="2" stroke-opacity=".6"/>
+  </g>
+  <g stroke="#9db7ff" stroke-opacity=".18"><line x1="-170" y1="0" x2="170" y2="0"/><line x1="0" y1="-170" x2="0" y2="170"/></g>
+  <g>
+   <path d="M0 0 L170 0 A170 170 0 0 0 85 -147.2 Z" fill="url(#sweep)"/>
+   <line x1="0" y1="0" x2="170" y2="0" stroke="#ffb067" stroke-width="3" filter="url(#glow)"/>
+   <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="8s" repeatCount="indefinite"/>
+  </g>
+  <circle r="6" fill="#ffb067" filter="url(#glow)"/>
+  <!-- pautas detectadas -->
+  <g filter="url(#glow)">
+   <rect x="58" y="-112" width="16" height="12" rx="2" fill="#ff6a13"/>
+   <rect x="-104" y="-60" width="14" height="10" rx="2" fill="#ff6a13" opacity=".85"/>
+   <rect x="96" y="38" width="16" height="12" rx="2" fill="#3d6bff"/>
+   <rect x="-40" y="92" width="14" height="10" rx="2" fill="#3d6bff" opacity=".85"/>
+   <circle cx="132" cy="-40" r="7" fill="#9db7ff"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+ </g>
+</svg>

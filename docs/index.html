@@ -1,4 +1,4 @@
-<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<!doctype html><html><head><meta charset=utf8><link rel="icon" type="image/png" href="favicon.png"><link rel="apple-touch-icon" href="icone-180.png"><meta name="theme-color" content="#05070e"><meta name="apple-mobile-web-app-title" content="Radar"><meta name="description" content="Notícias que viram conteúdo: pautas, carrosséis e vídeos para a Trader School e a VPR."><meta property="og:title" content="Radar de Pautas"><meta property="og:description" content="Notícias que viram conteúdo: pautas, carrosséis e vídeos."><meta property="og:image" content="https://ljhonatta.github.io/radar-pautas/og.jpg"><meta property="og:image:width" content="800"><meta property="og:image:height" content="420"><meta name="twitter:card" content="summary_large_image"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <title>Radar de Pautas</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Archivo:wght@400;600;800;900&family=Anton&family=Playfair+Display:wght@600;800&family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap">
@@ -144,6 +144,10 @@ details.fontes summary{cursor:pointer;font-weight:600;font-size:13.5px}
 .step{display:grid;grid-template-columns:26px minmax(0,1fr);gap:10px;align-items:start}
 .step::before{counter-increment:st;content:counter(st);width:26px;height:26px;border-radius:50%;background:var(--accent);color:var(--accent-ink);font:700 13px var(--f-mono);display:grid;place-items:center}
 footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}
+.top{background:linear-gradient(90deg,rgba(5,7,14,.92) 0%,rgba(5,7,14,.55) 45%,rgba(5,7,14,0) 70%),#05070e url(capa.svg) right center/cover no-repeat;border-radius:16px;padding:28px 24px 22px;min-height:190px;align-items:flex-end}
+.top h1{color:#fff;font-size:clamp(28px,4.2vw,42px)}
+.top .status{color:#c3cde6}
+@media (max-width:640px){.top{min-height:160px;padding:20px 16px 16px}}
 .offscreen{position:fixed;left:-30000px;top:0;pointer-events:none}
 @media (prefers-reduced-motion:reduce){.track{transition:none}}
 
