@@ -1,6 +1,544 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Transformação digital: a chave para reagir no mercado",
+  "resumo": "Fabiana Feitosa, nova CIO da Danone Brasil, fala sobre a importância da tecnologia e a necessidade de um marketing eficiente. A integração entre áreas é fundamental para entender o consumidor.",
+  "fatos": [
+   "Fabiana Feitosa foi promovida a CIO da Danone Brasil em setembro.",
+   "A Danone investe em tecnologia para atender rapidamente às expectativas dos consumidores.",
+   "Estudos mostram que o Brasil inova mais do que seu PIB cresce, apresentando um grande potencial.",
+   "Feitosa destaca a importância da colaboração entre marketing e tecnologia.",
+   "A governança e a inteligência artificial são fundamentais para a transformação digital nas empresas."
+  ],
+  "numeros": [],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Atrasos na adaptação às novas demandas do consumidor.",
+  "angulo": "A transformação tecnológica se torna essencial e um marketing eficaz pode ser a resposta para negócios mais lucrativos. Conheça como podemos ajudar.",
+  "gancho": "Você está preparado para *reagir rapidamente ao mercado*?",
+  "ideias": [
+   "Tecnologia: o futuro do marketing",
+   "Como a IA pode transformar seu negócio",
+   "Desafios do marketing na era digital"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/fabiana-feitosa-da-danone-precisamos-reagir-rapidamente",
+  "publicadoEm": "2026-10-21T06:00:35-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ferramentas de anúncios que podem revolucionar suas vendas",
+  "resumo": "Conheça as novas ferramentas de licitação e orçamento do Google que podem ajudar sua estratégia de anúncios nas festas. Insights valiosos para impulsionar suas vendas.",
+  "fatos": [
+   "O Google lançou novos recursos de licitação e orçamento para anúncios.",
+   "Essas ferramentas visam otimizar campanhas durante o período de festas.",
+   "A discussão inclui estratégias de orçamento orientadas pela demanda.",
+   "O episódio do podcast desmistifica conceitos sobre períodos de aprendizado e licitação."
+  ],
+  "numeros": [],
+  "fonte": "Google Blog",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas por falta de estratégias eficientes",
+  "angulo": "A nova ferramenta de anúncios pode ser a chave para transformar suas vendas durante as festividades, despertando o interesse em gestão estratégica e melhorias.",
+  "gancho": "Descubra como *otimizar suas vendas* nesta temporada",
+  "ideias": [
+   "Como as novas ferramentas do Google podem ajudar seu negócio?",
+   "Estratégias de orçamento para alavancar vendas nas festas",
+   "Desmistificando o tempo de aprendizado nos anúncios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+  "publicadoEm": "2026-10-21T10:00:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-06"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Booking.com sob investigação: o que isso significa para as vendas?",
+  "resumo": "A Comissão Europeia investiga a Booking.com por fraudes em anúncios. Para os empresários, é um alerta sobre a importância da gestão de plataformas digitais e proteção ao consumidor.",
+  "fatos": [
+   "A Comissão Europeia abriu uma investigação sobre a Booking.com por anúncios fraudulentos.",
+   "Os reguladores verificarão se a plataforma combate adequadamente fraudes e ofertas irregulares.",
+   "Multas podem chegar a 6% do faturamento anual global, se constatadas violações.",
+   "A investigação surge após análise de dados de risco apresentados pela empresa nos últimos quatro anos.",
+   "Henna Virkkunen, da Comissão Europeia, enfatiza a proteção do consumidor durante a reserva de viagens."
+  ],
+  "numeros": [
+   {
+    "valor": "6",
+    "rotulo": "% do faturamento anual global em multas"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "medo de fraudes que deterioram a confiança do consumidor",
+  "angulo": "O caso da Booking.com evidencia a necessidade de proteção eficiente ao consumidor e gestão segura nas plataformas digitais, materiais para refletir sobre o cuidado que sua empresa deve ter.",
+  "gancho": "Booking.com sob *investigação por fraudes*!",
+  "ideias": [
+   "Você confia nos anúncios online?",
+   "Fraudes que podem afetar seu negócio!",
+   "O que aprendemos com a Booking.com?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://olhardigital.com.br/2026/10/21/seguranca/booking-com-vira-alvo-da-uniao-europeia-por-anuncios-e-golpes-falsos/",
+  "publicadoEm": "2026-10-21T10:26:31-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Novidades do Gemini para Pequenas e Médias Empresas",
+  "resumo": "O Google trouxe inovações na ferramenta Gemini para auxiliar PMEs com relatórios financeiros e criação de recursos visuais. Confira como isso pode simplificar sua rotina de negócios.",
+  "fatos": [
+   "O Google lançou novidades do Gemini focadas em PMEs, trazendo um novo painel unificado.",
+   "O painel permite visualizar insights financeiros e comportamentos de clientes rapidamente.",
+   "A IA cria ativos visuais baseados na identidade da empresa para posts e e-mails.",
+   "O programa Negócio em dIA, em parceria com Tera, Itaú e Sebrae, capacitará um milhão de empreendedores."
+  ],
+  "numeros": [
+   {
+    "valor": "1.000.000",
+    "rotulo": "empreendedores beneficiados pelo programa"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de competitividade sem inovação em negócios",
+  "angulo": "Com as inovações do Gemini, seu negócio pode se modernizar e alcançar novos patamares, ficando à frente da concorrência.",
+  "gancho": "Transforme seu negócio com *inovação em IA*",
+  "ideias": [
+   "Como o Gemini pode ajudar sua PME?",
+   "Atualize-se: Novidades Google para negócios!",
+   "Todo pequeno empreendedor precisa conhecer isso!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-pacote-de-recursos-para-ajudar-empreendedores-autonomos/",
+  "publicadoEm": "2026-10-21T09:18:04-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Desemprego na divisão de games do XBOX",
+  "resumo": "A divisão de games do XBOX enfrenta mais demissões enquanto se prepara para lançamentos futuros. A incerteza pode impactar investimentos e estratégias de marketing.",
+  "fatos": [
+   "A CEO do XBOX, Asha Sharma, planeja três novas demissões na divisão de games.",
+   "Esse seria o segundo ciclo de demissões desde a reestruturação anunciada em julho, que cortou 3,2 mil colaboradores.",
+   "Em setembro, 268 cargos foram eliminados na divisão.",
+   "Novas demissões estão previstas para este mês, novembro e janeiro de 2027.",
+   "Um novo XBOX Helix está programado para ser lançado em 2027."
+  ],
+  "numeros": [
+   {
+    "valor": "3200",
+    "rotulo": "total de demissões anunciadas"
+   },
+   {
+    "valor": "268",
+    "rotulo": "cargos eliminados em setembro"
+   },
+   {
+    "valor": "1600",
+    "rotulo": "demissões instantâneas inicialmente"
+   },
+   {
+    "valor": "1800",
+    "rotulo": "preço estimado do novo console"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Indústria"
+  ],
+  "dor": "perda financeira e de competitividade no mercado",
+  "angulo": "A reestruturação da divisão de games da Microsoft destaca a necessidade de adaptação rápida no mercado. Empreendedores podem ficar vulneráveis se não investirem em estratégias robustas.",
+  "gancho": "XBOX enfrenta *novas demissões*!",
+  "ideias": [
+   "Impacto das demissões no XBOX",
+   "Mercado de games: como se preparar",
+   "O futuro do XBOX e suas inovações"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://canaltech.com.br/games/microsoft-planeja-3-novas-rodadas-de-demissoes-no-xbox-nos-proximos-meses/",
+  "publicadoEm": "2026-10-21T10:10:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como o TikTok Shop pode impactar suas vendas?",
+  "resumo": "A Lancôme investe no TikTok Shop e registra aumento nas vendas. Entender essa tendência é essencial para empresários que buscam inovar suas estratégias de marketing.",
+  "fatos": [
+   "Lancôme estreia no TikTok Shop com a linha La Vie Est Belle Hair & Body Mists.",
+   "As vendas de produtos de beleza no TikTok cresceram 151% no primeiro semestre de 2026 em relação ao semestre anterior.",
+   "57,8% dos usuários do TikTok afirmaram comprar produtos após vê-los em vídeos.",
+   "O Brasil é o maior mercado de beleza da América Latina.",
+   "Vendas de body splashes cresceram quase cinco vezes mais do que o mercado de beleza em 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "151",
+    "rotulo": "crescimento percentual nas vendas de beleza"
+   },
+   {
+    "valor": "57,8",
+    "rotulo": "percentual de usuários que compraram após ver vídeos"
+   },
+   {
+    "valor": "5",
+    "rotulo": "vezes de crescimento de body splashes em comparação ao mercado de beleza"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "O que sua empresa perde ao não acompanhar tendências digitais.",
+  "angulo": "Compreender como plataformas como TikTok influenciam o consumo é essencial para empresários que desejam otimizar suas estratégias de marketing e vendas.",
+  "gancho": "*Vendas em alta* no TikTok!",
+  "ideias": [
+   "Aproveite o crescimento do TikTok Shop",
+   "Como adaptar sua estratégia de vendas",
+   "A importância de estar na frente do consumidor digital"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/como-a-lancome-quer-vender-beleza-de-luxo-pelo-tiktok-shop",
+  "publicadoEm": "2026-10-21T06:00:02-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Vulnerabilidade no PHP: o que fazer agora?",
+  "resumo": "Uma grave falha no PHP ameaça tirar milhares de sites do ar, destacando a necessidade urgente de atualizações de segurança. Empresas precisam agir rapidamente para proteger seus negócios.",
+  "fatos": [
+   "Mais de 1,3 milhão de servidores estão vulneráveis a invasões imediatamente devido a falhas críticas no PHP.",
+   "As falhas têm uma nota de gravidade de 9,2 de 10 e afetam versões do PHP desde a 5.",
+   "Desenvolvedores devem instalar a atualização de segurança assim que estiver disponível, pois não é feita automaticamente pelo WordPress.",
+   "Cibersegurança recomenda que empresas isolem aplicações acessíveis pela internet até que a atualização seja aplicada.",
+   "Tentativas de exploração já estão sendo observadas e pode haver uma onda de ataques em massa após a divulgação da correção."
+  ],
+  "numeros": [
+   {
+    "valor": "1,3 milhão",
+    "rotulo": "servidores vulneráveis"
+   },
+   {
+    "valor": "9,2",
+    "rotulo": "nota de gravidade das falhas"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda de acesso e dados sensíveis por falhas de segurança",
+  "angulo": "As vulnerabilidades no PHP evidenciam a importância de ter um site seguro e atualizado, mostrando que o investimento em gestão digital é essencial.",
+  "gancho": "Cuidado! *Seu site pode estar vulnerável*",
+  "ideias": [
+   "Como proteger seu site das novas ameaças?",
+   "A vulnerabilidade no PHP e seu impacto nos negócios",
+   "A importância de atualizar sistemas de segurança"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://olhardigital.com.br/2026/10/21/seguranca/falha-grave-no-php-ameaca-tirar-milhares-de-sites-do-ar-nesta-quarta/",
+  "publicadoEm": "2026-10-21T09:31:52-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Incentivo tributário para contratação de jovens profissionais",
+  "resumo": "Um projeto de lei no Senado visa oferecer incentivos fiscais para empresas que contratarem aprendizes e recém-formados. A medida pode ajudar a gerar mais empregos e aliviar custos para empresários.",
+  "fatos": [
+   "O projeto PL 237/2026 permite um abatimento de 60% a 80% em dois tributos: IRPJ e CSLL.",
+   "Esse incentivo tributário tem validade de cinco anos.",
+   "A proposta estima a criação de 350 mil novos postos de trabalho."
+  ],
+  "numeros": [
+   {
+    "valor": "60 a 80%",
+    "rotulo": "abatimentos fiscais incentivados"
+   },
+   {
+    "valor": "350 mil",
+    "rotulo": "novos postos de trabalho estimados"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "temor de aumento nos custos e falta de mão de obra qualificada",
+  "angulo": "O incentivo fiscal pode facilitar a contratação de novos talentos e otimizar a margem do seu negócio, mostrando que aprender sobre o mercado financeiro é essencial para superar desafios.",
+  "gancho": "Descubra *como reduzir custos* em sua empresa",
+  "ideias": [
+   "Reduza custos com contratação de jovens",
+   "Como gerar empregos e economizar?",
+   "Incentivo tributário: saiba mais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-cria-incentivo-a-empresa-que-contrata-aprendiz-e-recem-formado",
+  "publicadoEm": "2026-10-20T18:03:48-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-21-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Nova isenção no Imposto de Renda pode ajudar seu bolso",
+  "resumo": "Projeto de Lei aumenta limite de isenção do IR na venda de bens pequenos. A proposta ainda precisa passar pela aprovação da Câmara e do Senado.",
+  "fatos": [
+   "O limite de isenção do Imposto de Renda na venda de bens será elevado de R$ 35 mil para R$ 70 mil.",
+   "O atual limite de isenção não é atualizado desde 2005.",
+   "A proposta também prevê atualização anual pelo IGP-M.",
+   "O projeto ainda está em análise nas comissões da Câmara dos Deputados.",
+   "Deputado Fábio Macedo destacou que o limite está defasado em relação à inflação acumulada."
+  ],
+  "numeros": [
+   {
+    "valor": "70 mil",
+    "rotulo": "novo limite de isenção do IR"
+   },
+   {
+    "valor": "35 mil",
+    "rotulo": "antigo limite de isenção do IR"
+   },
+   {
+    "valor": "20 anos",
+    "rotulo": "tempo sem atualização do limite atual"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "aumento de impostos reduzindo sua margem de lucro",
+  "angulo": "Com a limitação atual, muitos não conseguem gerar renda extra. Aprender sobre investimentos pode ser a saída para evitar a dependência do salário.",
+  "gancho": "Novidade no *Imposto de Renda* pode impactar você",
+  "ideias": [
+   "Como a mudança no IR pode beneficiar você",
+   "Entenda a nova proposta de isenção do IR",
+   "Prepare-se: mudanças no Imposto de Renda à vista"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://www.camara.leg.br/noticias/1309937-projeto-dobra-limite-de-isencao-de-imposto-de-renda-na-venda-de-bens-de-pequeno-valor",
+  "publicadoEm": "2026-10-21T10:10:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Crédito extra pode aliviar o custo de vida",
+  "resumo": "O governo lançou um crédito extra de R$ 6,494 bilhões para apoiar empresas afetadas por tarifas. Isso pode impactar o custo de vida e as oportunidades de negócios.",
+  "fatos": [
+   "O presidente editou a medida provisória 1.397 para liberar R$ 6,494 bilhões em crédito.",
+   "O crédito é destinado a exportadores e fornecedores do Plano Brasil Soberano.",
+   "O plano visa apoiar empresas impactadas por tarifas impostas pelos Estados Unidos.",
+   "Além disso, a MP 1.398 abre R$ 300 milhões para despesas em defesa civil."
+  ],
+  "numeros": [
+   {
+    "valor": "6.494",
+    "rotulo": "milhões em crédito extraordinário"
+   },
+   {
+    "valor": "300",
+    "rotulo": "milhões para defesa civil"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Aumento no custo de vida e dificuldade em manter negócios",
+  "angulo": "O crédito extraordinário pode ajudar empresas a reduzir custos e abrir novas oportunidades, mostrando a importância de investir no mercado financeiro para complementar a renda.",
+  "gancho": "O que o *crédito extraordinário* significa para você?",
+  "ideias": [
+   "Como o crédito pode ajudar sua empresa?",
+   "Entenda o impacto da medida no seu bolso",
+   "Dicas para aproveitar oportunidades no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://www.infomoney.com.br/politica/lula-edita-mp-com-r-6494-bi-em-credito-extra-para-plano-brasil-soberano/",
+  "publicadoEm": "2026-10-21T11:27:01-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo destina R$ 6,49 bilhões para exportação",
+  "resumo": "O governo libera R$ 6,49 bilhões para apoiar exportadores no Brasil. O crédito visa ajudar empresas e trabalhadores impactados por sobretaxas externas.",
+  "fatos": [
+   "O crédito extraordinário é de R$ 6,49 bilhões.",
+   "Os recursos foram disponibilizados para pessoas físicas e empresas exportadoras.",
+   "A medida faz parte do Plano Brasil Soberano.",
+   "A autorização está na Medida Provisória nº 1.397.",
+   "Os recursos serão geridos pelo Fundo de Garantia à Exportação."
+  ],
+  "numeros": [
+   {
+    "valor": "6,49 bilhões",
+    "rotulo": "crédito para exportação"
+   },
+   {
+    "valor": "1.397",
+    "rotulo": "Medida Provisória"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "perder oportunidades de negócio por falta de capital",
+  "angulo": "Com o aumento das dificuldades em manter a rentabilidade, entender como o mercado financeiro pode ajudar é essencial para garantir um fluxo de caixa saudável.",
+  "gancho": "*Aprenda a usar o mercado financeiro* para lidar com",
+  "ideias": [
+   "Como o crédito extraordinário pode ajudar seu negócio?",
+   "Descubra o que é o Plano Brasil Soberano!",
+   "Dicas para empresários se adaptarem a novas medidas do governo."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T11:43:30-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-destina-r-649-bilhoes-setor-de-exportacao",
+  "publicadoEm": "2026-10-21T10:36:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Como deep fakes afetam negócios no Instagram?",
   "resumo": "O Instagram luta contra deep fakes, o que impacta artistas e criadores. A falta de soluções adequadas gera insegurança em relação à propriedade intelectual no ambiente digital.",
   "fatos": [

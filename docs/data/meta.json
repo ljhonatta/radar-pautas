@@ -1,38 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-20T21:13:13-03:00",
-  "novas": 0,
-  "atualizadas": 0,
-  "status": "sem_novas",
-  "mensagem": "Nenhuma pauta nova relevante desde 20/10 às 16:47.",
-  "falhas": [],
-  "manual": false,
-  "historico": [
-   "2026-10-20T21:13:13-03:00",
-   "2026-10-20T16:47:07-03:00",
-   "2026-10-20T11:32:41-03:00",
-   "2026-10-20T11:24:50-03:00",
-   "2026-10-19T22:31:59-03:00",
-   "2026-10-19T22:28:10-03:00",
-   "2026-10-19T19:10:00-03:00",
-   "2026-10-19T13:13:00-03:00",
-   "2026-10-19T07:20:00-03:00",
-   "2026-10-16T11:30:00-03:00",
-   "2026-10-16T11:19:00-03:00",
-   "2026-10-16T11:15:00-03:00"
-  ]
- },
- "vpr": {
-  "ultimaColeta": "2026-10-20T21:13:13-03:00",
+  "ultimaColeta": "2026-10-21T11:43:30-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Como a Americanas se recupera e o impacto no marketing; iFood aposta em Black Friday e performance de vendas; Prejuízo bilionário alerta sobre riscos com IA.",
-  "falhas": [
-   "E-Commerce Brasil (ConnectTimeout)"
-  ],
+  "mensagem": "4 pauta(s) nova(s): Governo destina R$ 6,49 bilhões para exportação; Crédito extra pode aliviar o custo de vida; Nova isenção no Imposto de Renda pode ajudar seu bolso.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-21T11:43:30-03:00",
    "2026-10-20T21:13:13-03:00",
    "2026-10-20T16:47:07-03:00",
    "2026-10-20T11:32:41-03:00",
@@ -43,8 +19,32 @@
    "2026-10-19T13:13:00-03:00",
    "2026-10-19T07:20:00-03:00",
    "2026-10-16T11:30:00-03:00",
-   "2026-10-16T11:19:00-03:00",
-   "2026-10-16T11:15:00-03:00"
+   "2026-10-16T11:19:00-03:00"
+  ]
+ },
+ "vpr": {
+  "ultimaColeta": "2026-10-21T11:43:30-03:00",
+  "novas": 7,
+  "atualizadas": 0,
+  "status": "ok",
+  "mensagem": "7 pauta(s) nova(s): Vulnerabilidade no PHP: o que fazer agora?; Como o TikTok Shop pode impactar suas vendas?; Desemprego na divisão de games do XBOX.",
+  "falhas": [
+   "E-Commerce Brasil (HTTPError)"
+  ],
+  "manual": false,
+  "historico": [
+   "2026-10-21T11:43:30-03:00",
+   "2026-10-20T21:13:13-03:00",
+   "2026-10-20T16:47:07-03:00",
+   "2026-10-20T11:32:41-03:00",
+   "2026-10-20T11:24:50-03:00",
+   "2026-10-19T22:31:59-03:00",
+   "2026-10-19T22:28:10-03:00",
+   "2026-10-19T19:10:00-03:00",
+   "2026-10-19T13:13:00-03:00",
+   "2026-10-19T07:20:00-03:00",
+   "2026-10-16T11:30:00-03:00",
+   "2026-10-16T11:19:00-03:00"
   ]
  }
 }
