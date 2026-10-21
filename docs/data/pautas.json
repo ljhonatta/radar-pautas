@@ -1,6 +1,223 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Como deep fakes afetam negócios no Instagram?",
+  "resumo": "O Instagram luta contra deep fakes, o que impacta artistas e criadores. A falta de soluções adequadas gera insegurança em relação à propriedade intelectual no ambiente digital.",
+  "fatos": [
+   "O chefe do Instagram, Adam Mosseri, admite a dificuldade em combater vídeos criados por IA.",
+   "Perfis digitais imitam comediantes reais e direcionam públicos para plataformas de conteúdo adulto.",
+   "Alguns perfis virtuais acumulam centenas de milhares de seguidores e geram renda a partir de conteúdos plagiados.",
+   "Mosseri reconhece que a identificação de conteúdos artificiais é cada vez mais desafiadora.",
+   "A Meta já anunciou que dará prioridade a conteúdos originais nas recomendações do aplicativo."
+  ],
+  "numeros": [
+   {
+    "valor": "375000",
+    "rotulo": "seguidores de Tiffany Sloane"
+   },
+   {
+    "valor": "250000",
+    "rotulo": "seguidores de Aylen Skye"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Restaurantes",
+   "Profissionais liberais",
+   "Comércio local",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "Receio de perder a autenticidade e renda com plágios",
+  "angulo": "Com a evolução de deep fakes, empresários precisam se adaptar. O mercado é cada vez mais competitivo, e investir em proteção de marca e estratégias digitais é essencial.",
+  "gancho": "Como *proteger sua marca* de deep fakes?",
+  "ideias": [
+   "Entenda o impacto dos deep fakes em sua receita",
+   "Cuidados com vídeos criados por IA",
+   "Desenvolvendo uma proteção digital eficaz"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:13:13-03:00",
+  "url": "https://canaltech.com.br/mercado/perdido-chefao-do-instagram-diz-que-nao-sabe-como-combater-deep-fakes-na-plataforma/",
+  "publicadoEm": "2026-10-20T17:02:00-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Prejuízo bilionário alerta sobre riscos com IA",
+  "resumo": "A Anthropic registrou um prejuízo enorme devido a custos elevados com infraestrutura de IA, destacando a necessidade de gestão financeira cuidadosa e planejamento estratégico para o futuro das empresas nesse setor.",
+  "fatos": [
+   "A Anthropic teve um prejuízo líquido de R$ 435,8 bilhões no primeiro semestre de 2026, apesar de ter ampliado sua receita.",
+   "Mais de R$ 388,8 bilhões do prejuízo estão relacionados a ajustes contábeis de instrumentos financeiros.",
+   "A empresa prevê gastar mais de R$ 3,24 trilhões com infraestrutura de IA nos próximos anos.",
+   "A dependência de grandes fornecedores para capacidade computacional pode criar riscos financeiros significativos.",
+   "A oposição política à construção de centros de dados pode afetar a expansão da Anthropic."
+  ],
+  "numeros": [
+   {
+    "valor": "435,8 bilhões",
+    "rotulo": "prejuízo da Anthropic"
+   },
+   {
+    "valor": "3,24 trilhões",
+    "rotulo": "custos de infraestrutura de IA"
+   },
+   {
+    "valor": "388,8 bilhões",
+    "rotulo": "ajustes contábeis"
+   },
+   {
+    "valor": "160 bilhões",
+    "rotulo": "compromisso com chips do Google"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Custo crescente de tecnologia e incertezas financeiras.",
+  "angulo": "A situação da Anthropic destaca a importância de uma estratégia robusta de marketing e gestão para mitigar riscos e atender às demandas do mercado de IA.",
+  "gancho": "Enfrentando *desafios bilionários* com IA?",
+  "ideias": [
+   "Como evitar prejuízos bilionários? Conheça as estratégias.",
+   "A importância da gestão financeira no setor de IA.",
+   "Desafios e oportunidades com a expansão de infraestrutura de IA."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:13:13-03:00",
+  "url": "https://olhardigital.com.br/2026/10/20/pro/anthropic-revela-prejuizo-de-r-435-8-bilhoes-e-custos-bilionarios-com-ia/",
+  "publicadoEm": "2026-10-20T17:58:34-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "iFood aposta em Black Friday e performance de vendas",
+  "resumo": "A campanha de Black Friday do iFood oferece descontos expressivos e eleva a expectativa de vendas. Empresários devem atentar para estratégias de marketing durante essa fase crucial do ano.",
+  "fatos": [
+   "O iFood iniciou a campanha de Black Friday em 19 de outubro, com ofertas até 30 de novembro.",
+   "Os descontos vão até 80% durante a Black Week e Black Friday.",
+   "A plataforma tem 65 milhões de clientes ativos e registra 180 milhões de pedidos mensais.",
+   "O setor de Mercado e Atacado projeta aumento de 61% nas vendas durante a campanha.",
+   "A categoria Farmácia cresceu mais de 70% até o momento, refletindo novas oportunidades no e-commerce."
+  ],
+  "numeros": [
+   {
+    "valor": "24 bilhões",
+    "rotulo": "investimentos do iFood até 2027"
+   },
+   {
+    "valor": "180 milhões",
+    "rotulo": "pedidos mensais do iFood"
+   },
+   {
+    "valor": "61%",
+    "rotulo": "projeção de aumento nas vendas no Mercado e Atacado"
+   },
+   {
+    "valor": "70%",
+    "rotulo": "crescimento da categoria Farmácia"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Restaurantes",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perder vendas em períodos promocionais e crescer em um mercado competitivo",
+  "angulo": "Com a Black Friday se aproximando, é crucial para os empresários planejar suas estratégias de marketing e investir em e-commerce para não ficar para trás.",
+  "gancho": "*Descontos incríveis* na Black Friday do iFood!",
+  "ideias": [
+   "Como se preparar para a Black Friday?",
+   "A importância do marketing digital nas promoções",
+   "Estratégias de e-commerce para aumentar as vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:13:13-03:00",
+  "url": "https://canaltech.com.br/apps/ifood-inicia-campanha-de-black-friday-com-ofertas-ate-30-de-novembro/",
+  "publicadoEm": "2026-10-20T16:19:19-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a Americanas se recupera e o impacto no marketing",
+  "resumo": "A Americanas encerrou seu processo de recuperação judicial, mas mudanças estratégicas em marketing são necessárias. O impacto da crise exige atenção ao comportamento do consumidor.",
+  "fatos": [
+   "A Americanas encerrou o processo de recuperação judicial seguido pelo reconhecimento de que cumpriu suas obrigações.",
+   "A empresa enfrentou inconsistências contábeis envolvendo dívidas superiores a R$ 47 bilhões.",
+   "A companhia cancelou patrocínio ao Big Brother Brasil 2023, um de seus principais investimentos anuais.",
+   "Em 2023, a Americanas bateu recorde de vendas na Páscoa mesmo durante a crise.",
+   "A varejista anunciou uma parceria com a MegaMídia Group para acelerar sua operação de ads até 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "47 bilhões",
+    "rotulo": "dívidas da Americanas"
+   },
+   {
+    "valor": "95,9 bilhões",
+    "rotulo": "setor de publicidade desembolsado"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Receios sobre vendas e prejuízos em campanhas de marketing",
+  "angulo": "Com a crise, a Americanas mostra a importância de gestão de marketing eficaz. Independentemente da situação, um planejamento e inovação constantes são essenciais para o sucesso.",
+  "gancho": "A *nova era da Americanas* e suas estratégias",
+  "ideias": [
+   "Transforme crises em oportunidades de vendas",
+   "Aposte em inovação no marketing digital",
+   "Como a Americanas pode te ensinar sobre recuperação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-20T21:13:13-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/a-estrategia-da-americanas-durante-a-recuperacao-judicial",
+  "publicadoEm": "2026-10-20T15:30:46-03:00",
+  "data": "2026-10-20",
+  "id": "2026-10-20-vpr-16"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Crescimento do uso de IA em compras no Brasil",
   "resumo": "A aceitação de agentes de inteligência artificial para compras no Brasil saltou de 39% para 72% entre 2025 e 2026, indicando uma nova era no comércio. Entenda como isso impacta os negócios.",
   "fatos": [
