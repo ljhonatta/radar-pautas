@@ -1,6 +1,231 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Black Friday demanda presença online para vendas.",
+  "resumo": "Sites de ofertas dominam buscas por promoções nesta Black Friday. O empresário precisa se adaptar ao comportamento do consumidor para não perder vendas.",
+  "fatos": [
+   "Nesta Black Friday, a busca por sites de ofertas cresce exponencialmente.",
+   "O comportamento do consumidor está cada vez mais digital.",
+   "Empresários que não investirem em marketing online poderão ficar para trás."
+  ],
+  "numeros": [],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas e clientes para concorrentes online.",
+  "angulo": "A necessidade de um site bem estruturado e gestão de tráfego pago é crucial para aproveitar as oportunidades da Black Friday.",
+  "gancho": "Aproveite a Black Friday: *esteja online!*",
+  "ideias": [
+   "Como se preparar para a Black Friday?",
+   "A importância do e-commerce na Black Friday.",
+   "Dicas para otimizar seu site para vendas."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:43:18-03:00",
+  "url": "https://www.google.com/search?q=Black+Friday+2026%3A+sites+de+ofertas+lideram+busca+por+promo%C3%A7%C3%B5es+E-Commerce+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T11:30:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mastercard apoia PMEs no Brasil com novas estratégias",
+  "resumo": "Com 24 milhões de pequenos negócios, a Mastercard lança iniciativas para apoiar sua evolução. A digitalização e a cibersegurança ganham destaque entre as prioridades do segmento.",
+  "fatos": [
+   "Existem mais de 24 milhões de pequenos negócios ativos no Brasil, representando 96% das empresas do País.",
+   "Essas PMEs respondem por 26,5% do PIB nacional, segundo dados do Sebrae.",
+   "77% das PMEs brasileiras consideram a cibersegurança uma prioridade e 89% buscam mais ferramentas digitais.",
+   "69% preferem aprofundar relacionamentos com clientes em vez de conquistar novos.",
+   "A Mastercard lança a campanha global Dreams, focada em histórias de pequenos negócios."
+  ],
+  "numeros": [
+   {
+    "valor": "24 milhões",
+    "rotulo": "pequenos negócios no Brasil"
+   },
+   {
+    "valor": "26,5%",
+    "rotulo": "do PIB nacional"
+   },
+   {
+    "valor": "77%",
+    "rotulo": "PMEs que priorizam cibersegurança"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de oportunidades em um mercado competitivo",
+  "angulo": "As iniciativas da Mastercard mostram a necessidade de adaptação no mercado, criando um ambiente propício para empresas que buscam crescer com estratégias de marketing eficazes.",
+  "gancho": "Expanda seu *negócio com a Mastercard*",
+  "ideias": [
+   "Como a cibersegurança pode alavancar seu negócio",
+   "A importância da digitalização para pequenas empresas",
+   "Conquiste clientes fiéis antes de novos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:43:18-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/mastercard-amplia-estrategia-para-pmes-no-brasil",
+  "publicadoEm": "2026-10-22T06:00:25-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Chrome alerta sobre sites suspeitos; proteja-se!",
+  "resumo": "Com novas medidas de segurança, o Google Chrome previne fraudes online. Entenda como isso impacta suas vendas e a necessidade de um site seguro.",
+  "fatos": [
+   "O Google Chrome agora alerta os usuários sobre sites suspeitos, evitando golpes e fraudes.",
+   "Os avisos são exibidos para páginas que apresentam padrões similares a links de phishing.",
+   "A IA do Chrome ajuda a identificar ameaças, como atualizações de navegador falsas.",
+   "Alertas variam entre níveis de ameaça, sinalizando tanto sites suspeitos quanto perigosos."
+  ],
+  "numeros": [],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de confiança e vendas para sites suspeitos",
+  "angulo": "A segurança do seu site é crucial para garantir a confiança dos consumidores em tempos de fraudes digitais.",
+  "gancho": "Proteja seu negócio: *sites seguros são essenciais*!",
+  "ideias": [
+   "Como o Chrome protege suas vendas",
+   "A importância de sites seguros para seus clientes",
+   "Evite golpes: dicas de navegação segura"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:43:18-03:00",
+  "url": "https://canaltech.com.br/seguranca/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas/",
+  "publicadoEm": "2026-10-21T19:00:05-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-22-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Por que atualizar seu site é tão importante?",
+  "resumo": "Recentes falhas graves no PHP mostram a vulnerabilidade que pode afetar as vendas. Nesse contexto, a manutenção adequada de sites se torna essencial para evitar prejuízos.",
+  "fatos": [
+   "Duas falhas graves no PHP levaram governos e empresas a tirar sites do ar.",
+   "O PHP é utilizado por 69,3% dos sites cuja linguagem de servidor é conhecida.",
+   "As vulnerabilidades receberam nota 9,2 de 10 em gravidade e podem permitir execução de comandos maliciosos.",
+   "Muitos negócios dependem de aplicações criadas há 10 ou 15 anos, que podem ter problemas de segurança se não atualizadas.",
+   "Sistemas antigos podem acumular dependências que dificultam a manutenção e atualização necessária."
+  ],
+  "numeros": [
+   {
+    "valor": "69,3",
+    "rotulo": "% de sites que usam PHP"
+   },
+   {
+    "valor": "9,2",
+    "rotulo": "nota em gravidade das vulnerabilidades"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "perder vendas e clientes devido a falhas no site",
+  "angulo": "As falhas recentes no PHP ressaltam a necessidade de manter os sites atualizados e seguros, evitando assim perturbações que podem afetar o seu negócio.",
+  "gancho": "Atualize seu site antes que seja tarde!",
+  "ideias": [
+   "Você conhece os riscos de um site desatualizado?",
+   "PHP em alta: seus impactos no seu negócio",
+   "Saiba como evitar vendas perdidas por falhas na tecnologia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:43:18-03:00",
+  "url": "https://canaltech.com.br/seguranca/por-que-quase-70-dos-sites-usam-php-linguagem-que-provocou-alerta-mundial/",
+  "publicadoEm": "2026-10-22T07:30:02-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Explore ROI com o Google Marketing Platform Drop",
+  "resumo": "O Google Marketing Platform Drops traz novidades para aumentar seu ROI em toda a jornada do cliente. Acompanhe e descubra como melhorar sua performance.",
+  "fatos": [
+   "Google Marketing Platform Drops é uma nova série mensal que oferece novidades relevantes.",
+   "O foco é ajudar empresários a obter o melhor ROI.",
+   "As atualizações abrangem desde a construção de consciência até a conversão em vendas."
+  ],
+  "numeros": [],
+  "fonte": "Google Blog",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda financeira devido à falta de eficiência em anúncios",
+  "angulo": "A nova série do Google apresenta estratégias que podem transformar o seu marketing, mas você precisa estar preparado para se adaptar e implementar essas soluções.",
+  "gancho": "Melhore seu ROI com *novas estratégias*",
+  "ideias": [
+   "O que é o Google Marketing Platform Drops?",
+   "Como maximizar seu ROI com anúncios?",
+   "Dicas para impulsionar vendas online"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T11:43:18-03:00",
+  "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
+  "publicadoEm": "2026-10-22T10:00:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Inteligência Artificial: o novo eixo de crescimento dos negócios",
   "resumo": "A IBM elevou sua projeção de receita, destacando o impacto da AI nos negócios. Entenda como a tecnologia pode transformar sua empresa e impulsionar suas vendas.",
   "fatos": [
