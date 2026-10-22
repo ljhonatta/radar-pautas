@@ -1,6 +1,246 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Inteligência Artificial: o novo eixo de crescimento dos negócios",
+  "resumo": "A IBM elevou sua projeção de receita, destacando o impacto da AI nos negócios. Entenda como a tecnologia pode transformar sua empresa e impulsionar suas vendas.",
+  "fatos": [
+   "A IBM registrou receita de US$ 17,1 bilhões, alta de cerca de 5% em relação ao ano anterior.",
+   "O lucro líquido da empresa avançou de US$ 1,74 bilhão para US$ 2,19 bilhões na comparação anual.",
+   "A inteligência artificial já representa cerca de 30% da receita de consultoria da IBM.",
+   "O fluxo de caixa livre da companhia somou US$ 3 bilhões, avanço de US$ 700 milhões em relação ao ano anterior.",
+   "A divisão de infraestrutura teve receita de US$ 3,7 bilhões, alta de 4%."
+  ],
+  "numeros": [
+   {
+    "valor": "3",
+    "rotulo": "milhões de dólares no fluxo de caixa livre"
+   },
+   {
+    "valor": "30",
+    "rotulo": "porcentagem da receita de consultoria vinda de IA"
+   },
+   {
+    "valor": "17,1",
+    "rotulo": "bilhões de dólares em receita total"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perder relevância e oportunidades no mercado competitivo",
+  "angulo": "Entenda como a adoção de inteligência artificial pode se tornar essencial para a sustentabilidade e crescimento do seu negócio, sem deixar nada a desejar aos concorrentes.",
+  "gancho": "Por que você *não pode ignorar a IA*?",
+  "ideias": [
+   "Transforme seu negócio com IA",
+   "Como a tecnologia pode impulsionar suas vendas?",
+   "O futuro é agora: adote soluções inteligentes"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://olhardigital.com.br/2026/10/21/pro/ibm-supera-expectativas-e-eleva-projecao-de-receita-com-software/",
+  "publicadoEm": "2026-10-21T20:13:49-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA autônoma ameaça segurança e negócios locais",
+  "resumo": "Pesquisadores descobriram um agente de IA capaz de realizar ciberataques autônomos, expondo empresas a sérios riscos financeiros e de segurança. Entenda como isso pode impactar seu negócio.",
+  "fatos": [
+   "Um agente de IA consegue executar ciberataques sem intervenção humana.",
+   "Esta ferramenta realiza até 100 mil ações maliciosas como roubo de senhas e exploração de falhas.",
+   "Os ataques foram identificados através de um experimento honeypot que atraiu mais de 127 mil requisições externas.",
+   "O agente utiliza técnicas como LLMjacking para sequestrar modelos de IA e reduzir riscos de detecção.",
+   "Ele combina planejamento por IA com ferramentas de ataque, aumentando a eficácia e a automação dos ataques."
+  ],
+  "numeros": [
+   {
+    "valor": "127000",
+    "rotulo": "requisições externas identificadas"
+   },
+   {
+    "valor": "100000",
+    "rotulo": "ações maliciosas potenciais por ataque"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder dados valiosos e comprometer a segurança financeira",
+  "angulo": "Entender a ameaça de IA nas mãos de hackers pode levar seu negócio a buscar ajuda em segurança digital, planejamento e gestão de dados.",
+  "gancho": "Descubra como *hackers usam IA para ataques*",
+  "ideias": [
+   "Como proteger seu negócio contra ataques de IA",
+   "Os riscos de não ter uma segurança digital sólida",
+   "IA: aliada ou inimiga das empresas?"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://canaltech.com.br/inteligencia-artificial/symantec-descobre-agente-que-sequestra-ias-para-disparar-100-mil-ataques-hacker-sozinho/",
+  "publicadoEm": "2026-10-21T18:06:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A nova IA do Mercado Ads transforma campanhas publicitárias",
+  "resumo": "Mercado Ads lançou a Engage+, uma ferramenta de IA que automatiza campanhas publicitárias, melhorando a segmentação e engajamento com os consumidores. Isso pode impactar seu negócio.",
+  "fatos": [
+   "A Engage+ utiliza IA para automatizar campanhas no topo de funil.",
+   "Ela se baseia na análise preditiva dos interesses de mais de 131 milhões de compradores.",
+   "Os anunciantes podem medir o impacto das campanhas na consideração de marca.",
+   "A solução fornece sugestões de melhorias para aumentar o engajamento.",
+   "A ferramenta está disponível para anunciantes no Brasil e em outros mercados da América Latina."
+  ],
+  "numeros": [
+   {
+    "valor": "131 milhões",
+    "rotulo": "compradores do Mercado Livre"
+   },
+   {
+    "valor": "US$ 2 bilhões",
+    "rotulo": "investimentos na América Latina até 2030"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder oportunidades de engajamento e vendas",
+  "angulo": "Com a nova ferramenta de IA, seu negócio pode alcançar melhores resultados em campanhas de marketing, aumentando a eficácia e potencial de vendas.",
+  "gancho": "*Descubra a nova ferramenta* que pode transformar suas campanhas!",
+  "ideias": [
+   "IA que automatiza campanhas: o que você precisa saber",
+   "Como a Engage+ pode ajudar seu negócio a crescer",
+   "Impacto da análise preditiva nas estratégias de marketing"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://www.meioemensagem.com.br/midia/ia-mercado-ads-automatiza-campanhas",
+  "publicadoEm": "2026-10-21T18:46:50-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Golpe do QR Code: proteja sua empresa agora!",
+  "resumo": "O quishing, golpe que desvia pagamentos via QR Code, ameaça empresários e consumidores. Entenda como se proteger e evitar prejuízos.",
+  "fatos": [
+   "O golpe quishing envolve adulteração de QR Codes que desviam pagamentos para contas de criminosos.",
+   "Este tipo de fraude pode ocorrer em compras online, em estabelecimentos físicos, e até em boletos impressos.",
+   "A Febraban recomenda que consumidores sempre confiram os dados do pagamento antes de concluir transações."
+  ],
+  "numeros": [],
+  "fonte": "Olhar Digital",
+  "categoria": "Consumo",
+  "publico": [
+   "Restaurantes",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "prejuízos financeiros e danos à reputação.",
+  "angulo": "Se infecções de fraude estão crescendo, é urgente proteger seu negócio com uma boa gestão de pagamentos e marketing digital.",
+  "gancho": "Evite fraudes: *como proteger seu negócio*",
+  "ideias": [
+   "5 dicas para evitar golpes com QR Codes",
+   "Quishing: o que é e como se proteger?",
+   "Como garantir a segurança dos pagamentos na sua loja"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://olhardigital.com.br/2026/10/21/seguranca/golpe-do-qr-code-veja-como-criminosos-desviam-pagamentos-e-como-se-proteger/",
+  "publicadoEm": "2026-10-21T20:37:58-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Cuidado! Falhas críticas no PHP colocam negócios em risco",
+  "resumo": "Duas vulnerabilidades graves no PHP podem expor sites a invasores. Empresas devem agir rápido para atualizar e proteger suas plataformas.",
+  "fatos": [
+   "Duas falhas críticas no PHP receberam nota 9,2 de gravidade.",
+   "Governos e empresas retiraram sites do ar para evitar ataques.",
+   "A atualização das correções é fundamental para proteger servidores.",
+   "A NSA alertou que essas vulnerabilidades podem comprometer dados sensíveis.",
+   "Especialistas recomendam identificar e gerenciar todas as instâncias do PHP."
+  ],
+  "numeros": [
+   {
+    "valor": "9,2",
+    "rotulo": "nota de gravidade das vulnerabilidades"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Profissionais liberais",
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Perda de dados e confiança do cliente devido a ataques.",
+  "angulo": "Com as falhas em PHP, os empresários devem perceber a urgência em ter um site seguro e gestão ativa de suas plataformas, além de assessoria que implemente inteligência artificial para proteção.",
+  "gancho": "Impeça invasores com *atualizações urgentes*",
+  "ideias": [
+   "Como as falhas no PHP afetam seu site?",
+   "5 dicas para proteger suas plataformas online!",
+   "A Inteligência Artificial pode salvar seus dados!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://olhardigital.com.br/2026/10/21/seguranca/falhas-criticas-no-php-colocam-sites-em-risco-veja-como-empresas-podem-se-proteger/",
+  "publicadoEm": "2026-10-21T17:55:20-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-vpr-12"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Entenda as marcas mais lembradas na Black Friday",
   "resumo": "Uma pesquisa da Kantar revela as marcas que se destacam na Black Friday. Isso mostra a importância do posicionamento no mercado para o sucesso nas vendas.",
   "fatos": [
@@ -540,6 +780,261 @@
   "publicadoEm": "2026-10-21T09:31:52-03:00",
   "data": "2026-10-21",
   "id": "2026-10-21-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Proposta que beneficia MEIs em dia com INSS",
+  "resumo": "Um projeto no Senado propõe devolução de contribuições previdenciárias para microempreendedores individuais que mantiveram seus pagamentos em dia. A devolução pode ocorrer entre 2024 e 2026.",
+  "fatos": [
+   "O projeto PLP 271/2026 busca beneficiar MEIs com contribuições em dia.",
+   "A devolução será parcial dos valores pagos ao INSS entre outubro de 2024 e outubro de 2026.",
+   "A proposta acontece após um perdão de dívidas de MEIs, incentivando a regularidade."
+  ],
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "anos para devolução"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Previdência",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "Medo de não conseguir recuperar investimentos em previdência",
+  "angulo": "Entender como essa proposta pode ajudar na regularização e valorização do seu MEI é essencial.",
+  "gancho": "Você sabia que pode *recuperar parte das contribuições*?",
+  "ideias": [
+   "Aproveite sua regularidade e ganhe de volta!",
+   "MEI: A importância de manter as contribuições em dia",
+   "Como a proposta do Senado pode beneficiar seu negócio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://www12.senado.leg.br/noticias/videos/2026/10/mei-proposta-quer-beneficiar-quem-pagou-contribuicao-previdenciaria-em-dia",
+  "publicadoEm": "2026-10-21T14:49:02-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Tarifa zero no transporte: um alivio para o bolso?",
+  "resumo": "O governo propõe tarifa zero no transporte coletivo aos fins de semana, destinando R$ 12 bilhões em emendas parlamentares. Medida visa facilitar o acesso ao trabalho e lazer, especialmente após o fim da escala 6x1.",
+  "fatos": [
+   "A proposta de emenda à Constituição busca financiar a gratuidade dos serviços de transporte público urbano.",
+   "Ao menos 26,8% das emendas parlamentares impositivas serão dedicadas a este custeio.",
+   "O Projeto de Lei Orçamentária Anual de 2027 prevê R$ 44,8 bilhões em emendas, com R$ 12 bilhões destinados ao transporte gratuito.",
+   "A medida visa reduzir barreiras financeiras e ampliar o acesso ao trabalho e lazer.",
+   "O governo destaca a importância da gratuidade no contexto do fim da escala 6x1."
+  ],
+  "numeros": [
+   {
+    "valor": "12 bilhões",
+    "rotulo": "recursos para a gratuidade do transporte"
+   },
+   {
+    "valor": "26,8%",
+    "rotulo": "percentual das emendas destinadas ao transporte"
+   },
+   {
+    "valor": "44,8 bilhões",
+    "rotulo": "emendas parlamentares em 2027"
+   }
+  ],
+  "fonte": "Agência Brasil Política",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "aumento das despesas com transporte e lazer",
+  "angulo": "Com a proposta de tarifa zero, você pode aprender como o mercado financeiro pode ser uma alternativa viável para gerar renda e aliviar a pressão das despesas. O aprendizado é essencial neste cenário.",
+  "gancho": "*Gratuidade no transporte* é possível?",
+  "ideias": [
+   "Como a tarifa zero pode mudar sua rotina?",
+   "Aprenda a gerar renda com o mercado financeiro!",
+   "Fim da escala 6x1: saiba como se adaptar!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/governo-envia-ao-congresso-proposta-de-tarifa-zero-no-transporte",
+  "publicadoEm": "2026-10-21T13:49:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novo limite de MEI abre portas para crescimento",
+  "resumo": "A nova lei do MEI aumenta o limite de faturamento e perdoa dívidas, beneficiando milhões de empreendedores no Brasil. O fortalecimento do MEI pode impactar positivamente a economia familiar.",
+  "fatos": [
+   "O limite de faturamento do MEI foi elevado de R$ 80 mil para R$ 110 mil em 2027.",
+   "Em 2028, o faturamento do MEI pode chegar a R$ 140 mil.",
+   "A nova legislação permite a contratação de até dois funcionários com carteira assinada.",
+   "Quase 3 milhões de empreendedores serão beneficiados com o perdão de suas dívidas."
+  ],
+  "numeros": [
+   {
+    "valor": "3 milhões",
+    "rotulo": "empreendedores com dívidas perdoadas"
+   },
+   {
+    "valor": "R$ 140 mil",
+    "rotulo": "faturamento do MEI em 2028"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "aumentos de custos que afetam pequenos negócios",
+  "angulo": "Com as novas regras do MEI, pequenos empreendedores podem expandir suas atividades e ter mais liberdade financeira, aprendizado que pode ser essencial no mercado atual.",
+  "gancho": "*Novas oportunidades com o MEI* e o perdão de",
+  "ideias": [
+   "Aumente seu faturamento com as novas regras do MEI",
+   "Como o perdão de dívidas pode ajudar seu negócio?",
+   "Descubra os benefícios do novo limite do MEI"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://www.camara.leg.br/noticias/1312795-motta-comemora-sancao-de-novo-limite-de-mei-e-o-perdao-de-dividas-de-microempreendedores",
+  "publicadoEm": "2026-10-21T14:29:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novos benefícios para microempreendedores individuais",
+  "resumo": "A Lei Complementar 238/2026, sancionada pelo presidente, traz perdão de dívidas e eleva o teto do MEI. Essa mudança promete facilitar a vida dos pequenos negócios e estimular a economia.",
+  "fatos": [
+   "Estima-se que cerca de 3,6 milhões de microempreendedores sejam beneficiados pelo perdão de dívidas tributárias com a União.",
+   "O limite de faturamento anual do MEI, atualmente em R$ 81 mil, será ampliado em etapas futuras.",
+   "Além do perdão de dívidas, a lei contempla a possibilidade de contratar até dois empregados.",
+   "Um auxílio de até R$ 5 mil será disponibilizado para investimento na estruturação de pequenos negócios entre 2027 e 2030.",
+   "A nova legislação ainda prevê facilidades para participação em compras públicas."
+  ],
+  "numeros": [
+   {
+    "valor": "3.6 milhões",
+    "rotulo": "microempreendedores beneficiados"
+   },
+   {
+    "valor": "81 mil",
+    "rotulo": "atual limite de faturamento do MEI"
+   },
+   {
+    "valor": "5 mil",
+    "rotulo": "auxílio para pequenos negócios"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "ano de início das novas regras"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "medo de não conseguir crescer e prosperar",
+  "angulo": "Entender as novas regras pode ser a chave para o seu sucesso no empreendedorismo. Aprender sobre o mercado financeiro pode ajudar a potencializar seus ganhos sem depender apenas do tradicional.",
+  "gancho": "descubra como o *prospera MEI* pode ajudar você!",
+  "ideias": [
+   "Como o novo teto do MEI muda seu negócio?",
+   "Perdão de dívidas: você está preparado?",
+   "Aproveite as novas oportunidades para MEIs!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/perdao-de-dividas-e-novo-teto-do-mei-entenda-o-que-muda",
+  "publicadoEm": "2026-10-21T18:17:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novo limite para microempreendedores pode mudar negócios",
+  "resumo": "Uma nova lei eleva o teto do MEI e prevê perdão de dívidas, o que pode beneficiar muitos pequenos empresários. entenda como isso pode mudar sua situação financeira.",
+  "fatos": [
+   "A lei aumenta o limite de faturamento do MEI de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028.",
+   "A norma inclui perdão de dívidas com a União até 13 de outubro de 2026, abrangendo juros e multas.",
+   "A nova medida também permite que o MEI contrate até dois empregados, garantindo pelo menos um salário mínimo."
+  ],
+  "numeros": [
+   {
+    "valor": "140000",
+    "rotulo": "novo limite de faturamento do MEI em 2028"
+   },
+   {
+    "valor": "110000",
+    "rotulo": "limite de faturamento do MEI em 2027"
+   },
+   {
+    "valor": "2",
+    "rotulo": "número de empregados que o MEI pode contratar"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "receber menos devido a limitações de faturamento",
+  "angulo": "Com a ampliação do limite de faturamento e o perdão de dívidas, aprender sobre o mercado pode ser um caminho para aumentar sua renda e escapar das amarras tradicionais.",
+  "gancho": "Descubra como *a nova lei pode ajudar seu MEI*",
+  "ideias": [
+   "MEI: Oportunidades com a nova lei",
+   "Saiba como o perdão de dívidas pode beneficiar você",
+   "Aumente seu faturamento: mudanças para MEIs"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-21T21:17:16-03:00",
+  "url": "https://www.camara.leg.br/noticias/1312953-nova-lei-amplia-limite-de-faturamento-do-mei-e-preve-perdao-de-dividas",
+  "publicadoEm": "2026-10-21T20:09:00-03:00",
+  "data": "2026-10-21",
+  "id": "2026-10-21-trader-09"
  },
  {
   "segmento": "trader",
