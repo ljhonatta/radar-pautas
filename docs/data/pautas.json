@@ -1,6 +1,248 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Novas regras do Google impactam anúncios e seu negócio",
+  "resumo": "O Google agora pode usar dados do Gmail e Google Fotos para personalizar anúncios. Essa mudança pode afetar como sua empresa se comunica e é vista na publicidade digital.",
+  "fatos": [
+   "A nova política do Google, em vigor desde 16 de outubro, permite o uso de dados do Gmail e Google Fotos para personalizar anúncios.",
+   "A personalização depende das permissões concedidas pelo usuário e configurações da conta.",
+   "A Inteligência Personalizada pode influenciar a apresentação de anúncios com base em interações em vários serviços.",
+   "Dados como resumos e trechos podem ser utilizados para direcionar publicidade, mas não diretamente os conteúdos originais.",
+   "Anúncios personalizados já estão sendo testados no Modo IA da Pesquisa Google."
+  ],
+  "numeros": [],
+  "fonte": "Canaltech",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Perder a capacidade de segmentar eficazmente seu público-alvo",
+  "angulo": "Entender como as novas regras impactam sua estratégia de marketing é essencial para se manter relevante e competitivo no mercado.",
+  "gancho": "Preparado para entender *as mudanças que afetam seus anúncios*?",
+  "ideias": [
+   "Google altera regras sobre anúncios",
+   "Como usar dados para personalizar sua publicidade",
+   "A nova era dos anúncios personalizados"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://canaltech.com.br/apps/google-muda-regras-e-pode-usar-seus-dados-do-gmail-e-fotos-para-anuncios/",
+  "publicadoEm": "2026-10-23T14:04:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Novas regras buscam controlar 'design viciante' nas plataformas digitais",
+  "resumo": "A ANPD está discutindo regulações para combater o uso compulsivo de dispositivos por crianças. Isso pode impactar estratégias de marketing digital e a forma como se vende online.",
+  "fatos": [
+   "A ANPD vai definir prioridades regulatórias sobre 'design viciante'.",
+   "O objetivo é conter mecanismos que capturam a atenção de crianças e adolescentes.",
+   "A consulta pública da ANPD encerra na segunda-feira (26)."
+  ],
+  "numeros": [],
+  "fonte": "Olhar Digital",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de vendas por falta de adaptação às novas leis",
+  "angulo": "As novas regras exigem que o empresário se atente ao design das suas plataformas, mostrando a importância de uma gestão digital efetiva.",
+  "gancho": "Você está preparado para *novas regras digitais*?",
+  "ideias": [
+   "Impacto da ANPD no varejo",
+   "Como o design da sua loja pode afetar as vendas",
+   "Dicas para adaptar sua estratégia ao novo cenário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://olhardigital.com.br/2026/10/23/pro/seu-filho-nao-consegue-largar-o-celular-design-viciante-esta-na-mira-da-lei-no-brasil/",
+  "publicadoEm": "2026-10-23T15:39:35-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "BMW corta postos; empresários precisam se adaptar",
+  "resumo": "A BMW lançou um plano de demissões voluntárias, visando eliminar 8 mil postos de trabalho para cortar custos. Isso pode impactar o comportamento do consumidor e o mercado.",
+  "fatos": [
+   "A BMW ofereceu indenizações de até 650 mil euros (cerca de R$ 3,6 milhões) para demissões voluntárias.",
+   "A medida visa eliminar 8 mil postos de trabalho até o fim de 2027.",
+   "A empresa busca economizar 1 bilhão de euros anuais a partir de 2028.",
+   "As vendas da BMW caíram 6,3% no terceiro trimestre, com uma queda de 24,8% no mercado chinês.",
+   "A margem operacional da empresa deve aumentar de 3% para 5% até 2028."
+  ],
+  "numeros": [
+   {
+    "valor": "650000",
+    "rotulo": "indenização em euros"
+   },
+   {
+    "valor": "8000",
+    "rotulo": "postos de trabalho cortados"
+   },
+   {
+    "valor": "6.3",
+    "rotulo": "queda nas vendas em %"
+   },
+   {
+    "valor": "24.8",
+    "rotulo": "queda nas vendas na China em %"
+   },
+   {
+    "valor": "100",
+    "rotulo": "meta de margem operacional em %"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder competitividade e atenção do consumidor",
+  "angulo": "As demissões na BMW mostram um ajuste necessário às mudanças do mercado. Empresários devem se adaptar para manter relevância e vendas em um cenário de desafios.",
+  "gancho": "impacto das *demissões na economia*",
+  "ideias": [
+   "Como se adaptar a um mercado em mudança",
+   "Impacto das demissões no comportamento do consumidor",
+   "Preparando sua empresa para novos desafios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://canaltech.com.br/carros/bwm-oferece-fortuna-para-colaboradores-pedirem-demissao-saiba-mais/",
+  "publicadoEm": "2026-10-23T13:00:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crise de hardware afeta vendas e empresas precisam de marketing",
+  "resumo": "Com uma queda de 21% nas vendas de PCs, o cenário é alarmante para o mercado. É essencial para as empresas se adaptarem e investirem em estratégias de marketing eficazes.",
+  "fatos": [
+   "O envio de PCs caiu 21% em um ano, totalizando 57 milhões de unidades.",
+   "As vendas devem cair mais 27% no quarto trimestre em comparação a 2025.",
+   "Os preços de componentes como módulos de 8 GB e SSD NVMe aumentaram até 126%.",
+   "HP sofreu a maior queda, com 31%, seguida pela Dell com 25% e Lenovo com 23%.",
+   "Executivos esperam uma piora até 2028 na situação do mercado de hardware."
+  ],
+  "numeros": [
+   {
+    "valor": "21",
+    "rotulo": "queda percentual nas vendas de PCs"
+   },
+   {
+    "valor": "126",
+    "rotulo": "aumento percentual no preço de SSD NVMe"
+   },
+   {
+    "valor": "57",
+    "rotulo": "milhões de unidades enviadas no terceiro trimestre"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Empresas perdem clientes e oportunidades de venda.",
+  "angulo": "Com a queda nas vendas e aumento de preços, é vital que empresários invistam em marketing, gestão de redes e automação com IA para se destacar em um mercado competitivo.",
+  "gancho": "Venda de PCs em crise: *o que fazer agora?*",
+  "ideias": [
+   "Como o seu e-commerce pode enfrentar a crise?",
+   "Entenda a importância do marketing agora.",
+   "Como a automação pode salvar seu negócio."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://canaltech.com.br/hardware/mercado-de-pcs-enfrenta-pior-fase-em-anos-e-vendas-desabam-21-pior-ainda-esta-por-vir/",
+  "publicadoEm": "2026-10-23T12:08:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Controle do feed: uma necessidade urgente para empresários",
+  "resumo": "Redes sociais como Instagram e TikTok introduzem ferramentas que permitem maior controle sobre o que aparece no feed. Isso pode impactar como as empresas se conectam com seu público-alvo.",
+  "fatos": [
+   "Instagram, Facebook, TikTok e YouTube estão lançando ferramentas para personalização dos feeds.",
+   "Esse movimento responde a críticas sobre recomendações automáticas de conteúdo.",
+   "O Instagram introduziu o recurso 'seu algoritmo', que permite aos usuários indicar temas desejados.",
+   "As plataformas agora têm mais tecnologia para entender solicitações em linguagem natural.",
+   "Ainda há desafios, como distinguir entre interesse real e reações emocionais dos usuários."
+  ],
+  "numeros": [],
+  "fonte": "Olhar Digital",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de controle sobre a comunicação com o público-alvo",
+  "angulo": "Entender e aproveitar essas mudanças nas redes sociais é crucial para conectar-se efetivamente com consumidores e aumentar a visibilidade da marca.",
+  "gancho": "Você *sabe como controlar* seu conteúdo?",
+  "ideias": [
+   "Como personalizar seu feed no Instagram",
+   "A importância de adaptar sua estratégia nas redes sociais",
+   "Você conhece o 'seu algoritmo' do Instagram?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://olhardigital.com.br/2026/10/23/internet-e-redes-sociais/redes-sociais-lancam-funcoes-para-voce-controlar-o-seu-proprio-feed/",
+  "publicadoEm": "2026-10-23T15:39:44-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-08"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Google Planilhas se aprimora com *gráficos de caixa*",
   "resumo": "A nova funcionalidade de gráficos de caixa no Google Planilhas facilita a visualização de dados e melhora a compatibilidade com o Excel. A atualização promete impactar a análise de dados nos negócios.",
   "fatos": [
@@ -334,6 +576,254 @@
   "publicadoEm": "2026-10-23T07:04:00-03:00",
   "data": "2026-10-23",
   "id": "2026-10-23-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Nova lei pode ajudar pequenas empresas a reestruturar dívidas",
+  "resumo": "Projeto de lei em análise busca simplificar a recuperação judicial para pequenas empresas endividadas, facilitando o acesso a soluções de reestruturação financeira.",
+  "fatos": [
+   "O Projeto de Lei 3068/26 cria um procedimento simplificado para recuperação judicial de empresas com dívida de até 1,6 milhão de reais.",
+   "O novo pedido de recuperação só poderá ser feito dois anos após o encerramento do processo anterior.",
+   "O projeto prevê que as custas judiciais sejam pagas ao final do processo, reduzindo os gastos iniciais das empresas.",
+   "As empresas serão classificadas em cinco grupos para tratamento no plano de recuperação.",
+   "O juiz deve tentar conciliar a negociação entre empresa e credores antes de rejeitar o plano ou decretar falência."
+  ],
+  "numeros": [
+   {
+    "valor": "1,6 milhão",
+    "rotulo": "dívida máxima para recuperação"
+   },
+   {
+    "valor": "40",
+    "rotulo": "número máximo de credores"
+   },
+   {
+    "valor": "120",
+    "rotulo": "dias de conciliação prevista"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "a dificuldade em sair do vermelho e manter o negócio ativo",
+  "angulo": "Com a recuperação judicial simplificada, empresários têm uma chance maior de reestruturar suas finanças sem a burocracia que poderia impedi-los de continuar.",
+  "gancho": "entenda como *simplificar suas dívidas*",
+  "ideias": [
+   "Como se beneficiar da nova lei de recuperação judicial",
+   "5 dicas para pequenas empresas superarem crises financeiras",
+   "O que muda com a recuperação judicial simplificada?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://www.camara.leg.br/noticias/1300663-projeto-cria-recuperacao-judicial-simplificada-para-pequenas-dividas",
+  "publicadoEm": "2026-10-23T14:14:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-17"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Real pode valorizar, mas riscos permanecem altos",
+  "resumo": "A proximidade do segundo turno das eleições traz incertezas para o mercado de câmbio. Risco fiscal e volatilidade aumentam a cautela entre investidores após a corrida eleitoral.",
+  "fatos": [
+   "O real se valoriza cerca de 4% frente ao dólar após o primeiro turno.",
+   "A diferença nas pesquisas eleitorais entre os candidatos caiu para entre zero e 2,5 pontos percentuais.",
+   "A volatilidade implícita no câmbio já não é mais justificada pela vantagem do candidato favorito.",
+   "Expectativa de movimentos fortes para bolsa e dólar após a definição do próximo presidente.",
+   "Discussões sobre ajustes fiscais podem ser mais desafiadoras independentemente do vencedor."
+  ],
+  "numeros": [
+   {
+    "valor": "12,2 milhões",
+    "rotulo": "contratos em aberto de opções do EWZ"
+   },
+   {
+    "valor": "0 a 2,5",
+    "rotulo": "diferença nas pesquisas eleitorais"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de segurança financeira e estabilidade no emprego",
+  "angulo": "Entender o mercado financeiro é essencial para se proteger de incertezas e construir uma alternativa de renda que não dependa apenas de um salário fixo.",
+  "gancho": "*Incertezas eleitorais* ameaçam o seu bolso!",
+  "ideias": [
+   "Como o mercado financeiro pode garantir sua estabilidade?",
+   "Entenda os impactos da eleição no seu rendimento!",
+   "Dicas para se proteger das oscilações do mercado."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://www.infomoney.com.br/mercados/real-ainda-pode-subir-apos-eleicao-mas-riscos-aumentam-diz-goldman-sachs/",
+  "publicadoEm": "2026-10-23T16:35:44-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-16"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo destina R$ 6,5 bi a exportadores prejudicados",
+  "resumo": "Medida provisória libera R$ 6,5 bilhões para ajudar exportadores impactados por tarifas dos EUA, beneficiando assim o comércio exterior. Essa ação pode gerar novas oportunidades de negócios.",
+  "fatos": [
+   "A medida provisória 1.397/2026 foi editada recentemente.",
+   "O crédito extraordinário é de R$ 6,5 bilhões.",
+   "Os recursos vão para o Fundo de Garantia à Exportação (FGE).",
+   "A ação visa beneficiar exportadores prejudicados por tarifas aplicadas pelos EUA.",
+   "Essa medida pode impactar o fluxo de exportações brasileiras."
+  ],
+  "numeros": [
+   {
+    "valor": "6.5",
+    "rotulo": "bilhões reais para exportadores"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "dependência de custos altos para exportar",
+  "angulo": "Entender essas movimentações pode ajudar empresários a se adaptarem e explorarem novas oportunidades no mercado internacional, além de desenvolver habilidades para diversificar suas fontes de renda.",
+  "gancho": "*Nova medida* pode ajudar exportadores!",
+  "ideias": [
+   "Como a MP 1.397/2026 pode te ajudar?",
+   "O impacto das tarifas dos EUA nos negócios brasileiros",
+   "Aproveite as oportunidades do comércio exterior"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://www12.senado.leg.br/noticias/audios/2026/10/medida-provisoria-destina-r-6-5-bi-a-exportadores-prejudicados-por-tarifas-dos-eua",
+  "publicadoEm": "2026-10-23T15:14:03-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Petrobras pode aumentar diesel em até 50%",
+  "resumo": "Após as eleições, a Petrobras pode reajustar o preço do diesel em 50%, sendo que atualmente há uma defasagem de 21% em relação ao preço internacional.",
+  "fatos": [
+   "Goldman Sachs alerta para um possível aumento no preço do diesel em 50%.",
+   "Atualmente, o preço praticado no mercado doméstico apresenta defasagem de 21%.",
+   "Importadores recebem R$ 3,52 por litro, enquanto produtores nacionais apenas R$ 2,12.",
+   "Aumento de 50% seria necessário para alinhar os preços à paridade internacional.",
+   "Analistas acreditam que a Petrobras aguardará o resultado das eleições para decidir sobre reajustes."
+  ],
+  "numeros": [
+   {
+    "valor": "50",
+    "rotulo": "percentual potencial de aumento do diesel"
+   },
+   {
+    "valor": "21",
+    "rotulo": "defasagem percentual em relação ao mercado internacional"
+   },
+   {
+    "valor": "3,52",
+    "rotulo": "preço recebido por importadores (R$ por litro)"
+   },
+   {
+    "valor": "2,12",
+    "rotulo": "preço recebido por produtores nacionais (R$ por litro)"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento no custo de transporte e no preço de produtos",
+  "angulo": "Entender o que pode vir a ser a alta nos combustíveis é essencial para se preparar financeiramente e não viver apenas do salário.",
+  "gancho": "*Aumento no diesel* pode impactar seu bolso!",
+  "ideias": [
+   "Como proteger seu orçamento do aumento no diesel",
+   "Estratégias para lidar com o custo de vida em alta",
+   "Investindo em conhecimento para driblar os reajustes"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://exame.com/economia/goldman-sachs-alerta-para-risco-de-petrobras-reajustar-preco-do-diesel-em-50-apos-eleicoes/",
+  "publicadoEm": "2026-10-23T13:20:49-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo planeja perdoar dívidas de setores afetados",
+  "resumo": "O governo vai propor um projeto de lei para perdoar dívidas de eventos, bares e restaurantes, similar ao que fez para os MEIs, visando recuperação econômica e formalização.",
+  "fatos": [
+   "O ministro Paulo Pereira anunciou a proposta de perdão de dívidas para setores penalizados nos últimos anos.",
+   "O novo projeto será encaminhado à Câmara dos Deputados em breve para análise.",
+   "A ideia é incentivar a formalização das empresas, permitindo o recolhimento de tributos.",
+   "O ministro acredita que a proposta é eficaz do ponto de vista social e fiscal.",
+   "Um novo modelo do Simples Nacional também deve ser criado para melhor aproveitar o crescimento das empresas."
+  ],
+  "numeros": [],
+  "fonte": "Agência Câmara",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "dificuldades financeiras e falta de apoio para negócios",
+  "angulo": "Entender como o perdão de dívidas pode afetar seu negócio e abrir portas para investimentos no mercado financeiro é essencial.",
+  "gancho": "Setores afetados buscam *apoio do governo*",
+  "ideias": [
+   "Como a nova lei pode ajudar seu negócio?",
+   "Entenda o perdão de dívidas",
+   "O que esperar do governo para bares e eventos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T16:42:12-03:00",
+  "url": "https://www.camara.leg.br/noticias/1313433-governo-vai-apresentar-projeto-de-lei-para-perdoar-dividas-dos-setores-de-eventos-bares-e-restaurantes",
+  "publicadoEm": "2026-10-23T11:35:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-13"
  },
  {
   "segmento": "trader",
