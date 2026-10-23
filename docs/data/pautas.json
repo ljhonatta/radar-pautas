@@ -1,6 +1,967 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Google Planilhas se aprimora com *gráficos de caixa*",
+  "resumo": "A nova funcionalidade de gráficos de caixa no Google Planilhas facilita a visualização de dados e melhora a compatibilidade com o Excel. A atualização promete impactar a análise de dados nos negócios.",
+  "fatos": [
+   "O Google Planilhas agora suporta gráficos de caixa, facilitando a visualização de dados.",
+   "Os gráficos calculam automaticamente mínimo, máximo, quartis, mediana, média e pontos fora da curva.",
+   "A atualização melhora a compatibilidade com Excel, preservando gráficos de caixa durante importação e exportação.",
+   "Esse recurso pode ser utilizado para analisar pesquisas, notas de estudantes e variações nas vendas.",
+   "A distribuição ocorrerá gradualmente, podendo levar até 15 dias para todos os usuários."
+  ],
+  "numeros": [
+   {
+    "valor": "15",
+    "rotulo": "dias para liberação total"
+   },
+   {
+    "valor": "6",
+    "rotulo": "data de início para domínios programados"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Profissionais liberais",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de eficiência na análise de dados e tomadas de decisão",
+  "angulo": "A nova atualização do Google Planilhas demonstra como ferramentas adequadas podem transformar dados em insights, mostrando a importância de contar com tecnologia para gestão eficiente de informações.",
+  "gancho": "*Gráficos de caixa* revolucionam análise de dados",
+  "ideias": [
+   "Como gráficos de caixa podem ajudar seu negócio",
+   "5 dicas para usar Google Planilhas com eficiência",
+   "A importância de visualizar dados na sua empresa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://canaltech.com.br/apps/google-planilhas-ganha-novo-visual-e-graficos-de-caixa-para-bater-de-frente-com-o-excel/",
+  "publicadoEm": "2026-10-22T18:04:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-23-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Vazamento de dados: como a segurança impacta negócios",
+  "resumo": "O megavazamento da Capcom expôs mais de 11 milhões de contas, evidenciando a importância da segurança digital. Empresas precisam estar atentas para evitar danos financeiros e reputacionais.",
+  "fatos": [
+   "A Capcom sofreu um megavazamento que expôs 11.774.247 contas.",
+   "Cibercriminosos tiveram acesso a e-mails e informações pessoais dos usuários.",
+   "A empresa registrou 196 trocas de senha não autorizadas após o incidente.",
+   "Após o vazamento, uma força-tarefa foi criada para investigar o problema.",
+   "O evento foi registrado na polícia e na Comissão Japonesa de Proteção às Informações Pessoais."
+  ],
+  "numeros": [
+   {
+    "valor": "11.774.247",
+    "rotulo": "contas expostas"
+   },
+   {
+    "valor": "196",
+    "rotulo": "trocas de senha não autorizadas"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Atendimento",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Comércio local"
+  ],
+  "dor": "perda de clientes e danos à imagem da empresa",
+  "angulo": "A segurança digital é crucial para proteger informações e evitar prejuízos. Este caso destaca a necessidade de ter um bom planejamento e assessoria para mitigar riscos.",
+  "gancho": "A Capcom e o *perigo do vazamento de dados*",
+  "ideias": [
+   "O que o vazamento da Capcom ensina sobre segurança?",
+   "Como proteger sua empresa de vazamentos?",
+   "A importância da segurança digital para o seu negócio."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://canaltech.com.br/games/megavazamento-de-dados-na-capcom-tem-117-milhoes-de-contas-expostas/",
+  "publicadoEm": "2026-10-22T16:48:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-23-vpr-06"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a SportyNet se adapta ao TikTok?",
+  "resumo": "A SportyNet firmou parceria com o TikTok para transmitir jogos, ampliando suas transmissões esportivas. A estratégia busca engajar torcedores e diversificar canais de divulgação.",
+  "fatos": [
+   "A SportyNet começará a transmitir jogos das Séries B e C no TikTok a partir de 23 de setembro.",
+   "Os conteúdos incluirão pré-jogo, análise e cobertura extensiva após as partidas.",
+   "O acordo é parte da estratégia de aumentar a distribuição de suas transmissões esportivas."
+  ],
+  "numeros": [
+   {
+    "valor": "23",
+    "rotulo": "data de início das transmissões"
+   },
+   {
+    "valor": "19h45",
+    "rotulo": "horário do pré-jogo"
+   },
+   {
+    "valor": "21h",
+    "rotulo": "horário do início da partida"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Você perde oportunidades se não acompanha tendências de marketing.",
+  "angulo": "Com a nova parceria, é fundamental que empresas se atualizem nas redes sociais para não ficarem para trás, mostrando a importância de investir em marketing digital.",
+  "gancho": "*Aposte no marketing digital* para engajar!",
+  "ideias": [
+   "Como o TikTok impacta a transmissão de esportes?",
+   "Engaje sua audiência com conteúdo ao vivo!",
+   "Por que diversificar canais de marketing é essencial?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://canaltech.com.br/entretenimento/sportynet-fecha-acordo-com-tiktok-para-exibir-jogos-das-series-b-e-c/",
+  "publicadoEm": "2026-10-22T16:56:45-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-23-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Cuidado com as mudanças que afetam o seu negócio!",
+  "resumo": "Leis e a economia impactam diretamente suas vendas e equipe. Saiba como se adaptar!",
+  "fatos": [
+   "Novos filmes e séries, como Cyberpunk: Mercenários 2, geram interesse e discutem a narrativa de 2078 em Night City.",
+   "A corporação Arasaka enfrenta uma grande crise após eventos de Cyberpunk 2077, o que pode impactar a percepção de consumo.",
+   "A pesquisa e desenvolvimento de novas tecnologias, como os Psicófagos, pode influenciar como empresas se adaptam ao novo comportamento do consumidor.",
+   "Tendências de conteúdo e entretenimento são essenciais na construção de comunidades e fidelização de clientes alvo no varejo e no e-commerce.",
+   "Mudanças climáticas e novas legislações podem afetar diretamente a economia e o comportamento do consumidor."
+  ],
+  "numeros": [],
+  "fonte": "Canaltech",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Você pode perder clientes e vendas por falta de adaptação.",
+  "angulo": "Entender as tendências do mercado e o comportamento do consumidor é fundamental para garantir a competitividade do seu negócio.",
+  "gancho": "*Cuidado com as mudanças*, elas podem impactar seu lucro!",
+  "ideias": [
+   "Mudanças que afetam seu lucro!",
+   "Como se adaptar às novas tendências",
+   "A importância do planejamento para novas histórias"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://canaltech.com.br/entretenimento/como-mercenarios-2-se-conecta-ao-universo-de-cyberpunk-2077/",
+  "publicadoEm": "2026-10-22T18:45:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-23-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Acelere sua segurança digital com IA!",
+  "resumo": "O uso de inteligência artificial aumenta a descoberta de vulnerabilidades, encurtando prazos para correções. Empresários devem estar atentos às implicações para os negócios.",
+  "fatos": [
+   "O número de falhas digitais descobertas dobrou em relação ao ano anterior.",
+   "Operatoras de sites estão tirando páginas do ar temporariamente devido a vulnerabilidades.",
+   "A IA permite identificar e explorar vulnerabilidades em poucas horas, em vez de semanas.",
+   "Especialistas preveem meses difíceis para o setor, com uma percepção constante de crises.",
+   "As falhas encontradas por IA podem ser complexas e difíceis de explorar."
+  ],
+  "numeros": [],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "medo de ataques cibernéticos e perda de dados",
+  "angulo": "Com a inteligência artificial acelerando a descoberta de vulnerabilidades, a segurança digital deve ser prioridade. Cada dia perdido pode significar mais riscos. Conheça nossas soluções em marketing e segurança.",
+  "gancho": "Como a *IA pode proteger seu negócio*?",
+  "ideias": [
+   "Segurança cibernética: está sua empresa protegida?",
+   "Vulnerabilidades em alta: o que sua empresa pode fazer?",
+   "Como a IA muda o jogo da segurança digital."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://olhardigital.com.br/2026/10/23/seguranca/falhas-descobertas-por-ia-dobram-e-preocupam-especialistas-em-seguranca/",
+  "publicadoEm": "2026-10-23T10:49:16-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Uber amplia uso de IA com ChatGPT para seus funcionários",
+  "resumo": "A Uber disponibiliza ChatGPT Work para 30 mil funcionários, ampliando a utilização de IA em diversas áreas. Isso pode impactar a eficiência e a produtividade da empresa.",
+  "fatos": [
+   "A Uber testou o ChatGPT Work com mil funcionários antes de expandir o uso.",
+   "Cerca de 80% dos testadores não eram engenheiros de software.",
+   "Em 2025, a empresa gastou US$ 3,4 bilhões em pesquisa e desenvolvimento.",
+   "A adoção de IA entre engenheiros da Uber está próxima de 100%.",
+   "A empresa planeja monitorar os resultados do uso da IA para decidir os próximos passos."
+  ],
+  "numeros": [
+   {
+    "valor": "30.000",
+    "rotulo": "funcionários que usarão ChatGPT Work"
+   },
+   {
+    "valor": "3,4 bilhões",
+    "rotulo": "gastos em P&D em 2025"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de eficiência e competitividade no mercado",
+  "angulo": "Com o uso de IA, as empresas podem otimizar processos e justificar investimentos, tornando-se mais competitivas.",
+  "gancho": "Descubra como *a IA pode transformar seu negócio*",
+  "ideias": [
+   "Como a IA pode otimizar seus processos?",
+   "Os benefícios do ChatGPT para o seu negócio",
+   "Por que investir em inteligência artificial?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://canaltech.com.br/mercado/uber-aposta-tudo-em-ia-e-forca-todos-os-seus-30-mil-funcionarios-a-usarem-chatgpt-work/",
+  "publicadoEm": "2026-10-23T11:02:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Cuidado! Multas de trânsito podem surpreender seu bolso",
+  "resumo": "Infrações podem custar de R$ 293,47 a mais de R$ 35 mil. Conhecer essas penalidades pode evitar surpresas e impactar suas finanças.",
+  "fatos": [
+   "Uma multa gravíssima tem valor-base de R$ 293,47.",
+   "Inflações específicas podem exceder R$ 35 mil.",
+   "Dirigir após consumir álcool pode gerar penalidade de R$ 2.934,70, aumentando em caso de reincidência.",
+   "Bloqueio de via sem autorização pode custar até R$ 35.216,40.",
+   "A reincidência de algumas infrações pode dobrar a multa prevista."
+  ],
+  "numeros": [
+   {
+    "valor": "35.216,40",
+    "rotulo": "multa máxima por reincidência"
+   },
+   {
+    "valor": "2.934,70",
+    "rotulo": "multa por dirigir sob influência"
+   },
+   {
+    "valor": "293,47",
+    "rotulo": "valor-base da multa gravíssima"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder dinheiro com multas inesperadas e altas",
+  "angulo": "Entender a legislação é crucial para planejar melhor seus custos e evitar perdas financeiras na sua empresa.",
+  "gancho": "*Multas altas podem te pegar desprevenido*!",
+  "ideias": [
+   "Veja como evitar multas de trânsito",
+   "Os impactos financeiros das infrações",
+   "Multas de trânsito: o que você precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://canaltech.com.br/carros/multa-mais-cara-do-brasil-pode-passar-de-r-35-mil-veja-o-porque/",
+  "publicadoEm": "2026-10-23T07:04:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Superávit no Orçamento e suas consequências no seu bolso",
+  "resumo": "O superávit primário em 2027 deve seguir firme, refletindo na economia e no emprego. Entenda como isso pode afetar seu negócio ou renda.",
+  "fatos": [
+   "O ministro da Fazenda, Dario Durigan, afirma que o superávit primário de 2027 está mantido.",
+   "Entre as medidas previstas estão reajuste do Bolsa Família e redução de combustíveis.",
+   "Serão remanejados cerca de R$ 20 bilhões na Lei Orçamentária Anual de 2027.",
+   "O governo também planeja ações para regularização de dívidas de famílias e pequenas empresas.",
+   "As iniciativas buscam melhorar a arrecadação sem alterar as regras fiscais."
+  ],
+  "numeros": [
+   {
+    "valor": "200",
+    "rotulo": "bilhões em melhoria das contas públicas desde 2023"
+   },
+   {
+    "valor": "20",
+    "rotulo": "bilhões que serão remanejados na PLOA de 2027"
+   },
+   {
+    "valor": "90",
+    "rotulo": "por cento de desconto em dívidas pelo Desenrola"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "medo de não conseguir lidar com aumentos nas despesas",
+  "angulo": "Aprender a operar no mercado financeiro pode aliviar a pressão da economia, permitindo gerar renda além do salário, sem depender das incertezas do emprego.",
+  "gancho": "Descubra como *a economia pode melhorar sua vida*",
+  "ideias": [
+   "Como o superávit afeta seu bolso?",
+   "Entenda as mudanças no Orçamento de 2027.",
+   "O que esperar da economia nos próximos anos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previsao-de-superavit-no-orcamento-de-2027-esta-mantida-diz-durigan",
+  "publicadoEm": "2026-10-22T17:59:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-23-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Receita abre consulta ao lote residual do IRPF",
+  "resumo": "A Receita Federal liberou consulta ao lote residual do Imposto de Renda, com R$ 531,6 milhões para 184.442 contribuintes. O pagamento ocorre em 30 de outubro.",
+  "fatos": [
+   "O lote contém 184.442 restituições do Imposto de Renda.",
+   "O valor total de restituições é de R$ 531,6 milhões.",
+   "Serão priorizados 5.424 idosos acima de 80 anos e 27.948 entre 60 e 79 anos.",
+   "A consulta pode ser feita no site da Receita Federal ou pelo aplicativo.",
+   "O crédito será realizado em conta bancária de titularidade do contribuinte."
+  ],
+  "numeros": [
+   {
+    "valor": "531.6 milhões",
+    "rotulo": "valor total da restituição"
+   },
+   {
+    "valor": "184.442",
+    "rotulo": "número de contribuintes contemplados"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Impostos",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "dependência da restituição pode gerar insegurança financeira",
+  "angulo": "Aos contribuintes que dependem da restituição, investir no aprendizado do mercado financeiro pode gerar rendas independentes, minimizando as incertezas. Conheça métodos que podem transformar sua relação com o dinheiro.",
+  "gancho": "descubra como *maximizar sua renda*",
+  "ideias": [
+   "Por que depender apenas da restituição é arriscado?",
+   "Impostos: Como otimizar sua renda?",
+   "Aprenda a gerar renda além da restituição do IR"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-abre-consulta-lote-residual-do-imposto-de-renda",
+  "publicadoEm": "2026-10-23T11:18:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Liberar frango e mel ajuda o bolso do empreendedor",
+  "resumo": "A UE deve retomar importações de frango e mel do Brasil em dezembro, aliviando os custos para exportadores. A medida promete diminuir a pressão financeira sobre empresários do setor.",
+  "fatos": [
+   "A UE suspendeu as importações de carne de frango e mel do Brasil desde setembro.",
+   "A expectativa é que a liberação ocorra em dezembro, após votação do colegiado da UE em novembro.",
+   "O levantamento do embargo se deve a auditorias positivas sobre as condições de produção no Brasil.",
+   "A carne bovina continuará embargada por motivos de legislação mais complexos.",
+   "O uso de antimicrobianos na pecuária é proibido pela legislação da UE, visando a segurança alimentar."
+  ],
+  "numeros": [
+   {
+    "valor": "20",
+    "rotulo": "dias para liberação após votação"
+   },
+   {
+    "valor": "2",
+    "rotulo": "anos para liberação da carne bovina"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "Aumento de custos que impactam a margem de lucro.",
+  "angulo": "Entender como a dinâmica das importações pode garantir maior competitividade e estabilidade financeira, incentivando a formação de habilidades no mercado financeiro.",
+  "gancho": "Prepare-se para a *liberação das importações de frango*",
+  "ideias": [
+   "Como o mercado financeiro pode ajudar na sua estratégia de negócios?",
+   "Negócios em alta: o que esperar da liberação do frango?",
+   "Menos custos, mais lucro: aproveite a volta do mel!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/ue-deve-liberar-frango-e-mel-do-brasil-em-dezembro-diz-delegacao/",
+  "publicadoEm": "2026-10-23T11:24:03-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças no Open Finance: mais segurança e transparência",
+  "resumo": "O CMN e o BC atualizaram as regras do Open Finance, aumentando a segurança no compartilhamento de dados. Essas mudanças visam beneficiar tanto pessoas físicas quanto jurídicas, especialmente empresas.",
+  "fatos": [
+   "As novas regras permitem um controle maior dos clientes sobre seus dados financeiros.",
+   "Entre as mudanças, está a exigência de consentimento específico para cada empresa parceira.",
+   "O Open Finance facilita o acesso a serviços financeiros adequados ao perfil do cliente.",
+   "As alterações buscam aumentar a concorrência entre bancos e fintechs.",
+   "A expectativa é que um ambiente com regras mais claras contribua para modernizar o Sistema Financeiro Nacional."
+  ],
+  "numeros": [],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "medo da insegurança na gestão financeira",
+  "angulo": "Entender o Open Finance te coloca à frente no mercado, facilitando decisões financeiras sem amarras tradicionais.",
+  "gancho": "Descubra como *as regras do Open Finance mudam tudo*",
+  "ideias": [
+   "Open Finance: segurança para seu negócio?",
+   "Entenda as novas regras do Open Finance",
+   "Como o Open Finance pode impulsionar sua empresa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance",
+  "publicadoEm": "2026-10-22T20:03:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-23-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Rotatividade de funcionários e risos financeiros: o que você precisa saber",
+  "resumo": "Estudo da Serasa revela que alta rotatividade de funcionários duplica a inadimplência nas empresas. Entender essa dinâmica pode ajudar na gestão e otimização de negócios.",
+  "fatos": [
+   "Empresas com maior rotatividade têm 38% de inadimplência, o dobro das que mantêm colaboradores por mais tempo.",
+   "Se os funcionários ficam entre 3 a 6 meses, a inadimplência é de 44%; se acima de 10 anos, cai para 16%.",
+   "41% das empresas com alta rotatividade estão em faixa de maior risco de encerramento.",
+   "A rotatividade pode ser um indicador sobre a saúde financeira e operacional da empresa.",
+   "Análises tradicionais de crédito não consideram a rotatividade como um indicador de risco."
+  ],
+  "numeros": [
+   {
+    "valor": "38",
+    "rotulo": "percentual de inadimplência em empresas com alta rotatividade"
+   },
+   {
+    "valor": "16",
+    "rotulo": "percentual de inadimplência em empresas com funcionários por mais de 10 anos"
+   },
+   {
+    "valor": "41",
+    "rotulo": "percentual de empresas com alta rotatividade em risco de encerramento"
+   },
+   {
+    "valor": "22,1",
+    "rotulo": "média de inadimplência entre empresas com pontuação de 455 a 539"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "aumento da inadimplência e riscos ao negócio",
+  "angulo": "Entender como a gestão de pessoas impacta nas finanças é essencial para evitar surpresas. Aprender a negociar e investir pode ser a chave para garantir a estabilidade financeira sem depender de funcionários.",
+  "gancho": "Entenda *o impacto da rotatividade* no seu negócio",
+  "ideias": [
+   "Como evitar a rotatividade e melhorar suas finanças?",
+   "Gestão de pessoas: o que o estudo da Serasa revela",
+   "A rotatividade de funcionários e seus efeitos no lucro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://exame.com/carreira/empresas-que-mais-perdem-funcionarios-tem-o-dobro-da-inadimplencia-revela-estudo-da-serasa/",
+  "publicadoEm": "2026-10-23T08:01:22-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Preço do frango pode cair em 2027",
+  "resumo": "Aumento na oferta de carne de frango pode levar a uma queda nos preços. Restrições de exportação de Santa Catarina são um fator importante nesse cenário.",
+  "fatos": [
+   "O Brasil deve produzir cerca de 6% mais carne de frango em 2026 em relação ao ano anterior.",
+   "Com as restrições, frigoríficos poderão direcionar mais carne para o mercado interno, aumentando a oferta.",
+   "Os preços podem cair, especialmente no atacado, no primeiro trimestre de 2027 devido à redução do consumo pós-festas.",
+   "Entre janeiro e setembro de 2026, o custo médio de produção de frango em SC caiu de R$ 5,13 para R$ 4,96 por quilo.",
+   "Santa Catarina é o segundo maior produtor de carne de frango do Brasil, com 63% da produção exportada."
+  ],
+  "numeros": [
+   {
+    "valor": "1,2 milhão de toneladas",
+    "rotulo": "exportações de frango de SC em 2025"
+   },
+   {
+    "valor": "R$ 4,96",
+    "rotulo": "custo médio de produção em setembro de 2026"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "aumento esperado na produção em 2026"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "preocupação com aumento de custos e queda da margem de lucro",
+  "angulo": "Entender como as mudanças no mercado de frango impactam seu bolso é fundamental. A diversificação na renda pode ajudar a enfrentar esses altos e baixos.",
+  "gancho": "Os preços do frango no Brasil podem *cair em",
+  "ideias": [
+   "Impacto das exportações de carne no seu bolso",
+   "Por que produzir frango é mais barato agora?",
+   "Custo de vida: como os preços da carne afetam você"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://exame.com/agro/preco-do-frango-pode-cair-no-brasil-em-2027-apos-caso-de-newcastle-diz-itau/",
+  "publicadoEm": "2026-10-23T08:17:24-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Desaceleração da inflação ainda não é suficiente",
+  "resumo": "A prévia da inflação de outubro foi de 0,32%, menos da metade de setembro, mas permanece acima da meta do governo. Isso impacta diretamente o bolso dos consumidores e empresários.",
+  "fatos": [
+   "A prévia da inflação oficial de outubro ficou em 0,32%, ante 0,7% do mês anterior.",
+   "O IPCA-15 acumula 4,62% em 12 meses, acima da meta de 4,5% do governo.",
+   "Os principais grupos que impactaram a inflação foram alimentação e bebidas (0,88%) e transporte (combustíveis +1,2%).",
+   "A conta de luz retornou à bandeira verde, diminuindo custos com energia elétrica.",
+   "O gasto com alimentação no domicílio subiu 1,01%, pressionando mais o índice."
+  ],
+  "numeros": [
+   {
+    "valor": "0,32",
+    "rotulo": "inflação em outubro"
+   },
+   {
+    "valor": "4,62",
+    "rotulo": "inflação acumulada em 12 meses"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Inflação alta corrói poder de compra e lucros",
+  "angulo": "Entender a variação da inflação é fundamental para quem deseja conquistar uma renda adicional no mercado financeiro, independente de emprego formal.",
+  "gancho": "*Inflação* e como afeta seu bolso",
+  "ideias": [
+   "Como a inflação impacta seu dia a dia",
+   "Dicas para se proteger da inflação",
+   "A importância da educação financeira agora"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previa-da-inflacao-oficial-cai-pela-metade-e-fecha-outubro-em-032",
+  "publicadoEm": "2026-10-23T10:42:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Inflação de serviços afeta bolso e negócios",
+  "resumo": "A inflação nos serviços subiu 5,5% em 12 meses, dificultando cortes de juros e pressionando o custo de vida. Isso impacta diretamente o poder de compra dos brasileiros.",
+  "fatos": [
+   "A inflação dos serviços acumulou alta de 5,5% em 12 meses, segundo dados do IPCA-15.",
+   "O custo de alimentos no domicílio subiu 1,01%, influenciado por chuvas fortes.",
+   "A energia elétrica teve queda de 0,89%, com a bandeira tarifária verde.",
+   "Analistas afirmam que a redução da inflação não garante juros mais baixos para financiamentos."
+  ],
+  "numeros": [
+   {
+    "valor": "5,5",
+    "rotulo": "inflação dos serviços em 12 meses"
+   },
+   {
+    "valor": "1,01",
+    "rotulo": "aumento na alimentação no domicílio"
+   },
+   {
+    "valor": "0,89",
+    "rotulo": "queda na energia elétrica"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Temor de não conseguir manter o padrão de vida.",
+  "angulo": "Com a inflação em alta, depender apenas de um salário se torna arriscado. Conhecer o mercado financeiro pode oferecer alternativas para garantir uma renda independente destas pressões.",
+  "gancho": "O que *realmente* afeta o seu bolso?",
+  "ideias": [
+   "Como a inflação dos serviços impacta seu dia a dia?",
+   "O que fazer quando os preços não param de subir?",
+   "Entenda a relação entre inflação e suas finanças pessoais."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/previa-da-inflacao-de-servicos-resiste-e-sobe-55-em-12-meses/",
+  "publicadoEm": "2026-10-23T11:27:10-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-05"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Como juros altos impactam seu bolso e negócios",
+  "resumo": "O Bradesco poderia ter lucrado até R$ 500 milhões a mais com juros mais baixos. A alta da inadimplência e do custo do crédito afeta a capacidade de investimentos das empresas.",
+  "fatos": [
+   "Bradesco teve lucro de R$ 7,1 bilhões no 3º trimestre de 2026, crescimento de 14,6% em um ano.",
+   "O banco poderia ter registrado lucro até R$ 500 milhões maior se os juros estivessem abaixo de 10%.",
+   "As provisões para perdas com crédito aumentaram 24,3%, totalizando R$ 10,6 bilhões entre julho e setembro.",
+   "A inadimplência acima de 90 dias subiu para 4,6%, refletindo a pressão financeira sobre as famílias e negócios.",
+   "Noronha prevê que um ajuste fiscal possa levar juros mais baixos só a partir de 2028."
+  ],
+  "numeros": [
+   {
+    "valor": "400 a 500",
+    "rotulo": "milhões de reais em lucro potencial perdido"
+   },
+   {
+    "valor": "7,1",
+    "rotulo": "bilhões de reais de lucro no 3º trimestre"
+   },
+   {
+    "valor": "24,3",
+    "rotulo": "porcentagem de aumento nas provisões para perdas"
+   },
+   {
+    "valor": "4,6",
+    "rotulo": "porcentagem de inadimplência acima de 90 dias"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Medo de não conseguir pagar contas e dívidas",
+  "angulo": "Com os juros elevados, a pressão no orçamento é evidente. Aprender a operar no mercado financeiro pode ser uma alternativa para aumentar a renda sem depender só do emprego.",
+  "gancho": "*Juros altos* pressionam quem depende do salário",
+  "ideias": [
+   "Entenda como os juros afetam seu bolso",
+   "A importância da educação financeira em tempos difíceis",
+   "Como aumentar sua renda no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://exame.com/invest/mercados/bradesco-lucraria-ate-r-500-milhoes-a-mais-com-juros-abaixo-de-10-diz-noronha/",
+  "publicadoEm": "2026-10-23T08:17:43-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Perdão de dívidas do Simples: chance de recuperação",
+  "resumo": "O governo enviará um projeto que perdoa dívidas do setor de eventos. Essa pode ser uma oportunidade de alívio econômico para muitas empresas enfrentando dificuldades.",
+  "fatos": [
+   "O presidente Lula deve enviar à Câmara um projeto de perdão de dívidas para empresas do Simples Nacional do setor de eventos.",
+   "Essa medida é semelhante ao que foi feito para os microempreendedores individuais (MEIs).",
+   "O perdão das dívidas visa ajudar um setor que ainda se recupera dos impactos da pandemia.",
+   "O governo também anunciará uma linha de financiamento do BNDES com taxas de juros reduzidas para pequenas empresas."
+  ],
+  "numeros": [],
+  "fonte": "Poder360",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "Temor de perder a empresa por dívidas acumuladas",
+  "angulo": "Com o perdão de dívidas, você pode se reerguer e aprender a gerar renda no mercado financeiro, independente de amarras.",
+  "gancho": "Aproveite a chance do *perdão de dívidas*!",
+  "ideias": [
+   "Como o perdão de dívidas pode ajudar seu negócio?",
+   "Setor de eventos recebe apoio: veja como se beneficiar!",
+   "O que esperar das novas medidas do governo para empresários?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://www.poder360.com.br/poder-governo/lula-enviara-projeto-que-perdoa-dividas-do-simples-do-setor-de-eventos/",
+  "publicadoEm": "2026-10-23T11:10:47-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Desenrola 3.0: uma nova chance para dívidas",
+  "resumo": "O governo inicia a terceira fase do Desenrola, que poderá beneficiar devedores com renegociação facilitada. As instituições financeiras devem informar as dívidas que desejam renegociar nos próximos dias.",
+  "fatos": [
+   "Instituições financeiras têm cinco dias úteis para informar as dívidas a serem renegociadas.",
+   "O governo estima que R$ 90 bilhões em dívidas possam ser apresentadas nesta fase do Desenrola 3.0.",
+   "O custo máximo de compra das dívidas seria de R$ 9 bilhões, com desconto mínimo de 90%.",
+   "O programa visa favorecer devedores de baixa renda e microempreendedores individuais (MEIs).",
+   "Após o leilão, dívidas adquiridas poderão ser renegociadas com repasse dos descontos obtidos."
+  ],
+  "numeros": [
+   {
+    "valor": "90 bilhões",
+    "rotulo": "dívidas estimadas a serem apresentadas"
+   },
+   {
+    "valor": "9 bilhões",
+    "rotulo": "custo máximo da compra de dívidas"
+   },
+   {
+    "valor": "90%",
+    "rotulo": "desconto mínimo exigido pelo programa"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Aposentados"
+  ],
+  "dor": "medo de não conseguir renegociar dívidas e piorar a situação financeira",
+  "angulo": "Aprender sobre o mercado financeiro pode ajudar você a encontrar formas de renda além das amarras tradicionais, como os empregos fixos.",
+  "gancho": "Renegociação de dívidas: *oportunidade para recomeçar*",
+  "ideias": [
+   "Como o Desenrola 3.0 pode te ajudar?",
+   "Três dicas para renegociar suas dívidas",
+   "Aprenda a investir e escapar das dívidas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/portaria-convoca-instituicoes-financeiras-para-3a-fase-do-desenrola",
+  "publicadoEm": "2026-10-22T22:04:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-23-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Inflação de serviços afeta seu bolso e negócios",
+  "resumo": "Com a inflação de serviços em alta, muitos enfrentam dificuldades financeiras. O cenário limita os cortes de juros e aumenta a pressão no mercado de trabalho.",
+  "fatos": [
+   "A inflação dos serviços já acumula alta de 5,5% em 12 meses.",
+   "Apesar da desaceleração econômica, o mercado de trabalho continua aquecido.",
+   "Em outubro, o IPCA-15 subiu 0,32%, abaixo da alta de 0,70% em setembro.",
+   "A alimentação no domicílio teve aumento de 1,01%, impactando o custo de vida.",
+   "Especialistas destacam que a redução da inflação não garante crédito mais barato."
+  ],
+  "numeros": [
+   {
+    "valor": "4,62%",
+    "rotulo": "acumulação do IPCA-15 em 12 meses"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "projeção da Selic até dezembro"
+   },
+   {
+    "valor": "0,89%",
+    "rotulo": "queda na energia elétrica residencial"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "perda de poder de compra e aumento de despesas",
+  "angulo": "Entender a inflação e seus impactos é essencial para buscar alternativas de renda. Aprender sobre o mercado financeiro pode ajudar a diversificar suas fontes de receita.",
+  "gancho": "Como *a inflação pode afetar seu bolso*?",
+  "ideias": [
+   "Custo de vida em alta: o que fazer?",
+   "Aprenda a ganhar no mercado financeiro!",
+   "Inflação e seu impacto nas finanças pessoais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T11:30:17-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/previa-da-inflacao-de-servicos-resiste-e-sobe-55-em-12-meses/",
+  "publicadoEm": "2026-10-23T11:27:10-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Uber expande modo *Electric* para novas cidades brasileiras",
   "resumo": "A Uber anunciou a chegada do modo Electric a mais 11 cidades no Brasil. Essa modalidade prioriza corridas com carros 100% elétricos, promovendo a sustentabilidade.",
   "fatos": [

@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-22T21:13:47-03:00",
-  "novas": 3,
+  "ultimaColeta": "2026-10-23T11:30:17-03:00",
+  "novas": 12,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "3 pauta(s) nova(s): Crescimento da arrecadação federal impacta o trabalho; Nova lei beneficia microempreendedores brasileiros; MEI pode faturar mais e contratar mais.",
+  "mensagem": "12 pauta(s) nova(s): Inflação de serviços afeta seu bolso e negócios; Desenrola 3.0: uma nova chance para dívidas; Perdão de dívidas do Simples: chance de recuperação.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-23T11:30:17-03:00",
    "2026-10-22T21:13:47-03:00",
    "2026-10-22T16:40:41-03:00",
    "2026-10-22T11:43:18-03:00",
@@ -18,21 +19,21 @@
    "2026-10-20T16:47:07-03:00",
    "2026-10-20T11:32:41-03:00",
    "2026-10-20T11:24:50-03:00",
-   "2026-10-19T22:31:59-03:00",
-   "2026-10-19T22:28:10-03:00"
+   "2026-10-19T22:31:59-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-22T21:13:47-03:00",
+  "ultimaColeta": "2026-10-23T11:30:17-03:00",
   "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Impactos da IA: prejuízos de R$ 405 bilhões na Anthropic; Desperdício: um custo invisível que afeta negócios; IA criativa invade o espaço das agências de publicidade.",
+  "mensagem": "7 pauta(s) nova(s): Cuidado! Multas de trânsito podem surpreender seu bolso; Uber amplia uso de IA com ChatGPT para seus funcionários; Acelere sua segurança digital com IA!.",
   "falhas": [
    "E-Commerce Brasil (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-23T11:30:17-03:00",
    "2026-10-22T21:13:47-03:00",
    "2026-10-22T16:40:41-03:00",
    "2026-10-22T11:43:18-03:00",
@@ -43,8 +44,7 @@
    "2026-10-20T16:47:07-03:00",
    "2026-10-20T11:32:41-03:00",
    "2026-10-20T11:24:50-03:00",
-   "2026-10-19T22:31:59-03:00",
-   "2026-10-19T22:28:10-03:00"
+   "2026-10-19T22:31:59-03:00"
   ]
  }
 }
