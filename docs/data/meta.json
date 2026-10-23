@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-22T16:40:41-03:00",
-  "novas": 0,
+  "ultimaColeta": "2026-10-22T21:13:47-03:00",
+  "novas": 3,
   "atualizadas": 0,
-  "status": "sem_novas",
-  "mensagem": "Nenhuma pauta nova relevante desde 22/10 às 11:43.",
+  "status": "ok",
+  "mensagem": "3 pauta(s) nova(s): Crescimento da arrecadação federal impacta o trabalho; Nova lei beneficia microempreendedores brasileiros; MEI pode faturar mais e contratar mais.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-22T21:13:47-03:00",
    "2026-10-22T16:40:41-03:00",
    "2026-10-22T11:43:18-03:00",
    "2026-10-21T21:17:16-03:00",
@@ -18,21 +19,21 @@
    "2026-10-20T11:32:41-03:00",
    "2026-10-20T11:24:50-03:00",
    "2026-10-19T22:31:59-03:00",
-   "2026-10-19T22:28:10-03:00",
-   "2026-10-19T19:10:00-03:00"
+   "2026-10-19T22:28:10-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-22T16:40:41-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-10-22T21:13:47-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Meta lucra US$ 64,6 bilhões e movimenta mercado; BYD reduce preço e atrai consumidores para o Seal; E-commerce e caminhões: o futuro das montadoras.",
+  "mensagem": "7 pauta(s) nova(s): Impactos da IA: prejuízos de R$ 405 bilhões na Anthropic; Desperdício: um custo invisível que afeta negócios; IA criativa invade o espaço das agências de publicidade.",
   "falhas": [
    "E-Commerce Brasil (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-22T21:13:47-03:00",
    "2026-10-22T16:40:41-03:00",
    "2026-10-22T11:43:18-03:00",
    "2026-10-21T21:17:16-03:00",
@@ -43,8 +44,7 @@
    "2026-10-20T11:32:41-03:00",
    "2026-10-20T11:24:50-03:00",
    "2026-10-19T22:31:59-03:00",
-   "2026-10-19T22:28:10-03:00",
-   "2026-10-19T19:10:00-03:00"
+   "2026-10-19T22:28:10-03:00"
   ]
  }
 }

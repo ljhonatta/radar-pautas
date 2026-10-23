@@ -1,6 +1,337 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Uber expande modo *Electric* para novas cidades brasileiras",
+  "resumo": "A Uber anunciou a chegada do modo Electric a mais 11 cidades no Brasil. Essa modalidade prioriza corridas com carros 100% elétricos, promovendo a sustentabilidade.",
+  "fatos": [
+   "O modo Electric da Uber agora está disponível em 15 cidades brasileiras.",
+   "As novas cidades que receberam a modalidade incluem Belo Horizonte, Campinas, e Salvador.",
+   "O modo Electric oferece corridas com carros 100% elétricos e possui tarifa acima do modo UberX.",
+   "O app agora conta com o recurso “Preferências de partida” para facilitar a identificação dos motoristas."
+  ],
+  "numeros": [
+   {
+    "valor": "15",
+    "rotulo": "cidades com modo Electric"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder competitividade em um mercado sustentável",
+  "angulo": "A expansão do modo Electric da Uber destaca como a sustentabilidade pode influenciar o comportamento do consumidor e o mercado, mostrando a importância de estar preparado para essas mudanças.",
+  "gancho": "Uber e o futuro *sustentável* das corridas",
+  "ideias": [
+   "Como a sustentabilidade impacta seus negócios?",
+   "A corrida do futuro é elétrica!",
+   "Seu negócio está preparado para a inovação sustentável?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://canaltech.com.br/apps/uber-leva-modo-com-carros-eletricos-para-mais-cidades-brasileiras-saiba-quais/",
+  "publicadoEm": "2026-10-22T16:12:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças na Ambev exigem novas estratégias de marketing",
+  "resumo": "A Ambev reestrutura sua área de bebidas e foca nos não-alcoólicos, o que impacta diretamente a maneira como o varejo deve se adaptar e comunicar suas ofertas. A falta de adaptação pode custar vendas.",
+  "fatos": [
+   "Daniela Cachich passou a ser a presidente de não-alcoólicos na Ambev.",
+   "Fabricio Zonzini se tornou vice-presidente da Beyond Beer, cuidando das marcas alcoólicas.",
+   "O foco em não-alcoólicos reflete uma mudança significativa na estratégia da empresa."
+  ],
+  "numeros": [],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Medo de perder vendas para concorrentes mais adaptados.",
+  "angulo": "As mudanças na Ambev mostram a necessidade de uma estratégia de marketing moderna e ágil, essencial para se manter relevante e competitivo no mercado.",
+  "gancho": "Prepare-se para *as novas demandas do consumidor*!",
+  "ideias": [
+   "Ambev muda estratégia: o que isso significa para você?",
+   "Focar nos não-alcoólicos: aprenda a se adaptar!",
+   "Seu negócio está pronto para as mudanças de mercado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://www.meioemensagem.com.br/gente/acontece-no-meio/daniela-cachich-passa-a-focar-nos-nao-alcoolicos-da-ambev",
+  "publicadoEm": "2026-10-22T17:13:14-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Walmart avança com IA enquanto Amazon bloqueia agentes",
+  "resumo": "O Walmart inova com ferramentas para integração de agentes de IA, enquanto a Amazon enfrenta bloqueios. Essa dinâmica mostra a necessidade de adaptação no varejo digital e atendimento ao consumidor.",
+  "fatos": [
+   "Amazon bloqueou agentes de IA, proibindo compras automatizadas em seu site.",
+   "Walmart anunciou três iniciativas para integrar agentes de IA, focando na conveniência e transparência.",
+   "Os Perfis de Agentes do Walmart permitirão controle sobre compras realizadas por IA.",
+   "O Walmart Agent Gateway padroniza como agentes e IA se conectam a dados e sistemas.",
+   "As primeiras funcionalidades de integração serão disponibilizadas já no próximo mês."
+  ],
+  "numeros": [],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Empresas perdem vendas ao não se adaptarem a novas tecnologias.",
+  "angulo": "A evolução no uso de IA no varejo destaca a importância de modernizar canais de venda, sugerindo que empresas invistam em gestão digital e automação para não ficarem para trás.",
+  "gancho": "Walmart avança e Amazon *enfrenta bloqueios*!",
+  "ideias": [
+   "Como a IA pode transformar seu varejo",
+   "Não fique para trás: adapte-se ao digital",
+   "O futuro das vendas está nas mãos da IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/enquanto-amazon-faz-bloqueios-walmart-avanca-com-agentes",
+  "publicadoEm": "2026-10-22T17:57:36-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Entenda como o 6G pode impactar seu negócio",
+  "resumo": "A Anatel debate o leilão das frequências para o 6G, mas as operadoras pedem cautela. Essa situação pode influenciar o planejamento do seu marketing digital.",
+  "fatos": [
+   "A Anatel quer leiloar a faixa de 6 GHz em 2028 para o 6G.",
+   "Operadoras argumentam que a padronização do 6G deve avançar até 2028 ou 2029.",
+   "A consulta pública sobre o tema continua até 7 de dezembro, permitindo contribuições da sociedade.",
+   "O leilão do 5G movimentou cerca de R$ 47,2 bilhões, sendo 85% em compromissos de infraestrutura.",
+   "85% dos usuários afirmaram que o 5G não alterou seu consumo de dados móveis."
+  ],
+  "numeros": [
+   {
+    "valor": "85",
+    "rotulo": "percentual de usuários que notaram pouca mudança com o 5G"
+   },
+   {
+    "valor": "47,2 bilhões",
+    "rotulo": "valor movimentado pelo leilão do 5G"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perder oportunidades de inovação e competitividade no mercado",
+  "angulo": "A falta de adaptação às novas tecnologias pode limitar o crescimento do seu negócio. Considere investir em um site e gestão de tráfego para não ficar para trás.",
+  "gancho": "O futuro do 6G e *o impacto no seu",
+  "ideias": [
+   "Prepare seu negócio para o 6G",
+   "O impacto do 5G nas vendas",
+   "Como a tecnologia afeta o varejo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://canaltech.com.br/telecom/anatel-ja-planeja-6g-no-brasil-mas-operadoras-querem-pisar-no-freio/",
+  "publicadoEm": "2026-10-22T11:43:47-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA criativa invade o espaço das agências de publicidade",
+  "resumo": "Plataformas de IA estão assumindo funções que antes eram exclusivas das agências de marketing, impactando diretamente os negócios. Entenda como isso afeta sua empresa.",
+  "fatos": [
+   "Ferramentas como Canva e Figma estão ampliando operações para além da criação, oferecendo serviços de publicação e análise de anúncios.",
+   "O Canva Grow permite que pequenas empresas adiem a contratação de agências, concentrando atividades de marketing em uma única plataforma.",
+   "Produção de anúncios com IA pode reduzir custos por lead em até 71% em comparação com métodos tradicionais.",
+   "O tempo de produção de anúncios pode cair de 6-8 horas para apenas 15-30 minutos com o uso de IA.",
+   "A Runway aumentou sua produção de anúncios de 77 para 900 por semana utilizando IA.",
+   "Se adaptar às novas ferramentas de IA é crucial para acompanhar a demanda de conteúdo nas plataformas digitais."
+  ],
+  "numeros": [
+   {
+    "valor": "90",
+    "rotulo": "percentual de redução no tempo de produção"
+   },
+   {
+    "valor": "71",
+    "rotulo": "redução no custo por lead"
+   },
+   {
+    "valor": "900",
+    "rotulo": "anúncios gerados pela Runway por semana"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de espaço no mercado para concorrentes mais modernos",
+  "angulo": "Investir em automação e gestão de marketing é fundamental para não ficar para trás diante da evolução das ferramentas digitais.",
+  "gancho": "Descubra como *a IA está mudando o marketing*",
+  "ideias": [
+   "O que a IA pode fazer pelo seu negócio?",
+   "Como se adaptar às novas ferramentas de marketing?",
+   "O futuro das agências de publicidade com IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://www.meioemensagem.com.br/comunicacao/plataformas-de-ia-criativa-tiram-espaco-das-agencias",
+  "publicadoEm": "2026-10-22T18:06:07-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Desperdício: um custo invisível que afeta negócios",
+  "resumo": "O desperdício em empresas se tornou um custo significativo que impacta diretamente a lucratividade. É essencial entender como otimizar processos e produtos para evitar perdas financeiras.",
+  "fatos": [
+   "O desperdício é um dos maiores custos invisíveis dentro das organizações.",
+   "Apenas 6,9% dos materiais consumidos globalmente retornam para a economia por reaproveitamento.",
+   "No Brasil, apenas cerca de 4% dos resíduos sólidos gerados são reciclados.",
+   "Práticas eficazes podem levar a recuperação de valor e novas oportunidades econômicas.",
+   "Consumidores buscam produtos que ofereçam durabilidade e soluções completas ao longo do uso."
+  ],
+  "numeros": [
+   {
+    "valor": "6,9",
+    "rotulo": "% de materiais reaproveitados globalmente"
+   },
+   {
+    "valor": "4",
+    "rotulo": "% de resíduos reciclados no Brasil"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Temor de perder valor e lucratividade por desperdício",
+  "angulo": "Com a crescente pressão por margens reduzidas, compreender a importância da otimização em processos e oferecer valor adicional ao consumidor se torna vital para o sucesso da empresa.",
+  "gancho": "Desperdício: um *custo oculto* que impacta seus lucros",
+  "ideias": [
+   "Como o desperdício afeta seu negócio?",
+   "Recuperando valor: estratégias contra o desperdício",
+   "Práticas de otimização que melhoram seus resultados"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://www.meioemensagem.com.br/womentowatch/desperdicio-e-um-dos-custos-mais-caros-para-empresas",
+  "publicadoEm": "2026-10-22T13:33:16-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Impactos da IA: prejuízos de R$ 405 bilhões na Anthropic",
+  "resumo": "A Anthropic, criadora da IA Claude, registrou prejuízo significativo, levantando preocupação sobre investimentos no setor. Isso destaca a importância de um marketing eficaz para empresas de tecnologia.",
+  "fatos": [
+   "A Anthropic apresentou prejuízo líquido de US$ 80,7 bilhões no primeiro semestre de 2026.",
+   "A empresa gastou cerca de US$ 9 bilhões em infraestrutura e processamento nos primeiros seis meses de 2026.",
+   "O faturamento da Anthropic cresceu para US$ 16,3 bilhões no mesmo período, um aumento significativo em comparação com 2025."
+  ],
+  "numeros": [
+   {
+    "valor": "405",
+    "rotulo": "milhões de reais em prejuízo"
+   },
+   {
+    "valor": "80,7",
+    "rotulo": "bilhões de dólares em prejuízo"
+   },
+   {
+    "valor": "16,3",
+    "rotulo": "bilhões de dólares em faturamento"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de competitividade no mercado tecnológico",
+  "angulo": "Os desafios financeiros da Anthropic devem fazer os empresários refletirem sobre a importância de uma estratégia de marketing digital robusta para se destacar.",
+  "gancho": "Entenda como *prejuízos bilionários* afetam o mercado",
+  "ideias": [
+   "O impacto da autonomia financeira na sua empresa",
+   "Como a IA pode transformar seu negócio",
+   "Estratégias de marketing em tempos de crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://canaltech.com.br/mercado/bolha-anthropic-expoe-rombo-de-r-400-bilhoes-as-vesperas-de-abrir-capital-na-bolsa/",
+  "publicadoEm": "2026-10-22T08:03:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-vpr-12"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Reforma tributária e os pequenos negócios: desmistificando a questão",
   "resumo": "Entenda como a reforma tributária impacta os pequenos negócios e a importância de se adaptar a novas leis fiscais.",
   "fatos": [
@@ -495,6 +826,166 @@
   "publicadoEm": "2026-10-22T10:00:00-03:00",
   "data": "2026-10-22",
   "id": "2026-10-22-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "MEI pode faturar mais e contratar mais",
+  "resumo": "Mudanças para o MEI permitirão maior faturamento e a contratação de funcionários, facilitando a vida de pequenos empreendedores. Essa é uma oportunidade de crescer e diversificar a renda.",
+  "fatos": [
+   "O teto de faturamento do MEI será elevado para até R$ 140 mil por ano.",
+   "Agora, o MEI poderá contratar até dois funcionários.",
+   "Essas mudanças têm como objetivo estimular a formalização e o crescimento dos pequenos negócios."
+  ],
+  "numeros": [
+   {
+    "valor": "140000",
+    "rotulo": "faturamento anual permitido ao MEI"
+   },
+   {
+    "valor": "2",
+    "rotulo": "número de funcionários que o MEI pode contratar"
+   }
+  ],
+  "fonte": "Paraíba Business",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "preocupação com a formalização e limites de crescimento",
+  "angulo": "Conhecer o mercado financeiro pode ser a chave para diversificar sua renda e crescer, mesmo sendo MEI. Aprenda a trabalhar suas finanças e a investir.",
+  "gancho": "Aumente seu faturamento: *MEI pode faturar mais!*",
+  "ideias": [
+   "Como o MEI pode crescer?",
+   "O que muda no MEI?",
+   "Dicas para MEIs investirem"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://www.google.com/search?q=MEI+poder%C3%A1+faturar+at%C3%A9+R%24+140+mil+por+ano+e+contratar+dois+funcion%C3%A1rios+Para%C3%ADba+Business",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-22T20:30:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Nova lei beneficia microempreendedores brasileiros",
+  "resumo": "A Lei Complementar 238 sancionada amplia o faturamento dos MEIs e perdoa dívidas. Uma mudança que pode aliviar financeiramente muitos empreendedores.",
+  "fatos": [
+   "Foi sancionada a Lei Complementar 238 em 21 de setembro.",
+   "O teto de faturamento do MEI aumentará de R$ 81 mil para R$ 110 mil em 2027.",
+   "Em 2028, o limite chegará a R$ 140 mil.",
+   "A lei prevê o perdão de dívidas com a União até 13 de outubro de 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "81 mil",
+    "rotulo": "teto de faturamento atual do MEI"
+   },
+   {
+    "valor": "110 mil",
+    "rotulo": "novo teto de faturamento em 2027"
+   },
+   {
+    "valor": "140 mil",
+    "rotulo": "novo teto de faturamento em 2028"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Empresários",
+   "Profissionais liberais"
+  ],
+  "dor": "medo de dívidas elevadas e teto de faturamento baixo",
+  "angulo": "Com essas mudanças, os microempreendedores podem ter mais margem para expandir seus negócios. Aprender sobre o mercado financeiro pode ser um diferencial para administrar essa nova realidade.",
+  "gancho": "Descubra *como crescer* após a nova lei",
+  "ideias": [
+   "Como a nova lei pode ajudar seu negócio",
+   "Microempreendedores: aproveite as novas oportunidades",
+   "Perdão de dívidas: o que muda para você"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://www12.senado.leg.br/noticias/audios/2026/10/sancionada-lei-que-perdoa-dividas-de-meis",
+  "publicadoEm": "2026-10-22T13:04:04-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Crescimento da arrecadação federal impacta o trabalho",
+  "resumo": "A arrecadação federal cresceu 5,62% em setembro, o que pode impactar diretamente empresários e trabalhadores. Entenda como isso pode afetar seu bolso e suas finanças.",
+  "fatos": [
+   "A arrecadação totalizou R$ 239,4 bilhões em setembro, com crescimento real de 5,62%.",
+   "No acumulado de janeiro a setembro, a arrecadação alcançou R$ 2,351 trilhões, apresentando alta real de 6,97%.",
+   "A arrecadação previdenciária somou R$ 64,6 bilhões em setembro, com aumento real de 6,18%.",
+   "Importações e aumento das alíquotas elevaram a arrecadação tributária sobre importações para R$ 13,3 bilhões, alta de 21,07%.",
+   "O IRRF sobre rendimentos de capital arrecadou R$ 12,06 bilhões em setembro, com crescimento real de 9,68%."
+  ],
+  "numeros": [
+   {
+    "valor": "239,4 bilhões",
+    "rotulo": "arrecadação total em setembro"
+   },
+   {
+    "valor": "64,6 bilhões",
+    "rotulo": "arrecadação previdenciária em setembro"
+   },
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "arrecadação sobre importações"
+   },
+   {
+    "valor": "12,06 bilhões",
+    "rotulo": "arrecadação do IRRF sobre rendimentos de capital"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento de impostos e custos reduzindo lucros",
+  "angulo": "O crescimento da arrecadação pode significar aumento de impostos, afetando a renda e os negócios. Aprender a investir é uma forma de diversificar a renda e se proteger.",
+  "gancho": "Como *a arrecadação impacta seu bolso*?",
+  "ideias": [
+   "Arrecadação federal: impactos diretos",
+   "Como a renda extra pode ajudar na crise?",
+   "Impostos em alta: o que fazer?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-22T21:13:47-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/arrecadacao-federal-cresce-562-em-setembro-e-soma-r-2394-bilhoes",
+  "publicadoEm": "2026-10-22T11:45:00-03:00",
+  "data": "2026-10-22",
+  "id": "2026-10-22-trader-01"
  },
  {
   "segmento": "vpr",
