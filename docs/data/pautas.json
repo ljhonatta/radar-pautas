@@ -1,6 +1,181 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Diferenças regionais impactam o comércio eletrônico",
+  "resumo": "O comportamento de compra no Brasil varia significativamente entre regiões, influenciando estratégias no e-commerce e marketing digital.",
+  "fatos": [
+   "O comércio eletrônico no Brasil é afetado por diferenças regionais de comportamento do consumidor.",
+   "Essas particularidades demandam abordagens personalizadas e adaptadas às realidades locais.",
+   "Empresários precisam entender essas variações para otimizar suas vendas online."
+  ],
+  "numeros": [],
+  "fonte": "Confederação Nacional de Dirigentes Lojistas",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas ao ignorar comportamentos regionais",
+  "angulo": "Entender o comportamento regional é fundamental para criar estratégias eficazes e não perder oportunidades no e-commerce.",
+  "gancho": "Você sabe *como sua região compra online*?",
+  "ideias": [
+   "Cuidado com a diversidade regional",
+   "Venda mais conhecendo seu público",
+   "Adapte seu e-commerce ao local"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:50:10-03:00",
+  "url": "https://www.google.com/search?q=O+Brasil+n%C3%A3o+compra+do+mesmo+jeito%3A+as+diferen%C3%A7as+regionais+que+movimentam+o+com%C3%A9rcio+eletr%C3%B4nico+Confedera%C3%A7%C3%A3o+Nacional+de+Dirigentes+Lojistas",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T15:54:44-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como o uso de secadores impacta sua conta de luz?",
+  "resumo": "Entender o consumo de energia de secadores e chapinhas é crucial para o bolso. Secadores podem gastar até 31 vezes mais energia do que chapinhas, impactando seu faturamento mensal.",
+  "fatos": [
+   "Um secador com potência de 2.000 W consome 0,5 kWh em 15 minutos, enquanto uma chapinha de 65 W consome apenas 0,016 kWh.",
+   "A diferença de consumo entre secadores e chapinhas varia entre 9 kWh a 15 kWh por mês, dependendo do modelo.",
+   "Em São Paulo, o custo do uso mensal de um secador de 2.000 W pode chegar a R$ 14,25, enquanto uma chapinha não ultrapassa R$ 0,50."
+  ],
+  "numeros": [
+   {
+    "valor": "31",
+    "rotulo": "diferença de consumo entre secador e chapinha"
+   },
+   {
+    "valor": "15",
+    "rotulo": "kWh que secadores consomem por mês"
+   },
+   {
+    "valor": "0,5",
+    "rotulo": "kWh consumidos por secador em 15 minutos"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Você pode estar perdendo dinheiro com consumo excessivo.",
+  "angulo": "O impacto das escolhas de consumo pode afetar diretamente a gestão financeira do seu negócio, tornando essencial estar informado sobre eficiência energética e custos.",
+  "gancho": "Descubra *como economizar na conta de luz!*",
+  "ideias": [
+   "Aposte na eficiência: secador ou chapinha?",
+   "Como reduzir seu consumo de energia?",
+   "Energia elétrica: como seus aparelhos impactam seu bolso?"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:50:10-03:00",
+  "url": "https://canaltech.com.br/eletro/secador-ou-chapinha-qual-gasta-mais-energia-e-pesa-na-conta-de-luz/",
+  "publicadoEm": "2026-10-24T14:30:03-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA como aliada no impulsionamento de vendas",
+  "resumo": "A Decolar lançou a Mariana, uma IA via WhatsApp que ajuda parceiros de hospedagem com suporte contínuo e análise de dados. Essa ferramenta visa potencializar os negócios dos meios de hospedagem.",
+  "fatos": [
+   "Mariana é um concierge de IA que opera via WhatsApp, oferecendo suporte 24 horas.",
+   "A ferramenta analisa dados como reservas, diária média e cancelamentos, identificando oportunidades comerciais.",
+   "Ela auxilia na apresentação das propriedades, considerando fotos, descrições e avaliações para aumentar a visibilidade."
+  ],
+  "numeros": [],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas por falta de apoio tecnológico",
+  "angulo": "O avanço da tecnologia em IA pode ser um diferencial para seu negócio, ajudando na otimização de vendas e decisões estratégicas. Conheça como potencializar sua presença online!",
+  "gancho": "Descubra como *a IA pode transformar seu negocio!*",
+  "ideias": [
+   "Como a tecnologia está mudando o setor de hospedagem",
+   "A importância da IA para decisões comerciais",
+   "Aumente suas vendas com suporte automatizado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:50:10-03:00",
+  "url": "https://mercadoeconsumo.com.br/24/10/2026/tecnologia/decolar-cria-assistente-de-ia-para-impulsionar-negocios-de-parceiros-de-hospedagem/",
+  "publicadoEm": "2026-10-24T15:37:24-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Vendas da Black Friday e Natal injetam R$ 9,04 bilhões",
+  "resumo": "Os períodos de Black Friday e Natal devem gerar um impacto significativo na economia regional, trazendo esperança para os empresários. Prepare-se para aproveitar essa oportunidade.",
+  "fatos": [
+   "As vendas da Black Friday e do Natal são esperadas para injetar R$ 9,04 bilhões na economia regional.",
+   "Esses eventos sazonais podem ser cruciais para recuperar as vendas durante o ano.",
+   "Empresários precisam estar preparados para atender à demanda crescente."
+  ],
+  "numeros": [
+   {
+    "valor": "9,04 bilhões",
+    "rotulo": "impacto econômico na região"
+   }
+  ],
+  "fonte": "Correio",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas e clientes durante as datas importantes",
+  "angulo": "Com o aumento das vendas, é essencial estar pronto com um site, gestão de redes e estratégias eficazes para não perder essa oportunidade.",
+  "gancho": "Prepare-se para a *maior venda do ano*!",
+  "ideias": [
+   "Como se preparar para a Black Friday?",
+   "Natal: Como atrair mais clientes?",
+   "Estratégias para maximizar suas vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:50:10-03:00",
+  "url": "https://www.google.com/search?q=Vendas+da+Black+Friday+e+do+Natal+devem+injetar+R%24+9%2C04+bilh%C3%B5es+na+economia+regional+Correio",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T12:42:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-vpr-09"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "O que a venda de lojas da Americanas ensina?",
   "resumo": "A venda de unidades deficitárias pela Americanas revela um cenário de reestruturação no varejo. Isso impacta a necessidade de adaptação das empresas de marketing para atender essa nova dinâmica.",
   "fatos": [
@@ -397,6 +572,176 @@
   "publicadoEm": "2026-10-23T13:02:00-03:00",
   "data": "2026-10-23",
   "id": "2026-10-24-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Salário mínimo pode impactar MEIs em 2027",
+  "resumo": "Projeção de aumento do salário mínimo pode gerar mais custos para microempreendedores individuais. É fundamental estar preparado para essas mudanças.",
+  "fatos": [
+   "O salário mínimo de 2027 poderá ter um aumento de R$ 120.",
+   "Esse aumento pode resultar em uma cobrança maior sobre os microempreendedores individuais (MEIs).",
+   "Com custos mais altos, os MEIs precisam se adaptar para manter suas margens de lucro."
+  ],
+  "numeros": [],
+  "fonte": "Economic News Brasil",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "aumento de custos reduzindo lucros e oportunidades",
+  "angulo": "A crescente pressão sobre os MEIs reforça a importância de aprender a lidar com o mercado financeiro, buscando novas formas de geração de renda sem depender apenas do salário.",
+  "gancho": "*Prepare-se para mudanças* no mercado",
+  "ideias": [
+   "Como o aumento do salário mínimo pode afetar o MEI",
+   "Dicas para microempreendedores se adaptarem a novas cobranças",
+   "Por que aprender sobre finanças é crucial para os MEIs"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:50:10-03:00",
+  "url": "https://www.google.com/search?q=Sal%C3%A1rio+m%C3%ADnimo+de+2027+pode+subir+R%24+120+e+aumentar+cobran%C3%A7a+sobre+MEIs+Economic+News+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T17:16:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudança no patrocínio do McDonald's impacta negócios",
+  "resumo": "A McDonald's encerra um patrocínio de 32 anos com a FIFA, reformulando sua estratégia de marketing. Essa mudança pode afetar agências e empresas envolvidas na publicidade e marketing.",
+  "fatos": [
+   "O McDonald's não renovará seu contrato de patrocínio com a FIFA, vigente desde 1994.",
+   "A decisão é parte de uma reformulação na estratégia de marketing da rede.",
+   "A última campanha da marca para a Copa de 2026 foi descrita como seu maior esforço de marketing do ano, mas não atendeu às expectativas.",
+   "O impacto da mudança pode refletir nos acordos de mídia da FIFA, especialmente no Brasil."
+  ],
+  "numeros": [
+   {
+    "valor": "110",
+    "rotulo": "países alcançados pela campanha"
+   },
+   {
+    "valor": "32",
+    "rotulo": "anos de patrocínio com a FIFA"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "receio de perder oportunidades de patrocínio e visibilidade",
+  "angulo": "A mudança na estratégia do McDonald's pode inspirar empresários a buscar novas formas de gerar visibilidade e receita, explorando o mercado financeiro como alternativa.",
+  "gancho": "McDonald's encerra patrocínio: *o que vem por aí?*",
+  "ideias": [
+   "Como a mudança no McDonald's impacta o mercado?",
+   "Reformulação de marcas: uma oportunidade para novos negócios!",
+   "Patrocínios em queda? Entenda o que isso significa."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:50:10-03:00",
+  "url": "https://exame.com/marketing/mcdonalds-encerra-patrocinio-da-copa-do-mundo-apos-32-anos-diz-site/",
+  "publicadoEm": "2026-10-24T14:52:38-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e novas realidades trabalhistas",
+  "resumo": "A automação nas empresas cresce com o fim da escala 6x1, impactando a necessidade de mão de obra. O desafio agora é a busca por novas formas de renda.",
+  "fatos": [
+   "O encerramento da escala 6x1 em empresas acelera a automação.",
+   "Essa mudança tem levado à dispensa de trabalhadores.",
+   "O cenário exige adaptação de profissionais que dependem apenas de um emprego fixo."
+  ],
+  "numeros": [],
+  "fonte": "Acia Araçatuba",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Medo de perder o emprego e a estabilidade financeira.",
+  "angulo": "Aprender sobre o mercado financeiro pode ser uma ferramenta valiosa para gerar renda sem depender de escala ou chefe.",
+  "gancho": "A nova realidade do trabalho: *automação e desemprego*",
+  "ideias": [
+   "Como a automação muda o mercado de trabalho?",
+   "A importância de diversificar suas fontes de renda.",
+   "Dicas para se preparar para o futuro do trabalho."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:50:10-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+acelera+automa%C3%A7%C3%A3o+e+dispensa+trabalhadores+Acia+Ara%C3%A7atuba",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T16:35:25-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e suas implicações",
+  "resumo": "O término da escala 6x1 traz à tona a necessidade de mudanças na rotina de trabalho das empresas. Essa nova realidade impacta tanto empregados quanto empresários.",
+  "fatos": [
+   "As empresas precisarão se adaptar às novas dinâmicas de trabalho.",
+   "A mudança na escala pode afetar a produtividade e os custos operacionais.",
+   "Profissionais autônomos e CLT devem estar atentos às novas oportunidades."
+  ],
+  "numeros": [],
+  "fonte": "Capital News",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "perda da estabilidade no emprego e da renda fixa",
+  "angulo": "Adaptar-se ao novo cenário do trabalho é essencial e o mercado financeiro pode proporcionar alternativas para gerar renda, livre das amarras tradicionais.",
+  "gancho": "Mudanças no trabalho: *o que fazer agora?*",
+  "ideias": [
+   "A nova rotina de trabalho e suas consequências",
+   "Como o mercado financeiro pode ajudar",
+   "Alternativas de renda: menos amarras, mais oportunidades"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T20:50:10-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6x1%3A+veja+o+que+as+empresas+precisam+mudar+na+rotina+de+trabalho+Capital+News",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T18:08:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-09"
  },
  {
   "segmento": "trader",
