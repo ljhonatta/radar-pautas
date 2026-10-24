@@ -1,6 +1,188 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "O que a venda de lojas da Americanas ensina?",
+  "resumo": "A venda de unidades deficitárias pela Americanas revela um cenário de reestruturação no varejo. Isso impacta a necessidade de adaptação das empresas de marketing para atender essa nova dinâmica.",
+  "fatos": [
+   "A Americanas vendeu a sexta loja do Natural da Terra para o Oba Hortifruti por R$ 660,6 mil.",
+   "O total do acordo é de R$ 69,3 milhões, com a venda de dez unidades no total.",
+   "A empresa teve dívidas de R$ 43 bilhões e inconsistências contábeis de R$ 20 bilhões.",
+   "O Oba Hortifruti se beneficia pela localização das lojas compradas, situadas em áreas nobres de São Paulo.",
+   "A recuperação judicial da Americanas foi encerrada pela Justiça do Rio de Janeiro."
+  ],
+  "numeros": [
+   {
+    "valor": "69,3 milhões",
+    "rotulo": "acordo total de venda"
+   },
+   {
+    "valor": "660,6 mil",
+    "rotulo": "pagamento da sexta loja"
+   },
+   {
+    "valor": "43 bilhões",
+    "rotulo": "dívidas da Americanas"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "A perda de negócios devido à falta de adaptação às novas estratégias.",
+  "angulo": "Com a mudança no perfil dos varejistas, empresários precisam de marketing que adapte suas estratégias e potencialize vendas. Conheça soluções que ajudam a potencializar seus resultados.",
+  "gancho": "Venda de *lojas deficitárias* revela aprendizado crucial",
+  "ideias": [
+   "O que as vendas da Americanas ensinam ao varejo?",
+   "Como adaptar seu negócio com as mudanças de mercado?",
+   "As novas estratégias do Oba e o impacto no mercado."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:31:26-03:00",
+  "url": "https://mercadoeconsumo.com.br/23/10/2026/noticias-varejo/americanas-conclui-venda-de-6a-loja-do-natural-da-terra-para-o-oba-hortifruti/",
+  "publicadoEm": "2026-10-23T15:58:34-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Expectativa de R$ 9,04 bilhões nas vendas",
+  "resumo": "As vendas na Black Friday e no Natal devem movimentar R$ 9,04 bilhões na economia regional. O impacto positivo nas vendas é uma grande oportunidade para investimentos em marketing.",
+  "fatos": [
+   "As vendas durante a Black Friday e o Natal têm grande potencial de gerar receitas significativas.",
+   "A expectativa de movimentação econômica é de R$ 9,04 bilhões.",
+   "Esses períodos são possibilidades para empresas se destacarem e atraírem novos clientes."
+  ],
+  "numeros": [
+   {
+    "valor": "9,04 bilhões",
+    "rotulo": "movimentação na economia regional"
+   }
+  ],
+  "fonte": "Correio",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "medo de perder vendas em datas importantes",
+  "angulo": "A alta expectativa de vendas pode ser um divisor de águas, mas para isso, é crucial que a empresa tenha uma estratégia de marketing eficaz.",
+  "gancho": "Oportunidade: *R$ 9,04 bilhões à vista!*",
+  "ideias": [
+   "Como potencializar suas vendas na Black Friday?",
+   "Prepare-se para o Natal: dicas de marketing!",
+   "Aproveite a temporada festiva e venda mais!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:31:26-03:00",
+  "url": "https://www.google.com/search?q=Vendas+da+Black+Friday+e+do+Natal+devem+injetar+R%24+9%2C04+bilh%C3%B5es+na+economia+regional+Correio",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T12:42:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Meta Ads: IA promete 20% mais eficiência",
+  "resumo": "O suporte do Meta Ads, com o auxílio da inteligência artificial, conseguiu aumentar em 20% a eficácia na resolução de problemas nas contas. Essa mudança impacta diretamente as estratégias de anúncios e marketing digital.",
+  "fatos": [
+   "O suporte do Meta Ads agora utiliza inteligência artificial.",
+   "Essa inovação gerou um aumento de 20% na resolução de problemas.",
+   "A mudança pode impactar positivamente as estratégias de marketing."
+  ],
+  "numeros": [],
+  "fonte": "jornaltribuna.com.br",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perde oportunidades por problemas não resolvidos em anúncios",
+  "angulo": "A adoção da IA pode otimizar seu suporte em campanhas, garantindo mais eficiência e resultados.",
+  "gancho": "Nova *tecnologia* melhora suporte em anúncios",
+  "ideias": [
+   "IA e o futuro dos anúncios",
+   "Aumente sua eficiência com Meta Ads",
+   "Como resolver problemas de conta com IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:31:26-03:00",
+  "url": "https://www.google.com/search?q=Suporte+do+Meta+Ads+com+IA+eleva+em+20%25+a+resolu%C3%A7%C3%A3o+de+problemas+de+conta+jornaltribuna.com.br",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T13:52:39-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-vpr-06"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Fim da escala 6x1 e seus impactos nas vendas",
+  "resumo": "O fim da escala 6x1 pode impactar cerca de 2,6 milhões de trabalhadores no RJ. Isso pode afetar diretamente as vendas em diversos setores.",
+  "fatos": [
+   "A mudança na escala de trabalho pode gerar aumento de custos para as empresas.",
+   "Com menos horas disponíveis, o atendimento ao cliente pode ser prejudicado.",
+   "O mercado pode enfrentar uma reestruturação para se adaptar a essas novas condições."
+  ],
+  "numeros": [
+   {
+    "valor": "2,6 milhões",
+    "rotulo": "trabalhadores afetados no RJ"
+   }
+  ],
+  "fonte": "A Tribuna RJ",
+  "categoria": "Atendimento",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "Redução nas vendas e dificuldade de atender clientes a tempo",
+  "angulo": "Com a necessidade de adaptar a gestão de equipe e processos, empresários devem considerar soluções de marketing eficientes para não perder oportunidades.",
+  "gancho": "Impactos do *fim da escala 6x1*",
+  "ideias": [
+   "Como o novo regime de trabalho afeta seu negócio?",
+   "Estratégias para manter vendas com menos funcionários",
+   "A importância de uma gestão eficiente nesta transição"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:31:26-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+pode+afetar+2%2C6+milh%C3%B5es+de+trabalhadores+no+RJ+A+Tribuna+RJ",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T14:49:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-vpr-05"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Desempenho da Kering mostra fraca demanda no luxo",
   "resumo": "A Kering enfrenta desafios no mercado de luxo, com queda nas vendas, destacando a necessidade de estratégias de marketing eficazes. Planejamento adequado é essencial para enfrentar a concorrência.",
   "fatos": [
@@ -215,6 +397,179 @@
   "publicadoEm": "2026-10-23T13:02:00-03:00",
   "data": "2026-10-23",
   "id": "2026-10-24-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 afeta economia e emprego",
+  "resumo": "O término da escala 6x1 pode causar impactos econômicos significativos no curto prazo e até levar à recessão em 2027, conforme análise da Abrasel.",
+  "fatos": [
+   "O fim da escala 6x1 altera a dinâmica de trabalho de muitos profissionais.",
+   "Mudanças nas jornadas podem gerar incertezas nos negócios.",
+   "A Abrasel aponta que essa situação pode impactar a economia do país."
+  ],
+  "numeros": [],
+  "fonte": "Economic News Brasil",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "A instabilidade pode afetar garantias de renda e segurança no trabalho.",
+  "angulo": "Aprender sobre o mercado financeiro pode ser uma alternativa para diversificar a renda e enfrentar incertezas.",
+  "gancho": "*Impacto do fim da escala* nos negócios",
+  "ideias": [
+   "Trabalho flexível: entenda os impactos!",
+   "Como a escala 6x1 afeta seu bolso?",
+   "Investir no futuro: mercado financeiro é a solução?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:31:26-03:00",
+  "url": "https://www.google.com/search?q=Impacto+econ%C3%B4mico+do+fim+da+escala+6x1+pode+levar+%C3%A0+recess%C3%A3o+em+2027%2C+diz+Abrasel+Economic+News+Brasil",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T12:12:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e seu impacto na aposentadoria",
+  "resumo": "A redução da jornada de trabalho pode impactar as contribuições ao INSS e a futura aposentadoria dos trabalhadores. Entenda como isso afetará suas finanças.",
+  "fatos": [
+   "O fim da escala 6x1 pode trazer mudanças significativas na jornada de trabalho.",
+   "Essa mudança pode afetar as contribuições ao INSS.",
+   "Consequentemente, pode impactar a aposentadoria dos trabalhadores."
+  ],
+  "numeros": [],
+  "fonte": "Radio Caxias FM",
+  "categoria": "Previdência",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "medo de ter aposentadoria comprometida",
+  "angulo": "Compreender as implicações da nova escala pode motivar a busca por aprender sobre investimentos e garantir uma aposentadoria financeira mais segura.",
+  "gancho": "Mudanças na *jornada de trabalho* impactam aposentadorias",
+  "ideias": [
+   "O que muda com o fim da escala 6x1?",
+   "Prepare-se para a aposentadoria mesmo com novas jornadas!",
+   "Entenda como a sua contribuição ao INSS pode mudar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:31:26-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6%C3%971%3A+redu%C3%A7%C3%A3o+da+jornada+pode+afetar+contribui%C3%A7%C3%A3o+ao+INSS+e+aposentadoria%3F+advogada+previdenci%C3%A1ria+explica+Radio+Caxias+FM",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T13:02:40-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Construtoras precisam de novos trabalhadores com fim da escala 6x1",
+  "resumo": "O fim da escala 6x1 pode levar construtoras a demandar quase 300 mil trabalhadores. Isso se reflete diretamente na necessidade de adaptação do mercado de trabalho.",
+  "fatos": [
+   "As construtoras enfrentam a necessidade de quase 300 mil novos empregados após o término da escala 6x1.",
+   "Os trabalhadores nessa área podem receber salários em torno de R$ 31 mil por ano.",
+   "Esse movimento afeta a dinâmica do mercado de trabalho e pode impactar os custos de projetos."
+  ],
+  "numeros": [
+   {
+    "valor": "300000",
+    "rotulo": "novos trabalhadores necessários"
+   },
+   {
+    "valor": "31",
+    "rotulo": "salário anual em mil reais"
+   }
+  ],
+  "fonte": "Diário do Litoral",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "medo de não conseguir emprego ou renda estável",
+  "angulo": "O novo cenário do mercado pode ser uma oportunidade para aprender sobre investimentos e diversificar a renda, livrando-se de amarras como horários fixos.",
+  "gancho": "Construtoras *buscam 300 mil trabalhadores novos*",
+  "ideias": [
+   "Como o fim da escala 6x1 afeta seu trabalho?",
+   "A nova demanda no setor de construção",
+   "Diversifique sua renda com o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:31:26-03:00",
+  "url": "https://www.google.com/search?q=Ap%C3%B3s+fim+da+escala+6%C3%971%2C+construtoras+podem+precisar+de+quase+300+mil+novos+trabalhadores+com+sal%C3%A1rios+de+R%24+31+mil+por+ano%3B+veja+impactos+Di%C3%A1rio+do+Litoral",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T14:04:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Impacto do fim da escala 6x1 no mercado",
+  "resumo": "Com o fim da escala 6x1, 2,6 milhões de trabalhadores no RJ podem ter suas jornadas alteradas, impactando o dia a dia e as finanças pessoais. Isso traz novas oportunidades no mercado financeiro.",
+  "fatos": [
+   "O fim da escala 6x1 pode afetar a jornada de trabalho de muitos profissionais.",
+   "2,6 milhões de trabalhadores no RJ estão envolvidos diretamente.",
+   "Mudanças na carga horária podem levar a reflexões sobre diversificação de renda."
+  ],
+  "numeros": [],
+  "fonte": "A Tribuna RJ",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "Incerteza sobre como o pagamento será impactado.",
+  "angulo": "Aprender sobre o mercado financeiro pode ajudar a diversificar a renda e criar novas oportunidades, mitigando os riscos da mudança na jornada de trabalho.",
+  "gancho": "O *fim da escala 6x1* e suas consequências",
+  "ideias": [
+   "Como a jornada de trabalho influencia suas finanças?",
+   "Diversifique sua renda além do salário",
+   "O que fazer com as mudanças no trabalho?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T15:31:26-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+pode+afetar+2%2C6+milh%C3%B5es+de+trabalhadores+no+RJ+A+Tribuna+RJ",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T14:49:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-05"
  },
  {
   "segmento": "trader",

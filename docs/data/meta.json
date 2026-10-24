@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-24T10:40:44-03:00",
+  "ultimaColeta": "2026-10-24T15:31:26-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1: impacto nos contratos; Custo de vida pressiona eleições e os cidadãos; França vive protestos contra *alto custo de vida*.",
+  "mensagem": "4 pauta(s) nova(s): Impacto do fim da escala 6x1 no mercado; Construtoras precisam de novos trabalhadores com fim da escala 6x1; Fim da escala 6x1 e seu impacto na aposentadoria.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-24T15:31:26-03:00",
    "2026-10-24T10:40:44-03:00",
    "2026-10-23T21:06:33-03:00",
    "2026-10-23T16:42:12-03:00",
@@ -18,21 +19,21 @@
    "2026-10-21T21:17:16-03:00",
    "2026-10-21T16:51:41-03:00",
    "2026-10-21T11:43:30-03:00",
-   "2026-10-20T21:13:13-03:00",
-   "2026-10-20T16:47:07-03:00"
+   "2026-10-20T21:13:13-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-24T10:40:44-03:00",
+  "ultimaColeta": "2026-10-24T15:31:26-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Queda das gigantes de tecnologia afeta o mercado; A defasagem do diesel e seu impacto nos negócios; Descontos da Hyundai e sua estratégia de mercado.",
+  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1 e seus impactos nas vendas; Meta Ads: IA promete 20% mais eficiência; Expectativa de R$ 9,04 bilhões nas vendas.",
   "falhas": [
    "E-Commerce Brasil (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-24T15:31:26-03:00",
    "2026-10-24T10:40:44-03:00",
    "2026-10-23T21:06:33-03:00",
    "2026-10-23T16:42:12-03:00",
@@ -43,8 +44,7 @@
    "2026-10-21T21:17:16-03:00",
    "2026-10-21T16:51:41-03:00",
    "2026-10-21T11:43:30-03:00",
-   "2026-10-20T21:13:13-03:00",
-   "2026-10-20T16:47:07-03:00"
+   "2026-10-20T21:13:13-03:00"
   ]
  }
 }
