@@ -1,6 +1,406 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Desempenho da Kering mostra fraca demanda no luxo",
+  "resumo": "A Kering enfrenta desafios no mercado de luxo, com queda nas vendas, destacando a necessidade de estratégias de marketing eficazes. Planejamento adequado é essencial para enfrentar a concorrência.",
+  "fatos": [
+   "A Kering registrou queda de 1% na receita no terceiro trimestre, somando 3,345 bilhões de euros.",
+   "As vendas de moda e artigos de couro recuaram 3%, enquanto as da Gucci caíram 6%.",
+   "O grupo está sendo afetado pela queda na demanda por itens de luxo, especialmente entre consumidores de luxo de entrada e compradores chineses.",
+   "Mudanças nas equipes de gestão e criação estão sendo implementadas em marcas como Gucci para recuperar desempenho.",
+   "A Kering mantém a meta de melhorar a margem operacional recorrente, mas não prevê crescimento antes de 2026."
+  ],
+  "numeros": [
+   {
+    "valor": "3,345 bilhões de euros",
+    "rotulo": "receita da Kering no 3º trimestre"
+   },
+   {
+    "valor": "1%",
+    "rotulo": "queda na receita"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "queda das vendas da Gucci"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Receitas comprometidas e demanda em declínio.",
+  "angulo": "A situação da Kering reforça a importância de um marketing estratégico e adaptável, essencial para fortalecer marcas e garantir receitas em tempos de crise.",
+  "gancho": "O que a *Kering* está perdendo?",
+  "ideias": [
+   "Marketing: a chave para o varejo em crise",
+   "Como o e-commerce pode salvar seu negócio",
+   "A importância de entender seu consumidor"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:40:44-03:00",
+  "url": "https://mercadoeconsumo.com.br/23/10/2026/mc-capital/kering-perde-folego-e-ve-vendas-pressionadas-em-mercado-de-luxo-ainda-fraco-no-3o-tri/",
+  "publicadoEm": "2026-10-23T12:33:47-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Descontos da Hyundai e sua estratégia de mercado",
+  "resumo": "A Hyundai reduz preços do i20, tornando-o mais atrativo que o VW Polo. Entenda o impacto dessa estratégia nas vendas e no comportamento do consumidor.",
+  "fatos": [
+   "A Hyundai oferece descontos de até R$ 5 mil no hatch i20.",
+   "O preço do i20 varia entre R$ 94.990 e R$ 134.990.",
+   "A versão Limited do i20 agora custa R$ 99.740 após a redução.",
+   "O Volkswagen Polo Track 1.0 começa a partir de R$ 97.990, sendo superado pelo i20.",
+   "As versões do i20 possuem equipamento de série como seis airbags e central multimídia."
+  ],
+  "numeros": [
+   {
+    "valor": "5",
+    "rotulo": "mil reais de desconto"
+   },
+   {
+    "valor": "14,3",
+    "rotulo": "km/l na versão turbo"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas para concorrentes mais competitivos",
+  "angulo": "A redução de preços mostra como o mercado se adapta. Empresários devem acompanhar mudanças para não ficarem para trás.",
+  "gancho": "*Hyundai corta preços* do i20 e impacta mercado!",
+  "ideias": [
+   "Como a redução de preços influencia suas vendas?",
+   "Aprenda com a estratégia da Hyundai!",
+   "Sua empresa está pronta para competir com descontos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:40:44-03:00",
+  "url": "https://canaltech.com.br/carros/hyundai-derruba-precos-do-i20-e-hatch-sai-mais-em-conta-que-vw-polo/",
+  "publicadoEm": "2026-10-23T17:00:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A defasagem do diesel e seu impacto nos negócios",
+  "resumo": "A alta do petróleo e a defasagem do diesel podem afetar os custos operacionais. Empresários precisam se adaptar a essas mudanças para manter a competitividade.",
+  "fatos": [
+   "A defasagem do diesel ultrapassou o subsídio do governo pela primeira vez, atingindo R$ 3,53 por litro.",
+   "O diesel está há 145 dias sem reajuste, enquanto acumula valorização de cerca de 70% neste ano.",
+   "O preço do petróleo ultrapassou US$ 100 o barril, ao invés dos esperados US$ 50."
+  ],
+  "numeros": [
+   {
+    "valor": "3,53",
+    "rotulo": "defasagem do diesel"
+   },
+   {
+    "valor": "145",
+    "rotulo": "dias sem reajuste do diesel"
+   },
+   {
+    "valor": "70",
+    "rotulo": "percentual de valorização do diesel"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Receio de aumento nos custos e impacto nas vendas.",
+  "angulo": "Com a defasagem do diesel e aumento dos custos, é essencial ter estratégias de marketing que ajudem na adaptação e na gestão das vendas.",
+  "gancho": "Impacto da *defasagem do diesel* nos preços",
+  "ideias": [
+   "Como a alta do diesel afeta seu negócio?",
+   "Estratégias para lidar com a defasagem do combustível",
+   "Preparando sua empresa para reajustes inevitáveis"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:40:44-03:00",
+  "url": "https://mercadoeconsumo.com.br/23/10/2026/economia/defasagem-do-diesel-nas-refinarias-da-petrobras-ultrapassa-subvencao-e-atinge-r-353-l/",
+  "publicadoEm": "2026-10-23T14:03:34-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Queda das gigantes de tecnologia afeta o mercado",
+  "resumo": "As maiores empresas de tecnologia dos EUA sofreram quedas acentuadas na Bolsa, refletindo preocupações com investimentos bilionários em inteligência artificial e suas implicações financeiras.",
+  "fatos": [
+   "O índice Nasdaq caiu 2,60%, seu pior desempenho diário desde junho.",
+   "A Nvidia perdeu 4,40% de seu valor, reduzindo seu market cap em cerca de US$ 229 bilhões.",
+   "O índice Philadelphia Semiconductor despencou 6,7%, refletindo o impacto nas empresas do setor.",
+   "A Meta anunciou gastos previstos de até US$ 145 bilhões em infraestrutura para IA.",
+   "Apesar das quedas, o Nasdaq acumulava uma valorização de 11,9% em 2026 até a data da queda."
+  ],
+  "numeros": [
+   {
+    "valor": "5,13 trilhões",
+    "rotulo": "valor de mercado da Nvidia após queda"
+   },
+   {
+    "valor": "2,12 bilhões",
+    "rotulo": "fluxo de caixa livre negativo da Meta"
+   },
+   {
+    "valor": "135 a 145 bilhões",
+    "rotulo": "gastos previstos pela Meta em 2026"
+   },
+   {
+    "valor": "11,9%",
+    "rotulo": "valorização do Nasdaq em 2026 até queda"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "Medo de perder mercado devido a novas tecnologias",
+  "angulo": "Essas preocupações destacam a importância de estratégias de marketing digital bem planejadas para empresas que buscam se adaptar à nova realidade do mercado.",
+  "gancho": "Investimentos em IA podem *impactar seus negócios*",
+  "ideias": [
+   "Oportunidades e riscos da IA para empresas",
+   "Como o marketing pode ajudar em tempos de crise",
+   "Prepare-se: o futuro é digital"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:40:44-03:00",
+  "url": "https://canaltech.com.br/mercado/o-que-esta-acontecendo-gigantes-da-tecnologia-desabam-na-bolsa-e-perdem-valor/",
+  "publicadoEm": "2026-10-23T13:02:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-24-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "O futuro da economia e seu impacto financeiro",
+  "resumo": "As propostas de Lula e Flávio Bolsonaro para o Imposto de Renda e IVA impactam diretamente o bolso do trabalhador. Entenda como essas mudanças podem influenciar a vida financeira de diferentes grupos.",
+  "fatos": [
+   "Lula quer manter a isenção do IR para quem recebe até R$ 5 mil por mês, com foco na taxação de grandes rendas.",
+   "Flávio Bolsonaro propõe rever a reforma tributária e diminuir o Imposto sobre Valor Agregado (IVA).",
+   "9 em cada 10 contribuintes terão isenção total ou parcial, beneficiando cerca de 10 milhões de pessoas.",
+   "A nova lei do IR, sancionada em 2025, prevê uma renúncia de R$ 25,84 bilhões para 2026.",
+   "Lula também defende o cashback para famílias de baixa renda e uma cesta básica isenta."
+  ],
+  "numeros": [
+   {
+    "valor": "25,84 bilhões",
+    "rotulo": "renúncia estimada para 2026"
+   },
+   {
+    "valor": "10 milhões",
+    "rotulo": "pessoas que deixarão de pagar IR"
+   },
+   {
+    "valor": "9 em 10",
+    "rotulo": "contribuintes com isenção total ou parcial"
+   },
+   {
+    "valor": "5 mil",
+    "rotulo": "renda mensal isenta de IR"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Impostos",
+  "publico": [
+   "CLT",
+   "Empresários",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "medo de perder a isenção e afetar o orçamento",
+  "angulo": "Entender a proposta tributária pode ajudar a moldar um futuro financeiro mais seguro e potencialmente lucrativo para você, por meio de investimentos no mercado financeiro.",
+  "gancho": "*O que muda no seu bolso?*",
+  "ideias": [
+   "Como a reforma tributária impacta sua renda?",
+   "Isenção de IR: você está preparado?",
+   "O futuro do IVA e como afeta seu dia a dia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:40:44-03:00",
+  "url": "https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-para-imposto-de-renda-e-iva/",
+  "publicadoEm": "2026-10-24T06:00:53-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "França vive protestos contra *alto custo de vida*",
+  "resumo": "França volta às ruas em ato contra o aumento no custo de vida, refletindo a insatisfação da população. A situação demanda atenção urgente para o impacto no dia a dia das famílias.",
+  "fatos": [
+   "Os cidadãos franceses estão se manifestando contra o alto custo de vida, que pesa no bolso.",
+   "Esses protestos são uma resposta direta ao aumento contínuo de preços em diversas áreas.",
+   "O forte policiamento reflete a tensão nas ruas e a seriedade das reivindicações."
+  ],
+  "numeros": [],
+  "fonte": "Terra",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "perda de poder de compra e aumento das despesas",
+  "angulo": "Aprender a lidar com as finanças é essencial para não depender apenas de um salário fixo e enfrentar instabilidades.",
+  "gancho": "Como enfrentar *os altos custos da vida*?",
+  "ideias": [
+   "Por que não depender só do salário?",
+   "Como aprender a investir e ter liberdade financeira",
+   "Dicas para enfrentar o aumento do custo de vida"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:40:44-03:00",
+  "url": "https://www.google.com/search?q=Sob+forte+tens%C3%A3o+e+policiamento%2C+Fran%C3%A7a+volta+%C3%A0s+ruas+para+novo+ato+contra+alto+custo+de+vida+Terra",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T08:34:00-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Custo de vida pressiona eleições e os cidadãos",
+  "resumo": "O debate eleitoral aborda temas cruciais como custo de vida, saúde e programas sociais. Os impactos desses assuntos afetam diretamente o bolso dos cidadãos e a administração de negócios.",
+  "fatos": [
+   "O último debate eleitoral trouxe à tona a discussão sobre o custo de vida.",
+   "Os candidatos trocaram acusações relacionadas a temas como saúde e programas sociais.",
+   "A preocupação com a administração dos recursos públicos é crescente entre os eleitores."
+  ],
+  "numeros": [],
+  "fonte": "Diário de Goiás",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "o que as pessoas gastam não para de aumentar",
+  "angulo": "Com o custo de vida em alta, aprender sobre o mercado financeiro se torna uma habilidade crucial para gerar renda e aliviar as preocupações financeiras atuais.",
+  "gancho": "Aumento do *custo de vida* é tema central",
+  "ideias": [
+   "Como o custo de vida afeta seu trabalho?",
+   "Entenda o impacto do custo de vida nos negócios",
+   "Custo de vida: como se preparar financeiramente"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:40:44-03:00",
+  "url": "https://www.google.com/search?q=%C3%9Altimo+debate+antes+da+elei%C3%A7%C3%A3o+tem+troca+de+acusa%C3%A7%C3%B5es+e+discuss%C3%A3o+sobre+custo+de+vida%2C+sa%C3%BAde+e+programas+sociais+Di%C3%A1rio+de+Goi%C3%A1s",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T08:39:26-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impacto nos contratos",
+  "resumo": "A mudança da escala 6x1 pode influenciar a relação entre empregados e empregadores nos contratos administrativos. Isso traz novas dinâmicas para o mercado de trabalho.",
+  "fatos": [
+   "A mudança na escala de trabalho pode afetar a necessidade de profissionais para cumprir o horário estabelecido.",
+   "Empregadores e empregados terão que se adaptar às novas exigências legais.",
+   "Esse novo cenário pode elevar os custos de operação para empresas que atendem a administração pública."
+  ],
+  "numeros": [],
+  "fonte": "Consultor Jurídico",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Empresários"
+  ],
+  "dor": "Aumento nos custos e incertezas contratuais.",
+  "angulo": "Entender essas mudanças é essencial para profissionais e empresários que buscam estratégias que não dependam apenas de uma jornada fixa de trabalho.",
+  "gancho": "Novo cenário: *como se preparar*?",
+  "ideias": [
+   "Como a nova escala muda seu contrato?",
+   "Impactos da mudança de escala no trabalho",
+   "Prepare-se para o fim da escala 6x1"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-24T10:40:44-03:00",
+  "url": "https://www.google.com/search?q=Qual+o+impacto+do+fim+da+escala+6x1+nos+contratos+administrativos%3F+Consultor+Jur%C3%ADdico",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-24T09:22:23-03:00",
+  "data": "2026-10-24",
+  "id": "2026-10-24-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Crescimento moderado nas vendas de shoppings e lucros em alta",
   "resumo": "As vendas nos shoppings desaceleraram, mas lucros podem crescer no 3º trimestre de 2026, segundo Itaú BBA. Essa situação evidencia a necessidade de estratégia de marketing aprimorada.",
   "fatos": [
