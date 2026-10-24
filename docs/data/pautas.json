@@ -1,6 +1,198 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Crescimento moderado nas vendas de shoppings e lucros em alta",
+  "resumo": "As vendas nos shoppings desaceleraram, mas lucros podem crescer no 3º trimestre de 2026, segundo Itaú BBA. Essa situação evidencia a necessidade de estratégia de marketing aprimorada.",
+  "fatos": [
+   "As vendas totais devem crescer entre 1% a 9% no 3º trimestre de 2026.",
+   "Allos e Iguatemi terão crescimento de 3% e Multiplan de 4% nas vendas das mesmas lojas em relação a 2025.",
+   "Lucro líquido da Multiplan pode chegar a R$ 370 milhões, 67,1% a mais que o ano anterior.",
+   "As ações do setor valorizaram entre 35% e 40% desde agosto.",
+   "Menor inflação deve limitar o crescimento das receitas de aluguel, a relação com IGP-DI será de 1,3%."
+  ],
+  "numeros": [
+   {
+    "valor": "370",
+    "rotulo": "milhões de lucro líquido previsto para a Multiplan"
+   },
+   {
+    "valor": "100",
+    "rotulo": "crescimento percentual no Ebitda da Iguatemi"
+   },
+   {
+    "valor": "14",
+    "rotulo": "crescimento percentual no Ebitda da Allos"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Indústria"
+  ],
+  "dor": "Deixar de capturar clientes devido à fraca presença online",
+  "angulo": "A desaceleração das vendas nos shoppings revela a importância de estratégias de marketing digital robustas para não perder espaço no mercado.",
+  "gancho": "Vendas desaceleram, mas *lucros aumentam*!",
+  "ideias": [
+   "Como o marketing digital pode salvar seu negócio?",
+   "Por que você precisa de um site agora?",
+   "Desaceleração nas vendas: o que fazer?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://mercadoeconsumo.com.br/23/10/2026/noticias/vendas-dos-shoppings-desaceleram-mas-lucros-devem-crescer-no-3o-trimestre-preve-itau-bba/",
+  "publicadoEm": "2026-10-23T12:16:15-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inflação cai, mas o impacto persiste nos negócios",
+  "resumo": "A prévia da inflação de outubro chegou a 0,32%, o que pode impactar o comportamento do consumidor. Empresários precisam se adaptar às novas realidades econômicas.",
+  "fatos": [
+   "A prévia da inflação oficial de outubro ficou em 0,32%, menos da metade do mês anterior.",
+   "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) acumula 4,62% em 12 meses.",
+   "Esses índices podem afetar diretamente as vendas e a estratégia de negócios."
+  ],
+  "numeros": [],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "temor de queda nas vendas e lucros",
+  "angulo": "Com a inflação em queda, empresas devem rever suas estratégias de marketing e vendas para não perder espaço no mercado.",
+  "gancho": "Impacto da *inflação nas vendas*",
+  "ideias": [
+   "Como a inflação afeta seu negócio?",
+   "Estratégias para lidar com a queda na inflação",
+   "Preparando-se para mudanças no comportamento do consumidor"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://mercadoeconsumo.com.br/23/10/2026/economia/previa-da-inflacao-oficial-cai-pela-metade-e-fecha-outubro-em-032/",
+  "publicadoEm": "2026-10-23T13:45:44-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como o aumento de gastos impacta seu negócio",
+  "resumo": "59% dos brasileiros sentem o peso das despesas. Entenda como isso afeta suas vendas e o comportamento do consumidor.",
+  "fatos": [
+   "59% dos brasileiros afirmam que os gastos com alimentação e supermercado impactam seu orçamento.",
+   "40% sofrem com despesas de moradia, aluguel ou financiamento.",
+   "41% indicam que o final do mês é o período mais difícil para equilibrar finanças.",
+   "28% precisam fazer cortes ou ajustes nos gastos essenciais.",
+   "75% dos consumidores planejam seus gastos antes do mês começar."
+  ],
+  "numeros": [
+   {
+    "valor": "59",
+    "rotulo": "porcentagem de brasileiros afetados por altos gastos"
+   },
+   {
+    "valor": "41",
+    "rotulo": "porcentagem que enfrenta dificuldades no final do mês"
+   },
+   {
+    "valor": "75",
+    "rotulo": "porcentagem que faz planejamento mensal"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "Perda de vendas e dificuldades financeiras constantes.",
+  "angulo": "Neste cenário desafiador, a gestão eficiente do marketing digital se torna essencial para captar a atenção dos consumidores e garantir relevância no mercado.",
+  "gancho": "O que *afeta seu negócio* hoje?",
+  "ideias": [
+   "Entenda como os hábitos de consumo mudaram",
+   "A importância do planejamento financeiro",
+   "Como o marketing pode aliviar sua dor financeira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://mercadoeconsumo.com.br/23/10/2026/noticias-varejo/alimentacao-e-supermercado-pesam-no-orcamento-de-59-dos-brasileiros-aponta-serasa248256/",
+  "publicadoEm": "2026-10-23T15:19:32-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Marketing relevante é essencial na Black Friday",
+  "resumo": "O varejo enfrenta a saturação de anúncios que afeta vendas. As marcas precisam rever suas estratégias para atender às novas demandas dos consumidores e se destacar na Black Friday.",
+  "fatos": [
+   "58,4% dos consumidores se sentem bombardeados por anúncios comerciais.",
+   "53,3% consideram as propagandas irritantes.",
+   "Ofertas em redes sociais têm 50,8% de lembrança e 30,3% de conversão em compras.",
+   "55,8% dos brasileiros usaram ofertas promocionais nos últimos seis meses.",
+   "59,6% dos consumidores preferem ver pessoas reais nas campanhas."
+  ],
+  "numeros": [
+   {
+    "valor": "55,8",
+    "rotulo": "consumidores que usaram ofertas promocionais"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas e relevância diante da concorrência",
+  "angulo": "Na saturação publicitária, o marketing precisa se tornar mais relevante e personalizado, algo que pode ser facilitado com uma gestão eficiente das redes sociais e assessoria de marketing.",
+  "gancho": "Atenção do consumidor: *saturação e relevância*",
+  "ideias": [
+   "Como superar a saturação de anúncios?",
+   "Dicas para campanhas eficazes na Black Friday",
+   "A importância da personalização no marketing"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/saturacao-de-anuncios-desafia-marcas-na-black-friday",
+  "publicadoEm": "2026-10-23T18:19:32-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-vpr-13"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Novas regras do Google impactam anúncios e seu negócio",
   "resumo": "O Google agora pode usar dados do Gmail e Google Fotos para personalizar anúncios. Essa mudança pode afetar como sua empresa se comunica e é vista na publicidade digital.",
   "fatos": [
@@ -576,6 +768,300 @@
   "publicadoEm": "2026-10-23T07:04:00-03:00",
   "data": "2026-10-23",
   "id": "2026-10-23-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Como as propostas econômicas impactam seu bolso",
+  "resumo": "Lula e Flávio Bolsonaro têm visões opostas sobre como controlar inflação e juros. Suas propostas poderão afetar diretamente o custo de vida das famílias brasileiras.",
+  "fatos": [
+   "Lula prioriza o controle da inflação e crédito rural para fortalecer a produção de alimentos.",
+   "Flávio Bolsonaro foca na reorganização das contas públicas e na redução de impostos.",
+   "Ambos os candidatos não estabelecem metas específicas para a queda dos juros ou dos preços dos alimentos.",
+   "O crescimento econômico deve se traduzir em aumento da renda real, segundo as propostas.",
+   "A estabilização da dívida pública é vista como fundamental para a redução dos juros, segundo Flávio."
+  ],
+  "numeros": [
+   {
+    "valor": "2027-2030",
+    "rotulo": "período do mandato pretendido"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Medo de aumento nos preços e queda no poder de compra",
+  "angulo": "Entender como as propostas eleitorais influenciam sua vida financeira é crucial. O mercado financeiro oferece alternativas para aumentar sua renda sem depender de empregos fixos.",
+  "gancho": "Os *efeitos das propostas econômicas* no seu bolso",
+  "ideias": [
+   "O futuro econômico: Lula vs. Flávio",
+   "Como a inflação impacta seu dia a dia",
+   "O que esperar das propostas para 2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-falam-sobre-juros-inflacao-e-o-preco-dos-alimentos/",
+  "publicadoEm": "2026-10-23T18:00:39-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-23"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Ajustes no mercado financeiro são essenciais hoje",
+  "resumo": "Dependência de salário e empregos fixos é arriscada. O mercado financeiro oferece autonomia e novas fontes de renda. Conheça como investir pode mudar sua vida financeira.",
+  "fatos": [
+   "O Brasil enfrenta um cenário de instabilidade econômica, o que pode impactar negativamente os salários e empregos tradicionais.",
+   "O fim da jornada 6x1 e o aumento da informalidade colocam em risco a estabilidade financeira de muitos trabalhadores.",
+   "Empreendedores e profissionais liberais também sentem os efeitos de tributações elevadas e custos crescentes.",
+   "O mercado financeiro se apresenta como uma alternativa viável para geração de renda, sem estar atrelado a horários fixos.",
+   "A diversificação de renda pode ajudar a proteger contra crises e incertezas do mercado de trabalho."
+  ],
+  "numeros": [],
+  "fonte": "Poder360",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Você teme depender só de um salário instável.",
+  "angulo": "A insegurança do emprego formal mostra que investir no mercado financeiro pode ser uma alternativa rentável e segura.",
+  "gancho": "Invista em sua liberdade financeira!",
+  "ideias": [
+   "O Fim da Segurança no Trabalho",
+   "Como a Crise Afeta Seu Salário",
+   "Investir Para Garantir Seu Futuro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanhas-de-lula-e-flavio-preparam-novas-ofensivas-nesta-6a-feira/",
+  "publicadoEm": "2026-10-23T19:28:27-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-22"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novas regras do BC ajudam a controlar dívidas",
+  "resumo": "O Banco Central implementa regras que garantem mais proteção ao consumidor na hora de contratar crédito. O foco é evitar dívidas excessivas e aumentar a transparência nas ofertas.",
+  "fatos": [
+   "As novas regras começam a ser implementadas em 2027, com foco na proteção do consumidor.",
+   "Um painel de consulta de dívidas será disponibilizado para ajudar o cliente a entender sua situação financeira.",
+   "Os bancos precisarão fornecer simulações de custos antes que novas dívidas sejam contratadas."
+  ],
+  "numeros": [
+   {
+    "valor": "31 de março de 2027",
+    "rotulo": "vigência da Resolução BCB 602"
+   },
+   {
+    "valor": "1º de julho de 2027",
+    "rotulo": "início do Painel de Dívidas Consolidadas"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Impostos",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Medo de contrair dívidas que não podem ser pagas",
+  "angulo": "Aprender sobre finanças pode ajudar a evitar dívidas desnecessárias, aumentando o controle sobre sua vida financeira.",
+  "gancho": "Aprenda a *não cair em armadilhas* financeiras",
+  "ideias": [
+   "Entenda as novas regras do crédito",
+   "Como controlar suas dívidas com as novas mudanças",
+   "A importância do conhecimento financeiro na proteção ao consumidor"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bc-reforca-regras-de-protecao-ao-consumidor-nas-ofertas-de-credito",
+  "publicadoEm": "2026-10-23T19:31:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-21"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novas regras ampliam proteção do consumidor financeiro",
+  "resumo": "Banco Central aprova medidas para melhorar a transparência em ofertas de crédito. Mudanças podem impactar a forma como consumidores lidam com suas finanças.",
+  "fatos": [
+   "O Banco Central aprovou três resoluções para instituições financeiras sobre crédito.",
+   "As novas regras asseguram mais transparência e protegem contra ofertas abusivas.",
+   "Uma das medidas permite que consumidores bloqueiem propagandas e ofertas ativas.",
+   "Empresas deverão oferecer o Painel de Dívidas Consolidadas para melhor entendimento da capacidade de pagamento.",
+   "As normas começam a valer entre março e julho de 2027."
+  ],
+  "numeros": [
+   {
+    "valor": "R$1,15 trilhão",
+    "rotulo": "carteira de crédito do Bradesco"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Juros e crédito",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "medo de endividamento e falta de clareza nas ofertas",
+  "angulo": "Com as novas regras, entender melhor seu crédito é fundamental para evitar armadilhas do mercado. Aprender sobre finanças é um passo essencial para se proteger e garantir sua renda.",
+  "gancho": "Proteja seu bolso com *novas regras de crédito*",
+  "ideias": [
+   "Entenda suas finanças com as novas regras",
+   "Como evitar armadilhas no crédito",
+   "A importância do Painel de Dívidas Consolidadas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://www.infomoney.com.br/economia/bc-aprova-medidas-para-ampliar-protecao-de-consumidor-financeiro-em-credito/",
+  "publicadoEm": "2026-10-23T20:14:38-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-20"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Privatizações afetam seu bolso e suas finanças pessoais",
+  "resumo": "Os programas de governo propostos pelos candidatos influenciam diretamente a economia e podem impactar seu custo de vida. É essencial compreender como essas mudanças podem afetar seu futuro financeiro.",
+  "fatos": [
+   "As propostas dos candidatos abordam privatizações, eficiência estatal e reforma administrativa.",
+   "Durante o governo Jair Bolsonaro, 76 empresas públicas foram privatizadas, incluindo a emblemática Eletrobras.",
+   "Lula contraria privatizações e aposta em concessões e parcerias públicas para infraestrutura."
+  ],
+  "numeros": [
+   {
+    "valor": "33,7 bilhões",
+    "rotulo": "valor da privatização da Eletrobras"
+   },
+   {
+    "valor": "76",
+    "rotulo": "empresas públicas privatizadas"
+   }
+  ],
+  "fonte": "Agência Brasil Política",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "temor de perda de renda e aumento do custo de vida",
+  "angulo": "Entender o impacto das privatizações é fundamental para gerenciar suas finanças. Aprender como investir no mercado pode proporcionar a liberdade financeira que o salário não oferece.",
+  "gancho": "a *privatização* pode impactar seu dia a dia",
+  "ideias": [
+   "Como as privatizações podem afetar seu bolso?",
+   "Entenda as propostas dos candidatos e suas consequências",
+   "Desmistificando a privatização: o que você precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-propoe-retomada-de-privatizacoes-lula-quer-fortalecer-empresas",
+  "publicadoEm": "2026-10-23T09:33:00-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-19"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Supermercado pesa no bolso; descubra como escapar",
+  "resumo": "Dados da Serasa mostram que 59% dos brasileiros sentem o impacto dos gastos com alimentação no orçamento. Aprender sobre o mercado financeiro pode ser a solução para lidar melhor com essas despesas.",
+  "fatos": [
+   "Quase 60% dos brasileiros afirmam que a alimentação é o maior peso no orçamento.",
+   "41% enfrentam dificuldades financeiras na terceira e quarta semanas do mês.",
+   "28% dos consumidores precisam cortar gastos ou adiar pagamentos devido a dificuldades.",
+   "29% reduzem despesas não essenciais quando o salário é insuficiente.",
+   "A pesquisa ouviu 1.008 pessoas em todo o Brasil, com margem de erro de 3,1 pontos percentuais."
+  ],
+  "numeros": [
+   {
+    "valor": "59",
+    "rotulo": "percentual que sente peso da alimentação"
+   },
+   {
+    "valor": "41",
+    "rotulo": "percentual que enfrenta dificuldades nas últimas semanas do mês"
+   },
+   {
+    "valor": "28",
+    "rotulo": "percentual que precisa cortar gastos"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "viver com despesas que comprometem a renda mensal",
+  "angulo": "Com os preços altos, é vital aprender a trabalhar com renda extra e diversificação financeira, conhecendo o mercado financeiro como forma de escapar dessas amarras.",
+  "gancho": "como *escapar do peso do supermercado*?",
+  "ideias": [
+   "Dicas para reduzir gastos no supermercado",
+   "Como criar uma reserva financeira",
+   "Alternativas para aumentar a renda no dia a dia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-23T21:06:33-03:00",
+  "url": "https://www.infomoney.com.br/economia/supermercado-e-o-que-mais-pesa-no-bolso-dos-brasileiros-aponta-pesquisa/",
+  "publicadoEm": "2026-10-23T19:57:03-03:00",
+  "data": "2026-10-23",
+  "id": "2026-10-23-trader-18"
  },
  {
   "segmento": "trader",
