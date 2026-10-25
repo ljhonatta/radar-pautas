@@ -1,6 +1,271 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Fiat se adapta para enfrentar concorrência chinesa",
+  "resumo": "A Fiat avalia relançar um SUV icônico para competir no mercado brasileiro. A pressão das marcas chinesas exige inovação e atualização das linhas de produtos.",
+  "fatos": [
+   "A Fiat pode recuperar um modelo que saiu de linha há quase uma década.",
+   "As projeções digitais foram feitas pelo designer Kleber Silva.",
+   "A proposta se alinha à preferência atual por SUVs de aparência aventureira.",
+   "Chinesas estão pressionando marcas tradicionais a renovar suas linhas.",
+   "Não há confirmação oficial sobre a retomada do projeto."
+  ],
+  "numeros": [],
+  "fonte": "Canaltech",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "temor de perder competitividade e clientes",
+  "angulo": "A resiliência da Fiat frente à competição chinesa é um exemplo de como inovação é vital. Uma estratégia bem planejada pode impulsionar negócios e manter relevância no mercado.",
+  "gancho": "como *inovar é essencial para sobreviver*",
+  "ideias": [
+   "Como se destacar no mercado competitivo?",
+   "A importância da inovação no seu negócio",
+   "Estratégias para enfrentar concorrência"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://canaltech.com.br/carros/fiat-quer-ressuscitar-suv-iconico-para-encarar-chineses/",
+  "publicadoEm": "2026-10-25T12:01:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Desafios na hora de investir em IA e IPOs",
+  "resumo": "A instabilidade do mercado e os altos juros impactam empresas de IA, exacerbando a necessidade de marketing eficaz. O IPO da Anthropic pode ser um reflexo da demanda no setor.",
+  "fatos": [
+   "A Anthropic planeja abrir seu capital em novembro apesar da instabilidade financeira.",
+   "Outras empresas de IA estão adiando suas estreias na bolsa devido a incertezas do mercado.",
+   "A operação da Anthropic pode avaliar a empresa em até US$ 1,5 trilhão.",
+   "Com a alta de taxas de juros, torna-se difícil obter avaliações atrativas para IPOs.",
+   "A recepção do IPO da Anthropic pode influenciar o timing de outras ofertas de ações no setor."
+  ],
+  "numeros": [
+   {
+    "valor": "1,5 trilhões",
+    "rotulo": "avaliação da Anthropic"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perder oportunidades diante da instabilidade e novos desafios",
+  "angulo": "O cenário desafiador ressalta a importância de um marketing estruturado e de um planejamento para empresas que desejam se destacar no mercado volátil.",
+  "gancho": "Como a *instabilidade de mercado* afeta seus negócios?",
+  "ideias": [
+   "Entenda o impacto do mercado nas empresas de IA",
+   "Por que planejar seu IPO agora é crucial?",
+   "A importância do marketing em tempos de incerteza"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://olhardigital.com.br/2026/10/25/pro/anthropic-prepara-ipo-bilionario-enquanto-empresas-de-ia-adiam-estreia-na-bolsa/",
+  "publicadoEm": "2026-10-25T15:12:19-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência artificial ainda não traz retorno financeiro",
+  "resumo": "O uso de inteligência artificial não gerou retorno financeiro significativo para empresas que não estão no setor de tecnologia, segundo economista.",
+  "fatos": [
+   "Inteligência artificial tem sido adotada por diversas empresas.",
+   "No entanto, seu impacto financeiro é limitado fora do setor tecnológico.",
+   "Economista alerta sobre as expectativas não cumpridas em outros segmentos."
+  ],
+  "numeros": [],
+  "fonte": "BlockTrends",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "perda de investimento em novas tecnologias sem retorno",
+  "angulo": "A falta de retorno financeiro destaca a importância de um planejamento bem estruturado para o uso de IA nos negócios.",
+  "gancho": "Inteligência artificial *não garante retorno financeiro*",
+  "ideias": [
+   "O desafio da IA fora da tecnologia",
+   "Planejamento: a chave para a IA",
+   "Investir em IA: vale a pena?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "alta",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://www.google.com/search?q=Intelig%C3%AAncia+artificial+n%C3%A3o+gerou+retorno+financeiro+para+empresas+fora+do+setor+de+tecnologia%2C+diz+economista+BlockTrends",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T15:32:15-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Varejo contrata mulheres para o fim de ano",
+  "resumo": "A pesquisa revela que o varejo está priorizando contratações femininas neste fim de ano. Essa mudança pode impactar as vendas e o comportamento do consumidor.",
+  "fatos": [
+   "O varejo tem adaptado suas estratégias de contratação para incluir mais mulheres.",
+   "Essa priorização pode afetar a dinâmica de vendas no período de festas.",
+   "Entender essas mudanças é vital para os empresários que desejam se destacar."
+  ],
+  "numeros": [],
+  "fonte": "Capital News",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de oportunidades em um mercado competitivo.",
+  "angulo": "Com as mudanças nos processos de contratação, é crucial que os empresários se adaptem para maximizar vendas e garantir um bom atendimento.",
+  "gancho": "Varejo e as *novas contratações femininas*",
+  "ideias": [
+   "Por que o varejo prioriza mulheres?",
+   "Impactos das contratações nas vendas",
+   "Como se adaptar às novas tendências"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://www.google.com/search?q=Varejo+prioriza+mulheres+nas+contrata%C3%A7%C3%B5es+tempor%C3%A1rias+de+fim+de+ano%2C+diz+pesquisa+Capital+News",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T09:16:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Comércio online prevê alta nas vendas em 2023",
+  "resumo": "O comércio eletrônico estima um aumento significativo nas vendas, o que pode impactar positivamente os negócios. Empresas devem se preparar para capitalizar essa tendência.",
+  "fatos": [
+   "O comércio online prevê um crescimento de mais de 20% em vendas.",
+   "Esse aumento pode resultar em R$ 13,3 bilhões em vendas.",
+   "A expectativa é que o setor continue a crescer nos próximos anos."
+  ],
+  "numeros": [
+   {
+    "valor": "20",
+    "rotulo": "crescimento previsto nas vendas"
+   },
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "em vendas no comércio online"
+   }
+  ],
+  "fonte": "A TARDE",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "temor de perder vendas para e-commerce",
+  "angulo": "Com o crescimento das vendas online, é essencial ter um site e gestão eficaz de redes sociais para se destacar no mercado.",
+  "gancho": "Prepare-se para *a alta das vendas online!*",
+  "ideias": [
+   "Sua empresa pronta para o aumento das vendas?",
+   "Descubra como o e-commerce pode alavancar seu negócio!",
+   "Está preparado para o crescimento do comércio online?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://www.google.com/search?q=Com%C3%A9rcio+online+prev%C3%AA+alta+de+mais+de+20%25+e+R%24+13%2C3+bilh%C3%B5es+em+vendas+A+TARDE",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T09:37:37-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday 2026 promete arrecadar bilhões no online",
+  "resumo": "A Black Friday de 2026 é esperada para movimentar uma quantia significativa no comércio online, demandando atenção das empresas. As oportunidades devem ser aproveitadas com estratégia.",
+  "fatos": [
+   "A Black Friday de 2026 deverá gerar movimentação de R$ 13,3 bilhões.",
+   "O evento se configurará como uma oportunidade para as empresas do comércio online.",
+   "É essencial que as marcas se preparem para maximizar suas vendas."
+  ],
+  "numeros": [
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "projeção de vendas na Black Friday"
+   }
+  ],
+  "fonte": "Fala Você Notícias",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas essenciais durante datas comerciais",
+  "angulo": "A expectativa da Black Friday destaca a importância de um site eficaz e estratégia de marketing digital para não perder oportunidades.",
+  "gancho": "Descubra como *preparar seu negócio*",
+  "ideias": [
+   "Como se preparar para a Black Friday",
+   "Importância de um site antes da Black Friday",
+   "Estratégias para aproveitar a venda online"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://www.google.com/search?q=Black+Friday+2026+deve+movimentar+R%24+13%2C3+bilh%C3%B5es+no+com%C3%A9rcio+online+Fala+Voc%C3%AA+Not%C3%ADcias",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T11:15:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-09"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Google apresenta ferramentas de IA para pequenos negócios",
   "resumo": "O Google lançou três novas ferramentas de inteligência artificial visando apoiar pequenos negócios a melhorar suas operações e atendimento ao cliente.",
   "fatos": [
@@ -361,6 +626,171 @@
   "publicadoEm": "2026-10-24T16:43:00-03:00",
   "data": "2026-10-24",
   "id": "2026-10-25-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: o que muda para o agro",
+  "resumo": "O fim da escala 6x1 traz mudanças preocupantes para o setor agropecuário e gera incertezas sobre quem vai arcar com os custos dessa mudança.",
+  "fatos": [
+   "A alteração na escala de trabalho pode impactar a rotina dos trabalhadores do agro.",
+   "A expectativa é de que essa mudança tenha reflexos diretos nos custos operacionais.",
+   "Os empresários do setor devem se preparar para ajustar suas estratégias e orçamentos."
+  ],
+  "numeros": [],
+  "fonte": "Canal Rural",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Perda de flexibilidade e aumento de custos operacionais.",
+  "angulo": "Com as mudanças nas escalas de trabalho, entender o mercado financeiro se torna essencial para enfrentar novos desafios sem depender somente do salário.",
+  "gancho": "*Mudanças no trabalho* e seus reflexos no agro",
+  "ideias": [
+   "O que significa o fim da escala 6x1?",
+   "Como se adaptar ao novo normal no trabalho?",
+   "Aumente sua renda aprendendo sobre o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6x1%3A+o+que+muda+para+o+agro+e+quem+paga+a+conta%3F+Canal+Rural",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T13:00:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Protestos na Europa mostram a pressão no bolso",
+  "resumo": "Protestos em países europeus refletem o descontentamento com o alto custo de vida. Essa situação pode afetar a economia e gerar desemprego.",
+  "fatos": [
+   "Cidadãos estão se mobilizando contra a inflação alta e o aumento do custo de vida.",
+   "Esses protestos podem resultar em instabilidade econômica, afetando a geração de empregos.",
+   "A pressão no bolso pode fazer com que muitos reconsiderem suas fontes de renda."
+  ],
+  "numeros": [],
+  "fonte": "Estadão",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "preocupação com a diminuição do poder de compra",
+  "angulo": "Com a instabilidade econômica, é essencial diversificar a renda para enfrentar a pressão no custo de vida.",
+  "gancho": "Como *ajustar sua renda* em tempos difíceis?",
+  "ideias": [
+   "Renda extra: você está preparado?",
+   "Custo de vida alto: como lidar?",
+   "Diversifique sua renda agora!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://www.google.com/search?q=Onda+de+protestos+contra+alto+custo+de+vida+toma+conta+de+pa%C3%ADses+da+Europa+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T13:43:21-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Inflação em queda é oportunidade para traders",
+  "resumo": "A prévia da inflação de outubro apresenta uma diminuição, impulsionada pela queda nos preços de água e luz. Essa tendência pode impactar o bolso do brasileiro e as estratégias de negócios.",
+  "fatos": [
+   "A prévia da inflação de outubro é menor do que em meses anteriores.",
+   "Os preços de água e luz estão em queda, contribuindo para essa redução.",
+   "Uma inflação mais baixa pode afetar o poder de compra e a administração de negócios."
+  ],
+  "numeros": [],
+  "fonte": "Porto Alegre 24 Horas",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Aumento contínuo do custo de vida e incerteza econômica.",
+  "angulo": "Com a inflação em queda, aprender sobre o mercado financeiro pode ajudar a montar estratégias que aumentam a renda sem depender apenas de salários.",
+  "gancho": "*Inflação em queda* e oportunidades no mercado financeiro",
+  "ideias": [
+   "Como a inflação em queda pode te ajudar?",
+   "Mercado financeiro: a solução para sua renda",
+   "Desvendando o impacto da inflação no seu bolso"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://www.google.com/search?q=Pr%C3%A9via+da+infla%C3%A7%C3%A3o+de+outubro+no+Brasil+%C3%A9+menor%2C+com+queda+de+pre%C3%A7os+de+%C3%A1gua+e+luz+Porto+Alegre+24+Horas",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T15:22:15-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e suas consequências",
+  "resumo": "A mudança na escala de trabalho pode impactar significativamente as empresas. É importante que empreendedores se adaptem a essa nova realidade.",
+  "fatos": [
+   "A escala 6x1, muito utilizada em diversos setores, está sendo revista por seu impacto nas operações.",
+   "As empresas precisarão se ajustar para garantir produtividade e satisfação dos funcionários.",
+   "Mudanças na legislação podem trazer desafios e oportunidades para os negócios."
+  ],
+  "numeros": [],
+  "fonte": "Revista Oeste",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "aumento de custos e dificuldades operacionais",
+  "angulo": "adaptar-se às novas escalas de trabalho é essencial para manter a rentabilidade e segurança nas operações.",
+  "gancho": "Descubra os *impactos da nova escala*",
+  "ideias": [
+   "Como se adaptar ao fim da escala 6x1",
+   "Preparação para mudanças nas leis trabalhistas",
+   "Impacto da nova escala nas pequenas empresas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T15:39:53-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6x1%3A+quais+os+impactos+para+as+empresas+e+como+se+preparar%3F+Revista+Oeste",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T14:00:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-05"
  },
  {
   "segmento": "trader",

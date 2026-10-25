@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-25T10:59:04-03:00",
+  "ultimaColeta": "2026-10-25T15:39:53-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1 e seus impactos financeiros; Fim da escala 6x1: mudanças no trabalho; Fim da escala 6x1 impacta setor de petróleo e gás.",
+  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1 e suas consequências; Inflação em queda é oportunidade para traders; Protestos na Europa mostram a pressão no bolso.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-25T15:39:53-03:00",
    "2026-10-25T10:59:04-03:00",
    "2026-10-24T20:50:10-03:00",
    "2026-10-24T15:31:26-03:00",
@@ -18,21 +19,21 @@
    "2026-10-22T21:13:47-03:00",
    "2026-10-22T16:40:41-03:00",
    "2026-10-22T11:43:18-03:00",
-   "2026-10-21T21:17:16-03:00",
-   "2026-10-21T16:51:41-03:00"
+   "2026-10-21T21:17:16-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-25T10:59:04-03:00",
-  "novas": 8,
+  "ultimaColeta": "2026-10-25T15:39:53-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): Mudanças nas tarifas impactam comércio com Canadá; Vendas online vão crescer mais de 20% em breve; Mudança de modelo impacta na experiência do cliente.",
+  "mensagem": "6 pauta(s) nova(s): Black Friday 2026 promete arrecadar bilhões no online; Comércio online prevê alta nas vendas em 2023; Varejo contrata mulheres para o fim de ano.",
   "falhas": [
-   "E-Commerce Brasil (ConnectTimeout)"
+   "E-Commerce Brasil (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-25T15:39:53-03:00",
    "2026-10-25T10:59:04-03:00",
    "2026-10-24T20:50:10-03:00",
    "2026-10-24T15:31:26-03:00",
@@ -43,8 +44,7 @@
    "2026-10-22T21:13:47-03:00",
    "2026-10-22T16:40:41-03:00",
    "2026-10-22T11:43:18-03:00",
-   "2026-10-21T21:17:16-03:00",
-   "2026-10-21T16:51:41-03:00"
+   "2026-10-21T21:17:16-03:00"
   ]
  }
 }
