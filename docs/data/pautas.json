@@ -1,6 +1,291 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Câmeras de 50MP e 5G: potente combinação da Motorola",
+  "resumo": "A Motorola mantém sua popularidade no Brasil com smartphones 5G e câmeras de alta qualidade. Confira as promoções e descubra como isso pode impactar o seu negócio.",
+  "fatos": [
+   "A linha Moto G oferece ótimo custo-benefício e conectividade 5G.",
+   "O Moto g35 5G conta com câmera de 50MP e tela de 6,7 polegadas.",
+   "O Moto g56 5G possui câmera Sony Lytia 600 de 50MP e 256GB de armazenamento.",
+   "O Moto G06 tem bateria de 5200 mAh e tela de 6,9 polegadas.",
+   "Os estoques em promoção na Amazon são limitados e os preços podem mudar rapidamente."
+  ],
+  "numeros": [],
+  "fonte": "Olhar Digital",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "não se destacar em um mercado competitivo",
+  "angulo": "Entender como a tecnologia e as promoções impactam as vendas pode levar sua empresa a adotar estratégias mais eficientes.",
+  "gancho": "Descubra como *a Motorola pode impulsionar suas vendas*",
+  "ideias": [
+   "Por que investir em tecnologia de ponta?",
+   "Como as promoções impactam suas vendas?",
+   "A importância de acompanhar as novidades do mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://olhardigital.com.br/2026/10/25/reviews/motorola-em-destaque-smartphones-5g-com-camera-de-50mp-e-recursos-premium-em-oferta/",
+  "publicadoEm": "2026-10-25T17:59:51-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-20"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Skechers expande e mostra a força do varejo",
+  "resumo": "A abertura de uma nova loja Skechers em SP ressalta a importância de uma boa estratégia de marketing. O conforto é essencial para conquista dos consumidores.",
+  "fatos": [
+   "A Skechers abriu um outlet de 675 m² na Zona Leste de São Paulo.",
+   "Este é o sétimo outlet inaugurado pela marca no Brasil em 2026.",
+   "A marca possui 5,3 mil lojas em todo o mundo e faturamento previsto de mais de US$ 10,5 bilhões este ano.",
+   "A companhia está investindo em marketing e expansão no Brasil.",
+   "A Skechers planeja dobrar seu volume de negócios no Brasil a cada dois ou três anos."
+  ],
+  "numeros": [
+   {
+    "valor": "7",
+    "rotulo": "lojas abertas em 2026"
+   },
+   {
+    "valor": "10,5 bilhões",
+    "rotulo": "faturamento previsto em 2023"
+   },
+   {
+    "valor": "5,3 mil",
+    "rotulo": "lojas no mundo"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de market share para concorrentes mais ágeis",
+  "angulo": "A expansão da Skechers mostra que investir em marketing e presença digital é crucial para se manter competitivo. Sua empresa está pronta para isso?",
+  "gancho": "Skechers: *a chave para o sucesso do varejo*",
+  "ideias": [
+   "Como o marketing transforma o varejo",
+   "5 dicas para expandir seu negócio",
+   "O que aprender com a expansão da Skechers"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://mercadoeconsumo.com.br/25/10/2026/noticias-varejo/skechers-expande-sao-paulo-abre-outlet-zona-leste/",
+  "publicadoEm": "2026-10-25T10:00:43-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a escassez de chips afeta seu negócio",
+  "resumo": "Entender a crise nas memórias é crucial para empresários que desejam garantir um bom investimento em tecnologia. Saiba como isso impacta seus custos e decisões de compra.",
+  "fatos": [
+   "O preço dos processadores está aumentando devido a uma escassez de silício global.",
+   "A explosão da demanda por inteligência artificial está redirecionando recursos na indústria.",
+   "Fabricar um wafer de memória HBM consome até 4x mais capacidade física do que um wafer de memória DRAM convencional.",
+   "Os custos de produção estão subindo devido à complexidade e baixa disponibilidade de chips.",
+   "Empresas priorizam contratos bilionários com data centers em vez do mercado de consumo."
+  ],
+  "numeros": [],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Temor de aumento de custos e perda de competitividade",
+  "angulo": "A crise na indústria de semicondutores pode elevar suas despesas em tecnologia, tornando essencial um planejamento estratégico no uso de recursos.",
+  "gancho": "*Entenda a crise de semicondutores* e como impacta seu",
+  "ideias": [
+   "Como a escassez de chips afeta seu PC?",
+   "Investir em tecnologia: o que o empresário deve saber",
+   "Alerta: aumento de custos de processadores e como se preparar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://canaltech.com.br/hardware/por-que-processadores-estao-mais-caros-2026/",
+  "publicadoEm": "2026-10-25T14:00:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday 2026 movimentará R$ 13,3 bilhões",
+  "resumo": "A Black Friday de 2026 promete significativas vendas no comércio online, com previsão de movimentação de bilhões. É hora de preparar seu negócio para essa oportunidade.",
+  "fatos": [
+   "A Black Friday de 2026 deve movimentar R$ 13,3 bilhões no comércio online.",
+   "A data se consolidou como uma oportunidade de vendas essencial para o e-commerce.",
+   "Empresas precisam se preparar para maximizar as vendas durante esse evento."
+  ],
+  "numeros": [
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "previsão de vendas na Black Friday 2026"
+   }
+  ],
+  "fonte": "Fala Você Notícias",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perder vendas significativas durante a Black Friday",
+  "angulo": "Com a previsão de vendas bilionárias, empresários devem investir em marketing digital e automação para não ficarem para trás.",
+  "gancho": "Prepare-se para a *oportunidade bilionária*",
+  "ideias": [
+   "Black Friday: como se preparar?",
+   "Dicas para aumentar suas vendas online",
+   "A importância do marketing na Black Friday"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://www.google.com/search?q=Black+Friday+2026+deve+movimentar+R%24+13%2C3+bilh%C3%B5es+no+com%C3%A9rcio+online+Fala+Voc%C3%AA+Not%C3%ADcias",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T11:15:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Comércio online cresce: entenda como se adaptar",
+  "resumo": "Expectativa de crescimento no comércio eletrônico destaca a necessidade de adaptação. Prepare seu negócio para aproveitar a alta nas vendas.",
+  "fatos": [
+   "O comércio online prevê uma alta de mais de 20% nas vendas.",
+   "Essa alta representa um total estimado de R$ 13,3 bilhões.",
+   "A adaptação às novas demandas do consumidor é essencial para o sucesso."
+  ],
+  "numeros": [
+   {
+    "valor": "20",
+    "rotulo": "percentual de alta no comércio online"
+   },
+   {
+    "valor": "13.3 bilhões",
+    "rotulo": "vendas esperadas"
+   }
+  ],
+  "fonte": "A TARDE",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "perda de vendas se não se adaptar ao online",
+  "angulo": "Com a alta prevista no e-commerce, entender o mercado é crucial. O serviço de marketing pode ajudar a estruturar sua presença online.",
+  "gancho": "Oportunidades de crescimento no *comércio online*",
+  "ideias": [
+   "Prepare-se para o boom do e-commerce",
+   "Como vender mais com marketing digital",
+   "Aproveite a alta nas vendas online"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://www.google.com/search?q=Com%C3%A9rcio+online+prev%C3%AA+alta+de+mais+de+20%25+e+R%24+13%2C3+bilh%C3%B5es+em+vendas+A+TARDE",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T09:37:37-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Frete reduzido pode melhorar vendas de e-commerce",
+  "resumo": "A inauguração do novo centro de distribuição da Nuvemshop promete otimizar entregas e reduzir custos. Os empresários devem aproveitar essa oportunidade para potencializar suas vendas.",
+  "fatos": [
+   "A Nuvemshop inaugurou um centro de distribuição no Rio de Janeiro para acelerar entregas.",
+   "A expectativa é reduzir os custos de frete em pelo menos 20%.",
+   "Um dia a menos no prazo de envio pode aumentar a taxa de conversão em até 3%.",
+   "O novo centro processará cerca de 145,2 mil pacotes por mês.",
+   "A unidade foca em atender a demanda local durante a Black Friday."
+  ],
+  "numeros": [
+   {
+    "valor": "20",
+    "rotulo": "redução de custo no frete"
+   },
+   {
+    "valor": "3",
+    "rotulo": "aumento na taxa de conversão por dia a menos na entrega"
+   },
+   {
+    "valor": "145,2 mil",
+    "rotulo": "pacotes processados por mês"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "O empresário teme perder vendas devido a altos custos logísticos.",
+  "angulo": "A situação destaca a importância da logística eficiente e como um site otimizado pode melhorar a experiência do cliente e as vendas.",
+  "gancho": "Como *reduzir custos de frete* e aumentar vendas?",
+  "ideias": [
+   "A importância da logística para o e-commerce",
+   "Como otimizar o frete pode aumentar suas vendas",
+   "Black Friday: prepare-se para a demanda de entrega"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://mercadoeconsumo.com.br/25/10/2026/logistica/nuvemshop-inaugura-cd-no-rio-de-janeiro-para-acelerar-entregas-e-reduzir-frete/",
+  "publicadoEm": "2026-10-25T18:08:48-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-15"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Fiat se adapta para enfrentar concorrência chinesa",
   "resumo": "A Fiat avalia relançar um SUV icônico para competir no mercado brasileiro. A pressão das marcas chinesas exige inovação e atualização das linhas de produtos.",
   "fatos": [
@@ -626,6 +911,130 @@
   "publicadoEm": "2026-10-24T16:43:00-03:00",
   "data": "2026-10-24",
   "id": "2026-10-25-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: novos desafios para profissionais",
+  "resumo": "A mudança na escala de trabalho impacta a renda e a rotina de muitos trabalhadores, gerando preocupação com a estabilidade financeira.",
+  "fatos": [
+   "A escala 6x1, comum em diversas profissões, está sendo revisada.",
+   "Essa alteração traz uma nova dinâmica de trabalho que pode afetar o orçamento das famílias.",
+   "Profissionais têm se perguntado como garantir uma renda estável diante dessas mudanças."
+  ],
+  "numeros": [],
+  "fonte": "Estadão MT",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Jovens"
+  ],
+  "dor": "Incerteza sobre a renda estável e rotina adequada.",
+  "angulo": "Com mudanças no mercado de trabalho, aprender sobre o mercado financeiro se torna uma habilidade crucial para manter a renda e se adaptar às novas realidades.",
+  "gancho": "*A mudança da escala* pode afetar seu bolso!",
+  "ideias": [
+   "Como se adaptar ao fim da escala 6x1?",
+   "Dicas para trabalhar no mercado financeiro hoje",
+   "Renda extra: uma alternativa segura em tempos de mudanças"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+Estad%C3%A3o+MT",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T19:56:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 pode afetar sua renda",
+  "resumo": "A mudança na escala de trabalho 6x1 pode gerar um impacto financeiro significativo para os municípios, com custos elevados a serem considerados. Entenda as consequências disso para o seu bolso.",
+  "fatos": [
+   "O fim da escala 6x1 pode custar R$ 5,14 bilhões por ano aos municípios.",
+   "Essa alteração impacta diretamente as contas públicas, exigindo ajustes no orçamento.",
+   "Profissionais podem ser afetados pela troca de horários e divisões de trabalho."
+  ],
+  "numeros": [
+   {
+    "valor": "5,14 bilhões",
+    "rotulo": "custo para municípios"
+   }
+  ],
+  "fonte": "Capital News",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Jovens"
+  ],
+  "dor": "a perda de garantias e rendimentos com mudanças nas escalas de trabalho",
+  "angulo": "Aprender o mercado financeiro pode proporcionar segurança e liberdade para lidar com mudanças no emprego, reduzindo a dependência do salário fixo.",
+  "gancho": "Impactos do *fim da escala 6x1*",
+  "ideias": [
+   "O que a nova escala significa para você?",
+   "Como o mercado financeiro pode te ajudar?",
+   "Prepare-se para mudanças no seu trabalho!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+pode+custar+R%24+5%2C14+bilh%C3%B5es+por+ano+aos+munic%C3%ADpios+Capital+News",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T18:26:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Preços dos combustíveis e seus impactos no bolso",
+  "resumo": "Os preços da gasolina e do diesel estão subindo significativamente, superando a inflação. Essas alterações trazem preocupações sobre os efeitos no custo de vida após as eleições.",
+  "fatos": [
+   "Os aumentos nos preços dos combustíveis têm impacto direto no custo de vida.",
+   "Motoristas e empresários sentem o peso das correções nos combustíveis.",
+   "Essas mudanças podem afetar a economia local e os negócios da região."
+  ],
+  "numeros": [],
+  "fonte": "GZH",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Aumento dos preços que impacta lucros e salários.",
+  "angulo": "Entender as variações nos combustíveis ajuda a tomar decisões financeiras mais inteligentes, além de considerar alternativas de renda no mercado financeiro.",
+  "gancho": "Atenção para *aumento no custo de vida*",
+  "ideias": [
+   "Como a alta de combustíveis impacta seu negócio?",
+   "Combustíveis caros: hora de diversificar sua renda?",
+   "O que a inflação dos combustíveis diz sobre o futuro?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "alta",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T20:39:26-03:00",
+  "url": "https://www.google.com/search?q=Gasolina+e+diesel+sobem+bem+acima+da+infla%C3%A7%C3%A3o.+E+depois+da+elei%C3%A7%C3%A3o%3F+GZH",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T20:10:54-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-09"
  },
  {
   "segmento": "trader",
