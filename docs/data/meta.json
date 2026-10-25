@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-24T20:50:10-03:00",
+  "ultimaColeta": "2026-10-25T10:59:04-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1 e suas implicações; Fim da escala 6x1 e novas realidades trabalhistas; Mudança no patrocínio do McDonald's impacta negócios.",
+  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1 e seus impactos financeiros; Fim da escala 6x1: mudanças no trabalho; Fim da escala 6x1 impacta setor de petróleo e gás.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-25T10:59:04-03:00",
    "2026-10-24T20:50:10-03:00",
    "2026-10-24T15:31:26-03:00",
    "2026-10-24T10:40:44-03:00",
@@ -18,21 +19,21 @@
    "2026-10-22T16:40:41-03:00",
    "2026-10-22T11:43:18-03:00",
    "2026-10-21T21:17:16-03:00",
-   "2026-10-21T16:51:41-03:00",
-   "2026-10-21T11:43:30-03:00"
+   "2026-10-21T16:51:41-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-24T20:50:10-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-10-25T10:59:04-03:00",
+  "novas": 8,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Vendas da Black Friday e Natal injetam R$ 9,04 bilhões; IA como aliada no impulsionamento de vendas; Como o uso de secadores impacta sua conta de luz?.",
+  "mensagem": "8 pauta(s) nova(s): Mudanças nas tarifas impactam comércio com Canadá; Vendas online vão crescer mais de 20% em breve; Mudança de modelo impacta na experiência do cliente.",
   "falhas": [
-   "E-Commerce Brasil (HTTPError)"
+   "E-Commerce Brasil (ConnectTimeout)"
   ],
   "manual": false,
   "historico": [
+   "2026-10-25T10:59:04-03:00",
    "2026-10-24T20:50:10-03:00",
    "2026-10-24T15:31:26-03:00",
    "2026-10-24T10:40:44-03:00",
@@ -43,8 +44,7 @@
    "2026-10-22T16:40:41-03:00",
    "2026-10-22T11:43:18-03:00",
    "2026-10-21T21:17:16-03:00",
-   "2026-10-21T16:51:41-03:00",
-   "2026-10-21T11:43:30-03:00"
+   "2026-10-21T16:51:41-03:00"
   ]
  }
 }
