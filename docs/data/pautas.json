@@ -1,6 +1,222 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Impactos da inflação no mercado automotivo",
+  "resumo": "O preço do Fiat Linea, ajustado pela inflação, atinge R$ 234.468,95. Isso revela uma mudança significativa no comportamento do consumidor e as necessidades de adaptação do mercado.",
+  "fatos": [
+   "O Fiat Linea foi lançado em setembro de 2008 com preços entre R$ 60.900 e R$ 78.900.",
+   "Após correção pela inflação, o valor atual do Linea é de R$ 234.468,95.",
+   "Esse aumento é resultado de uma correção de 197,17% do IGP-M da FGV.",
+   "O preço atual é próximo ao do Honda Civic Advanced Hybrid (R$ 266.500) e maior que o Toyota Corolla GR-Sport (R$ 206.790).",
+   "A mudança no mercado reflete a necessidade de adaptação das empresas a novos preços e competições."
+  ],
+  "numeros": [
+   {
+    "valor": "197.17",
+    "rotulo": "percentual de correção do IGP-M"
+   },
+   {
+    "valor": "234468.95",
+    "rotulo": "preço atual do Fiat Linea"
+   },
+   {
+    "valor": "60900",
+    "rotulo": "preço inicial do Linea"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "perder vendas devido à adaptação lenta às mudanças do mercado",
+  "angulo": "Estar por dentro das mudanças de preços e comportamento do consumidor pode ser crucial para melhorar a estratégia de negócios e se destacar no mercado.",
+  "gancho": "*A inflação impacta seu negócio*",
+  "ideias": [
+   "Como a inflação altera seu portfólio",
+   "O consumidor e a pressão inflacionária",
+   "Adapte-se ou fique para trás no mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:24:47-03:00",
+  "url": "https://canaltech.com.br/carros/quanto-custaria-um-fiat-linea-hoje-com-a-inflacao/",
+  "publicadoEm": "2026-10-25T19:03:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-24"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Estratégia da Toyota: preços em queda até outubro!",
+  "resumo": "A Toyota reduz preços do Corolla e Yaris Cross para recuperar mercado perdido. Estratégia visa atrair clientes em um cenário econômico desafiador.",
+  "fatos": [
+   "A Toyota teve uma queda de participação no mercado nacional de 7,64% em 2025 para 5,69% em 2026.",
+   "O mercado de automóveis cresceu 19,3% no mesmo período.",
+   "O Corolla XEi tem preço promocional de R$ 169.990, com desconto de R$ 9 mil.",
+   "O Yaris Cross XR está com preço reduzido para R$ 129.900, com uma diferença de R$ 20.090.",
+   "Condições especiais estão disponíveis para taxistas, PCDs e empresas."
+  ],
+  "numeros": [
+   {
+    "valor": "5,69",
+    "rotulo": "participação de mercado da Toyota em 2026"
+   },
+   {
+    "valor": "19,3",
+    "rotulo": "crescimento do mercado nacional"
+   },
+   {
+    "valor": "9 mil",
+    "rotulo": "desconto no Corolla XEi"
+   },
+   {
+    "valor": "20.090",
+    "rotulo": "desconto no Yaris Cross XR"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Vendas caindo com a forte concorrência do mercado",
+  "angulo": "A redução de preços pela Toyota indica a necessidade de se adaptar às condições do mercado. Prepare-se com uma estratégia de marketing eficaz para não perder vendas.",
+  "gancho": "Descubra por que *o preço não é tudo*",
+  "ideias": [
+   "Como a concorrência afeta suas vendas?",
+   "Estratégias para se destacar no varejo",
+   "Por que um bom marketing é essencial agora?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:24:47-03:00",
+  "url": "https://canaltech.com.br/carros/toyota-joga-precos-de-corolla-e-yaris-cross-no-chao-veja-condicoes/",
+  "publicadoEm": "2026-10-25T16:02:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-23"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Comércio online prevê alta e oportunidades para todos",
+  "resumo": "O comércio online deve registrar um crescimento superior a 20%, alcançando R$ 13,3 bilhões em vendas. Isso representa uma chance significativa para empresários se adaptarem e se destacarem no mercado.",
+  "fatos": [
+   "O comércio online está prevendo uma alta de mais de 20%.",
+   "A expectativa é que as vendas cheguem a R$ 13,3 bilhões.",
+   "Essa tendência implica em oportunidades para empresas crescerem e se adaptarem ao novo comportamento do consumidor."
+  ],
+  "numeros": [
+   {
+    "valor": "20",
+    "rotulo": "crescimento previsto do comércio online"
+   },
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "vendas esperadas"
+   }
+  ],
+  "fonte": "A TARDE",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "perder oportunidades de vendas no comércio online",
+  "angulo": "O crescimento das vendas no comércio online destaca a necessidade de um planejamento adequado e estratégias de marketing digital para se destacar neste cenário competitivo.",
+  "gancho": "Oportunidade *imperdível* no comércio online",
+  "ideias": [
+   "Prepare sua loja para o crescimento online!",
+   "Como aproveitar a alta no comércio digital?",
+   "Estratégias que garantem vendas em 2023"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "alta",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:24:47-03:00",
+  "url": "https://www.google.com/search?q=Com%C3%A9rcio+online+prev%C3%AA+alta+de+mais+de+20%25+e+R%24+13%2C3+bilh%C3%B5es+em+vendas+A+TARDE",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T09:37:37-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-22"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Calendário do TikTok Shop: promoções até dezembro",
+  "resumo": "O TikTok Shop lance um calendário de promoções que vai até dezembro, com descontos e cupons em diferentes categorias. Empresários podem aproveitar as datas para impulsionar as vendas.",
+  "fatos": [
+   "As campanhas promocionais começam em 27 de outubro e vão até dezembro.",
+   "Serão oferecidos descontos de até 70% e cupons de até R$ 200.",
+   "Entre 18 de novembro e 3 de dezembro, haverá descontos gerais associados à Black Friday.",
+   "As promoções incluem ofertas relâmpago, frete grátis e parcelamento em até 12 vezes sem juros.",
+   "A estratégia do TikTok Shop integra conteúdo e comércio, potencializando as vendas na plataforma."
+  ],
+  "numeros": [
+   {
+    "valor": "70",
+    "rotulo": "por cento de desconto"
+   },
+   {
+    "valor": "200",
+    "rotulo": "reais em cupons"
+   },
+   {
+    "valor": "12",
+    "rotulo": "vezes sem juros para parcelamento"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas em datas importantes do varejo",
+  "angulo": "Com um calendário de promoções ideal, sua empresa pode se destacar e aproveitar a alta demanda nas redes sociais. Não deixe suas ofertas para trás.",
+  "gancho": "Aproveite *as promoções no TikTok Shop*",
+  "ideias": [
+   "Como o TikTok pode impulsionar suas vendas",
+   "Descubra as ofertas do TikTok Shop",
+   "Atraia clientes com promoções temáticas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:24:47-03:00",
+  "url": "https://mercadoeconsumo.com.br/25/10/2026/ecommerce/tiktok-shop-lanca-calendario-de-promocoes-para-impulsionar-vendas-ate-dezembro/",
+  "publicadoEm": "2026-10-25T18:58:42-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-vpr-21"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Câmeras de 50MP e 5G: potente combinação da Motorola",
   "resumo": "A Motorola mantém sua popularidade no Brasil com smartphones 5G e câmeras de alta qualidade. Confira as promoções e descubra como isso pode impactar o seu negócio.",
   "fatos": [
@@ -911,6 +1127,172 @@
   "publicadoEm": "2026-10-24T16:43:00-03:00",
   "data": "2026-10-24",
   "id": "2026-10-25-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Restituição do Imposto de Renda: como não perder?",
+  "resumo": "A restituição residual do Imposto de Renda será liberada. É importante saber como aproveitar essa oportunidade para melhorar sua situação financeira.",
+  "fatos": [
+   "A restituição residual refere-se ao valor que não foi pago anteriormente pelo governo.",
+   "Os contribuintes devem ficar atentos para garantir que não percam essa quantia.",
+   "Essa restituição pode auxiliar na gestão do orçamento familiar."
+  ],
+  "numeros": [],
+  "fonte": "Bem Paraná",
+  "categoria": "Impostos",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de dinheiro que poderia ajudar no orçamento",
+  "angulo": "A restituição pode ser uma chance de melhorar suas finanças e investir em educação financeira, como a mentoria em mercado financeiro.",
+  "gancho": "Aproveite sua *restituição do IR*!",
+  "ideias": [
+   "Como usar a restituição do IR a seu favor",
+   "Imposto de Renda: o que você precisa saber",
+   "Transformando sua restituição em investimento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:24:47-03:00",
+  "url": "https://www.google.com/search?q=Restitui%C3%A7%C3%A3o+residual+do+Imposto+de+Renda+sai+nesta+sexta-feira+Bem+Paran%C3%A1",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T22:00:00-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Inflação em serviços pressiona custo de vida",
+  "resumo": "A inflação de serviços, que demandam trabalho intensivo, atinge o maior nível em nove anos, mantendo o IPCA acima da meta estabelecida.",
+  "fatos": [
+   "Os serviços que exigem mais mão de obra estão enfrentando um aumento significativo de preços.",
+   "Esse cenário contribui para a manutenção da inflação acima do limite desejado.",
+   "A pressão sobre os custos de serviços pode afetar a renda das famílias e os negócios."
+  ],
+  "numeros": [],
+  "fonte": "Estadão",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Aumento de preços engole o orçamento mensal",
+  "angulo": "Entender este cenário é essencial para buscar alternativas que não dependem apenas de salário, como o aprendizado sobre o mercado financeiro.",
+  "gancho": "*Inflação em alta*; como lidar com o impacto no",
+  "ideias": [
+   "Entenda a alta dos preços em serviços",
+   "Como a inflação afeta sua renda?",
+   "Dicas para se proteger da inflação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:24:47-03:00",
+  "url": "https://www.google.com/search?q=Infla%C3%A7%C3%A3o+de+servi%C3%A7o+intensivo+em+trabalho+tem+pico+em+9+anos+e+mant%C3%A9m+IPCA+acima+da+meta+Estad%C3%A3o",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T20:11:13-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aumento da pobreza na Europa afeta todos nós",
+  "resumo": "O crescente custo de vida na Europa pode provocar um aumento da pobreza, impactando a economia global. Isso gera preocupação entre empresários e trabalhadores ao redor do mundo.",
+  "fatos": [
+   "O aumento do custo de vida está pressionando a economia na Europa.",
+   "Essa situação pode resultar em um aumento da pobreza entre a população.",
+   "As consequências econômicas podem refletir em diversos mercados, afetando negócios e empregos fora da Europa."
+  ],
+  "numeros": [],
+  "fonte": "Vietnam.vn",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Aumento no custo de vida reduz rendimento real",
+  "angulo": "Entender como as flutuações na economia global impactam seu orçamento é fundamental para se preparar. Aprender sobre investimentos pode ser um caminho para garantir sua renda.",
+  "gancho": "Aumento do custo de vida *afeta seu bolso*",
+  "ideias": [
+   "Como a pobreza na Europa pode impactar o Brasil?",
+   "Estratégias para sobreviver em tempos de crise econômica",
+   "A importância de diversificar sua renda hoje"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:24:47-03:00",
+  "url": "https://www.google.com/search?q=A+Europa+enfrenta+o+risco+de+aumento+da+pobreza+devido+%C3%A0+crescente+subida+do+custo+de+vida.+Vietnam.vn",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:27:50-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Os impactos da vitória de Lula no seu bolso",
+  "resumo": "A vitória de Lula traz mudanças econômicas significativas que podem afetar diversos setores e a renda dos trabalhadores. É importante entender quem sairá ganhando e quem poderá perder com essas decisões.",
+  "fatos": [
+   "A nova gestão pode alterar leis que impactam impostos e negócios.",
+   "Decisões econômicas influenciam diretamente no custo de vida das famílias.",
+   "Para muitos, a vitória pode representar um risco maior na retomada do emprego e renda."
+  ],
+  "numeros": [],
+  "fonte": "Poder360",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento no custo de vida sem aumento de salário",
+  "angulo": "Aprender a operar no mercado financeiro pode oferecer uma alternativa de renda, reduzindo a dependência das mudanças políticas que impactam seu dia a dia.",
+  "gancho": "A vitória de Lula *impacta seu bolso*",
+  "ideias": [
+   "O que muda com Lula na economia?",
+   "Você está preparado para as mudanças?",
+   "Como aumentar sua renda em tempos incertos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-25T22:24:47-03:00",
+  "url": "https://www.google.com/search?q=Saiba+quem+ganha+e+quem+perde+com+a+vit%C3%B3ria+de+Lula+Poder360",
+  "urlBusca": true,
+  "publicadoEm": "2026-10-25T21:18:53-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-25-trader-12"
  },
  {
   "segmento": "trader",

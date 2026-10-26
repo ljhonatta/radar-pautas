@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-25T20:39:26-03:00",
-  "novas": 3,
+  "ultimaColeta": "2026-10-25T22:24:47-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "3 pauta(s) nova(s): Preços dos combustíveis e seus impactos no bolso; Fim da escala 6x1 pode afetar sua renda; Fim da escala 6x1: novos desafios para profissionais.",
+  "mensagem": "4 pauta(s) nova(s): Os impactos da vitória de Lula no seu bolso; Aumento da pobreza na Europa afeta todos nós; Inflação em serviços pressiona custo de vida.",
   "falhas": [],
-  "manual": false,
+  "manual": true,
   "historico": [
+   "2026-10-25T22:24:47-03:00",
    "2026-10-25T20:39:26-03:00",
    "2026-10-25T15:39:53-03:00",
    "2026-10-25T10:59:04-03:00",
@@ -18,21 +19,21 @@
    "2026-10-23T16:42:12-03:00",
    "2026-10-23T11:30:17-03:00",
    "2026-10-22T21:13:47-03:00",
-   "2026-10-22T16:40:41-03:00",
-   "2026-10-22T11:43:18-03:00"
+   "2026-10-22T16:40:41-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-25T20:39:26-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-10-25T22:24:47-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Frete reduzido pode melhorar vendas de e-commerce; Comércio online cresce: entenda como se adaptar; Black Friday 2026 movimentará R$ 13,3 bilhões.",
+  "mensagem": "4 pauta(s) nova(s): Calendário do TikTok Shop: promoções até dezembro; Comércio online prevê alta e oportunidades para todos; Estratégia da Toyota: preços em queda até outubro!.",
   "falhas": [
-   "E-Commerce Brasil (HTTPError)"
+   "E-Commerce Brasil (ConnectTimeout)"
   ],
-  "manual": false,
+  "manual": true,
   "historico": [
+   "2026-10-25T22:24:47-03:00",
    "2026-10-25T20:39:26-03:00",
    "2026-10-25T15:39:53-03:00",
    "2026-10-25T10:59:04-03:00",
@@ -43,8 +44,7 @@
    "2026-10-23T16:42:12-03:00",
    "2026-10-23T11:30:17-03:00",
    "2026-10-22T21:13:47-03:00",
-   "2026-10-22T16:40:41-03:00",
-   "2026-10-22T11:43:18-03:00"
+   "2026-10-22T16:40:41-03:00"
   ]
  }
 }
