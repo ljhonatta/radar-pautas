@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-26T17:46:58-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-10-26T17:50:00-03:00",
+  "novas": 2,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Fim da escala 6x1 e seus impactos para supermercadistas; Mudanças na jornada de trabalho impactam bares e restaurantes; Fim da escala 6x1: impactos e novos desafios.",
+  "mensagem": "2 pauta(s) nova(s): Mudanças no trabalho: fim da escala 6x1 afeta empregadores; Reforma tributária e seus impactos no seu bolso.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-10-26T17:50:00-03:00",
    "2026-10-26T17:46:58-03:00",
    "2026-10-26T13:20:21-03:00",
    "2026-10-26T12:34:09-03:00",
@@ -18,19 +19,19 @@
    "2026-10-25T15:39:53-03:00",
    "2026-10-25T10:59:04-03:00",
    "2026-10-24T20:50:10-03:00",
-   "2026-10-24T15:31:26-03:00",
-   "2026-10-24T10:40:44-03:00"
+   "2026-10-24T15:31:26-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-26T17:46:58-03:00",
+  "ultimaColeta": "2026-10-26T17:50:00-03:00",
   "novas": 8,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): O impacto da reeleição de Lula nas vendas e no consumo; Samsung reduz produção da linha Galaxy A em 20%; Varejo alimentício: crescimento e desafios no faturamento.",
+  "mensagem": "8 pauta(s) nova(s): Queda nas vendas do varejo: o impacto eleitoral; Perdão de dívidas do MEI: veja como evitar golpes; Micro e pequenas empresas precisam decidir regime tributário urgente.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-10-26T17:50:00-03:00",
    "2026-10-26T17:46:58-03:00",
    "2026-10-26T13:20:21-03:00",
    "2026-10-26T12:34:09-03:00",
@@ -41,8 +42,7 @@
    "2026-10-25T15:39:53-03:00",
    "2026-10-25T10:59:04-03:00",
    "2026-10-24T20:50:10-03:00",
-   "2026-10-24T15:31:26-03:00",
-   "2026-10-24T10:40:44-03:00"
+   "2026-10-24T15:31:26-03:00"
   ]
  }
 }
