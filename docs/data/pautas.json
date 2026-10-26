@@ -1,6 +1,477 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Mudanças de verificação do Google impactam negócios",
+  "resumo": "A nova regra de verificação de desenvolvedores do Google deve impactar tanto a distribuição de aplicativos quanto os usuários, aumentando a necessidade de proteção e estratégias adequadas.",
+  "fatos": [
+   "Em setembro de 2026, o Google iniciou a exigência de verificação de desenvolvedores para apps Android, incluindo os de fora da Play Store.",
+   "O Cade questiona a regra, destacando possíveis efeitos negativos para desenvolvedores independentes e lojas concorrentes.",
+   "O Google informou ter encontrado 90 vezes mais malware em fontes externas que na Play Store.",
+   "As novas exigências podem dificultar a distribuição de aplicativos para desenvolvedores independentes.",
+   "Usuários precisarão passar por passos adicionais para instalar aplicações fora da loja oficial."
+  ],
+  "explicacao": [
+   "Essa mudança foi implementada com o objetivo de combater fraudes e softwares maliciosos no ecossistema Android.",
+   "Desenvolvedores deverão comprovar sua identidade e registrar seus aplicativos no Google, afetando diretamente aqueles que adotam o método de sideloading.",
+   "As novas regras visam proteger os usuários, mas também levantam preocupações sobre a concorrência e a acessibilidade de aplicativos independentes."
+  ],
+  "materia": "O Google passou a exigir a verificação de desenvolvedores para a instalação de aplicativos no Android, inclusive os distribuídos fora da Play Store. A regra começou a valer no Brasil e em outros três países em setembro de 2026. A mudança gerou críticas de organizações de defesa dos direitos digitais e levou o Conselho Administrativo de Defesa Econômica (Cade) a cobrar explicações sobre possíveis efeitos para desenvolvedores independentes e lojas concorrentes. Segundo o Google, a verificação busca combater fraudes e softwares maliciosos em aplicativos instalados fora da loja oficial. – Imagem: winnond/Shutterstock O que muda para quem instala aplicativos? Anunciada em agosto de 2025, a Verificação de Desenvolvedores para Android exige que os responsáveis pelos aplicativos comprovem sua identidade e registrem seus programas no Google. A regra alcança celulares com Android 7 ou versões posteriores, mesmo quando os aplicativos são distribuídos por outros canais. A política entrou em vigor em 30 de setembro no Brasil, na Indonésia, na Tailândia e em Singapura. O Google afirma que a medida combate fraudes e softwares maliciosos. Em resposta ao Cade , a empresa declarou ter encontrado 90 vezes mais malware em fontes externas do que na Google Play. “O ADV é uma resposta necessária e proporcional ao crescimento exponencial de malwares associados à evolução da IA”, afirmou a empresa ao órgão. Para quem baixa aplicativos pela loja oficial ou por grandes lojas de fabricantes, pouca coisa deve mudar. Já os usuários que recorrem a arquivos APK , repositórios independentes e sites de desenvolvedores poderão enfrentar etapas adicionais. A instalação por esses canais, conhecida como sideloading , continuará disponível. Uma das alternativas envolve o Android Debug Bridge, ferramenta voltada a operações técnicas. Outra exige esperar 24 horas, ativar o modo desenvolvedor e confirmar a identidade no aparelho. O Google afirmou ao Cade ter encontrado 90 vezes mais malware em fontes externas do que na Google Play. – Imagem: Below the Sky/Shutterstock Por que o Cade questiona a medida? O Cade abriu um inquérito em 2024 para investigar se o Google usa sua posição dominante no Android para prejudicar concorrentes da Play Store. Em setembro de 2026, pediu esclarecimentos sobre os custos, os prazos e os efeitos da verificação para desenvolvedores independentes. As respostas não convenceram a Artigo 19 e a Electronic Frontier Foundation (EFF), que solicitaram a suspensão preventiva da política enquanto a investigação estiver em andamento. Em manifestação ao órgão, as entidades afirmaram: “O objetivo do Google com a Política de Desenvolvedores é consolidar-se como a única opção confiável, descredibilizando concorrentes que dependem do ecossistema Android para acessar usuários”. As críticas se concentram em três possíveis consequências: Desenvolvedores independentes: novas exigências podem dificultar a distribuição de aplicativos. Lojas alternativas: serviços fora do ecossistema oficial podem enfrentar obstáculos para oferecer seus catálogos. Usuários: a instalação externa continua permitida, mas passa a exigir procedimentos adicionais. A empresa prevê expandir a verificação para o restante do mundo em 2027. Até lá, a investigação brasileira seguirá como um dos pontos de disputa em torno das novas regras. O post Google exige verificação de apps no Android e enfrenta críticas apareceu primeiro em Olhar Digital .",
+  "numeros": [
+   {
+    "valor": "90",
+    "rotulo": "vezes mais malware encontrado em fontes externas"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Profissionais liberais",
+   "Prestadores de serviço"
+  ],
+  "dor": "Dificuldade em alcançar usuários e aumentar a exigência de conformidade",
+  "angulo": "Com as novas regras, é essencial revisar sua estratégia digital e entender como se adaptar ao novo cenário de desenvolvimento de apps.",
+  "gancho": "Descubra como *as regras do Google afetam seus negócios*",
+  "ideias": [
+   "Impactos das novas regras do Google",
+   "Desafios para desenvolvedores independentes",
+   "Como se adaptar ao novo cenário digital"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://olhardigital.com.br/2026/10/26/internet-e-redes-sociais/google-exige-verificacao-de-apps-no-android-e-enfrenta-criticas/",
+  "publicadoEm": "2026-10-26T15:26:25-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-35"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Instagram testa vídeos horizontais; Brasil é laboratório",
+  "resumo": "O Instagram anunciou um novo formato de vídeos horizontais, chamado Features. A iniciativa busca integrar conteúdos longos e curtos, com foco em criadores de conteúdo no Brasil e EUA.",
+  "fatos": [
+   "O Instagram está testando um novo formato chamado Features para vídeos horizontais.",
+   "O objetivo é integrar vídeos curtos e longos na plataforma.",
+   "O formato permite que criadores publiquem podcasts e fragmentem episódios em clipes menores.",
+   "O modelo se assemelha ao YouTube Shorts relacionados a publicações longas.",
+   "Os Features foram liberados para um grupo limitado de usuários nos EUA e estão sendo testados com criadores brasileiros."
+  ],
+  "explicacao": [
+   "O novo formato surge da demanda por formatos variados de vídeo, permitindo a narração de histórias de forma mais dinâmica.",
+   "A implementação de um player semelhante ao YouTube indica uma tentativa do Instagram de manter os usuários na plataforma por mais tempo.",
+   "Para o empresário, isso representa uma oportunidade de explorar novos formatos de conteúdo e engajamento com sua audiência."
+  ],
+  "materia": "Por André Lourenti Magalhães • Editado por Jones Oliveira | 26/10/2026 às 16:05 O Instagram anunciou o Features nesta segunda-feira (26), novo formato pensado para vídeos extensos e horizontais na rede social. O objetivo é criar uma “simbiose” entre vídeos curtos e longos na plataforma, de acordo com o chefe da rede, Adam Mosseri. A empresa identificou que criadores de conteúdo podem contar histórias em diferentes formatos, como séries em episódios e vídeos longos separados em diferentes cortes verticais para Reels . O formato pode ser usado para publicar um podcast na íntegra e depois fragmentar o episódio em clipes menores, por exemplo. A rede social, inclusive, já experimenta novos elementos para conteúdos longos: um Reel de Adam Mosseri sobre o tema possui u m atalho para abrir o vídeo completo , de pouco mais de seis minutos de duração e na horizontal. O modelo é parecido com o que o YouTube faz em Shorts relacionados a publicações longas. Posts mais extensos ganharam uma barra de reprodução própria e comandos na tela para pausar ou modificar o volume, similar ao que acontece em players de YouTube e X. Os Features devem ser explorados tanto na versão do app para celulares como no aplicativo para TVs. A empresa, inclusive, lançou o Instagram para Apple TV e o app está disponível na App Store brasileira, mas a reportagem do Canaltech identificou que ainda não é possível usar a ferramenta por aqui. A porta-voz do Instagram Megan Buckley confirmou ao site The Verge que os Features começaram a ser liberados para um grupo limitado de pessoas nos Estados Unidos e o novo formato passa por testes com criadores brasileiros . Ainda não existem mais informações sobre datas ou os perfis envolvidos no experimento. Leia também: 6 truques do Instagram que você precisa conhecer em 2026",
+  "numeros": [
+   {
+    "valor": "6 minutos",
+    "rotulo": "duração do Reel de Adam Mosseri"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de visibilidade e engajamento nas redes sociais",
+  "angulo": "Essa novidade mostra como estar atualizado com as tendências do Instagram pode aumentar a relevância do seu negócio. Não deixe sua marca para trás.",
+  "gancho": "Descubra como *novos recursos do Instagram* impactam seu negócio!",
+  "ideias": [
+   "Como o Instagram está mudando a forma de contar histórias?",
+   "Investindo no novo formato do Instagram: vale a pena?",
+   "Aproveite os vídeos horizontais e ganhe destaque!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://canaltech.com.br/apps/instagram-testa-novo-formato-de-videos-horizontais-e-brasil-sera-laboratorio/",
+  "publicadoEm": "2026-10-26T16:05:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-34"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Nova era das agências: cultura e IA em foco",
+  "resumo": "Pedro Del Priore discute a importância da cultura organizacional e da inteligência artificial para o crescimento sustentável das agências. O futuro pede mais do que resultados financeiros.",
+  "fatos": [
+   "Pedro Del Priore, CEO do Grupo Ginga, falou em podcast sobre novas demandas no mercado publicitário.",
+   "Cultura organizacional clara se torna diferencial competitivo na atração de talentos e clientes.",
+   "Grupo Ginga conquistou recentemente a certificação B Corp, incorporando temas sociais à operação.",
+   "A economia regenerativa é priorizada, buscando valor humano e ambiental além do financeiro.",
+   "Inteligência artificial pode otimizar tarefas repetitivas, aumentando espaço para trabalho estratégico.",
+   "Modelo de trabalho remoto permite diversidade e repertórios distintos nas soluções propostas."
+  ],
+  "explicacao": [
+   "A transformação no mercado publicitário exige que as agências repensem sua estrutura e abordagens.",
+   "A cultura organizacional influencia a maneira como clientes e talentos se conectam com as empresas.",
+   "A adoção da inteligência artificial visa liberar profissionais para atividades que geram maior valor estratégico.",
+   "O trabalho remoto enriquece a diversidade e a criatividade nas soluções dos clientes.",
+   "A visão do Grupo Ginga indica que crescimento econômico e responsabilidade social podem coexistir."
+  ],
+  "materia": "CEO do Grupo Ginga fala sobre economia regenerativa, transformação organizacional e o papel da publicidade em um mercado que exige mais do que resultado financeiro A publicidade precisa ampliar sua responsabilidade para além da venda de produtos e serviços. Essa é uma das principais ideias defendidas por Pedro Del Priore, fundador e CEO do Grupo Ginga, em entrevista ao podcast Strategist Revival, apresentado por Rafa Castro. Ao longo da conversa, o executivo discutiu cultura organizacional, inteligência artificial, diversidade, trabalho remoto e economia regenerativa, além dos desafios que devem moldar o futuro das agências. Cultura passa a ser diferencial competitivo Para Del Priore, uma identidade organizacional clara ganhou importância em um mercado no qual profissionais e clientes buscam cada vez mais afinidade de valores. Nesse contexto, cultura deixa de ser apenas uma questão interna e passa a influenciar atração de talentos, retenção e relacionamento com clientes. Essa visão também orienta a forma como o Grupo Ginga vem estruturando seus negócios. O grupo conquistou recentemente a certificação B Corp e vem incorporando temas sociais e ambientais à operação. Economia regenerativa entra na gestão A empresa também investiu na formação de lideranças em economia regenerativa. A proposta é ampliar a visão sobre crescimento e incorporar à gestão não apenas resultado financeiro, mas também valor humano e ambiental. Para Del Priore, esse tipo de abordagem tende a ganhar espaço à medida que empresas passam a ser cobradas não apenas pelo que vendem, mas pelo impacto que geram. IA pode mudar o trabalho nas agências A inteligência artificial foi outro tema central da conversa. Segundo o executivo, a tecnologia pode reduzir o tempo dedicado a tarefas repetitivas e operacionais, como parte da produção de conteúdos para redes sociais. Isso pode liberar profissionais para atividades de maior valor estratégico. Ao mesmo tempo, ele defende uma adoção responsável, considerando impactos ambientais e efeitos sobre o trabalho humano. A discussão vai além de produtividade e entra na reorganização do próprio modelo de agência. Trabalho remoto amplia repertório A Ginga também utiliza o trabalho remoto como parte de sua estratégia de acesso a talentos. Com profissionais distribuídos por diferentes regiões do país, o modelo permite incorporar repertórios e perspectivas culturais distintas às soluções desenvolvidas para clientes. A diversidade, nesse caso, aparece menos como discurso e mais como consequência direta de uma estrutura de trabalho descentralizada. Crescimento e impacto não precisam ser opostos Para Del Priore, o futuro das agências passa por abandonar a ideia de que crescimento econômico, desenvolvimento humano e responsabilidade ambiental são objetivos incompatíveis. A visão defendida pelo executivo é de que esses elementos podem fazer parte de uma mesma estratégia de negócio. Nesse sentido, o desafio das agências não estaria apenas em acompanhar novas tecnologias, mas em repensar como operam, formam equipes, constroem cultura e geram valor. A entrevista completa está disponível no Strategist Revival. Aprenda algo novo todos os dias. Assine gratuitamente as newsletters da Adnews.",
+  "numeros": [],
+  "fonte": "Adnews",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "Não adaptar-se às novas demandas do mercado",
+  "angulo": "Investir em um modelo de agência que prioriza cultura e tecnologia é essencial para sobreviver no mercado atual.",
+  "gancho": "Como *crescimento e impacto* podem coexistir?",
+  "ideias": [
+   "Transformação organizacional: as novas demandas",
+   "A importância da cultura nas agências",
+   "Inteligência artificial: otimização ou desafio?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://adnews.com.br/post/pedro-del-priore-defende-novo-modelo-de-agencia-baseado-em-cultura-ia-e-impacto",
+  "publicadoEm": "2026-10-26T15:55:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-33"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A nova fiscalização de bikes elétricas e patinetes em SP",
+  "resumo": "As regras mais rígidas sobre circulação de bicicletas e patinetes elétricos em São Paulo podem impactar seu bolso. As multas agora estão vinculadas ao CPF dos infratores.",
+  "fatos": [
+   "A fiscalização sobre bicicletas elétricas e veículos autopropelidos em SP foi intensificada.",
+   "As multas agora vinculam diretamente ao CPF dos infratores, o que pode impactar financeiramente.",
+   "Condutas agressivas ou tráfego indevido resultam em multa de R$ 130,16.",
+   "Os patinetes e skates elétricos sem emplacamento nem CNH agora têm regras específicas de uso.",
+   "Sensores estratégicos são usados para detectar essas infrações, separando condutores dos demais veículos."
+  ],
+  "explicacao": [
+   "A nova regulamentação adotada pela Secretaria Executiva de Mobilidade e Trânsito e a CET busca organizar o tráfego de bicicletas elétricas e patinetes na capital paulista.",
+   "Com as dificuldades financeiras, os empresários devem ficar atentos a como essas regulamentações afetam a movimentação e a logística de suas entregas.",
+   "A fiscalização mais rigorosa pode aumentar a preocupação dos usuários, que devem se adaptar rapidamente às novas regras para evitar multas."
+  ],
+  "materia": "Por Danielle Cassita | 26/10/2026 às 15:00 A fiscalização sobre a circulação de bicicletas elétricas e veículos autopropelidos ficou mais rígida em São Paulo : agora, quem circular com estes veículos e descumprir as normas de trânsito vai ser multado — e a penalização fica vinculada diretamente ao CPF dos infratores . A ação, conduzida pela Secretaria Executiva de Mobilidade e Trânsito junto à Companhia de Engenharia de Tráfego (CET) , vem como uma medida para ordenar o tráfego de equipamentos individuais que se multiplicaram rapidamente pela capital paulista com base na Resolução nº 996 do Conselho Nacional de Trânsito (Contran) . O texto enquadra patinetes e skates elétricos com potência de até 1.000 W e velocidade máxima de fábrica de 32 km/h . Os veículos nestas especificações dispensam emplacamento e CNH, de modo que a multa de R$ 130,16 para condutas agressivas ou tráfego indevido exige abordagem presencial dos agentes para a autuação. Quem usa patinetes e outros autopropelidos para deslocamentos urbanos precisa ter atenção, já que as diretrizes proíbem rodar sobre calçadas e canteiros compartilhados . Por outro lado, as bicicletas elétricas até podem ser usadas nesses espaços, mas só se chegarem à velocidade máxima de 6 km/h . Em ciclovias e ciclofaixas exclusivas, o limite autorizado atinge até 20 km/h , mas volta ao teto de 6 km/h quando houver divisão de espaço na calçada com pedestres. Nas vias públicas sem faixa ciclável exclusiva, equipamentos conduzidos em pé só podem rodar em ruas com velocidade máxima de até 40 km/h, respeitando o teto de 20 km/h . Já modelos com assento podem transitar em vias de até 50 km/h . Finalmente, bicicletas — elétricas ou não — seguem proibidas nas vias de trânsito rápido e nas rodovias sem acostamento . A fiscalização de velocidade é feita por sensores instalados de forma estratégica para registrar só estes condutores , ou seja, eles ficam separados dos demais veículos, que seguem “na mira” dos equipamentos tradicionais de fiscalização. Por outro lado, vale lembrar que a CET é responsável por recolhimento e devolução de equipamentos, de modo que a fiscalização — e sua execução — ainda dependem, e muito, da quantidade de agentes que vão ser colocados na rua . Sabia que você pode estar usando sua bike elétrica do jeito errado ? Descubra o porquê!",
+  "numeros": [
+   {
+    "valor": "R$ 130,16",
+    "rotulo": "valor da multa por infrações"
+   },
+   {
+    "valor": "32 km/h",
+    "rotulo": "velocidade máxima permitida para patinetes"
+   },
+   {
+    "valor": "6 km/h",
+    "rotulo": "velocidade máxima permitida em calçadas para bicicletas elétricas"
+   },
+   {
+    "valor": "20 km/h",
+    "rotulo": "velocidade em ciclovias"
+   },
+   {
+    "valor": "40 km/h",
+    "rotulo": "máxima em ruas para veículos conduzidos em pé"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda financeira com multas e restrições operacionais",
+  "angulo": "As novas regras exigem que empresários e prestadores de serviços repensem suas operações e logística, posicionando-se para evitar multas e perdas financeiras.",
+  "gancho": "Você sabia que suas multas podem estar *atreladas ao",
+  "ideias": [
+   "Multas em SP: como se prevenir?",
+   "Novas regras para bikes e patinetes: você está preparado?",
+   "Impactos da fiscalização de veículos elétricos no comércio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://canaltech.com.br/carros/regras-para-bikes-eletricas-e-patinetes-em-sp-ficam-mais-rigidas-e-vao-pesar-no-bolso/",
+  "publicadoEm": "2026-10-26T15:00:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-32"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Queda na Bolsa afeta varejo e comportamento do consumidor",
+  "resumo": "As ações de varejistas como Quero Quero e Magalu sofreram quedas expressivas após a reeleição de Lula. Isso impacta o cenário econômico e pode afetar suas vendas diretamente.",
+  "fatos": [
+   "A Quero Quero registrou a maior perda com queda de 59,67%.",
+   "Magazine Luiza sofreu desvalorização de mais de 58%.",
+   "Grupo SBF (Centauro) teve queda de 49,38%; C&A, 48,27%; e Pague Menos, 44,20%.",
+   "O circuit breaker foi acionado após a Bolsa cair 10%, interrompendo negociações por 30 minutos.",
+   "A pressão no setor de consumo é evidenciada por uma reavaliação das expectativas dos investidores."
+  ],
+  "explicacao": [
+   "A forte queda na Bolsa foi desencadeada pela reeleição de Luiz Inácio Lula da Silva, gerando incertezas sobre a política econômica.",
+   "Os juros elevados tendem a encarecer o crédito e afetar o consumo, impactando as vendas de varejistas diretamente.",
+   "O comportamento futuro da Bolsa e das empresas vai depender de sinalizações do governo sobre as contas públicas e a economia."
+  ],
+  "materia": "As ações de empresas de varejo, consumo e serviços estão entre as mais penalizadas pela forte queda da Bolsa brasileira nesta segunda-feira, 26 de outubro, primeiro pregão após a reeleição do presidente Luiz Inácio Lula da Silva. O movimento ocorre em um dia de intensa volatilidade, marcado pelo acionamento do circuit breaker , mecanismo que interrompe temporariamente as negociações quando o Ibovespa registra quedas acentuadas. Entre as varejistas, a Quero Quero (LJQQ3) aparece como o maior destaque entre as maiores perdas (59,67%). Em seguida, Magazine Luiza (MGLU3), com desvalorização superior a 58% durante a tarde. Também registraram perdas expressivas o Grupo SBF, controlador da Centauro, a C&A, a rede de farmácias Pague Menos e a Riachuelo. O levantamento da Mercado&Consumo , realizado com base nas cotações do TradingView, mostra que a pressão vendedora atinge diferentes segmentos do consumo, desde moda e eletroeletrônicos até supermercados, farmácias e artigos esportivos. A plataforma disponibiliza gratuitamente os dados da B3 com defasagem de 15 minutos. Varejistas acumulam perdas expressivas Na fotografia das negociações registrada entre 14h28 e 14h39, as ações do Grupo SBF (SBFG3) recuavam 49,38%, seguidas por C&A (CEAB3), com queda de 48,27%, Pague Menos (PGMN3), com 44,20%, e Riachuelo (RIAA3), com 42,94%. Para Magazine Luiza, uma consulta individual realizada durante o pregão apontou baixa de 58,31%, percentual de outro momento de atualização. O Assaí (ASAI3) também aparecia entre as maiores perdas, com recuo de 38,19%. Entre as redes de farmácias, a Dimed, controladora da Panvel (PNVL3), registrava queda de 31,97%. Outras empresas relevantes do setor também apresentavam desvalorizações expressivas: Grupo Mateus (GMAT3), com 28,87%; Veste (VSTE3), com 28,39%; Vivara (VIVA3), com 27,67%; Americanas (AMER3), com 25,49%; e GPA, controlador do Pão de Açúcar (PCAR3), com 22,44%. A intensidade das perdas evidencia uma reavaliação das expectativas dos investidores para empresas diretamente expostas ao consumo doméstico, à disponibilidade de crédito e ao custo de financiamento. Serviços, saúde e shopping centers também recuam O movimento de queda não ficou restrito às redes varejistas. Entre as empresas de serviços, a Hapvida (HAPV3) recuava 45,75%, enquanto a Ânima Educação (ANIM3) apresentava queda de 42,26% e a Dasa (DASA3), de 41,92%. No segmento de serviços e mobilidade, a Localiza (RENT3) registrava desvalorização de 38,88%. A Smart Fit (SMFT3) caía 33,11%. As administradoras de shopping centers também foram afetadas. A Multiplan (MULT3) registrava queda de 27,63%, enquanto a Allos (ALOS3) recuava 23,53%. Os números mostram que a reação do mercado se estende a negócios com diferentes modelos de receita, mas que compartilham exposição à atividade econômica brasileira e, em graus variados, à trajetória dos juros. Circuit breaker marca primeiro pregão após as eleições A forte pressão sobre as ações levou ao acionamento do circuit breaker nesta segunda-feira. O mecanismo de proteção da B3 interrompeu as negociações por 30 minutos após o Ibovespa atingir queda de 10%. A turbulência ocorre após a vitória de Lula sobre Flávio Bolsonaro no segundo turno das eleições presidenciais. O resultado desencadeou uma reavaliação das posições assumidas pelos investidores antes da votação, em um ambiente de incerteza sobre a política econômica do próximo mandato. Entre os principais pontos de atenção estão a condução das contas públicas, a trajetória da dívida, a composição da equipe econômica e a capacidade do governo de criar condições para uma redução sustentável dos juros. Para empresas varejistas, esse cenário é particularmente relevante. Juros elevados tendem a encarecer o crédito ao consumidor, pressionar despesas financeiras e dificultar decisões de investimento e expansão. O comportamento da Bolsa nos próximos pregões dependerá, entre outros fatores, das sinalizações econômicas do governo reeleito, como disseram analistas nest",
+  "numeros": [
+   {
+    "valor": "59,67%",
+    "rotulo": "queda da Quero Quero"
+   },
+   {
+    "valor": "58,31%",
+    "rotulo": "queda do Magazine Luiza"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas e redução de lucro.",
+  "angulo": "Com a queda nas vendas, empresários precisam investir em marketing digital, sites e gestão de redes sociais para não perder mais mercado.",
+  "gancho": "*Queda no varejo: como proteger seu negócio?*",
+  "ideias": [
+   "Impactos das eleições no varejo",
+   "Estratégias para recuperar perdas no consumo",
+   "A importância do marketing em tempos de crise"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/mc-capital/quero-quero-magalu-ca-e-centauro-lideram-perdas-do-varejo-na-bolsa-apos-reeleicao-de-lula/",
+  "publicadoEm": "2026-10-26T15:09:30-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-31"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Varejo alimentício: crescimento e desafios no faturamento",
+  "resumo": "O varejo alimentar cresceu 2,8% em setembro de 2026, impulsionado pelo aumento de preços e ticket médio. No entanto, a quantidade de compras teve queda.",
+  "fatos": [
+   "O varejo alimentar registrou crescimento de 2,8% no faturamento em setembro de 2026, comparado ao mesmo mês do ano anterior.",
+   "O preço médio subiu 4,1%, enquanto o ticket médio aumentou 4%.",
+   "A quantidade de compras recuou 1,1%, e o número de itens por compra caiu 0,1%.",
+   "Entre clientes fidelizados, o faturamento cresceu 6%, com aumento de 4,6% no ticket médio.",
+   "Os supermercados tiveram crescimento de 3,9% no faturamento, com 5,4% de avanço no ticket médio."
+  ],
+  "explicacao": [
+   "O aumento no faturamento do varejo alimentar se deve especialmente à alta de preços e do valor gasto por compra.",
+   "Apesar do crescimento, a queda na quantidade de compras indica um comportamento do consumidor mais cauteloso.",
+   "Investimentos em fidelização podem ser fundamentais para garantir um crescimento sustentável neste cenário."
+  ],
+  "materia": "O varejo alimentar registrou crescimento de 2,8% no faturamento em setembro de 2026, na comparação com o mesmo mês do ano anterior. O resultado foi impulsionado principalmente pela alta dos preços e do valor gasto por compra, segundo levantamento da Rock Encantech, empresa especializada em ciência do consumo, que analisou 125 milhões de transações no período. O preço médio avançou 4,1%, enquanto o ticket médio aumentou 4%. Na contramão, a quantidade de compras recuou 1,1%, e o número de itens por compra teve queda de 0,1%. “O crescimento de 6% no faturamento entre clientes fidelizados mostra que o varejo que investe em conhecimento do shopper colhe resultados concretos. O aumento no ticket médio e na frequência de compras nesse grupo reforça que engajamento não é custo — é alavanca de crescimento”, afirma Fernando Gibotti, cofundador da Rock Encantech. Entre os clientes fidelizados, o desempenho foi superior ao registrado pelo setor. Nesse grupo, o faturamento cresceu 6%, acompanhado por altas de 4,6% no ticket médio e de 1,4% na frequência de compras. Desempenho por canal Os supermercados registraram crescimento de 3,9% no faturamento em setembro, com avanço de 5,4% no ticket médio e de 5,3% no preço médio. A quantidade de itens por compra aumentou 0,1%, enquanto o número de compras recuou 1,5%. No atacarejo , o faturamento avançou 2,3%. O resultado foi acompanhado por altas de 3,5% no preço médio e de 2,9% no ticket médio. Já a quantidade de compras e o número de itens por compra recuaram 0,6% cada. Imagens: Divulgação e ChatGPT O post Varejo alimentar cresce 2,8% em setembro, impulsionado pela alta dos preços apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "2,8%",
+    "rotulo": "crescimento do varejo alimentar"
+   },
+   {
+    "valor": "4,1%",
+    "rotulo": "alta do preço médio"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "aumento no ticket médio"
+   },
+   {
+    "valor": "1,1%",
+    "rotulo": "queda na quantidade de compras"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "crescimento do faturamento entre fidelizados"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Restaurantes",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas devido à queda na quantidade de compras",
+  "angulo": "A situação mostra a importância de estratégias adequadas para engajar clientes e maximizar vendas, como sites e gestão de redes.",
+  "gancho": "Como *crescimento* no faturamento impacta seus negócios?",
+  "ideias": [
+   "Varejo: como crescer em tempos desafiadores",
+   "A importância da fidelização no varejo",
+   "Aumente suas vendas: dicas para engajar clientes"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "alta",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/noticias-varejo/varejo-alimentar-cresce-28-em-setembro-impulsionado-pela-alta-dos-precos/",
+  "publicadoEm": "2026-10-26T15:10:52-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-30"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Samsung reduz produção da linha Galaxy A em 20%",
+  "resumo": "A alta dos preços das memórias impacta a produção de celulares mais baratos. A Samsung deve cortar a produção da linha Galaxy A em 20% no próximo ano.",
+  "fatos": [
+   "A produção da linha Galaxy A será reduzida em 20% no quarto trimestre de 2026.",
+   "Isso representa cerca de 10 milhões de celulares a menos em 2026.",
+   "Em 2027, a produção também deve diminuir cerca de 10%.",
+   "Os preços de chips de memória estão altos, aumentando os custos de fabricação.",
+   "Modelos como o Galaxy A17, A37 e A57 fazem parte da linha A, que equivale a 70% da produção anual de 230 a 240 milhões de celulares."
+  ],
+  "explicacao": [
+   "A redução na produção ocorre devido ao aumento dos custos dos componentes, especialmente as memórias RAM.",
+   "As margens de lucro em celulares mais baratos estão diminuindo, levando a ajustes em componentes como tela e câmeras.",
+   "Esse cenário força a Samsung a priorizar a produção de aparelhos mais caros, deixando os modelos da linha A em segundo plano."
+  ],
+  "materia": "Produção da linha Galaxy A deve continuar caindo no próximo ano (foto: Ana Marques/Tecnoblog) Resumo Samsung reduzirá em 20% a produção de celulares da linha Galaxy A no quarto trimestre de 2026 devido ao aumento nos preços da memória. O corte na produção pode representar cerca de 10 milhões de celulares a menos em 2026 e uma redução de 10% na produção de 2027. A alta dos componentes pressiona os celulares mais baratos, podendo haver ajustes em componentes como tela e câmeras para compensar custos. A Samsung deve reduzir em cerca de 20% a produção de celulares da linha Galaxy A no quarto trimestre de 2026 em comparação com o volume planejado inicialmente. A medida ocorre em meio à forte alta nos preços de chips de memória, que aumentou os custos de fabricação dos smartphones de entrada e intermediários. Segundo informações da imprensa sul-coreana, fornecedores da Samsung já foram informados sobre a redução nas encomendas de componentes. O corte pode representar cerca de 10 milhões de celulares a menos produzidos ao longo de 2026. Segundo fontes de indústria, a produção de aparelhos da linha em 2027 também deve diminuir cerca de 10%. A empresa costuma despachar entre 230 e 240 milhões de celulares por ano, segundo o GSMArena , e cerca de 70% dessa produção corresponde à linha A , que inclui modelos como Galaxy A17, A37 e A57. Memórias mais caras pressionam celulares mais baratos A principal razão para o corte continua sendo o aumento dos custos de componentes , especialmente chips de memórias RAM e armazenamento. Segundo informações da indústria, módulos de memória já podem representar mais da metade do custo de produção de alguns smartphones básicos, reduzindo a margem obtida com aparelhos mais baratos. Outros componentes, como placas de circuito impresso (PCBs) e MLCCs também enfrentam maior demanda pela expansão da infraestrutura para IA. Fontes da indústria também apontam que futuras gerações de aparelhos mais baratos podem sofrer ajustes em componentes como tela e câmeras para compensar os custos maiores, além de chegar ao mercado por preços superiores. Mesmo produzindo suas próprias memórias, a Samsung estaria priorizando componentes e capacidade de fabricação para aparelhos mais caros, como os modelos das linhas Galaxy S e Galaxy Z, que oferecem margens maiores. Linha Galaxy A já ficou mais cara no Brasil Galaxy A17 5G tem câmera principal de 50 MP (foto: Thássius Veloso/Tecnoblog) A pressão sobre os custos já aparece nos preços cobrados pela Samsung no Brasil. Aparelhos da linha Galaxy A receberam reajustes nos últimos meses que chegaram ao dobro do preço de lançamento , como o Galaxy A07 4G de 256, que passou de R$ 1.099 em setembro de 2025 para R$ 2.299 na loja oficial da Samsung. Outros modelos, como versões do Galaxy A07, A17, A27, A37 e A57 também sofreram aumentos que chegaram a 50% do preço original. O impacto chegou, também, na série premium: a família Galaxy S26 teve aumentos que chegaram a R$ 1.300 . Apesar dos aumentos, a série intermediária segue sendo campeã de vendas da marca no Brasil, sendo três dos cinco aparelhos mais vendidos no país . Alta de componentes favorece celulares premium A pressão sobre os modelos mais baratos acompanha uma mudança de comportamento no mercado. Em fevereiro, a consultoria Gartner projetou que, com o aumento do preço das memórias e, consequentemente, do preço dos celulares, os consumidores procurariam menos trocas de aparelho. Análises de outras consultorias, como Omdia e a Counterpoint Research também mostram o aumento da participação de vendas de smartphones de preço mais alto e fazem projeções preocupantes para os mais baratos . Segundo a consultoria, o cenário pode favorecer smartphones topo de linha de gerações anteriores, vendidos em promoções ou de segunda mão. A crise, vale pontuar, também tem impactado lançamentos recentes e a demanda por linhas como o iPhone 18 Pro . Samsung deve cortar produção da linha Galaxy A em 20%",
+  "numeros": [
+   {
+    "valor": "20%",
+    "rotulo": "redução da produção da linha Galaxy A"
+   },
+   {
+    "valor": "10 milhões",
+    "rotulo": "celulares a menos em 2026"
+   },
+   {
+    "valor": "70%",
+    "rotulo": "produção da linha A em relação ao total"
+   }
+  ],
+  "fonte": "Tecnoblog",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "perda de vendas e diminuição da margem de lucro",
+  "angulo": "A pressão nos custos e a necessidade de adaptação refletem a importância de uma gestão eficiente de marketing e vendas para manter a competitividade.",
+  "gancho": "A produção do *Galaxy A* está em queda?",
+  "ideias": [
+   "Impactos da alta dos componentes",
+   "Como se adaptar a mudanças no mercado",
+   "A importância do marketing no cenário atual"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://tecnoblog.net/noticias/samsung-deve-cortar-producao-da-linha-galaxy-a-em-20/",
+  "publicadoEm": "2026-10-26T17:31:47-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-29"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "O impacto da reeleição de Lula nas vendas e no consumo",
+  "resumo": "A reeleição de Lula traz incertezas sobre juros e poder de compra, afetando o planejamento financeiro das famílias. Empresários precisam estar atentos a essas mudanças para se adaptar ao mercado.",
+  "fatos": [
+   "81,7% das famílias brasileiras estavam endividadas em setembro de 2026.",
+   "29,6% das famílias tinham contas em atraso e as dívidas comprometiam 29,6% da renda familiar.",
+   "O Brasil registrou 83,98 milhões de consumidores inadimplentes em agosto.",
+   "Na primeira segunda-feira após a reeleição, o Ibovespa caiu mais de 17% e o dólar ultrapassou R$ 5,49.",
+   "A Selic projetada para o final de 2027 é de 11,75%, podendo variar entre 12,25% e 12,75%."
+  ],
+  "explicacao": [
+   "A reeleição de Lula resulta em preocupações econômicas, especialmente na questão fiscal e juros altos que podem dificultar o consumo.",
+   "A instabilidade no mercado financeiro afeta a confiança e o poder de compra das famílias brasileiras.",
+   "O novo mandato tem o potencial de criar um efeito cascata nos preços de produtos e no custo do crédito, o que pode onerar ainda mais a renda mensal."
+  ],
+  "materia": "Antes de decidir se troca de carro, parcela uma compra ou simplesmente enche o carrinho do supermercado, o brasileiro precisa fazer contas. Quanto da renda já está comprometido? O salário será suficiente para pagar as despesas do mês? E, se os juros continuarem elevados, haverá espaço para assumir uma nova dívida? Essas preocupações ajudam a dimensionar o desafio econômico que se apresenta após a reeleição de Luiz Inácio Lula da Silva. Afinal, o que o resultado das urnas pode mudar na conta do supermercado, na prestação do financiamento, no emprego e na renda do consumidor brasileiro? A resposta interessa a um País em que 81,7% das famílias estavam endividadas em setembro de 2026, segundo a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) . Embora o indicador tenha recuado ligeiramente em relação a agosto, 29,6% das famílias ainda tinham contas em atraso . Em média, as dívidas comprometiam 29,6% da renda familiar. O cenário ganha outra dimensão quando observado pelo levantamento da Serasa : em agosto, o Brasil registrava 83,98 milhões de consumidores inadimplentes. São brasileiros que já enfrentam dificuldades para honrar compromissos financeiros e que podem sentir de maneira mais intensa eventuais pressões sobre os preços e o custo do crédito. É nesse contexto que a reação dos mercados à reeleição de Lula deixa de ser apenas uma discussão sobre Bolsa, câmbio e juros futuros. A questão central é como as decisões econômicas do próximo mandato poderão chegar ao cotidiano das famílias, influenciando o poder de compra , a geração de empregos e as condições de consumo. A primeira segunda-feira após a reeleição de Luiz Inácio Lula da Silva foi marcada por forte turbulência no mercado financeiro. O Ibovespa chegou a registrar queda superior a 17% durante a manhã, enquanto o dólar ultrapassou R$ 5,49. A intensidade das perdas levou a B3 a interromper temporariamente as negociações por meio do mecanismo conhecido como circuit breaker . A reação refletiu, em parte, a necessidade de investidores reverem posições construídas sob a expectativa de vitória de Flávio Bolsonaro . Também evidenciou preocupações com a trajetória das contas públicas, a dívida brasileira e a condução da política econômica a partir de 2027. Para Olívia Flôres de Brás , CEO da Magno Investimentos , o resultado eleitoral inaugura um período em que a credibilidade fiscal será decisiva para a percepção dos investidores. “A democracia escolheu o presidente. Agora, a economia exige que ele escolha entre governar o orçamento ou continuar sendo governado por ele.” Na avaliação da executiva, a reeleição contrariou o posicionamento predominante dos investidores, que haviam incorporado aos preços a expectativa de alternância política e maior consolidação fiscal. Olívia ressalta que a composição da equipe econômica e a capacidade de articulação com o Congresso serão fundamentais para determinar o prêmio de risco exigido pelo capital. “A urna entrega legitimidade. A responsabilidade fiscal precisa entregar credibilidade. E nenhuma das duas pode ser substituída por discurso.” Para o consumidor, a questão é entender como essa instabilidade pode ultrapassar o mercado financeiro. Uma desvalorização persistente do real, por exemplo, tende a encarecer produtos importados e insumos cotados em dólar, com possíveis reflexos sobre alimentos, combustíveis, eletrônicos e outros bens de consumo. Esse repasse, entretanto, não é automático. Depende da duração do movimento cambial, das condições de concorrência, dos estoques das empresas e de outros fatores que influenciam a formação dos preços . O custo do crédito é um dos principais pontos de atenção para as famílias brasileiras. Em um País com elevado endividamento, a manutenção de juros altos pode dificultar a renegociação de dívidas, encarecer financiamentos e reduzir o espaço disponível para novas compras. O Boletim Focus divulgado pelo Banco Central nesta segunda-feira (26) projetou a Selic em 11,75% ao final de 2027.",
+  "numeros": [
+   {
+    "valor": "81,7%",
+    "rotulo": "famílias endividadas"
+   },
+   {
+    "valor": "83,98 milhões",
+    "rotulo": "consumidores inadimplentes"
+   },
+   {
+    "valor": "17%",
+    "rotulo": "queda do Ibovespa"
+   },
+   {
+    "valor": "R$ 5,49",
+    "rotulo": "cotação do dólar"
+   },
+   {
+    "valor": "11,75%",
+    "rotulo": "Selic projetada"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "aumento da inadimplência e queda nas vendas",
+  "angulo": "Essa situação evidencia a necessidade de boas estratégias de marketing digital para atrair e manter clientes em tempos de incerteza econômica.",
+  "gancho": "*Reeleição* e o impacto no seu negócio!",
+  "ideias": [
+   "Como a reeleição pode mudar seu negócio",
+   "Prepare-se para as mudanças pós-eleição",
+   "O papel do marketing em tempos de crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://consumidormoderno.com.br/lula-reeleito-juros-inflacao-compra/",
+  "publicadoEm": "2026-10-26T17:08:22-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-28"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Novo foco de Newcastle impacta o setor avícola em SC",
   "resumo": "O Ministério da Agricultura confirmou um novo foco da doença de Newcastle, alertando sobre o impacto nas vendas avícolas. O cenário exige estratégias de marketing adequadas para minimizar as perdas.",
   "fatos": [
@@ -1541,6 +2012,306 @@
   "publicadoEm": "2026-10-26T07:12:32-03:00",
   "data": "2026-10-26",
   "id": "2026-10-26-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e suas consequências no RJ",
+  "resumo": "Mudanças na jornada de trabalho impactarão 2,6 milhões de trabalhadores no Rio de Janeiro, especialmente em micro e pequenas empresas. Isso altera a dinâmica do mercado e a renda dos profissionais.",
+  "fatos": [
+   "Mais de 2,6 milhões de trabalhadores no RJ podem ser afetados pelo fim da escala 6x1.",
+   "72,7% dos celetistas fluminenses têm jornadas superiores a 40 horas semanais.",
+   "A mudança pode beneficiar cerca de 1,3 milhão de empregados de micro e pequenas empresas.",
+   "A proposta prevê redução da jornada para 42 horas em dois meses e 40 horas em um ano.",
+   "Trabalhadores que cumprem mais de 40 horas recebem, em média, R$ 3.158 por mês."
+  ],
+  "explicacao": [
+   "A mudança na legislação busca diminuir a carga horária e melhorar a qualidade de vida dos trabalhadores.",
+   "Jovens e profissionais com menor escolaridade são os mais impactados, tendo jornadas longas e salários baixos.",
+   "Com o aumento do tempo livre, muitos podem considerar o mercado financeiro como uma alternativa viável para complementar a renda."
+  ],
+  "materia": "Foto: JERO SenneGs / Magnific (Freepik) A possível redução da jornada máxima de trabalho para 40 horas semanais e o fim da escala 6x1 podem atingir mais de 2,6 milhões de trabalhadores com carteira assinada no Rio de Janeiro. O número corresponde a 72,7% dos 3,6 milhões de empregados celetistas do estado com jornada registrada, segundo levantamento do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas do Rio de Janeiro (Sebrae-RJ), com base em dados da Relação Anual de Informações Sociais ( Rais ) de 2025, do Ministério do Trabalho. Do total de profissionais potencialmente afetados, aproximadamente 1,3 milhão trabalha em micro e pequenas empresas, o que representa cerca de metade desse contingente. A Proposta de Emenda à Constituição (PEC) em discussão prevê o encerramento da escala de seis dias de trabalho para um de descanso e a redução da jornada semanal máxima para 40 horas. Conforme o texto, a carga horária seria reduzida inicialmente para 42 horas, dois meses após a publicação da medida, e chegaria a 40 horas um ano depois. Diante da possível mudança, o Sebrae-RJ recomenda que os pequenos negócios aproveitem o período de transição para revisar escalas, turnos e processos internos. A entidade também destaca a importância do planejamento financeiro, da gestão de pessoas e da avaliação de estratégias de preços, composição de produtos e utilização de canais digitais. Jovens e trabalhadores com menor escolaridade concentram jornadas mais longas Os dados do levantamento mostram que a proporção de empregados com jornadas superiores a 40 horas semanais é maior entre aqueles com menor nível de escolaridade. Entre os profissionais que não concluíram o ensino fundamental, 85,6% trabalham acima desse limite. Já entre os que possuem ensino superior, o percentual é de 47,4%. A faixa etária de 18 a 24 anos também apresenta participação expressiva: 81,8% dos trabalhadores desse grupo cumprem jornadas superiores a 40 horas semanais, o equivalente a aproximadamente 307 mil pessoas. Na divisão por gênero, os homens representam 62,1% dos trabalhadores com jornadas acima de 40 horas, totalizando 1,64 milhão de pessoas. Entre as mulheres com carteira assinada, cerca de 1 milhão trabalha acima desse limite, o equivalente a 66,8% do total feminino considerado no levantamento. Em relação à raça e à cor, pessoas pretas e pardas correspondem a 59% dos trabalhadores com jornadas mais extensas. O percentual de contratos acima de 40 horas chega a 76,6% entre pardos e 75,7% entre pretos. Entre os trabalhadores brancos, a proporção é de 67,5%. Jornada semanal também está relacionada à renda e ao tempo de emprego O levantamento aponta diferenças na remuneração média conforme a duração da jornada contratual. Trabalhadores que cumprem mais de 40 horas semanais recebem, em média, R$ 3.158 por mês. Entre aqueles com jornada de 40 horas, a média salarial é de R$ 8.098. A distribuição por faixa salarial também mostra que 66,7% dos profissionais com jornadas superiores a 40 horas recebem até dois salários mínimos, o equivalente a aproximadamente dois em cada três trabalhadores desse grupo. O tempo médio de permanência no emprego é outro indicador que apresenta diferença. Entre os profissionais com jornadas acima de 40 horas semanais, o período médio no mesmo vínculo é de 51 meses. Para aqueles com jornada de 40 horas, a média chega a 64 meses. Micro e pequenas empresas têm maior proporção de jornadas acima de 40 horas A distribuição dos vínculos empregatícios por porte empresarial mostra que as jornadas superiores a 40 horas semanais são mais frequentes nas empresas menores. Nas micro e pequenas empresas, 80,1% dos contratos ultrapassam esse limite, enquanto nas médias e grandes empresas o percentual é de 66,6%. A diferença também aparece quando os estabelecimentos são classificados pelo número de funcionários. Nos negócios com até quatro empregados, 80,8% dos vínculos têm jornadas superiores a 40 horas. Nos estabelecimentos com 100 funcionários ou mais,",
+  "numeros": [
+   {
+    "valor": "2,6 milhões",
+    "rotulo": "trabalhadores afetados no RJ"
+   },
+   {
+    "valor": "72,7%",
+    "rotulo": "percentual de celetistas com jornada longa"
+   },
+   {
+    "valor": "R$ 3.158",
+    "rotulo": "salário médio de quem trabalha acima de 40 horas"
+   },
+   {
+    "valor": "1,3 milhão",
+    "rotulo": "empregados em micro e pequenas empresas"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "dependência de salários baixos e jornadas extenuantes",
+  "angulo": "Com as mudanças, aprender sobre o mercado financeiro pode ser uma saída para gerar renda independente das amarras tradicionais.",
+  "gancho": "*Jornada de trabalho* e renda: como mudar seu futuro",
+  "ideias": [
+   "Você pode ganhar mais fora da caixa!",
+   "Diga adeus ao salário fixo",
+   "Mercado financeiro: sua nova carreira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80348/fim-da-escala-6x1-pode-afetar-2-6-milhoes-de-trabalhadores-no-rj/",
+  "publicadoEm": "2026-10-26T16:45:01-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-20"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças no trabalho: *fim da escala 6x1* e mais",
+  "resumo": "O novo plano de Lula visa aumentar a proteção aos trabalhadores e autônomos, incluindo o fim da escala 6x1 e ampliação do teto de faturamento do MEI. Veja as principais mudanças.",
+  "fatos": [
+   "Lula foi reeleito em 25 de outubro e assume em 2027.",
+   "Fim da escala 6x1 será promovido com redução gradual da jornada laboral.",
+   "A jornada semanal começará com 42 horas após 60 dias e chegará a 40 horas em 12 meses.",
+   "O teto do MEI aumenta para R$ 110 mil em 2027 e R$ 140 mil em 2028.",
+   "Novas iniciativas incluem aumento da proteção social para autônomos e melhorias no crédito para pequenos negócios."
+  ],
+  "explicacao": [
+   "O plano de Lula reflete a necessidade de adaptação do mercado de trabalho às novas realidades, buscando mais proteção para trabalhadores autônomos e melhores condições de trabalho.",
+   "A redução da jornada de trabalho pode impactar os empresários na organização de turnos, mas busca melhorar a qualidade de vida dos trabalhadores.",
+   "Com a ampliação do teto do MEI, os empreendedores terão mais espaço para crescer sem perder suas vantagens fiscais."
+  ],
+  "materia": "O plano reúne medidas para ampliar a proteção de trabalhadores autônomos e abrir novas oportunidades no mercado de trabalho; veja o que já avançou e o que ainda está por vir O presidente Luiz Inácio Lula da Silva (PT) foi reeleito neste domingo (25), no segundo turno das eleições presidenciais, e terá um novo mandato a partir de janeiro de 2027. Para quem empreende, trabalha por conta própria ou busca uma oportunidade profissional, o plano de governo reúne propostas que vão do acesso ao crédito para pequenos negócios à ampliação da proteção trabalhista. Entre os temas estão o fortalecimento de programas de financiamento, o incentivo à digitalização das empresas, a regulamentação do trabalho por aplicativos e a ampliação da formação profissional. O documento também trata de igualdade salarial, inclusão no mercado de trabalho e apoio aos jovens que querem empreender. Mas há uma diferença importante entre as propostas apresentadas durante a campanha e as medidas que já avançaram. A redução da jornada de trabalho, por exemplo, teve um desdobramento legislativo em outubro. Já a ampliação do limite de faturamento do microempreendedor individual (MEI) foi sancionada, com novos valores previstos para os próximos anos. Veja o que muda e quais são os próximos passos. Conseguir dinheiro para investir no próprio negócio é um dos desafios de quem empreende. Às vezes, o empresário precisa comprar equipamentos, contratar funcionários ou reforçar o caixa para atravessar um período de vendas mais fracas. O plano de Lula prevê manter e expandir programas de financiamento e garantias, como Acredita, ProCred 360 , Pronampe, FGI PEAC, FGO e Desenrola Pequenos Negócios . Uma dessas iniciativas é o ProCred 360, voltado a MEIs e microempresas com faturamento anual de até R$ 360 mil. O programa oferece crédito com condições específicas para esse público, incluindo juros limitados à taxa Selic acrescida de até 5% ao ano, conforme as regras divulgadas pelo governo federal. Para empresas lideradas por mulheres, o limite de crédito pode chegar a 50% do faturamento do ano anterior. Para as demais empresas, o percentual é de até 30%. A proposta do plano é dar continuidade a iniciativas desse tipo e ampliar as alternativas de financiamento para os pequenos negócios. Isso não significa, porém, que todos os programas terão juros menores ou limites maiores automaticamente: essas mudanças dependem das regras definidas para cada linha. O governo também quer ajudar as empresas a melhorar seus processos e aproveitar melhor a tecnologia. Para isso, prevê ampliar o Brasil Mais Produtivo , programa que apoia a digitalização e o aumento da produtividade de micro, pequenas e médias empresas. Outro objetivo é facilitar o caminho de quem quer vender para o poder público. O plano prevê simplificar o ambiente de negócios e ampliar o acesso de pequenas empresas às compras governamentais. Quem é MEI e está vendo as vendas crescerem tem um motivo extra para prestar atenção às mudanças previstas para a categoria. O limite de faturamento define quanto o empreendedor pode receber por ano para continuar nesse enquadramento. A atualização do teto que está prevista no plano de Lula já foi aprovada durante a campanha eleitoral . A Lei Complementar nº 238 estabelece um limite de faturamento anual de R$ 110 mil para 2027 e de R$ 140 mil a partir de 2028. Isso dá mais espaço para o microempreendedor aumentar as vendas sem precisar sair imediatamente da categoria por ultrapassar o teto anterior. Mas atenção ao calendário: o limite de R$ 140 mil não vale desde já. A mudança será gradual, começando com R$ 110 mil em 2027. A legislação também prevê a possibilidade de o MEI contratar até dois empregados, respeitadas as condições estabelecidas na lei. O plano ainda propõe dar continuidade a iniciativas como a plataforma MEI Conta Com a Gente, que oferece orientação a microempreendedores. Ter o próprio negócio ou trabalhar como autônomo traz liberdade para organizar a rotina, mas também pode s",
+  "numeros": [
+   {
+    "valor": "110 mil",
+    "rotulo": "teto do MEI em 2027"
+   },
+   {
+    "valor": "140 mil",
+    "rotulo": "teto do MEI em 2028"
+   },
+   {
+    "valor": "40",
+    "rotulo": "jornada semanal em horas"
+   }
+  ],
+  "fonte": "Seu Dinheiro",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "perda de segurança e previsibilidade financeira",
+  "angulo": "Entender essas mudanças pode ser o primeiro passo para não depender apenas do salário, visando liberdade e aumento de renda.",
+  "gancho": "*Descubra como essas mudanças* impactam seu negócio!",
+  "ideias": [
+   "Como o fim da escala 6x1 pode beneficiar sua rotina?",
+   "Aumentando o teto do MEI: o que isso muda para você!",
+   "Preparando-se para as mudanças na jornada de trabalho."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://www.seudinheiro.com/2026/seu-negocio/credito-aumento-do-teto-do-mei-e-fim-da-escala-6x1-o-que-lula-preve-para-empreendedores-e-trabalhadores-no-proximo-mandato/",
+  "publicadoEm": "2026-10-26T17:20:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-19"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impactos e novos desafios",
+  "resumo": "A aprovação da PEC 221/2019 altera a jornada de trabalho no Brasil, impactando empresas e trabalhadores. A nova regra exige adaptação na gestão de pessoal e pode gerar desafios financeiros.",
+  "fatos": [
+   "A PEC 221/2019 foi aprovada pelo Senado e promulgada pelo Congresso Nacional em 16 de dezembro de 2023.",
+   "A jornada semanal passará de 44 para 40 horas, garantindo dois dias de descanso remunerado.",
+   "A mudança deve ser aplicada a partir de dezembro de 2023, com transição para 42 horas em dois meses e 40 horas após um ano.",
+   "A alteração pode impactar o custo médio do trabalho em até 17,57%, dependendo da jornada atual.",
+   "Além disso, 31 setores têm mais de 90% de seus trabalhadores com jornadas superiores a 40 horas semanais."
+  ],
+  "explicacao": [
+   "A aprovação da PEC 221 reflete uma mudança significativa nas regras do trabalho no Brasil, sendo fundamental para o RH das empresas.",
+   "As organizações precisarão rever suas escalas e planejar novas contratações para evitar sobrecargas e comprometer a operação.",
+   "Essa transformação exige uma integração entre as áreas de RH, operações e finanças para garantir eficiência e continuidade nas atividades."
+  ],
+  "materia": "As regras sobre a jornada de trabalho entraram em uma nova etapa no Brasil, a partir da aprovação do Senado, em dois turnos, da PEC 221/2019 , que estabelece o fim da escala 6×1 e reduz gradualmente a jornada semanal de 44 para 40 horas, garantindo dois dias de descanso remunerado por semana, sem redução salarial. Como o texto já havia sido aprovado pela Câmara dos Deputados e não sofreu alterações no Senado, a proposta foi promulgada pelo Congresso Nacional na sexta-feira (16) e começará a ser aplicada ainda em dezembro deste ano. A dimensão do tema aparece nos números do mercado, em que, segundo levantamento do Instituto Brasileiro de Geografia e Estatística (IBGE), o Brasil encerrou 2025 com 103 milhões de pessoas ocupadas , o maior contingente da série histórica da instituição. Entre elas, 38,9 milhões eram empregados do setor privado com carteira assinada. Com a aprovação da PEC, prevendo a rejeição de todas as propostas de emendas, a transição prevista estabelece jornada máxima de 42 horas semanais dois meses após a promulgação e de 40 horas após um ano. Nesse período, as empresas precisarão rever planejamento de pessoal, escalas, custos, produtividade e contratos, especialmente em atividades que dependem de funcionamento contínuo ou de grandes contingentes de trabalhadores. Vale lembrar que os profissionais que já estão dentro do regime de até 40 horas semanais não sofrerão nenhuma alteração. Ao mesmo tempo, outras propostas relacionadas à organização do trabalho continuam em debate, como modelos baseados em maior flexibilidade e remuneração proporcional às horas trabalhadas. Isso mostra que a discussão sobre jornada deve permanecer na agenda empresarial mesmo após a aprovação da PEC 221. Para o RH, o desafio imediato será compreender como adaptar a operação às novas regras sem perder eficiência, previsibilidade e segurança jurídica. + Leia também: Prédio de Curitiba que lembra arranha-céu de Nova York já foi símbolo de luxo em 1950 A mudança constitucional atingirá cada setor de maneira distinta. Estudo publicado pelo Instituto de Pesquisa Econômica Aplicada (Ipea) em fevereiro de 2026, com base nos vínculos celetistas registrados na RAIS de 2023, estimou que a medida impactaria o custo médio do trabalho celetista em 7,84% ou 17,57% , a depender do número de horas da nova jornada. Os percentuais representam uma estimativa, e não uma previsão automática de aumento da folha, pois o efeito dependerá da jornada atual, da produtividade e da capacidade de reorganização de cada atividade. A mesma pesquisa identificou 31 setores econômicos nos quais mais de 90% dos trabalhadores registrados tinham jornadas superiores a 40 horas semanais. O resultado mostra por que empresas com operações contínuas ou grandes contingentes de profissionais precisam iniciar o planejamento antes da definição legislativa. Segurança, facilities , varejo, logística e outros serviços dependem de cobertura permanente, turnos coordenados e cumprimento de níveis de atendimento. Uma carga semanal menor pode exigir redistribuição de equipes, novas contratações, revisão de contratos e controle mais rigoroso das horas extraordinárias. Existe ainda uma lacuna relevante de informação. O Ipea chama atenção para a ausência de dados públicos detalhados sobre a distribuição das escalas praticadas no mercado formal. Jornada e escala são conceitos relacionados, mas produzem efeitos diferentes. Uma empresa pode operar em regime 5×2 com 44 horas semanais, enquanto outra distribui a mesma carga em seis dias. Sem conhecer essa composição internamente, o RH corre o risco de estimar impactos com base em médias que não representam a realidade da operação. O primeiro movimento, portanto, deve ser a construção de um diagnóstico próprio . Quantas pessoas trabalham acima de 40 horas? Quais contratos dependem da escala 6×1? Quanto tempo é necessário para contratar e preparar um substituto? As respostas permitem simular cenários e identificar os pontos em que uma mudança de regra",
+  "numeros": [
+   {
+    "valor": "103 milhões",
+    "rotulo": "pessoas ocupadas no Brasil"
+   },
+   {
+    "valor": "38,9 milhões",
+    "rotulo": "empregados do setor privado com carteira assinada"
+   }
+  ],
+  "fonte": "Tribuna do Paraná",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Desafios para adaptar contratos e escalas de trabalho",
+  "angulo": "Aprender a operar no mercado financeiro pode ser uma alternativa para quem teme os impactos da nova carga horária e a incerteza econômica.",
+  "gancho": "O que *muda* com o fim da escala 6x1?",
+  "ideias": [
+   "Novas regras de trabalho e seus impactos",
+   "Como se adaptar à nova jornada de trabalho?",
+   "O futuro do trabalho com a PEC 221"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://www.tribunapr.com.br/blogs/artigos/fim-escala-6x1-novas-regras-trabalho-exigem-rh-mais-preparado/",
+  "publicadoEm": "2026-10-26T15:17:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-18"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho impactam bares e restaurantes",
+  "resumo": "A nova lei que proíbe a escala 6x1 altera significativamente a jornada de trabalho, aumentando custos e criando desafios para pequenos negócios. Entenda os efeitos no setor de alimentação.",
+  "fatos": [
+   "A partir de 15 de dezembro, bares e restaurantes devem adotar uma jornada máxima de 42 horas semanais, que cairá para 40 horas em um ano.",
+   "94% dos estabelecimentos com empregados CLT atualmente utilizam a escala 6x1, que é proibida pela nova emenda.",
+   "A mudança afetará 1,55 milhão de vínculos empregatícios, resultando em uma perda de 5,9 milhões de horas de trabalho semanais.",
+   "O custo da hora trabalhada pode aumentar em até 10% após a transição, sem redução salarial.",
+   "Com 40% dos estabelecimentos já sem lucro, a nova legislação pode levar a mais fechamento de negócios e à perda de empregos."
+  ],
+  "explicacao": [
+   "A Emenda Constitucional 141, promulgada em 16 de outubro, visa garantir melhores condições de trabalho, mas traz um ônus significativo para o setor de alimentação.",
+   "Com a redução das horas, os empresários terão que contratar mais pessoal ou pagar horas extras, o que acarreta aumento de custos operacionais.",
+   "A regra de duas folgas por semana pode apertar ainda mais a margem de lucro, especialmente em um setor que já enfrenta dificuldades financeiras.",
+   "Além disso, a proibição da escala 6x1 pode resultar em dificuldades na contratação de novos empregados em um mercado já escasso.",
+   "Essas mudanças podem impactar o consumo e, consequentemente, a economia local, potencializando o risco de recessão."
+  ],
+  "materia": "Cruzamento de pesquisa da Abrasel com a RAIS mostra que 94% dos estabelecimentos com empregados CLT usam folga semanal única e que 84% dos vínculos formais do setor têm jornada de 44 horas ou mais A partir de 15 de dezembro, bares e restaurantes terão de refazer a escala de quase todos os seus empregados formais. A Emenda Constitucional 141, promulgada pelo Congresso em 16 de outubro, proíbe a escala 6x1, garante duas folgas semanais remuneradas e baixa a jornada máxima de 44 para 42 horas. Doze meses depois, o limite cai para 40 horas. O salário não pode ser reduzido. Na pesquisa nacional que a Abrasel fez em fevereiro de 2026, com 1.838 empresários de todas as unidades da federação, 94,3% dos estabelecimentos com empregados CLT disseram trabalhar com mensalistas que têm uma folga por semana. É o desenho da escala 6x1. Os outros regimes aparecem bem menos. O intermitente é usado por 10,2% dos estabelecimentos, o horista por 9,8% e o 12x36 por 8,8%. Como a mesma empresa pode ter empregados em mais de um regime, os percentuais somam mais de 100%. 1,47 milhão de empregados terão a jornada cortada já em dezembro Os dados da RAIS 2025 confirmam o retrato. O setor de alimentação fora do lar fechou dezembro de 2025 com 1.744.401 vínculos formais ativos. Desses, 1.472.516 (84,4%) tinham jornada de 44 horas semanais ou mais. Todos terão de cair para 42 horas em 15 de dezembro. Quando o limite chegar a 40 horas, a mudança vai alcançar 1,55 milhão de vínculos, ou 88,7% do total. Hoje só 11,3% dos empregados formais do setor trabalham até 40 horas. A conta das horas mostra o peso na operação. Só o corte de quatro horas semanais nos vínculos de 44 horas ou mais tira do setor pelo menos 5,9 milhões de horas de trabalho por semana. Para repor esse tempo, bares e restaurantes teriam de contratar o equivalente a 147 mil empregados em jornada de 40 horas. É um aumento de 8,4% no quadro formal. Na primeira etapa, com o teto de 42 horas, a perda chega a 2,9 milhões de horas semanais, o equivalente a 70 mil empregados. Com o salário mantido e uma folga remunerada a mais por semana, cada hora trabalhada fica mais cara. Para quem cumpria 44 horas, o custo da hora sobe 4,8% em dezembro e 10% ao fim da transição. A conta ainda não inclui o custo de cobrir os dias de folga, com novas contratações ou horas extras. Somando tudo, a Abrasel estima que o gasto com pessoal pode subir até 20% para quem funciona seis dias por semana. A segunda folga cai no dia de maior movimento Bar e restaurante vendem quando o cliente está de folga. Por isso, 79,3% dos estabelecimentos com empregados CLT têm equipe trabalhando aos domingos, segundo a pesquisa. Só 20,8% dão folga em todos os domingos. Em 34,9% das casas, o empregado folga um domingo a cada quatro. Em 18,8%, um a cada três. Com duas folgas por semana, a escala de sexta a domingo terá de ser montada com mais gente. A conta aperta ainda mais nas equipes com mulheres, para quem a CLT já prevê folga a cada dois domingos. Como essa regra vai conviver com a segunda folga semanal é uma das dúvidas que a regulamentação precisa resolver. A nova regra encontra um setor de pequenos negócios e caixa apertado. Na pesquisa mais recente da Abrasel, feita em setembro, só 40% dos estabelecimentos tiveram lucro em agosto. Outros 40% ficaram no zero a zero e 19% fecharam no prejuízo. Para 38%, o faturamento caiu em relação a julho. Nos preços, 60% não conseguiram acompanhar a inflação no cardápio: 38% não reajustaram e 22% reajustaram abaixo dela. Em setembro, 37% tinham contas em atraso, principalmente impostos federais (77%) e estaduais (50%). O porte ajuda a explicar a fragilidade. Na pesquisa de fevereiro, 81% dos estabelecimentos faturaram até R$ 4,8 milhões em 2025, teto do Simples Nacional. \"Essa mão de obra não existe. No fim do ano passado, 88% dos empresários do setor já tinham dificuldade para contratar. Agora vamos precisar de mais gente para fazer o mesmo trabalho. Vai ser um rouba-monte\", afirma Paulo Solmucci, pr",
+  "numeros": [
+   {
+    "valor": "40%",
+    "rotulo": "dos estabelecimentos sem lucro"
+   },
+   {
+    "valor": "5,9 milhões",
+    "rotulo": "de horas de trabalho perdidas"
+   },
+   {
+    "valor": "1,55 milhão",
+    "rotulo": "de vínculos trabalhistas impactados"
+   }
+  ],
+  "fonte": "Abrasel",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "aumento de custos e riscos de fechamento de negócios",
+  "angulo": "Entender essas mudanças é essencial para se adaptar e explorar novas formas de renda no mercado financeiro, levando mais estabilidade à sua vida profissional.",
+  "gancho": "Seus *direitos* estão mudando; saiba como se adaptar!",
+  "ideias": [
+   "O que a nova lei significa para seu negócio",
+   "Escala 6x1: tudo que você precisa saber",
+   "Investindo em novas habilidades: o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://abrasel.com.br/noticias/noticias/fim-da-escala-6x1-vai-tirar-5-9-milhoes-de-horas-semanais-de-trabalho-de-bares-e-restaurantes/",
+  "publicadoEm": "2026-10-26T15:44:42-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-17"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e seus impactos para supermercadistas",
+  "resumo": "Com a aprovação da PEC 221/2019, supermercados precisam reorganizar jornadas de trabalho, garantindo atendimento sem comprometer a eficiência. Mudanças significativas estão a caminho.",
+  "fatos": [
+   "A PEC 221/2019 foi aprovada pelo Senado em 14 de outubro de 2026.",
+   "A votação contou com 75 votos favoráveis e 1 contrário.",
+   "A nova norma garante dois dias de descanso semanal remunerado.",
+   "A jornada máxima será reduzida de 44 para 40 horas em até 14 meses.",
+   "A primeira fase da redução da jornada ocorre 60 dias após a promulgação.",
+   "Supermercados precisarão rever escalas e aumentar custos com a mudança."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 está sendo implementado para melhorar as condições de trabalho dos supermercadistas.",
+   "Essa mudança exige que as empresas se planejem para não comprometer o atendimento ao consumidor.",
+   "O aumento do custo por hora trabalhada representa um desafio financeiro para os supermercadistas.",
+   "Tecnologia e negociações coletivas serão fundamentais para estruturar essa adaptação.",
+   "O sucesso da implementação dependerá do planejamento estratégico e da reorganização das operações."
+  ],
+  "materia": "O fim da escala 6x1 avança no Brasil e coloca os supermercados diante de um desafio operacional: reorganizar as jornadas de trabalho sem comprometer o atendimento ao consumidor e a eficiência das lojas. A Proposta de Emenda à Constituição (PEC) 221/2019 foi aprovada pelo Senado em 14 de outubro de 2026, em dois turnos, por 75 votos favoráveis e um contrário. LEIA TAMBÉM Senado aprova a PEC do fim da escala de trabalho 6x1 Supermercados reinventam as escalas de trabalho para atrair talentos e reduzir a rotatividade O texto prevê dois dias de descanso semanal remunerado e a redução gradual da jornada máxima de 44 para 40 horas, sem diminuição salarial. Para o varejo alimentar, que depende de equipes distribuídas ao longo de toda a semana, a adaptação exigirá planejamento de pessoal, revisão de escalas e avaliação dos custos operacionais. O que você vai encontrar nesta matéria: Como funcionará o fim da escala 6x1 e quando as mudanças entram em vigor Os impactos da redução da jornada para os supermercados Custos trabalhistas, horas extras e remuneração variável Reorganização das equipes e das escalas de trabalho O papel da negociação coletiva e do planejamento antecipado Fim da escala 6x1: quando as novas regras começam a valer? A aprovação pelo Senado representa uma etapa decisiva, mas as mudanças não entram em vigor imediatamente após a votação. Conforme as informações reunidas, a emenda constitucional seguirá para promulgação pelo Congresso Nacional, sem necessidade de sanção presidencial. O cronograma prevê o início dos efeitos 60 dias após a promulgação. Nessa primeira etapa, a jornada máxima semanal passará de 44 para 42 horas, e os trabalhadores terão direito a dois dias de descanso remunerado por semana, preferencialmente incluindo o domingo. Depois de 14 meses da promulgação, o limite semanal será reduzido para 40 horas. Durante a transição, a remuneração deverá ser preservada, inclusive os pisos salariais das categorias. Portanto, o fim da escala 6x1 exige que os supermercadistas acompanhem os prazos previstos no texto e preparem suas operações antes da implementação. A antecedência será importante para revisar contratos, dimensionar equipes e avaliar os efeitos financeiros da mudança. Fim da escala 6x1: o impacto na operação dos supermercados Os supermercados estão entre as atividades que podem sentir diretamente os efeitos da nova jornada, pois precisam manter lojas abastecidas, caixas em funcionamento e atendimento ao consumidor durante diferentes dias e horários. Com a garantia de dois dias de descanso semanal, será necessário reorganizar a distribuição dos trabalhadores. Em determinadas operações, isso poderá exigir mudanças nos turnos, redistribuição de funcionários entre setores ou ampliação das equipes para cobrir os períodos de funcionamento. A complexidade será maior nas lojas que operam todos os dias, especialmente nos horários de maior movimento, nos fins de semana e feriados. A gestão precisará conciliar os períodos de descanso com as necessidades de atendimento, reposição de mercadorias, recebimento de produtos e funcionamento dos caixas. Nesse sentido, o planejamento deve considerar as particularidades de cada unidade. Uma loja com grande volume de clientes aos domingos, por exemplo, terá necessidades de cobertura diferentes das de uma operação concentrada em dias úteis. A mudança também poderá alcançar trabalhadores que já cumprem jornadas semanais inferiores a 44 horas, mas ainda trabalham seis dias por semana. Por isso, a análise não deve se limitar ao total de horas contratadas: a distribuição dos dias trabalhados também precisará ser revisada. Custos trabalhistas: o que pesa na conta do supermercadista? Um dos principais desafios do fim da escala 6x1 será adequar a operação à redução da jornada sem diminuir salários. Quando o empregado mantém a mesma remuneração e trabalha menos horas, o custo de cada hora trabalhada aumenta. Segundo a análise apresentada pelo advogado trabalhista Jorge Soares, a redu",
+  "numeros": [
+   {
+    "valor": "75 a 1",
+    "rotulo": "votos no Senado"
+   }
+  ],
+  "fonte": "SuperVarejo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Aumento de custos e necessidade de reorganizar equipes",
+  "angulo": "Aprender a atuar no mercado financeiro pode ser uma alternativa valiosa para os profissionais afetados por essas mudanças, oferecendo opções mais flexíveis de geração de renda.",
+  "gancho": "Impacto do *fim da escala 6x1* nos negócios",
+  "ideias": [
+   "Como a PEC 221/2019 afeta seu supermercado?",
+   "Adequação ao fim da escala 6x1: o que considerar",
+   "Impactos financeiros da nova jornada de trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T17:46:58-03:00",
+  "url": "https://www.supervarejo.com.br/varejo/fim-da-escala-6x1-o-que-muda-para-o-supermercadista-brasileiro",
+  "publicadoEm": "2026-10-26T17:20:54-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-16"
  },
  {
   "segmento": "trader",
