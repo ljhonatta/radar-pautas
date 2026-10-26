@@ -1,38 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-26T09:16:42-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-10-26T10:20:19-03:00",
+  "novas": 3,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Mudanças na CLT podem impactar seus ganhos futuros; Como a reeleição de Lula impacta seu bolso; Mudança na jornada de trabalho impacta comércio em Minas.",
-  "falhas": [
-   "Jornal Contábil (HTTPError)"
-  ],
-  "manual": true,
-  "historico": [
-   "2026-10-26T09:16:42-03:00",
-   "2026-10-25T22:24:47-03:00",
-   "2026-10-25T20:39:26-03:00",
-   "2026-10-25T15:39:53-03:00",
-   "2026-10-25T10:59:04-03:00",
-   "2026-10-24T20:50:10-03:00",
-   "2026-10-24T15:31:26-03:00",
-   "2026-10-24T10:40:44-03:00",
-   "2026-10-23T21:06:33-03:00",
-   "2026-10-23T16:42:12-03:00",
-   "2026-10-23T11:30:17-03:00",
-   "2026-10-22T21:13:47-03:00"
-  ]
- },
- "vpr": {
-  "ultimaColeta": "2026-10-26T09:16:42-03:00",
-  "novas": 7,
-  "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): O impacto do capital caro na competitividade; Capital caro muda competição no Brasil; Adolescentes e a nova era do consumo online.",
+  "mensagem": "3 pauta(s) nova(s): Fim da escala 6x1: como se preparar agora?; Fim da escala 6x1: mudanças nas empresas; Fim da escala 6x1: impacto no emprego.",
   "falhas": [],
   "manual": true,
   "historico": [
+   "2026-10-26T10:20:19-03:00",
    "2026-10-26T09:16:42-03:00",
    "2026-10-25T22:24:47-03:00",
    "2026-10-25T20:39:26-03:00",
@@ -43,8 +19,30 @@
    "2026-10-24T10:40:44-03:00",
    "2026-10-23T21:06:33-03:00",
    "2026-10-23T16:42:12-03:00",
-   "2026-10-23T11:30:17-03:00",
-   "2026-10-22T21:13:47-03:00"
+   "2026-10-23T11:30:17-03:00"
+  ]
+ },
+ "vpr": {
+  "ultimaColeta": "2026-10-26T10:20:19-03:00",
+  "novas": 5,
+  "atualizadas": 0,
+  "status": "ok",
+  "mensagem": "5 pauta(s) nova(s): Desafios econômicos do novo governo impactam empresários; Nova lei sobre saúde impacta empresas e funcionários; Ibope monitora retail media de varejistas.",
+  "falhas": [],
+  "manual": true,
+  "historico": [
+   "2026-10-26T10:20:19-03:00",
+   "2026-10-26T09:16:42-03:00",
+   "2026-10-25T22:24:47-03:00",
+   "2026-10-25T20:39:26-03:00",
+   "2026-10-25T15:39:53-03:00",
+   "2026-10-25T10:59:04-03:00",
+   "2026-10-24T20:50:10-03:00",
+   "2026-10-24T15:31:26-03:00",
+   "2026-10-24T10:40:44-03:00",
+   "2026-10-23T21:06:33-03:00",
+   "2026-10-23T16:42:12-03:00",
+   "2026-10-23T11:30:17-03:00"
   ]
  }
 }

@@ -1,6 +1,284 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "E-commerce brasileiro: como reduzir custos em pedidos menores",
+  "resumo": "O e-commerce cresce, mas com tíquetes médios menores. Entenda a nova dinâmica e a necessidade de adaptação para manter a margem de lucro.",
+  "fatos": [
+   "O e-commerce brasileiro faturou mais de R$ 200 bilhões no primeiro semestre de 2026.",
+   "Esse valor representa uma alta de 16,9% em relação ao mesmo período do ano anterior.",
+   "Os pedidos cresceram duas vezes mais rápido que o faturamento, com uma queda de 13,3% no tíquete médio.",
+   "A quantidade de itens por pedido caiu de 2,25 para 1,97.",
+   "A eficiência por transação se torna mais importante à medida que o cenário de cestas menores se consolidar."
+  ],
+  "explicacao": [
+   "O crescimento do e-commerce não se traduz necessariamente em lucro, pois o custo operacional pode aumentar com pedidos menores.",
+   "A frequência de compra aumentou, mas isso pode ocultar uma queda na margem de lucro das empresas.",
+   "As operações precisam se ajustar para atender a essa nova dinâmica, focando na eficiência e custos de cada transação."
+  ],
+  "materia": "O e-commerce brasileiro vendeu mais de R$ 200 bilhões no primeiro semestre de 2026 . É uma alta de 16,9% sobre o mesmo período do ano anterior, segundo levantamento da Confi, por meio da Neotrust, em parceria com o E-Commerce Brasil. O número que mais chama atenção no estudo, porém, é outro: os pedidos cresceram duas vezes mais rápido que o faturamento, e o tíquete médio recuou 13,3% . A combinação desloca a discussão do tamanho do mercado para a economia de cada transação. O e-commerce segue crescendo, e uma parcela maior desse crescimento passa por pedidos de menor valor, o que altera a relação entre receita, custo operacional e margem. O próprio levantamento ajuda a explicar o movimento. A quantidade de itens por pedido caiu de 2,25 para 1,97, em proporção muito próxima à redução do tíquete médio. O dado sugere que a queda está mais associada à compra de menos produtos por transação do que a uma migração generalizada para itens mais baratos. Na leitura da Confi, esse comportamento indica um aumento da frequência de compra, com mais pedidos e menos produtos em cada um . O estudo não acompanha o mesmo cliente ao longo do semestre e, por isso, não informa quantas vezes cada consumidor voltou a comprar. A interpretação é possível. Se estiver correta, traz uma consequência que o faturamento não revela. Um pedido com um único item percorre as mesmas etapas de um pedido com três. O pagamento precisa ser processado, o produto separado, embalado e despachado. Depois vêm o atendimento e, eventualmente, a devolução. Boa parte desse custo acompanha o número de pedidos, qualquer que seja o valor de cada um, e por isso pesa mais à medida que a cesta diminui. Uma operação pode, assim, crescer em faturamento e em volume enquanto perde margem , se o custo de servir continuar dimensionado para a cesta antiga. O faturamento em alta costuma encobrir essa perda por algum tempo. Em empresas que acompanham volume e receita com mais atenção do que a contribuição de cada transação, ela tende a aparecer tarde, já no resultado consolidado. Vejo esse descompasso com frequência em discussões de planejamento, quando a meta de pedidos é comemorada bem antes de alguém calcular quanto custou entregar cada um deles. Isso obriga a olhar a frequência com mais cuidado. Um cliente que volta toda semana é, em princípio, uma boa notícia. Deixa de ser quando cada retorno depende de cupom, de frete subsidiado ou de mídia paga para acontecer. A recorrência que interessa é a que chega com menos esforço de aquisição e encontra uma operação preparada para atender a compras menores . Por isso, sortimento, conveniência, personalização e experiência, quase sempre discutidos como fatores de conversão, também pesam na rentabilidade da relação. Parte relevante dessa adaptação acontece longe da vitrine. Nas discussões sobre frete grátis , por exemplo, a conversa costuma começar pela taxa de conversão e raramente chega ao custo de cada entrega. Valor mínimo para isenção de frete, consolidação de entregas e itens sugeridos no carrinho são decisões técnicas, tomadas longe do marketing. São elas, contudo, que definem se uma cesta menor ainda dá resultado. Separar uma frequência da outra exige dados que muitas operações já têm e pouco cruzam. Intervalos de recompra, categorias compradas juntas, canais preferidos e o comportamento de cada grupo de clientes indicam onde uma nova compra acrescenta valor e onde ela só acrescenta custo. Estimular o retorno de forma indistinta perde o sentido. Os ciclos variam bastante. Há quem compre toda semana, quem volte uma vez por mês e quem apareça apenas em determinadas épocas do ano. Algumas categorias têm recorrência natural. Nas demais, a empresa precisa criar razões para manter a relação ativa, e cada uma delas deve ser comparada ao custo de atender o pedido que ela gera. O e-commerce continua ganhando relevância, agora com outra composição. Cestas menores e mais pedidos tornam a eficiência por transação mais importante e deixam à mostra qua",
+  "numeros": [
+   {
+    "valor": "16,9%",
+    "rotulo": "crescimento do faturamento"
+   },
+   {
+    "valor": "13,3%",
+    "rotulo": "queda do tíquete médio"
+   },
+   {
+    "valor": "1,97",
+    "rotulo": "itens por pedido"
+   }
+  ],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "Aumento de custos operacionais com pedidos menores",
+  "angulo": "Esse cenário exige uma gestão detalhada de cada transação, e nossa assessoria pode ajudar a otimizar seus processos e aumentar sua margem de lucro.",
+  "gancho": "Você está preparado para *novos desafios do e-commerce*?",
+  "ideias": [
+   "Como lidar com pedidos menores e crescer?",
+   "E-commerce: eficiência por transação é crucial",
+   "A nova matemática do e-commerce em 2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:20:19-03:00",
+  "url": "https://www.ecommercebrasil.com.br/artigos/mais-pedidos-tiquetes-menores-a-nova-matematica-do-e-commerce",
+  "publicadoEm": "2026-10-26T10:00:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Eficiência agrícola com IA pode reduzir custos",
+  "resumo": "A startup Electric Plant desenvolveu uma IA que analisa sinais elétricos de plantas para aumentar a eficiência no cultivo. Essa inovação pode levar a uma economia significativa com insumos.",
+  "fatos": [
+   "A IA Bombadil analisa impulsos elétricos de 125 espécies de plantas.",
+   "Sensores para o sistema custam dezenas de dólares, em contraste com ferramentas tradicionais que podem custar milhares.",
+   "O sistema promete aumentar a produtividade e reduzir o consumo de água em 20% ou mais.",
+   "A startup Electric Plant captou US$ 11,2 milhões em investimentos.",
+   "A tecnologia é uma inovação que se integra à agricultura de precisão."
+  ],
+  "explicacao": [
+   "O modelo Bombadil conecta sensores aos caules das plantas para coletar dados em microvolts.",
+   "Esses dados são analisados para identificar as necessidades das plantas em irrigação e fertilização.",
+   "Isso representa uma mudança significativa, permitindo decisões mais informadas e econômicas para os produtores."
+  ],
+  "materia": "A startup Electric Plant desenvolveu o Bombadil , um modelo de inteligência artificial capaz de interpretar sinais elétricos emitidos por plantas e identificar suas necessidades. A tecnologia usa sensores fixados nos caules para coletar dados sobre cerca de 125 espécies, que são analisados e podem ajudar produtores a ajustar a irrigação e o uso de fertilizantes. Segundo a empresa, os sensores custam dezenas de dólares, enquanto ferramentas tradicionais podem custar milhares, e o sistema pode aumentar a produtividade agrícola e reduzir o consumo de água em 20% ou mais. A startup captou US$ 11,2 milhões em uma rodada de investimento inicial para levar a tecnologia ao mercado. Para quem tem pressa: A startup Electric Plant desenvolveu o Bombadil, um modelo de inteligência artificial que interpreta sinais elétricos emitidos por plantas para identificar suas necessidades; Sensores conectados aos caules captam sinais em microvolts, que são analisados pelo modelo. A tecnologia reúne dados de cerca de 125 espécies e pode ajudar produtores a ajustar a irrigação e o uso de fertilizantes; Segundo a empresa, o sistema pode reduzir o consumo de água em 20% ou mais. A startup captou US$ 11,2 milhões para levar a tecnologia ao mercado. IA identifica “língua das plantas” Imagem: Vera da Cal/Shutterstock A tecnologia da Eletric Plant é simples, um aparelho parecido com um pen-drive com antena e uma altura semelhante a um celular, é conectado ao caule da planta. A ideia é que o dispositivo chegue ao câmbio, tecido secundário de proteção da planta, logo atrás da “casca” do tronco ou caule. Ao se conectar a esse plano, o aparelho detecta os microvolts emitidos pela planta, e coleta os dados que essa emissão informa. Em seguida, o Bombadil interpreta essas informações e as transmite para outro aparelho conectado. “Este é o modelo mais diversificado já criado sobre sinais elétricos biológicos. Ninguém jamais fez nada equivalente a isso no mundo animal.”, afirmou Justin Mast, cofundador e CEO da Electric Plant, em entrevista ao TechCrunch . Leia mais: Inteligência artificial vira aliada e ajuda a combater crise climática Foi descoberto que as plantas sabem contar e antecipar o futuro Cientistas modificam geneticamente plantas de tabaco e obtêm 5 compostos psicodélicos de outras plantas, fungos e animais Imagem: Tarcisio Schnaider/Shutterstock De acordo com a startup, essas informações podem auxiliar os agricultores, cuidadores, etc; a identificar o que a planta precisa. Com essa precisão maior sobre os cuidados necessários no momento, seria possível economizar mais água e ter mais eficiência na produção. A inovação acompanha uma nova vertente da agricultura e do cuidado de plantas mais tecnológico. Recentemente, por exemplo, a John Deere desenvolveu o seu chatbot, o “JD” que se baseia em dados coletados na própria colheita. Facilitando um trabalho mais personalizado e novamente contando com mais eficiência e mitigação de impactos ambientais. O post IA interpreta sinais elétricos de plantas para identificar suas necessidades apareceu primeiro em Olhar Digital .",
+  "numeros": [
+   {
+    "valor": "20%",
+    "rotulo": "redução no consumo de água"
+   },
+   {
+    "valor": "125",
+    "rotulo": "espécies analisadas pela IA"
+   },
+   {
+    "valor": "US$ 11,2 milhões",
+    "rotulo": "captação de investimentos"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "dificuldade em controlar custos e insumos na produção",
+  "angulo": "A nova tecnologia de IA pode ser a chave para manter a competitividade e a eficiência nos negócios no setor agrícola.",
+  "gancho": "Descubra como *a IA pode otimizar seu cultivo*",
+  "ideias": [
+   "Como a IA transforma a agricultura",
+   "Economize água com tecnologia",
+   "Inovação no cultivo: Conheça Bombadil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:20:19-03:00",
+  "url": "https://olhardigital.com.br/2026/10/26/inteligencia-artificial/ia-interpreta-sinais-eletricos-de-plantas-para-identificar-suas-necessidades/",
+  "publicadoEm": "2026-10-26T07:00:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ibope monitora retail media de varejistas",
+  "resumo": "A partir de agora, o Ibope inclui retail media em seu monitoramento, oferecendo novas métricas para anúncios no e-commerce. Isso pode impactar diretamente as campanhas publicitárias de varejistas.",
+  "fatos": [
+   "O Ibope adicionou retail media ao produto AdInsights para monitorar campanhas.",
+   "O monitoramento inclui anúncios em sites como Amazon, Magalu e Mercado Livre.",
+   "Serão analisados investimentos, impressões e a presença das marcas.",
+   "As campanhas serão classificadas por setor, categoria, anunciante, marca e produto.",
+   "A análise não abrange anúncios em aplicativos ou lojas físicas.",
+   "Maior número de varejistas na solução permitirá análises mais profundas."
+  ],
+  "explicacao": [
+   "O retail media está crescendo e se tornando um foco importante para o mercado publicitário.",
+   "Com a inclusão no AdInsights, o Ibope visa fornecer métricas que ajudem varejistas a entender a eficácia de suas campanhas.",
+   "Isso significa que as empresas poderão ter uma visão mais clara sobre o retorno de seus investimentos em publicidade online."
+  ],
+  "materia": "Início ▸ Mídia ▸ Ibope passa a monitorar retail media de varejistas Funcionalidade do AdInsights permitirá acompanhar investimento e efetividade de campanhas em site de varejistas Meio & Mensagem i 26 de outubro de 2026 - 10h00 Conforme retail media amadurece, ganha novos formatos e mais investimento do mercado publicitário, agências e anunciantes demandam métricas de qualidade para mapear seus aportes. Pensando nisso, o Ibope adicionou retail media ao produto de monitoramento AdInsights. Retail Media cresce em representatividade em investimentos (Crédito:Imagem gerada com IA/ Adobestock) A empresa irá acompanhar quais marcas apostam em retail media, calcular impressões dos anúncios, tamanho do investimento e comparar a presença das marcas naquele ambiente. O cálculo de impressões e investimento é fundamentado em referências de tráfego e preços de publicidade. As campanhas identificadas pelo Ibope serão classificadas em setor, categoria, anunciante, marca e produto. O objetivo é oferecer métricas unificadas e validadas para que as marcas compreendam a efetividade das suas campanhas em retail media. A princípio, o Ibope mapeia anúncios no site da Amazon, Magalu e Mercado Livre em desktop e dispositivos móveis. Não estão inclusos na análise anúncios em aplicativo ou loja física. Porém, a empresa coloca que quanto maior a quantidade de varejistas integrados na solução, maior a profundidade das análises do AdInsights. Jornalista considerado maior revisteiro do mundo esteve à frente das publicações da Abril por mais de 50 anos Regulamentação define acesso a financiamento e capacitação, mas também exige adequação de estúdios Plataforma de streaming quer otimizar experiência dos assinantes com novas modalidades de planos Estudo revela que preço dos ingressos e da alimentação impedem brasileiros de ir às salas Empresa australiana promete para 2027 um novo painel com informações comparáveis sobre atenção do público às plataformas de mídia no Brasil Regra entra em vigor em janeiro do ano que vem e prevê verificação de idade e multas para plataformas Empresa que une a Paramount e a WBD já começou a integrar estúdios, streaming e canais de TV Serão 13 vertentes que têm como objetivo ampliar a dinâmica comercial com valorização da programação Fato ou Fake, da Globo, Agência Lupa com a Folha de S.Paulo e entidades independentes acompanharão transmissão Copyright 2010 - 2026 • Meio & Mensagem - Todos os direitos Reservados Faça o login com a sua conta M&M ID para ter acesso a conteúdos exclusivos",
+  "numeros": [
+   {
+    "valor": "novos formatos e aumentos nos investimentos",
+    "rotulo": "crescimento do retail media"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder espaço no e-commerce por falta de estratégia",
+  "angulo": "A efetividade das campanhas em retail media é crucial, evidenciando a importância de uma gestão de marketing digital estruturada para não ficar para trás.",
+  "gancho": "Monitoramento de *retail media* é essencial!",
+  "ideias": [
+   "Você está por dentro das novas métricas de retail media?",
+   "Entenda como o Ibope pode transformar suas campanhas",
+   "O futuro do marketing está no e-commerce: saiba como!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:20:19-03:00",
+  "url": "https://www.meioemensagem.com.br/midia/ibope-passa-a-monitorar-retail-media-de-varejistas",
+  "publicadoEm": "2026-10-26T10:00:42-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Nova lei sobre saúde impacta empresas e funcionários",
+  "resumo": "A Lei 15.377/2026 impõe às empresas a obrigação de informar sobre prevenção ao câncer, afetando diretamente a comunicação interna e a gestão de saúde no trabalho.",
+  "fatos": [
+   "A Lei 15.377/2026 entrou em vigor em abril de 2026.",
+   "Ela altera a CLT, tornando obrigatória a informação sobre câncer e HPV aos empregados.",
+   "Empresas devem oferecer três faltas anuais remuneradas para exames preventivos.",
+   "A norma aplica-se a todas as empresas, independentemente do porte.",
+   "Em 2025, o INSS concedeu 546.254 benefícios por incapacidade mental, um aumento de 15,66% em relação a 2024."
+  ],
+  "explicacao": [
+   "A nova lei estabelece deveres de comunicação para as empresas sobre a prevenção do câncer entre os trabalhadores.",
+   "As empresas agora têm a obrigação legal de garantir informação e conscientização efetiva sobre exames preventivos.",
+   "Essas mudanças surgem em um contexto de aumento de afastamentos, especialmente relacionados à saúde mental."
+  ],
+  "materia": "Início ▸ Women to Watch ▸ Nova lei muda abordagem do Outubro Rosa nas empresas Mudança na CLT exige comunicação sobre prevenção ao câncer e amplia o acesso à informação sobre exames Lidia Capitani i 26 de outubro de 2026 - 9h29 Em 2026, a campanha do Outubro Rosa ganhou novas camadas. Em abril deste ano, entrou em vigor a Lei 15.377/2026, sobre prevenção ao câncer, que altera a Consolidação das Leis do Trabalho (CLT) para transformar em obrigação trabalhista a informação e conscientização dos empregados sobre os cuidados contra o HPV e de alguns cânceres, além de assegurar ausência remunerada para exames preventivos. Para Tatiana Gonçalves, CEO da Moema Medicina do Trabalho, a mudança reforça que campanhas como o Outubro Rosa precisam deixar de ser tratadas apenas como ações pontuais. “Agora há uma obrigação legal de levar informação aos trabalhadores sobre o câncer de mama e orientar sobre o acesso aos serviços de diagnóstico. Não se trata apenas de colocar um laço rosa na empresa ou de fazer uma publicação nas redes sociais. É preciso transformar a campanha em informação útil e acessível para que cada pessoa saiba quais cuidados deve observar e onde buscar atendimento”, afirma. A nova lei cria o art. 169-A da CLT, que impõe às empresas três deveres principais relacionados à comunicação. Em primeiro lugar, elas devem disponibilizar informações sobre campanhas do governo de vacinação, HPV e cânceres de mama, colo do útero e próstata, conforme orientações do Ministério da Saúde. Além disso, precisam promover ações afirmativas de conscientização sobre essas doenças, e, em terceiro lugar, orientar os empregados sobre como acessar serviços de diagnóstico. A lei também altera o art. 473 da CLT, e determina que o empregador deve informar ao trabalhador seu direito a três faltas anuais sem prejuízo salarial para a realização de exames preventivos de HPV e câncer. Segundo Tatiana, esse ponto exige atenção. “A empresa precisa conhecer a legislação e, principalmente, comunicar esse direito de maneira clara. Muitas vezes o trabalhador não utiliza um benefício simplesmente porque não sabe que ele existe ou não entende como deve proceder. A informação também faz parte da prevenção”, explica. Outro ponto relevante que a executiva pontua é a necessidade de registrar que tal comunicação foi feita. Não devido a uma fiscalização desta lei, mas para certificar-se de que a companhia está atuando de forma consciente sobre o tema. “É importante que a empresa consiga registrar essa comunicação. Se fizer uma palestra, por exemplo, pode guardar fotos e lista de presença. Também vale o print do envio, uma ficha de recebimento do material ou uma alteração no contrato. É uma lei simples, mas às vezes o óbvio precisa ser dito”, avalia Tatiana. Tatiana Gonçalves, CEO da Moema Medicina do Trabalho (Crédito: Divulgação) Pelo texto da lei, a obrigação é informativa, educacional e de comunicação. A norma alcança empregadores com trabalhadores regidos pela CLT e não se limita a empresas de grande porte nem a setores específicos, portanto, tanto grandes quanto pequenas precisam se adequar. Gonçalves ainda ressalta que a empresa não pode agir de forma fiscalizatória e obrigar a realização dos exames como uma condição para trabalhar, como aconteceu na época da pandemia de Covid-19 em relação à vacinação. O foco da regra é na comunicação e no conteúdo que precisa incluir orientações e recomendações do Ministério da Saúde, como quais são os exames preventivos, como acessá-los, o direito às três faltas para a realização deles, entre outras políticas internas complementares que a empresa oferece, como o apoio psicológico. “No cenário atual do Brasil, a atenção está muito voltada para a saúde mental e para outras Normas Regulamentadoras (NRs) que estão em evidência, como a NR-1 e a questão do burnout. Por isso, vejo essa lei como complementar”, acrescenta. Segundo a Agência Nacional de Saúde Suplementar ( ANS), cerca de 24,6% da população brasileira tinha plano de saúd",
+  "numeros": [
+   {
+    "valor": "546.254",
+    "rotulo": "benefícios por incapacidade mental em 2025"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de produtividade e risco legal por falta de informação",
+  "angulo": "Com a nova legislação, empresários devem adaptar sua comunicação interna, preparando-se para otimizar ações de prevenção e, assim, valorizando seu papel na saúde do trabalhador.",
+  "gancho": "*Você está preparado para as novas obrigações legais?*",
+  "ideias": [
+   "Como a nova lei impacta sua empresa?",
+   "Saúde dos colaboradores: uma prioridade!",
+   "Otimize sua comunicação interna agora!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:20:19-03:00",
+  "url": "https://www.meioemensagem.com.br/womentowatch/nova-lei-muda-abordagem-do-outubro-rosa-nas-empresas",
+  "publicadoEm": "2026-10-26T09:29:31-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Desafios econômicos do novo governo impactam empresários",
+  "resumo": "A reeleição de Lula traz desafios econômicos como endividamento histórico e juros altos, que afetam diretamente os negócios. Empresários precisam se adaptar a esse cenário complexo.",
+  "fatos": [
+   "Lula foi reeleito presidente com 51,76% dos votos válidos.",
+   "O novo mandato começa em 5 de janeiro de 2027.",
+   "O Brasil tem uma dívida de R$ 11 trilhões.",
+   "As economistas afirmam que o crédito está comprometido devido a juros altos.",
+   "Um ajuste fiscal se faz necessário antes que a economia atinja seu ponto crítico."
+  ],
+  "explicacao": [
+   "A reeleição de Lula ocorre em um cenário de desafios econômicos significativos, embora um cenário internacional tenha sido favorável recentemente.",
+   "A restrição da política monetária e a elevação dos juros estão desacelerando a economia e comprometendo o fluxo de crédito, essencial para os empresários.",
+   "As medidas do novo governo, especialmente em relação ao ajuste fiscal, impactarão a saúde financeira das empresas e o consumo no país."
+  ],
+  "materia": "Início ▸ Marketing ▸ Lula reeleito: os principais desafios econômicos do novo mandato Economistas apontam agenda fiscal como saída para conter endividamento e retomar o crescimento da economia brasileira Giovana Oréfice i 25 de outubro de 2026 - 21h17 Quarto mandato de Lula começa no dia 1° de janeiro Luiz Inácio Lula da Silva, do PT, foi reeleito presidente da república do Brasil neste domingo, 25, no segundo turno da eleição de 2026, vencendo o senador Flávio Bolsonaro, do PL. Com 99,8% das urnas apuradas, menos de dois pontos percentuais separavam os dois candidatos: Lula tinha 51,76% dos votos válidos e Flávio, 48,24%. O quarto mandato de Lula começa no dia 5 de janeiro com diversos desafios econômicos, como debatido pelas economistas Solange Srour, diretora e head de macroeconomia para o Brasil no UBS Global Wealth Management, e Ana Paula Vescovi, ex-secretária do Tesouro Nacional, entrevistadas durante o Maximídia, às vésperas do primeiro turno das eleições, no início do mês. Segundo elas, o endividamento em patamares históricos e o comprometimento do crédito já vinham resultando em um contexto de desaceleração econômica. Além das expectativas pré-eleitorais, o atual cenário foi construído, em grande parte, a partir do acúmulo de uma política monetária restritiva, apesar dos incentivos fiscais. As empresas, por sua vez, encaram desafios na administração de fluxos de caixa em meio aos juros elevados, motivados pelas mudanças da configuração geopolítica e econômica. Ambas as economistas defenderam um ajuste fiscal antes que a economia atinja seu ponto crítico. “Algum freio de arrumação vai acontecer. É melhor que seja antes, em uma dose necessária, do que em meio à obrigação de agir às pressas em função de algum choque exógeno, cada vez mais recorrente na economia global. Isso custa mais caro”, detalhou Vescovi. Nos últimos anos, o Brasil viveu um cenário internacional favorável, em que eventos como guerras e a tentativa de interferência no FED, nos Estados Unidos, enfraqueceram o dólar e estabilizaram a moeda local, por exemplo. A aceleração da alta dos juros globalmente, contudo, é sinal de alerta para ações mais urgentes, avaliou a head do UBS. Ainda que não veja medidas imediatas em indicadores de confiança, crédito ou renda após as eleições, Srour reforçou a importância da natureza das propostas do próximo presidente. “Os juros parados trarão, provavelmente, uma parada da oferta de crédito. Com o mercado de trabalho já desacelerando, podem até ser uma força adicional dessa desaceleração”, apostou. A ex-secretária do Tesouro Nacional apontou para a necessidade de que o ajuste das contas públicas esteja no centro das expectativas — a dívida brasileira alcançou a casa dos R$ 11 trilhões –, acompanhado do uso eficiente dos recursos públicos, regulação e mais previsibilidade e segurança jurídica. A reforma deverá contemplar, ainda, a adaptação às novas dinâmicas de trabalho e a tendência de envelhecimento da população, especialmente em um momento de escrutínio da previdência pública. Caso bem conduzido , prevê Vescovi, o ajuste levaria a um cenário semelhante ao da estabilização monetária que o Brasil viu em 1998 e 2002, ao recuperar um tripé macroeconômico mais organizado, conseguindo ajustar o Produto Interno Bruto (PIB) na casa dos 3%. Uma possível derrubada dos juros e alívio no crédito, sustentam as economistas, favoreceria a retomada do consumo, que representa mais de dois terços da economia brasileira. Além disso, varejistas locais vêm atuando em meio a um ambiente complexo diante da investida massiva de players internacionais. Uma alternativa eficaz ao fechamento da economia ou da imposição de barreiras, segundo a diretora do UBS, seria o aumento da produtividade das empresas, sobretudo diante da insegurança nas instituições afetando a atração de investimentos. Estudo do YouGov revela saturação com comerciais, levando as grandes marcas a reformularem suas campanhas Esse é o maior valor já arrecadado pela campanha b",
+  "numeros": [
+   {
+    "valor": "R$ 11 trilhões",
+    "rotulo": "dívida pública do Brasil"
+   },
+   {
+    "valor": "51,76%",
+    "rotulo": "votos válidos de Lula"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Desafios financeiros ameaçam a continuidade do seu negócio",
+  "angulo": "Com as mudanças econômicas, empresários precisam de estratégias sólidas, incluindo marketing digital e gestão de tráfego pago para se adaptarem e e manterem competitivos.",
+  "gancho": "O dinheiro no seu bolso pode encolher com *desafios",
+  "ideias": [
+   "Como a inflação pode afetar sua empresa?",
+   "Prepare-se para o novo cenário econômico!",
+   "Você está pronto para os desafios de um novo governo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:20:19-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/lula-reeleito-os-principais-desafios-economicos-do-novo-mandato",
+  "publicadoEm": "2026-10-25T21:17:46-03:00",
+  "data": "2026-10-25",
+  "id": "2026-10-26-vpr-08"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Prepare-se para 11.11 e Black Friday com estratégia!",
   "resumo": "As datas de 11.11 e Black Friday exigem preparação estratégica dos pequenos negócios. Evite perdas e maximize lucros analisando custos e perfil dos consumidores.",
   "fatos": [
@@ -389,6 +667,152 @@
   "publicadoEm": "2026-10-26T07:12:32-03:00",
   "data": "2026-10-26",
   "id": "2026-10-26-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impacto no emprego",
+  "resumo": "Mudanças nas jornadas de trabalho podem afetar muitos trabalhadores, como CLT e autônomos. O fim da escala 6x1 promete uma transformação significativa nas relações de trabalho.",
+  "fatos": [
+   "O Presidente do Senado afirmou que o fim da escala 6x1 será uma mudança gigantesca.",
+   "Essa alteração pode impactar diversos profissionais no mercado de trabalho.",
+   "O novo formato de jornada promete trazer significativas transformações nas relações trabalhistas."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 altera a organização das jornadas de trabalho, mudando como muitas pessoas, principalmente trabalhadores CLT e autônomos, lidam com suas atividades diárias.",
+   "Essa mudança pode proporcionar mais flexibilidade e menos amarras no dia a dia, permitindo que profissionais tenham um maior controle sobre suas rotinas.",
+   "Entender o impacto dessa mudança é essencial, pois pode levar a uma reavaliação das fontes de renda, além de encorajar a busca por rendas alternativas."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "VG Notícias",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "medo de depender apenas do salário fixo",
+  "angulo": "A transformação nas relações de trabalho reforça a necessidade de desenvolver habilidades no mercado financeiro para garantir uma renda sem amarras.",
+  "gancho": "Mudança *gigantesca* nas jornadas de trabalho",
+  "ideias": [
+   "Novo formato de trabalho: O que esperar?",
+   "Como a mudança impacta seu bolso?",
+   "A importância do mercado financeiro agora!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:20:19-03:00",
+  "url": "https://www.vgnoticias.com.br/politica/presidente-do-senado-diz-que-fim-da-escala-6x1-sera-mudanca-gigantesca/154103",
+  "publicadoEm": "2026-10-26T09:43:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: mudanças nas empresas",
+  "resumo": "O término da escala 6x1 demanda adaptações nos negócios, impactando tanto empregadores quanto empregados. Empresas precisam se reestruturar para se manterem competitivas no mercado.",
+  "fatos": [
+   "O governo anunciou o fim da escala 6x1, que permitia jornada de trabalho intensa.",
+   "Essa mudança requer que as empresas se ajustem para atender à nova legislação.",
+   "É um momento desafiador para empregadores que precisam aumentar suas estratégias de gestão de equipes."
+  ],
+  "explicacao": [
+   "A descontinuação da escala 6x1 foi uma decisão para melhorar a qualidade de vida dos trabalhadores.",
+   "As empresas terão que adaptar suas rotinas de trabalho e suas equipes para evitar possíveis impactos financeiros.",
+   "Com menos flexibilidade na jornada, os profissionais podem buscar alternativas de renda, como investir e aprender sobre o mercado financeiro."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Jornal A Semana",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "precariedade de renda com novas regras trabalhistas",
+  "angulo": "Em um cenário onde depender apenas do salário se torna arriscado, aprender sobre o mercado financeiro é essencial para gerar renda sem amarras.",
+  "gancho": "Mudanças que afetam seu *salário e sua vida*",
+  "ideias": [
+   "Adaptações que seu negócio precisa fazer já!",
+   "O que o fim da escala 6x1 significa para você?",
+   "Como aumentar sua renda além do salário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:20:19-03:00",
+  "url": "https://asemanacuritibanos.com.br/geral/fim-da-escala-6x1-exige-adaptacao-das-empresas/",
+  "publicadoEm": "2026-10-26T09:07:25-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: como se preparar agora?",
+  "resumo": "As empresas brasileiras devem se planejar para o fim da escala 6x1, que muda a jornada de trabalho. A preparação antecipada é essencial para evitar conflitos e sobrecargas.",
+  "fatos": [
+   "A transição para o fim da escala 6x1 começa em 15 de dezembro de 2026.",
+   "Após 12 meses, a jornada semanal máxima será reduzida de 42 para 40 horas.",
+   "As empresas devem mapear quantos funcionários estão em escala 6x1 e suas atividades.",
+   "Mudanças na distribuição das horas, contratações ou remanejamentos poderão ser necessárias.",
+   "Pequenas e médias empresas podem ter menos margem financeira para se adaptar."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 é uma mudança na legislação trabalhista que impacta diretamente as empresas.",
+   "As empresas precisam avaliar suas operações e planejar como redimensionar as jornadas de trabalho.",
+   "A adaptação antecipada ajudará a evitar conflitos de escala e sobrecargas nos funcionários."
+  ],
+  "materia": "As empresas brasileiras precisam comeÃ§ar a planejar a adaptaÃ§Ã£o ao fim da escala 6×1 e Ã reduÃ§Ã£o da jornada semanal de trabalho. Segundo o calendÃ¡rio apresentado no material, a transiÃ§Ã£o comeÃ§a em 15 de dezembro de 2026, com dois dias de descanso semanal e limite mÃ¡ximo de 42 horas de trabalho. ApÃ³s mais 12 meses, a jornada mÃ¡xima serÃ¡ reduzida para 40 horas semanais . Para Glauce FonÃ§atti, advogada especialista em direito do trabalho e sÃ³cia do escritÃ³rio Batistute Advogados, o primeiro passo Ã© entender como as mudanÃ§as afetarÃ£o a rotina de cada negÃ³cio. â A primeira providÃªncia deve ser um diagnÃ³stico da situaÃ§Ã£o atual da empresa. Ã necessÃ¡rio mapear quantos funcionÃ¡rios trabalham em escala 6×1, quais setores dependem de cobertura contÃ­nua, como os horÃ¡rios estÃ£o distribuÃ­dos e quais atividades exigem a presenÃ§a de profissionais em dias de maior movimento â, explica. ApÃ³s o diagnÃ³stico, a recomendaÃ§Ã£o Ã© simular diferentes modelos de jornada e avaliar o dimensionamento das equipes. Dependendo da operaÃ§Ã£o, a adaptaÃ§Ã£o poderÃ¡ exigir mudanÃ§as na distribuiÃ§Ã£o das horas, novas contrataÃ§Ãµes, remanejamento de funcionÃ¡rios ou alteraÃ§Ãµes nos horÃ¡rios de funcionamento. â Em alguns casos, a redistribuiÃ§Ã£o das horas entre os dias de trabalho poderÃ¡ ser suficiente para adequar a jornada. Em outros, especialmente nas operaÃ§Ãµes que precisam manter o atendimento durante toda a semana, serÃ¡ necessÃ¡rio avaliar contrataÃ§Ãµes, remanejamento de funcionÃ¡rios, mudanÃ§as nos horÃ¡rios de funcionamento ou investimentos em tecnologia e automaÃ§Ã£o â, afirma Glauce. A especialista destaca que as decisÃµes precisam considerar as necessidades operacionais e os custos envolvidos, especialmente em atividades que exigem atendimento contÃ­nuo ao longo da semana. A adequaÃ§Ã£o tambÃ©m envolve a anÃ¡lise de contratos de trabalho, controles de ponto, bancos de horas, regras de compensaÃ§Ã£o e convenÃ§Ãµes ou acordos coletivos. â Contratos de trabalho, controles de ponto, regras de compensaÃ§Ã£o de jornada, bancos de horas e convenÃ§Ãµes ou acordos coletivos devem ser analisados para verificar a compatibilidade com os novos limites â, orienta a advogada. Glauce recomenda que recursos humanos, departamento jurÃ­dico, contabilidade e lideranÃ§as operacionais participem do planejamento. A consulta aos sindicatos tambÃ©m pode ser necessÃ¡ria quando houver questÃµes relacionadas Ã negociaÃ§Ã£o coletiva. Deixar as mudanÃ§as para perto do prazo pode provocar falhas nas escalas, sobrecarga dos trabalhadores, aumento das horas extras e conflitos nas equipes. Por isso, a orientaÃ§Ã£o Ã© comunicar as alteraÃ§Ãµes com antecedÃªncia e preparar os gestores para a nova organizaÃ§Ã£o do trabalho. A advogada tambÃ©m recomenda acompanhar indicadores como produtividade, absenteÃ­smo, custo por hora trabalhada e qualidade do atendimento. Esses dados podem ajudar a identificar problemas e orientar ajustes durante a transiÃ§Ã£o para o fim da escala 6×1 Pequenas e mÃ©dias empresas merecem atenÃ§Ã£o especial, segundo Glauce, porque geralmente tÃªm menos margem financeira para absorver mudanÃ§as inesperadas. â A empresa nÃ£o precisa esperar a proximidade do prazo para comeÃ§ar a agir. Ã possÃ­vel fazer as contas, testar escalas, identificar gargalos e avaliar alternativas desde agora. Planejar Ã© muito mais seguro do que tentar resolver, em cima da hora, um problema que envolve simultaneamente legislaÃ§Ã£o, pessoas, custos e continuidade do negÃ³cio â, afirma. A preparaÃ§Ã£o antecipada permite que as empresas avaliem alternativas com mais tempo e organizem a transiÃ§Ã£o considerando tanto as exigÃªncias legais quanto a continuidade das atividades.",
+  "numeros": [
+   {
+    "valor": "15 de dezembro de 2026",
+    "rotulo": "data de início da transição"
+   },
+   {
+    "valor": "42 para 40 horas",
+    "rotulo": "jornada semanal máxima reduzida"
+   }
+  ],
+  "fonte": "Portal ABC do ABC",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "dificuldades em manter a operação e gestão de equipes",
+  "angulo": "Aprender sobre o mercado financeiro torna-se essencial para criar novas fontes de renda, especialmente diante de mudanças no trabalho que podem afetar sua estabilidade.",
+  "gancho": "Prepare-se para o *fim da escala 6x1*!",
+  "ideias": [
+   "Como se adaptar ao fim da escala 6x1?",
+   "Planeje sua empresa: fim da escala 6x1!",
+   "O que muda com o término da escala 6x1?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T10:20:19-03:00",
+  "url": "https://www.abcdoabc.com.br/planejamento-prepara-para-o-fim-da-escala-6x1/",
+  "publicadoEm": "2026-10-26T09:46:56-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-05"
  },
  {
   "segmento": "trader",
