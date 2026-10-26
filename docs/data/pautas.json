@@ -1,6 +1,361 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "TikTok Shop estende campanhas até dezembro",
+  "resumo": "O TikTok Shop ampliará seu calendário promocional até dezembro, incluindo diversas categorias e descontos atrativos. As empresas devem se adaptar para não perder vendas nesse período crucial.",
+  "fatos": [
+   "O TikTok Shop inicia sua sequência de campanhas em 27 de outubro.",
+   "As promoções incluem descontos de até 70% e frete grátis.",
+   "O calendário se estende até dezembro, passando pela Black Friday e 12.12.",
+   "Campanhas serão divididas por categorias como moda, eletrônicos, e beleza.",
+   "As promoções visam estimular vendas ao longo de várias semanas, não apenas em datas específicas."
+  ],
+  "explicacao": [
+   "A extensão do calendário promocional do TikTok visa distribuir vendas ao longo de várias semanas para evitar a concentração em datas como Black Friday.",
+   "As campanhas por categorias permitem que vendedores direcionem seus estoques e conteúdos de forma mais eficaz.",
+   "Essa estratégia se alinha com a tendência do varejo de antecipar promoções, o que pode impactar diretamente suas vendas.",
+   "Empresas precisam se preparar para aproveitar esse período e não perder a oportunidade de atrair consumidores."
+  ],
+  "materia": "O TikTok Shop vai concentrar uma sequência de campanhas promocionais entre o fim de outubro e dezembro, ampliando o calendário de vendas para além da Black Friday. A programação começa em 27 de outubro , com ações ligadas ao 11.11, e segue até dezembro, passando pela Black Friday e pelo 12.12. As campanhas serão divididas por categorias, como eletrônicos, beleza, moda, casa, brinquedos e produtos para festas. A estratégia inclui descontos de até 70%, cupons, ofertas relâmpago, frete grátis e parcelamento em até 12 vezes sem juros, conforme as regras e a disponibilidade de cada promoção. A primeira etapa começa em 27 de outubro, com campanhas voltadas a diferentes categorias até o início de novembro. Casa e cozinha abrem o calendário, seguidas por produtos de esporte, saúde, eletrônicos, eletrodomésticos, beleza, moda, brinquedos e itens para pets. Nos dias 31 de outubro e 1º de novembro, a plataforma concentra ofertas em moda masculina, eletrônicos e acessórios automotivos. Nos dias 2 e 3 de novembro, o foco passa para beleza, moda feminina, bolsas e acessórios. A divisão por categorias permite que os vendedores concentrem produtos e conteúdos em períodos específicos, em vez de depender apenas de uma campanha ampla. A programação voltada à Black Friday começa em 12 de novembro e também será dividida por temas. Entre as frentes estão informática e eletrônicos, eletrodomésticos e móveis, esportes, moda, beleza, saúde, itens para festas, brinquedos e colecionáveis. Entre 18 de novembro e 3 de dezembro, o TikTok Shop também prevê descontos gerais em diferentes categorias, prolongando o período promocional para além da própria sexta-feira da Black Friday. Além das promoções, a plataforma mantém a integração entre conteúdo e comércio como parte da estratégia para o período. Produtos podem ser apresentados em vídeos , transmissões ao vivo e publicações de criadores, enquanto a compra é concluída dentro do próprio aplicativo. O modelo aproxima descoberta e conversão em uma mesma jornada, com campanhas comerciais distribuídas ao longo de várias semanas. Em dezembro, o calendário continua com o 12.12 . Nos dias 4 e 5, as campanhas serão voltadas a produtos para casa e preparativos para o Natal. Em 6 e 7 de dezembro, o foco passa para moda de verão. Já nos dias 8 e 9, eletrônicos , bebidas e itens ligados a festas e confraternizações entram na programação. Com a estratégia, o TikTok Shop distribui os estímulos promocionais por diferentes momentos do fim do ano, acompanhando uma tendência do varejo de antecipar ofertas e reduzir a concentração das compras em uma única data.",
+  "numeros": [
+   {
+    "valor": "70",
+    "rotulo": "porcentagem de desconto"
+   },
+   {
+    "valor": "12",
+    "rotulo": "parcelas sem juros"
+   }
+  ],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas em período promocional importante",
+  "angulo": "Entender a importância de uma presença online robusta e estratégias de marketing para aproveitar campanhas como essa.",
+  "gancho": "Descontos de até *70% no TikTok Shop*",
+  "ideias": [
+   "Não perca vendas: TikTok Shop está de olho!",
+   "Como se preparar para o calendário promocional do TikTok",
+   "Entenda a nova dinâmica das compras no TikTok"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://www.ecommercebrasil.com.br/noticias/tiktok-shop-calendario-promocoes-11-11-black-friday-2026",
+  "publicadoEm": "2026-10-26T10:45:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Monitoramento de retail media: o futuro da publicidade",
+  "resumo": "O Ibope amplia seu monitoramento de retail media, incluindo grandes varejistas. Essa iniciativa é essencial para entender o crescimento desse novo canal publicitário e suas implicações para os anunciantes.",
+  "fatos": [
+   "O Ibope expandiu sua ferramenta AdInsights para monitorar anúncios nos sites da Amazon Brasil, Mercado Livre e Magalu.",
+   "O segmento de retail media cresceu três vezes mais que outros canais digitais, segundo estudo Digital Ad Spend de 2025.",
+   "A vice-presidente do Ibope, Adriana Favaro, afirma que a integração dos varejistas aumentará a análise de investimentos em publicidade.",
+   "A diretora de Agências de Mercado Ads, Renata Herz, destaca que o retail media já supera os investimentos em TV tradicional.",
+   "O AdInsights coletará anúncios amostralmente e classificará as campanhas por setor, categoria e produto."
+  ],
+  "explicacao": [
+   "A ampliação do monitoramento visa atender à crescente demanda por informações sobre publicidades no ambiente digital.",
+   "Com o retail media ganhando relevância, entender onde e como os investimentos são feitos se torna crucial para os anunciantes.",
+   "Essa mudança permitirá que empresas tomem decisões mais informadas sobre suas campanhas publicitárias e redistribuam seus orçamentos.",
+   "A coleta de dados será amostral e focada em anúncios digitais, não abrangendo as campanhas em aplicativos ou lojas físicas.",
+   "A integração de mais varejistas no futuro poderá aumentar ainda mais a profundidade da análise do mercado."
+  ],
+  "materia": "O monitoramento de retail media no Brasil ganha um novo recurso. O Ibope ampliou o AdInsights, sua ferramenta de monitoramento publicitário, para incluir anúncios exibidos nos sites da Amazon Brasil, do Mercado Livre e do Magalu. A iniciativa permitirá acompanhar as marcas anunciantes, comparar sua presença nesses ambientes e estimar impressões e investimentos publicitários. A iniciativa acompanha o crescimento do retail media como canal de publicidade. Segundo a edição deste ano do estudo Digital Ad Spend, com dados referentes a 2025, o segmento cresceu três vezes mais do que os demais canais digitais. O avanço aumenta a demanda por informações que ajudem anunciantes, agências e veículos a entender como as marcas distribuem seus investimentos entre diferentes plataformas de varejo. “Retail media on-site ganhou relevância nas estratégias de anunciantes e varejistas. Ter uma visão mais estruturada dos investimentos em publicidade nos sites de varejo ajuda o mercado a entender a evolução desse segmento e a tomar decisões com mais informação. A integração dos varejistas pode dar mais profundidade a essa análise. Quanto mais participantes contribuírem, mais representativa será a visão do mercado”, afirma Adriana Favaro, vice-presidente de Negócios do Ibope. Para Renata Herz, diretora de Agências de Mercado Ads, a iniciativa contribui para ampliar a mensuração do setor. “Retail media consolidou-se como o formato de publicidade digital que mais cresce na América Latina e, em âmbito global, os investimentos neste formato já superam os da televisão tradicional. Por isso, uma iniciativa como a do Ibope é um passo fundamental para atestar a relevância e a maturidade do nosso setor”, afirma. Segundo a executiva, métricas unificadas e validadas por um instituto independente podem ajudar as marcas a avaliar a efetividade das campanhas, dar mais segurança aos anunciantes e estimular novos investimentos em retail media. Mariana Meinberg, head de Magalu Ads, também destaca a importância de ampliar as referências de mercado. “Retail media cresce rápido no Brasil, mas ainda tem poucas referências de mercado. Uma visão estruturada e independente dos investimentos dá mais previsibilidade a anunciantes e agências e ajuda a categoria a ganhar escala de forma sustentável”, afirma. Como funcionará o monitoramento do retail media Nesta primeira etapa, o AdInsights fará uma coleta amostral dos anúncios exibidos nos sites monitorados, tanto em computadores quanto em dispositivos móveis. A solução classificará as campanhas por setor, categoria, anunciante, marca e produto, além de disponibilizar os criativos capturados. As métricas de impressões e investimentos publicitários serão estimadas a partir dos anúncios coletados e de referências de tráfego e preços de publicidade. A cobertura inicial contempla apenas os anúncios exibidos nos sites da Amazon Brasil, do Mercado Livre e do Magalu. Não estão incluídas as campanhas veiculadas nos aplicativos dessas plataformas, a publicidade exibida fora dos ambientes monitorados nem a mídia presente nas lojas físicas. A iniciativa abre espaço para a integração de outros varejistas à cobertura do AdInsights, o que poderá ampliar a representatividade dos dados sobre o mercado de retail media no Brasil. Imagem criada por Inteligência Artificial (ChatGPT) O post Ibope amplia monitoramento de retail media em sites de grandes varejistas apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "3 vezes",
+    "rotulo": "crescimento do retail media em relação a outros canais digitais"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de visibilidade e investimento em publicidade",
+  "angulo": "Com a crescente importância do retail media, estar por dentro das novas ferramentas e estratégias pode fazer a diferença para seus negócios, ajudando a otimizar investimentos.",
+  "gancho": "*Retail media* é o futuro da publicidade digital",
+  "ideias": [
+   "Entenda o potencial do retail media",
+   "Como monitorar sua presença online?",
+   "Maximize seus investimentos publicitários"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/retail-media/ibope-amplia-monitoramento-de-retail-media-em-sites-de-grandes-varejistas/",
+  "publicadoEm": "2026-10-26T11:01:34-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Desafios fiscais afetam o comércio e a economia",
+  "resumo": "O governo Lula enfrenta a necessidade de um ajuste fiscal diante de novos gastos, o que pode impactar as finanças das empresas até 2027.",
+  "fatos": [
+   "O governo anunciou um pacote de novos gastos de R$ 298 bilhões.",
+   "Analistas projetam um déficit de R$ 86 bilhões em 2027 devido a essas despesas.",
+   "As novas obrigações financeiras incluem reajustes do Bolsa Família e a PEC da tarifa zero.",
+   "O Ministro do Planejamento afirmou que um remanejamento de R$ 20 bilhões será feito para garantir esses gastos.",
+   "Economistas alertam para a possibilidade de medidas impopulares, como aumento de tributos, para ajustar o orçamento."
+  ],
+  "explicacao": [
+   "O governo Lula enfrenta críticas sobre a sustentabilidade do seu pacote de desafios fiscais, que inclui vasta expansão de gastos públicos.",
+   "Essas novas despesas têm potencial de criar um ambiente de incerteza econômica, principalmente em relação ao cumprimento das metas fiscais.",
+   "Empresários devem se preparar para possíveis mudanças na política fiscal e no aumento da carga tributária, que podem impactar seus negócios."
+  ],
+  "materia": "Enquanto o Ministério do Planejamento fala em “impacto zero” e remanejamento de R$ 20 bilhões, analistas da IFI calculam que as novas despesas elevam o risco de um déficit de R$ 86 bilhões em 2027 Desafio do novo mandato é produzir um ajuste fiscal que diminua a trajetória de alta da dívida pública O governo de Luiz Inácio Lula da Silva enfrenta o desafio de convencer o mercado sobre sua capacidade de ajuste fiscal, especialmente após um \"pacote de bondades\" que soma R$ 298 bilhões. O Orçamento de 2027 já apresenta limitações devido a novas despesas, como o reajuste do Bolsa Família e a PEC da tarifa zero. O ministro do Planejamento, Bruno Moretti, afirma que um remanejamento de R$ 20 bilhões garantirá esses gastos sem impacto fiscal, mas analistas da Instituição Fiscal Independente (IFI) projetam um déficit de R$ 86 bilhões em vez do superávit prometido. A acomodação das novas despesas pode exigir cortes em investimentos e custeio, além de uma revisão das despesas obrigatórias. Economistas alertam que o ajuste fiscal necessário pode demandar medidas impopulares, como a revisão de programas sociais e aumento de tributos, para estabilizar a dívida pública e garantir a credibilidade fiscal. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Brasília – Vencida a eleição mais difícil da carreira política de Luiz Inácio Lula da Silva (PT), seu governo agora terá a árdua missão de convencer o mercado de que será capaz de produzir um ajuste fiscal que diminua a trajetória de alta da dívida pública e de fato consiga fechar 2027 com as contas no azul, como vem prometendo. Essa inédita vitória nas urnas, no entanto, ainda precisa também vencer as desconfianças dos agentes econômicos, que seguem alertando para o tamanho do \"pacote de bondades eleitorais\" de que Lula lançou mão durante a campanha como parte da estratégia para obter a virada histórica sobre o adversário Flávio Bolsonaro (PL). Se for considerado todo o ano de 2026 até agora, esse pacote total já somaria R$ 298 bilhões, nas contas de economistas, incluindo também medidas do começo do ano como linhas de crédito para motoristas de aplicativo. Economistas lembram, no entanto, que pacotes como esse são um expediente comum em ano eleitoral, vide o último ano do ex-presidente Jair Bolsonaro. Na visão de especialistas em contas públicas ouvidos pelo NeoFeed , o Orçamento previsto para o ano que vem já nasce com um prognóstico de espaços apertados em função das benesses anunciadas às vésperas do segundo turno eleitoral, como o reajuste do Bolsa Família e a PEC da tarifa zero para o transporte público aos fins de semana. Para acomodar essas novas despesas no Orçamento de 2027, o governo já prometeu um remanejamento da ordem de R$ 20 bilhões para garantir esses gastos. Em entrevista ao NeoFeed , o ministro do Planejamento, Bruno Moretti, disse que isso será encaminhado ao Congresso em forma de revisão da proposta orçamentária para o ano que vem, tão logo seja definido o relator da Comissão Mista de Orçamento (CMO). E descartou que essas medidas apresentadas no período eleitoral tragam impacto fiscal para o Orçamento de 2027. O remanejamento será feito com uma sobra de despesas obrigatórias no Orçamento, uma parte dos pisos mínimos de saúde e da educação e outra de revisão de despesas discricionárias. Segundo Moretti, todo o volume remanejado corresponde a apenas 1% do total do Orçamento estimado para o próximo ano. \"Então, é um impacto fiscal baixo, um impacto primário em termos de remanejamento de despesa. Mas o volume total de despesa é a meta de resultado primário. E [esses gastos] estão travados, garantidos\", ressalta o ministro. \"Não haverá qualquer mudança nesse sentido. Então, do ponto de vista fiscal, está tudo acomodado. E, do ponto de vista do impacto [positivo] para a sociedade, para a população, é muito importante também.\" Além do reajuste do Bolsa Família e da tarifa zero para o transporte público, gastos com o Pé-de-Meia, o PIX MEI e o De",
+  "numeros": [
+   {
+    "valor": "298 bilhões",
+    "rotulo": "gastos do pacote de Lula"
+   },
+   {
+    "valor": "86 bilhões",
+    "rotulo": "deficit projetado para 2027"
+   },
+   {
+    "valor": "20 bilhões",
+    "rotulo": "remanejamento anunciado"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "temor de novos impostos e queda nas vendas",
+  "angulo": "Com a incerteza fiscal, empresários precisam de estratégias robustas com marketing digital e automação para se manter competitivos.",
+  "gancho": "O impacto do novo pacote *de gastos públicos*",
+  "ideias": [
+   "Como o ajuste fiscal pode afetar seu negócio?",
+   "Estratégias para enfrentar um cenário fiscal desafiador",
+   "A importância de se adaptar às mudanças econômicas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://neofeed.com.br/poder/o-pacote-de-bondades-de-lula-cabe-no-orcamento/",
+  "publicadoEm": "2026-10-26T07:32:49-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Selic alta pode pressionar crédito em 2027",
+  "resumo": "A falta de ajuste fiscal pode elevar a Selic a até 13%, afetando empresas e consumidores. Isso torna o crédito mais caro e impacta a economia.",
+  "fatos": [
+   "Analistas prevêem que a Selic pode chegar a 13% em 2027, acima das expectativas anteriores de 11,75%.",
+   "O PIB deve crescer entre 1% e 1,2%, refletindo incertezas econômicas.",
+   "A dívida pública pode alcançar 86,4% do PIB, dificultando o equilíbrio das contas públicas.",
+   "Empresas enfrentam custos financeiros elevados, que encarecem estoques e expansão.",
+   "Um exemplo prático: uma empresa com R$ 100 milhões em recebíveis pode economizar R$ 500 mil ao reduzir o custo financeiro em 0,5 ponto percentual."
+  ],
+  "explicacao": [
+   "O cenário atual reflete a falta de ações para equilibrar as contas públicas, aumentando incertezas sobre a economia e o crédito.",
+   "Se os juros de longo prazo não caírem, o custo do financiamento continuará alto para empresas e consumidores.",
+   "Isso impacta diretamente as operações empresariais, obrigando-as a rever planejamentos e estratégias de financiamento."
+  ],
+  "materia": "A reeleição de Luiz Inácio Lula da Silva deve levar o mercado financeiro a rever as projeções para a economia brasileira em 2027. A falta de medidas para equilibrar as contas públicas pode elevar os juros de longo prazo, pressionar o dólar e encarecer o crédito para empresas e consumidores. Segundo projeções feitas por economistas e executivos do setor financeiro, a taxa básica de juros, a Selic , poderá terminar o próximo ano entre 12,25% e 13%, acima dos 11,75% previstos no Boletim Focus anterior à eleição. Já o crescimento do PIB poderá ficar entre 1% e 1,2%. A preocupação está relacionada ao tamanho da dívida pública e à dificuldade de equilibrar receitas e despesas. A Instituição Fiscal Independente (IFI) estima que a dívida bruta do governo chegue a 86,4% do PIB, com déficit primário de 0,7% do PIB. “O maior risco para 2027 é a Selic cair sem que os juros de longo prazo acompanhem o movimento”, afirma Edgar Araújo, CEO da Azumi Investimento. Na prática, isso significa que o Banco Central poderia reduzir a taxa básica de juros, mas os bancos continuariam cobrando juros elevados nos financiamentos de prazo mais longo, caso os investidores ainda desconfiassem da capacidade do governo de controlar a dívida. Para Alberto Friggi, CEO da Friggi & Secco, a manutenção dos juros em patamares elevados afeta as condições de financiamento das empresas, que pagam mais para financiar estoques, comprar equipamentos e expandir operações. Leticia Moschioni, sócia da Finscale, calcula que uma companhia com R$ 100 milhões anuais em recebíveis pode economizar R$ 500 mil por ano, antes dos custos operacionais, ao reduzir em 0,5 ponto percentual o custo financeiro sobre esse valor. “Ganhos de eficiência em pagamentos, cobrança e crédito representam uma forma concreta de ampliar a atividade sem depender exclusivamente de estímulos fiscais”, diz. Desafio fiscal continua no radar Além das reações imediatas à eleição , a situação das contas públicas permanece entre os principais pontos de atenção para os investidores. Segundo William Castro Alves, estrategista-chefe da Avenue, os benefícios e programas criados, ampliados ou mantidos durante o mandato de Lula aumentaram as despesas do governo e deixaram desafios para 2027 e os anos seguintes. “Sabemos que a situação fiscal é central para a percepção de risco de um país e para a trajetória de sua moeda. Por isso, a condução das contas públicas será um dos pontos mais importantes a observar daqui para frente. A composição do Congresso Nacional também deve pesar na relação entre o Executivo e o Legislativo. Com uma presença expressiva de parlamentares alinhados à direita, a Câmara dos Deputados e o Senado podem impor dificuldades à aprovação de medidas defendidas por Lula durante a campanha ou previstas para os próximos quatro anos. “Temos, assim, um horizonte que pode continuar conturbado, seja pela questão fiscal, que permanece como um risco para a economia e para o câmbio, seja pelos desafios de governabilidade diante de um Congresso com uma composição política diferente da do Executivo”, diz. Imagem: Envato O post Sem ajuste fiscal, Selic pode chegar a 13% em 2027, estimam analistas apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "86,4%",
+    "rotulo": "dívida pública do governo em relação ao PIB"
+   },
+   {
+    "valor": "R$ 500 mil",
+    "rotulo": "economia na redução do custo financeiro"
+   },
+   {
+    "valor": "13%",
+    "rotulo": "previsão da Selic em 2027"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "tão alta taxa de juros onera financiamento e investimentos",
+  "angulo": "Essa situação exige que empresários busquem soluções como gestão de tráfego pago e automação com IA para se adaptar ao novo cenário econômico.",
+  "gancho": "Cuidado: *Selic pode chegar a 13%*",
+  "ideias": [
+   "Entenda como a Selic alta afeta seu negócio",
+   "Dicas para lidar com juros altos em 2027",
+   "Como planejar sua empresa em tempos de incerteza"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/economia/sem-ajuste-fiscal-selic-pode-chegar-a-13-em-2027-estimam-analistas/",
+  "publicadoEm": "2026-10-26T12:20:58-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Azul financia até R$ 2 bilhões para combustível",
+  "resumo": "A Azul obteve um financiamento de até R$ 2 bilhões, garantido pela União, para cobrir custos de combustível. Isso reflete um esforço por maior liquidez em um mercado volátil.",
+  "fatos": [
+   "A Azul celebrou um financiamento total de até R$ 2 bilhões.",
+   "O financiamento é coberto pelo risco de crédito da União.",
+   "Os recursos serão usados exclusivamente para pagamento de combustível de aviação.",
+   "A operação foi intermediada pela ABGF com recursos do Fundo de Garantia à Exportação.",
+   "Essa estratégia faz parte do plano de reestruturação de longo prazo da companhia."
+  ],
+  "explicacao": [
+   "A volatilidade nos preços dos combustíveis tem impactado o setor aéreo.",
+   "O financiamento proporciona à Azul maior flexibilidade financeira em um cenário desafiador.",
+   "Com um suporte financeiro adequado, a empresa pode garantir operações regulares e estáveis."
+  ],
+  "materia": "A Azul celebrou uma operação de financiamento no valor total de até R$ 2,0 bilhões, com cobertura do risco de crédito concedida pela União, para uso dos recursos exclusivamente ao pagamento de combustível de aviação adquirido para operação regular doméstica. Em fato relevante divulgado com data de 24 de outubro de 2026, a companhia aérea informou que a operação contou com intermédio da Agência Brasileira Gestora de Fundos Garantidores e Garantias (ABGF), com recursos do Fundo de Garantia à Exportação. “Este financiamento está alinhado à estratégia de longo prazo da Companhia e foi contemplado como parte de seu plano de reestruturação “, observa o documento. “A operação fortalece ainda mais a posição de liquidez da Azul e proporciona flexibilidade financeira adicional para atuar no atual cenário de volatilidade nos preços dos combustíveis”, completa a companhia no documento. Cade aprova participação da American na Azul O Tribunal do Conselho Administrativo de Defesa Econômica ( Cade ) aprovou por unanimidade, a aquisição de aproximadamente 8% do capital da Azul pela American Airlines, condicionada à celebração de acordo entre as companhias para minimizar eventuais danos concorrenciais. A American fará investimento de US$ 100 milhões na Azul. A admissão societária será acompanhada de direitos de governança da American, que terá representação em um dos sete assentos do conselho de administração e em um dos cinco assentos do conselho de administração da Azul. Segundo as requerentes, essas participações não incluem veto, quórum qualificado ou prerrogativa individual de determinar as ações dos órgãos colegiais. No entanto, a Abra, holding controladora da Gol e da Avianca, apontou problemas na atuação de dois dos concorrentes mais relevantes no transporte aéreo regular entre Brasil e EUA – United e American – em foros comuns da Azul. Com informação do Estadão de Conteúdo (Patricia Lara). Imagem: Shutterstock O post Azul toma financiamento de até R$ 2 bilhões para pagar combustível apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "R$ 2 bilhões",
+    "rotulo": "financiamento da Azul"
+   },
+   {
+    "valor": "8%",
+    "rotulo": "participação da American na Azul"
+   },
+   {
+    "valor": "US$ 100 milhões",
+    "rotulo": "investimento da American"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de liquidez e dificuldade em manter operações",
+  "angulo": "As flutuações de preços podem afetar negócios; assim, entender sua gestão é crucial para o planejamento e sustentabilidade.",
+  "gancho": "Como *financiamentos estratégicos* impactam seu negócio?",
+  "ideias": [
+   "Estratégias financeiras em tempos de volatilidade",
+   "O que é necessário para garantir liquidez?",
+   "Como a gestão de combustíveis pode afetar negócios locais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/economia/azul-toma-financiamento-de-ate-r-20-bilhoes-para-pagar-combustivel/",
+  "publicadoEm": "2026-10-26T11:00:21-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mercado reage e você pode ser afetado",
+  "resumo": "A forte queda do Ibovespa impacta diretamente nas empresas. Entenda como essa instabilidade pode afetar suas vendas e a necessidade de estratégias de marketing.",
+  "fatos": [
+   "A B3 acionou o circuit breaker em 26 de outubro.",
+   "O Ibovespa despencou 10% logo na abertura do pregão.",
+   "As negociações foram suspensas por 30 minutos.",
+   "O circuit breaker já foi acionado 23 vezes desde 1997.",
+   "Momentos marcantes incluíram crises em 1997, 1999, 2008 e 2020."
+  ],
+  "explicacao": [
+   "O mercado reagiu fortemente à reeleição de Luiz Inácio Lula da Silva, indicando incertezas na economia.",
+   "O circuit breaker tem a função de interromper as negociações durante quedas bruscas, protegendo investidores.",
+   "Essa instabilidade pode refletir uma queda no consumo e afeta o desempenho das empresas.",
+   "Empresários devem se preparar para enfrentar esse cenário volátil com estratégias de marketing."
+  ],
+  "materia": "A B3, a bolsa de valores brasileira , acionou o mecanismo de circuit breaker nesta segunda-feira, 26, após o Ibovespa despencar 10% logo na abertura do pregão. O movimento representa a forte reação do mercado à reeleição de Luiz Inácio Lula da Silva no segundo turno das eleições presidenciais. As negociações de ações à vista, opções e ETFs foram suspensas por 30 minutos, com retorno em leilão programado para as 10h30. O circuit breaker é um procedimento operacional da B3 previsto para momentos de forte queda do mercado. O mecanismo interrompe temporariamente as negociações e tem como referência a variação do Ibovespa B3, principal índice do mercado brasileiro de ações. O circuit breaker foi criado em 1997 e já foi acionado 23 vezes. Entre os principais momentos estão: 1997 – Crise asiática: o Ibovespa registrou queda de 10,19%; 1999 – Desvalorização do real: o Ibovespa caiu 10,29% no dia; 2008 – Crise do subprime nos Estados Unidos: houve seis interrupções em menos de um mês; 2020 – Pandemia de covid-19: o circuit breaker foi acionado seis vezes em março. Aiana Freitas é editora-executiva da plataforma Mercado&Consumo. Jornalista com experiência na cobertura de tendências de consumo, varejo, negócios, finanças pessoais e direitos do consumidor.",
+  "numeros": [
+   {
+    "valor": "10%",
+    "rotulo": "queda do Ibovespa"
+   },
+   {
+    "valor": "30 minutos",
+    "rotulo": "suspensão das negociações"
+   },
+   {
+    "valor": "23 vezes",
+    "rotulo": "circuit breaker acionado"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de vendas e incerteza nos negócios",
+  "angulo": "A incerteza do mercado exige que empresários se atualizem em marketing e estratégias digitais para não serem superados pela concorrência.",
+  "gancho": "O que *sua empresa pode perder* com a instabilidade?",
+  "ideias": [
+   "Como lidar com a volatilidade do mercado?",
+   "Estratégias de marketing em tempos de incerteza.",
+   "A importância de um site em momentos difíceis."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/mc-capital/b3-aciona-circuit-breaker-apos-forte-queda-do-mercado/",
+  "publicadoEm": "2026-10-26T10:23:25-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-13"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "E-commerce brasileiro: como reduzir custos em pedidos menores",
   "resumo": "O e-commerce cresce, mas com tíquetes médios menores. Entenda a nova dinâmica e a necessidade de adaptação para manter a margem de lucro.",
   "fatos": [
@@ -667,6 +1022,239 @@
   "publicadoEm": "2026-10-26T07:12:32-03:00",
   "data": "2026-10-26",
   "id": "2026-10-26-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Comércio de BH pede adiamento do fim da escala 6x1",
+  "resumo": "Representantes do comércio em Belo Horizonte estão preocupados com o fim da escala 6x1, propondo que a mudança para a jornada 5x2 seja adiada para 2027, a fim de evitar prejuízos nas vendas de Natal.",
+  "fatos": [
+   "A escala 6x1 deve ser substituída pela 5x2 conforme a Emenda Constitucional 141/2026, com início previsto para 15 de dezembro de 2026.",
+   "Representantes do comércio e serviços de BH pedem que a transição comece apenas em janeiro de 2027.",
+   "A CDL/BH destaca a importância do planejamento para o Natal, período crucial para o comércio.",
+   "A mudança poderá exigir reorganização das equipes e contratações adicionais de funcionários.",
+   "Pequenos negócios podem enfrentar dificuldades maiores devido a estruturas financeiras limitadas.",
+   "A proposta de adiamento visa garantir que os empresários tenham mais tempo para se adequar às novas exigências."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 promete mudanças significativas nas jornadas de trabalho dos colaboradores.",
+   "A pressão para adequar as escalas durante a alta demanda do Natal pode dificultar o desempenho do comércio.",
+   "Empresários dependem do planejamento anual e alteração repentina pode comprometer vendas e atendimento.",
+   "A proposta de adiar a mudança visa proteger o faturamento e as condições de trabalho no setor."
+  ],
+  "materia": "Repórter do Diário do Comércio. Graduada em Jornalismo pela PUC Minas, com especialização em Imagens e Culturas Midiáticas pela UFMG. Preocupados com os possíveis impactos do fim da escala 6×1 sobre as vendas de Natal, representantes do comércio e dos serviços de Belo Horizonte defendem que a transição para a jornada 5×2 comece apenas em janeiro de 2027. Conforme o calendário previsto na Emenda Constitucional (EC) 141/2026, promulgada em 16 de outubro, a mudança deverá entrar em vigor em 15 de dezembro, 60 dias após a promulgação. A Câmara de Dirigentes Lojistas de Belo Horizonte (CDL/BH) defendeu, nesta segunda-feira (26), a ampliação do prazo de adaptação às novas regras para evitar prejuízos ao comércio durante o período natalino. Em nota enviada à imprensa, a entidade informou que pretende atuar em conjunto com a Confederação Nacional de Dirigentes Lojistas (CNDL) para acompanhar a regulamentação da medida e propor ao Congresso Nacional alternativas para reduzir possíveis impactos negativos. A preocupação está relacionada à necessidade de reorganizar equipes durante o Natal, considerado um dos períodos mais importantes do ano para o varejo. A adequação das escalas e dos horários de funcionamento, além de eventuais contratações adicionais, pode representar um desafio para os estabelecimentos justamente quando aumentam o fluxo de consumidores e a demanda por atendimento. O presidente da CDL/BH, Marcelo de Souza e Silva, destacou que o comércio se prepara ao longo de todo o ano para o Natal, período decisivo para o faturamento das empresas. “Não somos contrários à melhoria das condições de trabalho, mas precisamos de um período de adaptação que considere a realidade das empresas”, afirmou. Segundo Souza e Silva, a proposta é adiar o início da nova escala para janeiro de 2027, permitindo que os empresários mantenham o planejamento já definido para o Natal e tenham mais tempo para se adequar às novas exigências. O dirigente também alerta que os pequenos negócios podem enfrentar dificuldades maiores para reorganizar as equipes em um prazo curto. “Diferentemente das grandes empresas, muitos estabelecimentos têm estruturas enxutas e menor capacidade financeira para realizar contratações adicionais, o que torna o planejamento fundamental para manter o funcionamento, a qualidade do atendimento e a sustentabilidade das operações”, afirmou. De acordo com a CDL/BH, o período natalino concentra oportunidades de aumento do faturamento e de geração de empregos temporários no comércio e nos serviços. Para muitos trabalhadores, essas vagas representam uma porta de entrada para o mercado de trabalho e podem resultar em contratações efetivas. Na avaliação da entidade, a necessidade de reorganizar as equipes durante a temporada pode comprometer o planejamento das empresas e a capacidade de atendimento em um período estratégico para o varejo. “Nosso objetivo é contribuir para que essa transição aconteça de forma organizada, com segurança para os trabalhadores e condições para que as empresas continuem gerando emprego e renda. O Natal não pode ser prejudicado por uma mudança para a qual os empresários precisam de tempo para se preparar. Com diálogo e planejamento, é possível construir uma implementação mais adequada à realidade do comércio e dos serviços”, conclui o presidente da CDL/BH. Repórter do Diário do Comércio. Graduada em Jornalismo pela PUC Minas, com especialização em Imagens e Culturas Midiáticas pela UFMG. Botox de Currículo: até quando mulheres precisarão esconder a idade para serem aceitas no mundo corporativo? Mesmo sem inovar, novo Razão e Sensibilidade reafirma atemporalidade de Jane Austen Será que estamos complicando demais o café? Da ciência à inovação: a vacina brasileira contra a malária e o valor de investir em conhecimento Ao preencher e enviar o formulário, você concorda com a nossa Política de Privacidade e Termos de Uso. Você não precisa colar o link e nem o título do conteúdo no seu relato. Vamos incorporar todas as ",
+  "numeros": [
+   {
+    "valor": "15 de dezembro de 2026",
+    "rotulo": "início da nova escala"
+   },
+   {
+    "valor": "janeiro de 2027",
+    "rotulo": "proposta de adiamento"
+   }
+  ],
+  "fonte": "Diário do Comércio",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "perda de faturamento e dificuldade em se adaptar às novas regras",
+  "angulo": "A transição nas escalas de trabalho é um desafio que pode afetar a sustentabilidade dos negócios e a qualidade do atendimento, reforçando a necessidade de diversificação de renda.",
+  "gancho": "O *comércio teme impactos* na nova escala de trabalho",
+  "ideias": [
+   "Como o fim da escala 6x1 afeta o comércio?",
+   "Ajustes na jornada de trabalho: o que esperar?",
+   "Por que um adiamento é crucial para o varejo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://diariodocomercio.com.br/economia/fim-escala-6x1-comercio-bh-adiamento-natal/",
+  "publicadoEm": "2026-10-26T10:53:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "CDL/BH pede adiamento do fim da escala 6x1",
+  "resumo": "A CDL/BH solicita a prorrogação do fim da escala 6x1 até 2027, visando proteger as vendas do comércio no Natal. A mudança afetaria a organização e a carga horária dos trabalhadores.",
+  "fatos": [
+   "A Câmara dos Dirigentes Lojistas de Belo Horizonte (CDL/BH) pede adiamento do fim da escala 6x1 para 2027.",
+   "A Emenda Constitucional prevê que o fim da escala 6x1 comece em 16 de dezembro.",
+   "Em dezembro, a jornada de trabalho cairá de 44 para 42 horas, com duas folgas semanais.",
+   "Após 14 meses, em 16 de fevereiro, a carga horária mínima será de 40 horas.",
+   "A CDL/BH argumenta que a mudança pode impactar as vendas durante o período natalino.",
+   "Propostas de regulamentação da mudança ainda precisam ser discutidas no Congresso Nacional.",
+   "O presidente da CDL/BH, Marcelo de Souza, ressaltou a importância de tempo para adequação das empresas."
+  ],
+  "explicacao": [
+   "A mudança na escala de trabalho pode afetar a dinâmica do comércio, especialmente em momentos de alta demanda como o Natal.",
+   "A proposta de adiamento foi motivada pela necessidade dos empresários de se adaptarem às novas regras sem comprometer suas vendas.",
+   "A CDL/BH busca diálogo e planejamento para garantir uma transição que beneficie tanto trabalhadores quanto empregadores."
+  ],
+  "materia": "Com localizações salvas você poderá receber alertas de lugares que você escolheu e da sua atual localização. Compartilhe sua localização para sempre receber alertas locais, independente da sua posição. Para remover uma cidade, selecione o ícone da lixeira. Com localizações salvas você poderá receber alertas de lugares que você escolheu e da sua atual localização. Gabriel Rodrigues Jornalista formado pela UFMG, passou pelo jornal Estado de Minas, foi trainee da Folha de S.Paulo e faz parte de O TEMPO desde 2019. Hoje especializado em atualidades e economia, cobriu a pandemia de Covid-19 desde o começo da crise e também tem experiência em cobertura de cultura, saúde e população LGBTQIAPN+. Vencedor de prêmios como CDL/BH, MPT de Jornalismo e Boehringer Ingelheim. Às vésperas da temporada de Natal, principal data comercial do Brasil, a Câmara dos Dirigentes Lojistas de Belo Horizonte (CDL/BH) propõe que o fim da escala 6x1, previsto para dezembro , seja adiado para 2027 a fim de não impactar as vendas do setor. A Emenda Constitucional sancionada pelo presidente Lula (PT) prevê que a transição do fim da escala 6x1 começa no dia 16 de dezembro. Inicialmente, a jornada máxima de trabalho cairá de 44 para 42 horas, já com garantia de dois dias de descanso semanal para os trabalhadores. Após 14 meses, em 16 de fevereiro, o expediente cai para 40 horas. A proposta da CDL/BH é que a redução para 42 horas ocorra somente a partir de janeiro de 2027. Ela argumenta que a necessidade de reorganizar escalas, adequar horários de funcionamento e, eventualmente, ampliar o quadro de funcionários pode interferir na dinâmica do comércio justamente em seu período de maior faturamento. A entidade afirma que unirá forças com a Confederação Nacional de Dirigentes Lojistas (CNDL) para propor medidas atenuantes ao Congresso Nacional. O fim da escala 6x1 ainda precisa ser regulamentado para detalhar regras específicas da redução. A CDL/BH menciona a experiência de transição de escala de outros países, como o Chile, onde a redução de 45 para 40 horas é distribuída em cinco anos, de 2023 a 2028. Em nota enviada à imprensa, o presidente da CDL/BH, Marcelo de Souza e Silva conclui: “Nosso objetivo é contribuir para que essa transição aconteça de forma organizada, com segurança para os trabalhadores e condições para que as empresas continuem gerando emprego e renda. O Natal não pode ser prejudicado por uma mudança para a qual os empresários precisam de tempo para se preparar. Com diálogo e planejamento, é possível construir uma implementação mais adequada à realidade do comércio e dos serviços”. O portal O TEMPO utiliza cookies para armazenar ou recolher informações no seu navegador. A informação normalmente não o identifica diretamente, mas pode dar-lhe uma experiência web mais personalizada. Uma vez que respeitamos o seu direito à privacidade, pode optar por não permitir alguns tipos de cookies. Para mais informações, revise nossa Política de Privacidade. Cookies operacionais/técnicos: São usados para tornar a navegação no site possível, são essenciais e possibilitam a oferta de funcionalidades básicas. Eles ajudam a registrar como as pessoas usam o nosso site, para que possamos melhorá-lo no futuro. Por exemplo, eles nos dizem quais são as páginas mais populares e como as pessoas navegam pelo nosso site. Usamos cookies analíticos próprios e também do Google Analytics para coletar dados agregados sobre o uso do site. Os cookies comportamentais e de marketing ajudam a entender seus interesses baseados em como você navega em nosso site. Esses cookies podem ser ativados tanto no nosso website quanto nas plataformas dos nossos parceiros de publicidade, como Facebook, Google e LinkedIn.",
+  "numeros": [
+   {
+    "valor": "2027",
+    "rotulo": "ano proposto para novo início da escala 6x1"
+   }
+  ],
+  "fonte": "O TEMPO",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "perda de vendas e dificuldades na adaptação",
+  "angulo": "Conhecer o mercado financeiro pode garantir uma renda extra, independente das dificuldades enfrentadas no emprego tradicional.",
+  "gancho": "*Fim da escala 6x1* traz incertezas no comércio",
+  "ideias": [
+   "CDL/BH defende adiamento da nova jornada",
+   "Mudanças na legislação impactam comerciantes",
+   "Natal pode ser afetado por nova escala de trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://www.otempo.com.br/economia/2026/10/26/cdl-bh-pede-adiamento-do-fim-da-escala-6x1-por-temor-de-efeitos-no-comercio-durante-natal",
+  "publicadoEm": "2026-10-26T11:09:17-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: como se adaptar?",
+  "resumo": "A Emenda Constitucional 141/2026 determina o fim da escala 6x1 e reduz a jornada de trabalho, impactando negócios e empregos. Especialistas orientam ações para adaptação das empresas.",
+  "fatos": [
+   "Emenda Constitucional 141/2026 foi promulgada em 16 de outubro.",
+   "Reduz a jornada de trabalho de 44 para 40 horas semanais com dois dias de descanso.",
+   "A redução inicial para 42 horas começa em 15 de dezembro deste ano.",
+   "Empresas têm 60 dias para se adaptar às novas regras, mapeando jornadas e ajustando contratos.",
+   "A hora normal e a hora extra terão novos valores devido ao novo divisor de jornada."
+  ],
+  "explicacao": [
+   "A mudança foi implementada para modernizar as relações de trabalho no Brasil, proporcionando melhor qualidade de vida aos trabalhadores.",
+   "As empresas devem diagnosticar suas operações atuais, recalcular salários e horas trabalhadas.",
+   "A adaptação é essencial para evitar conflitos jurídicos e garantir o funcionamento adequado diante da nova legislação."
+  ],
+  "materia": "Resumo gerado por ferramenta de IA treinada pela redação da Editora Abril. Foi promulgada no dia 16 de outubro a Emenda Constitucional 141/2026, que estabelece o fim da escala 6×1 e reduz a jornada semanal de trabalho no Brasil de 44 para 40 horas, com dois dias de descanso remunerado e sem diminuição salarial. Como explicamos nesta matéria , as mudanças serão implementadas de forma gradual, com uma redução inicial para 42 horas a partir de 15 de dezembro deste ano. O intervalo de 60 dias entre a promulgação e o início da nova escala permite que as empresas adaptem suas operações ao que está determinado pelas novas regras. “A adaptação exige uma análise antecipada dos contratos de trabalho, das convenções e dos acordos coletivos aplicáveis, além da revisão das escalas praticadas”, aponta Thais Cavalchi Ribeiro Schwartz, sócia da Boaventura Ribeiro Advogados. Segundo ela, é preciso identificar os ajustes necessários e “formalizá-los de acordo com as regras de cada categoria, evitando que mudanças operacionais sejam implementadas sem a devida avaliação jurídica”. Gerente de Trabalhista Outsourcing da Confirp Contabilidade, Daniel Santos destaca também a importância de levantar a jornada efetivamente cumprida por cada equipe e calcular os efeitos financeiros da mudança. “A análise deve considerar não apenas o número de horas disponíveis, mas também a necessidade de reposição de pessoal, a cobertura dos turnos e os reflexos na folha de pagamento “, pontua. A seguir, os especialistas elencam cinco ações que as empresas devem priorizar nessa fase de transição: 1. Mapear as jornadas e identificar ajustes necessários Para começar, as organizações devem diagnosticar como funcionam as jornadas de cada profissional, identificando horas trabalhadas por dia e por semana, períodos de descanso e a cobertura operacional. Também é preciso considerar os contratos de trabalho, os registros de ponto e as convenções e os acordos coletivos. Isso vale tanto para quem trabalha no regime 6×1 quanto para os funcionários em 5×2 ou em rotinas diferenciadas. No caso das jornadas 5×2 de 44 horas, será necessário rever a distribuição das horas, observando sempre as regras de transição e as possibilidades de compensação previstas na emenda. “É fundamental mapear as jornadas e calcular os custos para definir como manter as operações sem descumprir os novos limites. A empresa não deve olhar apenas para a escala utilizada, mas verificar a carga horária efetivamente praticada e as condições aplicáveis a cada grupo de trabalhadores”, afirma Thais. 2. Recalcular os custos, especialmente das horas extras No cálculo pelo divisor mensal correspondente à jornada semanal, o divisor de referência pode passar de 220 (em uma jornada de 44 horas semanais) para 210 (na etapa de 42 horas) e, posteriormente, para 200 (quando chegar ao limite de 40 horas). Com as demais condições mantidas, isso eleva o valor da hora normal e também o da extra. Daniel explica que, ao fazer o planejamento financeiro, as organizações devem considerar separadamente as duas etapas da transição. As simulações também devem incluir salários , encargos, benefícios, treinamento e demais despesas associadas à contratação , além dos custos de mudanças nos turnos e horários de atendimento. “Não basta projetar o custo de eventuais contratações. A empresa precisa avaliar o valor das horas extras , o volume que poderá ser necessário e as alternativas para manter a operação. Dependendo da atividade, pode ser mais adequado reorganizar turnos, redistribuir tarefas ou ampliar a equipe do que depender continuamente do trabalho extraordinário.” 3. Reorganizar horários e dimensionar as equipes Por falar em organização de turnos, é necessário também identificar quais são os períodos de maior demanda, as atividades que exigem cobertura contínua e quando é possível modificar a atual distribuição do trabalho. “Esse levantamento permite comparar alternativas e dimensionar os custos de cada decisão”, diz Daniel. Em alguns",
+  "numeros": [
+   {
+    "valor": "44 para 40",
+    "rotulo": "horas semanais do trabalho"
+   },
+   {
+    "valor": "60",
+    "rotulo": "dias para adaptação"
+   },
+   {
+    "valor": "42",
+    "rotulo": "horas semanais iniciais a partir de dezembro"
+   }
+  ],
+  "fonte": "Você RH",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "temor de perda de renda e complicações legais",
+  "angulo": "Aprender sobre o mercado financeiro pode ser o caminho para quem busca mais liberdade financeira e menos dependência do trabalho convencional.",
+  "gancho": "*Fim da escala 6x1* e novas oportunidades",
+  "ideias": [
+   "Adapte-se ao novo modelo de trabalho",
+   "O que muda com o fim da escala 6x1?",
+   "Prepare seu negócio para a nova legislação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://vocerh.abril.com.br/politicasepraticas/cinco-medidas-que-as-empresas-precisam-adotar-para-se-adaptar-ao-fim-da-escala-6x1/",
+  "publicadoEm": "2026-10-26T10:53:54-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho e o impacto no bolso",
+  "resumo": "A nova Emenda Constitucional 141 altera a jornada de trabalho para 42 horas semanais e garante dois dias de descanso. Essa mudança traz impactos diretos nos custos das empresas e na vida dos trabalhadores.",
+  "fatos": [
+   "A Emenda Constitucional 141 entra em vigor em 16 de dezembro.",
+   "A jornada de trabalho passará de 44 para 42 horas semanais em 2026 e para 40 horas em 2027.",
+   "Os trabalhadores que atuam na escala 6x1 terão direito a dois dias de folga obrigatórios.",
+   "239.545 trabalhadores estavam na escala 6x1 em Mato Grosso do Sul em maio de 2026.",
+   "As empresas precisam se adaptar rapidamente devido ao curto prazo até a implementação da nova regra.",
+   "A mudança está relacionada ao movimento Vida Além do Trabalho e conta com apoio de mais de 3 milhões de assinaturas."
+  ],
+  "explicacao": [
+   "A Emenda Constitucional 141 visa melhorar as condições de trabalho e saúde dos empregados.",
+   "As empresas devem criar planos para se adequar à nova jornada, considerando o aumento potencial de custos com horas extras.",
+   "A mudança poderá afetar tanto o varejo quanto serviços, aumentando o desafio para pequenos comerciantes.",
+   "Embora possa aumentar os custos, a expectativa é de que melhore a qualidade de vida e promova mais tempo para consumo.",
+   "As negociações com sindicatos serão essenciais para ajustar as novas escalas e manter a produtividade."
+  ],
+  "materia": "Veja nossas notícias com mais destaque nas suas buscas. Veja nossas notícias com mais destaque nas suas buscas. Quem trabalha seis dias e descansa um terá, a partir de 16 de dezembro, dois dias de descanso por semana. É o que determina a Emenda Constitucional 141, promulgada em 16 de outubro, que acaba com a escala 6×1 como regra geral e reduz a jornada de 44 para 42 horas semanais já em dezembro, e para 40 horas em 2027, sem corte de salário. Quem explicou o que muda foi a advogada trabalhista Cláudia Abdul Ahad Securato, em entrevista ao Giro Estadual de Notícias, do Grupo Feitosa de Comunicação, na manhã desta segunda-feira (26). Natural de Campo Grande, ela atua em São Paulo e participou à distância. “As empresas já têm que começar a se adequar o quanto antes. Já fazer o plano de contingência e de como vão se adequar a isso”, afirmou. Segundo ela, o prazo é curto para setores que vivem o fim de ano com mais movimento, como o varejo e os supermercados. Cláudia lembrou que a mudança não surgiu de repente. Há anos tramitam projetos no Congresso para acabar com a escala em que o trabalhador atua seis dias e folga apenas um. Ela atribuiu força ao movimento Vida Além do Trabalho e à deputada federal Erika Hilton, e disse que o abaixo-assinado do movimento passou de 3 milhões de assinaturas. A advogada reconheceu que há quem critique o momento da aprovação, em ano eleitoral, mas afirmou que o tema “não foi tirado do nada”. A jornada máxima cai de 44 para 42 horas semanais em 16 de dezembro de 2026, quando passam a valer os dois dias de descanso remunerado por semana. Em 16 de dezembro de 2027, 14 meses depois da publicação, a jornada passa a 40 horas semanais. Para a advogada, esse é um dos pontos mais importantes. “Não pode haver diminuição de salário com a diminuição da escala. Todos os direitos serão mantidos”, disse. Ela explicou que, como o trabalhador ganha por hora, a conta não pode resultar em remuneração menor. Segundo Cláudia, a regra de duração da jornada não se aplica a quem tem diploma de nível superior e recebe ao menos duas vezes e meia o teto da Previdência Social, o que em 2026 passa de R$ 21 mil. A exceção afasta as regras de duração e de controle de jornada, mas os dois dias de descanso continuam valendo. Ela citou ainda que categorias com rotinas especiais, como as aeronautas, e serviços essenciais podem ter regimes diferenciados por acordo ou convenção coletiva. A advogada afirmou que muitos setores trabalham em escala de 44 horas semanais, não só o comércio. Para saber se está enquadrado, “é só ter um dia de folga na semana”, explicou: quem tem apenas um passa a ter obrigatoriamente dois. Ela admitiu que as empresas reclamam do aumento de custos e que o repasse ao consumidor é uma preocupação, mas lembrou que os defensores da medida apontam menos adoecimento e mais tempo com a família e para o consumo. “É uma lei em que dá para defender tudo”, resumiu. As empresas poderiam tentar compensar a redução com horas extras ou outras escalas, mas isso depende de negociação com os sindicatos. A advogada avaliou que dificilmente haverá aceitação de uma escala sem os dois dias de descanso. As grandes empresas, segundo ela, já têm plano de adaptação e acordos coletivos firmados; para as menores, o caminho é mais difícil, porque exige estrutura sindical e advogado trabalhista. Questionada se o empregador pode punir quem faz bico ou trabalha por conta própria nos dias de descanso, a resposta foi não. “O empregador não pode se envolver na vida privada das pessoas”, disse, citando motoristas de aplicativo e profissionais autônomos que complementam a renda. Quando o dia de folga não é o horário pago pela empresa, afirmou, o trabalhador pode fazer o que quiser. A orientação dela é conversar primeiro com a chefia e com o setor de recursos humanos, explicando que a escala deixou de ser possível. “Se tiver que trabalhar em seis por um, vai ter que receber hora extra, e as horas extras vão ficar mais caras”, disse, ao recomendar ",
+  "numeros": [
+   {
+    "valor": "239545",
+    "rotulo": "trabalhadores na escala 6x1 em MS"
+   },
+   {
+    "valor": "3 milhões",
+    "rotulo": "assinaturas pelo movimento Vida Além do Trabalho"
+   }
+  ],
+  "fonte": "A Crítica de Campo Grande",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "Aumento de custos que pode impactar o orçamento",
+  "angulo": "A mudança nas jornadas de trabalho preocupa empresários, mas oferece a chance de melhorar a qualidade de vida dos trabalhadores e incentivar novos meios de geração de renda.",
+  "gancho": "Mude sua forma de trabalhar: *fique atento às novas",
+  "ideias": [
+   "O que muda com a nova jornada?",
+   "41% dos trabalhadores estão na escala 6x1",
+   "Como se adaptar à Emenda Constitucional 141"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T12:34:09-03:00",
+  "url": "https://acritica.net/economia/fim-escala-6x1-advogada-explica-o-que-muda-16-de-dezembro-giro-estadual/",
+  "publicadoEm": "2026-10-26T11:58:20-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-08"
  },
  {
   "segmento": "trader",

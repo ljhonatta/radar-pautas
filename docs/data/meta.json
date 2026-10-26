@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-26T10:20:19-03:00",
-  "novas": 3,
+  "ultimaColeta": "2026-10-26T12:34:09-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "3 pauta(s) nova(s): Fim da escala 6x1: como se preparar agora?; Fim da escala 6x1: mudanças nas empresas; Fim da escala 6x1: impacto no emprego.",
+  "mensagem": "4 pauta(s) nova(s): Mudanças na jornada de trabalho e o impacto no bolso; Fim da escala 6x1: como se adaptar?; CDL/BH pede adiamento do fim da escala 6x1.",
   "falhas": [],
   "manual": true,
   "historico": [
+   "2026-10-26T12:34:09-03:00",
    "2026-10-26T10:20:19-03:00",
    "2026-10-26T09:16:42-03:00",
    "2026-10-25T22:24:47-03:00",
@@ -18,19 +19,19 @@
    "2026-10-24T15:31:26-03:00",
    "2026-10-24T10:40:44-03:00",
    "2026-10-23T21:06:33-03:00",
-   "2026-10-23T16:42:12-03:00",
-   "2026-10-23T11:30:17-03:00"
+   "2026-10-23T16:42:12-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-26T10:20:19-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-10-26T12:34:09-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Desafios econômicos do novo governo impactam empresários; Nova lei sobre saúde impacta empresas e funcionários; Ibope monitora retail media de varejistas.",
+  "mensagem": "6 pauta(s) nova(s): Mercado reage e você pode ser afetado; Azul financia até R$ 2 bilhões para combustível; Selic alta pode pressionar crédito em 2027.",
   "falhas": [],
   "manual": true,
   "historico": [
+   "2026-10-26T12:34:09-03:00",
    "2026-10-26T10:20:19-03:00",
    "2026-10-26T09:16:42-03:00",
    "2026-10-25T22:24:47-03:00",
@@ -41,8 +42,7 @@
    "2026-10-24T15:31:26-03:00",
    "2026-10-24T10:40:44-03:00",
    "2026-10-23T21:06:33-03:00",
-   "2026-10-23T16:42:12-03:00",
-   "2026-10-23T11:30:17-03:00"
+   "2026-10-23T16:42:12-03:00"
   ]
  }
 }
