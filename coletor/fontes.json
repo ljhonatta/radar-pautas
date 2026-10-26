@@ -2,36 +2,160 @@
   "_comentario": "Feeds RSS por segmento. 'buscas' viram buscas no Google Notícias (últimas 24h). Pode adicionar ou tirar à vontade.",
   "trader": {
     "feeds": [
-      {"nome": "Agência Brasil Economia", "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml"},
-      {"nome": "Agência Brasil Política", "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"},
-      {"nome": "Exame", "url": "https://exame.com/feed/"},
-      {"nome": "InfoMoney", "url": "https://www.infomoney.com.br/feed/"},
-      {"nome": "Poder360", "url": "https://www.poder360.com.br/feed/"},
-      {"nome": "Agência Senado", "url": "https://www12.senado.leg.br/noticias/feed/todasnoticias/RSS"},
-      {"nome": "Agência Câmara", "url": "https://www.camara.leg.br/noticias/rss/ultimas-noticias"}
+      {
+        "nome": "Agência Brasil Economia",
+        "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml"
+      },
+      {
+        "nome": "Agência Brasil Política",
+        "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"
+      },
+      {
+        "nome": "Exame",
+        "url": "https://exame.com/feed/"
+      },
+      {
+        "nome": "InfoMoney",
+        "url": "https://www.infomoney.com.br/feed/"
+      },
+      {
+        "nome": "Poder360",
+        "url": "https://www.poder360.com.br/feed/"
+      },
+      {
+        "nome": "Agência Senado",
+        "url": "https://www12.senado.leg.br/noticias/feed/todasnoticias/RSS"
+      },
+      {
+        "nome": "Agência Câmara",
+        "url": "https://www.camara.leg.br/noticias/rss/ultimas-noticias"
+      },
+      {
+        "nome": "Agência Brasil Últimas",
+        "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+      },
+      {
+        "nome": "Folha Mercado",
+        "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml"
+      },
+      {
+        "nome": "Estadão Economia",
+        "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/"
+      },
+      {
+        "nome": "Money Times",
+        "url": "https://www.moneytimes.com.br/feed/"
+      },
+      {
+        "nome": "Seu Dinheiro",
+        "url": "https://www.seudinheiro.com/feed/"
+      },
+      {
+        "nome": "Contábeis",
+        "url": "https://www.contabeis.com.br/rss/noticias/"
+      },
+      {
+        "nome": "Jornal Contábil",
+        "url": "https://www.jornalcontabil.com.br/feed/"
+      }
     ],
     "buscas": [
-      "escala 6x1", "Receita Federal", "imposto de renda", "INSS aposentadoria",
-      "salário mínimo", "desemprego IBGE", "inflação IPCA", "Copom Selic juros",
-      "MEI Simples Nacional", "Câmara aprova projeto trabalhador", "Senado aprova empresas",
-      "custo de vida", "CLT direitos trabalhistas", "reforma tributária empresas"
+      "escala 6x1",
+      "Receita Federal",
+      "imposto de renda",
+      "INSS aposentadoria",
+      "salário mínimo",
+      "desemprego IBGE",
+      "inflação IPCA",
+      "Copom Selic juros",
+      "MEI Simples Nacional",
+      "Câmara aprova projeto trabalhador",
+      "Senado aprova empresas",
+      "custo de vida",
+      "CLT direitos trabalhistas",
+      "reforma tributária empresas"
     ]
   },
   "vpr": {
     "feeds": [
-      {"nome": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/feed"},
-      {"nome": "E-Commerce Brasil", "url": "https://www.ecommercebrasil.com.br/feed"},
-      {"nome": "Mercado & Consumo", "url": "https://mercadoeconsumo.com.br/feed/"},
-      {"nome": "Canaltech", "url": "https://canaltech.com.br/rss/"},
-      {"nome": "Olhar Digital", "url": "https://olhardigital.com.br/feed/"},
-      {"nome": "Meta Newsroom", "url": "https://about.fb.com/news/feed/"},
-      {"nome": "Google Blog", "url": "https://blog.google/rss/"}
+      {
+        "nome": "Meio & Mensagem",
+        "url": "https://www.meioemensagem.com.br/feed"
+      },
+      {
+        "nome": "Mercado & Consumo",
+        "url": "https://mercadoeconsumo.com.br/feed/"
+      },
+      {
+        "nome": "Canaltech",
+        "url": "https://canaltech.com.br/rss/"
+      },
+      {
+        "nome": "Olhar Digital",
+        "url": "https://olhardigital.com.br/feed/"
+      },
+      {
+        "nome": "Meta Newsroom",
+        "url": "https://about.fb.com/news/feed/"
+      },
+      {
+        "nome": "Google Blog",
+        "url": "https://blog.google/rss/"
+      },
+      {
+        "nome": "TecMundo",
+        "url": "https://rss.tecmundo.com.br/feed"
+      },
+      {
+        "nome": "Tecnoblog",
+        "url": "https://tecnoblog.net/feed/"
+      },
+      {
+        "nome": "Agência Sebrae",
+        "url": "https://agenciasebrae.com.br/feed/"
+      },
+      {
+        "nome": "Consumidor Moderno",
+        "url": "https://consumidormoderno.com.br/feed/"
+      },
+      {
+        "nome": "B9",
+        "url": "https://www.b9.com.br/feed/"
+      },
+      {
+        "nome": "Adnews",
+        "url": "https://adnews.com.br/feed/"
+      },
+      {
+        "nome": "Mobile Time",
+        "url": "https://www.mobiletime.com.br/feed/"
+      },
+      {
+        "nome": "Startups",
+        "url": "https://startups.com.br/feed/"
+      },
+      {
+        "nome": "NeoFeed",
+        "url": "https://neofeed.com.br/feed/"
+      },
+      {
+        "nome": "Época Negócios",
+        "url": "https://epocanegocios.globo.com/rss/epocanegocios"
+      }
     ],
     "buscas": [
-      "Instagram novidade empresas", "WhatsApp Business", "Meta anúncios",
-      "Google anúncios pequenas empresas", "TikTok Shop", "inteligência artificial pequenas empresas",
-      "varejo vendas pesquisa", "e-commerce Brasil", "Black Friday varejo",
-      "Sebrae pequenos negócios", "comportamento do consumidor pesquisa", "PEGN empreendedor"
+      "Instagram novidade empresas",
+      "WhatsApp Business",
+      "Meta anúncios",
+      "Google anúncios pequenas empresas",
+      "TikTok Shop",
+      "inteligência artificial pequenas empresas",
+      "varejo vendas pesquisa",
+      "e-commerce Brasil",
+      "Black Friday varejo",
+      "Sebrae pequenos negócios",
+      "comportamento do consumidor pesquisa",
+      "PEGN empreendedor"
     ]
   }
 }

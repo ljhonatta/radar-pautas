@@ -7,7 +7,7 @@ docs/data/meta.json, que o painel no GitHub Pages lê.
 import json, os, re, sys, time, unicodedata
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 
 import feedparser
 import requests
@@ -26,7 +26,7 @@ UA = {"User-Agent": "Mozilla/5.0 (RadarDePautas; +https://github.com)"}
 
 MAX_POR_SEG = 12
 MAX_POT5 = 4
-MAX_CANDIDATOS = 90  # por segmento, para a triagem
+MAX_CANDIDATOS = 140  # por segmento, para a triagem
 
 CATEGORIAS = {
     "trader": ["Trabalho", "Impostos", "Custo de vida", "Leis", "Juros e crédito", "Emprego e renda", "Previdência", "Negócios"],
@@ -109,12 +109,25 @@ def limpar_html(s, n=400):
 
 
 def ler_feed(url):
-    r = requests.get(url, headers=UA, timeout=25)
-    r.raise_for_status()
+    for tentativa in range(2):
+        try:
+            r = requests.get(url, headers=UA, timeout=25)
+            r.raise_for_status()
+            break
+        except (requests.ConnectionError, requests.Timeout):
+            if tentativa:
+                raise
+            time.sleep(3)
     f = feedparser.parse(r.content)
     if f.bozo and not f.entries:
         raise RuntimeError("feed inválido")
     return f.entries
+
+
+def conteudo_feed(e):
+    """Texto completo que alguns feeds (WordPress) já trazem no próprio RSS."""
+    blocos = [c.get("value", "") for c in (e.get("content") or [])]
+    return limpar_html(max(blocos, key=len), 9000) if blocos else ""
 
 
 def coletar(seg, cfg, inicio, falhas):
@@ -127,7 +140,7 @@ def coletar(seg, cfg, inicio, falhas):
                     continue
                 itens.append({"titulo": limpar_html(e.get("title"), 200), "url": e.get("link", ""),
                               "fonte": fonte["nome"], "resumo": limpar_html(e.get("summary") or e.get("description")),
-                              "publicado": dt, "direto": True})
+                              "conteudo": conteudo_feed(e), "publicado": dt, "direto": True})
         except Exception as ex:
             falhas.append(f"{fonte['nome']} ({type(ex).__name__})")
     for q in cfg["buscas"]:
@@ -141,8 +154,8 @@ def coletar(seg, cfg, inicio, falhas):
                 veiculo = (e.get("source") or {}).get("title", "")
                 if veiculo and titulo.endswith(" - " + veiculo):
                     titulo = titulo[: -len(veiculo) - 3]
-                itens.append({"titulo": titulo, "url": "", "fonte": veiculo or "Google Notícias",
-                              "resumo": "", "publicado": dt, "direto": False})
+                itens.append({"titulo": titulo, "url": "", "gnews": e.get("link", ""), "fonte": veiculo or "Google Notícias",
+                              "resumo": "", "conteudo": "", "publicado": dt, "direto": False})
         except Exception as ex:
             falhas.append(f"Google Notícias '{q}' ({type(ex).__name__})")
     # sem duplicatas
@@ -155,19 +168,68 @@ def coletar(seg, cfg, inicio, falhas):
         if it["url"]:
             vistos.add(it["url"])
         unicos.append(it)
-    return unicos[:MAX_CANDIDATOS]
+    # garante espaço para as buscas do Google Notícias mesmo com muitos feeds
+    diretos = [i for i in unicos if i["direto"]]
+    buscas = [i for i in unicos if not i["direto"]]
+    n_buscas = min(len(buscas), MAX_CANDIDATOS // 3)
+    return diretos[:MAX_CANDIDATOS - n_buscas] + buscas[:n_buscas]
+
+
+def link_real(gnews):
+    """Troca o link do Google Notícias pelo link da matéria no site do veículo."""
+    try:
+        aid = urlparse(gnews).path.rstrip("/").split("/")[-1]
+        h = requests.get(f"https://news.google.com/rss/articles/{aid}", headers=UA, timeout=20).text
+        sg = re.search(r'data-n-a-sg="([^"]+)"', h).group(1)
+        ts = re.search(r'data-n-a-ts="([^"]+)"', h).group(1)
+        req = json.dumps(["garturlreq", [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None,
+                                          None, None, 0, 1], "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+                          aid, int(ts), sg])
+        r = requests.post("https://news.google.com/_/DotsSplashUi/data/batchexecute", headers=UA, timeout=20,
+                          data={"f.req": json.dumps([[["Fbv4je", req, None, "generic"]]])})
+        url = json.loads(json.loads(r.text.split("\n\n")[1])[0][2])[1]
+        return url if url.startswith("http") else ""
+    except Exception:
+        return ""
+
+
+def _paragrafos(no):
+    ps = [p.get_text(" ", strip=True) for p in no.find_all("p")]
+    return re.sub(r"\s+", " ", " ".join(p for p in ps if len(p) > 40))
 
 
 def texto_materia(url):
+    """Pega o texto da matéria: corpo do JSON-LD, a tag <article> ou os parágrafos da página (o mais completo)."""
     try:
         r = requests.get(url, headers=UA, timeout=25)
         r.raise_for_status()
         sopa = BeautifulSoup(r.text, "html.parser")
+        opcoes = []
+        for s in sopa.find_all("script", type="application/ld+json"):
+            try:
+                dados = json.loads(s.string or "")
+            except Exception:
+                continue
+            fila = [dados]
+            while fila:
+                d = fila.pop()
+                if isinstance(d, dict):
+                    if isinstance(d.get("articleBody"), str):
+                        opcoes.append(limpar_html(d["articleBody"], 9000))
+                    fila += [v for v in d.values() if isinstance(v, (dict, list))]
+                elif isinstance(d, list):
+                    fila += d
         for t in sopa(["script", "style", "nav", "footer", "header", "aside", "form"]):
             t.decompose()
-        ps = [p.get_text(" ", strip=True) for p in sopa.find_all("p")]
-        txt = " ".join(p for p in ps if len(p) > 40)
-        return re.sub(r"\s+", " ", txt)[:7000]
+        art = sopa.find("article")
+        if art:
+            opcoes.append(_paragrafos(art))
+        opcoes.append(_paragrafos(sopa))
+        if max(map(len, opcoes)) < 800:
+            # sites que não usam <p>: bloco de conteúdo com mais texto
+            blocos = sopa.find_all(["div", "section"], class_=re.compile(r"texto|conteudo|content|materia|article|post|entry|body", re.I))
+            opcoes += [re.sub(r"\s+", " ", b.get_text(" ", strip=True)) for b in blocos]
+        return max(opcoes, key=len)[:9000]
     except Exception:
         return ""
 
@@ -224,7 +286,8 @@ def triagem(seg, candidatos, recentes):
 
 MODELO_DOC = {
     "titulo": "até 14 palavras", "resumo": "1 a 2 frases, até 35 palavras",
-    "fatos": ["3 a 6 frases curtas com fatos e números que estão na fonte"],
+    "fatos": ["5 a 8 frases curtas com os fatos concretos da fonte: números, valores, datas, quem decidiu, quem é afetado, prazos"],
+    "explicacao": ["3 a 5 frases explicando o contexto: por que aconteceu, como funciona na prática e o que muda para a pessoa, só com o que está na fonte"],
     "numeros": [{"valor": "só números da fonte, ex: 75 a 1", "rotulo": "ex: votos no Senado"}],
     "categoria": "uma da lista", "publico": ["da lista"], "dor": "até 14 palavras: o que essa pessoa perde ou teme",
     "angulo": "até 40 palavras: como a notícia vira conteúdo que leva a pessoa a querer conhecer o serviço, sem prometer ganhos",
@@ -262,7 +325,7 @@ def corta(s, n):
 def validar(seg, d, c, pot, coleta):
     if not d or d.get("suficiente") is False:
         return None
-    fatos = [str(f) for f in (d.get("fatos") or []) if str(f).strip()][:6]
+    fatos = [str(f) for f in (d.get("fatos") or []) if str(f).strip()][:8]
     if len(fatos) < 2:
         return None
     cat = d.get("categoria") if d.get("categoria") in CATEGORIAS[seg] else CATEGORIAS[seg][-1 if seg == "trader" else 0]
@@ -273,6 +336,8 @@ def validar(seg, d, c, pot, coleta):
     doc = {
         "segmento": seg, "titulo": corta(d.get("titulo") or c["titulo"], 14), "resumo": corta(d.get("resumo"), 35),
         "fatos": fatos,
+        "explicacao": [str(f) for f in (d.get("explicacao") or []) if str(f).strip()][:5],
+        "materia": re.sub(r"\s+", " ", c.get("texto") or "").strip()[:4000],
         "numeros": [{"valor": str(n.get("valor", "")), "rotulo": str(n.get("rotulo", ""))}
                     for n in (d.get("numeros") or []) if isinstance(n, dict) and n.get("valor")][:6],
         "fonte": fonte, "categoria": cat, "publico": pub, "dor": corta(d.get("dor"), 14),
@@ -280,7 +345,7 @@ def validar(seg, d, c, pot, coleta):
         "ideias": [str(i) for i in (d.get("ideias") or [])][:3], "formatos": fmt, "cena": cena,
         "potencial": pot, "status": "nova", "coletadoEm": iso(coleta),
     }
-    if c["direto"] and c["url"]:
+    if c["url"]:
         doc["url"] = c["url"]
     else:
         doc["url"] = "https://www.google.com/search?q=" + quote_plus(f"{c['titulo']} {fonte}")
@@ -327,7 +392,15 @@ def main():
             destaques = []
             for esc in escolhidas:
                 c = esc["c"]
-                texto = texto_materia(c["url"]) if c["direto"] and c["url"] else ""
+                if not c["direto"] and c.get("gnews"):
+                    real = link_real(c["gnews"])
+                    if real and real in urls:
+                        continue  # a mesma matéria já virou pauta
+                    c["url"] = real
+                texto = texto_materia(c["url"]) if c["url"] else ""
+                if len(c.get("conteudo") or "") > len(texto):
+                    texto = c["conteudo"]
+                c["texto"] = texto
                 try:
                     alvo = ids.get(esc["atualiza"]) if esc["atualiza"] else None
                     if alvo:

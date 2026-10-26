@@ -870,8 +870,12 @@ $("btnAtualizar").onclick=async()=>{
  finally{setTimeout(()=>$("btnAtualizar").disabled=false,20000);}};
 
 /* ================= CARROSSEL ================= */
+/* cada carrossel novo começa no modelo seguinte ao do anterior, para o feed não ficar repetido */
+function proxLayout(seg,base){const ks=Object.keys(LAYOUTS);let u="";try{u=localStorage.getItem("radar-ultimo-layout-"+seg)||"";}catch(e){}
+ const lay=u&&ks.includes(u)?ks[(ks.indexOf(u)+1)%ks.length]:(ks.includes(base)?base:ks[0]);
+ try{localStorage.setItem("radar-ultimo-layout-"+seg,lay);}catch(e){}return lay;}
 function novoDeck(p){const M=marcaDe(SEG);
- deck={id:db?db.collection("carrosseis").doc().id:"local"+Date.now(),seg:SEG,pautaId:p.id,pauta:{titulo:p.titulo,fonte:p.fonte,url:p.url,data:p.data},tema:M.tema||SEGS[SEG].tema,n:7,publico:(p.publico||[])[0]||SEGS[SEG].publicos[0],opts:{idx:true,tk:true},
+ deck={id:db?db.collection("carrosseis").doc().id:"local"+Date.now(),seg:SEG,pautaId:p.id,pauta:{titulo:p.titulo,fonte:p.fonte,url:p.url,data:p.data},tema:proxLayout(SEG,M.tema||SEGS[SEG].tema),n:7,publico:(p.publico||[])[0]||SEGS[SEG].publicos[0],opts:{idx:true,tk:true},
   capa:{cena:p.cena&&CENAS[p.cena]?p.cena:"queda",labels:[]},slides:localSlides(p),legenda:legendaLocal(p,SEG),criadoEm:nowISO()};
  PAUTA_ATUAL=p;cur=0;showTab("carrossel");renderEditor();if(sample)gerar();else setStatus("genStatus","A IA não está disponível aqui. Montei um rascunho com a notícia; edite à vontade.");}
 let PAUTA_ATUAL=null;
@@ -973,7 +977,7 @@ let genCtl=null;
 function sampleErr(e){const c=e?.code;if(c==="no_key")return "Coloque sua chave da OpenAI na aba Marca para usar a IA.";if(c==="bad_key")return "A OpenAI recusou a chave. Confira a chave na aba Marca.";if(c==="network")return "Sem conexão com a OpenAI. Tente de novo.";if(["not_granted","sampling_disabled","capability_disabled","not_declared"].includes(c)){return "A IA não foi liberada nesta visualização. Libere em Permissões do artifact.";}
  if(c==="rate_limited")return "Muitos pedidos seguidos. Espere um minuto e tente de novo.";if(c==="cancelled"||e?.name==="AbortError")return "Geração parada.";return "A IA não respondeu direito desta vez. Tente de novo.";}
 function pautaTxt(p){if(!p)return `Notícia: ${deck.pauta?.titulo||""} (${deck.pauta?.fonte||""}).`;
- return `TÍTULO: ${p.titulo}\nFONTE: ${p.fonte} · ${p.data||""} · ${p.url||""}\nRESUMO: ${p.resumo||""}\nFATOS CONFIRMADOS:\n${(p.fatos||[]).map(f=>"- "+f).join("\n")}\nNÚMEROS DA FONTE: ${(p.numeros||[]).map(n=>`${n.valor} (${n.rotulo})`).join("; ")||"nenhum além dos fatos"}\nQUEM SENTE: ${(p.publico||[]).join(", ")} · DOR: ${p.dor||""}\nÂNGULO SUGERIDO: ${p.angulo||""}`;}
+ return `TÍTULO: ${p.titulo}\nFONTE: ${p.fonte} · ${p.data||""} · ${p.url||""}\nRESUMO: ${p.resumo||""}\nFATOS CONFIRMADOS:\n${(p.fatos||[]).map(f=>"- "+f).join("\n")}\nNÚMEROS DA FONTE: ${(p.numeros||[]).map(n=>`${n.valor} (${n.rotulo})`).join("; ")||"nenhum além dos fatos"}\nQUEM SENTE: ${(p.publico||[]).join(", ")} · DOR: ${p.dor||""}\nÂNGULO SUGERIDO: ${p.angulo||""}${(p.explicacao||[]).length?`\nCOMO FUNCIONA / CONTEXTO:\n${p.explicacao.map(f=>"- "+f).join("\n")}`:""}${p.materia?`\nTEXTO DA MATÉRIA (fonte real; use os detalhes daqui para explicar, sem inventar nada fora dele):\n${p.materia}`:""}`;}
 const REGRAS=`REGRAS: nunca invente números, percentuais, datas, votos, leis ou fontes; use só o que está na notícia. Se faltar número para um tipo que pede número, use outro tipo. Não prometa ganhos, não diga "fique rico", não recomende ativo nenhum, não ataque pessoas nem partidos (trate governo e leis pelo efeito no bolso). Linguagem de Instagram em português do Brasil, direta, frases curtas, sem cara de coach.`;
 function cw(t,n){t=String(t??"").trim();const w=t.split(/\s+/);if(w.length<=n)return t;let r=w.slice(0,n).join(" ").replace(/[,;:.–-]+$/,"");if((r.match(/\*/g)||[]).length%2)r=r.replace(/\*([^*]*)$/,"$1");return r+"…";}
 function limita(s){const L={titulo:s.tipo==="capa"?10:8,sub:26,eyebrow:5,rotulo:4,legenda:7,texto:s.tipo==="texto"?50:40,intro:20,statTexto:18,fecho:22,frase:16,fonte:8,notasTitulo:3,colA:3,colB:3};
@@ -997,6 +1001,7 @@ NOTÍCIA:
 ${pautaTxt(PAUTA_ATUAL)}
 
 TAREFA: escreva ${n-1} slides de conteúdo (o slide final de CTA é automático; não escreva). Arco: capa que gera choque ou curiosidade no público → fatos e impacto com os dados da notícia → último slide de conteúdo do tipo "passos" com a estratégia, que leva naturalmente para a oferta sem vender de forma direta.
+PROFUNDIDADE: o carrossel precisa EXPLICAR a notícia de verdade, como um jornalista didático: o que aconteceu, por que, como funciona na prática, números, valores, datas, prazos, quem decidiu e quem é afetado, e o que muda no dia a dia do público. Use nomes, valores e detalhes concretos do TEXTO DA MATÉRIA e dos FATOS; nada de frases genéricas como "fique atento" ou "o mercado está mudando". Cada slide traz uma informação nova, sem repetir a anterior. Prefira os tipos fato, comparativo, impacto e alerta quando houver números; use texto para explicar o contexto.
 TIPOS (campos exatos):
 - capa: {"tipo":"capa","ticker":[...],"eyebrow":"PÚBLICO · SETOR","titulo":"até 9 palavras, \\n quebra linha, 1 trecho entre *asteriscos*","sub":"até 22 palavras com 1 trecho **negrito**","cena":"uma de: ${Object.keys(CENAS).join(", ")}","labels":[{"t":"CUSTO ▲","c":"a|neg|sub"}] (2 ou 3)}
 - fato: {"tipo":"fato","ticker":[...],"rotulo":"// O FATO","titulo":"até 6 palavras","numero":"curto, ex 75*×*1 ou *R$* 1,2 tri","legenda":"ex VOTOS · DOIS TURNOS · 14.10.2026","texto":"até 40 palavras","fonte":"Fonte: ..."}
