@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-26T12:34:09-03:00",
+  "ultimaColeta": "2026-10-26T13:20:21-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Mudanças na jornada de trabalho e o impacto no bolso; Fim da escala 6x1: como se adaptar?; CDL/BH pede adiamento do fim da escala 6x1.",
+  "mensagem": "4 pauta(s) nova(s): Lei dá nova oportunidade aos microempresários; Fim da escala 6x1: mudanças significativas para trabalhadores; Fim da escala 6x1: mudanças na jornada de trabalho.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-10-26T13:20:21-03:00",
    "2026-10-26T12:34:09-03:00",
    "2026-10-26T10:20:19-03:00",
    "2026-10-26T09:16:42-03:00",
@@ -18,19 +19,19 @@
    "2026-10-24T20:50:10-03:00",
    "2026-10-24T15:31:26-03:00",
    "2026-10-24T10:40:44-03:00",
-   "2026-10-23T21:06:33-03:00",
-   "2026-10-23T16:42:12-03:00"
+   "2026-10-23T21:06:33-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-26T12:34:09-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-10-26T13:20:21-03:00",
+  "novas": 9,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Mercado reage e você pode ser afetado; Azul financia até R$ 2 bilhões para combustível; Selic alta pode pressionar crédito em 2027.",
+  "mensagem": "9 pauta(s) nova(s): A queda da bolsa e a pressão no seu negócio; Queda do Ibovespa e as novas estratégias de marketing; Milhões em jogo: a importância da IA nos negócios.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-10-26T13:20:21-03:00",
    "2026-10-26T12:34:09-03:00",
    "2026-10-26T10:20:19-03:00",
    "2026-10-26T09:16:42-03:00",
@@ -41,8 +42,7 @@
    "2026-10-24T20:50:10-03:00",
    "2026-10-24T15:31:26-03:00",
    "2026-10-24T10:40:44-03:00",
-   "2026-10-23T21:06:33-03:00",
-   "2026-10-23T16:42:12-03:00"
+   "2026-10-23T21:06:33-03:00"
   ]
  }
 }

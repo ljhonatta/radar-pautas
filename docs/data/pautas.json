@@ -1,6 +1,525 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Novo foco de Newcastle impacta o setor avícola em SC",
+  "resumo": "O Ministério da Agricultura confirmou um novo foco da doença de Newcastle, alertando sobre o impacto nas vendas avícolas. O cenário exige estratégias de marketing adequadas para minimizar as perdas.",
+  "fatos": [
+   "Foi identificado um novo foco da doença de Newcastle em Coronel Freitas, SC.",
+   "A ocorrência foi confirmada em 24 de outubro de 2026.",
+   "As medidas de contenção e despovoamento sanitário das aves já começaram.",
+   "A vigilância na área de restrição foi intensificada após o primeiro caso em Nova Itaberaba, SC, em 18 de outubro de 2026.",
+   "O estado de emergência zoossanitária foi declarado por 60 dias para várias cidades da região."
+  ],
+  "explicacao": [
+   "A detecção do novo foco de Newcastle afeta diretamente o setor avícola, levando a restrições comerciais.",
+   "O estado de emergência implica em controle rígido, que pode reduzir a oferta e elevar preços.",
+   "Agricultores e empresários precisam se adaptar e fortalecer sua presença online para mitigar as perdas, especialmente no e-commerce e nas redes sociais."
+  ],
+  "materia": "O Ministério da Agricultura e Pecuária (Mapa) confirmou a identificação de um novo foco da doença de Newcastle em um estabelecimento avícola em Coronel Freitas (SC). A ocorrência foi registrada dentro da área de restrição sanitária estabelecida após o primeiro caso na região e já consta na plataforma de acompanhamento de Síndrome Respiratória e Nervosa das Aves do Ministério da Agricultura com data de sábado, 24. Segundo o ministério, a detecção ocorreu durante as ações de vigilância intensificada realizadas na área de emergência sanitária. O Serviço Veterinário Oficial iniciou as medidas previstas nos protocolos de resposta a emergências zoossanitárias, incluindo investigação epidemiológica, vigilância e contenção da doença. O processo de despovoamento sanitário das aves da propriedade também já foi iniciado. Em virtude da proximidade entre o novo estabelecimento e a propriedade em que foi identificado o primeiro foco, houve apenas um pequeno ajuste na área de restrição, que permanece sob vigilância. O Ministério da Agricultura destacou, ainda, que, em ocorrência sem relação epidemiológica com os focos em aves comerciais, o Serviço Veterinário Oficial também confirmou a infecção pelo paramixovírus aviário tipo 1 (PPMV-1) em pombos localizados fora da área de emergência sanitária. De acordo com as definições da Organização Mundial de Saúde Animal (OMSA), essa detecção em pombos não configura um foco de doença de Newcastle. O foco inicial na região foi confirmado pelo Mapa em 18 de outubro de 2026, em um estabelecimento comercial de criação de perus de corte em Nova Itaberaba (SC). Na sequência, a Portaria Mapa nº 962/2026 declarou estado de emergência zoossanitária por 60 dias nos municípios de Nova Itaberaba, Águas Frias, Coronel Freitas e Nova Erechim, para intensificar as ações de vigilância e controle sanitário. Com informação do Estadão de Conteúdo. Imagem: Shutterstock Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "60 dias",
+    "rotulo": "duração do estado de emergência zoossanitária"
+   },
+   {
+    "valor": "2",
+    "rotulo": "focos confirmados de Newcastle"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perdas financeiras e diminuição nas vendas avícolas",
+  "angulo": "Com a nova restrição, é imperativo para os empresários implementarem uma estratégia de marketing eficaz, visando otimizar suas vendas através de canais digitais.",
+  "gancho": "Novos *desafios* para o setor avícola em SC",
+  "ideias": [
+   "Como a doença de Newcastle afeta sua venda?",
+   "Estratégias de marketing durante crises sanitárias",
+   "Importância da presença online no setor avícola"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/economia/agricultura-constata-segundo-foco-de-newcastle-em-area-de-restricao-sanitaria-de-sc/",
+  "publicadoEm": "2026-10-26T12:11:53-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-27"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inovação e Marketing: a chave para o sucesso empresarial",
+  "resumo": "O Tech Summit 2026 em Itajaí visa conectar empresas e o setor público na busca por soluções inovadoras. É uma oportunidade para negócios posicionarem-se em um ecossistema colaborativo.",
+  "fatos": [
+   "O Tech Summit 2026 acontece em Itajaí, no dia 24/11.",
+   "O evento reúne gestores públicos, empresários, e especialistas para discutir inovação e GovTech.",
+   "A 4ª edição celebra 20 anos do NuTI e 3 anos do Elume Park.",
+   "Programação inclui temas sobre saúde digital, educação e cidades inteligentes.",
+   "O evento contempla um Investor Meeting e uma feira de negócios.",
+   "José Geraldo Castaldi destaca a importância de conectar pessoas e empresas para transformar inovação em resultados."
+  ],
+  "explicacao": [
+   "O evento é uma plataforma crucial para empresários interessados em inovação e tecnologia.",
+   "Ao reunir o setor público e privado, promove discussões voltadas à modernização da gestão e aumento da competitividade local.",
+   "Empresas presentes podem expor soluções, ampliar visibilidade e gerar oportunidades de negócios.",
+   "Como as discussões se concentram em soluções concretas, os empresários são incentivados a investir em suas estratégias de marketing."
+  ],
+  "materia": "Itajaí recebe, no dia 24/11, o Tech Summit 2026 , encontro regional de inovação e GovTech que reunirá gestores públicos, empresários, startups, investidores e especialistas para debater soluções tecnológicas voltadas à modernização da gestão pública e ao desenvolvimento de cidades inteligentes. Com o tema “Governos Inteligentes para Territórios Inovadores” , o evento será realizado no Elume Park, das 8h às 20h, com happy hour até as 23h. A iniciativa é promovida pelo NuTI – ACII / Polo Regional da Foz do Rio Itajaí da ACATE, em correalização com o Elume Park. A 4ª edição do evento também celebra os 20 anos do NuTI e o 3º aniversário do Centro Regional de Inovação Elume Park. Como a inteligência artificial, a transformação digital e o uso estratégico de dados podem melhorar os serviços públicos e gerar novas oportunidades para empresas e cidadãos? Essa será uma das questões centrais do Tech Summit 2026, que busca aproximar o poder público, a iniciativa privada e o ecossistema de inovação para transformar desafios em soluções concretas. A programação abordará temas como saúde digital, educação, defesa civil, portos, logística e cidades inteligentes, com foco no compartilhamento de conhecimento, na criação de parcerias e no desenvolvimento de iniciativas capazes de fortalecer a competitividade e a qualidade de vida na região. O Tech Summit 2026 também marca duas décadas de atuação do NuTI – Núcleo de Tecnologia e Inovação da ACII, que, como Polo Regional da Foz do Rio Itajaí da ACATE , contribui para aproximar empresas, startups, universidades e poder público, fortalecendo o ecossistema regional de inovação. Para José Geraldo Castaldi, coordenador do NuTI – ACII e diretor do Polo Regional da Foz do Rio Itajaí da ACATE, o evento representa a continuidade desse trabalho e uma oportunidade de ampliar o impacto da inovação na região. “O nosso propósito sempre foi conectar pessoas, empresas e instituições para transformar a inovação em resultados concretos. O Tech Summit amplia essa missão, criando um ambiente para compartilhar conhecimento, desenvolver parcerias e encontrar soluções que contribuam para o crescimento da nossa região e para a qualidade de vida das pessoas”, destaca Castaldi. A programação será dividida em quatro trilhas temáticas — Liderança Pública, Tecnologia & GovTech, Cidades Inteligentes e Economia Azul & Logística Inteligente —, com plenárias e talks que reunirão especialistas e lideranças dos setores público e privado. O evento também contará com o Investor Meeting, para aproximar startups, investidores e aceleradoras, e uma feira de negócios com exposição de soluções tecnológicas. Além disso, o networking e o happy hour serão oportunidades para fortalecer relacionamentos, gerar novas oportunidades e impulsionar parcerias. O Tech Summit 2026 também abre espaço para empresas de tecnologia, organizações inovadoras e cooperativas de crédito interessadas em ampliar sua visibilidade, apresentar soluções e estabelecer conexões com potenciais clientes, parceiros e lideranças estratégicas. “Queremos que as empresas participem ativamente da construção desse futuro. Estar no Tech Summit é fortalecer a própria marca e, ao mesmo tempo, contribuir para um ecossistema mais colaborativo, competitivo e preparado para gerar novos negócios”, reforça Castaldi. Empresas interessadas em patrocinar ou expor suas soluções podem entrar em contato com a gestão do NuTI para conhecer as oportunidades de participação. Ingressos e informações podem ser conferidos aqui. Revisão por Zacarias John, membro da equipe do AcontecendoAqui. Entre em contato com o AcontecendoAqui se tiver interesse em divulgar seus trabalhos para a Comunidade AcontecendoAqui. Envie um e-mail para redacao@acontecendoaqui.com.br Ao entrar neste grupo do WhatsApp, você concorda com os termos e política de privacidade aplicáveis. Ao entrar neste grupo do WhatsApp, você concorda com os termos e política de privacidade aplicáveis. Foto: DivulgaçãoPublicidade O LIDE SC prom",
+  "numeros": [
+   {
+    "valor": "24/11",
+    "rotulo": "Data do evento"
+   },
+   {
+    "valor": "20 anos",
+    "rotulo": "Aniversário do NuTI"
+   },
+   {
+    "valor": "3 anos",
+    "rotulo": "Aniversário do Elume Park"
+   }
+  ],
+  "fonte": "Acontecendo Aqui",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de visibilidade e oportunidades de negócio",
+  "angulo": "Participar de eventos como o Tech Summit é vital para empresários que buscam estar à frente da concorrência e entender as novidades do mercado.",
+  "gancho": "Como *a inovação pode impulsionar seu negócio*",
+  "ideias": [
+   "Empreendedores: o que o Tech Summit pode fazer por você?",
+   "A importância da inovação para a competitividade",
+   "Participe do Tech Summit e transforme sua empresa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "congresso",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://acontecendoaqui.com.br/empreendedorismo/tech-summit-reune-setor-publico-e-empresas-para-discutir-inovacao-em-itajai/",
+  "publicadoEm": "2026-10-26T11:57:43-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-26"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Consumo fora do lar: 39% dos gastos em alimentos",
+  "resumo": "Consumo fora do lar cresce, agora representando 39% dos gastos em bens de consumo rápido. O estudo aponta marcas como Bauducco e Arcor em destaque.",
+  "fatos": [
+   "O consumo fora do lar representa 39% dos gastos em bens de consumo rápido no Brasil.",
+   "Houve um aumento de 21% nas ocasiões de consumo e de 20,9% na frequência.",
+   "A participação da base de compradores variou apenas 0,1% no mesmo período.",
+   "Bauducco, Arcor e Lacta são as marcas líderes na categoria de alimentos.",
+   "58% das marcas analisadas tiveram crescimento em Consumer Reach Points (CRP), contra 77% no período anterior.",
+   "A Geração Y representa 39% do consumo fora do lar, a maior parcela entre os grupos."
+  ],
+  "explicacao": [
+   "Esse crescimento no consumo fora do lar pode ser entendido como resultado da ampliação das ocasiões e da recorrência de compras, em vez da entrada de novos consumidores.",
+   "Marcas podem crescer tanto recrutando novos compradores quanto aumentando a frequência de compra dos consumidores já conquistados.",
+   "O desafio para os empresários é entender os contextos que geram novas escolhas entre os consumidores, utilizando as informações do estudo para melhorar estratégias."
+  ],
+  "materia": "Estudo da Worldpanel by Numerator mostra alta de 21% nas ocasiões de consumo e aponta Bauducco, Arcor e Lacta entre as marcas mais escolhidas em alimentos O consumo fora do lar já representa 39% de todo o valor gasto em bens de consumo rápido no Brasil, segundo a edição 2026 do estudo Brand Footprint Out of Home, da Worldpanel by Numerator. O índice avançou 1,1 ponto percentual em relação ao período anterior e acompanha uma alta de 21% nas ocasiões de consumo e de 20,9% na frequência. Já a base de compradores variou apenas 0,1%. Na prática, o crescimento do mercado está vindo muito mais da ampliação das ocasiões e da recorrência do que da entrada de novos consumidores. Bauducco, Arcor e Lacta lideram em alimentos Na cesta de alimentos industrializados, o estudo identificou crescimento de 22% em Consumer Reach Points, o CRP, indicador que combina universo de consumidores, penetração e frequência de compra. Bauducco aparece na liderança entre as marcas mais escolhidas, seguida por Arcor e Lacta. O levantamento também mostra que o crescimento ficou mais seletivo. Entre as marcas analisadas, 58% avançaram em CRP, ante 77% no período anterior. Dentro desse grupo, 43% cresceram combinando maior penetração e frequência, 31% avançaram apenas por frequência e 26% apenas por penetração. Crescer pode significar recrutar ou aumentar recorrência Os dados reforçam que não existe uma única estratégia de crescimento no consumo fora do lar. Danone e Piraquê, por exemplo, avançaram principalmente por frequência. Vitarella e Negresco, por outro lado, combinaram aumento de penetração e recorrência. Isso significa que algumas marcas conseguem crescer levando mais pessoas a comprar, enquanto outras ampliam resultado fazendo com que consumidores já conquistados comprem com maior frequência. A Fini aparece como um dos exemplos mais claros de crescimento via recrutamento. A penetração chegou a 16,8%, alta de 9,9 pontos percentuais. Ao mesmo tempo, o número de ocasiões por comprador ficou em 1,1, com queda de 0,2. O principal momento de consumo da marca é o lanche da tarde, com 44,4%, seguido pelo período antes do almoço ou aperitivo, com 18,1%. O sabor aparece como principal razão de escolha, citado por 46%. A penetração chegou a 11,4%, com avanço de 0,3 ponto percentual, enquanto o número de ocasiões por comprador subiu para 2,3, alta de 0,6. O lanche da tarde também lidera entre os momentos de consumo, com 40,3%. Depois do jantar ou durante a madrugada representa 5,2%. Entre os motivos de escolha, sabor aparece com 36,8%, enquanto falta de opção representa 26,1%. Geração Y concentra maior parcela do consumo fora do lar O estudo também traça um perfil geracional do mercado. A Geração Y representa 39% dos indivíduos, a maior participação entre os grupos analisados. A Geração X aparece com 26%, seguida pela Geração Z, com 21%. A Geração Alpha representa 6%, enquanto os Boomers somam 7%. Esses percentuais dizem respeito ao conjunto do mercado fora do lar, e não à composição individual de cada marca. Para Renan Morais, diretor de novos negócios da Worldpanel by Numerator, o principal desafio está em entender os contextos que geram novas escolhas. “O brasileiro ampliou suas ocasiões de consumo, mas as marcas não crescem todas da mesma maneira”, afirma. Segundo ele, a Fini mostra a força do recrutamento de compradores, enquanto Bis combina penetração e frequência. A oportunidade, portanto, está em identificar momentos e necessidades específicos em que cada marca pode ganhar relevância. Os dados gerais comparam os 12 meses encerrados em junho de 2026 com o mesmo período de 2025. O Brand Footprint Out of Home 2026 analisa 150 marcas de 17 categorias de alimentos industrializados e bebidas não alcoólicas. A pesquisa utiliza uma amostra de 7 mil indivíduos, com cobertura nacional, representando aproximadamente 150 milhões de pessoas. A coleta é feita no momento da compra e contempla canais como restaurantes, lanchonetes, padarias, lojas de conveniência e autos",
+  "numeros": [
+   {
+    "valor": "39",
+    "rotulo": "percentual de gastos fora do lar"
+   },
+   {
+    "valor": "21",
+    "rotulo": "percentual de aumento nas ocasiões de consumo"
+   },
+   {
+    "valor": "20,9",
+    "rotulo": "percentual de aumento na frequência de consumo"
+   },
+   {
+    "valor": "58",
+    "rotulo": "percentual de marcas com crescimento em CRP"
+   }
+  ],
+  "fonte": "Adnews",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "perda de oportunidades de vendas no crescimento do consumo",
+  "angulo": "Entenda como a análise do comportamento do consumidor pode direcionar sua estratégia de marketing e impulsionar suas vendas no competitivo mercado atual.",
+  "gancho": "O que fazer com *39% do consumo* fora de",
+  "ideias": [
+   "Você conhece o *consumo fora do lar*?",
+   "Como a *Geração Y* impacta suas vendas?",
+   "Estratégias para aumentar *suas vendas fora de casa*"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://adnews.com.br/post/consumo-fora-do-lar-ja-representa-39-dos-gastos-com-bens-de-consumo-rapido",
+  "publicadoEm": "2026-10-26T10:27:19-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-25"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Nova jornada de trabalho exige adaptação imediata dos empresários",
+  "resumo": "Com a nova regra que acaba com a escala 6×1, micro e pequenos negócios precisam se adaptar à escala 5×2. Aprender com experiências prévias pode ser um diferencial importante.",
+  "fatos": [
+   "A nova regulamentação reduz a jornada de trabalho de 44 para 42 horas e, posteriormente, para 40 horas semanais.",
+   "A mudança começa em meados de dezembro e será implementada em duas etapas.",
+   "51% dos proprietários de micro e pequenas empresas acreditam que a mudança não impactará seus negócios.",
+   "O Sebrae lançou o simulador Escala Sebrae para auxiliar na transição para a nova jornada.",
+   "Empresários como Fernando Bakker e Marcos Silva afirmam que a escala 5×2 não afetou negativamente o faturamento de seus estabelecimentos."
+  ],
+  "explicacao": [
+   "A recente mudança na legislação visa melhorar as condições de trabalho dos colaboradores.",
+   "Micro e pequenos negócios agora devem redirecionar suas rotinas e planejamento para atender à nova escala.",
+   "É crucial conhecer as experiências de quem já implementou a escala 5×2 para evitar perdas financeiras.",
+   "A adaptabilidade e um bom planejamento são essenciais para garantir que a transição não impacte a operação."
+  ],
+  "materia": "Com a nova regra constitucional que acabou com a escala 6×1 e reduziu a jornada de trabalho para 40 horas semanais no país, donos de micro e pequenos negócios estudam como irão se adequar à lei. Conhecer a experiência de quem já funcionava na escala 5×2, antes mesmo da alteração na lei, é um dos pontos que podem ajudar. Negociar com a equipe, mapear dias e turnos de movimento menor, readequar escalas e estar disposto a mudar rotinas são algumas das dicas apontadas. A Civitá é uma cafeteria brasiliense especializada em cafés especiais e pães de fermentação natural. Está há 12 anos no mercado e abre todos os dias, oferecendo brunch aos clientes nos fins de semana. Desde maio deste ano, o pequeno negócio atua em escala de cinco dias de trabalho com dois dias de folga. “No início foi meio confuso, mas hoje funciona muito bem. Vejo que a equipe está mais satisfeita e não houve queda de faturamento”, ressalta o sócio Fernando Bakker. “Trabalhador mais descansado é equipe mais empenhada e resultados melhores”, resume. Entre as dicas do empreendedor, está a velha e boa conversa com os colaboradores, começando pelas lideranças. Redesenhe as rotinas. Mas não há uma orientação única: cada operação vai requerer um cuidado específico. O importante é partir da premissa de que é necessário fazer. Executar a escala melhor para os funcionários é uma maneira de reconhecer a importância do descanso como parte da evolução da empresa. Fernando Bakker A experiência de Fernando encontra respaldo na Pesquisa Pulso dos Pequenos Negócios , realizada pelo Sebrae, na qual mais da metade (51%) dos donos de micro e pequenas empresas e dos microempreendedores individuais (MEI) avalia que o fim da escala de trabalho 6×1 não terá impacto sobre seus negócios. A implementação da nova regra, aprovada pelo Congresso na última semana, ocorrerá em duas etapas: a primeira terá início em meados de dezembro, garantindo dois dias de repouso remunerado por semana e reduzindo a jornada de trabalho de 44 para 42 horas semanais. Depois de um ano e dois meses, a carga horária será oficialmente reduzida de 42 para 40 horas semanais, estabelecendo a escala 5×2 . Para apoiar os empreendedores, o Sebrae lançou o simulador Escala Sebrae para ajudar os pequenos negócios na transição ao novo regime de trabalho, de 5×2. A ferramenta indica como distribuir os funcionários nos dias de trabalho, possíveis alterações de horários, indicação de contratações, sugestão de atuação com freelancers, pagamentos de horas extras, dependendo de cada caso. Escala 5×2 não afetou faturamento do restaurante Dona Marla | Foto: O Restaurante Dona Marla – Comida de Mãe, na região do ABC, em São Paulo, atua na escala 5×2 desde que abriu, em 2023. Marcos Silva, chef que comanda o estabelecimento, conta que o faturamento, a despeito de mais horas de descanso para os trabalhadores, não sofreu solavancos. “Percebemos que nosso faturamento só aumenta. Tínhamos 42 lugares no nosso espaço e mais que dobramos de tamanho”, comentou. “Tiro por experiência própria que, quando se adere a uma jornada 5×2, você tem um colaborador mais presente e mais disposto. Acredito que a nova jornada é benéfica, pois o empresário terá um colaborador mais descansado”, afirma o chef. Marcos Silva diz que planejamento e uma boa negociação com os colaboradores são medidas fundamentais para este momento de transição previsto pela legislação. “É necessário averiguar os dias da semana de baixo movimento, medir para ver se está valendo a pena realmente abrir naquele dia e fazer a alteração da carga horária dos profissionais”, aponta. A Civitá é uma cafeteria brasiliense especializada em cafés especiais e pães de fermentação natural. Está há 12 anos no mercado e abre todos os dias, oferecendo brunch aos clientes nos fins de semana. Desde maio deste ano, o pequeno negócio atua em escala de cinco dias de trabalho com dois dias de folga. “No início foi meio confuso, mas hoje funciona muito bem. Vejo que a equipe está mais satisfeita e não hou",
+  "numeros": [
+   {
+    "valor": "42 para 40",
+    "rotulo": "horas semanais após a mudança"
+   },
+   {
+    "valor": "51%",
+    "rotulo": "dos empresários que não esperam impacto negativo"
+   }
+  ],
+  "fonte": "Agência Sebrae",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "faturamento pode ser afetado por mudanças na jornada",
+  "angulo": "Compreender as novas legislações pode levar a ajustes importantes nos negócios. A gestão eficiente dessas mudanças é essencial para o sucesso.",
+  "gancho": "Adapte-se ao *fim da escala 6×1*",
+  "ideias": [
+   "A nova legislação e suas implicações",
+   "Como implementar a escala 5×2 na sua empresa",
+   "Experiências de sucesso: 5×2 em ação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://agenciasebrae.com.br/cultura-empreendedora/empresarios-que-ja-fazem-5x2-indicam-caminhos-desde-mapear-os-dias-fracos-ao-redesenho-de-rotinas/",
+  "publicadoEm": "2026-10-26T10:24:18-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-24"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "O impacto do e-commerce na arte amazonense",
+  "resumo": "A Made in Amazon facilita a conexão entre artesãos da Amazônia e o mercado nacional, destacando a importância de um e-commerce bem estruturado para impulsionar vendas e visibilidade.",
+  "fatos": [
+   "A Made in Amazon promove a arte e produtos da Amazônia no Brasil e no mundo.",
+   "O e-commerce busca destacar a qualidade dos produtos artesanais e modernos.",
+   "Artistas como Rita Prossi e Katula Garcia estão atingindo um público mais amplo por meio da plataforma.",
+   "O uso de fibras indígenas, como o arumã, é um exemplo de inovação em biojoias.",
+   "A plataforma funciona como uma ponte entre produtores locais e consumidores fora da região."
+  ],
+  "explicacao": [
+   "O e-commerce surge como uma solução para dar visibilidade a artistas e comunidades amazônicas.",
+   "A proposta é garantir que produtos artesanais alcancem um público mais exigente, unindo tradição e modernidade.",
+   "Isso demonstra que a gestão de um site e marketing digital são essenciais para o sucesso de negócios que dependem de visibilidade e planejamento."
+  ],
+  "materia": "Colar com pingente em madeira e cordão de fibras — Foto: Ekco Produções A Made in Amazon nasceu para ser mais do que uma loja virtual. A proposta do e-commerce é funcionar como ponte entre quem vive e produz na floresta e um público que dificilmente teria acesso a esse trabalho fora da região, dando visibilidade a artistas e comunidades amazonenses no restante do Brasil e do mundo. Transformar um produto da bioeconomia amazônica em ativo de mercado exige muito mais do que uma embalagem bonita. De acordo com Pamela Mota Oliveira, fundadora da plataforma, o caminho começa por um processo criterioso de curadoria. “Buscamos sempre ter um olhar muito cuidadoso, uma curadoria que mescla o contemporâneo com o artesanal. Sabemos que o cliente, seja turista ou não, é bem exigente quando se fala de qualidade. E as joias que trazem referências e identidade amazônica fazem um diferencial” , explica. Pulseira com pedras e pingente com grafismo — Foto: Ekco Produções O desafio, segundo ela, é mostrar que o artesanato e o moderno não são opostos. “Nosso objetivo é reforçar que nossos produtos, apesar de serem artesanais, podem ser utilizados de diversas formas, seja para compor um ambiente, uma joia, um look, uma receita. Que ele é moderno e atemporal” , observa. Da infância ribeirinha às primeiras joias Centro de mesa feito com insumos da floresta — Foto: Ekco Produções Uma das artistas parceiras que traduz essa proposta é Rita Prossi, designer de biojoias que transforma fibras e sementes da Amazônia em peças autorais, hoje com alcance fora do estado. “Nasci no Paraná da Eva, em Itacoatiara, numa infância ribeirinha, com contato profundo com a natureza. Nasci poetisa antes de tudo, e foi a poesia que me acompanhou até eu me tornar designer de joias e moda. Comecei no artesanato em São Paulo e, quando voltei para Manaus, montei uma joalheria dentro da Academia Cagim, onde criei os primeiros ícones da minha infância ribeirinha em joias: a canoa, o remo, a peneira, o abano, o arco e flecha, o sapé e a tartaruga” , conta Rita. As fibras e sementes que contam histórias Colar com pingente em marchetaria — Foto: Ekco Produções Foi pesquisando uma fibra resistente que pudesse substituir a corrente que Rita descobriu o arumã, fibra usada pelos indígenas, e não parou mais de trabalhar com ela. “O que conecta as minhas primeiras peças são as fibras e as sementes amazônicas, levando comigo a conexão da minha infância” , diz. Peça de Katula Garcia inspirada no Encontro das Águas — Foto: Ekco Produções Cocar bordado sobre folha, peça de Katula Garcia — Foto: Ekco Produções Também integra o grupo de artistas parceiros da Made in Amazon a artista têxtil Katula Garcia, que transforma técnicas manuais em peças autorais inspiradas na cultura amazônica. Para ela, ver o próprio trabalho ultrapassar as fronteiras do Amazonas resume o que a parceria representa. “Foi uma experiência muito emocionante e gratificante. Ver o meu trabalho ultrapassando as fronteiras do meu estado e chegando a pessoas de diferentes lugares através da Made in Amazon me trouxe uma sensação de realização e reconhecimento. Cada peça carrega um pouco da minha história, da minha criatividade e do carinho colocado em todo o processo artesanal. Saber que pessoas de outros estados valorizam e se identificam com o meu trabalho me motiva a continuar criando e a levar a arte têxtil cada vez mais longe” , conta Katula. A designer de biojoias Rita Prossi — Foto: Halley Costa É essa ponte, entre quem produz na floresta e quem está fora dela, que a Made in Amazon busca fortalecer a cada nova parceria. Confira as biojoias de Rita Prossi, as peças de Katula Garcia e toda a curadoria aqui e acompanhe as novidades no Instagram . Pamela Mota Oliveira, fundadora da Made in Amazon — Foto: Ekco Produções De segunda a sábado, as notícias que você não pode perder diretamente no seu e-mail. Para se inscrever, entre ou crie uma conta Globo gratuita. Mapa da virada: onde Lula avançou e como mudou a votação de Fláv",
+  "numeros": [],
+  "fonte": "G1",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de oportunidades em um mercado crescente",
+  "angulo": "Com a crescente demanda por produtos únicos, empresários podem se beneficiar de uma presença online e estratégias de marketing adequadas.",
+  "gancho": "Como *nossa arte pode alcançar novos mercados*",
+  "ideias": [
+   "Transforme sua arte em negócio online",
+   "A importância do e-commerce para artesãos",
+   "Como a Amazônia inspira o mercado nacional"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://g1.globo.com/am/amazonas/especial-publicitario/made-in-amazon-bioeconomia-da-floresta/noticia/2026/10/26/arte-da-amazonia-ganha-o-brasil-atraves-de-e-commerce-amazonense.ghtml",
+  "publicadoEm": "2026-10-26T11:00:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-23"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Itaú investe R$ 2,9 bilhões em IA com NeoSpace",
+  "resumo": "A aquisição da startup NeoSpace pelo Itaú visa aprimorar suas operações com inteligência artificial, mas depende da aprovação do Cade e do Banco Central.",
+  "fatos": [
+   "Itaú fechou acordo para comprar a NeoSpace por R$ 2,925 bilhões.",
+   "A empresa desenvolve modelos de IA usados em crédito e relacionamento com clientes.",
+   "O Itaú já tinha 15% de participação na NeoSpace desde janeiro de 2025.",
+   "Parte do valor da aquisição será paga na conclusão e o restante em cinco anos.",
+   "A operação deve ser aprovada pelo Cade e Banco Central para ser finalizada."
+  ],
+  "explicacao": [
+   "A compra do Itaú amplia seus investimentos em inteligência artificial, um setor em crescente importância para o mercado financeiro.",
+   "Com a NeoSpace, o Itaú poderá personalizar melhor seus serviços e otimizar processos internos.",
+   "A iniciativa reflete uma tendência do setor que busca inovação através da tecnologia, especialmente em um ambiente competitivo."
+  ],
+  "materia": "Aquisição amplia os investimentos do Itaú em inteligência artificial (ilustração: Vitor Pádua/Tecnoblog) Resumo O Itaú fechou acordo para adquirir a totalidade das ações da NeoSpace por R$ 2,925 bilhões. Startup já desenvolve modelos de IA usados em crédito, relacionamento com clientes e prevenção a fraudes. A operação depende da aprovação do Cade e do Banco Central antes de ser concluída. O Itaú Unibanco fechou um acordo para comprar a startup brasileira de inteligência artificial NeoSpace por R$ 2,925 bilhões. O banco pretende adquirir a totalidade das ações da companhia, com quem mantém uma parceria há quase dois anos. Segundo fato relevante enviado à Comissão de Valores Mobiliários (CVM), parte do valor será paga no fechamento da operação. O restante será desembolsado ao longo de cinco anos, sujeito às condições previstas no contrato. O que o Itaú ganha com a NeoSpace? A NeoSpace desenvolve modelos voltados a identificar padrões e relações em grandes volumes de informações. O Itaú pretende combinar essa tecnologia com seus próprios dados e conhecimento do setor financeiro para desenvolver modelos especializados. Entre as aplicações citadas pelo Itaú estão crédito, gestão financeira e personalização do relacionamento com clientes. Segundo o banco, a compra também deverá ajudar na evolução do ia.i, assistente de inteligência artificial generativa que começou a chegar ao aplicativo do Itaú neste ano . ia.i é a marca de inteligência artificial do Itaú (ilustração: Thássius Veloso/Tecnoblog) Itaú já tinha 15% da NeoSpace A relação entre as empresas vai além da parceria tecnológica. Em janeiro de 2025, o Itaú investiu US$ 15 milhões (cerca de R$ 74,5 milhões em conversão direta) para adquirir 15% da NeoSpace. O aporte fazia parte de uma rodada de US$ 18 milhões e foi acompanhado de um acordo comercial para o desenvolvimento de modelos de IA voltados ao banco. Mesmo depois da conclusão da compra, a NeoSpace deverá continuar operando de maneira autônoma. O CEO da empresa, Bruno Pierobon, permanecerá no cargo, e o Itaú afirma que pretende manter a equipe e as atividades de pesquisa e desenvolvimento. Negócio depende do Cade e BC A aquisição ainda não foi concluída. O contrato depende do cumprimento de condições previstas no acordo e da aprovação prévia do Conselho Administrativo de Defesa Econômica (Cade) e do Banco Central. A compra se soma aos investimentos do banco em inteligência artificial nos últimos anos. Além do ia.i, o Itaú já usa a tecnologia em ferramentas de investimentos, atendimento e serviços para empresas. Itaú compra startup de IA por R$ 2,9 bilhões",
+  "numeros": [
+   {
+    "valor": "R$ 2,925 bilhões",
+    "rotulo": "valor da aquisição"
+   },
+   {
+    "valor": "15%",
+    "rotulo": "participação anterior do Itaú na NeoSpace"
+   }
+  ],
+  "fonte": "Tecnoblog",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perda de competitividade no mercado moderno",
+  "angulo": "A aquisição do Itaú destaca a necessidade de empresas investirem em IA e automação para se manterem relevantes no mercado. Conheça como otimizar sua empresa com tecnologia.",
+  "gancho": "Itaú investe em *inteligência artificial*",
+  "ideias": [
+   "Como a IA pode transformar seu negócio?",
+   "Investindo em tecnologia: a chave para a competitividade",
+   "O futuro é IA: está sua empresa preparada?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://tecnoblog.net/noticias/itau-compra-startup-de-ia-por-r-29-bilhoes/",
+  "publicadoEm": "2026-10-26T12:21:54-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-22"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Milhões em jogo: a importância da IA nos negócios",
+  "resumo": "A compra da startup NeoSpace pelo Itaú por R$ 2,9 bilhões destaca a ascensão da Inteligência Artificial no setor financeiro. O banco visa otimizar serviços e personalização para seus clientes.",
+  "fatos": [
+   "O Itaú Unibanco anunciou a compra da NeoSpace por R$ 2,925 bilhões.",
+   "A transação envolve uma parte paga na conclusão e o restante em cinco anos, sujeito a condições.",
+   "A NeoSpace vem prestando serviços ao Itaú há quase dois anos.",
+   "O Itaú pretende utilizar a IA para melhorar gestão financeira e crédito.",
+   "A aquisição busca fortalecer as capacidades de Inteligência Artificial da instituição.",
+   "O CEO menciona a transformação e novas oportunidades de crescimento com IA."
+  ],
+  "explicacao": [
+   "O Itaú investiu em IA com a aquisição da NeoSpace, buscando potencializar suas operações financeiras.",
+   "Essa estratégia reflete a necessidade do setor em adotar tecnologias inovadoras para manter a competitividade.",
+   "A personalização de serviços será aprimorada, podendo levar a uma maior satisfação do cliente e, consequentemente, vendas."
+  ],
+  "materia": "O Itaú Unibanco anunciou nesta segunda-feira, 26, a compra da totalidade das ações da NeoSpace A.I. Technologies, startup brasileira especializada no desenvolvimento de grandes modelos fundacionais de dados. A transação foi fechada por R$ 2,925 bilhões, com uma parcela paga na conclusão do acordo e o restante diferido ao longo de cinco anos, sujeito a condições. A empresa presta serviços ao Itaú há quase dois anos, com modelos treinados em dados do próprio banco para ampliar o uso de Inteligência Artificial generativa no desenvolvimento de soluções para negócios e clientes, incluindo iniciativas de gestão financeira e de crédito. Em fato relevante enviado à Comissão de Valores Mobiliários (CVM), o Itaú afirma que a aquisição busca dar continuidade à relação com a NeoSpace e fortalecer capacidades proprietárias em Inteligência Artificial, além de acelerar a construção de competências consideradas fundamentais para o futuro. O banco também cita resultados obtidos em frentes como crédito, CRM (customer relationship management) e prevenção a fraudes. O banco diz ainda que a combinação das competências da NeoSpace com os dados, o conhecimento e a escala do Itaú cria condições para desenvolver modelos mais especializados e ampliar a aplicação da tecnologia a diferentes produtos e serviços. O documento informa ainda que a transação está ligada à evolução do “ia.i”, assistente de Inteligência Artificial generativa do Itaú, com a proposta de ampliar a individualização de experiências e oferecer interações e soluções mais contextualizadas às necessidades de cada cliente. “Queremos que o Itaú esteja entre as instituições que vão definir o próximo capítulo da indústria financeira global. O Brasil já demonstrou sua capacidade de estabelecer referências internacionais em inovação bancária, e temos a oportunidade de elevar esse patamar com inteligência artificial de fronteira”, destaca o CEO do Itaú Unibanco, Milton Maluhy Filho. Segundo o executivo, trata-se de uma transformação que abre novas avenidas de crescimento, amplia nossa capacidade de servir milhões de pessoas e empresas e redefine o valor que um banco pode gerar para seus clientes. “A aquisição da NeoSpace é um investimento estratégico nessa ambição. Ao reunir tecnologia fundacional, conhecimento financeiro e escala, estamos construindo as condições para desenvolver soluções que estabeleçam novos padrões de mercado, no Brasil e no mundo”, afirma Milton Maluhy Filho. Pelos termos divulgados, a gestão e a condução dos negócios da NeoSpace seguirão autônomas em relação à companhia, e a equipe será mantida, com continuidade das atividades e operações. A conclusão da operação depende do cumprimento de condições precedentes, incluindo aprovação pelo Conselho Administrativo de Defesa Econômica (Cade) e pelo Banco Central do Brasil, além de outras condições usuais para operações desse tipo. *Conteúdo elaborado com auxílio de Inteligência Artificial, revisado e editado pela Redação do Broadcast, sistema de notícias em tempo real do Grupo Estado Com informação do Estadão de Conteúdo (Beth Moreira). Imagem: Divulgação Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "R$ 2,925 bilhões",
+    "rotulo": "valor da compra"
+   },
+   {
+    "valor": "5 anos",
+    "rotulo": "prazo para pagamento restante"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perda de competitividade e relevância no mercado",
+  "angulo": "A crescente adoção da IA por grandes empresas mostra a importância de inovação para o sucesso. Conheça como a gestão eficaz de suas redes pode transformá-lo e torná-lo mais competitivo.",
+  "gancho": "*IA é o futuro* das empresas!",
+  "ideias": [
+   "Como a IA pode transformar seu negócio?",
+   "A importância da inovação em vendas.",
+   "O que a compra da NeoSpace ensina sobre o mercado."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/tecnologia/itau-unibanco-anuncia-compra-da-startup-de-ia-neospace-por-r-29-bilhoes/",
+  "publicadoEm": "2026-10-26T11:22:32-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-21"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Queda do Ibovespa e as novas estratégias de marketing",
+  "resumo": "A recente queda do Ibovespa após a reeleição de Lula indica instabilidade no mercado. Empresários precisam se adaptar e investir em marketing digital.",
+  "fatos": [
+   "Ibovespa caiu 16,4% no primeiro pregão após a reeleição de Lula, ativando o circuit breaker.",
+   "A queda afetou setores como Vamos e Magalu, que registraram perdas de 55%.",
+   "O dólar subiu 9,72%, alcançando R$ 5,46.",
+   "Historicamente, o Ibovespa caiu após quatro das seis eleições desde 2002, mas se recuperou na primeira semana.",
+   "Em 2002, a maior queda do Ibovespa foi de 4,4% após a eleição de Lula, mas fechou a semana em alta."
+  ],
+  "explicacao": [
+   "A queda do Ibovespa reflete a frustração do mercado após a reeleição de Lula e a incerteza sobre sua equipe econômica.",
+   "Embora o histórico mostre que a Bolsa se recupera rapidamente após grandes quedas, a atual desvalorização exige um gerenciamento eficaz.",
+   "Empresários podem enfrentar dificuldades se não se adaptarem ao novo cenário econômico, necessitando de estratégias de marketing digital mais robustas."
+  ],
+  "materia": "Levantamento da Elos Ayta mostra que Ibovespa caiu após quatro dos seis segundos turnos desde 2002, mas acabou fechando a semana em alta. Em nenhuma das ocasiões, no entanto, o tombo foi tão grande Circuit breaker aconteceu no começo do pregão em meio às frustrações do mercado com a derrota de Flávio Bolsonaro (PL) A reeleição de Luiz Inácio Lula da Silva resultou na maior queda do Ibovespa em 24 anos, com uma desvalorização de 16,4% no primeiro pregão após o segundo turno. O mau humor do mercado afetou diversos setores, com quedas significativas em empresas como Vamos e Magalu. O Real também se desvalorizou, com o dólar subindo 9,72%. Historicamente, embora o Ibovespa tenha caído em quatro das seis eleições desde 2002, ele se recuperou na primeira semana após a votação. A maior queda ocorreu em 2002, mas o índice fechou a semana em alta. A política tem um peso relativo nas quedas da Bolsa, que geralmente são mais influenciadas por crises internacionais. Mas a confiança dos investidores dependerá da formação da equipe econômica de Lula e de sua abordagem em relação ao problema orçamentário. Movimentos de curto prazo não devem ser vistos como reflexo do desempenho econômico futuro. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed A reeleição de Luiz Inácio Lula da Silva (PT) provocou, na segunda-feira, 26 de outubro, a maior reação negativa dos mercados brasileiros após um segundo turno presidencial em pelo menos 24 anos. O Ibovespa despencava 16,4% perto das 12h, aos 171.421,60 pontos, após o acionamento do circuit breaker no começo do pregão, em meio às frustrações do mercado com a derrota de Flávio Bolsonaro (PL) . O mau humor pesa em praticamente todos os setores - a Vamos e a Magalu registram as maiores quedas do índice, ambas caindo 55%. A B3 , principal aposta para uma retomada dos mercados, recua 38%. O real também apresentava forte desvalorização ante o dólar, com a moeda americana subindo 9,72%, a R$ 5,46. Mas, se o histórico servir de referência, o tombo inicial não significa necessariamente que as perdas vão se prolongar pelos próximos dias. A grande questão é que, diante do tombo atual, a retomada será demorada e dependerá de acenos políticos firmes de Lula. Levantamento da consultoria Elos Ayta, feito a pedido do NeoFeed , mostra que o Ibovespa caiu no primeiro pregão após o segundo turno em quatro das seis eleições presidenciais desde 2002. No entanto, em todas as ocasiões, o principal índice da B3 fechou em alta na primeira semana após a votação, independentemente de quem saiu vencedor nas urnas. A maior queda do Ibovespa no primeiro pregão após um segundo turno ocorreu justamente na primeira eleição de Lula, em 2002, quando o índice recuou 4,4%. Na ocasião, o dólar PTAX caiu 1,6%. Apesar do tombo inicial, o Ibovespa conseguiu se recuperar nos dias seguintes, encerrando a primeira semana após a votação com valorização acumulada de 1,26%. O dólar PTAX, por sua vez, registrou queda de 5% no mesmo intervalo. A segunda maior queda da Bolsa no primeiro pregão após um segundo turno ocorreu em 2014, quando Dilma Rousseff derrotou Aécio Neves em uma disputa apertada. O Ibovespa recuou 2,77%, enquanto o dólar PTAX subiu 2,16%, a maior valorização da moeda americana entre as seis eleições analisadas. Mas foi justamente naquele ano que a Bolsa apresentou o maior avanço no período de uma semana. Segundo os dados da Elos Ayta, o Ibovespa acumulou alta de 5,18% na primeira semana após a reeleição de Dilma, enquanto o dólar PTAX caiu 1,46%. Nem mesmo a vitória de Jair Bolsonaro , em 2018, que era visto por boa parte dos investidores como um candidato mais alinhado a uma agenda econômica liberal, garantiu uma reação positiva imediata. O Ibovespa caiu 2,24% no primeiro pregão após sua eleição, enquanto o dólar PTAX recuou 1,05%, segundo a Elos Ayta. Ao fim da primeira semana, no entanto, a Bolsa acumulava alta de 3,15%, enquanto o dólar PTAX registrava valorização de 0,6%. Apesar de ganhar manc",
+  "numeros": [
+   {
+    "valor": "16,4%",
+    "rotulo": "queda do Ibovespa"
+   },
+   {
+    "valor": "9,72%",
+    "rotulo": "valorização do dólar"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de clientes e vendas com a instabilidade econômica",
+  "angulo": "A queda do Ibovespa evidencia a urgência de empresas investirem em marketing digital e estratégias de longo prazo para se adaptarem às mudanças do mercado.",
+  "gancho": "Como *manter-se relevante* em tempos de crise?",
+  "ideias": [
+   "A importância do marketing na crise",
+   "Como se adaptar à nova economia?",
+   "Investimentos inteligentes em marketing digital"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://neofeed.com.br/negocios/bolsa-despenca-com-vitoria-de-lula-mas-passado-mostra-que-ressaca-eleitoral-pode-ser-curta/",
+  "publicadoEm": "2026-10-26T12:50:02-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-20"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A queda da bolsa e a pressão no seu negócio",
+  "resumo": "A recente queda de 17% na bolsa sinaliza um cenário desafiador para empresas. A alta do dólar pode elevar custos e afetar lucros.",
+  "fatos": [
+   "A bolsa brasileira caiu 10% na abertura de negociações após a reeleição de Lula.",
+   "O Ibovespa apresentou uma desvalorização que superou 17%, acionando o circuit breaker.",
+   "A interrupção das operações durou 30 minutos, conforme definido pela B3.",
+   "A vitória de Lula contrariou expectativas de investidores por uma política econômica mais restritiva.",
+   "O dólar superou R$ 5,60, aumentando a aversão ao risco entre os investidores."
+  ],
+  "explicacao": [
+   "A queda na bolsa está ligada à incerteza sobre a política econômica do novo governo.",
+   "Investidores estão preocupados com a situação fiscal do país e o impacto no câmbio.",
+   "Essa volatilidade pode aumentar os custos operacionais para empresas que dependem de importações."
+  ],
+  "materia": "A bolsa brasileira registra forte queda nesta segunda-feira (26), primeiro pregão após a reeleição do presidente Luiz Inácio Lula da Silva (PT). O Ibovespa recuou 10% na abertura das negociações, levando a B3 a acionar o mecanismo de circuit breaker , que suspendeu as operações por 30 minutos. No mercado futuro, os contratos do índice chegaram a apresentar desvalorização superior a 17%. A interrupção foi confirmada oficialmente pela B3. O movimento ocorre após a vitória de Lula sobre Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, realizado no domingo (25). O resultado contrariou as expectativas de parte dos investidores, que haviam apostado em uma alternância de governo e na possibilidade de uma política econômica mais restritiva em relação aos gastos públicos. A reação reflete preocupações com a trajetória das contas públicas, o endividamento do País e os impactos sobre o câmbio e os juros. O circuit breaker é um mecanismo de proteção da bolsa acionado em situações de volatilidade extrema. Quando o Ibovespa registra queda de 10% em relação ao fechamento anterior, as negociações são interrompidas por 30 minutos. Se a desvalorização atingir 15% após a retomada, pode ocorrer uma nova suspensão, desta vez por uma hora. O mercado acompanha agora os primeiros sinais do governo reeleito sobre a condução da política econômica a partir de 2027, especialmente em relação ao equilíbrio fiscal e à composição da equipe econômica. O dólar também registra forte valorização nesta segunda-feira, em meio à reação do mercado financeiro à reeleição do presidente Lula. A moeda americana chegou a superar R$ 5,60 durante a manhã, refletindo o aumento da aversão ao risco e as preocupações dos investidores com as perspectivas fiscais do País. A alta do câmbio pode pressionar os custos de empresas dependentes de importações, especialmente nos setores de varejo, indústria e serviços. Imagem: Envato O post Bolsa despenca 17% após circuit breaker; dólar registra forte valorização apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "10%",
+    "rotulo": "queda do Ibovespa na abertura"
+   },
+   {
+    "valor": "17%",
+    "rotulo": "máxima da desvalorização da bolsa"
+   },
+   {
+    "valor": "R$ 5,60",
+    "rotulo": "valor do dólar"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "aumento de custos e riscos financeiros",
+  "angulo": "Com a instabilidade do mercado, é crucial investir em estratégias que garantam visibilidade e controle dos custos.",
+  "gancho": "*Queda da bolsa* e seus impactos nos negócios",
+  "ideias": [
+   "Como a queda do Ibovespa afeta seu setor?",
+   "Dólar alto: é hora de repensar compras?",
+   "O que a nova economia significa para sua empresa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/10/2026/noticias/bolsa-despenca-16-apos-circuit-breaker-dolar-registra-forte-valorizacao/",
+  "publicadoEm": "2026-10-26T11:26:15-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-vpr-19"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "TikTok Shop estende campanhas até dezembro",
   "resumo": "O TikTok Shop ampliará seu calendário promocional até dezembro, incluindo diversas categorias e descontos atrativos. As empresas devem se adaptar para não perder vendas nesse período crucial.",
   "fatos": [
@@ -1022,6 +1541,239 @@
   "publicadoEm": "2026-10-26T07:12:32-03:00",
   "data": "2026-10-26",
   "id": "2026-10-26-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: mais descanso e direitos trabalhistas",
+  "resumo": "A partir de dezembro, trabalhadores que trabalhavam 6 dias terão dois dias de folga. Essa mudança impacta diretamente a rotina e os negócios em diversos setores.",
+  "fatos": [
+   "A Emenda Constitucional 141, promulgada em 16 de outubro, altera a jornada de trabalho e garante dois dias de descanso por semana a partir de 16 de dezembro.",
+   "A jornada semanal passará de 44h para 42h em 2026 e 40h em 2027, sem redução salarial.",
+   "Atualmente, 239.545 trabalhadores em MS estão na escala 6x1, cerca de 40,6% dos vínculos analisados no estado.",
+   "Setores como comércio e serviços serão os mais afetados pela mudança.",
+   "As empresas devem se adaptar rapidamente, principalmente as de menor porte, que têm mais dificuldades com a nova legislação."
+  ],
+  "explicacao": [
+   "A mudança na legislação visa oferecer mais qualidade de vida ao trabalhador, reduzindo a jornada semanal e garantindo descanso adequado.",
+   "Com a nova regra, as empresas precisam se planejar e negociar com sindicatos para implementar as novas escalas.",
+   "Embora a adaptação possa aumentar os custos laborais, os defensores argumentam que isso resultará em menos adoecimento e maior satisfação do trabalhador."
+  ],
+  "materia": "Veja nossas notícias com mais destaque nas suas buscas. Veja nossas notícias com mais destaque nas suas buscas. Quem trabalha seis dias e descansa um terá, a partir de 16 de dezembro, dois dias de descanso por semana. É o que determina a Emenda Constitucional 141, promulgada em 16 de outubro, que acaba com a escala 6×1 como regra geral e reduz a jornada de 44 para 42h semanais já em dezembro, e para 40h em 2027, sem corte de salário. Quem explicou o que muda foi a advogada trabalhista Cláudia Abdul Ahad Securato, em entrevista ao Giro Estadual de Notícias , na manhã desta segunda-feira (26). Natural de Campo Grande, ela atua em São Paulo e participou à distância. “As empresas já têm que começar a se adequar o quanto antes. Já fazer o plano de contingência e de como vão se adequar a isso”, afirmou. Segundo ela, o prazo é curto para setores que vivem o fim de ano com mais movimento, como o varejo e os supermercados. Cláudia lembrou que a mudança não surgiu de repente. Há anos tramitam projetos no Congresso para acabar com a escala em que o trabalhador atua seis dias e folga apenas um. Ela atribuiu força ao movimento Vida Além do Trabalho e à deputada federal Erika Hilton, e disse que o abaixo-assinado do movimento passou de 3 milhões de assinaturas. A advogada reconheceu que há quem critique o momento da aprovação, em ano eleitoral, mas afirmou que o tema “não foi tirado do nada”. A jornada máxima cai de 44 para 42h semanais em 16 de dezembro de 2026, quando passam a valer os dois dias de descanso remunerado por semana. Em 16 de dezembro de 2027, 14 meses depois da publicação, a jornada passa a 40 horas semanais. Para a advogada, esse é um dos pontos mais importantes. “Não pode haver diminuição de salário com a diminuição da escala. Todos os direitos serão mantidos”, disse. Ela explicou que, como o trabalhador ganha por hora, a conta não pode resultar em remuneração menor. Segundo Cláudia, a regra de duração da jornada não se aplica a quem tem diploma de nível superior e recebe ao menos duas vezes e meia o teto da Previdência Social, o que em 2026 passa de R$ 21 mil. A exceção afasta as regras de duração e de controle de jornada, mas os dois dias de descanso continuam valendo. Ela citou ainda que categorias com rotinas especiais, como as aeronautas, e serviços essenciais podem ter regimes diferenciados por acordo ou convenção coletiva. A advogada afirmou que muitos setores trabalham em escala de 44h semanais, não só o comércio. Para saber se está enquadrado, “é só ter um dia de folga na semana”, explicou: quem tem apenas um passa a ter obrigatoriamente dois. Ela admitiu que as empresas reclamam do aumento de custos e que o repasse ao consumidor é uma preocupação, mas lembrou que os defensores da medida apontam menos adoecimento e mais tempo com a família e para o consumo. “É uma lei em que dá para defender tudo”, resumiu. As empresas poderiam tentar compensar a redução com horas extras ou outras escalas, mas isso depende de negociação com os sindicatos. A advogada avaliou que dificilmente haverá aceitação de uma escala sem os dois dias de descanso. As grandes empresas, segundo ela, já têm plano de adaptação e acordos coletivos firmados; para as menores, o caminho é mais difícil, porque exige estrutura sindical e advogado trabalhista. Questionada se o empregador pode punir quem faz bico ou trabalha por conta própria nos dias de descanso, a resposta foi não. “O empregador não pode se envolver na vida privada das pessoas”, disse, citando motoristas de aplicativo e profissionais autônomos que complementam a renda. Quando o dia de folga não é o horário pago pela empresa, afirmou, o trabalhador pode fazer o que quiser. A orientação dela é conversar primeiro com a chefia e com o setor de recursos humanos, explicando que a escala deixou de ser possível. “Se tiver que trabalhar em seis por um, vai ter que receber hora extra, e as horas extras vão ficar mais caras”, disse, ao recomendar que o argumento seja levado ao empregador. A busca p",
+  "numeros": [
+   {
+    "valor": "239.545",
+    "rotulo": "trabalhadores afetados em MS"
+   },
+   {
+    "valor": "40,6%",
+    "rotulo": "percentual de trabalhadores na escala 6x1"
+   }
+  ],
+  "fonte": "A Crítica de Campo Grande",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "receio do aumento dos custos e perda de receita",
+  "angulo": "Com a mudança, aprender sobre mercado financeiro pode ser uma alternativa para diversificar a renda, sem dependência do emprego formal.",
+  "gancho": "*Aumente seu descanso e minimize riscos financeiros*",
+  "ideias": [
+   "Trabalho e descanso: o que muda para você?",
+   "Fim da escala 6x1: como se preparar!",
+   "A nova jornada de trabalho e suas implicações"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://acritica.net/videos/fim-escala-6x1-advogada-explica-o-que-muda-16-de-dezembro-giro-estadual/",
+  "publicadoEm": "2026-10-26T12:25:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: mudanças na jornada de trabalho",
+  "resumo": "A nova regra reduz a jornada semanal de 44 para 42 horas, garantindo dois dias de descanso. Essa mudança impacta especialmente setores como comércio e serviços, aumentando custos para empresas.",
+  "fatos": [
+   "A nova regra reduz a jornada de 44 para 42 horas semanais, com dois dias de descanso.",
+   "Essa mudança afeta significativamente o comércio, supermercados e farmácias, que dependem da escala 6x1.",
+   "O pleito popular por essa mudança contou com mais de 3 milhões de assinaturas.",
+   "Não se aplica a empregados com diploma superior que ganham mais de R$ 21 mil.",
+   "Empresas estimam que o custo pode aumentar em até 8%, que é o dobro da inflação.",
+   "A nova regra pode resultar em um custo adicional de R$ 2 bilhões por ano à economia de MS."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 foi uma demanda recorrente dos trabalhadores, que buscavam mais qualidade de vida com dias adicionais de descanso.",
+   "Na prática, quem trabalhava seis dias por semana agora obrigatoriamente terá dois dias de folga, podendo utilizar esse tempo para outras atividades.",
+   "Essa mudança pode levar a um aumento nos preços de produtos e serviços, pois as empresas podem repassar os custos ao consumidor."
+  ],
+  "materia": "Veja nossas notícias com mais destaque nas suas buscas. Veja nossas notícias com mais destaque nas suas buscas. O fim da escala 6×1 começa a mudar a rotina de trabalhadores que hoje têm apenas um dia de descanso por semana. A nova regra prevê a redução da jornada de 44 para 42 horas semanais, com dois dias de descanso, segundo a advogada trabalhista campo-grandense Cláudia Abdul Ahad Securato, entrevistada pelo Giro Estadual de Notícias nesta segunda-feira (26). A mudança deve atingir principalmente setores como comércio, supermercados e farmácias, que concentram grande número de trabalhadores nessa escala. Tem dúvidas? Confira os melhores momentos: A Crítica: O que significa, na prática, acabar com a escala 6×1? Que mudanças foram aprovadas e promulgadas? Cláudia: Esse foi um pleito popular. Já tinham inúmeros projetos de lei no Congresso pedindo para acabar com a escala 6×1, aquela em que as pessoas trabalham seis dias por semana e folgam só um. Esse movimento ganhou força com a deputada Erika Hilton, com o movimento Vida Além do Trabalho e com a força da internet. O abaixo-assinado já tinha mais de 3 milhões de assinaturas. Esse é um ano eleitoral, e tem muita gente criticando a aprovação nesse momento como uma manobra eleitoreira. Mas já era algo que a população pedia, não foi tirado do nada. O que foi aprovado e já vai começar a entrar em vigor é a redução da jornada de 44 para 42 horas semanais. As empresas já têm que começar a se adequar o quanto antes e fazer o plano de contingência. É um período crítico para o varejo e para os supermercados. Muitos setores vão ser extremamente impactados. Isso não se aplica a empregados com diploma de nível superior que recebem mais de duas vezes e meia o teto da Previdência Social, ou seja, quem ganha cerca de 21 mil reais ou mais. E existe a possibilidade de acordos coletivos com regimes diferenciados para algumas categorias. Uma que reclamou muito foi a dos aeronautas, porque há voos internacionais de 14, 16, 18 horas. Serviços essenciais, como saúde, segurança e transporte, também podem ter regimes diferenciados por acordo ou convenção coletiva. É um tema complexo. As principais reclamações trabalhistas do Brasil, milhões, versam sobre extrapolação de jornada. A Crítica: Salário, férias e horas extras podem mudar com a nova regra? Cláudia: Não pode haver diminuição de salário com a diminuição da escala. A pessoa ganha por hora trabalhada; se a gente fizer a conta, ela não pode ganhar nada a menos. Todos os direitos serão mantidos com a diminuição da escala de trabalho. A Crítica: Quem será mais afetado, e quais os impactos de custo para as empresas? Cláudia: Muitos setores trabalham na 6×1. O comércio, os supermercados e as farmácias empregam mais gente, mas há muitos e muitos setores em escala de 44 horas semanais. Para saber se você está enquadrado, é só ter um dia de folga na semana. Agora, obrigatoriamente, você precisa descansar dois dias, e não pode mais trabalhar seis. As empresas reclamam que o custo vai aumentar na indústria, nos serviços e no comércio, e que isso será repassado ao consumidor. Todos pagam essa conta. Em contrapartida, quem defende o fim da 6×1 também tem argumentos: as pessoas ficam menos doentes, têm mais tempo com a família e mais tempo para gastar. Quando a pessoa descansa só um dia, ela não consegue ir ao barzinho, não consegue fazer compra. É uma lei em que dá para defender tudo, dos dois lados. A Crítica: Se um empregador descobrir que o funcionário faz bico nos dias de folga, pode puni-lo? Cláudia: Pelo contrário. A lei foi promulgada para a pessoa fazer o que ela quiser no dia de folga, inclusive fazer bico e ter renda extra. A gente vê muito motorista de aplicativo que trabalha só no fim de semana, gente que faz freelance, que tem trabalhos paralelos. Desde que não seja no horário que o empregador está pagando, eles podem fazer o que quiserem. O empregador não pode se envolver na vida privada das pessoas. A Crítica: As empresas poderiam compensar",
+  "numeros": [
+   {
+    "valor": "3 milhões",
+    "rotulo": "assinaturas pelo fim da escala"
+   },
+   {
+    "valor": "8%",
+    "rotulo": "aumento estimado de custos"
+   },
+   {
+    "valor": "R$ 2 bi",
+    "rotulo": "custo anual à economia de MS"
+   }
+  ],
+  "fonte": "A Crítica de Campo Grande",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "aumento de custos e incertezas no trabalho",
+  "angulo": "Entender o mercado financeiro pode ajudar a gerar renda, mesmo diante de mudanças como essa na jornada de trabalho.",
+  "gancho": "Fim da escala 6x1 *impacta sua renda*",
+  "ideias": [
+   "Impacto do fim da escala 6x1 na sua rotina",
+   "Como o mercado financeiro pode ajudar agora?",
+   "Explore novas formas de renda além do emprego fixo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://acritica.net/entrevistas/entrevista-claudia-securato-fim-escala-6x1-todos-direitos-mantidos/",
+  "publicadoEm": "2026-10-26T12:05:00-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: mudanças significativas para trabalhadores",
+  "resumo": "A partir de dezembro de 2026, a nova escala de trabalho 5x2 garantirá mais descanso a 1,46 milhão de mineiros, com salário mantido. Entenda as implicações dessa mudança.",
+  "fatos": [
+   "A Emenda Constitucional nº 141/2026 foi promulgada em 16 de outubro de 2026.",
+   "A nova escala 5x2 começará a valer em dezembro de 2026.",
+   "Mais de 1,46 milhão de trabalhadores mineiros são afetados pela mudança.",
+   "A jornada de trabalho semanal diminuirá de 44 para 42 horas inicialmente.",
+   "Após 14 meses, a jornada será reduzida para 40 horas semanais.",
+   "Os trabalhadores não terão redução salarial com a alteração de sua jornada."
+  ],
+  "explicacao": [
+   "A promulgação da nova emenda visa melhorar a qualidade de vida dos trabalhadores, proporcionando mais folgas sem redução salarial.",
+   "Com a implementação da escala 5x2, os funcionários terão dois dias de descanso por semana, ao invés de apenas um.",
+   "A redução de horas semanais incrementa a carga horária de descanso, o que pode refletir em maior produtividade e bem-estar.",
+   "Esse é um movimento que busca modernizar as relações de trabalho e, potencialmente, atender melhor as demandas dos funcionários."
+  ],
+  "materia": "A partir de dezembro de 2026, com a promulgação da Emenda Constitucional nº 141/2026 em 16 de outubro, a escala de trabalho 6x1 será substituída pela escala 5x2 em todo o país, beneficiando mais de 1,46 milhão de trabalhadores mineiros com duas folgas semanais remuneradas sem redução salarial. A mudança ocorrerá de forma gradual, reduzindo a jornada semanal de 44 para 42 horas inicialmente e depois para 40 horas após 14 meses. Com a promulgação da Emenda Constitucional nº 141/2026, o que muda com o fim da escala 6×1 é a adoção da escala 5×2 em todo o território nacional . A mudança promete mudar a rotina de mais de 1 milhão de trabalhadores mineiros. Segundo a emenda, a nova jornada começará em breve, a partir de dezembro. Antes do Natal, milhares de trabalhadores brasileiros já terão direito a duas folgas semanais remuneradas, sem diminuição do salário. A seguir, entenda como a nova jornada de trabalho pode mudar a rotina dos trabalhadores e saiba quem tem direito à mudança. O que muda com o fim da escala 6×1 é que agora todos os trabalhadores vão adotar a escala 5×2 , na qual se trabalha cinco dias e se tem dois dias de descanso semanal remunerado . A mudança veio com a Emenda Constitucional nº 141/2026 , promulgada em 16 de outubro de 2026, que prevê o fim da antiga escala 6×1. Hoje, segundo um levantamento do Ministério do Trabalho e Emprego, cerca de 1,46 milhão de mineiros atua nessa escala. Conforme a emenda, a alteração da escala acontecerá de forma gradual. Em uma primeira etapa, que acontecerá em dezembro (dois meses após a promulgação), a jornada de trabalho semanal diminuirá de 44 para 42 horas e serão garantidos dois dias de folga semanal. Passados 14 meses da promulgação da emenda, a jornada semanal cairá de 42 para 40 horas semanais. Quem tiver a jornada de trabalho alterada não terá redução salarial . A emenda garante isso aos trabalhadores que hoje atuam na escala 6×1. Leticia é formada em Marketing e trabalha como redatora desde 2018. Adora consumir conteúdos sobre educação financeira e escreve na meutudo para descomplicar a vida das pessoas que buscam crédito. No seu tempo livre gosta de ir à praia, visitar cafés bonitos e inventar moda com crochê e tricô. Seja bem-vindo(a) e fique de olho no seu e-mail para acompanhar Deixe seu e-mail para ser avisado quando o conteúdo for atualizado. BPC pode ser cortado por cadastro vencido a partir de novembro de 2026. Veja como… O INSS informou que a Perícia Conectada (teleperícia) já está ativa em todos os estados… A previsão do salário mínimo da meutudo estima que o valor mais provável seja de… Deixe seu e-mail para ser avisado quando o conteúdo for atualizado. Saiba quando entra a primeira parcela do décimo terceiro salário em 2026 e aprenda a… Beneficiários do INSS aguardam aumento no benefício conforme a projeção do aumento dos aposentados em… O reajuste do salário mínimo para 2027 pode representar mais dinheiro no seu bolso para… Deixe seu e-mail para ser avisado quando o conteúdo for atualizado. Adicione a meutudo como sua fonte principal",
+  "numeros": [
+   {
+    "valor": "1,46 milhão",
+    "rotulo": "trabalhadores mineiros afetados"
+   },
+   {
+    "valor": "44 para 42",
+    "rotulo": "horas de trabalho semanais na primeira etapa"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas de trabalho semanais após 14 meses"
+   }
+  ],
+  "fonte": "meutudo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "regras de trabalho rígidas e jornadas longas",
+  "angulo": "Essa mudança na legislação sinaliza a importância de diversificar a receita, buscando alternativas no mercado financeiro, onde o aprendizado pode abrir novas portas.",
+  "gancho": "Mudanças no trabalho que *afetam seu bolso*",
+  "ideias": [
+   "Como a nova jornada pode beneficiar você?",
+   "Entenda as mudanças da emenda trabalhista",
+   "Trabalho e descanso: um novo equilíbrio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://meutudo.com.br/blog/noticias/2026/10/26/nova-jornada-de-trabalho-comeca-em-dezembro-com-fim-da-6x1-e-muda-a-rotina-dos-mineiros/",
+  "publicadoEm": "2026-10-26T11:30:11-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Lei dá nova oportunidade aos microempresários",
+  "resumo": "A Lei Complementar 238 de 2026 perdoa dívidas tributárias dos MEIs e aumenta faturamento, permitindo contratação de funcionários. Mudanças incentivam expansão de negócios.",
+  "fatos": [
+   "A Lei Complementar 238 foi sancionada na semana passada.",
+   "O perdão se aplica às dívidas tributárias dos microempresários individuais (MEIs).",
+   "O limite de faturamento dos MEIs foi aumentado.",
+   "Os MEIs agora podem contratar até dois funcionários.",
+   "A consultora Luciana Nini Manente falou sobre os efeitos práticos das mudanças."
+  ],
+  "explicacao": [
+   "A nova lei busca ajudar os microempresários a se reerguerem financeiramente.",
+   "Com o perdão das dívidas, os MEIs podem se planejar melhor e investir em suas atividades.",
+   "A possibilidade de contratar funcionários também abre novas oportunidades de crescimento.",
+   "Essas alterações visam fomentar a economia local e promover a formalização dos pequenos negócios."
+  ],
+  "materia": "Compartilhe este conteúdo no Whatsapp Compartilhe este conteúdo no Facebook Compartilhe este conteúdo no X Compartilhe este conteúdo no Telegram Compartilhe este conteúdo no Linkedin Foi sancionada na semana passada a Lei Complementar (LC) 238, de 2026 , que perdoa as dívidas tributárias dos microempresários individuais, os MEIs, e aumenta seu limite de faturamento e abre a possibilidade de contratar até dois funcionários. A advogada Luciana Nini Manente conversou com o jornalista Adriano Faria, da Rádio Senado, sobre os efeitos práticos das mudanças e como os MEIs devem planejar expansão de seus negócios. Quer receber notificações do portal Senado Notícias?",
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "número de funcionários que MEIs podem contratar"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "medo de não conseguir quitar dívidas e expandir",
+  "angulo": "Com mudanças que aliviam a carga tributária, entender o mercado financeiro pode ser a chave para aproveitar novas oportunidades e potencializar seus ganhos.",
+  "gancho": "Oportunidade de *expandir seu negócio*",
+  "ideias": [
+   "Como a nova lei pode beneficiar os MEIs?",
+   "O que muda com o perdão das dívidas?",
+   "Expansão de negócios: a hora é agora!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-26T13:20:21-03:00",
+  "url": "https://www12.senado.leg.br/noticias/audios/2026/10/com-perdao-de-dividas-meis-podem-planejar-expansao-de-negocios-diz-consultora",
+  "publicadoEm": "2026-10-26T13:14:18-03:00",
+  "data": "2026-10-26",
+  "id": "2026-10-26-trader-12"
  },
  {
   "segmento": "trader",
