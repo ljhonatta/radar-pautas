@@ -1,6 +1,486 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Bitcoin: Conhecimento é essencial para investidores prudentes",
+  "resumo": "A falta de entendimento sobre Bitcoin pode levar a perdas financeiras significativas. Conhecer seus riscos e funcionamento é crucial para decisões seguras no mercado de criptoativos.",
+  "fatos": [
+   "Bitcoin pode ser fracionado em até 100 milhões de satoshis, permitindo compras com valores mínimos.",
+   "Cerca de 21 milhões de bitcoins são a oferta máxima que o protocolo permitirá.",
+   "As variações de preço são influenciadas por expectativas e demandas do mercado, sem uma cotação oficial.",
+   "A volatilidade dos criptoativos pode resultar em perdas significativas para investidores.",
+   "Perder a chave privada pode tornar os ativos inacessíveis permanentemente sem possibilidades de recuperação."
+  ],
+  "explicacao": [
+   "A popularidade do Bitcoin cresceu, mas seu funcionamento segue complexo para muitos. A necessidade de educar o público sobre como atuar de forma segura nesse mercado é evidente.",
+   "A blockchain registra transações e garante que não haja duplicidade nos gastos. Compreender esta tecnologia é fundamental para quem deseja investir.",
+   "Os riscos envolvidos, como a volatilidade e a segurança dos ativos, tornam essencial o conhecimento antes de qualquer operação financeira."
+  ],
+  "materia": "É preciso comprar uma unidade inteira? Quem determina o preço? O que acontece se a chave de acesso for perdida? Um guia direto para entender conceitos básicos, riscos e funcionamento do Bitcoin O Bitcoin já faz parte do vocabulário financeiro de muita gente, mas isso não significa que seu funcionamento seja simples de entender. Entre termos técnicos, oscilações de preço e promessas de valorização, dúvidas básicas continuam sem resposta para boa parte do público. Para Cleverson Pereira, Head de educação da AVO Educacional, esse cenário reforça a importância de ampliar a educação sobre ativos digitais. “É preciso garantir que as pessoas compreendam os riscos, saibam utilizar essas ferramentas com segurança e tenham acesso a informações claras para tomar decisões conscientes”, afirma. A seguir, dez perguntas ajudam a entender o Bitcoin de forma direta, sem exigir conhecimento prévio sobre o mercado. Bitcoin é um ativo digital que pode ser transferido pela internet, em uma rede que funciona sem uma autoridade central responsável por emitir a moeda ou aprovar individualmente os pagamentos. Seu funcionamento segue regras verificadas pelos participantes da rede. O termo também identifica o sistema que permite essas transferências. Sua existência não depende de uma moeda física. Os registros ficam na blockchain, uma espécie de livro de transações compartilhado entre computadores. As regras da rede permitem verificar quais valores podem ser movimentados e rejeitar tentativas de gastar novamente um valor já utilizado. Ter Bitcoin significa poder autorizar a movimentação de valores registrados nesse sistema. Não. Cada Bitcoin pode ser dividido em 100 milhões de satoshis, nome dado à sua menor unidade no protocolo. É possível adquirir uma fração, respeitando os valores mínimos e as tarifas da plataforma utilizada. O preço de uma unidade inteira, portanto, não corresponde ao valor necessário para começar uma operação. Novas unidades são emitidas como parte da recompensa dos mineradores, participantes que empregam capacidade computacional para propor blocos de transações. A emissão segue regras do protocolo e diminui periodicamente. Pelas regras atuais, a oferta é limitada a aproximadamente 21 milhões de bitcoins. Uma empresa ou um governo não pode simplesmente decidir emitir unidades adicionais aceitas pela rede. O preço resulta das negociações entre compradores e vendedores. Não existe uma autoridade que fixe uma cotação oficial. Expectativas, demanda e condições de mercado influenciam os valores negociados, que podem variar entre plataformas. O limite de emissão, por si só, não garante valorização nem impede quedas. Não. É possível perder dinheiro, inclusive uma parcela expressiva do valor aplicado. A cotação pode sofrer grandes oscilações, e resultados anteriores não asseguram ganhos futuros. A Comissão de Valores Mobiliários destaca, entre os riscos dos criptoativos, a volatilidade, possíveis dificuldades para negociar e ameaças cibernéticas. Compreender o ativo também envolve olhar para o cenário econômico. “No caso do Bitcoin, juros, liquidez global, dólar e percepção de risco também ajudam a determinar o comportamento do mercado. Entender essas relações é mais importante do que tomar uma decisão com base em um único indicador”, explica Pereira. Os registros permanecem na blockchain. A carteira é a ferramenta utilizada para administrar as chaves que permitem movimentar os ativos. Na autocustódia, o próprio usuário assume essa responsabilidade. Quando a custódia é feita por uma plataforma, ele depende da estrutura e dos procedimentos dessa empresa. São modelos com responsabilidades e riscos diferentes. Depende do que foi perdido. A senha de acesso a uma plataforma pode ter um procedimento de recuperação. Já na autocustódia, perder a chave privada e todos os meios de recuperação pode tornar os ativos permanentemente inacessíveis. Muitas carteiras utilizam uma sequência de palavras para restauração, que precisa ser protegida contra perd",
+  "numeros": [
+   {
+    "valor": "21 milhões",
+    "rotulo": "oferta máxima de bitcoins"
+   },
+   {
+    "valor": "100 milhões",
+    "rotulo": "satoshis em um bitcoin"
+   }
+  ],
+  "fonte": "Adnews",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Temor de perdas financeiras por falta de conhecimento",
+  "angulo": "Informar empresários sobre a importância de uma presença digital sólida para se educar e atuar no mercado financeiro moderno.",
+  "gancho": "Entenda o *Bitcoin* e evite prejuízos!",
+  "ideias": [
+   "Desmistificando o Bitcoin para empresários",
+   "Os riscos que você não pode ignorar sobre criptoativos",
+   "Como proteger seus investimentos em Bitcoin"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://adnews.com.br/post/bitcoin-para-quem-nao-entende-bitcoin-10-perguntas-que-muita-gente-ainda-tem-vergonha-de-fazer",
+  "publicadoEm": "2026-10-27T14:34:03-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-21"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Nova verificação de idade no Brasil pelo iOS 27.2",
+  "resumo": "A Apple introduziu a verificação de idade por selfie no iOS 27.2, uma exigência legal no Brasil. Isso impacta a acessibilidade a serviços da Apple.",
+  "fatos": [
+   "O iOS 27.2 foi liberado em 26 de setembro de 2023.",
+   "Mecanismos de aferição etária são exigidos por lei em mercados como Brasil, Reino Unido e Austrália.",
+   "Usuários precisam confirmar ter 18 anos ou mais para acessar certos serviços.",
+   "A confirmação de idade é feita através de uma selfie que é processada de forma híbrida.",
+   "Após a verificação, a selfie é excluída e não é acessada pela Apple."
+  ],
+  "explicacao": [
+   "O ECA Digital exige que plataformas implementem verificações de idade para proteger usuários.",
+   "Com a nova atualização do iOS, usuários precisam seguir um passo a passo que inclui tirar selfies em quatro ângulos.",
+   "Essa mudança pode afetar negócios que dependem da plataforma Apple, especialmente em serviços voltados ao público jovem."
+  ],
+  "materia": "A Apple começou a permitir a confirmação de idade de usuários por selfie no iOS 27.2, liberado nesta segunda-feira (26). Mecanismos de aferição etária são exigidos por lei em determinados mercados, incluindo o Brasil como parte do ECA Digital . Segundo a Apple, requisitos de confirmação de idade são aplicados na Austrália, Brasil, Singapura, Coreia do Sul, Reino Unido e Texas, nos Estados Unidos. Nesses mercados, usuários podem precisar confirmar que têm 18 anos ou mais para acessar determinados serviços ou recursos, aplicar certos ajustes à conta ou criar uma nova Conta Apple. Antes do iOS 27.2, o iOS já contava com outros métodos de confirmação etária, como a checagem por cartão de crédito ou escaneamento de documento de identidade. Com a atualização, a selfie passa a ser uma opção na Austrália, Brasil, Singapura e Reino Unido . O iOS 27.2 oferece a verificação de idade por selfie em certas regiões, incluindo no Brasil. Foto: Lucas Ghitelar/TecMundo/Estadão Segundo a Apple, a avaliação da idade do usuário é feita por um modelo especializado em estimativa etária processado de forma híbrida – parte no próprio dispositivo, parte no Private Cloud Compute . Como verificar a idade com selfie no iOS 27.2? O passo a passo divulgado pela Apple para confirmar a idade com selfie no iOS 27.2 é: Escolha a opção de tirar uma selfie na seção de confirmação etária e depois toque em “Começar” (“Get Started”, em inglês); Segure o dispositivo à sua frente e centralize o rosto no enquadramento; Capture os quatro ângulos solicitados ao mover a cabeça lentamente para a direita, esquerda, para cima e para baixo; Siga as instruções exibidas na tela para concluir a verificação. A confirmação por selfie pode demorar alguns instantes para ser concluída , segundo a Apple. A imagem é analisada no próprio dispositivo e no Private Cloud Compute, sem ficar acessível a ninguém, nem mesmo à Apple. Após a confirmação da idade, a selfie é excluída e não é retida. Quer ficar por dentro das novidades do mundo da tecnologia? Acesse o TecMundo e acompanhe as últimas notícias sobre Apple, iPhone e privacidade.",
+  "numeros": [
+   {
+    "valor": "18",
+    "rotulo": "idade mínima para acesso"
+   },
+   {
+    "valor": "1",
+    "rotulo": "selfie necessária para confirmação"
+   }
+  ],
+  "fonte": "TecMundo",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "perda de acessibilidade a serviços por falta de conformidade",
+  "angulo": "Entender a nova regra é essencial para garantir o acesso de clientes e manter negócios ativos dentro da legalidade.",
+  "gancho": "Nova forma de *verificar idade* no iOS 27.2",
+  "ideias": [
+   "Você está preparado para as novas regras de verificação de idade?",
+   "Como a verificação de idade impacta seu negócio?",
+   "Alinhado com o ECA Digital? Conheça as novas exigências."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://www.estadao.com.br/tecmundo/produto-e-review/ios-272-permite-confirmar-idade-com-selfie-no-brasil-saiba-como-funciona/",
+  "publicadoEm": "2026-10-27T17:00:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-20"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Regras do Enem: atente-se às restrições tecnológicas",
+  "resumo": "No Enem 2026, dispositivos eletrônicos como celulares e smartwatches têm regras rígidas de uso. Conheça as consequências de não segui-las.",
+  "fatos": [
+   "O Enem 2026 acontecerá em 8 e 15 de novembro.",
+   "Dispositivos como smartwatches e celulares são proibidos durante a prova.",
+   "Todos os eletrônicos devem ser desligados e guardados em envelope específico.",
+   "Um único som de um dispositivo pode levar à eliminação do estudante.",
+   "Óculos inteligentes, dependendo das funções, também podem ser restritos."
+  ],
+  "explicacao": [
+   "As regras para o uso de eletrônicos no Enem visam manter a isenção e a disciplina durante a prova.",
+   "Os participantes devem seguir rigorosamente as instruções do edital para evitar punições.",
+   "Isso inclui desligar completamente os dispositivos, independentemente de intenção de uso."
+  ],
+  "materia": "Por João Melo • Editado por Léo Müller | 27/10/2026 às 14:00 Os locais de prova da edição de 2026 do Exame Nacional do Ensino Médio (Enem) foram divulgados nesta terça-feira (27) e é fundamental que os participantes estejam atentos às regras de uso dos eletrônicos nas salas de aplicação. Isso porque infringir as normas relacionadas a aparelhos como smartwatch, celular e fone de ouvido pode resultar em diferentes punições aos estudantes. Ou seja: além de separar a caneta e o documento de identificação, vale conferir como preparar dispositivos eletrônicos antes de sair de casa para evitar imprevistos durante a realização do exame. O ENEM 2026 será realizado nos dias 8 e 15 de novembro. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas E as determinações do Ministério da Educação (MEC) e do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) incidem não apenas sobre o uso, ou não, dos itens. As exigências se estendem também à forma como os dispositivos devem ser armazenados por quem vai fazer a prova. O edital do Enem 2026 proíbe que os participantes permaneçam com qualquer tipo de dispositivo eletrônico durante a aplicação das provas. A restrição abrange diferentes modelos de equipamentos, incluindo smartphones, tablets, smartwatches e fones de ouvido . Mesmo que o estudante não pretenda utilizar esses aparelhos durante o exame, eles precisam ser guardados conforme as orientações da organização . A lista de itens que devem ficar no envelope porta-objetos distribuído no local de prova inclui: Smartwatches, pulseiras inteligentes e outros dispositivos vestíveis; Calculadoras, agendas eletrônicas e tocadores de MP3; Pen drives, gravadores e dispositivos de transmissão ou recepção de dados. O edital também proíbe o porte de equipamentos capazes de transmitir, gravar ou receber dados, imagens, vídeos e mensagens. A restrição, portanto, abrange mais do que os acessórios usados habitualmente para comunicação e entretenimento. Em contato com o Canaltech , o Inep informou que o primeiro cuidado é desligar completamente os dispositivos antes de entrar na sala . Ativar o modo silencioso, o modo avião ou a opção de não perturbe não substitui essa exigência, visto que os aparelhos devem permanecer desligados. Ao entrar na sala, o participante deve colocar os aparelhos no envelope porta-objetos fornecido pelo chefe de sala. Uma desatenção nesse procedimento pode ter consequências sérias, mesmo que o participante não tenha a intenção de consultar o aparelho ou utilizar suas funções durante o exame. O edital do Enem também determina a eliminação caso um aparelho eletrônico emita qualquer tipo de som , como toque ou alarme, mesmo quando estiver dentro do envelope. Por isso, desligar os equipamentos e conferir os alarmes antes de guardá-los é uma etapa importante da preparação para a prova. Os óculos inteligentes também merecem atenção. Embora o edital não cite esse acessório nominalmente, o documento proíbe dispositivos vestíveis e equipamentos capazes de gravar ou transmitir imagens, vídeos, mensagens e outros dados. Dependendo das funções disponíveis, esses óculos podem se enquadrar nas restrições previstas para os eletrônicos. O Canaltech também consultou o Inep sobre as proibições relacionadas a esses dispositivos e sobre como os fiscais verificam se algum participante está utilizando o acessório durante a prova. O órgão, porém, não detalhou os procedimentos específicos de fiscalização. Diante desse conjunto de restrições e recomendações, a dica é revisar os itens que serão levados para a prova, desligar os dispositivos que precisem ser guardados e verificar se nenhum alarme ficou ativo. Assim, o participante reduz o risco de um problema com seus eletrônicos comprometer a realização do Enem. E se você está na dúvida entre comprar um tablet ou um notebook para estudar, pode conferir os prós e contras de cada dispositivo , além de dicas para adquirir o modelo ideal!",
+  "numeros": [],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Profissionais liberais"
+  ],
+  "dor": "Risco de eliminação por uso indevido de eletrônicos",
+  "angulo": "Entender essas regras é vital para evitar problemas e garantir que sua preparação para o Enem não seja em vão.",
+  "gancho": "Cuidado: *eliminações por eletrônicos*!",
+  "ideias": [
+   "Você está preparado para as regras do Enem?",
+   "Regras do Enem: como evitar penalizações?",
+   "O que levar para o Enem: confira nossas dicas!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://canaltech.com.br/produtos/smartwatch-pode-no-enem-veja-o-que-fazer-com-celular-relogio-e-fone/",
+  "publicadoEm": "2026-10-27T14:00:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Atualize seu Wi-Fi e evite problemas de conectividade",
+  "resumo": "A atualização do seu roteador pode melhorar a conexão em ambientes maiores e com mais dispositivos. Confira opções do TP-Link Wi-Fi 6 disponíveis na Amazon.",
+  "fatos": [
+   "Os roteadores TP-Link Deco X10 e Deco X50 estão em promoção na Amazon.",
+   "O Deco X10 cobre até 190 m² e suporta 120 dispositivos simultâneos.",
+   "O kit com duas unidades do Deco X10 expande a cobertura para 360 m².",
+   "O Deco X50 cobre até 400 m² e suporta 150 conexões ao mesmo tempo.",
+   "Ambos os modelos têm tecnologia de gerenciamento de sinal por IA para otimizar a conectividade."
+  ],
+  "explicacao": [
+   "Recentemente, o aumento no número de dispositivos conectados em residências tem demandado melhores soluções de conectividade.",
+   "Os roteadores com tecnologia Wi-Fi 6 prometem maior velocidade e estabilidade na transmissão de dados.",
+   "Com o gerenciamento inteligente por IA, essas soluções adaptam-se automaticamente ao uso, garantindo que todos os dispositivos mantenham uma conexão estável."
+  ],
+  "materia": "Se a sua internet ainda trava em alguns cômodos ou não aguenta a quantidade de dispositivos conectados em casa, este é o momento certo para atualizar o equipamento. Reunimos três opções de roteadores mesh Wi-Fi 6 da TP-Link em oferta na Amazon — todos com cobertura ampla, suporte a múltiplos dispositivos e gerenciamento inteligente por IA. Confira. TP-Link Deco X10 (1 un.) — Wi-Fi 6 AX1500 para ambientes de até 190 m² Uma unidade já cobre até 190 m² e suporta conexão simultânea de até 120 dispositivos — ideal para apartamentos e casas de médio porte. O padrão Wi-Fi 6 AX1500 traz mais velocidade e estabilidade, enquanto as duas portas Gigabit garantem conexões com fio sem gargalos. A tecnologia mesh gerenciada por IA otimiza automaticamente o sinal para cada dispositivo conectado. Ver na Amazon → TP-Link Deco X10 (2 un.) — Cobertura mesh de até 360 m² com Wi-Fi 6 Com duas unidades trabalhando em conjunto, o Deco X10 estende o sinal para até 360 m² sem pontos cegos — perfeito para casas maiores ou ambientes com muitas paredes. O kit mantém suporte a 120 dispositivos simultâneos e cada unidade conta com duas portas Gigabit. O sistema mesh é gerenciado por IA, o que significa que a rede se adapta ao uso em tempo real. Ver na Amazon → TP-Link Deco X50 (2 un.) — Wi-Fi 6 AX3000 com cobertura de 400 m² e mais portas O modelo mais robusto desta seleção entrega velocidade AX3000 — o dobro em relação ao X10 — e cobre até 400 m² com duas unidades. Suporta até 150 dispositivos conectados ao mesmo tempo e cada unidade oferece três portas Gigabit, o que facilita a conexão de equipamentos como consoles, TVs e computadores via cabo. O gerenciamento por IA também está presente, mantendo a rede estável mesmo com muito tráfego simultâneo. Ver na Amazon → Ofertas assim costumam ter estoque limitado e podem sair do ar a qualquer momento. Se um desses roteadores resolve o seu problema de conectividade, vale acessar o link e garantir o seu antes que acabe. Aviso: este artigo contém um ou mais links gerados a partir de um programa de afiliados. O valor não muda para você e o Olhar Digital poderá receber uma comissão. Nenhuma empresa participou da escolha para os links e não existiu aprovação prévia deste conteúdo, que segue independente como sempre foi. O post Sinal em todo canto: veja uma seleção de roteadores Wi-Fi 6 em promoção na Amazon apareceu primeiro em Olhar Digital .",
+  "numeros": [
+   {
+    "valor": "190 a 400 m²",
+    "rotulo": "área coberta pelos roteadores"
+   },
+   {
+    "valor": "120 a 150",
+    "rotulo": "dispositivos suportados simultaneamente"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Profissionais liberais"
+  ],
+  "dor": "conexões instáveis afetando vendas e produtividade",
+  "angulo": "Conectividade eficiente é fundamental para atender clientes e gerenciar equipes. Entender a evolução do Wi-Fi pode ajudar empresas a se manterem competitivas.",
+  "gancho": "Resolva sua *falta de conectividade* agora",
+  "ideias": [
+   "A importância de um bom Wi-Fi para o seu negócio",
+   "Conectividade: o que seu comércio precisa saber",
+   "Roupagem inteligente: roteadores que otimizam sua rede"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://olhardigital.com.br/2026/10/27/reviews/sinal-em-todo-canto-veja-uma-selecao-de-roteadores-wi-fi-6-em-promocao-na-amazon/",
+  "publicadoEm": "2026-10-27T16:18:05-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ataque de dados afeta vendas no e-commerce brasileiro",
+  "resumo": "Um ataque a uma plataforma de e-commerce expôs dados de cartões e CPFs de consumidores. Lojistas devem se atentar às suas práticas de segurança digital.",
+  "fatos": [
+   "Um código malicioso foi instalado na Convertr, usada por várias marcas de moda.",
+   "Desde 24 de outubro, o ataque capturou dados de cartões de crédito e CPFs durante compras online.",
+   "A Convertr removeu o código em 27 de outubro e notificou lojistas e autoridades.",
+   "A falha de segurança estava na versão desatualizada do software Plausible, que não recebeu atualizações desde 2025.",
+   "O ataque afetou consumidores que pagaram com cartão em páginas da Convertr, expondo informações críticas como CPF e dados do cartão."
+  ],
+  "explicacao": [
+   "O ataque teve origem em um arquivo vulnerável que coletava informações durante o processo de pagamento.",
+   "Os criminosos exploraram uma falha em um componente acessível que permitia a execução de comandos sem autenticação.",
+   "Esse tipo de invasão gera uma grande preocupação sobre a segurança das informações dos consumidores e a integridade das lojas online."
+  ],
+  "materia": "Um grupo criminoso brasileiro instalou um código malicioso na plataforma de comércio eletrônico Convertr, usada por dezenas de marcas de moda. Desde 24 de outubro, o programa capturava dados de cartões de crédito e CPFs de consumidores durante compras online. A empresa de segurança Sansec identificou o ataque. Em 27 de outubro, a Convertr informou que removeu o código e atualizou o sistema. A empresa também começou a notificar lojistas, serviços de pagamento e autoridades. O ataque explorou um arquivo compartilhado por lojas, sem exigir a invasão individual de cada site. Imagem: Gorodenkoff/ Shutterstock Como o ataque atingiu as lojas Em vez de invadir cada loja separadamente, os criminosos modificaram um único arquivo no sistema da Convertr responsável por coletar informações sobre o acesso aos sites. A plataforma utiliza o Plausible, uma ferramenta de código aberto para análise de tráfego. Como as páginas de pagamento carregavam esse arquivo, o código malicioso chegava aos consumidores de todas as lojas que utilizavam a plataforma. O programa, conhecido como skimmer, capturava informações preenchidas durante o pagamento e dados trocados entre a página de compra e o sistema que processa a transação. Quando o cliente finalizava o pedido, as informações eram enviadas para o endereço 1x0.is , controlado pelos criminosos. Entre os dados capturados estavam: Número do cartão de crédito; Data de validade e código de segurança (CVV); Nome do titular; CPF do comprador. O CPF merece atenção especial no Brasil porque, além de ser solicitado em pagamentos com cartão, também é usado por instituições financeiras para identificar clientes. Falha de segurança pode ter facilitado a invasão A Sansec identificou uma possível porta de entrada em uma versão desatualizada do Plausible Community Edition, edição gratuita que pode ser instalada no próprio servidor de uma empresa. A Convertr utilizava a versão 3.0 desde 2025, sem atualizações. A falha, identificada como CVE-2026-8467, afetava as versões de 3.0.0 a 3.2.0. Ela permitia que uma pessoa executasse comandos no servidor sem precisar fazer login, por meio de um componente acessível pelo endereço /storybook . Na prática, isso poderia dar a um invasor acesso para executar ações no sistema. O problema foi corrigido em maio de 2026, com o lançamento da versão 3.2.1. A Sansec não conseguiu confirmar se essa vulnerabilidade foi usada para invadir a Convertr, pois não teve acesso aos registros do servidor. A empresa de segurança acompanha o grupo criminoso desde julho de 2024. Antes desse caso, os ataques identificados atingiam lojas individualmente, principalmente no Brasil, que utilizavam plataformas como Magento, OpenCart e WooCommerce. Segundo a Sansec, o episódio da Convertr foi o primeiro ataque do grupo à cadeia de fornecimento: em vez de comprometer cada loja, os criminosos atingiram um fornecedor comum a várias delas. O script redirecionava dados como número do cartão, CVV, nome e CPF diretamente para servidores externos. – Imagem: Pixel-Shot/Shutterstock O que fazer após uma compra A Sansec confirmou em 27 de outubro que o arquivo adulterado estava limpo. Mesmo assim, navegadores podem guardar temporariamente uma cópia do arquivo infectado por até 24 horas após a correção. Isso significa que alguns acessos ainda podem carregar a versão antiga durante esse período. Quem pagou com cartão desde 24 de outubro em uma página cujo endereço continha checkout.convertr deve entrar em contato com o banco para solicitar o bloqueio e a substituição do cartão. Também é importante acompanhar possíveis fraudes envolvendo o CPF. Lojistas que utilizam a Convertr devem confirmar com a plataforma que o arquivo foi corrigido e avisar seus serviços de pagamento. Já quem administra uma instalação própria do Plausible deve atualizar o programa para a versão 3.2.1 ou posterior e verificar se houve acessos suspeitos ao endereço /storybook . O post Ataque rouba dados de cartões e CPFs em lojas brasileiras apareceu p",
+  "numeros": [
+   {
+    "valor": "2026",
+    "rotulo": "ano da correção da falha de segurança"
+   },
+   {
+    "valor": "24 de outubro",
+    "rotulo": "data de início do ataque"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de dados sensíveis e confiança do consumidor",
+  "angulo": "Com a crescente ameaça de ataques cibernéticos, as empresas precisam se proteger e melhorar sua presença digital para manter a confiança dos clientes.",
+  "gancho": "*Segurança digital* em risco no seu e-commerce?",
+  "ideias": [
+   "Como proteger seu e-commerce de ataques?",
+   "A importância de manter seu software atualizado",
+   "Dados de clientes: o que você precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://olhardigital.com.br/2026/10/27/seguranca/ataque-rouba-dados-de-cartoes-e-cpfs-em-lojas-brasileiras/",
+  "publicadoEm": "2026-10-27T15:59:47-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Instagram testa vídeos de até 90 minutos para creators",
+  "resumo": "Instagram começa a testar vídeos longos, permitindo conteúdos de até 90 minutos, diminuindo a dependência de plataformas como o YouTube.",
+  "fatos": [
+   "O Instagram está testando um novo formato que permite vídeos de até 90 minutos.",
+   "Essa funcionalidade está disponível para alguns creators no Brasil e começando a ser liberada nos EUA.",
+   "O novo formato deve incluir conteúdos como podcasts e entrevistas, oferecendo mais espaço para publicidade.",
+   "Os vídeos curtos do Reels serão utilizados para conectar o público ao conteúdo longo.",
+   "Adam Mosseri, diretor do Instagram, expressou a intenção de criá-los de forma simbiótica.",
+   "Não há garantias de que a funcionalidade será expandida para todos os usuários.",
+   "Com isso, o Instagram busca aumentar o tempo gasto na plataforma, desafiando o domínio do YouTube."
+  ],
+  "explicacao": [
+   "O Instagram está mudando de estratégia, buscando atrair os usuários com vídeos longos que retêm mais a atenção.",
+   "Essa mudança busca competir com o YouTube, que até agora domina a receita de monetização através de vídeos extensos.",
+   "A plataforma ainda não definiu como os creators poderão lucrar com essa nova funcionalidade.",
+   "No passado, tentativas como o IGTV não tiveram sucesso, mas o cenário atual torna essa tentativa mais promissora.",
+   "A integração entre vídeos curtos e longos pode alterar a interação do usuário com a plataforma."
+  ],
+  "materia": "Depois de passar anos tentando deixar os vídeos cada vez mais curtos, o Instagram decidiu testar o caminho contrário. A plataforma começou a experimentar o Features , formato que permite publicar vídeos horizontais de até 90 minutos. A novidade está sendo testada com alguns creators no Brasil e agora começa a chegar a um pequeno grupo nos Estados Unidos. Podcasts, entrevistas, especiais de comédia e episódios completos estão entre os conteúdos que poderão ganhar espaço e transformar a forma como os usuários consomem a rede. Mas a intenção não é abandonar os Reels, formato de vídeos curtos típico da plataforma. O Instagram quer usar esses vídeos para levar o público até as produções maiores. Com o recurso Clips as Reels , creators poderão transformar trechos dos conteúdos longos em Reels conectados à versão completa. Assim, uma entrevista de uma hora pode render vários cortes distribuídos pelo feed. Ao encontrar um deles, o usuário poderá seguir para o conteúdo completo sem precisar sair da plataforma e procurar o vídeo no YouTube. “Estamos tentando fazer com que os vídeos curtos e longos sejam simbióticos”, explicou Adam Mosseri, diretor do Instagram , ao apresentar a novidade. O movimento coloca o Instagram em um território no qual o YouTube ainda é dominante: a remuneração dos creators. No Instagram, os creators ganham dinheiro principalmente por meio de contratos com marcas e, em menor escala, com assinaturas e outras ferramentas da plataforma. Já o YouTube compartilha com os participantes de seu programa parte da receita gerada pelos anúncios exibidos nos vídeos. Conteúdos mais longos também oferecem mais espaço para inserir publicidade. Por isso, a chegada do Features gera outra curiosidade: o Instagram pretende começar a dividir essa receita com quem produz? Por enquanto, a Meta não apresentou o modelo definitivo. A empresa está estudando formas para os creators ganharem dinheiro com marcas, fãs e com o próprio Instagram, inclusive por meio de incentivos baseados em desempenho. A resposta continua em aberto, mas revela onde está uma das partes mais importantes dessa disputa. Se quiser convencer creators a publicar produções completas na plataforma, o Instagram precisará oferecer mais do que alcance, e apresentar uma proposta capaz de competir com o que o YouTube já oferece. Não é a primeira vez que o Instagram tenta ocupar esse espaço. Em 2018, a plataforma lançou o IGTV, que aceitava vídeos de até uma hora, mas o produto foi encerrado alguns anos depois. Adam diz que resistiu durante muito tempo ao retorno dos vídeos longos. A preocupação era que conteúdos extensos diminuíssem as interações rápidas que sustentam o Instagram, como o envio de Reels, fotos e carrosséis por mensagens. Mas desta vez, o contexto é outro. O público já está acostumado a descobrir podcasts, entrevistas e programas por meio de cortes. O que o Instagram tenta fazer é eliminar a saída que normalmente acontece depois dessa descoberta. O teste ainda é pequeno e não há garantia de que o formato chegará a todos os usuários. Mas reforça o movimento de que as plataformas já não querem ser associadas a apenas uma maneira de consumir vídeos. O YouTube investiu nos Shorts para conquistar quem prefere vídeos rápidos . Agora, o Instagram faz o movimento contrário e tenta convencer seus usuários a ficar por mais tempo. O Reels provavelmente continuará sendo o primeiro encontro com boa parte dos conteúdos. A diferença é que, se o usuário quiser permanecer por mais 90 minutos, o Instagram não pretende mais entregá-lo tão facilmente ao YouTube. A evolução do consumidor traz uma série de desafios inéditos, inclusive para os modelos de gestão corporativa. A Consumidor Moderno tornou-se especialista em entender essas mutações e identificar tendências. Como um ecossistema de conteúdo multiplataforma, temos o inabalável compromisso de traduzir essa expertise para o mundo empresarial assimilar a importância da inserção do consumidor no centro de suas decisões e estraté",
+  "numeros": [],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda de oportunidades com a evolução das plataformas digitais.",
+  "angulo": "Entender as novas dinâmicas sobre vídeos pode levar empresários a otimizar sua presença digital.",
+  "gancho": "*Novidades no Instagram que impactam* seu negócio!",
+  "ideias": [
+   "Como os vídeos longos mudam o Instagram?",
+   "Prepare-se para conteúdos mais extensos!",
+   "Instagram vs YouTube: quem será o vencedor?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://consumidormoderno.com.br/instagram-sera-o-novo-youtube-rede-testa-videos-de-ate-90-minutos/",
+  "publicadoEm": "2026-10-27T13:30:43-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência Artificial: peça chave no varejo atual",
+  "resumo": "O uso da Inteligência Artificial está revolucionando o atendimento ao cliente no varejo, oferecendo novas oportunidades de gestão. O Meetupwow! destacará essa transformação em São Paulo.",
+  "fatos": [
+   "O Meetupwow! acontece no dia 29, em São Paulo.",
+   "O tema é 'Humano & IA: o equilíbrio que transforma experiências'.",
+   "Executivos de grandes empresas irão compartilhar práticas sobre atendimento e tecnologia.",
+   "Palestras incluirão discussões sobre IA no varejo e na mobilidade.",
+   "Participam líderes de empresas como Leroy Merlin, Riachuelo e Nespresso."
+  ],
+  "explicacao": [
+   "O avanço da Inteligência Artificial permite otimizar o atendimento ao cliente e a gestão de relacionamentos no varejo.",
+   "Eventos como o Meetupwow! propõem discutir como unir tecnologia e o capital humano para aprimorar experiências.",
+   "As estratégias apresentadas podem inspirar empresários a integrar a IA em suas operações, o que é crucial para se manter competitivo."
+  ],
+  "materia": "A avanço da Inteligência Artificial no varejo traz novas possibilidades para o atendimento ao consumidor e a gestão do relacionamento com clientes. As aplicações da tecnologia e a participação das pessoas nesses processos serão destaques no Meetupdow!, encontro promovido pela Comunidade Xperience Makers,na próxima quinta-feira, 29, no Espaço do Bosque, em São Paulo. Com o tema “Humano & IA: o equilíbrio que transforma experiências ”, o evento terá palestras e painéis com executivos de grandes empresas, que apresentarão experiências e práticas nas áreas de atendimento, tecnologia e gestão de clientes. A programação inclui discussões sobre o uso da inteligência artificial no varejo e na mobilidade. “A transformação das experiências acontece quando conectamos pessoas, conhecimento e negócios. A tecnologia e a Inteligência Artificial ampliam nossas possibilidades, mas são as pessoas, as relações e as decisões que determinam o valor dessa transformação”, afirma Christiano Bem, fundador da Xperience Makers e idealizador do Meetupwow!. Entre os nomes confirmados estão Karla Santos, diretora de Experiência e Atendimento ao Cliente da Leroy Merlin; Wellington José da Silva, diretor de Tecnologia para IA da Riachuelo; Mariah Natale, gerente sênior de CX da Nespresso, e Renata Persona Heszki, diretora de Marketing para a América Latina da TotalPass. Nesta edição, a curadoria do evento trará aos painéis e palestras cases práticos e estratégias de lideranças de grandes corporações. A pauta engloba temas de vanguarda, como “IA na Prateleira: o futuro do varejo” e “Da Origem ao Destino: a transformação da mobilidade”. Mediado por Aiana Freitas, editora-executiva da Mercado&Consumo , o painel “Experiência que dá retorno” discutirá como os dados e a IA estão mudando o relacionamento com clientes no mercado financeiro. Participam da mesa Luciana Marinho, superintendente-executiva de Atendimento do Bradesco; Isabela Ferreira, diretora-executiva de Customer Experience, Customer Success e Qualidade do BTG Pactual; e Mariano Teixeira, superintendente-executivo de Atendimento da Getnet Brasil. O encontro faz parte da agenda da Comunidade Xperience Makers, criada há mais de dez anos por Christiano Bem. O grupo reúne executivos e empresas interessados na gestão da experiência e desenvolve atividades de conteúdo, encontros profissionais e publicações sobre o setor. “O futuro da experiência do cliente não será definido apenas pela tecnologia, mas pela forma como combinamos inteligência artificial, dados e talento humano para gerar valor real para empresas e consumidores”, afirma Pablo Antoja, CEO da TP Brasil, que recebe o evento. Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "concorrência crescente e falta de inovação",
+  "angulo": "Investir em inteligência artificial é essencial para que empresas estejam preparadas para as novas demandas do mercado e mantenham a relevância.",
+  "gancho": "*IA no varejo*: a nova era do atendimento",
+  "ideias": [
+   "A importância da IA no atendimento ao cliente",
+   "Experiências de sucesso com IA no varejo",
+   "Como a tecnologia está mudando o consumidor"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://mercadoeconsumo.com.br/27/10/2026/noticias/uso-da-ia-na-experiencia-com-clientes-e-pauta-do-meetupwow/",
+  "publicadoEm": "2026-10-27T14:12:59-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Fim da 6×1: O que muda para o seu negócio?",
+  "resumo": "A Riachuelo se adapta ao novo regime de trabalho implantando IA. A mudança pode afetar como você organiza sua equipe e suas vendas.",
+  "fatos": [
+   "Em dezembro, as lojas começam a adotar a jornada 5×2 em vez da 6×1.",
+   "A mudança é resultado da Emenda Constitucional nº 141, publicada em outubro.",
+   "Riachuelo criou o WFM Hub, melhorando a gestão da força de trabalho em suas lojas.",
+   "Este sistema pode gerar entre R$ 20 milhões e R$ 25 milhões em economia.",
+   "A companhia quer treinar 4 mil funcionários em IA até o fim do ano."
+  ],
+  "explicacao": [
+   "A troca de jornada reduz a carga horária de 44 para 42 horas semanais, impactando diretamente a equipe.",
+   "As novas regras começam a valer no fim de 2026, coincidentemente com a temporada de Natal.",
+   "O uso do WFM Hub permitirá um melhor planejamento e organização, essencial para evitar perdas financeiras."
+  ],
+  "materia": "Em dezembro, o varejo começa a trocar a escala 6×1 pela 5×2 e terá de refazer a conta de quem trabalha, quando e onde. Na Riachuelo , parte dessa conta já roda numa ferramenta criada por um profissional de planejamento de operações, sem passar pelas mãos de engenheiros. Ela saiu do Builders , programa que ensina funcionários de diferentes áreas a construir suas próprias soluções de Inteligência Artificial e que, em três meses, reuniu 30 projetos. O calendário não ajuda o varejo. A escala 6×1 acabou no papel em outubro, quando a Emenda Constitucional nº 141 foi publicada no Diário Oficial da União, e as novas regras passam a valer em 16 de dezembro de 2026, reduzindo a jornada semanal de 44 para 42 horas. Ou seja, a mudança chega às lojas de moda na semana mais disputada do ano, a do Natal. Quem abre as portas sete dias por semana terá de cobrir os mesmos horários com outra combinação de folgas, e o cliente não vai querer que essa experiência em loja seja ruim. Na Riachuelo, a companhia já se adiantou e buscou auxílio dentro de casa. Chama-se WFM Hub (a sigla vem de workforce management , ou gestão da força de trabalho) e serve para antecipar picos de movimento e distribuir as equipes de acordo com eles. Segundo a empresa, o sistema já está implantado em todas as lojas e tem potencial de gerar entre R$ 20 milhões e R$ 25 milhões em economia. E quem desenvolveu a solução foi um profissional da área de Planejamento de Operações, não um programador. O WFM Hub é um dos frutos do Builders , aceleradora interna que a Riachuelo criou para ensinar funcionários de diferentes departamentos, muitos deles sem formação técnica, a construir aplicações de IA a partir de problemas reais do dia a dia. Os participantes aprendem a usar ferramentas no-code , que permitem montar sistemas sem escrever uma linha de programação, e o chamado vibe coding , em que a pessoa descreve em linguagem comum o que precisa e a IA escreve o código. A empresa não começou do zero. Já tinha projetos de IA em frentes como precificação, abastecimento e atendimento. Com a popularização da IA generativa em 2025, a tecnologia passou a fazer parte do trabalho individual de muita gente. O passo seguinte foi tirar esse uso da esfera pessoal e aplicá-lo a processos inteiros. Em 90 dias, o programa juntou 30 projetos; 20 deles já estão em fase de piloto e devem ganhar escala nas próximas semanas. Para Ney Santos , VP de Tecnologia e Inovação da Riachuelo , isso muda o papel da própria área que ele comanda. “A velocidade que o negócio precisa exige uma nova forma de trabalhar com tecnologia. O papel de Tech não é centralizar a construção de todas as soluções, mas atuar como curador, garantindo arquitetura, integração e segurança para que as áreas possam inovar com mais autonomia e velocidade”, afirma. Os outros casos mostram até onde o modelo vai. No RH, uma solução automatiza feedbacks e indicadores de desempenho dos cerca de 33 mil funcionários da varejista, com potencial de devolver 3.600 horas de trabalho às lideranças. Na área financeira, um sistema analisa aproximadamente 3 mil propostas de crédito por dia, cruza informações para identificar riscos e pode evitar perdas de R$ 6 milhões. Há ainda projetos dedicados a entender a conversão no e-commerce e a transformar indicadores financeiros em planos de ação. Somados, os projetos dão à companhia uma estimativa de retorno de R$ 16 para cada R$ 1 investido. Vale registrar que a conta é da própria Riachuelo e considera o potencial das soluções, não resultados consolidados. A meta é chegar a 4 mil funcionários treinados em IA até o fim do ano. O fim da 6×1 é, antes de tudo, uma mudança na vida de quem trabalha. Mas ele também altera a aritmética de quem administra. Depois da primeira etapa, a redução final leva a jornada para 40 horas semanais, 14 meses após a promulgação. Com menos horas disponíveis por pessoa, cada turno mal planejado custa mais, seja em hora extra, seja em loja vazia de vendedor no momento em que o cliente e",
+  "numeros": [
+   {
+    "valor": "44 para 42",
+    "rotulo": "horas de trabalho por semana"
+   },
+   {
+    "valor": "R$ 20 a R$ 25 milhões",
+    "rotulo": "economia estimada"
+   },
+   {
+    "valor": "4 mil",
+    "rotulo": "funcionários a serem treinados em IA"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "Perda de controle sobre a equipe e aumento de custos",
+  "angulo": "A adaptação à nova jornada de trabalho exige inovação e eficiência. Conheça como nosso suporte em marketing pode ajudar sua empresa a se adaptar.",
+  "gancho": "Prepare-se para a *nova jornada de trabalho*",
+  "ideias": [
+   "Como a Riachuelo se adapta à nova jornada",
+   "5 dicas para gerenciar sua equipe com a nova legislação",
+   "O impacto da IA na gestão de equipes"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://consumidormoderno.com.br/riachuelo-ia-builders-cm-6x1/",
+  "publicadoEm": "2026-10-27T15:22:03-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A Lenovo e a nova era do e-commerce no Brasil",
+  "resumo": "Com a transformação do comportamento do consumidor e o avanço da IA, a Lenovo reposiciona suas vendas online como crucial para o crescimento. Entenda como isso impacta os negócios.",
+  "fatos": [
+   "A Lenovo viu seu e-commerce passar de 2% para 25% do faturamento no Brasil.",
+   "Atualmente, 80% das compras de computadores são realizadas online.",
+   "Em seis anos, o time de consultores da Lenovo cresceu de menos de 20 para cerca de 120 profissionais.",
+   "A nova estratégia de e-commerce acompanha as mudanças nos hábitos de consumo.",
+   "A inteligência artificial agora ajuda usuários a encontrar produtos mais adequados às suas necessidades."
+  ],
+  "explicacao": [
+   "A mudança no consumidor e o crescimento das vendas online forçaram a Lenovo a adaptar suas estratégias de e-commerce.",
+   "A relação entre compras online e físicas tornou-se desbalanceada, favorecendo o digital.",
+   "A nova postura permite entender melhor o consumidor, aprimorando o atendimento e a experiência de compra."
+  ],
+  "materia": "A mudança no comportamento do consumidor, o avanço das vendas online e a crescente influência da Inteligência Artificial estão redesenhando o e-commerce no Brasil. Nesse cenário, marcas têm sido pressionadas a rever estratégias para gerar valor, fortalecer a confiança dos clientes e acompanhar novas formas de consumo. Na Lenovo , essa transformação alterou o papel do canal digital. O que antes funcionava principalmente como uma vitrine institucional e de produtos passou a ocupar uma posição estratégica no negócio, reunindo venda direta, atendimento consultivo, análise de dados e iniciativas voltadas à experiência do cliente. Há cerca de seis anos, o e-commerce próprio respondia por apenas 2% do faturamento da companhia no País, enquanto cerca de 98% das vendas eram realizadas por canais indiretos, como o varejo. Hoje, segundo a empresa, a venda direta representa apenas cerca de um quarto da operação brasileira. De acordo com Tiago Caczmareki, diretor de E-commerce da Lenovo no Brasil , essa mudança reflete uma transformação mais ampla nos hábitos de consumo. “A relação entre compras online e presenciais no mercado de computadores, que antes se aproximava de uma divisão equilibrada, passou a favorecer significativamente o ambiente digital, com uma proporção estimada de 80% das compras online e 20% em lojas físicas”, afirma. Mais do que uma simples migração de canal, a mudança transformou a forma como os consumidores pesquisam produtos, comparam alternativas, buscam informações e tomam decisões. Para a Lenovo, acompanhar essa nova dinâmica exige uma presença digital mais robusta e a capacidade de atuar em diferentes etapas da jornada de compra. Um dos principais motivos para a revisão da estratégia é a possibilidade de estreitar o relacionamento com o cliente final. Quando a venda acontece exclusivamente por meio de parceiros comerciais, a fabricante tem acesso limitado às interações que antecedem e sucedem a compra. Com o canal próprio, passa a acompanhar mais de perto esse processo e a identificar oportunidades de melhoria com maior rapidez. O diferencial está na capacidade de entender o comportamento do consumidor , medir a efetividade das campanhas e identificar em quais momentos a empresa avança na conversão ou perde oportunidades de negócio. A venda direta permite uma visão mais ampla da jornada de compra . Em vez de analisar apenas o resultado final da comercialização, a companhia consegue acompanhar diferentes pontos de contato e usar essas informações para aperfeiçoar sua atuação. A transformação também se reflete na estrutura de atendimento. Segundo Tiago, nos últimos seis anos, o número de consultores e vendedores responsáveis pelos contatos gerados no site passou de menos de 20 para cerca de 120 profissionais, considerando as diferentes áreas envolvidas. O movimento reforça que a digitalização não eliminou a importância do atendimento humano. Mesmo com consumidores mais habituados a comprar pela internet, a busca por orientação continua relevante, especialmente na aquisição de produtos tecnológicos de maior valor ou que exigem análise mais cuidadosa de especificações e compatibilidade. Outro fator que impulsiona a redefinição da estratégia é o avanço da IA na jornada de compra . A tecnologia começa a assumir parte do papel tradicionalmente exercido pelos mecanismos de busca, ajudando consumidores a comparar marcas, identificar características relevantes e encontrar produtos mais adequados às suas necessidades. Em vez de pesquisar apenas por especificações técnicas, como marca ou modelo de processador, o consumidor pode fazer perguntas mais complexas, como qual notebook é mais indicado para a faculdade, para determinado software ou para uma atividade profissional específica. As respostas passam a considerar fatores como funcionalidades, reputação da marca, avaliações de usuários e adequação a diferentes contextos de uso. “Não basta disponibilizar informações em seu próprio site. A empresa também precisa garantir que s",
+  "numeros": [
+   {
+    "valor": "80 a 20",
+    "rotulo": "proporção de compras online versus lojas físicas"
+   },
+   {
+    "valor": "2 a 25",
+    "rotulo": "percentual de vendas diretas no faturamento"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de oportunidades de vendas e relacionamento com clientes",
+  "angulo": "A evolução das vendas online e a necessidade de adaptação à nova jornada do consumidor são temas que podem instigar o empresário a buscar soluções no marketing digital.",
+  "gancho": "*Transformação digital* das vendas: o que você precisa saber?",
+  "ideias": [
+   "Como a IA redefine seu e-commerce",
+   "A importância do digital commerce hoje",
+   "Estratégias para fortalecer a experiência do cliente"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://consumidormoderno.com.br/por-que-a-lenovo-redefiniu-sua-estrategia-de-vendas-online-no-brasil/",
+  "publicadoEm": "2026-10-27T16:06:32-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-13"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Explorando a IA no e-commerce: desafios e oportunidades",
   "resumo": "O uso de IA pelos lojistas já apresenta resultados, mas ainda existem promessas em desenvolvimento. Conheça o que está funcionando e o que se espera do futuro.",
   "fatos": [
@@ -689,6 +1169,220 @@
   "publicadoEm": "2026-10-27T03:03:45-03:00",
   "data": "2026-10-27",
   "id": "2026-10-27-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Escala 5x2 pode ter exceções; saiba mais",
+  "resumo": "O governo Lula está preparando novas regras para permitir exceções à jornada de trabalho de 5x2, afetando alguns setores. Isso pode impactar trabalhadores e empregadores.",
+  "fatos": [
+   "O governo Lula está desenvolvendo regras para aplicar exceções à jornada de 5x2.",
+   "Essas novas diretrizes podem beneficiar setores específicos do mercado.",
+   "Trabalhadores e empresas podem ser afetados de maneiras diferentes."
+  ],
+  "explicacao": [
+   "As mudanças nas regras de jornada de trabalho visam adaptar a legislação às necessidades de diferentes setores.",
+   "Isso pode trazer mais flexibilidade para empresas que dependem de escalas de trabalho diferenciadas.",
+   "Para os trabalhadores, isso pode significar novas oportunidades, mas também incertezas em relação à carga horária."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Mercado e Eventos",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "medo da insegurança no emprego e na renda",
+  "angulo": "Aprender sobre o mercado financeiro pode ajudar a diversificar a renda e a lidar melhor com mudanças nas leis trabalhistas.",
+  "gancho": "*Novas regras de trabalho* podem impactar seu bolso",
+  "ideias": [
+   "Impacto das novas jornadas no seu bolso",
+   "Como as mudanças afetam sua renda",
+   "A importância de diversificar sua renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://www.mercadoeeventos.com.br/noticias/politica/governo-lula-prepara-regras-para-excecoes-a-escala-5x2-veja-quais-jornadas-podem-ficar-de-fora/",
+  "publicadoEm": "2026-10-27T14:46:49-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 traz incertezas para bares e restaurantes",
+  "resumo": "A Abrasel alerta sobre a falta de regulamentações específicas para o setor com o fim da escala 6x1. Empresários devem aguardar novas definições do governo antes de tomar ações.",
+  "fatos": [
+   "A Abrasel enviou a versão 3.0 do guia 'Proibição da escala 6x1' aos empresários.",
+   "Não há regras específicas para bares e restaurantes na nova legislação.",
+   "A Emenda Constitucional 141 garante folgas semanais e reduz a jornada.",
+   "Mudanças na jornada máxima ocorrerão a partir de 15 de dezembro.",
+   "94,3% dos estabelecimentos CLT trabalham com mensalistas com uma folga por semana.",
+   "A Abrasel estima um aumento de até 20% nos custos com pessoal devido às novas regras.",
+   "Os empresários devem revisar contratos e folha de pagamento antes de dezembro."
+  ],
+  "explicacao": [
+   "A nova legislação altera a jornada de trabalho, criando insegurança no setor de bares e restaurantes.",
+   "Embora as regras ainda não sejam claras, os empresários são aconselhados a planejar suas operações.",
+   "Mudanças na escala de trabalho podem afetar o orçamento da empresa, elevando os custos com pessoal."
+  ],
+  "materia": "Associação envia a versão 3.0 do guia \"Proibição da escala 6x1\" e orienta empresários a esperar novas definições do governo, sem contar com exceções que ainda não existem Nenhuma regra específica para bares e restaurantes foi anunciada até agora na regulamentação do fim da escala 6x1. O alerta é da Abrasel, que nesta terça-feira (27) enviou aos empresários do setor a versão 3.0 do guia \"Proibição da escala 6x1\" e um comunicado do presidente-executivo, Paulo Solmucci, para conter a circulação de informações falsas e desencontradas sobre o tema. Também nesta terça, a senadora Teresa Leitão (PT-PE), líder do partido no Senado, afirmou que o governo federal discute a regulamentação das exceções à nova jornada. Está prevista uma lei complementar para jornadas atípicas, que não cabem no modelo 5x2, como os regimes de plantão e a jornada dos aeroviários. Um decreto ainda está em estudo no Ministério do Trabalho. A senadora citou a possibilidade de medidas para empresas que precisarem contratar mais funcionários por causa da mudança, sem dar detalhes. Bares e restaurantes aparecem com frequência na fala de autoridades sobre o tema. Nenhuma das medidas citadas até aqui trata do setor. \"Circulam mensagens prometendo exceção para bares e restaurantes. Isso não existe hoje. O momento é de cautela, recomendo não tomar ações precipitadas até a primeira semana de novembro, quando devemos ter mais notícias por parte do governo e do parlamento\", afirma Paulo Solmucci, presidente executivo da Abrasel . O que já vale é a Emenda Constitucional 141, promulgada em 16 de outubro. A partir de 15 de dezembro, ela garante duas folgas semanais remuneradas e reduz a jornada máxima de 44 para 42 horas semanais, sem corte de salário. O limite cai para 40 horas no fim de 2027. Acordos e convenções coletivas que não se adequarem perdem a validade em dezembro. A mudança atinge quase todo o setor. Em pesquisa nacional da Abrasel feita em fevereiro de 2026 com 1.838 empresários, 94,3% dos estabelecimentos com empregados CLT disseram trabalhar com mensalistas que têm uma folga por semana. A Abrasel estima que o custo com pessoal pode subir até 20%. A orientação da Abrasel é planejar a nova escala a partir do texto da emenda, sem contar com exceções para bares e restaurantes. Antes de agir ou repassar qualquer notícia sobre o tema, o empresário deve conferir a origem da informação, já que as regras oficiais saem no Diário Oficial da União, no Congresso e no Ministério do Trabalho. Folha de pagamento e contratos precisam ser revisados com o contador e o advogado trabalhista antes de dezembro. A convenção coletiva será revista com os sindicatos, e a Abrasel vai informar os empresários sobre o andamento das negociações. O guia \"Proibição da escala 6x1\" é gratuito, está disponível no site https://abrasel.com.br/cartilhas/ e será atualizado a cada etapa da regulamentação. No Congresso, a Abrasel segue defendendo a PEC 12/2026, conhecida como PEC do Trabalho Flexível, que trata da contratação por hora. Ainda não é associado Abrasel? Clique e conheça os benefícios!",
+  "numeros": [
+   {
+    "valor": "20%",
+    "rotulo": "aumento estimado nos custos de pessoal"
+   },
+   {
+    "valor": "42 horas",
+    "rotulo": "nova jornada máxima de trabalho por semana"
+   },
+   {
+    "valor": "16 de outubro",
+    "rotulo": "data da promulgação da Emenda Constitucional 141"
+   }
+  ],
+  "fonte": "Abrasel",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT"
+  ],
+  "dor": "aumento inesperado dos custos operacionais",
+  "angulo": "Compreender as novas regras é essencial para evitar surpresas e proteger sua margem de lucro.",
+  "gancho": "Prepare-se: *fim da escala 6x1* pode impactar seu negócio",
+  "ideias": [
+   "Como a nova legislação afetará seu restaurante?",
+   "Aumento de custos: o que os empresários devem saber",
+   "O que mudar na sua escala de trabalho agora?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://abrasel.com.br/noticias/noticias/fim-da-escala-6x1-governo-ainda-nao-definiu-regras-para-bares-e-restaurantes-alerta-abrasel/",
+  "publicadoEm": "2026-10-27T16:43:30-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e novos desafios em SC",
+  "resumo": "Novo modelo de trabalho pode gerar mais contratações e impactos nos custos. Comércio deverá reorganizar suas equipes para manter atendimento aos clientes.",
+  "fatos": [
+   "A nova jornada de trabalho foi promulgada pelo Congresso Nacional em 16 de outubro.",
+   "A mudança da escala 6x1 para 5x2 entra em vigor em meados de dezembro de 2026.",
+   "A medida pode beneficiar 1.042.178 trabalhadores em Santa Catarina.",
+   "A nova semana de trabalho prevê cinco dias de labor e dois de descanso, sem redução salarial.",
+   "A mudança exigirá que empresários avaliem a necessidade de novas contratações antes de sua implementação."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 visa adaptar o comércio para funcionar sete dias por semana, especialmente durante a alta temporada.",
+   "A mudança pode aumentar os custos com a contratação de novos funcionários para garantir o funcionamento das lojas.",
+   "Os empresários precisarão repensar suas equipes e horários, impactando o preço dos produtos e serviços oferecidos aos consumidores."
+  ],
+  "materia": "Fim da escala 6x1 pode exigir novas contratações no comércio de Balneário Camboriú e Camboriú (Foto: Marcelo Camargo, Agência Brasil, PMBC, Reprodução) O fim da escala 6×1 pode levar empresas de Balneário Camboriú e Camboriú a contratar mais funcionários para manter as portas abertas durante os sete dias da semana. Promulgada pelo Congresso Nacional em 16 de outubro, a mudança na jornada de trabalho deve exigir uma reorganização das equipes, especialmente no comércio, que se prepara para dias intensos de vendas durante a alta temporada de verão. Segundo o advogado Jaime Schappo, assessor jurídico do Sindicato dos Lojistas do Comércio (Sindilojas), de Balneário Camboriú e Camboriú, um dos principais desafios da escala 5×2, que prevê cinco dias de trabalho e dois de descanso, sem redução salarial, será organizar as equipes para assegurar as folgas dos trabalhadores sem comprometer o funcionamento das lojas e a viabilidade financeira dos negócios. Para ilustrar o impacto da mudança, Schappo cita o exemplo de uma empresa pequena com dois funcionários que precisa funcionar todos os dias da semana. Com a nova jornada, o estabelecimento pode precisar contratar mais um trabalhador para manter o atendimento, o que aumentaria os gastos com salários e outros custos com colaboradores. “Se tenho dois funcionários e contrato mais um, vou ter aumento proporcional nos meus encargos decorrentes da mão de obra. Eu vou repassar para o produto. Quem vai pagar? O consumidor. Dentre eles, o próprio trabalhador”, avalia o advogado. Já para o líder sindical Ivo Castanheira, diretor da Federação dos Empregados no Comércio de Santa Catarina (Fecesc), entidade ligada à Central Única dos Trabalhadores (CUT) a aprovação da medida vai melhorar a qualidade de vida dos trabalhadores, gerar mais vagas e a economia vai se adaptar. “A aprovação dessa mudança agora, na véspera da eleição, foi o momento certo. Se não fosse agora, com certeza os senadores não aprovariam. Para favorecer os trabalhadores tinha que ser assim”, afirma Ivo. O líder sindical chama a atenção para a série de desafios dos trabalhadores brasileiros. O primeiro é a média salarial muito baixa. A outra é o stress. Muitas mulheres chefes de família estão com jornada cansativa e isso gera doenças mentais, por isso essa mudança será positiva, observa o líder sindical. Com o fim da escala 6×1 previsto para começar 60 dias após a promulgação, a jornada 5×2 deve entrar em vigor em meados de dezembro de 2026, às vésperas da alta temporada de verão. O período costuma exigir um reforço nas equipes do comércio das cidades do Litoral Norte catarinense para atender ao aumento no movimento de moradores e turistas. Somente entre outubro e dezembro de 2025, o comércio das duas cidades registrou saldo positivo de 468 empregos, conforme levantamento da Fecomércio-SC, por meio da plataforma Sfera. No mesmo período de 2024, o resultado foi ainda maior, com saldo de 491 vagas. Para a assesoria jurídica do sindicato, os números reforçam importância das contratações de fim de ano para o setor. Com a nova jornada, os empresários terão que avaliar se será necessário ampliar as equipes ou reorganizar os horários para manter o atendimento durante toda a semana. Além de rever as escalas e a composição das equipes, o comércio precisará avaliar as convenções coletivas de trabalho, que atualmente preveem jornada de 44 horas semanais. De acordo com Schappo, por orientação da Fecomércio-SC, o Sindilojas Balneário Camboriú e Camboriú deve iniciar reuniões para estudar as adequações necessárias e orientar os empresários sobre a aplicação das novas regras. O advogado também destaca que ainda há pontos a serem regulamentados , especialmente em relação a possíveis medidas específicas para micro e pequenas empresas. Diante desse cenário, a recomendação é que os comerciantes comecem a calcular os custos e avaliar a necessidade de novas contratações antes da entrada em vigor das primeiras mudanças. “Temos que refletir um pouco, mas ",
+  "numeros": [
+   {
+    "valor": "44,72%",
+    "rotulo": "trabalhadores afetados em SC"
+   }
+  ],
+  "fonte": "NSC Total",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Aumento nos custos e incertezas nas contratações.",
+  "angulo": "Entender as novas exigências do comércio é fundamental para lidar com as mudanças e garantir que seu negócio continue viável sem as amarras tradicionais.",
+  "gancho": "*Reorganização exigida* com o fim da escala 6x1",
+  "ideias": [
+   "Como a nova rotina pode impactar seu comércio?",
+   "Desafios do fim da escala 6x1 na prática.",
+   "Novas contratações: necessidade ou opção?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://www.nsctotal.com.br/economia/temos-que-nos-adaptar-fim-da-escala-6x1-pode-exigir-novas-contratacoes-no-comercio-do-litoral-norte-de-sc",
+  "publicadoEm": "2026-10-27T16:38:01-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Juros elevados comprometem renda das famílias brasileiras",
+  "resumo": "As famílias pagaram R$ 515,4 bilhões em juros no primeiro semestre de 2026, representando 14,64% da renda total. A inadimplência subiu 20,3%, aumentando a pressão financeira sobre os lares.",
+  "fatos": [
+   "Famílias pagaram R$ 515,4 bilhões em juros no 1º semestre de 2026.",
+   "Esse valor é 9,8% maior do que em 2025.",
+   "Os juros comprometeram 14,64% da renda total das famílias.",
+   "A inadimplência das pessoas físicas subiu 20,3%, somando R$ 186,9 bilhões.",
+   "O saldo real do crédito livre para pessoas físicas é de R$ 2,353 trilhões."
+  ],
+  "explicacao": [
+   "O estudo da FecomercioSP revela que a crescente taxa de juros afeta diretamente o orçamento das famílias.",
+   "Além de comprometer a renda, a inadimplência está em alta, refletindo uma situação financeira delicada.",
+   "Esse aumento nos juros e nas dívidas pode ser um sinal de alerta para quem depende apenas de salários e empregos fixos.",
+   "Aprender sobre o mercado financeiro pode ser uma alternativa para diversificação de renda e maior segurança financeira."
+  ],
+  "materia": "Estudo da FecomercioSP mostra que juros consumiram 14,64% da renda familiar; inadimplência de pessoas físicas subiu 20,3% As famílias brasileiras pagaram R$ 515,4 bilhões em juros no 1º semestre de 2026. O valor é 9,8% maior em relação ao mesmo período de 2025 e quase 17% superior em comparação aos dados de 2024. Segundo o estudo, os juros comprometeram 14,64% da renda total das famílias no semestre. O volume de dívidas de pessoas físicas em atraso subiu 20,3% e chegou a R$ 186,9 bilhões. Os dados são de levantamento da FecomercioSP (Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo). As taxas do crédito livre para as famílias ficaram mais altas na comparação entre o 1º semestre de 2025 e o de 2026. Eis os dados: Em 2024, a taxa de inadimplência de pessoas físicas era de 5,59%. A alta em 2 anos é de 1,78 ponto percentual. O saldo real do crédito livre para pessoas físicas cresceu 6,1% e atingiu R$ 2,353 trilhões. As novas concessões subiram 5,1% e somaram R$ 2,025 trilhões. A renda familiar consolidada avançou 7,4%, de R$ 3,278 trilhões para R$ 3,521 trilhões, segundo a entidade. As empresas pagaram R$ 158,6 bilhões em juros no 1º semestre de 2026. No mesmo período de 2025, o valor foi de R$ 158,1 bilhões, variação de 0,3%. O saldo real do crédito empresarial recuou 2,4%, conforme a FecomercioSP. Eis os dados: Em 2024, a taxa de inadimplência das empresas era de 3,36%. Somadas, as despesas com juros de famílias e empresas chegaram a R$ 674 bilhões no semestre. O valor é 7,4% maior do que o do 1º semestre de 2025 e 13% superior ao de 2024. O estoque de dívidas com atraso superior a 90 dias aumentou 17,7% em 12 meses e somou R$ 251,4 bilhões. Em relação a 2024, a alta real é de 39,4%. A FecomercioSP afirma que, em 2024, o aumento dos gastos com juros ocorreu com inadimplência controlada. Em 2026, segundo a entidade, as despesas financeiras crescentes se somam ao acúmulo mais rápido de dívidas em atraso. A federação também diz que o menor estoque real de crédito às empresas indica que as companhias tomam menos recursos, mas pagam taxas individualmente mais altas. a) Para receber as informações solicitadas, você nos autoriza a usar o seu nome, endereço de e-mail e/ou telefone e assuntos de interesse (a depender da opção assinalada e do interesse indicado). Independentemente da sua escolha, note que o Poder360 poderá lhe contatar para assuntos regulares. b) Caso não deseje oferecer o seu consentimento para as divulgações do Poder360, é possível seguir sem receber as informações assinaladas acima. Você poderá, a qualquer momento, se descadastrar de nossos contatos ou revogar o consentimento dado abaixo pelos nossos canais de atendimento. c) O Poder360 garantirá o exercício de quaisquer direitos e prerrogativas de proteção de dados pessoais em conformidade com a Lei 13.709/2018. Mais informações, leia nossa Política de Privacidade . O Poder360 enviou um e-mail para você confirmar a inscrição. Clique no link enviado para o seu e-mail para concluir o cadastro. Não chegou ainda? Dê uma olhada na caixa de spam se a mensagem não tiver aparecido em alguns minutos.",
+  "numeros": [
+   {
+    "valor": "14,64%",
+    "rotulo": "renda comprometida com juros"
+   },
+   {
+    "valor": "R$ 186,9 bi",
+    "rotulo": "inadimplência de pessoas físicas"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "perda de controle financeiro e aumento de dívidas",
+  "angulo": "Diante de um cenário de alta nos juros e inadimplência, aprender a investir pode ser a chave para recuperar a liberdade financeira.",
+  "gancho": "*Aumentos nos juros* apertam o bolso das famílias",
+  "ideias": [
+   "O impacto dos juros no seu bolso",
+   "Como se libertar da dependência do salário",
+   "Investindo em tempos de crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T17:22:12-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/familias-pagam-r-5154-bi-em-juros-no-1o-semestre-alta-de-98/",
+  "publicadoEm": "2026-10-27T17:19:57-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-11"
  },
  {
   "segmento": "trader",

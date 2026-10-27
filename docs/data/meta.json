@@ -1,13 +1,16 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-27T12:35:00-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-10-27T17:22:12-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Novo fim da escala 6×1 e suas consequências; A nova jornada de trabalho e seus impactos financeiros; Mudanças nas jornadas de trabalho afetam seu bolso.",
-  "falhas": [],
+  "mensagem": "4 pauta(s) nova(s): Juros elevados comprometem renda das famílias brasileiras; Fim da escala 6x1 e novos desafios em SC; Fim da escala 6x1 traz incertezas para bares e restaurantes.",
+  "falhas": [
+   "Agência Câmara (ConnectTimeout)"
+  ],
   "manual": false,
   "historico": [
+   "2026-10-27T17:22:12-03:00",
    "2026-10-27T12:35:00-03:00",
    "2026-10-27T05:47:55-03:00",
    "2026-10-26T21:58:07-03:00",
@@ -18,19 +21,19 @@
    "2026-10-26T10:20:19-03:00",
    "2026-10-26T09:16:42-03:00",
    "2026-10-25T22:24:47-03:00",
-   "2026-10-25T20:39:26-03:00",
-   "2026-10-25T15:39:53-03:00"
+   "2026-10-25T20:39:26-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-27T12:35:00-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-10-27T17:22:12-03:00",
+  "novas": 9,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Eleições impactam câmbio e mercado, empresários precisam se adaptar; Varejo em queda: o que isso significa para o seu negócio?; Mais de 60% das empresas tiveram pedidos indeferidos.",
+  "mensagem": "9 pauta(s) nova(s): A Lenovo e a nova era do e-commerce no Brasil; Fim da 6×1: O que muda para o seu negócio?; Inteligência Artificial: peça chave no varejo atual.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-27T17:22:12-03:00",
    "2026-10-27T12:35:00-03:00",
    "2026-10-27T05:47:55-03:00",
    "2026-10-26T21:58:07-03:00",
@@ -41,8 +44,7 @@
    "2026-10-26T10:20:19-03:00",
    "2026-10-26T09:16:42-03:00",
    "2026-10-25T22:24:47-03:00",
-   "2026-10-25T20:39:26-03:00",
-   "2026-10-25T15:39:53-03:00"
+   "2026-10-25T20:39:26-03:00"
   ]
  }
 }
