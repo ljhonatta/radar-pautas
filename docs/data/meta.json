@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-26T17:50:00-03:00",
-  "novas": 2,
+  "ultimaColeta": "2026-10-26T21:58:07-03:00",
+  "novas": 0,
   "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "2 pauta(s) nova(s): Mudanças no trabalho: fim da escala 6x1 afeta empregadores; Reforma tributária e seus impactos no seu bolso.",
+  "status": "sem_novas",
+  "mensagem": "Nenhuma pauta nova relevante desde 26/10 às 17:50.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-26T21:58:07-03:00",
    "2026-10-26T17:50:00-03:00",
    "2026-10-26T17:46:58-03:00",
    "2026-10-26T13:20:21-03:00",
@@ -18,19 +19,19 @@
    "2026-10-25T20:39:26-03:00",
    "2026-10-25T15:39:53-03:00",
    "2026-10-25T10:59:04-03:00",
-   "2026-10-24T20:50:10-03:00",
-   "2026-10-24T15:31:26-03:00"
+   "2026-10-24T20:50:10-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-26T17:50:00-03:00",
-  "novas": 8,
+  "ultimaColeta": "2026-10-26T21:58:07-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): Queda nas vendas do varejo: o impacto eleitoral; Perdão de dívidas do MEI: veja como evitar golpes; Micro e pequenas empresas precisam decidir regime tributário urgente.",
+  "mensagem": "7 pauta(s) nova(s): Itaú compra NeoSpace para expandir em inteligência artificial; Ford disputa mercado derrubando preços da Ranger; Globoplay reformula planos: impactos no seu negócio.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-26T21:58:07-03:00",
    "2026-10-26T17:50:00-03:00",
    "2026-10-26T17:46:58-03:00",
    "2026-10-26T13:20:21-03:00",
@@ -41,8 +42,7 @@
    "2026-10-25T20:39:26-03:00",
    "2026-10-25T15:39:53-03:00",
    "2026-10-25T10:59:04-03:00",
-   "2026-10-24T20:50:10-03:00",
-   "2026-10-24T15:31:26-03:00"
+   "2026-10-24T20:50:10-03:00"
   ]
  }
 }
