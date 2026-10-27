@@ -1,6 +1,399 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Explorando a IA no e-commerce: desafios e oportunidades",
+  "resumo": "O uso de IA pelos lojistas já apresenta resultados, mas ainda existem promessas em desenvolvimento. Conheça o que está funcionando e o que se espera do futuro.",
+  "fatos": [
+   "A inteligência artificial já ajuda lojistas em diversas áreas, como atendimento e análise de dados.",
+   "Entretanto, ainda há muitas promessas em relação ao potencial da IA no comércio eletrônico.",
+   "A implementação efetiva depende da capacidade de adaptação das empresas às novas tecnologias."
+  ],
+  "explicacao": [
+   "O cenário atual mostra que a IA é uma ferramenta valiosa, mas seu pleno potencial ainda não foi atingido.",
+   "Lojistas que investem em IA podem melhorar processos e oferecer uma experiência mais personalizada aos clientes.",
+   "No entanto, é importante estar atento às evoluções tecnológicas para não ficar para trás em um mercado competitivo."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Temor de perder competitividade no e-commerce",
+  "angulo": "Entender como a IA pode transformar o seu negócio é essencial para se adaptar às novas demandas do consumidor e garantir melhores resultados.",
+  "gancho": "O futuro da *IA no e-commerce*",
+  "ideias": [
+   "O que a IA pode fazer pelo seu e-commerce?",
+   "Desafios e soluções com IA no varejo",
+   "Transforme seu atendimento com inteligência artificial"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://www.ecommercebrasil.com.br/artigos/ia-para-lojistas-o-que-ja-funciona-e-o-que-ainda-e-promessa",
+  "publicadoEm": "2026-10-27T09:00:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Pix Automático: impacto nas vendas de assinatura",
+  "resumo": "A adoção do Pix Automático traz benefícios significativos para negócios de assinaturas. Sua utilização pode aumentar conversões e reduzir cancelamentos, otimizando a receita das empresas.",
+  "fatos": [
+   "A conversão de novos assinantes aumentou 20% no Clube iFood após a adoção do Pix Automático.",
+   "A taxa de cancelamento caiu 10 pontos percentuais entre empresas que implementaram a nova modalidade.",
+   "Cerca de 60 milhões de brasileiros não possuem cartão de crédito e podem ser atendidos pelo Pix.",
+   "As retentativas de cobranças malsucedidas resultaram na recuperação de 30% dos pagamentos.",
+   "O volume de cobranças mensais via Pix Automático cresceu de 28 mil em agosto de 2025 para quase 9 milhões em setembro de 2026."
+  ],
+  "explicacao": [
+   "O Pix Automático foi projetado para aumentar a receita de modelos de assinatura ao facilitar pagamentos, especialmente para aqueles sem cartão de crédito.",
+   "Ele não substitui o cartão, mas oferece uma alternativa viável para consumidores que enfrentam limitações financeiras.",
+   "A implementação dessa tecnologia permite que empresas diminuam o churn e ampliem sua base de clientes."
+  ],
+  "materia": "Dados da companhia apontam alta de 20% na conversão de novos assinantes em um case e queda de 10 pontos percentuais no churn; modalidade chegará às contas-salário em 2027 O Pix Automático começa a mostrar impacto sobre uma das áreas mais sensíveis da economia de assinaturas: a capacidade de transformar cobranças recorrentes em receita sem depender exclusivamente do cartão de crédito. Dados apresentados pela Adyen durante o evento Adyen Beyond mostram aumento de conversão, recuperação de cobranças que falharam e redução de cancelamentos entre empresas que adotaram a modalidade. Em um dos casos divulgados pela companhia, o Clube iFood registrou alta de 20% na conversão de novos assinantes após a adoção do Pix Automático. Pix busca ampliar recorrência além do cartão A tese da Adyen é que o Pix Automático não deve substituir o cartão, mas ampliar a parcela de consumidores capaz de utilizar serviços recorrentes. Segundo a companhia, aproximadamente 60 milhões de brasileiros não possuem cartão de crédito, além de consumidores que podem ter o limite comprometido em determinados momentos. Nas empresas da base da Adyen que adicionaram o Pix Automático a operações que já aceitavam cartão, a modalidade acrescentou, em mediana, nove pontos percentuais ao crescimento do volume, enquanto o cartão continuou crescendo. “O Pix Automático transforma a recorrência ao desatar um nó estrutural do mercado brasileiro: depender unicamente do limite do cartão de crédito do consumidor”, afirma Isabel Noronha, VP de Account Management da Adyen para a América Latina. Outro ponto relevante está nas cobranças que não são aprovadas na primeira tentativa. No caso apresentado pela companhia, regras de retentativa permitiram recuperar cerca de 30% dos pagamentos inicialmente malsucedidos. Na base agregada da Adyen, as retentativas acrescentaram aproximadamente três pontos percentuais à conversão. A lógica é especialmente importante em modelos de assinatura, nos quais uma falha de pagamento pode resultar em perda de receita mesmo quando o consumidor não pretendia cancelar o serviço. Cancelamentos recuam mesmo com maior autonomia do consumidor O Pix Automático permite que o usuário cancele uma autorização diretamente pelo aplicativo da instituição financeira. Ainda assim, a Adyen afirma ter observado queda de dez pontos percentuais na taxa total de cancelamento nos últimos meses. Para empresas de recorrência, esse indicador é relevante porque mostra que simplificar a jornada de pagamento não necessariamente aumenta o churn. O crescimento também aparece no volume processado. Segundo dados do Banco Central citados pela Adyen, o Pix Automático passou de cerca de 28 mil cobranças mensais em agosto de 2025 para quase 9 milhões em setembro de 2026, movimentando aproximadamente R$ 1,68 bilhão no mês. O avanço indica que a modalidade começa a sair da fase inicial de adoção e ganhar escala em operações recorrentes. Contas-salário entram no Pix Automático em 2027 A expansão deve ganhar um novo capítulo no próximo ano. A Resolução BCB nº 587, publicada em setembro, autorizou a iniciação de pagamentos por Pix Automático a partir de contas-salário. A mudança entra em vigor em 1º de julho de 2027. Banco Central A medida amplia o universo potencial de usuários e cria novas possibilidades para empresas que trabalham com pagamentos periódicos. Nesse cenário, o Pix Automático começa a se consolidar não apenas como mais uma forma de pagamento, mas como uma infraestrutura capaz de alterar aquisição, retenção e recuperação de receita nos modelos de recorrência. Aprenda algo novo todos os dias. Assine gratuitamente as newsletters da Adnews.",
+  "numeros": [
+   {
+    "valor": "60 milhões",
+    "rotulo": "brasileiros sem cartão de crédito"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "aumento na conversão de assinantes"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "queda no churn"
+   }
+  ],
+  "fonte": "Adnews",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de receita em modelos de assinatura",
+  "angulo": "Com a nova forma de pagamento, sua empresa pode melhorar conversões e reter clientes, essencial em um mercado competitivo.",
+  "gancho": "Aumente suas *vendas com Pix Automático*!",
+  "ideias": [
+   "Como o Pix Automático pode transformar sua receita",
+   "Menos cancelamentos com o Pix Automático",
+   "O futuro das assinaturas e o Pix Automático"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://adnews.com.br/post/pix-automatico-aumenta-conversao-e-reduz-cancelamentos-em-negocios-recorrentes",
+  "publicadoEm": "2026-10-27T07:00:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças na tributação vão afetar vendas online",
+  "resumo": "A reforma tributária traz mudanças significativas para sellers e marketplaces. É essencial que empresários se adaptem para não perder vendas.",
+  "fatos": [
+   "A reforma tributária impacta diretamente o setor de e-commerce.",
+   "Sellers e marketplaces precisam ajustar suas operações às novas regras.",
+   "Mudanças na tributação podem influenciar a competitividade no mercado."
+  ],
+  "explicacao": [
+   "A nova legislação tem como objetivo simplificar a tributação e garantir maior justiça fiscal.",
+   "Empresários do e-commerce devem se preparar para adaptar sua gestão tributária.",
+   "Essas mudanças podem provocar uma reestruturação que afete preços e margens de lucro."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "não se adaptar pode resultar em perdas financeiras",
+  "angulo": "As alterações na tributação exigem uma gestão eficiente do marketing, podendo abrir portas para melhorias nos serviços oferecidos.",
+  "gancho": "As *mudanças tributárias* que vão impactar você",
+  "ideias": [
+   "Está preparado para a nova tributação?",
+   "Como ajustar seu e-commerce às novas regras?",
+   "Reforma Tributária: O que muda para os sellers?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://www.ecommercebrasil.com.br/artigos/sellers-e-marketplaces-as-mudancas-com-a-reforma-tributaria",
+  "publicadoEm": "2026-10-27T11:00:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Fim da escala 6×1 afeta custos e tarifas ao empresário",
+  "resumo": "Mudanças tributárias e trabalhistas estão causando incertezas no setor de infraestrutura, com possíveis reflexos nas tarifas e investimentos. Empresários precisam se preparar para a nova realidade financeira.",
+  "fatos": [
+   "A reforma tributária e o fim da escala 6x1 impactam custos e tarifas das concessionárias.",
+   "Executivos esperam novos pedidos de reequilíbrio econômico-financeiro, especialmente em serviços que dependem de mão de obra.",
+   "Os leilões rodoviários entre 2023 e 2026 somam R$ 202 bilhões em investimentos projetados.",
+   "A emenda constitucional 141/2026 estabelece um ano para formalizar aditivos de reequilíbrio.",
+   "Empresas de infraestrutura enfrentam aumento de custos com a reforma tributária e devem adaptar seus processos."
+  ],
+  "explicacao": [
+   "O cenário econômico atual traz mudanças significativas que exigem dos empresários um novo planejamento e reestruturação financeira.",
+   "As regras e compensações relacionadas à nova legislação ainda estão em definição, aumentando a incerteza para o setor.",
+   "Os reequilíbrios de contratos podem impactar diretamente nos investimentos e na capacidade de expansão dos serviços prestados."
+  ],
+  "materia": "Em meio a fortes investimentos em rodovias, portos, aeroportos e ferrovias, empresas calculam os custos dos serviços que dependem de mão de obra e reguladores preparam regras para as compensações econômicas Concessionárias se preparam para novos pedidos de reequilíbrio diante das mudanças tributárias e trabalhistas As concessionárias de infraestrutura estão se preparando para discutir o reequilíbrio de contratos devido a mudanças como o fim da escala 6x1 e a reforma tributária, que podem impactar custos e tarifas. Especialistas esperam novos pedidos de reequilíbrio econômico-financeiro, especialmente em serviços que dependem de mão de obra. A reforma tributária pode aumentar custos e afetar a universalização dos serviços. A experiência anterior com reequilíbrios ajudou a amadurecer o setor, mas ainda existem incertezas sobre a implementação das compensações. O desafio será calcular e justificar os impactos das mudanças, especialmente em relação à mão de obra, e garantir que os reequilíbrios sejam realizados de forma justa e adequada. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Após os impactos da pandemia e da alta dos insumos associada às guerras, as concessionárias de infraestrutura se preparam para uma nova rodada de discussões sobre o equilíbrio de seus contratos. A reforma tributária e o fim da escala 6x1 podem alterar os custos das empresas, com possíveis reflexos nas tarifas e nos investimentos. Mesmo sem a conta fechada, executivos e advogados ouvidos pelo NeoFeed já esperam novos pedidos de reequilíbrio econômico-financeiro, mecanismo utilizado para recompor as condições dos contratos diante de eventos que alteram a relação entre receitas, custos e obrigações. \"Abriremos um novo e grande ciclo de reequilíbrios\", diz Ronei Glanzmann, CEO da MoveInfra, entidade que reúne grandes grupos de infraestrutura, como Motiva , Ecorodovias, Rumo, entre outras empresas. A preservação do equilíbrio dos contratos públicos está prevista tanto na emenda constitucional que encerra a escala 6x1 como na reforma tributária. O executivo pondera, no entanto, que ainda há incertezas sobre como implementar as compensações. \"Está todo mundo fazendo as contas e há muitas dúvidas no ar\", afirma Glanzmann. As mudanças podem alcançar diferentes setores de infraestrutura, como rodovias, aeroportos e saneamento, em um momento de fortes investimentos em obras e expansão dos serviços. Os efeitos dependem das características de cada operação, das regras e dos riscos previstos nos contratos e da comprovação dos impactos. Os leilões rodoviários realizados ou previstos entre 2023 e o fim de 2026 somam R$ 202 bilhões em investimentos projetados, segundo o Ministério dos Transportes. Entre os ativos mais recentes está a Fernão Dias (MG/SP), conquistada pela Motiva no fim de 2025. Neste ano, Rotas Gerais (MG) foi arrematada pela EcoRodovias , enquanto a EPR venceu a repactuação da Régis Bittencourt (SP/PR) e o consórcio formado pela Neo Invest, Mota-Engil e Galapagos Capital ficou com a Rota dos Sertões (BA/PE). O saneamento também reúne grandes contratos recentes. Em Pernambuco, as concessões leiloadas no fim de 2025 foram vencidas pelo Patria e pelo consórcio BRK - Acciona , com R$ 19,1 bilhões previstos em investimentos. A espanhola Acciona também arrematou a PPP de esgoto da Paraíba em maio de 2026. Já a Iguá conquistou a concessão parcial de Sergipe em 2024. A Aegea venceu as disputas pelo saneamento do Piauí no mesmo ano e pelos quatro blocos do Pará em 2025. Em meio à forte agenda de investimentos, as operadoras terão de lidar com os efeitos da redução da jornada, avalia Munir Abud de Oliveira, presidente da Associação Brasileira das Empresas Estaduais de Saneamento (Aesbe) e da Cesan, companhia do Espírito Santo. “Seguramente teremos reequilíbrios de contrato, especialmente nos serviços de terceirização de mão de obra”, afirma. Abud também vê risco de aumento dos custos com a reforma tributária, com possíveis r",
+  "numeros": [
+   {
+    "valor": "R$ 104,9 milhões",
+    "rotulo": "recuperação aprovada pela ANTT"
+   },
+   {
+    "valor": "R$ 202 bilhões",
+    "rotulo": "investimentos projetados até 2026"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Indústria"
+  ],
+  "dor": "Perda financeira e desequilíbrio nas contas do negócio",
+  "angulo": "As mudanças no setor de infraestrutura mostram que o planejamento e a assessoria adequados são essenciais para mitigar riscos financeiros.",
+  "gancho": "Como o *novo cenário tributário* afeta seus negócios?",
+  "ideias": [
+   "Impactos da reforma tributária nos contratos",
+   "Futuro das concessões de infraestrutura",
+   "A importância do planejamento em tempos de incerteza"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://neofeed.com.br/economia/a-proxima-conta-da-infraestrutura-fim-da-escala-6x1-e-reforma-tributaria-reabrem-debate-sobre-contratos/",
+  "publicadoEm": "2026-10-27T08:03:49-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mais de 60% das empresas tiveram pedidos indeferidos",
+  "resumo": "Mais de 401 mil micro e pequenas empresas não conseguiram inclusão no Simples Nacional até 15 de outubro. É essencial regularizar pendências para não enfrentar problemas futuros.",
+  "fatos": [
+   "401 mil micro e pequenas empresas tiveram pedidos indeferidos até 15 de outubro.",
+   "Isso representa mais de 60% das 657,7 mil solicitações feitas.",
+   "As causas incluem débitos em aberto e pendências cadastrais.",
+   "Empresas devem regularizar as pendências até 30 de outubro.",
+   "Caso não regularizem, podem perder a opção pelo Simples Nacional em 2024.",
+   "Mais de 917 mil solicitações foram registradas na Receita Federal.",
+   "O Sebrae oferece um simulador para auxiliar na escolha do regime tributário."
+  ],
+  "explicacao": [
+   "As solicitações de empresas ao Simples Nacional estão sendo rejeitadas principalmente por problemas administrativos.",
+   "Empreendedores precisam resolver pendências antes da data limite para evitar custos adicionais e complicações tributárias.",
+   "As micro e pequenas empresas que não corrigirem suas situações poderão enfrentar dificuldades financeiras ao longo do próximo ano."
+  ],
+  "materia": "Mais de 401 mil micro e pequenas empresas que solicitaram, até o último dia 15 de outubro, a inclusão no regime do Simples Nacional tiveram o pedido indeferido pela Receita Federal. Esse número representa mais de 60% do total de 657,7 mil solicitações. Entre as causas estão débitos em aberto, pendências cadastrais, o exercício de atividades que são vedadas no modelo de negócio ou formato jurídico inadequado na constituição da empresa. O Sebrae orienta que o empreendedor acesse o Portal do Simples Nacional e verifique o termo de indeferimento para regularizar as pendências antes de 30 de outubro. “A regularização dentro do prazo é necessária para viabilizar o ingresso no regime em 2027. Caso as pendências permaneçam, a empresa poderá não conseguir optar pelo Simples Nacional no primeiro semestre do próximo ano. Em determinados casos, isso pode acarretar mais gastos”, destacou o analista de Competitividade e especialista em Direito Tributário do Sebrae Nacional, Edgard Fernandes. O prazo de 30 de outubro também é o mesmo para aqueles pequenos negócios que desejam permanecer no regime regular (híbrido) de tributação – no qual a Contribuição sobre Bens e Serviços (CBS, de competência federal) e do Imposto sobre Bens e Serviços (IBS, de competência estadual e municipal) são arrecadados fora do Documento de Arrecadação do Simples Nacional (DAS). De acordo com a Receita Federal, até o momento, mais de 917 mil solicitações foram realizadas. “Com o apoio do Simulador da Reforma Tributária do Sebrae, as empresas conseguem projetar e analisar qual o melhor sistema de tributação para aquele negócio”, sugeriu Edgard Fernandes. Página especial sobre Reforma Tributária Simulador da Reforma Tributária E-book “Reforma Tributária e os pequenos negócios” Agendamento de consultoria da CNR Curso online “Reforma Tributária” , desenvolvido pelo Sebrae/RJ Além desses materiais, o Sebrae dispõe também de suporte direto pelo WhatsApp e pela Central (0800 570 0800), com atendimento 24h.",
+  "numeros": [
+   {
+    "valor": "401 mil",
+    "rotulo": "pedidos indeferidos"
+   },
+   {
+    "valor": "657,7 mil",
+    "rotulo": "solicitações totais"
+   },
+   {
+    "valor": "30 de outubro",
+    "rotulo": "prazo de regularização"
+   }
+  ],
+  "fonte": "Agência Sebrae",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder a possibilidade de optar pelo Simples Nacional",
+  "angulo": "Essa situação reforça a importância de ter uma estratégia sólida de gestão e regularidade tributária, que pode ser facilitada com o suporte adequado.",
+  "gancho": "A *inclusão no Simples Nacional* pode ser essencial",
+  "ideias": [
+   "Como regularizar sua empresa a tempo",
+   "O que fazer se seu pedido foi indeferido",
+   "Simples Nacional: entenda a importância"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://agenciasebrae.com.br/economia-e-politica/mais-de-60-das-solicitacoes-de-inclusao-no-simples-nacional-foram-indeferidas-saiba-como-regularizar-as-pendencias/",
+  "publicadoEm": "2026-10-27T09:57:01-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Varejo em queda: o que isso significa para o seu negócio?",
+  "resumo": "A recente desvalorização das ações do varejo gera preocupação e reflete desafios econômicos. Entenda como a situação impacta o mercado e quais oportunidades podem surgir.",
+  "fatos": [
+   "Ações do Mercado Livre caíram 13,3% em 2023, com valor de mercado de US$ 86,7 bilhões.",
+   "O Citi recomendou a compra de ações do Mercado Livre, ajustando o preço-alvo de US$ 2.100 para US$ 2.050, com potencial de valorização de 23%.",
+   "Ocorreu uma queda de 8,64% nas ações nas últimas duas semanas, afetadas por resultados eleitorais.",
+   "O Mercado Livre deve crescer 30% no GMV brasileiro até 2027.",
+   "Os juros elevados dificultam investimentos de concorrentes, impactando o setor de varejo."
+  ],
+  "explicacao": [
+   "A recente volatilidade nas ações do varejo reflete um cenário econômico desafiador no Brasil, exacerbado por financiamentos altos e incertezas políticas.",
+   "O Mercado Livre, apesar dos desafios, é visto como um gigante em crescimento horizontal, sendo recomendado pelo Citi como uma oportunidade de compra.",
+   "Juros altos podem impedir novos entrantes no setor, dificultando a competição e abrindo espaço para que o Mercado Livre amplie sua fatia de mercado.",
+   "No entanto, a rentabilidade continua sendo uma preocupação, especialmente com a expansão da carteira de crédito em um ambiente de juros altos.",
+   "Aos empresários, isso destaca a importância de investir em marketing digital e tecnologia para se manter competitivo."
+  ],
+  "materia": "Analistas do banco mudam recomendação da ação para compra com recente queda dos papéis. Juros elevados no Brasil podem dificultar investimentos de concorrentes Ações do Mercado Livre acumulam queda de 13,3% no ano, levando valor de mercado a US$ 86,7 bilhões O Citi elevou a recomendação das ações do Mercado Livre de neutra para compra, acreditando que a empresa continuará a crescer acima do mercado, mesmo em um cenário econômico desafiador no Brasil. O preço-alvo foi ajustado de US$ 2.100 para US$ 2.050, representando um potencial de valorização de cerca de 23%. Apesar de uma queda de 8,64% nas ações nos últimos cinco pregões, os analistas destacam que a desvalorização já reflete preocupações sobre investimentos e margens de rentabilidade. O Mercado Livre deve expandir suas operações significativamente, com uma previsão de crescimento de 30% no GMV brasileiro até 2027. No entanto, a rentabilidade e a expansão da carteira de crédito do Mercado Pago são pontos de atenção, especialmente com juros elevados. A volatilidade cambial também pode impactar os resultados, com uma desvalorização do real podendo reduzir o lucro líquido em 15%. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Num momento em que as ações dos principais nomes do varejo brasileiro estão em queda livre , o Citi enxergou uma oportunidade de compra no Mercado Livre (Meli) , que também enfrentou um pregão difícil na segunda-feira, 26 de outubro, mas nada comparável ao tombo das empresas nacionais. O banco americano elevou a recomendação das ações da gigante de comércio eletrônico de neutra para compra, apostando que a companhia continuará crescendo acima do mercado, mesmo diante de um cenário macroeconômico mais desafiador no Brasil. O preço-alvo, por sua vez, sofreu um leve ajuste para baixo, de US$ 2.100 para US$ 2.050. Ainda assim, representa um potencial de valorização de aproximadamente 23% em relação à cotação de referência utilizada pelos analistas. Nos últimos cinco pregões, as ações do Meli acumularam queda de 8,64%. Somente na segunda-feira, 26 de outubro, os papéis recuaram 7,81%, em reação ao resultado das eleições presidenciais, que também levou o Magazine Luiza a encerrar o dia com tombo de 58,2% e a Casas Bahia a cair 38,2%. Para os analistas João Pedro Soares e Felipe Husein, a recente desvalorização das ações já incorpora boa parte das preocupações com os investimentos necessários para sustentar o crescimento, a pressão sobre as margens de rentabilidade e a ressaca pós-eleitoral. Eles avaliam que o Meli continuará expandindo suas operações em ritmo significativamente superior ao dos mercados de consumo dos países onde atua, conquistando participação de mercado independentemente das condições macroeconômicas. A aposta está na capacidade de execução operacional da companhia. “Esperamos que o Meli continue crescendo significativamente acima do mercado, com expansão de cerca de 30% no GMV brasileiro em 2027. Embora tenhamos reduzido nossa projeção para o terceiro trimestre de 2026, de 37,5% para 36%, não vemos uma mudança nas perspectivas estruturais de crescimento da companhia.” E os juros altos podem, surpreendentemente, jogar a favor do Meli. A perspectiva de que a Selic não caia no ritmo anteriormente esperado pode dificultar os planos de novos entrantes e concorrentes de ampliar investimentos para disputar participação de mercado. É o caso da Shopee , controlada pela Sea , que também vem direcionando recursos para outras frentes de negócios, como infraestrutura de computação em nuvem. Na avaliação do Citi , essa diversificação, combinada ao custo de capital mais elevado, pode limitar a capacidade da empresa de realizar investimentos de grande escala no Brasil. Isso não significa que o Meli esteja livre de desafios. Um dos principais pontos de atenção continua sendo a rentabilidade. O Citi avalia que o Meli seguirá priorizando o crescimento e a conquista de participação de mercado em detrimento da expansão das ma",
+  "numeros": [
+   {
+    "valor": "30%",
+    "rotulo": "crescimento esperado do GMV até 2027"
+   },
+   {
+    "valor": "13,3%",
+    "rotulo": "queda das ações do Meli em 2023"
+   },
+   {
+    "valor": "23%",
+    "rotulo": "potencial de valorização das ações do Meli"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de mercado e redução de vendas",
+  "angulo": "O cenário atual força empresários a se adaptarem com controle do fluxo de caixa e investimentos em marketing digital e tecnologia para conquistar mais clientes.",
+  "gancho": "*Entenda o que leva o varejo a uma nova",
+  "ideias": [
+   "Como a queda do varejo impacta sua empresa?",
+   "O que o Mercado Livre ensina sobre crescimento?",
+   "Seus concorrentes estão se adaptando. E você?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://neofeed.com.br/negocios/em-meio-ao-tombo-do-varejo-na-bolsa-citi-ve-oportunidade-no-mercado-livre/",
+  "publicadoEm": "2026-10-27T11:49:50-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Eleições impactam câmbio e mercado, empresários precisam se adaptar",
+  "resumo": "As eleições recentes alteraram as expectativas para o câmbio e juros, afetando diretamente as empresas na Bolsa. A necessidade de adaptação é clara para os empresários que dependem do mercado doméstico.",
+  "fatos": [
+   "A reeleição de Lula trouxe preocupações fiscais, causando queda de 14% no Ibovespa e desvalorização de 8% do real.",
+   "Empresas com receitas em moeda estrangeira, como Weg e Embraer, devem se beneficiar com a alta do dólar.",
+   "A Weg pode ver um aumento de 11% no lucro líquido até 2027 devido à alta do dólar.",
+   "A Embraer, com 95% de suas receitas atreladas a moedas estrangeiras, deve ter impacto positivo de 8% no lucro.",
+   "Setores dependentes do mercado interno enfrentam pressão nas despesas financeiras e na avaliação na Bolsa."
+  ],
+  "explicacao": [
+   "As mudanças nas perspectivas econômicas foram influenciadas pelos resultados eleitorais, criando um novo cenário para as empresas.",
+   "As companhias com exposição ao câmbio podem ver seus lucros aumentarem, enquanto as endividadas enfrentam desafios maiores.",
+   "A expectativa é que os empresários adotem estratégias para se adaptar a essas novas condições, essencial para garantir a saúde financeira do negócio."
+  ],
+  "materia": "Para o BTG Pactual, Weg, Embraer, Tupy e Marcopolo reúnem oportunidades, mas ganhos com câmbio dependem dos custos e da situação financeira das empresas Exportadoras, como a Embraer, podem se beneficiar da alta do dólar após eleições As eleições alteraram as perspectivas para o câmbio e juros, favorecendo empresas com receitas em moeda estrangeira, como Weg, Embraer, Tupy e Marcopolo, enquanto empresas endividadas enfrentam pressão. O BTG Pactual observa que a reeleição de Lula trouxe preocupações fiscais, resultando em queda do Ibovespa e desvalorização do real. A Weg, com 60% das receitas em moeda estrangeira, pode ver um aumento de 11% no lucro líquido até 2027 com a alta do dólar. A Embraer, com 95% das receitas atreladas a moedas estrangeiras, deve ter um impacto positivo de 8% no lucro. A Tupy e a Marcopolo também se beneficiariam, mas enfrentam desafios de endividamento e demanda. O relatório menciona ainda Iochpe-Maxion e Frasle Mobility como potenciais beneficiadas, destacando a importância da exposição cambial e da gestão de custos. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed As perspectivas para o câmbio e os juros com o resultado do segundo turno das eleições mudaram as condições para as empresas na Bolsa. Para o BTG Pactual , companhias com receitas em moeda estrangeira ganham espaço, enquanto as ações de empresas endividadas e voltadas ao mercado doméstico voltam a enfrentar pressão. Nesse cenário, o banco destaca Weg , Embraer , Tupy e Marcopolo entre as exportadoras ligadas à indústria que podem se beneficiar. \"Preferimos empresas nas quais o impacto positivo do câmbio sobre os resultados possa ajudar a compensar um ambiente mais desafiador para o custo de capital\", afirmam Lucas Marquiori, Fernanda Recchia e Samuel Alkmim, analistas do BTG Pactual. Com a reeleição do presidente Luiz Inácio Lula da Silva, as preocupações fiscais voltaram a pesar sobre os ativos brasileiros, na avaliação do banco. No primeiro pregão após a votação , o Ibovespa caiu cerca de 14%, enquanto o real se desvalorizou aproximadamente 8%, conforme o relatório. A mudança pode favorecer empresas que ficaram para trás entre os turnos. Do último pregão antes da primeira votação até sexta-feira, 23 de outubro, as ações da Weg recuaram 17% e as da Embraer perderam 6%, enquanto o Ibovespa avançou 7%. \"Se o ceticismo em relação aos cortes de juros persistir, os investidores provavelmente continuarão favorecendo empresas com maior exposição a receitas em moeda estrangeira e menor sensibilidade aos juros domésticos\", escrevem os analistas. O benefício, porém, depende também dos custos em moeda estrangeira, do endividamento e das perspectivas de cada negócio. Nas aéreas , o efeito é oposto. A desvalorização do real, combinada com preços elevados do querosene de aviação (QAV), tende a pressionar os custos em moeda estrangeira. As empresas do setor têm dívidas e custos atrelados à moeda americana, enquanto parte relevante das receitas é gerada em reais. Para empresas mais dependentes do mercado brasileiro, que avançaram na Bolsa depois do primeiro turno, a mudança de cenário traz desafios adicionais. Na avaliação do banco, companhias endividadas dos setores de locação, infraestrutura e logística podem enfrentar pressão tanto nas despesas financeiras quanto em sua avaliação na Bolsa. Na Weg, cerca de 60% das receitas são geradas em moedas estrangeiras. Nas simulações do BTG, a passagem do dólar de R$ 5,50 para R$ 6 elevaria em 11% a estimativa de lucro líquido para 2027. \"A tese de crescimento de longo prazo da Weg, sua exposição a data centers e a forte carteira de investimentos em redes elétricas permanecem intactas\", escrevem os analistas. O caixa líquido oferece proteção adicional, embora as tarifas americanas e o resultado do terceiro trimestre abaixo das expectativas pesem sobre a companhia. Na Embraer, cerca de 95% das receitas e 88% dos custos estão vinculados a moedas estrangeiras, o que cria uma proteç",
+  "numeros": [
+   {
+    "valor": "14",
+    "rotulo": "queda do Ibovespa após a eleição"
+   },
+   {
+    "valor": "8",
+    "rotulo": "desvalorização do real"
+   },
+   {
+    "valor": "11",
+    "rotulo": "aumento do lucro da Weg estimado até 2027"
+   },
+   {
+    "valor": "8",
+    "rotulo": "impacto positivo no lucro da Embraer"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Indústria",
+   "Empresários"
+  ],
+  "dor": "negócios em risco por mudanças econômicas inesperadas",
+  "angulo": "É vital que empresários estejam cientes do impacto das eleições e ajustem suas estratégias de marketing e operação para não ficarem atrás.",
+  "gancho": "Mudanças na Bolsa: *você está preparado?*",
+  "ideias": [
+   "Como se adaptar ao novo cenário econômico?",
+   "A importância do câmbio para os negócios",
+   "Estratégias para enfrentar a pressão do mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://neofeed.com.br/negocios/resultado-eleitoral-muda-o-jogo-na-bolsa-e-poe-exportadoras-no-radar/",
+  "publicadoEm": "2026-10-27T12:12:17-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-06"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Maranhão: crescimento de 20,5% em novos negócios em 2026",
   "resumo": "O Maranhão registrou 58.698 novos pequenos negócios em 2026, um aumento significativo de 20,5% em comparação ao ano anterior. O Sebrae tem sido fundamental nesse processo.",
   "fatos": [
@@ -296,6 +689,368 @@
   "publicadoEm": "2026-10-27T03:03:45-03:00",
   "data": "2026-10-27",
   "id": "2026-10-27-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "O que muda com o perdão de dívidas do MEI?",
+  "resumo": "O governo federal anunciou o perdão de dívidas tributárias para MEIs, beneficiando 4 milhões de empreendedores. Saiba quem tem direito e como aproveitar essa oportunidade.",
+  "fatos": [
+   "O governo começou a notificar os MEIs em 26/10 sobre o perdão de dívidas tributárias.",
+   "Cerca de 4 milhões de empreendedores serão beneficiados, com débitos estimados em R$ 15 bilhões.",
+   "O perdão será concedido automaticamente em 1º de janeiro de 2027.",
+   "O limite de faturamento do MEI aumentará de R$ 81 mil para R$ 140 mil em 2028.",
+   "Os MEIs poderão ter até dois funcionários registrados, em vez de apenas um.",
+   "Para manter o perdão, os empreendedores devem pagar em dia as guias mensais do DAS por seis meses.",
+   "O governo também anunciou o Pix MEI, com repasses de até R$ 5.000 para investimentos."
+  ],
+  "explicacao": [
+   "O perdão de dívidas foi sancionado para ajudar microempreendedores individuais a se regularizarem financeiramente.",
+   "Com a medida, espera-se que muitos MEIs deixem a inadimplência e explorem novas oportunidades de negócios.",
+   "O aumento do limite de faturamento permitirá que empreendedores cresçam sem perder a categoria de MEI.",
+   "Agora, mais empregadores poderão contratar e expandir suas operações, beneficiando a economia local.",
+   "É fundamental que os empreendedores se informem e evitem golpes durante essa transição."
+  ],
+  "materia": "Saiba quem tem direito, como confirmar a mensagem para evitar golpes e o que muda no faturamento e na contratação O governo federal começou a notificar os MEIs (microempreendedores individuais) nesta segunda-feira (26/10) para informar sobre o perdão das dívidas tributárias. A medida foi sancionada na semana passada. Serão cerca de 4 milhões de empreendedores beneficiados, com débitos estimados em R$ 15 bilhões. O aviso é enviado pelo canal oficial do governo no WhatsApp e pelo aplicativo Gov.br. É preciso ficar atento para não cair em golpes e seguir as orientações do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte para identificar uma notificação verdadeira: - Selo de verificação: o perfil oficial do governo federal no WhatsApp (GovBR) tem o selo azul de verificação; - Confirmação no app: a mesma mensagem recebida no WhatsApp também aparece na caixa postal do aplicativo gov.br; - Nada de cobranças: o governo federal não cobra qualquer taxa de adesão para concessão do benefício; - Nada de dados pessoais: o canal oficial não solicita informações pessoais ou de pagamentos (conta bancária e senhas, por exemplo); - Nada de links soltos: as mensagens oficiais trazem apenas botões clicáveis, sem links desconhecidos no corpo do texto. O objetivo das notificações, segundo a pasta, é orientar os empreendedores sobre a medida, evitar pagamentos indevidos de valores já perdoados e prevenir fraudes. O benefício do Prospera MEI, projeto que perdoou a inadimplência da categoria, inclui dívidas tributárias federais, como contribuições previdenciáriasem atraso, multas, juros e encargos de cobrança. Também alcança débitos que já estejam em parcelamentos, mas não prevê a devolução de valores pagos anteriormente. Para manter o perdão, será necessário pagar em dia as guias mensais do DAS (Documento de Arrecadação do Simples Nacional) durante seis meses a partir da vigência. O Prospera MEI também aumenta o limite de faturamento anual permitido para a categoria, dos atuais R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028. Outra mudança permite que o MEI tenha até dois funcionários registrados, em vez de apenas um. O perdão será concedido de forma automática no dia 1º de janeiro de 2027, sem necessidade de solicitação à PGFN. No entanto, para garantir e manter o benefício, o microempreendedor deverá cumprir duas condições: - Pagar em dia as contribuições mensais do MEI de janeiro até julho de 2027; - Desistir de ações judiciais contra a União que questionem os débitos abrangidos pela medida. Quem tem direito ao perdão das dívidas do MEI? O benefício é destinado aos microempreendedores individuais com dívidas tributárias com a União abrangidas pela nova lei. A estimativa do governo é alcançar cerca de 4 milhões de pessoas. A medida inclui débitos inscritos na Dívida Ativa da União, quando a cobrança é administrada pela PGFN (Procuradoria-Geral da Fazenda Nacional), edívidas que ainda não chegaram a essa etapa. A ampliação do alcance foi incluída durante a tramitação do projeto na Câmara dos Deputados. Inicialmente, o texto enviado pelo governo previa o perdão apenas para débitos inscritos na Dívida Ativa. O valor total das dívidas abrangidas é estimado em aproximadamente R$ 15 bilhões. O governo já havia implementado uma iniciativa de renegociação de dívidas bancárias de microempreendedores no âmbito do Desenrola Brasil. Segundo o ministro da Fazenda, Dario Durigan, os débitos privados dos MEIs somam cerca de R$ 6 bilhões. A proposta prevê que o governo compre dívidas das instituições financeiras com descontos de pelo menos 90%. O perdão regulariza o CNPJ? O perdão pode retirar as dívidas tributárias abrangidas da situação de cobrança, mas não elimina outras pendências que o microempreendedor tenha. É importante distinguir a dívida com a União de outras obrigações, como declarações anuais atrasadas, pendências cadastrais, débitos estaduais ou municipais e dívidas privadas. Quem tem pendências deve consultar a situ",
+  "numeros": [
+   {
+    "valor": "4 milhões",
+    "rotulo": "microempreendedores beneficiados"
+   },
+   {
+    "valor": "R$ 15 bilhões",
+    "rotulo": "dívidas perdoadas"
+   },
+   {
+    "valor": "R$ 140 mil",
+    "rotulo": "novo limite de faturamento em 2028"
+   }
+  ],
+  "fonte": "DComercio",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "medo de não conseguir regularizar dívidas e crescer.",
+  "angulo": "O perdão de dívidas do MEI mostra como aprender sobre finanças e o mercado pode abrir novos caminhos financeiros, ajudando a despender menos tempo preso a dívidas e regulamentos.",
+  "gancho": "Você *sabe como aproveitar o perdão de dívidas?*",
+  "ideias": [
+   "Como o perdão de dívidas pode salvar seu MEI?",
+   "MEIs, aproveitem o novo limite de faturamento!",
+   "Dicas para evitar golpes no perdão tributário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://agenciadcnews.com.br/publicacao/s/mei-governo-envia-whatsapp-sobre-perdao-de-dividas-veja-como-funciona",
+  "publicadoEm": "2026-10-27T12:00:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo perdoa dívidas de MEIs; saiba como se beneficiar",
+  "resumo": "O governo começou a notificar MEIs sobre o perdão de dívidas tributárias, beneficiando cerca de 4 milhões de empreendedores. A medida visa aliviar a carga financeira desses pequenos negócios.",
+  "fatos": [
+   "Medida foi sancionada na semana passada.",
+   "Cerca de 4 milhões de microempreendedores individuais serão beneficiados.",
+   "As dívidas tributárias totalizam cerca de R$ 15 bilhões.",
+   "O perdão é automático a partir de 1º de janeiro de 2027.",
+   "Os MEIs devem pagar em dia as guias mensais durante seis meses para manter o benefício."
+  ],
+  "explicacao": [
+   "O projeto Prospera MEI perdoa dívidas tributárias para ajudar microempreendedores a se estabilizarem financeiramente.",
+   "Os MEIs devem regularizar suas pendências durante seis meses para garantir o perdão das dívidas.",
+   "Além do perdão, o limite de faturamento anual aumentará, permitindo que pequenos negócios cresçam sem perder a categoria."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O governo federal comeÃ§ou a notificar os MEIs (microempreendedores individuais) nesta segunda-feira (26) para informar sobre o perdÃ£o das dÃ­vidas tributÃ¡rias. A medida foi sancionada na semana passada . SerÃ£o cerca de 4 milhÃµes de empreendedores beneficiados, com dÃ©bitos estimados em R$ 15 bilhÃµes. O aviso Ã© enviado pelo canal oficial do governo no WhatsApp e pelo aplicativo Gov.br. Ã preciso ficar atento para nÃ£o cair em golpes e seguir as orientaÃ§Ãµes do MinistÃ©rio do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte para identificar uma notificaÃ§Ã£o verdadeira: O objetivo das notificaÃ§Ãµes, segundo a pasta, Ã© orientar os empreendedores sobre a medida, evitar pagamentos indevidos de valores jÃ¡ perdoados e prevenir fraudes. O benefÃ­cio do Prospera MEI, projeto que perdoou a inadimplÃªncia da categoria, inclui dÃ­vidas tributÃ¡rias federais, como contribuiÃ§Ãµes previdenciÃ¡rias em atraso, multas, juros e encargos de cobranÃ§a. TambÃ©m alcanÃ§a dÃ©bitos que jÃ¡ estejam em parcelamentos, mas nÃ£o prevÃª a devoluÃ§Ã£o de valores pagos anteriormente. Para manter o perdÃ£o, serÃ¡ necessÃ¡rio pagar em dia as guias mensais do DAS (Documento de ArrecadaÃ§Ã£o do Simples Nacional) durante seis meses a partir da vigÃªncia. O Prospera MEI tambÃ©m aumenta o limite de faturamento anual permitido para a categoria, dos atuais R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028. Outra mudanÃ§a permite que o MEI tenha atÃ© dois funcionÃ¡rios registrados, em vez de apenas um. O perdÃ£o serÃ¡ concedido de forma automÃ¡tica no dia 1Âº de janeiro de 2027, sem necessidade de solicitaÃ§Ã£o Ã PGFN. No entanto, para garantir e manter o benefÃ­cio, o microempreendedor deverÃ¡ cumprir duas condiÃ§Ãµes: Pagar em dia as contribuiÃ§Ãµes mensais do MEI de janeiro atÃ© julho de 2027;. Desistir de aÃ§Ãµes judiciais contra a UniÃ£o que questionem os dÃ©bitos abrangidos pela medida. O pagamento mensal Ã© feito por meio do DAS , a guia que reÃºne os tributos devidos pelo microempreendedor individual. O benefÃ­cio Ã© destinado aos microempreendedores individuais com dÃ­vidas tributÃ¡rias com a UniÃ£o abrangidas pela nova lei. A estimativa do governo Ã© alcanÃ§ar cerca de 4 milhÃµes de pessoas. A medida inclui dÃ©bitos inscritos na DÃ­vida Ativa da UniÃ£o, quando a cobranÃ§a Ã© administrada pela PGFN (Procuradoria-Geral da Fazenda Nacional), e dÃ­vidas que ainda nÃ£o chegaram a essa etapa. A ampliaÃ§Ã£o do alcance foi incluÃ­da durante a tramitaÃ§Ã£o do projeto na CÃ¢mara dos Deputados . Inicialmente, o texto enviado pelo governo previa o perdÃ£o apenas para dÃ©bitos inscritos na DÃ­vida Ativa. O valor total das dÃ­vidas abrangidas Ã© estimado em aproximadamente R$ 15 bilhÃµes. O governo jÃ¡ havia implementado uma iniciativa de renegociaÃ§Ã£o de dÃ­vidas bancÃ¡rias de microempreendedores no Ã¢mbito do Desenrola Brasil . Segundo o ministro da Fazenda, Dario Durigan , os dÃ©bitos privados dos MEIs somam cerca de R$ 6 bilhÃµes. A proposta prevÃª que o governo compre dÃ­vidas das instituiÃ§Ãµes financeiras com descontos de pelo menos 90%. O perdÃ£o pode retirar as dÃ­vidas tributÃ¡rias abrangidas da situaÃ§Ã£o de cobranÃ§a, mas nÃ£o elimina outras pendÃªncias que o microempreendedor tenha. Ã importante distinguir a dÃ­vida com a UniÃ£o de outras obrigaÃ§Ãµes, como declaraÃ§Ãµes anuais atrasadas, pendÃªncias cadastrais, dÃ©bitos estaduais ou municipais e dÃ­vidas privadas. Quem tem pendÃªncias deve consultar a situaÃ§Ã£o do CNPJ ",
+  "numeros": [
+   {
+    "valor": "R$ 15 bilhões",
+    "rotulo": "dívidas tributárias perdoadas"
+   },
+   {
+    "valor": "4 milhões",
+    "rotulo": "microempreendedores beneficiados"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "perda de oportunidades e dificuldades financeiras",
+  "angulo": "A situação recente mostra que depender apenas de um salário pode ser arriscado; entender o mercado financeiro pode ajudar a diversificar a renda.",
+  "gancho": "Saiba como *perdoar suas dívidas* pode transformar seu negócio!",
+  "ideias": [
+   "Sua chance de se livrar de dívidas tributárias",
+   "Como o perdão de dívidas pode ajudar seu MEI",
+   "Entenda o impacto do Prospera MEI para pequenos negócios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-envia-mensagem-a-meis-pelo-whatsapp-sobre-perdao-de-dividas-tire-duvidas.shtml",
+  "publicadoEm": "2026-10-27T10:22:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho podem impactar sua renda",
+  "resumo": "Governo estuda lei para regulamentar exceções à jornada 6x1, visando equilibrar interesses de empresas e trabalhadores. Mudanças podem afetar todos os setores do emprego.",
+  "fatos": [
+   "Em 16 de outubro, foi promulgada a emenda à Constituição que encerra a jornada 6x1.",
+   "A senadora Teresa Leitão informou sobre a necessidade de uma lei complementar para regulamentar exceções.",
+   "O projeto ainda está em discussão no Ministério do Trabalho.",
+   "A previsão é que as regulamentações estejam resolvidas até o final do ano.",
+   "O objetivo da lei é evitar prejuízos para trabalhadores e empresas."
+  ],
+  "explicacao": [
+   "A emenda à Constituição que extingue a jornada 6x1 pode gerar incertezas para muitos trabalhadores e empresas que dependem desse modelo de contratação.",
+   "A proposta de lei complementar é uma tentativa de ajustar a nova regra, permitindo que certas categorias que não se encaixam no formato 5x2 mantenham suas jornadas anteriores.",
+   "Essa mudança reflete um movimento do governo para equilibrar os direitos dos trabalhadores e as necessidades das empresas."
+  ],
+  "materia": "Regras vão ser aplicadas a trabalhadores cujas jornadas não se encaixam na jornada 5x2, explica Teresa Leitão, líder do PT no Senado Congresso Nacional | Arquivo/Agência Brasil A senadora Teresa Leitão (PT-PE), líder do governo no Senado, disse que o governo federal está preparando uma lei complementar para tratar das exceções ao fim da jornada seis por um , emenda à Constuição que foi promulgada há pouco mais de uma semana, em 16 de outubro. A declaração foi dada em entrevista ao SBT News concedida nesta terça-feira (27). 🤳 Notícias em primeira mão: baixe nosso aplicativo gratuito e leve o jornalismo do SBT News com você, onde estiver! Clique aqui Leitão disse que o texto da própria Proposta de Emenda à Constituição explicita a necessidade de uma lei complementar para resolver essa questão. Acompanhe o SBT News nas TVs por assinatura Claro (586) , Vivo (576) , Sky (580) e Oi (175) , via streaming pelo +SBT , Site e YouTube , além dos canais nas Smart TVs Samsung , LG e Roku . \"Haverá uma regulamentação para que não haja prejuízo nem para os trabalhadores e nem para as empresas que necessitam da contratação nesse modelo\", acrescentou. De acordo com a senadora, esse projeto ainda não foi finalizado, mas está sendo objeto de discussões no Ministério do Trabalho. \"Acho que daqui para o final do ano todas essas excepcionalidades estarão resolvidas. E o que precisar de alguma normativa, essa normativa será feita\", finalizou. + Fim da escala 6x1 promulgada: veja quando começa a valer Eleição: STF manda investigar interferência estrangeira PF apura possível fuga de Flávio para a Argentina Governo renova subvenção de R$ 2,12 do diesel Mendonça aguarda Fachin e quer manter casos Master e INSS Justiça da Itália nega extradição de ex-assessor de Moraes Planalto quer aproveitar atual composição do Congresso, antes de virada para nova composição da Casa em 2027 Câmara Recursal identificou irregularidades no processo disciplinar e determinou que o caso volte ao Tribunal de Ética e Disciplina Presidente da sigla afirmou que quem não for favorável à proposta \"será convidado a se retirar\" da sigla Colisão frontal aconteceu na madrugada desta terça-feira (27), entre Soledade e Juazeirinho; 15 pessoas foram atendidas em hospital Marcelo de Oliveira Rocha, de 30 anos, teve a morte confirmada pela família na segunda-feira (26); Polícia Civil tenta identificar os envolvidos Ministro da Fazenda atribui disparada do dólar e queda da Bolsa à reversão de apostas de investidores após a reeleição de Lula no domingo (25) Proposta com alíquotas do novo tributo foi adiada para depois das eleições; cobrança prevista para 2027 pode começar com atraso Esquerda do país já vislumbra as eleições do próximo ano, e se antecipa com movimentações em oposição a possível reeleição do presidente Apesar do elogio ao governador do Piauí, ministro da Fazenda afirma que Lula ainda não discutiu mudanças na equipe econômica Governo recomprou cerca de R$ 10 bilhões em títulos públicos na segunda (26) para conter turbulência do mercado após vitória de Lula (PT)",
+  "numeros": [
+   {
+    "valor": "16 de outubro",
+    "rotulo": "Data da promulgação da emenda"
+   }
+  ],
+  "fonte": "SBT News",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Empresários",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "dependência de contratos flexíveis para garantir renda está ameaçada",
+  "angulo": "Aprender sobre investimentos pode oferecer alternativas financeiras além do salário fixo, especialmente em tempos de incertezas legislativas.",
+  "gancho": "*Mudanças no emprego* podem impactar sua renda",
+  "ideias": [
+   "A nova regulamentação da jornada de trabalho e seus impactos",
+   "Como a jornada 6x1 afeta seu bolso?",
+   "A importância de diversificar fontes de renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://sbtnews.sbt.com.br/noticia/politica/governo-prepara-lei-complementar-para-excecoes-da-escala-6x1",
+  "publicadoEm": "2026-10-27T11:57:47-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças nas jornadas de trabalho afetam seu bolso",
+  "resumo": "A nova jornada de 40 horas e o fim da escala 6x1 trazem desafios financeiros para empresas e trabalhadores, exigindo adaptação em custos e relações de trabalho.",
+  "fatos": [
+   "A jornada de trabalho será reduzida para 40 horas semanais, passando a ser 5x2.",
+   "Nos dois primeiros meses, a jornada será de 42 horas por semana.",
+   "Após 14 meses, a exigência da jornada de 40 horas será plena.",
+   "O custo da mão de obra pode aumentar em cerca de 9%, impactando empregadores e trabalhadores.",
+   "Setores com margens estreitas podem enfrentar demissões e maior informalidade.",
+   "A renegociação de acordos coletivos se torna essencial para adaptar-se ao novo marco legal."
+  ],
+  "explicacao": [
+   "A mudança na jornada de trabalho reflete uma tentativa de melhorar a qualidade de vida dos trabalhadores.",
+   "Contudo, com o aumento dos custos, as empresas devem se planejar para evitar demissões.",
+   "Além disso, os trabalhadores usufruirão de mais tempo livre, mas a sustentabilidade dessa mudança dependerá do equilíbrio econômico."
+  ],
+  "materia": "As organizações que anteciparem o diálogo sindical e a reestruturação interna estarão mais bem posicionadas para absorver os novos custos sem comprometer empregos, competitividade ou a segurança jurídica de suas relações de trabalho A iminente substituição da escala 6x1 pelo modelo 5x2, com jornada máxima de 40 horas semanais, inaugura uma das transformações mais relevantes das relações de trabalho no país desde a Reforma Trabalhista. Mas o alcance real da mudança depende de uma questão fundamental: quem será alcançado pelas novas regras. Compreenda a seguir seus desdobramentos os desafios de sua aplicação para empresas e trabalhadores. A quem as novas regras alcançam A resposta está na relação de trabalho. O MEI que trabalha efetivamente por conta própria não passa a ter jornada limitada pela proposta; mas, se contrata um empregado, precisa observar as regras aplicáveis ao vínculo de emprego. O alcance da norma, além disso, vai além dos empregados regidos diretamente pela CLT, abrangendo empregados domésticos e trabalhadores avulsos. Há particularidades que exigem atenção: vigilantes, motoristas, aeronautas e petroleiros operam sob condições distintas, e a negociação coletiva terá papel relevante na adaptação de suas escalas e na utilização das possibilidades de compensação previstas no texto. 1. Qual será o prazo de adaptação das empresas à escala 5x2? Nos dois primeiros meses de vigência, a jornada semanal será reduzida para 42 horas. O limite de 40 horas somente será plenamente exigível ao final de 14 meses, período que deve ser aproveitado para a reorganização de escalas, processos e orçamentos. 2. Quais são os principais desafios? O ponto mais sensível é o impacto financeiro sobre a folha de pagamento. Atualmente, o empregador remunera 44 horas semanais distribuídas em seis dias — cerca de 7h20 diárias —, acrescidas do repouso semanal remunerado, nos termos do artigo 64 da CLT. Multiplicada por 30 dias, essa jornada resulta no divisor de 220 horas mensais. Ora, no novo modelo, as 40 horas semanais em cinco dias correspondem a 8 horas diárias, com dois dias de repouso remunerado, cada um equivalente a 8 horas. Aplicada a mesma metodologia, chega-se a 240 horas mensais: um acréscimo aproximado de 9% no custo da remuneração. Como o ordenamento jurídico veda a redução do salário nominal e do valor da hora trabalhada, o encarecimento da mão de obra tende a ser compensado pela oferta de salários iniciais menores nas novas contratações. 3. O trabalhador será beneficiado de imediato? Sim, mas o benefício exigirá leitura cuidadosa. A norma, de inequívoca inspiração social e voltada à qualidade de vida, carrega verdadeiras \"pegadinhas\": o aumento de custo é de tal magnitude que pode, paradoxalmente, comprometer a própria empregabilidade que pretende proteger. 4. O fim da escala 6x1 pode provocar demissões e ampliar a informalidade? Nesse contexto, sim. O acréscimo no custo da mão de obra tende a ser repartido entre empresários, consumidores e os próprios trabalhadores. Em setores de margens estreitas, o efeito pode se traduzir em cortes de postos de trabalho e no avanço de contratações à margem da formalidade. 5. Os acordos coletivos perdem relevância? Ao contrário, tornam-se instrumentos centrais da transição. A nova regra determina a perda de eficácia das normas coletivas que disciplinam a jornada de trabalho, o que torna indispensável sua renegociação e adequação ao novo marco legal. Recomendo, como dever de casa das empresas, a busca do diálogo com os sindicatos. Em seguida, será necessário avaliar como acomodar esse aumento de custos com o menor sacrifício possível para os trabalhadores\", afirma Gilda. Planejamento como condição de sobrevivência Para as empresas, o desafio será reorganizar equipes e manter o atendimento, especialmente nas atividades que funcionam todos os dias. A mudança havida não se resumirá à alteração de um número na legislação: exigirá um diagnóstico rigoroso de custos, a revisão de escalas e contratos e",
+  "numeros": [
+   {
+    "valor": "9%",
+    "rotulo": "aumento no custo da mão de obra"
+   },
+   {
+    "valor": "14 meses",
+    "rotulo": "prazo de adaptação"
+   },
+   {
+    "valor": "42 horas",
+    "rotulo": "jornada inicial de transição"
+   }
+  ],
+  "fonte": "DComercio",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "aumento de custos que pode levar a demissões",
+  "angulo": "Compreender a nova jornada é essencial para adaptar seus negócios e garantir sua segurança financeira.",
+  "gancho": "O *novo modelo* de jornada e seus desafios",
+  "ideias": [
+   "Como se preparar para a nova jornada de trabalho?",
+   "O que a redução da jornada muda na sua remuneração?",
+   "Desafios do fim da escala 6x1 para empresas e empregados"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://www.dcomercio.com.br/publicacao/s/reducao-da-jornada-para-40-horas-os-efeitos-juridicos-e-economicos-do-fim-da-escala-6x1",
+  "publicadoEm": "2026-10-27T10:00:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "A nova jornada de trabalho e seus impactos financeiros",
+  "resumo": "Com o fim da escala 6x1, cerca de 70 mil trabalhadores enfrentam incertezas sobre suas jornadas e folgas. A mudança pode afetar a produção no setor de petróleo e impactar diretamente os custos operacionais.",
+  "fatos": [
+   "Fim da escala 6x1 afeta 70 mil trabalhadores embarcados na indústria do petróleo.",
+   "Novo sistema exige descanso semanal, desafiando as atuais escalas de 14 dias de trabalho seguidos.",
+   "A nova legislação exige adaptações que podem ser complexas para as empresas.",
+   "Cerca de 650 mil pessoas trabalham na exploração e produção de petróleo além dos embarcados.",
+   "A Abpip ressalta riscos como fechamento de campos, redução de produção e perda de empregos devido às mudanças."
+  ],
+  "explicacao": [
+   "A nova regra aumentou a exigência de repouso, exigindo adaptações nas escalas de trabalho atuais.",
+   "As empresas precisam negociar coletivamente a distribuição das folgas, o que pode impactar a operação contínua.",
+   "Mudanças nas escalas podem levar a custos mais altos para as empresas, afetando a viabilidade de algumas operações."
+  ],
+  "materia": "Publicado em 27 de outubro de 2026 às 11:18 Trabalhar por 14 dias consecutivos em alto-mar, durante 12 horas por dia, faz parte da rotina de profissionais da indústria do petróleo. Com o fim da escala 6x1 no Brasil, esse modelo de jornada passou a provocar dúvidas sobre como garantir o descanso semanal sem comprometer atividades que funcionam continuamente. O principal impasse envolve cerca de 70 mil trabalhadores embarcados em plataformas marítimas e embarcações de apoio, segundo a Associação Brasileira das Empresas de Bens e Serviços de Petróleo (Abespetro). As empresas afirmam que faltam regras específicas para adaptar as escalas e calcular eventuais horas extras. Plataforma P-51 representa a operação contínua da indústria de petróleo em alto-mar. A preocupação surgiu após a promulgação da emenda constitucional que extinguiu a jornada tradicional de seis dias trabalhados para um de folga. A mudança amplia o repouso remunerado, mas exige adaptações para profissionais que já cumprem regimes diferenciados. A rotina de quem trabalha embarcado é diferente daquela encontrada na maioria das empresas. Nas plataformas, uma organização comum prevê 14 dias de trabalho seguidos por outros 14 de descanso. Na Petrobras, também há regimes com 21 dias de folga após o embarque. Durante o período no mar, os profissionais podem trabalhar 12 horas por dia. Esse formato permite organizar equipes em atividades que precisam continuar funcionando durante a noite, nos fins de semana e nos feriados. Segundo a Abespetro, além dos embarcados, aproximadamente 650 mil pessoas atuam na exploração e produção de petróleo, incluindo profissionais em campos terrestres com operações contínuas. O problema é que a nova regra constitucional amplia a exigência de repouso semanal, enquanto parte das escalas existentes concentra os dias de descanso após longos períodos de trabalho. Uma das maiores dificuldades envolve a distribuição das folgas. Pela nova regra, mesmo os regimes especiais negociados coletivamente precisam assegurar períodos de repouso durante as semanas trabalhadas. Na prática, isso cria um desafio para as escalas de 14 dias consecutivos de embarque, que atualmente concentram o descanso depois do retorno à terra. À Folha de S.Paulo, o advogado trabalhista Fernando Vieira Mustafa, do escritório Machado Meyer, avalia que uma jornada de 14 dias de trabalho por 14 de folga, com turnos de 12 horas, corresponde a uma média aproximada de 42 horas semanais. Esse volume se enquadra no limite previsto para a primeira etapa da transição, mas supera as 40 horas semanais estabelecidas para dezembro de 2027. A dificuldade, portanto, não está restrita à quantidade total de horas. O desafio também envolve a exigência de descanso dentro de cada semana de trabalho. A discussão ocorre enquanto empresas e sindicatos avaliam como adaptar os regimes existentes. O fim da escala 6x1 permite negociações coletivas sobre a distribuição de horários e folgas, respeitados os limites constitucionais. A Associação Brasileira das Produtoras Independentes de Petróleo (Abpip) avalia que as mudanças poderão exigir uma reorganização das equipes e das escalas de embarque, com reflexos sobre os custos operacionais. Na avaliação da entidade, dependendo de como ocorrer a adaptação, existe o risco de fechamento antecipado de campos produtores, redução da produção recuperável de petróleo, queda na arrecadação de royalties e perda de empregos industriais. Esses efeitos representam preocupações apontadas pelas empresas, e não consequências já confirmadas da nova legislação. O presidente da Abespetro, Telmo Ghiorzi, também considera curto o prazo de transição. Segundo ele, a contratação de novos profissionais pode levar aproximadamente dois meses, dificultando uma ampliação rápida das equipes em um momento de pleno emprego no setor. A Petrobras informou que seus empregados administrativos já trabalham em jornadas de 40 horas semanais. Nas unidades operacionais, a companhia utiliza escalas espec",
+  "numeros": [
+   {
+    "valor": "70 mil",
+    "rotulo": "trabalhadores afetados"
+   },
+   {
+    "valor": "650 mil",
+    "rotulo": "pessoas no setor de petróleo"
+   },
+   {
+    "valor": "14 dias",
+    "rotulo": "jornada atual de trabalho"
+   },
+   {
+    "valor": "40 horas",
+    "rotulo": "jornada limite semanal até 2027"
+   }
+  ],
+  "fonte": "Jornal Correio",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "medo de perder a estabilidade com mudanças nas jornadas",
+  "angulo": "A incerteza sobre o novo modelo de jornada pode levar profissionais e empresários a explorar novas habilidades no mercado financeiro, promovendo maior autonomia e segurança.",
+  "gancho": "A *nova jornada de trabalho* e suas consequências",
+  "ideias": [
+   "Mudanças nas jornadas e seus impactos",
+   "Como o fim da escala 6x1 pode afetar sua renda",
+   "Novas regras trabalhistas: o que você precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://www.correio24horas.com.br/em-alta/fim-da-escala-6x1-vai-ter-impacto-em-quem-trabalha-12-horas-por-dia-e-passa-14-dias-no-mar-nova-regra-vai-exigir-mudancas-nas-jornadas-de-quem-trabalha-com-petroleo-1026",
+  "publicadoEm": "2026-10-27T11:18:17-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novo fim da escala 6×1 e suas consequências",
+  "resumo": "A nova emenda sobre a escala de trabalho promete avanços, mas pode gerar exceções que impactam o cotidiano de trabalhadores e empresários. Entenda o que muda a partir de agora.",
+  "fatos": [
+   "A emenda sobre a escala 6×1 foi promulgada em 16 de outubro de 2023.",
+   "Implementação será gradual, iniciando em dezembro de 2026.",
+   "Estabelece dois dias de descanso semanal remunerado sem redução salarial.",
+   "Horas máximas de trabalho cairão de 42 para 40 semanalmente após 12 meses.",
+   "Novas regras poderão incluir exceções para setores com escalas diferenciadas."
+  ],
+  "explicacao": [
+   "Essas mudanças surgem em um contexto de adaptação à pressão por melhores condições de trabalho.",
+   "A proposta permite que acordos coletivos estabeleçam regimes diferentes, considerando a realidade de cada setor.",
+   "Para microempresas, haverá um espaço para adaptações que podem suavizar a transição.",
+   "Mudanças na jornada de trabalho significam que trabalhadores não dependerão apenas do pagamento mensal."
+  ],
+  "materia": "A emenda constitucional que prevê o fim da escala 6×1 foi promulgada pelo Congresso Nacional em 16 de outubro, mas a implementação das novas regras ainda terá um período de transição. O texto estabelece dois dias de descanso semanal remunerado, sem redução salarial, e redução gradual da jornada máxima de trabalho. Segundo reportagem do site Visão da Direita , aliados do governo Lula articulam mudanças para estabelecer exceções à nova jornada em setores com escalas diferenciadas. A publicação afirma que uma nova proposta de emenda à Constituição estaria sendo preparada para tratar do assunto após o segundo turno das eleições. A emenda constitucional já prevê a possibilidade excepcional de regimes compensatórios diferentes da escala 5×2, desde que estabelecidos por acordo ou convenção coletiva e respeitadas as regras de descanso. O texto também permite que uma lei complementar estabeleça medidas de adaptação para microempreendedores individuais, microempresas e empresas de pequeno porte. A implementação está prevista para começar em dezembro de 2026, com jornada máxima de 42 horas semanais e dois dias de descanso. Após 12 meses, o limite será reduzido para 40 horas semanais. A possibilidade de mudanças adicionais e a lista de eventuais exceções ainda dependem de confirmação oficial. A emenda promulgada já estabelece as regras gerais e as hipóteses de adaptação. O deputado estadual Coronel Azevedo (PL) criticou as posições do PT sobre segurança pública, liberação das drogas e aborto, ao comentar sua oposição ao governo de Cadu Xavier (PT) no Rio Grande do Norte. “Eu estou do lado da polícia, eles estão protegendo os bandidos”, afirmou o parlamentar, ao comparar sua atuação política às posições que atribui ao PT. Azevedo também declarou ser contrário à liberação das drogas e ao aborto. “Eu sou contra o aborto, sou a favor da vida. O PT defende a bandeira do lado oposto”, disse. O deputado criticou ainda o que chamou de governo “contaminado ideologicamente” e atribuiu às pautas do partido a responsabilidade pela situação econômica do Rio Grande do Norte e do Brasil. A Justiça italiana retomou nesta terça-feira (27) a análise do pedido de extradição da ex-deputada federal Carla Zambelli (PL) para o Brasil. Ela não compareceu à primeira audiência, embora sua presença não fosse obrigatória. O processo trata da condenação de Zambelli a cinco anos e três meses de prisão pelo episódio em que perseguiu, armada, um jornalista pelas ruas de São Paulo, em 2022. A Primeira Seção Penal da Corte de Cassação italiana deve avaliar se as informações enviadas pelo governo brasileiro atendem às exigências estabelecidas pela Justiça do país europeu para a retomada do processo de extradição. Entre os pontos analisados estão as garantias sobre a assistência médica à ex-deputada e as condições de cumprimento da pena na Penitenciária Feminina do Distrito Federal, conhecida como Colmeia, em Brasília. A defesa de Zambelli pretende solicitar mais prazo para analisar a documentação apresentada pelo Brasil. Em outro processo, relacionado à condenação por invasão aos sistemas do Conselho Nacional de Justiça (CNJ), a Justiça italiana já havia rejeitado o pedido de extradição em maio deste ano. A decisão sobre o caso atual poderá definir os próximos passos do procedimento referente à condenação por perseguição armada. O deputado estadual Coronel Azevedo (PL) afirmou que o Rio Grande do Norte e o Brasil enfrentarão “tempos sombrios” com a reeleição do presidente Lula (PT. O parlamentar criticou o cenário econômico e a atuação do crime organizado em áreas vulneráveis. “Lamentamos que teremos tempos sombrios aí, 26% da nossa população dominada pelo crime organizado, pelas facções, nos territórios mais vulneráveis do Rio Grande do Norte e do Brasil”, declarou. Azevedo também mencionou indicadores econômicos ao avaliar o cenário após a eleição. “A economia é destroçada, a Bolsa despencou, o dólar subiu, a perspectiva de juros futuros piorou”, afirmou. Apesar das crít",
+  "numeros": [
+   {
+    "valor": "42",
+    "rotulo": "horas semanais máximas iniciais"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas semanais máximas após 12 meses"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso semanal"
+   }
+  ],
+  "fonte": "Blog do BG",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "dependência de salários fixos e jornadas inflexíveis",
+  "angulo": "Aprender sobre o mercado financeiro oferece autonomia financeira e novas formas de renda, além das certezas do emprego convencional.",
+  "gancho": "Fique atento ao seu *futuro profissional*!",
+  "ideias": [
+   "Nova emenda: o que muda para você?",
+   "Como aderir ao mercado financeiro e ter liberdade?",
+   "Transforme sua renda com conhecimento em day trade."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T12:35:00-03:00",
+  "url": "https://www.blogdobg.com.br/recuo-nova-regra-da-escala-6x1-preve-excecoes-e-abre-espaco-para-acordos-coletivos/",
+  "publicadoEm": "2026-10-27T12:02:08-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-05"
  },
  {
   "segmento": "trader",

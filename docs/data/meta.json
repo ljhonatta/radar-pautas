@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-27T05:47:55-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-10-27T12:35:00-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Mudanças na tributação podem impactar seu bolso; Reforma tributária pode travar capital com novas regras; Prazo se encerra: empresas do Simples decidirão impostos.",
+  "mensagem": "6 pauta(s) nova(s): Novo fim da escala 6×1 e suas consequências; A nova jornada de trabalho e seus impactos financeiros; Mudanças nas jornadas de trabalho afetam seu bolso.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-10-27T12:35:00-03:00",
    "2026-10-27T05:47:55-03:00",
    "2026-10-26T21:58:07-03:00",
    "2026-10-26T17:50:00-03:00",
@@ -18,19 +19,19 @@
    "2026-10-26T09:16:42-03:00",
    "2026-10-25T22:24:47-03:00",
    "2026-10-25T20:39:26-03:00",
-   "2026-10-25T15:39:53-03:00",
-   "2026-10-25T10:59:04-03:00"
+   "2026-10-25T15:39:53-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-27T05:47:55-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-10-27T12:35:00-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): O custo invisível que machuca o varejo brasileiro; Varejo e serviços financeiros: os novos desafios para empresas; Inteligência Artificial: Transformando o Mercado da Moda.",
+  "mensagem": "7 pauta(s) nova(s): Eleições impactam câmbio e mercado, empresários precisam se adaptar; Varejo em queda: o que isso significa para o seu negócio?; Mais de 60% das empresas tiveram pedidos indeferidos.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-10-27T12:35:00-03:00",
    "2026-10-27T05:47:55-03:00",
    "2026-10-26T21:58:07-03:00",
    "2026-10-26T17:50:00-03:00",
@@ -41,8 +42,7 @@
    "2026-10-26T09:16:42-03:00",
    "2026-10-25T22:24:47-03:00",
    "2026-10-25T20:39:26-03:00",
-   "2026-10-25T15:39:53-03:00",
-   "2026-10-25T10:59:04-03:00"
+   "2026-10-25T15:39:53-03:00"
   ]
  }
 }
