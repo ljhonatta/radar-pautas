@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-27T21:48:07-03:00",
+  "ultimaColeta": "2026-10-28T13:18:48-03:00",
   "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Governo desmente notícias falsas sobre benefícios sociais; Fim da escala 6x1: o que isso significa?; Fake news sobre escala 6x1 e programas sociais.",
+  "mensagem": "6 pauta(s) nova(s): Fim da escala 6x1 e o impacto no bolso; Fim da escala 6x1: o que muda para sua empresa?; Governo pode taxar LCI e LCA; entenda os impactos.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-28T13:18:48-03:00",
    "2026-10-27T21:48:07-03:00",
    "2026-10-27T17:22:12-03:00",
    "2026-10-27T12:35:00-03:00",
@@ -18,19 +19,19 @@
    "2026-10-26T13:20:21-03:00",
    "2026-10-26T12:34:09-03:00",
    "2026-10-26T10:20:19-03:00",
-   "2026-10-26T09:16:42-03:00",
-   "2026-10-25T22:24:47-03:00"
+   "2026-10-26T09:16:42-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-27T21:48:07-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-10-28T13:18:48-03:00",
+  "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Compras online fora do horário comercial crescem 58,2%; PicPay lança vendedor virtual com IA para WhatsApp; Inteligência Artificial transforma o comércio eletrônico no Brasil.",
+  "mensagem": "5 pauta(s) nova(s): Varejo se prepara para aumento nas vendas na Black Friday; Endividamento cresce 75% e impacta vendas no Brasil; Mudanças do Banco Central e o impacto nas empresas.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-28T13:18:48-03:00",
    "2026-10-27T21:48:07-03:00",
    "2026-10-27T17:22:12-03:00",
    "2026-10-27T12:35:00-03:00",
@@ -41,8 +42,7 @@
    "2026-10-26T13:20:21-03:00",
    "2026-10-26T12:34:09-03:00",
    "2026-10-26T10:20:19-03:00",
-   "2026-10-26T09:16:42-03:00",
-   "2026-10-25T22:24:47-03:00"
+   "2026-10-26T09:16:42-03:00"
   ]
  }
 }

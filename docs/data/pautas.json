@@ -1,6 +1,649 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Como a IA transforma decisões de compra e reputação",
+  "resumo": "O avanço da inteligência artificial modifica a forma como consumidores escolhem produtos e fornecedores, exigindo novas estratégias de marketing e gestão de reputação para as empresas.",
+  "fatos": [
+   "A inteligência artificial está mudando a pesquisa por produtos e fornecedores.",
+   "A reputação das marcas agora também é influenciada por informações externas na internet.",
+   "O ABES Summit 2026 discutiu como a tecnologia altera relações entre empresas e consumidores.",
+   "Especialistas enfatizam a importância da visibilidade nas respostas de ferramentas de IA.",
+   "Empresas devem entender e otimizar sua presença no Generative Engine Optimization (GEO).",
+   "A dependência de tecnologias estrangeiras gera preocupações sobre soberania digital no Brasil.",
+   "O financiamento de projetos de IA é apoiado com até 90% para micro e pequenas empresas."
+  ],
+  "explicacao": [
+   "A inteligência artificial está redefinindo como as empresas se apresentam no mercado, deslocando a ênfase da comunicação tradicional para a reputação construída online.",
+   "Com mais consumidores utilizando ferramentas de IA, a visibilidade e credibilidade das marcas se tornaram críticas para atrair clientes.",
+   "As empresas que não investem em estratégias de marketing digital e gestão de reputação podem perder competitividade."
+  ],
+  "materia": "Avanço da IA generativa transforma a visibilidade das marcas, aumenta a importância de fontes confiáveis e exige novas estratégias de competitividade no mercado A inteligência artificial está mudando a forma como consumidores pesquisam produtos, encontram fornecedores e escolhem empresas. Com o avanço dos sistemas generativos, a reputação das marcas e a confiabilidade das informações disponíveis na internet passaram a influenciar também as respostas produzidas por essas tecnologias. A transformação foi um dos principais assuntos do ABES Summit 2026, realizado em 27 de outubro, no Teatro do SESI-SP, em São Paulo. Durante o evento, que teve como tema “Reinventar para competir na era da IA”, especialistas discutiram como a tecnologia está alterando as relações entre empresas e consumidores, além de seus efeitos sobre a economia, a soberania digital, os investimentos em inovação e o mercado de trabalho. Uma das mudanças mais significativas está na maneira como as marcas são encontradas no ambiente digital. Se antes a presença nos mecanismos tradicionais de busca era uma das principais preocupações das empresas, agora também é necessário considerar como seus produtos e serviços aparecem nas respostas de ferramentas de inteligência artificial. Pyr Marcondes, CEO do Macuco DAO Group, explicou que os sistemas generativos estão assumindo um papel crescente na comparação de fornecedores e na recomendação de produtos. Nesse contexto, a visibilidade das empresas deixa de depender exclusivamente de seus próprios canais de comunicação e passa a ser influenciada por informações publicadas em fontes externas. A mudança amplia a importância do jornalismo, de conteúdos verificáveis e da credibilidade construída ao longo do tempo. Segundo Marcondes, as empresas precisam acompanhar como são apresentadas pelas plataformas de IA e compreender o funcionamento do Generative Engine Optimization (GEO), conjunto de estratégias voltadas à presença de marcas nas respostas geradas por inteligência artificial. A reputação corporativa também ganhou destaque nas discussões. Renata Cohen, cofundadora da Schop Consulting e professora da Cásper Líbero, alertou que a imagem de uma empresa não pode ficar restrita aos departamentos de comunicação. Para ela, decisões administrativas, práticas internas e a utilização de agentes de IA também influenciam a percepção pública sobre as organizações. Na mesma linha, Regina Moura Rocha, diretora de Comunicação Corporativa da Roche, destacou que as ferramentas de inteligência artificial não consideram apenas as informações divulgadas pelas próprias empresas, mas também referências independentes. Esse comportamento aumenta o peso de reportagens, pesquisas científicas e outras fontes externas, especialmente em setores sujeitos a regulamentações mais rígidas. Além das mudanças na relação com os consumidores, o encontro abordou os desafios da soberania digital brasileira. A crescente dependência de tecnologias estrangeiras, somada às disputas geopolíticas e à concentração da infraestrutura tecnológica em determinados países, levanta preocupações sobre a capacidade das empresas brasileiras de manter suas operações diante de possíveis instabilidades internacionais. Durante o debate, Eduardo Paranhos, sócio fundador do Ouro Preto Paranhos Advogados, defendeu que soberania digital não significa abandonar tecnologias estrangeiras, mas desenvolver condições para inovar, competir e reduzir dependências estratégicas. A discussão também envolveu a necessidade de investimentos em semicondutores, data centers e infraestrutura digital. Philipe Moura, da Eurasia Group, avaliou que o Brasil precisará definir prioridades dentro da cadeia tecnológica, já que não será possível competir em todas as etapas do desenvolvimento da inteligência artificial. Fábio Maia, do CESAR/CISSA, chamou a atenção para a importância de identificar fornecedores e processos considerados críticos, enquanto a deputada federal Adriana Ventura defendeu regras proporciona",
+  "numeros": [
+   {
+    "valor": "4,5 mil",
+    "rotulo": "projetos de IA apoiados desde 2014"
+   },
+   {
+    "valor": "255",
+    "rotulo": "novos projetos relacionados à IA em 2025"
+   },
+   {
+    "valor": "90%",
+    "rotulo": "apoio financeiro para micro e pequenas empresas"
+   }
+  ],
+  "fonte": "Capital Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda de relevância e visibilidade no mercado digital",
+  "angulo": "A transformação pela IA exige novas abordagens em marketing, tornando essencial a gestão de reputação e automação, promovendo interesse por serviços que ajudem na adaptação.",
+  "gancho": "Transformações da *IA nas empresas*",
+  "ideias": [
+   "A nova era da IA nas decisões de compra",
+   "Reputação corporativa: o eco da IA",
+   "Como a IA muda a presença digital das marcas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://capitaldigital.com.br/inteligencia-artificial-muda-decisoes-de-compra-e-coloca-reputacao-das-empresas-em-destaque/",
+  "publicadoEm": "2026-10-28T11:41:42-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento no varejo: o impacto das novas leis",
+  "resumo": "As vendas do varejo alimentar cresceram, impulsionadas pela proibição das apostas. Este movimento evidencia a necessidade de adaptação no marketing e estratégias de vendas.",
+  "fatos": [
+   "As vendas do varejo alimentar brasileiro cresceram 6,9% em faturamento na semana de 12 a 18 de outubro.",
+   "O crescimento foi atribuído à assinatura da medida provisória que proibiu as apostas, no final de setembro.",
+   "O canal Atacarejo teve o melhor desempenho, com crescimento de +8,1% em faturamento.",
+   "O Sul apresentou o maior crescimento, com aumento de faturamento de +8,4% entre lojas.",
+   "Alguns setores, como bebidas e limpeza, tiveram destaque positivo, enquanto eletrônicos e alguns alimentos apresentaram quedas."
+  ],
+  "explicacao": [
+   "O aumento nas vendas reflete uma mudança no comportamento do consumidor após a proibição das apostas.",
+   "As famílias estão redirecionando seus gastos, impactando positivamente setores do varejo alimentar.",
+   "Os empresários devem adaptar suas estratégias para acompanhar essa movimentação e garantir que não fiquem para trás no mercado."
+  ],
+  "materia": "28/10/2026 12h51 • Atualizado 21 minutos atrás As vendas do varejo alimentar brasileiro cresceram nas duas primeiras semanas de outubro, movimento que a Associação Brasileira de Supermercados (Abras) e a Associação Brasileira de Atacadistas e Distribuidores (Abad) atribuíram especialmente à assinatura da medida provisória que proibiu as bets no Brasil , que aconteceu no final de setembro. Segundo a edição mais recente do NIQ Monitor, levantamento da NielsenIQ (NIQ), o setor observou crescimento de 6,9% em faturamento e 1,8% em valor na semana de 12 a 18 de outubro. Na semana de 5 a 11 de outubro, a evolução tinha sido de 7,9% e 4,5%, respetivamente. Leia mais: Supermercado é o que mais pesa no bolso dos brasileiros, aponta pesquisa Informações, análises e recomendações que valem dinheiro Leia mais: Bets já tem receita de R$20 bi no ano e 9 milhões de apostadores por mês O desempenho representou uma recuperação significativa em comparação com a semana de 28 de setembro a 4 de outubro, marcada por queda de -4,4% no volume vendido e crescimento de apenas +0,4% em valor. “O fim das bets trouxe aumento do consumo nos lares brasileiros. Tivemos um aumento em todos os estados e em todos os nossos negócios, ou seja, nos nossos canais de vendas – supermercado, atacarejos , lojas de vizinhança e pequenas lojas, afirmou o presidente da Abras, João Galassi, que destacou a evolução tanto em receita como em volumes vendidos. Para a Abad, o resultado reforça a relevância do formato para o desempenho do varejo alimentar moderno e acende um alerta também para uma percepção do mercado sobre o aumento das vendas após as proibições das bets no Brasil pelo governo Federal. Na última semana analisada, o destaque ficou com o canal Atacarejo, que apresentou o melhor desempenho entre os formatos analisados, registrando crescimento de +8,1% em faturamento e +2,9% em unidades vendidas, os maiores índices entre os canais analisados. Em faturamento, além do atacarejo, destacaram-se os hipermercados, com avanço de +6,9%, e os supermercados de grande porte, com +6,6%. O único formato que registrou retração no volume comercializado foi o Super Pequeno, com queda de -2,6% nas unidades vendidas. Mesmo assim, o canal apresentou crescimento de +3,9% em faturamento. Na análise regional, o Sul liderou o crescimento do faturamento, com avanço de +8,4% em total de lojas e +4,1% em mesmas lojas, superando a média nacional. O resultado foi impulsionado principalmente pelos hipermercados e pelo atacarejo. No Sul, o canal AS Hiper registrou crescimento de +12,4% em faturamento no total de lojas e de +6% em mesmas lojas. Já o Atacarejo avançou +11,1% e +6,3%, respectivamente. Outras regiões, como o interior de São Paulo e o agrupamento formado por Minas Gerais, Espírito Santo e interior do Rio de Janeiro, também apresentaram resultados positivos, embora inferiores aos observados no Sul. Por outro lado, o levantamento identificou retrações pontuais. No Centro-Oeste, o faturamento dos hipermercados caiu -7,7% em total de lojas e -9,7% em mesmas lojas. No Nordeste, o mesmo canal registrou quedas de -3,5% e -1,1%, respectivamente. O canal Farma apresentou crescimento em faturamento em praticamente todas as regiões analisadas. A exceção foi a Grande Rio de Janeiro, onde houve retração de -2,2% em total de lojas e de -6% em mesmas lojas. Entre as cestas de produtos, Bebidas, Limpeza e Higiene e Beleza estiveram entre os principais destaques em faturamento na semana analisada. A cesta de Bebidas cresceu +10,8% em valor, seguida por Limpeza, com +10,3%, e Higiene e Beleza, com +7,8%. Em contrapartida, a cesta de Eletrônicos apresentou retração de -2%, enquanto Commodities registrou crescimento de apenas +0,5%. No volume comercializado, Limpeza avançou +4,7%, Higiene e Beleza cresceu +3,9% e Bebidas registrou alta de +2,5%. Bazar e Têxtil também apresentou resultado positivo, com expansão de +5,1% em unidades vendidas. Já Commodities recuou -2,4%, e Tabaco registrou queda de -3,2",
+  "numeros": [
+   {
+    "valor": "6,9%",
+    "rotulo": "crescimento em faturamento"
+   },
+   {
+    "valor": "8,1%",
+    "rotulo": "crescimento no Atacarejo"
+   },
+   {
+    "valor": "8,4%",
+    "rotulo": "crescimento no Sul"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas devido à falta de estratégia de adaptação",
+  "angulo": "A situação atual no varejo destaca a importância de um marketing estratégico, gestão de redes e adaptação ao comportamento do consumidor.",
+  "gancho": "você conhece os *novos hábitos de consumo*?",
+  "ideias": [
+   "Entenda o crescimento do varejo após novas leis",
+   "Como o marketing pode potencializar suas vendas no varejo",
+   "Adapte-se à mudança: porque o marketing é essencial"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://www.infomoney.com.br/economia/vendas-do-varejo-alimentar-crescem-em-outubro-fim-das-bets-ajudou-diz-setor/",
+  "publicadoEm": "2026-10-28T12:51:11-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças do Banco Central e o impacto nas empresas",
+  "resumo": "Novo regulamento do Banco Central muda a forma como instituições financeiras oferecem crédito, impactando o comportamento do consumidor e o comércio. Empresários precisam se adaptar.",
+  "fatos": [
+   "O Banco Central aprovou três resoluções que mudam como bancos oferecem crédito e avaliam capacidade de pagamento dos consumidores.",
+   "As normas começam a valer entre março e julho de 2027 e visam prevenir o superendividamento.",
+   "Em dezembro de 2024, o comprometimento médio da renda para crédito chegou a 24,7% entre tomadores com renda de até 20 salários mínimos.",
+   "A Resolução BCB 602 exige que bancos tenham autorização do cliente para enviar ofertas de crédito personalizadas.",
+   "As instituições têm que fornecer simulações de custos e alertas automáticos para consumidores em risco de endividamento superior a 40% da renda."
+  ],
+  "explicacao": [
+   "As mudanças foram implementadas para aumentar a transparência e proteção ao consumidor, principalmente em meio a altos níveis de endividamento.",
+   "As instituições financeiras terão que modificar seus sistemas para atender as novas exigências, impactando como se relacionam com os consumidores.",
+   "Essas alterações podem ajudar a controlar o crédito, mas também exigem que empresários se adaptem a um novo cenário de oferta e demanda."
+  ],
+  "materia": "O Banco Central aprovou três resoluções que alteram a forma como instituições financeiras poderão oferecer crédito, informar custos e avaliar a capacidade de pagamento dos consumidores . Publicadas em 23 de outubro de 2026, as normas reforçam a prevenção ao superendividamento e estabelecem novas exigências de transparência, consentimento e responsabilidade na concessão de empréstimos. As medidas foram estabelecidas pelas Resoluções BCB 601, 602 e 603. As principais obrigações começam a valer entre março e julho de 2027 . A iniciativa ocorre em um cenário no qual o acesso ao crédito convive com dificuldades de pagamento e elevados níveis de endividamento das famílias. O Relatório de Cidadania Financeira 2025, do próprio Banco Central, registrou que o comprometimento médio da renda com operações de crédito com juros chegou a 24,7% em dezembro de 2024, entre tomadores com renda mensal de até 20 salários mínimos. O levantamento também mostrou diferenças entre grupos da população. O comprometimento médio atingiu 25,3% entre mulheres e 26% entre pessoas de 35 a 60 anos. Os números ajudam a compreender o desafio regulatório: ampliar o acesso a serviços financeiros sem incentivar contratações incompatíveis com a capacidade de pagamento. A discussão também envolve a maneira como os produtos são oferecidos. Na jornada digital, empréstimos podem ser apresentados por notificações, mensagens personalizadas e ofertas incorporadas às funcionalidades dos aplicativos. Embora esses mecanismos facilitem o acesso ao crédito, também podem estimular decisões rápidas, especialmente quando o consumidor não dispõe de informações suficientes sobre o custo total da operação e suas consequências para o orçamento. É justamente nesse momento anterior à contratação que as novas normas pretendem atuar. Sim. A Resolução BCB 602 determina que as instituições disponibilizem mecanismos de autorização seletiva para propagandas e ofertas ativas individuais de produtos e serviços financeiros. Na prática, o cliente deverá ter maior controle sobre as abordagens comerciais que recebe. A autorização poderá ser revogada a qualquer momento, com efeito imediato. As instituições também deverão informar periodicamente sobre a possibilidade de revogação. A norma estabelece proteção reforçada para consumidores que demandem atenção qualificada. Nesse grupo, as ofertas ativas dependerão de autorização prévia, inequívoca e específica para cada modalidade. Além disso, ficarão restritas a operações destinadas a melhorar as condições financeiras existentes, como renegociação, portabilidade ou migração de saldos para produtos mais vantajosos, sem oferta de recursos adicionais. A restrição não significa que essas pessoas estarão proibidas de buscar crédito por iniciativa própria. O objetivo é limitar a abordagem ativa realizada pelas instituições em circunstâncias de maior risco. A regulamentação estabelece critérios mínimos para identificar clientes que necessitam de proteção adicional. Entre os fatores estão a renda disponível após despesas essenciais, as obrigações financeiras assumidas, a idade, o nível de escolaridade e a utilização persistente de modalidades de crédito mais onerosas. A Resolução 602 considera persistente, por exemplo, a utilização do rotativo ou do parcelamento da fatura do cartão em três ou mais faturas durante seis meses. Outro indicador é a existência de saldo devedor vencido por 90 dias ou mais. Esses critérios não devem ser confundidos com uma classificação automática de todos os idosos, consumidores de baixa renda ou usuários de cartão de crédito como incapazes de contratar empréstimos. A avaliação deverá considerar as circunstâncias previstas na regulamentação e os critérios objetivos adotados pelas instituições. A mudança traz uma questão importante para a experiência do consumidor: como identificar vulnerabilidades sem produzir discriminação ou restringir indevidamente o acesso a serviços financeiros? A resposta dependerá, em parte, da implementação da",
+  "numeros": [
+   {
+    "valor": "24,7",
+    "rotulo": "percentual da renda comprometida com crédito"
+   },
+   {
+    "valor": "40",
+    "rotulo": "percentual que aciona alerta automático para consumidores endividados"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de clientes devido ao excesso de endividamento",
+  "angulo": "As mudanças exigem que empresas repensem suas abordagens de crédito e marketing, com foco na transparência e adaptação ao novo comportamento dos consumidores.",
+  "gancho": "Mudanças que *impactam seu negócio* agora!",
+  "ideias": [
+   "Como preparar sua empresa para as novas regras do BC",
+   "O impacto das novas normas de crédito no seu negócio",
+   "Transparência e vendas: como se adaptar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://consumidormoderno.com.br/novas-regras-credito-banco-central-2027/",
+  "publicadoEm": "2026-10-28T11:16:03-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Endividamento cresce 75% e impacta vendas no Brasil",
+  "resumo": "O Brasil apresenta 20,3 milhões de endividados, com aumento expressivo de 75% nos últimos cinco anos, impactando o consumo e as vendas de diversas empresas.",
+  "fatos": [
+   "20,3 milhões de brasileiros estão em situação de endividamento de risco até junho de 2026.",
+   "O crescimento do contingente foi de 75% nos últimos cinco anos.",
+   "Esse número representa 17% dos devedores do Sistema Financeiro Nacional.",
+   "42% da renda de quem ganha até dois salários mínimos está comprometida com dívidas.",
+   "Mudanças nas regras de crédito começam a valer em março de 2027."
+  ],
+  "explicacao": [
+   "O aumento do endividamento no Brasil afeta diretamente o poder de compra dos consumidores.",
+   "Com a renda comprometida, as pessoas tendem a reduzir gastos, principalmente com produtos e serviços não essenciais.",
+   "As novas regras de crédito visam aumentar a transparência e proteger consumidores vulneráveis, mas indicam um cenário crítico para o comércio."
+  ],
+  "materia": "O número de brasileiros em situação de endividamento de risco chegou a 20,3 milhões em junho de 2026, alta de 75% em cinco anos, informou nesta terça-feira, 27, o Relatório de Estabiliadde Financeira do Banco Central (BC). O contingente representa 17% dos devedores do Sistema Financeiro Nacional. Diante do avanço do problema, o presidente do BC, Gabriel Galípolo, afirmou que a instituição pretende anunciar novas medidas para conter ofertas agressivas de crédito ainda este ano. Principais números: 20,3 milhões: brasileiros em situação de endividamento de risco; 75%: crescimento do contingente entre junho de 2021 e junho de 2026; 17%: participação dos devedores de risco no sistema financeiro; 42%: comprometimento da renda com dívidas entre pessoas que ganham até dois salários mínimos; 15%: parcela da renda dessa faixa comprometida com dívidas no cartão de crédito; 18,6%: comprometimento total da renda entre quem ganha mais de dez salários mínimos. BC prepara novas medidas Segundo Galípolo, as próximas iniciativas devem priorizar consumidores que já utilizam o crédito rotativo do cartão ou apresentam atrasos significativos no pagamento das dívidas. “Pretendemos adicionar medidas ainda este ano”, afirmou o presidente do BC. Ele destacou a preocupação com pessoas que já enfrentam juros elevados e dificuldades financeiras. Galípolo também apontou o crescimento de modalidades de crédito sem garantia, como cartão de crédito, cheque especial e empréstimo pessoal não consignado, mesmo em um cenário de juros elevados. “A preocupação que existe é nessas modalidades, em que estamos assistindo crescimento de maneira pouco sensível a preço”, disse. Quem está em risco Para classificar um consumidor como endividado de risco, o BC considera quatro critérios. É necessário atender a pelo menos dois deles: Atraso superior a 90 dias no pagamento de parcelas de crédito; Comprometimento de mais de 50% da renda mensal com dívidas; Uso simultâneo de cheque especial, crédito pessoal sem consignação e crédito rotativo; Renda restante, após o pagamento das dívidas, abaixo da linha de pobreza. A classificação não significa que todos os 20,3 milhões de brasileiros estejam inadimplentes, mas indica maior vulnerabilidade financeira. O relatório do BC mostra ainda que o comprometimento da renda com dívidas no cartão aumentou em todas as faixas salariais. Entre os que recebem até dois salários mínimos, grupo que reúne 61,2 milhões de pessoas, o comprometimento total chegou a 42% da renda em junho de 2026. Regras para empréstimos Na última sexta-feira, 23, o Banco Central anunciou medidas para restringir ofertas inadequadas de crédito e ampliar a transparência na contratação de empréstimos. Entre as mudanças, as instituições financeiras deverão oferecer mecanismos para bloquear publicidade e propostas ativas de crédito. Para consumidores considerados vulneráveis ou em risco de endividamento excessivo, as ofertas dependerão de autorização prévia, específica e inequívoca. Nesses casos, as propostas deverão se limitar a alternativas que melhorem as condições financeiras do cliente, como renegociação e portabilidade, sem concessão de novos recursos. As regras de bloqueio de ofertas entram em vigor em 31 de março de 2027. Outras medidas, previstas para julho do mesmo ano, incluem painéis digitais com informações sobre dívidas e limites para ofertas de empréstimos durante transações iniciadas pelo Pix. As iniciativas buscam reduzir a contratação de crédito inadequado e evitar o agravamento do endividamento das famílias brasileiras. Com informações de Agência Brasil. Imagem: Envato O post Endividamento de risco no Brasil cresce 75% em cinco anos, diz BC apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "20,3 milhões",
+    "rotulo": "brasileiros em endividamento de risco"
+   },
+   {
+    "valor": "75%",
+    "rotulo": "crescimento no endividamento em cinco anos"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "reducão nas vendas e poder de compra do consumidor",
+  "angulo": "Diante do cenário de endividamento crescente, o planejamento estratégico e a gestão de marketing se tornaram essenciais para adequar as ofertas às novas realidades financeiras dos consumidores.",
+  "gancho": "Endividamento em alta: *impacto nas vendas*",
+  "ideias": [
+   "Como o endividamento afeta o varejo?",
+   "Estratégias de marketing em tempos de crise financeira",
+   "A importância da presença digital para atrair clientes"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://mercadoeconsumo.com.br/28/10/2026/economia/endividamento-de-risco-no-brasil-cresce-75-em-cinco-anos-diz-bc/",
+  "publicadoEm": "2026-10-28T10:11:08-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Varejo se prepara para aumento nas vendas na Black Friday",
+  "resumo": "Estudo revela que 71% dos consumidores planejam compras na Black Friday, indicando um aumento significativo na intenção de compra. Essa mudança demandará estratégias de marketing eficazes.",
+  "fatos": [
+   "Intenção de compra aumentou de 23% para 71% em 2026.",
+   "86% dos entrevistados têm recursos próprios para gastar.",
+   "49% dos consumidores pretendem gastar o mesmo ou mais do que em 2025.",
+   "73% planejam usar a Black Friday para adiantar presentes de Natal.",
+   "Frete grátis é o principal fator de decisão para 44% dos consumidores."
+  ],
+  "explicacao": [
+   "A pesquisa reflete a resiliência do consumidor mesmo em um contexto de endividamento.",
+   "A intenção de compra elevada revela a necessidade de estratégias de marketing que se estendam durante todo o mês.",
+   "Varejistas devem adaptar suas operações e ofertas para capturar essa nova dinâmica de consumo."
+  ],
+  "materia": "Apesar de fatores desafiadores para o varejo, como endividamento das famílias, a pesquisa Panorama de Consumo 2026, realizada pelo Mercado Pago, indica que os consumidores estão preparados para a Black Friday deste ano. Os dados indicam que, entre os entrevistados, 86% dos afirmam que terão recursos próprios separados ou disponíveis para gastar durante o período, enquanto 44% já reservaram dinheiro especificamente para as compras. Outro destaque é o avanço da intenção de compra nas duas principais campanhas do mês. A proporção de consumidores que planejam aproveitar tanto o 11.11 quanto a Black Friday saltou de 23% em 2025 para 71% neste ano, crescimento de 48 pontos percentuais. O levantamento também mostra que 49% pretendem gastar o mesmo valor ou mais do que no ano passado. Os dados fazem parte do estudo divulgado nesta quarta-feira, 28, que ouviu 3.345 usuários do Mercado Livre e do Mercado Pago em todo o País. A pesquisa aponta que 81% dos participantes pretendem comprar em pelo menos uma das datas promocionais de novembro. Segundo o Mercado Livre, essa mudança no comportamento dos consumidores exige uma operação comercial mais distribuída ao longo do mês, com ofertas e condições especiais de pagamento que vão além da Black Friday. “Hoje, a Black Friday é parte de um calendário de consumo que começa antes da data e segue depois dela”, afirmou André Castilho, diretor sênior de marketplace do Mercado Livre. Para a temporada de 2026, a companhia anunciou sua maior operação promocional, com mais de R$ 100 milhões em cupons, 37 milhões de anúncios de produtos em promoção e o triplo de ofertas com descontos superiores a 70%, na comparação com o ano passado. O aplicativo terá novos cupons diariamente. A plataforma também manterá o Selo Black Friday, concedido exclusivamente a produtos anunciados pelo menor preço dos últimos 60 dias. De acordo com o Mercado Livre, as ofertas com essa identificação apresentam descontos médios 30% maiores do que aquelas sem o selo. Consumidor antecipa presentes de Natal e busca parcelamento O planejamento financeiro também aparece na antecipação das compras de fim de ano. Segundo a pesquisa, 73% dos entrevistados pretendem aproveitar a Black Friday para adiantar os presentes de Natal, enquanto 56% planejam utilizar a primeira parcela do 13º salário. O cartão de crédito continua sendo o meio de pagamento mais citado, com 46% das preferências. O Pix, incluindo a modalidade parcelada, alcançou 42%, crescimento de 13 pontos percentuais em relação a 2025. Na direção oposta, o cartão de débito perdeu participação, passando de 9% para 4,1%, assim como o boleto, que recuou de 2% para 1,5%. Metade dos entrevistados pretende parcelar suas compras. Entre eles, 64% preferem dividir os pagamentos em até seis vezes, enquanto 33% buscam prazos superiores. No grupo que planeja gastar mais de R$ 5 mil, 55% desejam parcelar em 12 vezes ou no maior número de prestações possível sem juros. Para atender a essa demanda, o Mercado Pago passou a oferecer, em 19 de outubro, parcelamento em até 21 vezes sem juros no cartão da instituição para diversos produtos do Mercado Livre. A partir de 11 de novembro, o prazo poderá chegar a 24 vezes sem juros. “A integração entre Mercado Livre e Mercado Pago permite pensar a experiência de compra e a de pagamento como uma única jornada”, afirmou Felipe Castaño, diretor sênior de growth e Marketing do Mercado Pago. Frete grátis supera desconto na decisão de compra Na escolha das ofertas, o frete grátis aparece como principal fator de decisão para 44% dos consumidores entrevistados, superando o desconto no preço, mencionado por 40%. Entre as mulheres, a entrega gratuita tem peso ainda maior, sendo considerada decisiva por 50%. Já entre os homens, o desconto lidera, com 42% das respostas, ante 39% para o frete. Os cupons também exercem influência sobre as compras. Para 94% dos participantes, esse benefício é relevante, muito importante ou decisivo. Entre aqueles que utilizam cupons, 66,2%",
+  "numeros": [
+   {
+    "valor": "71%",
+    "rotulo": "intenção de compra para a Black Friday"
+   },
+   {
+    "valor": "49%",
+    "rotulo": "percentual que pretende gastar o mesmo ou mais"
+   },
+   {
+    "valor": "73%",
+    "rotulo": "que planejam adiantar presentes de Natal"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Restaurantes"
+  ],
+  "dor": "Perda de vendas e clientes durante períodos promocionais",
+  "angulo": "Com um aumento expressivo na intenção de compra, é essencial que empresários se preparem com estratégias adequadas e automatizadas para não perder oportunidades.",
+  "gancho": "Prepare-se: *Aumenta a intenção de compra*",
+  "ideias": [
+   "5 dicas para vender mais na Black Friday",
+   "Como preparar seu e-commerce para o aumento de vendas",
+   "Estratégias de marketing eficazes para o varejo"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://mercadoeconsumo.com.br/28/10/2026/black-friday/black-friday-intencao-de-compra-salta-de-23-para-71-diz-pesquisa-do-mercado-pago/",
+  "publicadoEm": "2026-10-28T12:01:36-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Cresce o superendividamento no Brasil e o risco ao salário",
+  "resumo": "O número de superendividados no Brasil chegou a 20,3 milhões, alta de 75% em cinco anos, segundo o Banco Central. Essa situação aumenta a vulnerabilidade financeira da população.",
+  "fatos": [
+   "20,3 milhões de brasileiros estão em situação de endividamento de risco em junho de 2026.",
+   "Esse número representa uma alta de 75% em cinco anos.",
+   "17% dos devedores do Sistema Financeiro Nacional são considerados superendividados.",
+   "Entre quem ganha até dois salários mínimos, 42% da renda é comprometida com dívidas.",
+   "Novas medidas do Banco Central visam restringir ofertas de crédito a consumidores vulneráveis a partir de março de 2027."
+  ],
+  "explicacao": [
+   "O crescimento do superendividamento pode pressionar o orçamento familiar e reduzir a qualidade de vida.",
+   "Novas regras do BC buscam proteger os consumidores de ofertas inadequadas de crédito.",
+   "Essas medidas podem limitar o acesso ao crédito, mas visam evitar o agravamento da crise de endividamento."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O nÃºmero de brasileiros em situaÃ§Ã£o de endividamento de risco chegou a 20,3 milhÃµes em junho de 2026, alta de 75% em cinco anos, informou o RelatÃ³rio de Estabilidade Financeira do Banco Central (BC) nessa terÃ§a-feira (27). O contingente representa 17% dos devedores do SFN (Sistema Financeiro Nacional). Diante do avanÃ§o do problema, o presidente do BC, Gabriel GalÃ­polo, afirmou que a instituiÃ§Ã£o pretende anunciar novas medidas para conter ofertas agressivas de crÃ©dito ainda este ano. Segundo GalÃ­polo, as prÃ³ximas iniciativas devem priorizar consumidores que jÃ¡ utilizam o crÃ©dito rotativo do cartÃ£o ou apresentam atrasos significativos no pagamento das dÃ­vidas. \"Pretendemos adicionar medidas ainda este ano\", afirmou o presidente do BC. Ele destacou a preocupaÃ§Ã£o com pessoas que jÃ¡ enfrentam juros elevados e dificuldades financeiras. GalÃ­polo tambÃ©m apontou o crescimento de modalidades de crÃ©dito sem garantia, como cartÃ£o de crÃ©dito, cheque especial e emprÃ©stimo pessoal nÃ£o consignado, mesmo em um cenÃ¡rio de juros elevados. \"A preocupaÃ§Ã£o que existe Ã© nessas modalidades, em que estamos assistindo crescimento de maneira pouco sensÃ­vel a preÃ§o\", disse. Para classificar um consumidor como endividado de risco, o BC considera quatro critÃ©rios. Ã necessÃ¡rio atender a pelo menos dois deles: A classificaÃ§Ã£o nÃ£o significa que todos os 20,3 milhÃµes de brasileiros estejam inadimplentes, mas indica maior vulnerabilidade financeira. O relatÃ³rio do BC mostra ainda que o comprometimento da renda com dÃ­vidas no cartÃ£o aumentou em todas as faixas salariais. Entre os que recebem atÃ© dois salÃ¡rios mÃ­nimos, grupo que reÃºne 61,2 milhÃµes de pessoas, o comprometimento total chegou a 42% da renda em junho de 2026. Uma newsletter com informaÃ§Ãµes exclusivas para quem precisa tomar decisÃµes Na Ãºltima sexta-feira (23), o Banco Central anunciou medidas para restringir ofertas inadequadas de crÃ©dito e ampliar a transparÃªncia na contrataÃ§Ã£o de emprÃ©stimos. Entre as mudanÃ§as, as instituiÃ§Ãµes financeiras deverÃ£o oferecer mecanismos para bloquear publicidade e propostas ativas de crÃ©dito. Para consumidores considerados vulnerÃ¡veis ou em risco de endividamento excessivo, as ofertas dependerÃ£o de autorizaÃ§Ã£o prÃ©via, especÃ­fica e inequÃ­voca. Nesses casos, as propostas deverÃ£o se limitar a alternativas que melhorem as condiÃ§Ãµes financeiras do cliente, como renegociaÃ§Ã£o e portabilidade, sem concessÃ£o de novos recursos. As regras de bloqueio de ofertas entram em vigor em 31 de marÃ§o de 2027. Outras medidas, previstas para julho do mesmo ano, incluem painÃ©is digitais com informaÃ§Ãµes sobre dÃ­vidas e limites para ofertas de emprÃ©stimos durante transaÃ§Ãµes iniciadas pelo Pix. As iniciativas buscam reduzir a contrataÃ§Ã£o de crÃ©dito inadequado e evitar o agravamento do endividamento das famÃ­lias brasileiras. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. VocÃª jÃ¡ conhece as vantagens de ser assinante da Folha? AlÃ©m de ter acesso a reportagens e colunas, vocÃª conta com newsletters exclusivas ( conheÃ§a aqui ). TambÃ©m pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notÃ­cias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado! Mais de 180 reportagens e anÃ¡lises pub",
+  "numeros": [
+   {
+    "valor": "20,3 milhões",
+    "rotulo": "superendividados"
+   },
+   {
+    "valor": "75%",
+    "rotulo": "crescimento em cinco anos"
+   },
+   {
+    "valor": "42%",
+    "rotulo": "da renda comprometida com dívidas"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "perda de controle financeiro e aumento das dívidas",
+  "angulo": "Em um cenário de vulnerabilidade, aprender sobre investimentos e finanças pode ser uma saída para garantir maior segurança financeira, além do salário.",
+  "gancho": "*Superendividamento* cresce e traz riscos financeiros",
+  "ideias": [
+   "Como o superendividamento afeta seu salário?",
+   "Aprenda a controlar suas finanças em tempos de crise.",
+   "Investir pode ser a solução para evitar o endividamento."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/numero-de-superendividados-no-brasil-cresce-75-em-cinco-anos-diz-bc.shtml",
+  "publicadoEm": "2026-10-28T09:53:00-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Imposto Seletivo e CBS impactam seu bolso",
+  "resumo": "O fim do IPI gera aumento na CBS, impactando diretamente o custo de bens e serviços. Entenda como isso afeta seu dia a dia e suas finanças pessoais.",
+  "fatos": [
+   "O IS vai repor cerca de 40% da arrecadação perdida com o fim do IPI.",
+   "A CBS absorve os 60% restantes da perda do IPI.",
+   "A alíquota-padrão da CBS é estimada em 11,3%.",
+   "A Zona Franca de Manaus adiciona R$ 4,98 bilhões à arrecadação da CBS.",
+   "A LC 214 de 2025 reduziu a zero as alíquotas do IPI para a maioria dos produtos industrializados."
+  ],
+  "explicacao": [
+   "Com a extinção do IPI, o governo busca compensar essa perda tributária através do aumento da CBS, um imposto que incide sobre bens e serviços.",
+   "O IS, conhecido como 'imposto do pecado', e o ajuste na CBS serão refletidos nos preços que o consumidor final pagará.",
+   "Essa mudança pode aumentar as despesas mensais, afetando a renda disponível para outras compras.",
+   "Essas alterações estão em alinhamento com as novas regras da reforma tributária para assegurar a arrecadação necessária ao governo."
+  ],
+  "materia": "TCU estima alíquota-padrão da CBS em 11,3%; Zona Franca de Manaus adiciona R$ 4,98 bilhões à arrecadação estimada O IS (Imposto Seletivo) vai repor cerca de 40% da arrecadação perdida com o fim do IPI (Imposto sobre Produtos Industrializados), segundo cálculos do TCU (Tribunal de Contas da União) para a reforma tributária. Os 60% restantes foram incorporados à CBS (Contribuição sobre Bens e Serviços), de acordo com o tribunal. Na prática, a CBS, tributo federal que será pago em compras de bens e serviços, ficou mais alta para compensar o que o IPI deixa de arrecadar. O TCU diz que isso adiciona mais de 1 ponto percentual (p.p.) à alíquota-padrão da CBS, calculada em 11,3%. O desenho original da reforma estimava que o IS, chamado de “imposto do pecado” , absorveria a perda do IPI. O tributo incide sobre bens nocivos à saúde e ao meio ambiente. A Emenda Constitucional 132 de 2023 exige a manutenção da vantagem comparativa dos produtos fabricados na ZFM (Zona Franca de Manaus) e nas ALC (Áreas de Livre Comércio). Para cumprir a regra, o modelo do TCU estabelece: No mapa de módulos do tribunal, o Módulo 14 (ZFM e ALC) acrescenta R$ 4,98 bilhões à arrecadação média anual estimada da CBS. O valor resulta da receita do IPI residual e da calibração dos créditos presumidos. Os números têm como base a média de 2023 e 2024, a uma alíquota de 11,3468%. Segundo o acórdão, incorporar as receitas do IPI da ZFM evitou que a alíquota geral da CBS fosse maior. A LC (Lei Complementar) 214 de 2025 reduz a zero as alíquotas do IPI para a maioria dos produtos industrializados. O imposto permanece apenas sobre itens que concorrem com a produção da ZFM. Pelas projeções do TCU, a arrecadação estimada do IS não neutraliza integralmente a extinção do IPI. A diferença foi integrada à meta da CBS. O TCU afirma que o cálculo da alíquota de 11,3% se baseia nas melhores estimativas disponíveis, mas depende de 3 definições ainda não concluídas pelo Executivo e pelo Congresso: Se o Congresso aprovar alíquotas do IS inferiores às projetadas pelo Ministério da Fazenda e pelo TCU, a arrecadação do imposto será menor que a estimada. Nesse caso, segundo o tribunal, será necessário elevar a alíquota da CBS para cumprir a trava constitucional de arrecadação da União. a) Para receber as informações solicitadas, você nos autoriza a usar o seu nome, endereço de e-mail e/ou telefone e assuntos de interesse (a depender da opção assinalada e do interesse indicado). Independentemente da sua escolha, note que o Poder360 poderá lhe contatar para assuntos regulares. b) Caso não deseje oferecer o seu consentimento para as divulgações do Poder360, é possível seguir sem receber as informações assinaladas acima. Você poderá, a qualquer momento, se descadastrar de nossos contatos ou revogar o consentimento dado abaixo pelos nossos canais de atendimento. c) O Poder360 garantirá o exercício de quaisquer direitos e prerrogativas de proteção de dados pessoais em conformidade com a Lei 13.709/2018. Mais informações, leia nossa Política de Privacidade . O Poder360 enviou um e-mail para você confirmar a inscrição. Clique no link enviado para o seu e-mail para concluir o cadastro. Não chegou ainda? Dê uma olhada na caixa de spam se a mensagem não tiver aparecido em alguns minutos.",
+  "numeros": [
+   {
+    "valor": "11,3",
+    "rotulo": "alíquota-padrão da CBS"
+   },
+   {
+    "valor": "4,98 bilhões",
+    "rotulo": "arrecadação da ZFM"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Aumento nos preços de bens e serviços",
+  "angulo": "Com a mudança tributária, aprender a investir no mercado financeiro se torna uma alternativa viável para compensar os aumentos de custo com impostos.",
+  "gancho": "Aumento de *impostos pode afetar seu bolso*",
+  "ideias": [
+   "O impacto do novo imposto no seu dia a dia",
+   "Como a CBS alterará seus gastos mensais",
+   "Investir no mercado financeiro para driblar aumentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/imposto-seletivo-cobre-40-do-ipi-cbs-absorve-60-da-perda/",
+  "publicadoEm": "2026-10-28T12:40:23-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-trader-05"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Setor pede mais prazo para reforma tributária",
+  "resumo": "Entidades de construção solicitam mais tempo para se adaptar à reforma tributária, mas pedidos não garantem alterações no calendário oficial. Essas mudanças impactam diretamente empresários e profissionais da área.",
+  "fatos": [
+   "Entidades da construção pedem mais tempo para adaptação à reforma tributária.",
+   "Esses pedidos incluem a preparação de sistemas e avaliação de efeitos sobre contratos.",
+   "Em setembro, discutiu-se a Nota Fiscal Eletrônica de Alienação de Bens Imóveis.",
+   "Ely Wertheim, do Secovi-SP, defendeu o adiamento do setor no sistema.",
+   "A Aneor também considera positivo o pedido de mais prazo para esclarecimentos.",
+   "No dia 27 de outubro, foram criados 25 grupos de trabalho entre a Receita Federal e o Comitê Gestor do IBS."
+  ],
+  "explicacao": [
+   "As entidades empresariais solicitaram mais prazo para se adaptarem à nova reforma tributária, dada a complexidade das mudanças.",
+   "O adiamento é visto como crucial para que o setor imobiliário consiga se preparar adequadamente.",
+   "Além disso, é importante que as empresas compreendam os impactos nos contratos atuais e futuros.",
+   "Por fim, enquanto o debate continua, algumas medidas técnicas estão sendo implementadas, mas não representam um adiamento geral da reforma."
+  ],
+  "materia": "Foto: Nile / Pixabay Representantes dos setores de construção e infraestrutura defendem mais tempo para adaptação às exigências da reforma tributária . Os pedidos envolvem preparação de sistemas e avaliação dos efeitos sobre contratos. As manifestações não equivalem a uma alteração aprovada do calendário de transição. Construção pede prazo para adaptação Em encontro realizado em setembro sobre a Nota Fiscal Eletrônica de Alienação de Bens Imóveis (NF-e ABI), representantes do setor imobiliário discutiram dificuldades operacionais e tributárias da implementação. Na ocasião, o presidente-executivo do Secovi-SP e vice-presidente da área imobiliária da CBIC, Ely Wertheim, defendeu adiar a entrada do setor no sistema para permitir sua preparação. A manifestação foi registrada em publicação da própria CBIC. Uma carta de entidades da construção, incorporação , loteamento e locação também pediu ao governo o adiamento estrutural da reforma. Entre as reivindicações relatadas estão mais antecedência nas especificações técnicas e proteção contra penalidades durante as indefinições. Infraestrutura aponta efeitos sobre contratos A Associação Nacional das Empresas de Obras Rodoviárias (Aneor) também considerou positiva a possibilidade de mais prazo. Em entrevista à CNN, o diretor-presidente Danniel Zveiter apontou a necessidade de esclarecer os efeitos da tributação sobre contratos existentes e futuros, especialmente quanto aos custos e ao equilíbrio econômico-financeiro das obras. Adiamento técnico tem alcance específico Enquanto ocorre o debate, continuam sendo divulgadas medidas de implementação. Em 27 de outubro, a CBIC noticiou a criação de 25 grupos de trabalho entre Receita Federal e Comitê Gestor do IBS , incluindo um dedicado a imóveis. Também foram anunciados ajustes nas datas de produção de notas técnicas da NF-e, NFC-e e CT-e. Essas mudanças atingem versões e documentos determinados: não representam, por si só, adiamento de toda a reforma tributária. Para empresas e escritórios contábeis, o acompanhamento deve distinguir três situações: pedidos apresentados por entidades, alterações técnicas formalizadas e mudanças legais efetivamente aprovadas. Com informações da CBIC, CNN Brasil, Jornal do Commercio e Encat. Representantes dos setores de construção e infraestrutura defendem mais tempo para adaptação às exigências da reforma tributária . Os pedidos envolvem preparação de sistemas e avaliação dos efeitos sobre contratos. As manifestações não equivalem a uma alteração aprovada do calendário de transição. Em encontro realizado em setembro sobre a Nota Fiscal Eletrônica de Alienação de Bens Imóveis (NF-e ABI), representantes do setor imobiliário discutiram dificuldades operacionais e tributárias da implementação. Na ocasião, o presidente-executivo do Secovi-SP e vice-presidente da área imobiliária da CBIC, Ely Wertheim, defendeu adiar a entrada do setor no sistema para permitir sua preparação. A manifestação foi registrada em publicação da própria CBIC. Uma carta de entidades da construção, incorporação , loteamento e locação também pediu ao governo o adiamento estrutural da reforma. Entre as reivindicações relatadas estão mais antecedência nas especificações técnicas e proteção contra penalidades durante as indefinições. A Associação Nacional das Empresas de Obras Rodoviárias (Aneor) também considerou positiva a possibilidade de mais prazo. Em entrevista à CNN, o diretor-presidente Danniel Zveiter apontou a necessidade de esclarecer os efeitos da tributação sobre contratos existentes e futuros, especialmente quanto aos custos e ao equilíbrio econômico-financeiro das obras. Enquanto ocorre o debate, continuam sendo divulgadas medidas de implementação. Em 27 de outubro, a CBIC noticiou a criação de 25 grupos de trabalho entre Receita Federal e Comitê Gestor do IBS , incluindo um dedicado a imóveis. Também foram anunciados ajustes nas datas de produção de notas técnicas da NF-e, NFC-e e CT-e. Essas mudanças atingem versões e documento",
+  "numeros": [
+   {
+    "valor": "25 grupos",
+    "rotulo": "grupos de trabalho criados"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "Incertezas sobre mudanças tributárias afetam planejamento financeiro",
+  "angulo": "Entender o impacto da reforma tributária e se preparar pode ser um diferencial para gerar novas oportunidades de renda.",
+  "gancho": "*Prazo para adaptação* da reforma tributária",
+  "ideias": [
+   "Como a reforma tributária impacta seu negócio?",
+   "Entenda as mudanças e se prepare!",
+   "Por que você deve acompanhar as novas diretrizes tributárias?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80409/reforma-tributaria-setores-pedem-mais-prazo-para-adaptacao/",
+  "publicadoEm": "2026-10-28T11:30:01-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo pode taxar LCI e LCA; entenda os impactos",
+  "resumo": "O governo estuda aplicar IOF sobre títulos isentos, afetando diretamente o bolso de investidores e empresários. Essa mudança pode encarecer o financiamento e afetar o custo de vida.",
+  "fatos": [
+   "O governo avalia a cobrança do IOF sobre LCI, LCA, CRI, CRA e debêntures.",
+   "A proposta visa aumentar a arrecadação sem passar pelo Congresso.",
+   "Mudanças de IOF podem ser feitas por decreto presidencial imediatamente.",
+   "Em 2025, o Congresso derrubou um decreto que aumentava alíquotas de IOF.",
+   "A proposta anterior previa 5% de Imposto de Renda sobre novas emissões a partir de 2026.",
+   "O governo estimava arrecadar R$ 2,6 bilhões em 2026 com a tributação dos títulos."
+  ],
+  "explicacao": [
+   "A proposta surge diante da dificuldade do governo de aumentar a arrecadação via medidas mais complexas.",
+   "Tributar LCI, LCA e outros papéis pode aumentar o custo de financiamento para empresários e empreendedores.",
+   "A isenção desses títulos atrai investidores, e a taxação pode mudar a dinâmica do mercado financeiro."
+  ],
+  "materia": ">> Ibovespa renova mínima com queda de 3,04%, aos 170.372,12 pontos >> Ibovespa bate mínima aos 171.076,13 pontos, com recuo de 2,64% A equipe econômica do governo federal voltou a avaliar a cobrança de imposto sobre títulos atualmente isentos de imposto de renda, como Letras de Crédito Imobiliário (LCI), Letras de Crédito do Agronegócio (LCA), Certificados de Recebíveis Imobiliários (CRI), Certificados de Recebíveis do Agronegócio (CRA) e as debêntures incentivadas. Desta vez, a ideia é criar uma tributação por meio do Imposto sobre Operações Financeiras (IOF), segundo o jornal O Globo . A proposta leva em consideração a dificuldade do governo em avançar com medidas de aumento de arrecadação no Congresso . Como o IOF tem caráter regulatório, eventuais mudanças podem ser feitas por decreto presidencial , sem necessidade de aprovação dos parlamentares. Além disso, o tributo não está sujeito às regras de anterioridade, o que permite que uma nova cobrança entre em vigor imediatamente. Segundo fontes ouvidas pela reportagem do jornal, a discussão faz parte do conjunto de medidas em estudo para reforçar as contas públicas. O Ministério da Fazenda , entretanto, não se pronunciou sobre o tema. Apesar de ser implementado por decreto, o IOF não está totalmente protegido de reações do Legislativo. Em junho de 2025, o Congresso derrubou um decreto que havia elevado as alíquotas deste imposto sobre operações de crédito, câmbio e previdência privada. A maior parte da cobrança acabou restabelecida semanas depois por decisão do ministro Alexandre de Moraes , do Supremo Tribunal Federal (STF). O Executivo editou também naquele mês medida provisória (MP 1.303) que previa a cobrança de 5% de Imposto de Renda sobre os rendimentos de novas emissões de LCI, LCA, CRI, CRA e debêntures incentivadas a partir de janeiro de 2026. Na época, o Ministério da Fazenda estimava arrecadar R$ 2,6 bilhões em 2026 apenas com essa mudança. A proposta fazia parte de um pacote mais amplo de ajuste fiscal que também incluía mudança nas alíquotas de títulos já tributados, aumento nas taxas das apostas esportivas eletrônicas e mudanças nas regras dos juros sobre capital próprio (JCP). O impacto total projetado era de R$ 20,6 bilhões. A iniciativa, no entanto, encontrou forte resistência no Congresso, especialmente entre parlamentares ligados ao agronegócio . Durante a tramitação, o relator da medida, deputado Carlos Zarattini (PT-SP), tentou adaptar o texto ao manter a tributação sobre as letras de crédito mantendo a isenção de CRIs, CRAs e debêntures incentivadas. Mas a concessão foi insuficiente para garantir apoio político. Em outubro de 2025, a MP foi retirada de pauta por 251 votos a 193, e a medida perdeu a validade. Representantes do agronegócio, da construção civil e do setor de infraestrutura argumentam que a tributação desses papéis tende a encarecer o financiamento das atividades econômicas. Do lado do governo, integrantes da equipe econômica avaliam que os títulos isentos ganharam espaço excessivo na disputa por recursos dos investidores. Na prática, LCI, LCA, CRI, CRA e debêntures incentivadas concorrem diretamente com títulos públicos, especialmente aqueles de prazo intermediário, como as NTN-Bs (Tesouro IPCA+). Receba gratuitamente as newsletters do Money Times LULA ELEITO: IBOVESPA tem circuit breaker, DÓLAR dispara e os nomes cotados para a FAZENDA Usamos cookies para guardar estatísticas de visitas, personalizar anúncios e melhorar sua experiência de navegação. Ao continuar, você concorda com nossas políticas de cookies .",
+  "numeros": [
+   {
+    "valor": "R$ 2,6 bilhões",
+    "rotulo": "arrecadação estimada com a nova taxação em 2026"
+   }
+  ],
+  "fonte": "Money Times",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "aumento de custos e diminuição da rentabilidade",
+  "angulo": "Entender essas mudanças é fundamental para quem busca diversificar sua renda e proteger seu bolso das oscilações do governo.",
+  "gancho": "*Nova taxação pode aumentar* seus custos financeiros!",
+  "ideias": [
+   "O impacto da taxação nos seus investimentos",
+   "Como se preparar para novas cobranças no mercado",
+   "O que significa o IOF sobre investimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://www.moneytimes.com.br/governo-estuda-aplicar-iof-sobre-lci-lca-e-outros-isentos-diz-jornal-mlim/",
+  "publicadoEm": "2026-10-28T11:11:19-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: o que muda para sua empresa?",
+  "resumo": "A nova emenda exige que empresas adaptem jornadas de trabalho sem redução salarial. Isso traz desafios e oportunidades para melhorar a gestão e a produtividade.",
+  "fatos": [
+   "A Emenda Constitucional nº 141 foi promulgada em 16 de outubro de 2026.",
+   "A partir de 15 de dezembro de 2026, a jornada máxima passa de 44 para 42 horas semanais.",
+   "Em dezembro de 2027, o limite será de 40 horas semanais.",
+   "As empresas devem revisar escalas, contratos e acordos coletivos antes do prazo estipulado.",
+   "A alteração assegura a manutenção dos salários, mas pode aumentar o custo do trabalho.",
+   "A nova regra não proíbe o funcionamento nos fins de semana, mas exige o respeito aos dias de descanso.",
+   "Empresas precisam verificar a compatibilidade de sistemas de compensação com as novas regras."
+  ],
+  "explicacao": [
+   "A mudança na legislação visa transformar as relações de trabalho no Brasil, exigindo que as empresas adotem a nova escala 5x2.",
+   "A transição está programada para ocorrer em dois anos, dando margem para ajustes sem afetar a remuneração atual.",
+   "As organizações que não se adaptarem correm o risco de passar por conflitos e passivos trabalhistas devido à falta de conformidade com a nova legislação."
+  ],
+  "materia": "Fim da escala 6x1 exige que empresas revisem jornadas, contratos e folgas antes de dezembro de 2026, sem reduzir salários (Pressmaster/Shutterstock) Publicado em 28 de outubro de 2026 às 10h00 . Promulgada em 16 de outubro de 2026, a Emenda Constitucional nº 141 determina a transição da escala 6x1 para a 5x2 no Brasil. A partir de 15 de dezembro, a jornada máxima cai de 44 para 42 horas semanais, sem redução salarial. Em dezembro de 2027, o limite será de 40 horas. Empresas precisarão revisar escalas, contratos e acordos coletivos. A aprovação do fim da escala 6x1 inaugura uma nova etapa nas relações de trabalho brasileiras. Com a promulgação da Emenda Constitucional nº 141, em 16 de outubro de 2026, empresas de diferentes setores precisarão adaptar jornadas , escalas e rotinas de gestão a um novo modelo de organização do trabalho. A mudança, entretanto, não acontecerá de uma só vez: haverá um período de transição, com regras específicas e possibilidades de compensação. A partir de 15 de dezembro de 2026, a regra geral passa a prever cinco dias de trabalho e dois de descanso, com redução da jornada máxima semanal de 44 para 42 horas. Doze meses depois, o limite será reduzido para 40 horas. A alteração preserva a remuneração dos trabalhadores e exige atenção especial de empresas que dependem de funcionamento contínuo. Mais do que reorganizar escalas , os empregadores precisarão compreender os limites jurídicos da nova legislação. Cinco dúvidas merecem atenção nesse processo. Não. A emenda estabelece um período inicial de 60 dias após sua promulgação. Isso significa que a obrigatoriedade da escala 5x2 e da jornada máxima de 42 horas semanais começa em 15 de dezembro de 2026. A transição será concluída em dezembro de 2027, quando o limite semanal cairá para 40 horas. Durante o período intermediário, as 42 horas poderão ser distribuídas pelos cinco dias de trabalho, respeitadas as condições previstas na nova regra, que traz a ampliação da duração diária para viabilizar a distribuição da jornada semanal . Há situações específicas, como a dos empregados terceirizados vinculados a contratos com a administração pública, que possuem disposições transitórias próprias. Por isso, o primeiro passo das empresas deve ser identificar quais contratos e regimes de trabalho estão sujeitos à regra geral e quais exigem análise específica. Não. A redução da jornada foi aprovada sem diminuição salarial, inclusive para os contratos de trabalho já existentes. Assim, o empregador não poderá utilizar a mudança legislativa como justificativa para reduzir proporcionalmente a remuneração dos empregados. A consequência é que o custo da hora normal de trabalho tende a aumentar para quem já recebe salário mensal e cumpre a jornada máxima atual . Isso exige revisão do planejamento financeiro, da composição das equipes e das necessidades de contratação. Outro ponto importante é o cálculo das horas extras . A alteração da jornada contratual pode repercutir no divisor utilizado para apuração do salário-hora e, consequentemente, no valor do trabalho extraordinário. A adequação da folha de pagamento deve acompanhar a implementação das novas jornadas. A nova legislação não determina que todas as empresas deixem de funcionar nos fins de semana. O que muda é a organização do descanso dos trabalhadores . A regra geral assegura dois dias de repouso remunerado por semana, mas admite, excepcionalmente, mediante acordo ou convenção coletiva , regimes de compensação que permitam escalas diferentes da 5x2. Nesses casos, as folgas deverão ser compensadas dentro do mesmo mês-calendário, observadas as demais condições previstas na emenda. Isso é especialmente relevante para atividades como comércio, hotelaria, saúde, alimentação e serviços essenciais. A continuidade da operação poderá exigir escalas alternadas , reorganização de equipes e negociação coletiva. O cuidado jurídico está em não confundir a possibilidade de funcionamento aos domingos com autorização irrestrita para m",
+  "numeros": [
+   {
+    "valor": "44 para 42",
+    "rotulo": "horas semanais (redução inicial)"
+   },
+   {
+    "valor": "42 para 40",
+    "rotulo": "horas semanais (redução em 2027)"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "Perda de controle sobre jornadas e aumento de custos operacionais.",
+  "angulo": "A adaptação às novas regras de jornada é essencial para quem quer garantir a sustentabilidade do negócio sem depender de contratações tradicionais.",
+  "gancho": "Você sabe o que muda com a nova *escala",
+  "ideias": [
+   "Como a nova jornada impacta sua empresa?",
+   "7 dicas para adaptar sua equipe à nova legislação",
+   "Entenda a Emenda 141 e o futuro do trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://exame.com/bussola/fim-da-escala-6x1-5-duvidas-que-empresas-precisam-esclarecer-ate-dezembro/",
+  "publicadoEm": "2026-10-28T11:50:18-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e o impacto no bolso",
+  "resumo": "Com o fim da escala 6x1 em 16 de dezembro, empresários devem se preparar para custos adicionais na folha de pagamento. Entenda as implicações dessa mudança na gestão de negócios.",
+  "fatos": [
+   "O fim da escala de trabalho 6x1 começará em 16 de dezembro de 2026, com a jornada semanal reduzida de 44 para 40 horas.",
+   "Especialistas indicam que o custo da folha poderá aumentar cerca de 10%.",
+   "Aumentos no custo por hora trabalhada ocorrerão mesmo sem mudanças salariais, conforme as horas trabalhadas diminuem.",
+   "O custo total mensal de um funcionário com salário de R$ 2.500 pode subir para R$ 4.055,14, considerando encargos e benefícios.",
+   "Horas extras poderão encarecer ainda mais a folha, com uma hora extra custando R$ 18,75 na nova jornada.",
+   "Empresas fora do Simples podem precisar contratar mais, confrontando um aumento de cerca de 17,7% nos custos mensais."
+  ],
+  "explicacao": [
+   "A mudança para 40 horas semanais visa melhorar a qualidade de vida dos trabalhadores, mas também traz desafios financeiros para os empresários.",
+   "Ao reduzir a jornada de trabalho, o custo por hora do funcionário aumenta, o que impacta diretamente os gastos com a folha de pagamento.",
+   "Em não adaptando a operação, empresas podem precisar pagar horas extras, o que torna essa mudança mais onerosa além do aumento natural de 10%."
+  ],
+  "materia": "Curadoria afiada sobre negócios, economia e investimentos Acompanhe o mercado e as notícias importantes do mundo cripto Agora é oficial: com o fim da escala de trabalho 6×1 a partir de 16 de dezembro, muitos pequenos empresários estão se perguntando como ficarão os gastos com a folha de pagamentos, incluindo salários e encargos trabalhistas e de natureza tributária, como a contribuição patronal ao INSS. Diante da redução gradual da jornada semanal de 44 para 40 horas, sem diminuição salarial, as estimativas de mercado são as de uma elevação de custos da ordem de 10%. Mas especialistas alertam que nem toda empresa terá um crescimento de 10% na folha. “O que efetivamente aumenta é o custo por hora trabalhada, porque o mesmo salário passa a remunerar menos horas”, explica Juliana Alécio Dal Rovere, do escritório De Natale Advogados. A redução da jornada está prevista para acontecer em duas etapas: a partir de 16 de dezembro de 2026, a jornada semanal passa de 44 para 42 horas. Em 16 de dezembro de 2027, cai para 40 horas. Uma empresa de serviços que consiga incrementar a produtividade dos funcionários, de modo a acomodar o trabalho em uma jornada um pouco mais curta, pode manter os custos nos mesmos patamares. O impacto no caixa aparece quando a empresa precisa pagar horas extras ou contratar funcionários para cobrir as horas que deixam de ser trabalhadas. É o caso, por exemplo, de um pequeno comércio que abra aos fins de semana. Para calcular essa diferença, é necessário considerar não apenas o salário mas também os encargos trabalhistas e previdenciários, as provisões de férias e 13º salário, além de outros benefícios. E o Descomplica PJ demonstra nesta reportagem como fazer isso. O primeiro passo é calcular quanto vale cada hora de trabalho. Para isso, divide-se a remuneração do funcionário por um indicador chamado “divisor mensal”, usado para transformar o salário mensal de um trabalhador em salário-hora. O divisor serve como base para calcular o valor de horas extras, adicional noturno, DSR (Descanso Semanal Remunerado) e descontos por atrasos. Para quem trabalha 44 horas por semana, o divisor é 220. Para 42 horas, 210. Com a redução da jornada para 40 horas semanais, ele passa para 200. Assim, pensando exclusivamente no salário mensal de um trabalhador que recebe R$ 2.500 por mês, Thereza Cristina Carneiro, sócia da área trabalhista do CSMV Advogados, calcula que o salário-hora fique conforme abaixo: Mas o salário-hora não é o custo completo do empregado. Também entram na conta os encargos e as provisões de outros direitos trabalhistas. Para estimar o custo total, Thereza fez uma nova simulação, considerando uma empresa incluída em regimes como Lucro Presumido ou Lucro Real (fora do Simples Nacional ). O INSS patronal seria de 20%, as contribuições de RAT (Risco Ambiental do Trabalho) e FAP (Fator Acidentário de Prevenção) alcançariam de 2%, as contribuições a terceiros seriam de 5,8%; e o FGTS , de 8%. Juntos, os encargos somam 35,8%. A advogada lembra que é preciso incluir ainda provisões para 13º salário e férias com adicional de um terço, mais a incidência de encargos sobre essas duas verbas. Com essas premissas, o custo mensal do funcionário com salário de R$ 2.500 chegaria a R$ 4.055,14. O custo total por hora aumentaria 10%, de fato, alcançando os valores abaixo: A conta muda para empresas optantes pelo Simples Nacional enquadradas nos Anexos I a III, em que a contribuição previdenciária patronal já está incluída no DAS. Segundo Thereza, nessa situação, o custo total mensal do funcionário com salário de R$ 2.500 chegaria a cerca de R$ 3.225. E o custo total por hora passaria de R$ 14,66 na jornada de 44 horas para R$ 15,36 na jornada de 42 horas e para R$ 16,13 na de 40 horas. Nos dois cenários, o custo mensal da folha de pagamento permaneceria igual enquanto não houver mudança na remuneração ou necessidade de contratar mão de obra adicional. A diferença está no custo por hora trabalhada. Vale lembrar que os valores ",
+  "numeros": [
+   {
+    "valor": "10%",
+    "rotulo": "aumento estimado no custo da folha"
+   },
+   {
+    "valor": "R$ 4.055,14",
+    "rotulo": "custo total mensal de funcionário a R$ 2.500"
+   },
+   {
+    "valor": "17,7%",
+    "rotulo": "aumento percentual possível com horas extras"
+   }
+  ],
+  "fonte": "InvestNews",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Aumento nas despesas com folha pode inviabilizar pequenos negócios.",
+  "angulo": "Compreender as mudanças trabalhistas é fundamental para adaptar sua empresa e explorar o mercado financeiro como rota de renda extra. Melhore sua gestão para enfrentar esses desafios.",
+  "gancho": "O *fim da escala 6x1* e suas consequências",
+  "ideias": [
+   "Como o fim da escala 6x1 impacta você?",
+   "Entenda os custos com a nova jornada de trabalho!",
+   "Dicas para ajustar sua folha de pagamento após mudanças."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-28T13:18:48-03:00",
+  "url": "https://investnews.com.br/negocios/escala-6x1-custo-folha-pagamento/",
+  "publicadoEm": "2026-10-28T12:18:47-03:00",
+  "data": "2026-10-28",
+  "id": "2026-10-28-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Confiança do comércio recua, empresários devem ter cautela",
   "resumo": "Setembro trouxe queda significativa na confiança dos empresários do comércio, especialmente nas grandes empresas. Isso aponta para um alerta que pode impactar seu negócio.",
   "fatos": [
