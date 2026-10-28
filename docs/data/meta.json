@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-28T13:18:48-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-10-28T17:43:01-03:00",
+  "novas": 0,
   "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Fim da escala 6x1 e o impacto no bolso; Fim da escala 6x1: o que muda para sua empresa?; Governo pode taxar LCI e LCA; entenda os impactos.",
+  "status": "erro",
+  "mensagem": "OpenAI sem resposta depois de 3 tentativas",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-28T17:43:01-03:00",
    "2026-10-28T13:18:48-03:00",
    "2026-10-27T21:48:07-03:00",
    "2026-10-27T17:22:12-03:00",
@@ -18,19 +19,19 @@
    "2026-10-26T17:46:58-03:00",
    "2026-10-26T13:20:21-03:00",
    "2026-10-26T12:34:09-03:00",
-   "2026-10-26T10:20:19-03:00",
-   "2026-10-26T09:16:42-03:00"
+   "2026-10-26T10:20:19-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-28T13:18:48-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-10-28T17:43:01-03:00",
+  "novas": 0,
   "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Varejo se prepara para aumento nas vendas na Black Friday; Endividamento cresce 75% e impacta vendas no Brasil; Mudanças do Banco Central e o impacto nas empresas.",
+  "status": "erro",
+  "mensagem": "OpenAI sem resposta depois de 3 tentativas",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-28T17:43:01-03:00",
    "2026-10-28T13:18:48-03:00",
    "2026-10-27T21:48:07-03:00",
    "2026-10-27T17:22:12-03:00",
@@ -41,8 +42,7 @@
    "2026-10-26T17:46:58-03:00",
    "2026-10-26T13:20:21-03:00",
    "2026-10-26T12:34:09-03:00",
-   "2026-10-26T10:20:19-03:00",
-   "2026-10-26T09:16:42-03:00"
+   "2026-10-26T10:20:19-03:00"
   ]
  }
 }
