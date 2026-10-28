@@ -1,6 +1,416 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Confiança do comércio recua, empresários devem ter cautela",
+  "resumo": "Setembro trouxe queda significativa na confiança dos empresários do comércio, especialmente nas grandes empresas. Isso aponta para um alerta que pode impactar seu negócio.",
+  "fatos": [
+   "O Índice de Confiança do Empresário do Comércio (Icec) caiu 11,2% em setembro, passando de 105,8 para 93,9 pontos.",
+   "Entre as pequenas empresas, o recuo foi de 0,9%, de 94,1 para 93,3 pontos.",
+   "O subíndice que mede condições atuais (Icaec) registrou queda de 3,6%, passando de 69,1 para 66,6 pontos.",
+   "O Índice de Investimento do Empresário do Comércio (Iiec) caiu 0,7%, para 96,1 pontos, marcando a oitava queda seguida.",
+   "O Índice de Expansão do Comércio (IEC) caiu 1,6% em setembro, para 99,1 pontos, o menor nível desde maio de 2025."
+  ],
+  "explicacao": [
+   "A queda na confiança pode ser atribuída aos juros altos e consumidores endividados, criando um cenário desafiador para o varejo.",
+   "Empresas de grande porte, que geralmente têm mais confiança, estão enfrentando uma diminuição acentuada nas expectativas de investimento e expansão.",
+   "A série de quedas consecutivas no índice de investimento demonstra um cenário preocupante para o comércio nos próximos meses."
+  ],
+  "materia": "A confiança dos empresários do comércio caiu em setembro, com uma retração mais forte entre as empresas de maior porte. Nos negócios com mais de 50 empregados, o Índice de Confiança do Empresário do Comércio (Icec), da FecomercioSP, recuou 11,2% em relação a agosto, passando de 105,8 para 93,9 pontos. O movimento chama a atenção por fugir do padrão, já que as empresas maiores costumam demonstrar mais confiança do que as pequenas. Em agosto, a diferença entre os índices dos dois grupos passava de 11 pontos. Em setembro, ficou abaixo de um ponto, a menor do ano. Entre as pequenas empresas, o recuo foi de 0,9%, de 94,1 para 93,3 pontos. A piora foi mais acentuada entre as empresas maiores nos três indicadores que compõem o Icec. Na avaliação das condições atuais, a queda chegou a 15,9%, com o índice passando de 78 para 65,6 pontos. Entre as pequenas empresas, a retração foi de 3,3%. As expectativas para os próximos meses também pioraram entre os negócios de maior porte, com queda de 13%. Já entre as pequenas empresas, o indicador ficou estável. A intenção de investir recuou 5,9% entre as grandes. Considerando empresas de todos os portes, o Icec caiu 1,1% em setembro, de 94,4 para 93,3 pontos. O resultado interrompeu dois meses consecutivos de alta. Em relação a setembro do ano passado, o índice teve queda de 0,7%. Condições atuais puxam a queda O subíndice que mede a percepção dos empresários sobre as condições atuais (Icaec) registrou a maior queda entre os três componentes do Icec, de 3,6%, passando de 69,1 para 66,6 pontos, após dois meses de estabilidade. Na comparação com setembro do ano passado, a queda também foi de 3,6%. A avaliação das próprias empresas acompanhou essa piora. O indicador caiu 3,6%, de 85,2 para 82,2 pontos. Já a percepção sobre a economia recuou 3,2%, passando de 55 para 53,2 pontos. Com isso, o resultado de agosto, quando houve uma leve melhora, não se manteve. Já o subíndice de expectativas (Ieec) ficou praticamente estável, em 117,2 pontos, interrompendo uma sequência de três meses de alta. Na comparação anual, o indicador avançou 3%, mostrando que as perspectivas dos empresários para os próximos meses seguem positivas, apesar das incertezas econômicas. Investimento cai pela oitava vez seguida O Índice de Investimento do Empresário do Comércio (Iiec) caiu pelo oitavo mês consecutivo, passando de 96,8 para 96,1 pontos, uma retração de 0,7%. Entre os componentes do índice, apenas a avaliação da situação atual dos estoques melhorou, com alta de 1,3%, de 88,8 para 90 pontos. Segundo a FecomercioSP, o varejo enfrenta um cenário de alerta, com juros altos, consumidores endividados , crédito caro e margens pressionadas. Expansão do comércio registra sétima queda consecutiva O Índice de Expansão do Comércio (IEC), também calculado pela FecomercioSP, caiu 1,6% em setembro, passando de 100,7 para 99,1 pontos, o menor nível desde maio de 2025. Foi a sétima queda mensal consecutiva, igualando a sequência registrada no início da pandemia, entre dezembro de 2019 e julho de 2020. A recessão de 2014 e 2015 teve uma série mais longa, de 11 meses. Na comparação com setembro do ano passado, o índice recuou 1,9%. O Índice de Expectativa para Contratação de Funcionários (ECF) perdeu força em setembro, com queda de 1,4%, de 114 para 112,4 pontos. Apesar do recuo mensal, o indicador está 4,5% acima do nível registrado no mesmo período do ano passado. Já o Índice de Nível de Investimento das Empresas (NIE) caiu 2%, passando de 87,5 para 85,8 pontos. Foi a oitava retração mensal consecutiva, a sequência mais longa desde o início da série histórica, em 2011. O indicador também permanece há 22 meses abaixo dos 100 pontos, na segunda sequência mais longa nesse patamar, atrás apenas do período entre 2014 e 2021, que durou 95 meses. Na comparação com setembro do ano passado, a queda foi de 9,2%. Imagem: Envato O post Confiança, investimento e expansão do comércio recuam em setembro apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "11,2",
+    "rotulo": "queda no Icec entre agosto e setembro"
+   },
+   {
+    "valor": "8",
+    "rotulo": "número de meses consecutivos de queda no índice de investimento"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "perder oportunidades de investimento e crescimento no comércio",
+  "angulo": "Com a queda na confiança e investimento, é vital que empresários adotem estratégias eficazes de marketing digital para se adaptarem ao novo cenário.",
+  "gancho": "Atenção empresários: *a confiança do comércio despencou*!",
+  "ideias": [
+   "Como a queda na confiança do comércio afeta seu negócio?",
+   "O impacto do cenário econômico no varejo: o que você precisa saber",
+   "Estratégias para se destacar em tempos de crise econômica"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://mercadoeconsumo.com.br/27/10/2026/economia/confianca-investimento-e-expansao-do-comercio-recuam-em-setembro/",
+  "publicadoEm": "2026-10-27T15:58:01-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-28"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Aumento das vendas em supermercados após proibição das bets",
+  "resumo": "O consumo em supermercados no Brasil cresceu 6,5% na semana de 5 a 11 de outubro, após a proibição das apostas. Essa mudança pode impactar o varejo e demandar novas estratégias de marketing.",
+  "fatos": [
+   "O consumo em supermercados cresceu 6,5% entre 5 e 11 de outubro de 2026 em comparação a 2025.",
+   "Esse aumento ocorreu após a publicação da Medida Provisória 1.394/2026, que proibiu as bets no País em 25 de setembro.",
+   "O Sul e a área de Minas Gerais, Espírito Santo e interior do Rio de Janeiro tiveram alta de 10,6%.",
+   "Na Grande Rio de Janeiro, o crescimento foi de 4%; no Centro-Oeste, de 3,6%; e na Grande São Paulo, de 1,2%.",
+   "Na semana de 12 a 18 de outubro, o consumo cresceu 6,3% em relação ao ano anterior.",
+   "Dados do Banco Central indicam uma queda de 10% nas transações via Pix após a proibição das apostas.",
+   "Produtos essenciais como arroz e café impulsionaram o crescimento do consumo."
+  ],
+  "explicacao": [
+   "A proibição das bets resultou em um aumento significativo no consumo, principalmente de produtos essenciais, em supermercados.",
+   "Os dados mostram uma correlação entre a queda nas transações via Pix e o crescimento nas vendas do varejo alimentar.",
+   "Esse cenário evidencia como mudanças no mercado podem impactar diretamente as vendas, exigindo adaptação nas estratégias de marketing."
+  ],
+  "materia": "O consumo em supermercados cresceu 6,5% no Brasil na semana de 5 a 11 de outubro, em comparação com o mesmo período de 2025. O avanço ocorre após a publicação da Medida Provisória 1.394/2026 , em 25 de setembro, que proibiu as bets no País, segundo estudos da Associação Brasileira de Supermercados ( Abras ). O crescimento foi mais expressivo nas regiões Sul e na área que compreende Minas Gerais, Espírito Santo e interior do Rio de Janeiro, ambas com alta de 10,6%. O Nordeste registrou avanço de 6,5%, seguido pelo interior de São Paulo, com 5,6%. Na Grande Rio de Janeiro, o crescimento foi de 4%; no Centro-Oeste, de 3,6%; e na Grande São Paulo, de 1,2%. Na semana seguinte, de 12 a 18 de outubro, o consumo no varejo alimentar brasileiro avançou 6,3% em relação ao mesmo período do ano anterior. O Sul permaneceu na liderança regional, com alta de 9%, seguido pela área que compreende Minas Gerais, Espírito Santo e interior do Rio de Janeiro, com 7,1%, e pela Grande Rio de Janeiro, com 6%. O interior de São Paulo registrou crescimento de 5,6%, enquanto a Grande São Paulo avançou 5,5%. Nordeste e Centro-Oeste tiveram altas de 4,5% e 3,5%, respectivamente. Produtos essenciais impulsionam consumo Segundo a Abras, o crescimento foi observado especialmente na cesta de produtos essenciais, que inclui arroz, óleo, macarrão e café. A tendência abrange supermercados, atacarejos, mercearias e outros formatos do varejo alimentar. A associação também relaciona o movimento a dados públicos do Banco Central, que apontariam uma redução de 10% no número de transações via Pix no País após a proibição das bets. Atualmente, a queda seria de 7%. Os dados indicam uma coincidência temporal entre a mudança nas transações via Pix e o aumento do consumo no varejo alimentar. No entanto, essa relação, por si só, não comprova que a proibição das apostas tenha causado o crescimento nas compras dos supermercados. Imagem: Envato O post Consumo em supermercados cresce 6,5% após proibição das bets, aponta Abras apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "6,5%",
+    "rotulo": "crescimento do consumo em supermercados"
+   },
+   {
+    "valor": "10,6%",
+    "rotulo": "crescimento no Sul e região de MG, ES e interior do RJ"
+   },
+   {
+    "valor": "6,3%",
+    "rotulo": "crescimento do consumo na semana seguinte"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "a perda de competitividade no mercado",
+  "angulo": "Aumentos nas vendas em supermercados podem afetar seu negócio. Entender essas dinâmicas é essencial para atrair os consumidores com estratégias eficazes.",
+  "gancho": "Consumo em supermercados *cresce 6,5%*!",
+  "ideias": [
+   "Por que o varejo se beneficia da proibição das bets?",
+   "Como aumentar suas vendas no varejo alimentício?",
+   "Impactos da economia nas estratégias de marketing"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://mercadoeconsumo.com.br/27/10/2026/supermercados/consumo-em-supermercados-cresce-65-apos-proibicao-das-bets-aponta-abras/",
+  "publicadoEm": "2026-10-27T18:33:54-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-27"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência artificial reduz 50% de rotinas em PMEs",
+  "resumo": "Pequenas e médias empresas estão transformando suas rotinas operacionais com inteligência artificial, resultando em ganhos significativos. A automação está facilitando a eficiência e melhorando as operações.",
+  "fatos": [
+   "Utilização de assistentes virtuais nas PMEs pode reduzir em até 50% o tempo dedicado a tarefas operacionais e administrativas.",
+   "A pesquisa foi realizada pela Microsoft em parceria com o LinkedIn através do Work Trend Index.",
+   "Assistentes virtuais estão otimizando atendimento ao cliente e suporte, atendendo chamados e direcionando casos complexos.",
+   "No setor financeiro, softwares automatizam a conciliação bancária e a geração de notas fiscais.",
+   "Empresas que adotam automação conseguem prever demandas de consumo com precisão, reduzindo desperdícios.",
+   "A diminuição do trabalho manual permite que equipes se concentrem em decisões estratégicas e inovação.",
+   "Investir em capacitação contínua gera retorno rápido e sustentável para as organizações."
+  ],
+  "explicacao": [
+   "A automação tem transformado a rotina das PMEs, permitindo eficiência sem grandes investimentos em tecnologia.",
+   "Com assistentes virtuais e softwares inteligentes, tarefas repetitivas são executadas rapidamente, liberando tempo para atividades criativas.",
+   "A capacidade de prever demandas também ajuda as empresas a reduzir estoques parados e custos operacionais.",
+   "Essa preparação para o uso de tecnologia não é apenas necessária, mas vital para garantir competitividade no mercado.",
+   "O futuro das PMEs dependerá dessa integração entre inteligência humana e sistemas autônomos para impulsionar o crescimento."
+  ],
+  "materia": "PMEs reduzem 50% das rotinas manuais com inteligência artificial e aceleram ganhos, segundo pesquisa (Magnific) Publicado em 27 de outubro de 2026 às 17h07 . A rotina operacional de pequenas e médias empresas passa por uma transformação profunda. Atividades que antes tomavam horas de analistas e gestores, como triagem de e-mails, emissão de relatórios e conferência de planilhas, são executadas por sistemas automatizados com rapidez e precisão. Esse avanço permite que negócios de menor porte ganhem eficiência sem a necessidade de grandes orçamentos em infraestrutura tecnológica. O uso rotineiro da inteligência artificial tornou-se um pilar fundamental para garantir escalabilidade e manter a competitividade em setores dinâmicos. Segundo a pesquisa Work Trend Index , desenvolvida pela Microsoft em parceria com o LinkedIn , profissionais que utilizam assistentes virtuais no dia a dia registram uma redução de até 50% no tempo gasto com tarefas operacionais e administrativas. O alívio na rotina abre espaço para inovação diária. Garanta sua vaga no Pré MBA em IA da Saint Paul e EXAME: quatro aulas práticas e online por apenas R$ 37 para impulsionar seus negócios. A integração de algoritmos nas operações diárias altera o fluxo de trabalho em diversos departamentos. Em áreas como atendimento ao cliente e suporte, assistentes virtuais realizam a triagem inicial de chamados, solucionam dúvidas frequentes e direcionam casos complexos para especialistas humanos. No setor financeiro, softwares inteligentes automatizam a conciliação bancária e a geração de notas fiscais. Essa automação de processos elimina falhas manuais e acelera o ciclo de caixa das empresas, liberando os profissionais para análises financeiras mais profundas e planejamentos de longo prazo. Aprenda a aplicar ferramentas inteligentes na sua rotina com o Pré MBA em IA da Saint Paul e EXAME em quatro aulas práticas por R$ 37. Além de otimizar rotinas administrativas, o uso de algoritmos preditivos revoluciona o gerenciamento de estoques e vendas. Um estudo do Salesforce indica que empresas integradas à automação conseguem prever demandas de consumo com maior exatidão, reduzindo desperdícios e estoques parados. Por exemplo, uma distribuidora de médio porte pode utilizar modelos estatísticos para ajustar compras de fornecedores automaticamente com base no histórico de vendas e sazonalidade. O processo reduz custos operacionais e evita a perda de oportunidades comerciais por falta de produto. Com a diminuição do trabalho braçal, equipes corporativas conseguem focar em decisões estratégicas de negócios . Coordenadores e gerentes passam a dedicar mais tempo à criação de novos produtos, relacionamento direto com clientes vitais e expansão da presença de mercado. O sucesso na adoção de tecnologias emergentes depende da preparação das equipes e de uma gestão estruturada . Lideranças precisam compreender como mapear gargalos operacionais e escolher as soluções mais adequadas para cada fluxo de trabalho. A implementação gradual de ferramentas digitais exige treinamento contínuo para garantir a segurança dos dados e a usabilidade correta dos sistemas. Organizações que investem em capacitação técnica contínua obtêm retorno sobre o investimento de forma mais rápida e sustentável. O cenário corporativo aponta para uma convivência cada vez mais integrada entre capacidade humana e sistemas autônomos. As PMEs que estruturam seus processos com base na tecnologia consolidam posições de liderança e constroem bases sólidas para o crescimento contínuo. Participe do Pré MBA em IA da Saint Paul e EXAME: quatro aulas online e práticas por R$ 37 para transformar sua carreira. Relatório global da consultoria analisou anúncios de emprego e identificou uma diferença salarial associada às competências em inteligência artificial Conduzida por Adriano Mussa e Marcos Sanches, a imersão de dois dias tem turma restrita e foco na prática Formação introdutória em IA reúne fundamentos para profissionais que lider",
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "redução tempo em tarefas operacionais"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Tempo gasto com tarefas manuais que poderia ser utilizado em inovação.",
+  "angulo": "Entender a automação e a IA pode levar a uma gestão mais eficiente, tornando os negócios mais competitivos.",
+  "gancho": "*Automação é chave* para PMEs: você está pronto?",
+  "ideias": [
+   "Como a IA pode transformar sua PME",
+   "Reduza suas rotinas manuais em 50%",
+   "Preparação para o futuro: a importância da IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://exame.com/inteligencia-artificial/pmes-reduzem-50-das-rotinas-manuais-com-inteligencia-artificial-e-aceleram-ganhos-segundo-pesquisa/",
+  "publicadoEm": "2026-10-27T17:09:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-26"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a Shopee se prepara para o fim de ano",
+  "resumo": "A Shopee investirá R$ 48 milhões em cupons para a temporada de compras e inaugurou novos centros de distribuição. Isso pode impactar varejistas que não se adaptarem às mudanças.",
+  "fatos": [
+   "A Shopee liberará R$ 48 milhões em cupons para o fim de ano.",
+   "R$ 25 milhões são para a campanha 11.11 e R$ 23 milhões para a Black Friday.",
+   "86% dos usuários pretendem comprar nas campanhas.",
+   "O tíquete médio será de R$ 691 no 11.11, e R$ 764 na Black Friday.",
+   "A empresa inaugurou quatro novos centros de distribuição em Recife, Rio de Janeiro, Vitória e Blumenau."
+  ],
+  "explicacao": [
+   "A campanha de fim de ano da Shopee busca atrair consumidores com descontos e frete grátis, ampliando suas operações.",
+   "A abertura de novos centros de distribuição visa atender à alta demanda esperada, aumentando a eficiência logística.",
+   "Essas ações da Shopee indicam a intensidade da competitividade no comércio eletrônico, exigindo que outros varejistas se preparem para se destacar."
+  ],
+  "materia": "A Shopee preparou uma operação para a temporada de compras de fim de ano, que inclui a liberação de R$ 48 milhões em cupons, sendo R$ 25 milhões na campanha 11.11 e R$ 23 milhões na Black Friday. Ambas as campanhas terão frete grátis. Para atender à demanda do período, a companhia também inaugurou quatro centros de distribuição em três regiões do País. A campanha de fim de ano da Shopee começa nesta quarta-feira, 28. “Com as duas campanhas, basicamente, nós teremos algumas seleções de produtos em que vamos garantir o menor preço do ano. Na Black Friday, vamos destacar bastante também o Shopee VIP”, explica Felipe Piringer, diretor de Marketing da Shopee Brasil. O executivo se refere ao programa de assinatura pago da plataforma, que oferece vantagens exclusivas e frete grátis aos consumidores que compram com frequência. Segundo uma pesquisa de intenção de compra in-app realizada pela Shopee, 86% dos usuários pretendem comprar em uma ou nas duas datas. O tíquete médio previsto é de R$ 691 no 11.11 e de R$ 764 na Black Friday, altas de 25% e 20%, respectivamente, em comparação com 2025. Para atender à demanda, a companhia inaugurou quatro centros de distribuição no modelo cross-docking nas regiões metropolitanas de Recife (PE), Rio de Janeiro (RJ), Vitória (ES) e Blumenau (SC). Atualmente, a Shopee conta com uma rede logística de 30 centros de distribuição, sendo 25 no modelo cross-docking e cinco no modelo fulfillment. A estrutura inclui ainda mais de 200 hubs de primeira e última milha e mais de cinco mil Agências Shopee. Na semana passada, a empresa também anunciou a abertura de 14 mil vagas , entre efetivas e temporárias. “Também estamos triplicando a capacidade nos centros de distribuição em Piracicaba. Então, com esses cinco novos CDs, vamos aumentar a capacidade de processamento da Shopee em mais de 2,4 milhões de pacotes por dia. Considerando as nossas outras expansões, temos aumentado a capacidade em mais de 60% este ano, comparado com a temporada de compras do ano anterior”, afirma Tiago Freddi, diretor de Logística e Estratégia da companhia. Ajustes na jornada de trabalho De acordo com Freddi, a Shopee acompanha as discussões sobre possíveis mudanças na escala 6×1 e a redução da jornada semanal , aprovada pelo Senado Federal em 14 de outubro e promulgada pelo Congresso Nacional em 16 de outubro. O executivo afirma que a companhia fará as adaptações necessárias para cumprir a legislação. A medida entrará em vigor em sua primeira fase em 15 de dezembro. “Nós vamos cumprir o que for requisitado pelo governo. Não tem tanto segredo, quem precisar adaptar a escala, reduzir a jornada, nós vamos reduzir acompanhando a legislação. E nós já temos aqui diferentes jornadas”, diz. Ele explica que a organização das jornadas considera a curva de demanda das operações, com o objetivo de distribuir os turnos de acordo com as necessidades logísticas. A companhia também leva em conta as preferências dos funcionários em relação aos horários, com opções de trabalho pela manhã, à tarde ou à noite. “É possível a gente ter várias escalas na mesma operação, para melhor atender aquela demanda”, afirma. Além dos ajustes nas jornadas, a Shopee revisa as rotas de transporte fretado para reduzir o tempo de deslocamento dos funcionários e ampliar o período que passam em casa. O repórter viajou a convite da Shopee. Imagem: Divulgação O post Shopee prepara operação para o fim de ano com R$ 48 mi em cupons e quatro novos CDs apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "48 milhões",
+    "rotulo": "em cupons para campanhas"
+   },
+   {
+    "valor": "4",
+    "rotulo": "novos centros de distribuição abertos"
+   },
+   {
+    "valor": "86%",
+    "rotulo": "usuários que pretendem comprar"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de vendas para concorrentes mais preparados",
+  "angulo": "A preparação da Shopee mostra a necessidade de estratégias sólidas de marketing digital e logística para não perder vendas.",
+  "gancho": "Shopee investe *R$ 48 milhões* em cupons!",
+  "ideias": [
+   "Como se destacar nas vendas de fim de ano?",
+   "O que sua loja precisa para competir com a Shopee?",
+   "Dicas de marketing para pequenas empresas no Black Friday."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://mercadoeconsumo.com.br/27/10/2026/black-friday/shopee-prepara-operacao-para-o-fim-de-ano-com-r-48-mi-em-cupons-e-quatro-novos-cds/",
+  "publicadoEm": "2026-10-27T16:32:19-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-25"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência Artificial transforma o comércio eletrônico no Brasil",
+  "resumo": "O uso de inteligência artificial nas compras online está crescendo, impactando tanto consumidores quanto empresas. A automação é essencial para o sucesso do e-commerce, principalmente na Black Friday.",
+  "fatos": [
+   "A expectativa é que o comércio eletrônico brasileiro movimente R$ 13,3 bilhões entre 26 e 29 de novembro de 2026, alta de 20,7% em relação a 2025.",
+   "57% dos consumidores brasileiros já utilizam inteligência artificial durante as compras, segundo pesquisa do Google e Ipsos.",
+   "Transações realizadas por agentes de IA cresceram 38 vezes em um mês, com dados da Stripe.",
+   "O uso de IA para compras já está disponível nos Estados Unidos, sem previsão de implementação no Brasil.",
+   "A programação é essencial para o funcionamento das operações do comércio eletrônico, especialmente em períodos de alta demanda."
+  ],
+  "explicacao": [
+   "A automação através da inteligência artificial permite uma experiência de compra mais eficiente, facilitando transações e a gestão de estoque.",
+   "O aumento esperado nas vendas reflete a necessidade de empresas estarem preparadas digitalmente para atender à demanda.",
+   "Com o crescimento do uso de IA, empresas devem investir em tecnologia para não perder espaço no mercado.",
+   "Essa tendência mostra que entender sobre programação e ferramentas digitais se torna cada vez mais importante para empresários."
+  ],
+  "materia": "Agentes de inteligência artificial começam a realizar transações on-line, enquanto a programação sustenta as operações do comércio eletrônico e evidencia a importância das habilidades digitais Você encontra uma oferta, compara preços, coloca o produto no carrinho e conclui a compra. Em poucos segundos, o pedido está feito. Por trás dessa experiência, diversos sistemas trabalham em conjunto para registrar a transação, atualizar o estoque, processar o pagamento e organizar a entrega. Na Black Friday, quando o volume de pedidos aumenta, essa engrenagem tecnológica ganha ainda mais importância. A expectativa para 2026 é que o comércio eletrônico brasileiro movimente R$ 13,3 bilhões entre os dias 26 e 29 de novembro, segundo projeção da Confi, por meio da solução Neotrust, em parceria com o E-Commerce Brasil. O valor representa alta de 20,7% em relação ao mesmo período de 2025. Para o consumidor, basta clicar em alguns botões. Já as plataformas precisam lidar com acessos simultâneos, manter as informações atualizadas e proteger os dados dos usuários. A programação é parte fundamental desse processo, pois define as instruções que fazem cada etapa da operação funcionar. “A programação permite organizar essas etapas, desde a escolha do produto até a confirmação do pagamento. Entender essa lógica ajuda a perceber que a tecnologia vai muito além do que aparece na tela”, afirma Marco Giroto, fundador da SuperGeeks, escola especializada em inteligência artificial, Ciência da Computação e tecnologia. A inteligência artificial acrescenta uma nova camada a essa experiência, auxiliando consumidores em diferentes momentos da jornada de compra. Pesquisa do Google em parceria com a Ipsos, divulgada em material sobre as tendências da Black Friday de 2026, aponta que 57% dos consumidores brasileiros já utilizam ferramentas desse tipo durante as compras. Esses recursos também começam a ir além da pesquisa de produtos e a participar da realização de transações. Segundo a Stripe, empresa de pagamentos, as transações feitas por agentes de IA por meio da carteira digital Link cresceram 38 vezes em um mês, conforme dados divulgados em setembro de 2026. Na prática, o agente pode conduzir a compra e efetuar o pagamento em nome do usuário, após a aprovação da transação. Isso abre caminho para uma experiência em que parte das etapas deixa de ser executada manualmente pelo consumidor. Por enquanto, o serviço está disponível nos Estados Unidos, sem data anunciada para chegar ao Brasil. A empresa não divulgou o número absoluto de operações. Essa evolução mostra como a automação já interfere em atividades cotidianas e pode modificar a maneira como as pessoas tomam decisões. Embora aprender programação não signifique, necessariamente, seguir carreira no setor, o contato com a lógica computacional pode ajudar a desenvolver habilidades como resolução de problemas, raciocínio lógico e análise crítica. Essas competências ganham relevância em um mercado de trabalho cada vez mais influenciado pelas tecnologias digitais. Por isso, compreender o funcionamento dessas ferramentas e reconhecer seus limites torna-se importante para profissionais de diferentes áreas, inclusive aqueles que não trabalham diretamente com seu desenvolvimento. “A inteligência artificial vai fazer cada vez mais parte da rotina das pessoas, e não adianta simplesmente evitá-la. É preciso aprender a utilizar essas ferramentas com consciência. Seja em uma loja virtual, seja diante de um agente que realiza uma compra de forma autônoma, entender como esses sistemas funcionam ajuda a reconhecer quando executam tarefas e quando podem influenciar decisões de compra”, conclui Giroto. A rede de franquias SuperGeeks nasceu com o objetivo de formar não somente consumidores, mas também criadores de tecnologia. Desde 2014, a marca assume uma posição importante ao preparar as novas gerações para os desafios e oportunidades do futuro tecnológico, dedicando-se a ensinar programação, robótica e inteligência artifici",
+  "numeros": [
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "movimentação do e-commerce na Black Friday 2026"
+   },
+   {
+    "valor": "20,7%",
+    "rotulo": "alta em relação a 2025"
+   },
+   {
+    "valor": "57%",
+    "rotulo": "consumidores usando IA nas compras"
+   },
+   {
+    "valor": "38 vezes",
+    "rotulo": "crescimento das transações por agentes de IA"
+   }
+  ],
+  "fonte": "SEGS Portal Nacional",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perder vendas se não adaptar à nova tecnologia",
+  "angulo": "Com a evolução do comércio online, empresários precisam se adequar às tecnologias digitais para se manterem competitivos e relevantes.",
+  "gancho": "Você está *preparado para o futuro* das vendas?",
+  "ideias": [
+   "Como a IA pode alavancar suas vendas?",
+   "Prepare-se para a Black Friday com tecnologia!",
+   "O impacto da automação nas compras online"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://www.segs.com.br/seguros/458183-black-friday-como-a-inteligencia-artificial-esta-transformando-a-experiencia-de-compra",
+  "publicadoEm": "2026-10-27T18:05:43-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-24"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "PicPay lança vendedor virtual com IA para WhatsApp",
+  "resumo": "O PicPay introduziu um vendedor virtual com inteligência artificial no WhatsApp e disponibilizou uma ferramenta gratuita para criar lojas online, transformando a experiência de vendas.",
+  "fatos": [
+   "PicPay lançou um vendedor virtual utilizando inteligência artificial.",
+   "Nova funcionalidade está disponível no WhatsApp.",
+   "Ferramenta para criar lojas online foi disponibilizada gratuitamente."
+  ],
+  "explicacao": [
+   "A integração com IA facilita a interação e a agilidade nas vendas via WhatsApp.",
+   "Com a ferramenta gratuita, empresários podem criar lojas online de forma simples.",
+   "Essas inovações buscam atender as demandas do e-commerce e melhorar a experiência do consumidor."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "TI INSIDE Online",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder oportunidades de venda online para concorrentes.",
+  "angulo": "As novas ferramentas do PicPay mostram como a tecnologia é vital para aumentar vendas e melhorar serviços, o que ressalta a importância de investir em marketing digital.",
+  "gancho": "Descubra como a *IA pode impulsionar suas vendas*",
+  "ideias": [
+   "Vendas pelo WhatsApp: Sua empresa preparada?",
+   "Aproveite o gratis: Crie sua loja online hoje!",
+   "IA no atendimento: O futuro das vendas!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://tiinside.com.br/27/10/2026/picpay-lanca-vendedor-virtual-com-ia-no-whatsapp-e-ferramenta-gratuita-para-criar-lojas-online/",
+  "publicadoEm": "2026-10-27T20:03:57-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-23"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Compras online fora do horário comercial crescem 58,2%",
+  "resumo": "Estudo mostra que a maioria das vendas online acontece fora do horário comercial e destaca a atuação da IA nas vendas. Isso aponta para uma oportunidade de inovação e competitividade.",
+  "fatos": [
+   "53,2% das vendas online ocorrem fora do horário comercial.",
+   "30% das vendas acontecem entre 18h e 23h.",
+   "27% ocorrem nos fins de semana.",
+   "Pesquisa analisou 241,5 mil interações entre julho e setembro de 2026.",
+   "98% de queda na conversão de vendas quando o tempo de resposta supera 10 minutos.",
+   "Mais de 95% das interações resultaram em compras sem atendimento humano.",
+   "88,5% das interações foram resolvidas pela própria IA."
+  ],
+  "explicacao": [
+   "O levantamento evidencia que a maior parte das compras online acontece fora do horário comercial, revelando um novo comportamento do consumidor.",
+   "A IA está desempenhando um papel crucial nessas vendas, resolvendo dúvidas e impulsionando a conversão em momentos em que o atendimento humano não está disponível.",
+   "Essas inovações destacam a importância de incorporar a tecnologia nos processos de vendas e atendimento ao cliente."
+  ],
+  "materia": "Um levantamento realizado pela Venda.ai , startup de tecnologia para o varejo, mostrou que 58,2% das vendas no comércio online ocorrem fora do horário comercial. Desse total, 30% se concentram entre as 18h e as 23h, enquanto 27% acontecem ao longo dos fins de semana. A pesquisa analisou mais de 241,5 mil interações entre consumidores e agentes de inteligência artificial entre julho e setembro de 2026. Segundo a Venda.ai, os dados evidenciam a importância do uso de IA generativa, especialmente nos períodos em que não há atendimento humano disponível. Um dos indicadores que reforçam essa conclusão é a velocidade das interações. O estudo constatou que, nas conversas em que o tempo de resposta ultrapassou dez minutos, a conversão em compras caiu 98% em comparação com aquelas em que as respostas foram mais rápidas. Em mais de 95% das conversas, as compras foram concluídas sem necessidade de atendimento humano, o que correspondeu a 93,1% da receita analisada pela pesquisa. A maior parte das interações (88,5%) foi resolvida pela própria IA. Nos casos em que o consumidor iniciou a conversa, a taxa de resolução superou 70%. Quando a tecnologia não conseguiu resolver a demanda ou o cliente preferiu falar com uma pessoa, 40% dos casos estavam relacionados a dúvidas sobre pedidos e rastreamento. Para Allan Birman, CEO da startup, o estudo mostra que a IA está assumindo novas funções no comércio eletrônico. Além de responder a dúvidas e reduzir a demanda sobre o serviço de atendimento ao consumidor (SAC), a tecnologia passa a atuar diretamente nas etapas de compra. Receba gratuitamente a newsletter do Mobile Time e fique bem informado sobre tecnologia móvel e negócios. Cadastre-se aqui! As ilustrações das matérias são produzidas por Mobile Time com IA As principais notícias da indústria móvel, de segunda a sexta, no seu email. Para mais informações sobre a coleta e uso dos dados no Mobile Time, consulte nossa Política de Privacidade",
+  "numeros": [
+   {
+    "valor": "58,2%",
+    "rotulo": "vendas online fora do horário comercial"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "vendas entre 18h e 23h"
+   },
+   {
+    "valor": "27%",
+    "rotulo": "vendas nos fins de semana"
+   },
+   {
+    "valor": "241,5 mil",
+    "rotulo": "interações analisadas"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas fora do horário comercial",
+  "angulo": "Essa mudança no comportamento apresenta uma oportunidade valiosa para adotar soluções de marketing digital e automação, melhorando a produtividade e as vendas.",
+  "gancho": "Você sabia que *mais de 58%* das vendas ocorrem",
+  "ideias": [
+   "Como a IA pode aumentar suas vendas?",
+   "Vendas online: O novo horário comercial",
+   "Como o atendimento automatizado melhora seu faturamento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/27/10/2026/venda-ai-58-das-compras/",
+  "publicadoEm": "2026-10-27T20:47:44-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-vpr-22"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Bitcoin: Conhecimento é essencial para investidores prudentes",
   "resumo": "A falta de entendimento sobre Bitcoin pode levar a perdas financeiras significativas. Conhecer seus riscos e funcionamento é crucial para decisões seguras no mercado de criptoativos.",
   "fatos": [
@@ -1169,6 +1579,367 @@
   "publicadoEm": "2026-10-27T03:03:45-03:00",
   "data": "2026-10-27",
   "id": "2026-10-27-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "CBS em 2027: mudando a terceirização no Brasil",
+  "resumo": "A entrada da CBS em 2027 pode levar empresas a optar por terceirização, já que créditos tributários alteram a escolha entre mão de obra CLT e serviços de agências.",
+  "fatos": [
+   "A CBS começa a vigorar em 1º de janeiro de 2027.",
+   "A contratação de agências e serviços terceirizados deve aumentar, segundo especialistas.",
+   "O imposto pago na compra de serviços se torna crédito para abater o imposto de venda.",
+   "Mão de obra CLT não gera crédito tributário, mas serviços com nota fiscal geram.",
+   "Uma nota de R$ 10 mil emitida por empresa do Simples gera R$ 295 em crédito.",
+   "Se a nota for de um regime regular, o crédito sobe para R$ 2.650.",
+   "Agências do Simples não aproveitam crédito sobre o que consomem.",
+   "Empresas maiores devem buscar crédito em toda a cadeia de fornecedores."
+  ],
+  "explicacao": [
+   "A reforma tributária traz a CBS, que beneficia a terceirização já que a mão de obra CLT não gera créditos tributários.",
+   "Assim, ao optar por serviços terceirizados, empresas podem reduzir custos efetivos com mão de obra.",
+   "Esse cenário impacta especialmente quem contrata serviços tributados, pois o regime escolhido pelo fornecedor pode fazer diferença no custo final."
+  ],
+  "materia": "Foto: bettylewis / Pixabay Com a CBS em vigor em 2027, empresas passam a olhar o crédito tributário ao escolher fornecedores; folha CLT , pró-labore e MEI não geram crédito A reforma tributária deve aumentar a contratação de agências e de serviços terceirizados no país, apontam especialistas. A partir de 1º de janeiro de 2027, com a entrada em vigor da CBS, o imposto pago na compra de um serviço passa a virar crédito para abater o imposto da venda. Isso muda a conta de quem decide entre terceirizar ou manter a estrutura própria. O motivo está no principal custo das empresas de serviço: as pessoas. “Se eu tenho uma mão de obra toda CLT, infelizmente essa mão de obra não me gera crédito tributário nenhum”, afirmou Hugo Carpanez, CEO da Inup Contabilidade . Salários, pró-labore, INSS e FGTS ficam fora da base de crédito, enquanto serviços contratados com nota fiscal , como consultorias e softwares, geram. Para Renan Caixeiro, cofundador do Reportei, plataforma de relatórios de marketing e vendas, o efeito pode favorecer as agências. “Pode, em algum momento, aumentar a contratação das agências como fornecedoras de mão de obra”, sugere. Segundo os especialistas, o crédito equivale ao imposto efetivamente pago pelo fornecedor. O MEI, que recolhe quase só INSS, gera crédito próximo de zero. Empresas do Simples Nacional geram um crédito pequeno, enquanto as do lucro presumido , do lucro real e do Simples híbrido geram o valor cheio. Com o crédito, o que pesa é o custo líquido, e não apenas o valor da nota. Em simulação com a alíquota cheia projetada para 2033, uma nota de R$ 10 mil emitida por empresa do Simples gera cerca de R$ 295 de crédito, e o contratante paga R$ 9.705. Se a emissora for de regime regular, o crédito sobe para R$ 2.650, e o custo cai para R$ 7.350. Por isso, segundo Hugo, pode compensar pagar R$ 12 mil a uma empresa de regime regular em vez de R$ 10 mil a uma do Simples. Impacto no marketing Para as agências, o regime tributário passa a ser argumento comercial, sobretudo no B2B. Quem está no Simples e atende empresas maiores pode ter de rever preços. Enquanto quem atende pessoas físicas e pequenos negócios tende a sentir menos, pois não aproveitam crédito crédito. A mudança também impacta o que agências compram, pois mídia com nota fiscal, softwares nacionais e estrangeiros, produtoras e outros terceiros geram crédito. Segundo Hugo, agências do Simples não aproveitam crédito sobre o que consomem, o que também influencia a escolha do regime. Para o contratante, o regime do fornecedor entra até na comparação com o freelancer. “Se a agência cobra R$ 3.000 e o freelancer também, você consegue tirar crédito da agência e, muitas vezes, do freelancer não”, exemplifica Renan. Os especialistas recomendam que as agências mapeiem o perfil dos clientes e revisem contratos com renovação prevista para 2027. Empresas maiores devem passar a “caçar” crédito em toda a cadeia de fornecedores, segundo Hugo. As ferramentas de tecnologia também devem repassar o novo custo. “Para quem toma crédito, ele fica talvez até um pouco mais barato. Para quem não toma, fica mais caro”, afirma Renan. Fonte: Reportei Com a CBS em vigor em 2027, empresas passam a olhar o crédito tributário ao escolher fornecedores; folha CLT , pró-labore e MEI não geram crédito A reforma tributária deve aumentar a contratação de agências e de serviços terceirizados no país, apontam especialistas. A partir de 1º de janeiro de 2027, com a entrada em vigor da CBS, o imposto pago na compra de um serviço passa a virar crédito para abater o imposto da venda. Isso muda a conta de quem decide entre terceirizar ou manter a estrutura própria. O motivo está no principal custo das empresas de serviço: as pessoas. “Se eu tenho uma mão de obra toda CLT, infelizmente essa mão de obra não me gera crédito tributário nenhum”, afirmou Hugo Carpanez, CEO da Inup Contabilidade . Salários, pró-labore, INSS e FGTS ficam fora da base de crédito, enquanto serviços contratados com nota fisca",
+  "numeros": [
+   {
+    "valor": "10 mil",
+    "rotulo": "nota fiscal (R$)"
+   },
+   {
+    "valor": "295",
+    "rotulo": "crédito gerado (R$) pelo Simples"
+   },
+   {
+    "valor": "2.650",
+    "rotulo": "crédito gerado (R$) pelo regime regular"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "perder a competitividade em um mercado em transformação",
+  "angulo": "Com a CBS, entender como o mercado financeiro funciona e as novas regras tributárias pode garantir mais rentabilidade e segurança para negócios.",
+  "gancho": "*CBS e a terceirização*: entenda a mudança!",
+  "ideias": [
+   "Como a CBS transforma a terceirização",
+   "Créditos tributários e economia no seu negócio",
+   "Preparando sua empresa para a CBS"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80355/cbs-pode-favorecer-terceirizacao-e-agencias-em-2027/",
+  "publicadoEm": "2026-10-27T20:00:02-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-20"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Cresce número de superendividados e risco financeiro no Brasil",
+  "resumo": "O Banco Central revelou que 20,3 milhões de brasileiros estão superendividados, alta de 75% em cinco anos. Medidas estão sendo planejadas para conter o problema e proteger os consumidores.",
+  "fatos": [
+   "Em junho de 2026, 20,3 milhões de brasileiros estavam em situação de superendividamento, um aumento de 75% em cinco anos.",
+   "Esse número representa 17% dos devedores do Sistema Financeiro Nacional.",
+   "O presidente do BC, Gabriel Galípolo, anunciou que novas medidas para conter ofertas agressivas de crédito serão anunciadas ainda este ano.",
+   "O comprometimento da renda com dívidas no cartão atingiu 42% entre os que recebem até dois salários mínimos.",
+   "As novas regras de bloqueio de ofertas de crédito entrarão em vigor em 31 de março de 2027."
+  ],
+  "explicacao": [
+   "O aumento do superendividamento é concernente a uma alta na oferta de crédito, especialmente nas modalidades sem garantia.",
+   "O Banco Central se preocupa com as famílias que enfrentam dificuldades devido a juros altos e endividamento excessivo.",
+   "As iniciativas visam impedir contratações de crédito inadequadas e proteger consumidores vulneráveis, promovendo renegociação em vez de novos créditos."
+  ],
+  "materia": "O número de brasileiros em situação de endividamento de risco chegou a 20,3 milhões em junho de 2026, alta de 75% em cinco anos, informou nesta terça-feira (27) o Relatório de Estabiliadde Financeira do Banco Central (BC) . O contingente representa 17% dos devedores do Sistema Financeiro Nacional. Diante do avanço do problema, o presidente do BC, Gabriel Galípolo, afirmou que a instituição pretende anunciar novas medidas para conter ofertas agressivas de crédito ainda este ano. Segundo Galípolo, as próximas iniciativas devem priorizar consumidores que já utilizam o crédito rotativo do cartão ou apresentam atrasos significativos no pagamento das dívidas. “Pretendemos adicionar medidas ainda este ano”, afirmou o presidente do BC. Ele destacou a preocupação com pessoas que já enfrentam juros elevados e dificuldades financeiras. Galípolo também apontou o crescimento de modalidades de crédito sem garantia, como cartão de crédito, cheque especial e empréstimo pessoal não consignado, mesmo em um cenário de juros elevados. “A preocupação que existe é nessas modalidades, em que estamos assistindo crescimento de maneira pouco sensível a preço”, disse. Para classificar um consumidor como endividado de risco, o BC considera quatro critérios. É necessário atender a pelo menos dois deles: A classificação não significa que todos os 20,3 milhões de brasileiros estejam inadimplentes, mas indica maior vulnerabilidade financeira. O relatório do BC mostra ainda que o comprometimento da renda com dívidas no cartão aumentou em todas as faixas salariais. Entre os que recebem até dois salários mínimos, grupo que reúne 61,2 milhões de pessoas, o comprometimento total chegou a 42% da renda em junho de 2026. Na última sexta-feira (23), o Banco Central anunciou medidas para restringir ofertas inadequadas de crédito e ampliar a transparência na contratação de empréstimos. Entre as mudanças, as instituições financeiras deverão oferecer mecanismos para bloquear publicidade e propostas ativas de crédito. Para consumidores considerados vulneráveis ou em risco de endividamento excessivo, as ofertas dependerão de autorização prévia, específica e inequívoca. Nesses casos, as propostas deverão se limitar a alternativas que melhorem as condições financeiras do cliente, como renegociação e portabilidade, sem concessão de novos recursos. As regras de bloqueio de ofertas entram em vigor em 31 de março de 2027. Outras medidas, previstas para julho do mesmo ano, incluem painéis digitais com informações sobre dívidas e limites para ofertas de empréstimos durante transações iniciadas pelo Pix. As iniciativas buscam reduzir a contratação de crédito inadequado e evitar o agravamento do endividamento das famílias brasileiras.",
+  "numeros": [
+   {
+    "valor": "20,3 milhões",
+    "rotulo": "superendividados"
+   },
+   {
+    "valor": "75%",
+    "rotulo": "aumento em cinco anos"
+   },
+   {
+    "valor": "42%",
+    "rotulo": "comprometimento de renda até 2 salários"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Aposentados"
+  ],
+  "dor": "Superendividamento pode comprometer sua liberdade financeira",
+  "angulo": "Com o aumento do endividamento, aprender a operar no mercado financeiro se torna vital para garantir uma renda sem depender exclusivamente de um salário.",
+  "gancho": "*Superendividamento* cria alerta sobre a importância da renda alternativa",
+  "ideias": [
+   "Saia do superendividamento e descubra novas fontes de renda",
+   "Você está entre os 20,3 milhões de superendividados?",
+   "Entenda como evitar o endividamento e gerar renda!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/numero-de-superendividados-no-brasil-cresceu-75-em-cinco-anos-diz-bc",
+  "publicadoEm": "2026-10-27T17:58:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-19"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aumento na inflação dos alimentos aperta orçamento familiar",
+  "resumo": "Após período de alívio, preços de alimentos e bebidas voltam a subir. A inflação dos itens básicos impacta diretamente o bolso do brasileiro, exigindo atenção na gestão financeira.",
+  "fatos": [
+   "Desde setembro, os preços dos alimentos e bebidas subiram 0,83%.",
+   "De janeiro a setembro de 2026, a alta acumulada foi de 4,37%, acima da inflação geral de 3,95%.",
+   "O IPCA-15 prévio de outubro mostrou um aumento da inflação de alimentos para 0,88%.",
+   "As capitais mais afetadas foram Porto Alegre (+5,91%) e Aracaju (+5,71%).",
+   "Tubérculos e raízes tiveram alta impressionante de 46,54% no acumulado do ano."
+  ],
+  "explicacao": [
+   "A recente alta nos preços dos alimentos indica pressão inflacionária contínua, reduzindo o poder de compra das famílias.",
+   "Os dados do IPCA-15, que prevê a inflação, mostram que o custo dos insumos básicos está em ascensão.",
+   "Com os preços subindo, é essencial que as pessoas busquem alternativas de renda e investimentos para compensar a perda de poder aquisitivo."
+  ],
+  "materia": "Os preços dos alimentos e bebidas aceleraram novamente desde setembro, sinalizando pressão contínua nas próximas compras. De junho a agosto, os brasileiros tiveram um alívio com quedas de preços, mas a virada chegou em setembro com alta de 0,83% no grupo alimentação. Neste acumulado de janeiro a setembro de 2026, os alimentos e bebidas subiram 4,37% — acima da média geral de inflação, que ficou em 3,95%. A situação fica mais clara quando se observa a prévia de outubro: o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15) mostra que a inflação de alimentos mais do que dobrou, passando de 0,40% no período anterior para 0,88%. Como funciona o Índice que antecipa a inflação O IPCA-15 coleta dados sobre as famílias com rendimento de 1 a 40 salários mínimos nas principais capitais do país. O período de coleta começa no dia 16 do mês anterior. Esse recorte o diferencia do IPCA oficial, que tem abrangência geográfica e período de coleta distintos — por isso funciona como prévia do indicador que mede a inflação oficial. Algumas capitais sofreram aperto ainda maior no bolso: Porto Alegre registrou alta de 5,91%, Aracaju 5,71%, Goiânia 5,52%, Vitória 5,14%, Fortaleza 4,69%, São Paulo 4,65% e São Luís 4,46%. No acumulado do ano, tubérculos e raízes dispararam 46,54%, leite e derivados subiram 12,47% e cereais, leguminosas e oleaginosas cresceram 10,74%. Tomate, cebola, batata-inglesa e arroz lideraram os aumentos de outubro, com altas de 24,54%, 13,63%, 10,96% e 5,80% respectivamente.",
+  "numeros": [
+   {
+    "valor": "0,83%",
+    "rotulo": "alta em setembro nos alimentos"
+   },
+   {
+    "valor": "4,37%",
+    "rotulo": "alta acumulada de janeiro a setembro"
+   },
+   {
+    "valor": "0,88%",
+    "rotulo": "IPCA-15 de outubro"
+   }
+  ],
+  "fonte": "Tribuna de Minas",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "aumento constante nos preços que diminui o orçamento",
+  "angulo": "Neste cenário, aprender sobre o mercado financeiro pode se tornar uma forma de garantir sua renda e investir de forma estratégica, longe das amarras do emprego tradicional.",
+  "gancho": "Os *preços dos alimentos* não param de subir!",
+  "ideias": [
+   "Como lidar com a alta nos preços de alimentos?",
+   "Estratégias para aumentar sua renda em tempos de inflação",
+   "Transforme o aperto financeiro em oportunidades de investimento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://tribunademinas.com.br/maistendencias/brasileiros-podem-sentir-novo-aperto-no-supermercado-inflacao-dos-alimentos-volta-a-subir-apos-periodo-de-alivio",
+  "publicadoEm": "2026-10-27T20:36:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-18"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fake news sobre escala 6x1 e programas sociais",
+  "resumo": "O Governo Federal desmentiu boatos sobre o fim da escala 6x1 e cortes em programas sociais. A emenda constitucional não sofreu alterações e os benefícios seguem ativos.",
+  "fatos": [
+   "O fim da escala 6x1 está garantido pela Emenda Constitucional nº 141.",
+   "Não houve alteração na emenda após as eleições, assegurando dois dias de repouso semanal sem redução salarial.",
+   "Após 60 dias da promulgação, a jornada será reduzida para 42 horas semanais.",
+   "Em outubro, o Bolsa Família teve um reajuste de 15,04%, aumentando o valor mínimo de R$ 600 para R$ 691.",
+   "O Gás do Povo continua ativo, com recarga gratuita de botijão e orçamento garantido até 2026."
+  ],
+  "explicacao": [
+   "Em meio a um ambiente de incertezas pós-eleitorais, boatos sobre medidas governamentais podem causar confusão e desconfiança.",
+   "Cristalizando direitos como o fim da escala 6x1, a legislação busca proteger trabalhadores, oferecendo um descanso semanal justo.",
+   "Assegurar a continuidade de programas sociais como o Bolsa Família e Gás do Povo é fundamental para sustentar a economia das famílias brasileiras.",
+   "O governo também reforça a importância de verificar informações através de canais oficiais para evitar desinformação."
+  ],
+  "materia": "O Governo Federal alerta para informações falsas que circulam nas redes sociais neste período pós-eleitoral sobre um suposto recuo no fim da escala 6x1 e cortes no Bolsa Família e no Gás do Povo. O texto da emenda constitucional que pôs fim à escala 6x1 não sofreu nenhuma alteração após as eleições. Da mesma forma, os dois programas sociais seguem em funcionamento, sem suspensão de pagamentos ou redução dos benefícios. FIM DA ESCALA 6x11 - É falsa a afirmação de que, após as eleições, o governo recuou do fim da escala 6x1 e passou a preparar exclusões de categorias de trabalhadores. Não há nenhuma proposta que retire direitos em discussão no governo. A Emenda Constitucional nº 141 assegura dois dias de repouso semanal remunerado, sem redução salarial. Permite diferentes formas de distribuição das folgas, inclusive por negociação coletiva, desde que sejam garantidos, em média, dois dias de descanso por semana ao longo do mês. A EC aprovada pelo Congresso Nacional já prevê regras específicas para determinadas categorias, além da possibilidade de regulamentação de regimes diferenciados de jornada e descanso. O diálogo com os setores trata da implementação dessas disposições, dentro dos limites constitucionais. O Poder Executivo não pode vetar ou alterar uma emenda à Constituição promulgada pelo Congresso. A redução da jornada ocorrerá em etapas: 60 dias após a promulgação, o limite passará a ser de 42 horas semanais. Um ano depois, será reduzido para 40 horas. Em todas as situações, sem redução salarial. BOLSA FAMÍLIA - São falsas as alegações de cortes no Bolsa Família. O programa segue em funcionamento, sem qualquer suspensão de pagamentos ou redução dos benefícios. Em outubro, houve reajuste de 15,04%, com o valor mínimo por família passando de R$ 600 para R$ 691. GÁS DO POVO - Também são falsas as informações sobre cortes no Gás do Povo. O programa continua garantindo a recarga gratuita do botijão de gás de cozinha de 13 quilos às famílias contempladas. O Gás do Povo tem orçamento assegurado para 2026 e previsão de recursos na proposta orçamentária de 2027 enviada ao Congresso Nacional. CANAIS OFICIAIS - O Governo Federal orienta a população a verificar as informações nos canais oficiais antes de compartilhá-las. Dúvidas sobre os programas sociais podem ser esclarecidas pelo Disque Social 121. Informações sobre o Bolsa Família também estão disponíveis nos aplicativos Bolsa Família e Caixa Tem e pelo telefone 111, da Caixa. Fonte: Secom Presidência da República",
+  "numeros": [
+   {
+    "valor": "15.04%",
+    "rotulo": "ajuste no Bolsa Família"
+   },
+   {
+    "valor": "R$ 691",
+    "rotulo": "valor mínimo do Bolsa Família"
+   }
+  ],
+  "fonte": "Correio dos Municípios",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "medo de perdas em direitos trabalhistas e benefícios sociais",
+  "angulo": "Aprender sobre o mercado financeiro pode oferecer uma nova fonte de renda, livre das incertezas impostas pelo emprego tradicional.",
+  "gancho": "A verdade sobre *finanças e direitos trabalhistas*",
+  "ideias": [
+   "Entenda seus direitos trabalhistas",
+   "Fake news que podem impactar seu bolso",
+   "Como o mercado financeiro pode ajudar a diversificar sua renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://correiodosmunicipios-al.com.br/geral/2026/10/27/203287-governo-alerta-para-fake-news-nas-redes-sociais-envolvendo-fim-da-escala-6x1-e-programas-sociais",
+  "publicadoEm": "2026-10-27T20:19:53-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-17"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: o que isso significa?",
+  "resumo": "A partir de 16 de dezembro, a escala 6x1 será substituída pela 5x2, garantindo dois dias de descanso. As mudanças afetam a rotina de trabalho e a saúde dos trabalhadores.",
+  "fatos": [
+   "O fim da escala 6x1 começa em 16 de dezembro de 2026.",
+   "A nova escala 5x2 garante dois dias de descanso semanal remunerado.",
+   "A jornada semanal será reduzida de 44 para 42 horas inicialmente, e depois para 40 horas em 2027.",
+   "Empregados com jornada reduzida não sofrerão redução salarial.",
+   "Sindicatos de trabalhadores e empregadores devem negociar novas cláusulas durante o período de transição."
+  ],
+  "explicacao": [
+   "A mudança na escala de trabalho busca proporcionar melhores condições laborais, refletindo em saúde mental e física dos trabalhadores.",
+   "Embora a transição estabeleça um prazo de 60 dias, as empresas precisarão adaptar seus processos e negociar novas condições com os colaboradores.",
+   "Essa mudança se alinha à crescente necessidade de diversificação de fontes de renda, visto que depender apenas de um emprego pode ser arriscado."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O fim da escala 6x1 âna qual se trabalha seis dias por semana com um de folgaâ comeÃ§a a valer a partir do dia 16 de dezembro, 60 dias apÃ³s a promulgaÃ§Ã£o e a publicaÃ§Ã£o da emenda constitucional 141. SerÃ¡ implantada a escala 5x2, com dois dias de descanso semanal remunerado, sem reduÃ§Ã£o de salÃ¡rio. A jornada de 44 horas semanais terÃ¡ de ser reduzida para 42 horas. ApÃ³s 12 meses, a carga horÃ¡ria semanal deverÃ¡ ser de 40 horas. Quem trabalha aos domingos e feriados continua com essa autorizaÃ§Ã£o, por ser categoria essencial, mas deverÃ¡ ter os dois descansos. AtÃ© que a jornada seja implantada, sindicatos de trabalhadores e empregadores devem negociar clÃ¡usulas de convenÃ§Ãµes e acordos coletivos sobre jornada e escala. Enquanto isso, o presidente Luiz InÃ¡cio Lula da Silva ( PT ) busca com o Congresso e o MinistÃ©rio do Trabalho e Emprego regulamentaÃ§Ã£o de categorias especiais. Lula nÃ£o deve alterar a regra da escala 5x2, pois a ideia Ã© que todos tenham dois dias de descanso semanal remunerado, mas hÃ¡ casos em que hÃ¡ uma impossibilidade de ocorrer essa folga. O dos petroleiros Ã© um deles. O motivo Ã© que ficam 14 dias seguidos embarcados. O entendimento do presidente da RepÃºblica, das centrais sindicais e do ministro do MTE, Luiz Marinho, no entanto, Ã© de que esses profissionais tambÃ©m precisam ter os dois dias de descanso semanal remunerado assegurados, jÃ¡ que sÃ£o constitucionais e a mudanÃ§a Ã© defendida por uma questÃ£o de saÃºde fÃ­sica e mental. A defesa Ã© que instrumentos como banco de horas e a prÃ³pria negociaÃ§Ã£o coletiva possam ser usados para prever as formas de compensaÃ§Ã£o dessas categorias. Especialistas apontam que, no caso das leis especÃ­ficas de categorias especiais, elas precisam ser alteradas, nÃ£o basta a negociaÃ§Ã£o coletiva, mesmo que no pÃ³s- reforma trabalhista de 2017 tenha havido o reforÃ§o de que o negociado vale mais do que o legislado. HÃ¡ ainda outras legislaÃ§Ãµes especÃ­ficas, como de aeroviÃ¡rios e aeronautas, que chegaram a ser citados durante as discussÃµes pelo fim da escala 6x1 no Senado Federal. No caso dos pilotos de aviÃ£o e suas tripulaÃ§Ãµes, assim como os aquaviÃ¡rios, hÃ¡ voos e navegaÃ§Ãµes cuja escala de dois dias de descanso na semana nÃ£o se encaixa. Segundo Clemente Ganz LÃºcio, presidente do FÃ³rum das Centrais Sindicais, as centrais jÃ¡ discutem como serÃ£o as negociaÃ§Ãµes coletivas para a efetiva implantaÃ§Ã£o do fim da escala 6x1. A ForÃ§a Sindical deve realizar uma reuniÃ£o com todos os seus sindicatos nesta quarta-feira (28). \"Ã uma transiÃ§Ã£o razoÃ¡vel de 60 dias. A ideia Ã© discutir a reduÃ§Ã£o para 42 horas e jÃ¡ antecipar o debate das 40 horas. HÃ¡ empresas que querem antecipar essa reduÃ§Ã£o final da jornada. Agora, se houver alguma empresa que precise de mais dias para implantar, nÃ£o vejo motivo para nÃ£o dar, o importante Ã© conversar e mostrar que quer resolver\", diz. Uma newsletter com informaÃ§Ãµes exclusivas para quem precisa tomar decisÃµes Nas redes sociais, a pergunta Ã© se o presidente iria recuar do fim da escala 6x1 para todas as categorias, dada a especificidade de alguns setores. Lula Ã© defensor da reduÃ§Ã£o da jornada desde a ConstituiÃ§Ã£o de 1988 e foi o autor da emenda que reduziu a carga horÃ¡ria de 48 horas semanais para 44 na ocasiÃ£o. \"NinguÃ©m quer que empresa quebre. NinguÃ©m aqui deseja que uma empresa quebre, mas tambÃ©m ninguÃ©m quer que um trabalhador morra por falta de descanso\", disse o president",
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "dias de folga por semana"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas semanais após 2027"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "A incerteza sobre a segurança no trabalho e na renda mensal",
+  "angulo": "Aprender sobre o mercado financeiro pode ser a chave para gerar renda sem depender exclusivamente do trabalho CLT e das mudanças na legislação.",
+  "gancho": "*Fim da escala 6x1*: saiba como isso impacta sua",
+  "ideias": [
+   "Entenda as mudanças na jornada de trabalho",
+   "Como a nova escala impacta sua rotina?",
+   "O que saber sobre a nova legislação trabalhista"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/quais-sao-os-proximos-passos-da-escala-6x1-lula-vai-mudar-regras.shtml",
+  "publicadoEm": "2026-10-27T16:54:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-16"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo desmente notícias falsas sobre benefícios sociais",
+  "resumo": "O governo alerta sobre fake news relacionadas ao fim da escala 6x1 e programas sociais, garantindo a continuidade dos benefícios e a proteção dos direitos dos trabalhadores.",
+  "fatos": [
+   "O governo federal emitiu um alerta sobre informações falsas na internet, principalmente sobre o fim da escala 6x1.",
+   "A Emenda Constitucional nº 141 assegura dois dias de repouso semanal remunerado sem redução salarial.",
+   "O governo reafirmou que o Bolsa Família e o Gás do Povo continuam ativos sem cortes nos benefícios.",
+   "Não há propostas em discussão que retirem direitos dos trabalhadores, conforme esclarecido pela Secom.",
+   "Os pagamentos do Bolsa Família e a recarga do Gás do Povo estão garantidos até 2026, com previsão para 2027."
+  ],
+  "explicacao": [
+   "O alerta do governo surge para combater desinformação sobre mudanças em benefícios sociais.",
+   "A Emenda Constitucional nº 141 é uma garantia que protege os direitos trabalhistas, como dois dias de folga por semana.",
+   "Com a garantia de programas sociais, as famílias poderão continuar recebendo assistência sem interrupções financeiras.",
+   "O governo reforça que é importante verificar a autenticidade das informações antes de difundi-las.",
+   "Essa clareza ajuda trabalhadores a se sentirem mais seguros em relação aos seus direitos e benefícios."
+  ],
+  "materia": "O governo federal faz um alerta à população sobre informações falsas que circulam nas redes sociais relacionadas ao fim da escala 6x1 e a programas como o Bolsa Família e o Gás do Povo. Em nota divulgada nesta terça-feira (27), a Secretaria de Comunicação Social da Presidência da República (Secom) garantiu a continuidade dos benefícios e esclareceu que o texto da emenda constitucional que pôs fim à escala 6x1 não sofreu nenhuma alteração após as eleições. “É falsa a afirmação de que, após as eleições, o governo recuou do fim da escala 6x1 e passou a preparar exclusões de categorias de trabalhadores. Não há nenhuma proposta que retire direitos em discussão no governo”, diz a nota. A Emenda Constitucional nº 141 assegura dois dias de repouso semanal remunerado, sem redução salarial. Permite diferentes formas de distribuição das folgas, inclusive por negociação coletiva, desde que sejam garantidos, em média, dois dias de descanso por semana ao longo do mês. “O diálogo com os setores trata da implementação dessas disposições, dentro dos limites constitucionais. O Poder Executivo não pode vetar ou alterar uma emenda à Constituição promulgada pelo Congresso”, esclarece o governo federal. Também são falsas informações sobre cortes no Bolsa Família. “O programa segue em funcionamento, sem qualquer suspensão de pagamentos ou redução dos benefícios”, diz a nota. A Secom também garante que o programa Gás do Povo continua garantindo a recarga gratuita do botijão de gás de cozinha de 13 quilos às famílias contempladas , com orçamento assegurado para 2026 e previsão de recursos na proposta orçamentária de 2027 enviada ao Congresso Nacional. O governo federal orienta a população a verificar as informações nos canais oficiais antes de compartilhá-las. Dúvidas sobre os programas sociais podem ser esclarecidas pelo Disque Social 121 . Informações sobre o Bolsa Família também estão disponíveis nos aplicativos Bolsa Família e Caixa TEM e pelo telefone 111, da Caixa .",
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "dias de repouso semanal assegurados"
+   },
+   {
+    "valor": "2026",
+    "rotulo": "ano de continuidade do Gás do Povo"
+   }
+  ],
+  "fonte": "Agência Brasil Política",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "preocupação com a perda de benefícios essenciais",
+  "angulo": "Com as incertezas do mercado de trabalho, aprender sobre investimentos pode proporcionar segurança financeira fora das amarras convencionais.",
+  "gancho": "*Governo garante direitos trabalhistas essenciais*",
+  "ideias": [
+   "A verdade sobre o fim da escala 6x1",
+   "Como garantias ajudam trabalhadores a planejar",
+   "Desmistificando os programas sociais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-10-27T21:48:07-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/governo-alerta-sobre-noticias-falsas-relacionadas-programas-sociais",
+  "publicadoEm": "2026-10-27T20:34:00-03:00",
+  "data": "2026-10-27",
+  "id": "2026-10-27-trader-15"
  },
  {
   "segmento": "trader",

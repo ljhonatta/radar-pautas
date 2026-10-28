@@ -1,38 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-27T17:22:12-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-10-27T21:48:07-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Juros elevados comprometem renda das famílias brasileiras; Fim da escala 6x1 e novos desafios em SC; Fim da escala 6x1 traz incertezas para bares e restaurantes.",
-  "falhas": [
-   "Agência Câmara (ConnectTimeout)"
-  ],
-  "manual": false,
-  "historico": [
-   "2026-10-27T17:22:12-03:00",
-   "2026-10-27T12:35:00-03:00",
-   "2026-10-27T05:47:55-03:00",
-   "2026-10-26T21:58:07-03:00",
-   "2026-10-26T17:50:00-03:00",
-   "2026-10-26T17:46:58-03:00",
-   "2026-10-26T13:20:21-03:00",
-   "2026-10-26T12:34:09-03:00",
-   "2026-10-26T10:20:19-03:00",
-   "2026-10-26T09:16:42-03:00",
-   "2026-10-25T22:24:47-03:00",
-   "2026-10-25T20:39:26-03:00"
-  ]
- },
- "vpr": {
-  "ultimaColeta": "2026-10-27T17:22:12-03:00",
-  "novas": 9,
-  "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "9 pauta(s) nova(s): A Lenovo e a nova era do e-commerce no Brasil; Fim da 6×1: O que muda para o seu negócio?; Inteligência Artificial: peça chave no varejo atual.",
+  "mensagem": "6 pauta(s) nova(s): Governo desmente notícias falsas sobre benefícios sociais; Fim da escala 6x1: o que isso significa?; Fake news sobre escala 6x1 e programas sociais.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-10-27T21:48:07-03:00",
    "2026-10-27T17:22:12-03:00",
    "2026-10-27T12:35:00-03:00",
    "2026-10-27T05:47:55-03:00",
@@ -43,8 +19,30 @@
    "2026-10-26T12:34:09-03:00",
    "2026-10-26T10:20:19-03:00",
    "2026-10-26T09:16:42-03:00",
-   "2026-10-25T22:24:47-03:00",
-   "2026-10-25T20:39:26-03:00"
+   "2026-10-25T22:24:47-03:00"
+  ]
+ },
+ "vpr": {
+  "ultimaColeta": "2026-10-27T21:48:07-03:00",
+  "novas": 7,
+  "atualizadas": 0,
+  "status": "ok",
+  "mensagem": "7 pauta(s) nova(s): Compras online fora do horário comercial crescem 58,2%; PicPay lança vendedor virtual com IA para WhatsApp; Inteligência Artificial transforma o comércio eletrônico no Brasil.",
+  "falhas": [],
+  "manual": false,
+  "historico": [
+   "2026-10-27T21:48:07-03:00",
+   "2026-10-27T17:22:12-03:00",
+   "2026-10-27T12:35:00-03:00",
+   "2026-10-27T05:47:55-03:00",
+   "2026-10-26T21:58:07-03:00",
+   "2026-10-26T17:50:00-03:00",
+   "2026-10-26T17:46:58-03:00",
+   "2026-10-26T13:20:21-03:00",
+   "2026-10-26T12:34:09-03:00",
+   "2026-10-26T10:20:19-03:00",
+   "2026-10-26T09:16:42-03:00",
+   "2026-10-25T22:24:47-03:00"
   ]
  }
 }
