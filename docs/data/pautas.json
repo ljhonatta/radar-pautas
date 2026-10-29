@@ -16434,62 +16434,6 @@
   "id": "2026-10-19-vpr-05"
  },
  {
-  "angulo": "Cliente agora compara prestadores pelo uso de IA. Mostrar a advogados, contadores e consultores que automação no atendimento e presença digital organizada viraram critério de escolha, e que a agência estrutura isso.",
-  "categoria": "Inteligência artificial",
-  "cena": "funil",
-  "coletadoEm": "2026-10-19T07:20:00-03:00",
-  "data": "2026-10-18",
-  "dor": "Perder cliente para concorrente que atende mais rápido com IA",
-  "fatos": [
-   "78% dos clientes corporativos dizem ser muito importante ou essencial que fornecedores usem IA; só 6% veem isso na maioria deles.",
-   "32% planejam reavaliar a relação com prestadores de serviço profissional em até 12 meses.",
-   "Na América Latina, dois em cada três respondentes acham que podem perder clientes se não mostrarem o valor da IA.",
-   "Na região, 84% dos profissionais do direito usam IA ao menos semanalmente.",
-   "O Brasil tem mais de 1,5 milhão de advogados inscritos na OAB."
-  ],
-  "fonte": "InfoMoney",
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "gancho": "Seu cliente vai te *trocar* por quem usa IA",
-  "ideias": [
-   "O que seu cliente espera da IA no seu serviço",
-   "3 automações para escritórios",
-   "IA no atendimento sem perder o toque humano"
-  ],
-  "numeros": [
-   {
-    "rotulo": "clientes que exigem IA dos fornecedores",
-    "valor": "78%"
-   },
-   {
-    "rotulo": "veem isso na maioria dos fornecedores",
-    "valor": "6%"
-   },
-   {
-    "rotulo": "vão reavaliar prestadores em 12 meses",
-    "valor": "32%"
-   },
-   {
-    "rotulo": "temem perder clientes (América Latina)",
-    "valor": "2 em 3"
-   }
-  ],
-  "potencial": 3,
-  "publicadoEm": "2026-10-18T07:00:00-03:00",
-  "publico": [
-   "Profissionais liberais",
-   "Prestadores de serviço"
-  ],
-  "resumo": "Relatório da Thomson Reuters mostra clientes corporativos exigindo IA dos prestadores de serviço e revendo contratos com quem não entrega.",
-  "segmento": "vpr",
-  "status": "nova",
-  "titulo": "Clientes cobram uso de IA e ameaçam trocar de escritório de advocacia",
-  "url": "https://www.infomoney.com.br/minhas-financas/clientes-cobram-resultados-no-uso-de-ia-na-advocacia-e-consideram-trocar-escritorios/",
-  "id": "2026-10-19-vpr-02"
- },
- {
   "segmento": "trader",
   "titulo": "Juros altos levam Ri Happy a pedir recuperação extrajudicial",
   "resumo": "Com dívida de R$ 827,4 milhões, a dona da Ri Happy pediu recuperação extrajudicial e apontou os juros altos entre os motivos.",
@@ -16701,56 +16645,5 @@
   "titulo": "Pesquisa mostra 66,2% de aprovação ao fim da escala 6x1",
   "url": "https://www.dgabc.com.br/Noticia/4353511/66-2-aprovam-fim-da-escala-6x1-mostra-pesquisa-btg-nexus-apoio-chega-a-78-8-no-nordeste",
   "id": "2026-10-19-trader-03"
- },
- {
-  "angulo": "A própria análise prevê que o trabalhador vai usar a folga para buscar outra renda. Mostrar que existe alternativa a um segundo emprego com horário fixo: aprender uma habilidade como o mercado financeiro, com estudo e gestão de risco.",
-  "categoria": "Custo de vida",
-  "cena": "calendario",
-  "coletadoEm": "2026-10-19T07:20:00-03:00",
-  "data": "2026-10-18",
-  "dor": "Folga a mais, mas salário apertado e preços subindo",
-  "fatos": [
-   "Nogueira estima alta de cerca de 10% no custo médio da hora trabalhada, sem corte de salário.",
-   "Ele vê risco de preços maiores, horários de funcionamento menores e perda de vagas onde o custo não puder ser repassado.",
-   "MEIs, micro e pequenas empresas são os mais expostos, por margens apertadas e vendas concentradas em fins de semana.",
-   "Supermercados, construção, comércio, indústria, bares e restaurantes estão entre os setores citados.",
-   "Com endividamento alto, ele não espera alta forte do consumo; trabalhadores podem procurar um segundo emprego nas folgas.",
-   "Também aponta risco de mais informalidade."
-  ],
-  "fonte": "Jornal da Manhã (JM Online)",
-  "formatos": [
-   "Reels",
-   "Carrossel",
-   "Stories"
-  ],
-  "gancho": "Folga nova, *segundo emprego*? Pense de novo",
-  "ideias": [
-   "O que fazer com o dia livre da 5x2",
-   "Hora 10% mais cara: quem paga a conta",
-   "Segunda renda sem segundo patrão"
-  ],
-  "numeros": [
-   {
-    "rotulo": "alta no custo médio da hora trabalhada",
-    "valor": "cerca de 10%"
-   },
-   {
-    "rotulo": "jornada semanal máxima",
-    "valor": "44 → 40 h"
-   }
-  ],
-  "potencial": 4,
-  "publicadoEm": "2026-10-18T17:03:00-03:00",
-  "publico": [
-   "CLT",
-   "Empresários",
-   "Autônomos"
-  ],
-  "resumo": "Para o economista Marco Antônio Nogueira, o fim da 6x1 encarece a hora trabalhada, pode subir preços e levar trabalhadores a buscar outra renda nas folgas.",
-  "segmento": "trader",
-  "status": "nova",
-  "titulo": "Economista prevê hora 10% mais cara e trabalhador buscando segundo emprego",
-  "url": "https://www.jmonline.com.br/geral/fim-da-6x1-pode-aumentar-precos-reduzir-horarios-e-pressionar-empregos-diz-economista-1.675917",
-  "id": "2026-10-19-trader-02"
  }
 ]
