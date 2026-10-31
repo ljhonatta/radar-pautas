@@ -1,13 +1,29 @@
 {
  "trader": {
-  "ultimaColeta": "2026-10-30T22:09:50-03:00",
+  "ultimaColeta": "2026-10-31T12:31:30-03:00",
   "novas": 0,
   "atualizadas": 0,
   "status": "erro",
   "mensagem": "OpenAI sem resposta depois de 3 tentativas",
-  "falhas": [],
+  "falhas": [
+   "Google Notícias 'escala 6x1' (HTTPError)",
+   "Google Notícias 'Receita Federal' (HTTPError)",
+   "Google Notícias 'imposto de renda' (HTTPError)",
+   "Google Notícias 'INSS aposentadoria' (HTTPError)",
+   "Google Notícias 'salário mínimo' (HTTPError)",
+   "Google Notícias 'desemprego IBGE' (HTTPError)",
+   "Google Notícias 'inflação IPCA' (HTTPError)",
+   "Google Notícias 'Copom Selic juros' (HTTPError)",
+   "Google Notícias 'MEI Simples Nacional' (HTTPError)",
+   "Google Notícias 'Câmara aprova projeto trabalhador' (HTTPError)",
+   "Google Notícias 'Senado aprova empresas' (HTTPError)",
+   "Google Notícias 'custo de vida' (HTTPError)",
+   "Google Notícias 'CLT direitos trabalhistas' (HTTPError)",
+   "Google Notícias 'reforma tributária empresas' (HTTPError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-10-31T12:31:30-03:00",
    "2026-10-30T22:09:50-03:00",
    "2026-10-30T17:18:39-03:00",
    "2026-10-30T13:18:16-03:00",
@@ -18,19 +34,32 @@
    "2026-10-28T17:43:01-03:00",
    "2026-10-28T13:18:48-03:00",
    "2026-10-27T21:48:07-03:00",
-   "2026-10-27T17:22:12-03:00",
-   "2026-10-27T12:35:00-03:00"
+   "2026-10-27T17:22:12-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-10-30T22:09:50-03:00",
+  "ultimaColeta": "2026-10-31T12:31:30-03:00",
   "novas": 0,
   "atualizadas": 0,
   "status": "erro",
   "mensagem": "OpenAI sem resposta depois de 3 tentativas",
-  "falhas": [],
+  "falhas": [
+   "Google Notícias 'Instagram novidade empresas' (HTTPError)",
+   "Google Notícias 'WhatsApp Business' (HTTPError)",
+   "Google Notícias 'Meta anúncios' (HTTPError)",
+   "Google Notícias 'Google anúncios pequenas empresas' (HTTPError)",
+   "Google Notícias 'TikTok Shop' (HTTPError)",
+   "Google Notícias 'inteligência artificial pequenas empresas' (HTTPError)",
+   "Google Notícias 'varejo vendas pesquisa' (HTTPError)",
+   "Google Notícias 'e-commerce Brasil' (HTTPError)",
+   "Google Notícias 'Black Friday varejo' (HTTPError)",
+   "Google Notícias 'Sebrae pequenos negócios' (HTTPError)",
+   "Google Notícias 'comportamento do consumidor pesquisa' (HTTPError)",
+   "Google Notícias 'PEGN empreendedor' (HTTPError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-10-31T12:31:30-03:00",
    "2026-10-30T22:09:50-03:00",
    "2026-10-30T17:18:39-03:00",
    "2026-10-30T13:18:16-03:00",
@@ -41,8 +70,7 @@
    "2026-10-28T17:43:01-03:00",
    "2026-10-28T13:18:48-03:00",
    "2026-10-27T21:48:07-03:00",
-   "2026-10-27T17:22:12-03:00",
-   "2026-10-27T12:35:00-03:00"
+   "2026-10-27T17:22:12-03:00"
   ]
  }
 }
