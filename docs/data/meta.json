@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-02T16:51:17-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-02T20:16:22-03:00",
+  "novas": 2,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Fim da escala 6x1: mudanças que afetam seu bolso; Fim da escala 6x1: impactos no bolso e no trabalho; Mudança na escala 6x1: desafios para o comércio.",
+  "mensagem": "2 pauta(s) nova(s): Fim da escala 6x1 e aumento na demanda por galpões; Fim da escala 6x1 e a pressão nos custos.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-02T20:16:22-03:00",
    "2026-11-02T16:51:17-03:00",
    "2026-11-02T07:43:03-03:00",
    "2026-11-02T07:39:06-03:00",
@@ -18,19 +19,19 @@
    "2026-10-31T16:39:32-03:00",
    "2026-10-31T12:31:30-03:00",
    "2026-10-30T22:09:50-03:00",
-   "2026-10-30T17:18:39-03:00",
-   "2026-10-30T13:18:16-03:00"
+   "2026-10-30T17:18:39-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-02T16:51:17-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-02T20:16:22-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Como a inadimplência afeta seu negócio?; Nova alíquota de CBS preocupa empresários do setor alimentício; Novas regras de SAC: impacto nos negócios.",
+  "mensagem": "6 pauta(s) nova(s): Mudanças demográficas exigem adaptação no marketing e vendas; Crescimento x Prejuízo: O Desafio da Anthropic; Novas regras do SAC: como impactam seu negócio?.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-02T20:16:22-03:00",
    "2026-11-02T16:51:17-03:00",
    "2026-11-02T07:43:03-03:00",
    "2026-11-02T07:39:06-03:00",
@@ -41,8 +42,7 @@
    "2026-10-31T16:39:32-03:00",
    "2026-10-31T12:31:30-03:00",
    "2026-10-30T22:09:50-03:00",
-   "2026-10-30T17:18:39-03:00",
-   "2026-10-30T13:18:16-03:00"
+   "2026-10-30T17:18:39-03:00"
   ]
  }
 }

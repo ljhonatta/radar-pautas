@@ -1,6 +1,359 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Ataques hackers podem impactar negócios digitais",
+  "resumo": "O Mercado Bitcoin anunciou a contenção de um incidente de segurança, mas o cenário de ataques a corretoras pode afetar a confiança do consumidor e o mercado. Prepare-se para proteger seu negócio.",
+  "fatos": [
+   "Mercado Bitcoin identificou um incidente de segurança em 02/11/2026.",
+   "Estimou-se que cerca de US$ 40 milhões (aproximadamente R$ 217 milhões) foram transferidos de carteiras da corretora.",
+   "Os depósitos e saques foram suspensos temporariamente como medida preventiva.",
+   "A Hypernative alertou sobre movimentações irregulares.",
+   "O Mercado Bitcoin enfatizou que não houve prejuízos aos clientes ou vazamentos de dados."
+  ],
+  "explicacao": [
+   "Os ataques hackers estão se tornando comuns no mercado de criptoativos, gerando preocupações sobre a segurança das plataformas.",
+   "Mesmo sem prejuízos diretos, o clima de insegurança pode afastar consumidores potenciais e impactar vendas.",
+   "Empresas devem se adaptar a essa nova realidade, investindo em segurança e boas práticas de marketing digital."
+  ],
+  "materia": "Mercado Bitcoin é uma das maiores corretoras de criptoativos do Brasil (imagem: divulgação) Resumo Mercado Bitcoin identificou e conteve um incidente de segurança em um de seus sistemas. O incidente teria envolvido cerca de US$ 40 milhões, mas a empresa afirma que não houve prejuízos aos clientes nem vazamento de dados. A corretora está investigando o caso com a ajuda das autoridades e manterá atualizações regulares sobre o andamento da situação. A Mercado Bitcoin, uma das maiores corretoras de ativos digitais do Brasil , informou nesta segunda-feira (02/11) que identificou e conteve um incidente de segurança em um de seus sistemas. Como medida preventiva, a empresa suspendeu temporariamente os serviços de depósito e saque. O alerta sobre possíveis movimentações irregulares partiu da Hypernative, empresa especializada em segurança de blockchain . Segundo o monitoramento, cerca de US$ 40 milhões (aproximadamente R$ 217,7 milhões) teriam sido transferidos de carteiras ligadas à corretora. Comunicado oficial: Identificamos e contivemos com rapidez um incidente de segurança em um de nossos sistemas nesta madrugada. Reforçamos que: • Não houve nenhum prejuízo aos clientes; • Não houve vazamento de dados. Como medida preventiva de proteção, depósitos e saques estão temporariamente suspensos. Nossas equipes estão mobilizadas investigando o caso, rastreando os ativos e coordenando as medidas junto às autoridades competentes. Manteremos atualizações regulares por aqui. — Mercado Bitcoin (@MercadoBitcoin) November 2, 2026 A maior parte das transferências teria acontecido entre 3h19 e 3h53 de hoje, no horário de Brasília. Os ativos foram enviados para endereços recém-criados, associados pela empresa de segurança a um possível invasor. Em comunicado, a Mercado Bitcoin afirmou que identificou e conteve o problema, sem prejuízos aos clientes ou vazamento de dados. A corretora, porém, não confirmou o valor estimado pela Hypernative, mas está investigando o caso junto às autoridades. Binance sofreu roubo histórico há poucos dias Bitcoin foi a primeira criptomoeda descentralizada do mundo (imagem: Vitor Pádua/Tecnoblog) O incidente ocorre poucos dias após a Binance registrar o que foi apontado como o maior roubo de criptomoedas da história. Na sexta-feira (30/10), a principal corretora do mercado informou que uma invasão movimentou cerca de US$ 6,3 bilhões (R$ 33,9 bilhões) em ativos de carteiras de clientes. A investigação inicial da Binance indica que os invasores podem ter acessado o notebook de um engenheiro de DevOps, profissional que atua na integração entre desenvolvimento e operações. A partir do computador, os hackers teriam conseguido entrar em serviços internos da corretora usando os privilégios de acesso do funcionário. A Binance afirmou que vai cobrir integralmente os prejuízos causados pelo ataque. Na ocasião, a empresa também suspendeu depósitos e saques enquanto investigava o incidente e analisava seus sistemas. Os depósitos já foram retomados. Mercado Bitcoin pode ter perdido R$ 217 milhões em ataque hacker",
+  "numeros": [
+   {
+    "valor": "R$ 217 milhões",
+    "rotulo": "possível perda no ataque"
+   }
+  ],
+  "fonte": "Tecnoblog",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Medo de perder vendas e clientes devido à insegurança",
+  "angulo": "Essa situação reforça a importância de ter um site seguro e uma gestão de redes eficaz, que transmita confiança ao consumidor.",
+  "gancho": "Atenção! *Ataques hackers são uma realidade*",
+  "ideias": [
+   "Como proteger seu negócio de ataques hackers?",
+   "O impacto da segurança digital nas vendas",
+   "Mercado Bitcoin: o que os ataques significam para você"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:16:22-03:00",
+  "url": "https://tecnoblog.net/noticias/mercado-bitcoin-pode-ter-perdido-r-217-milhoes-em-ataque-hacker/",
+  "publicadoEm": "2026-11-02T14:29:50-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-26"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A crescente demanda por fitas magnéticas e implicações no mercado",
+  "resumo": "Fujifilm investirá R$ 344 milhões para aumentar a produção de fitas magnéticas, atendendo à demanda crescente de data centers impulsionada pela inteligência artificial.",
+  "fatos": [
+   "Fujifilm investirá cerca de R$ 344 milhões para aumentar a produção de fitas magnéticas no Japão.",
+   "O objetivo é quintuplicar a capacidade de produção até 2028.",
+   "Esse investimento é direcionado à demanda de data centers por armazenamento de grandes volumes de dados.",
+   "As fitas magnéticas são uma opção mais barata e segura em comparação a HDDs e SSDs.",
+   "Atualmente, fitas LTO-10 podem armazenar até 40 TB nativos ou 100 TB comprimidos."
+  ],
+  "explicacao": [
+   "A demanda crescente por armazenamento de dados, impulsionada pela inteligência artificial, tem levado empresas como a Fujifilm a investir em capacidades de produção.",
+   "As fitas magnéticas, embora menos comuns em ambientes domésticos, são amplamente utilizadas em setores corporativos para arquivamento e backup.",
+   "Esse investimento pode impactar diretamente as estratégias de armazenamento digital, especialmente em um cenário onde os custos de HDDs e SSDs aumentam."
+  ],
+  "materia": "Fitas LTO Ultrium 2 oferecem grande capacidade de armazenamento (foto: Everton Favretto/Tecnoblog) Resumo Fujifilm investirá cerca de R$ 344 milhões para ampliar a produção de fitas magnéticas LTO no Japão, visando quintuplicar a capacidade até 2028. O investimento servirá para atender à demanda de data centers por armazenamento de grandes volumes de dados, impulsionada pela IA. As fitas magnéticas oferecem vantagens em custo e segurança para armazenamento de dados em grandes volumes por longos períodos. A expansão da inteligência artificial está aumentando a demanda por uma série de outras tecnologias, incluindo fitas magnéticas para armazenamento: a Fujifilm anunciou um investimento de cerca de 10 bilhões de ienes (aproximadamente R$ 344 milhões) para ampliar a produção desse tipo de mídia no Japão. Com o aporte, a fabricante pretende quintuplicar a capacidade de produção de fitas LTO (Linear Tape-Open) até 2028, tomando como referência o volume do ano fiscal de 2025, de acordo com o ArsTechnica . O investimento mira, principalmente, a demanda de data centers e provedores de computação em nuvem por armazenamento de grandes volumes de dados. Segundo a Fujifilm, será o maior aporte individual já feito pela companhia em instalações destinadas à produção dessas fitas. Um dos focos deve ser a fabricação LTO Ultrium10, geração mais recente da família de fitas da empresa. Fitas ainda são usadas para grandes volumes de dados Fujifilm quintuplicará produção de fita magnética para atender demanda (imagem: reprodução/Fujifilm) Apesar de terem praticamente desaparecido do uso doméstico, as fitas magnéticas continuam sendo utilizadas em ambientes corporativos para arquivamento e backup de dados. Atualmente, esses sistemas costumam ser usados em equipamentos para servidores e racks, por exemplo, além de bibliotecas automatizadas e produções audiovisuais. Já são comercializados cartuchos compatíveis com LTO-10, capazes de armazenar até 40 TB nativos ou 100 TB comprimidos. Fitas ainda são usadas para armazenagem de grandes volumes de dados (imagem: reprodução/Fujifilm) A principal vantagem é o custo de armazenamento de grandes volumes por longos períodos. Para situações em que as informações não precisam ser acessadas constantemente, as fitas podem sair mais baratas do que manter os mesmos dados em HDDs ou SSDs — que têm ficado cada vez mais caros nos últimos meses pela crise do setor de chips de memória , também por causa da IA. A Fujifilm atua nesse mercado desde a década de 1950 e passou a comercializar fitas da família LTO nos anos 2000. Em 2011, a companhia começou a usar partículas magnéticas de ferrita de bário na fabricação das mídias, lembra o ArsTechnica . A combinação dessas partículas com ferrita de estrôncio, que forma o LTO Ultrium10, chegou em 2025. Armazenamento offline ajuda contra ataques Outro motivo para o uso de fitas, segundo a empresa, é a possibilidade de manter cópias de dados fisicamente desconectadas da rede. Os cartuchos podem ser removidos dos leitores e armazenados separadamente, criando o chamado air-gap. Essa característica pode ser útil em estratégias de backup contra ransomware , evitando que ataques em servidores comprometam os dados na fita. IA faz demanda por fitas magnéticas voltar a crescer",
+  "numeros": [
+   {
+    "valor": "344 milhões",
+    "rotulo": "investimento da Fujifilm"
+   },
+   {
+    "valor": "10 bilhões de ienes",
+    "rotulo": "valor do investimento em ienes"
+   },
+   {
+    "valor": "40 TB",
+    "rotulo": "armazenamento de fitas LTO-10"
+   }
+  ],
+  "fonte": "Tecnoblog",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de eficiência e segurança nos dados",
+  "angulo": "Com a demanda por armazenamento crescente, é essencial que empresários avaliem como suas estratégias de armazenamento suportam o crescimento da IA.",
+  "gancho": "Aumento da demanda por *armazenamento seguro*",
+  "ideias": [
+   "Como a IA está mudando o armazenamento",
+   "Aumente a segurança dos seus dados!",
+   "A importância de investir em tecnologia de armazenamento"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:16:22-03:00",
+  "url": "https://tecnoblog.net/noticias/boom-da-ia-faz-disparar-demanda-por-fitas-magneticas/",
+  "publicadoEm": "2026-11-02T16:40:16-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-25"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ataques cibernéticos revelam necessidade urgente de segurança digital",
+  "resumo": "Campanha de ataques cibernéticos que utiliza IA afeta servidores em países diversos. Empresas precisam estar atentas às vulnerabilidades de segurança.",
+  "fatos": [
+   "Pesquisadores da Dream revelaram ataques a 25 servidores em vários países, usando IA.",
+   "Os ataques vulnerabilizaram sistemas PHP e o kernel do Linux relacionados a entidades dos EUA.",
+   "Utilizaram motores de busca para mapear sistemas vulneráveis até selecionar alvos estratégicos.",
+   "A operação começou em 8 de outubro e culminou com a exploração em 24 de outubro.",
+   "Palo Alto Networks confirmou que os dispositivos afetados pertencem à linha de firewalls PAN-OS."
+  ],
+  "explicacao": [
+   "A complexidade dos ataques se deve ao uso de ferramentas sofisticadas que exploram brechas em sistemas conhecidos.",
+   "Os atacantes conseguiram comprometer firewalls e roubar informações sensíveis, expondo riscos enormes.",
+   "Após a invasão, as organizações precisaram corrigir falhas e revisar suas práticas de segurança.",
+   "Isso destaca a importância da atualização contínua de sistemas e da gestão de segurança digital.",
+   "Empresas que não se adaptarem a esse cenário correm o risco de ataques que podem comprometer suas operações."
+  ],
+  "materia": "Pesquisadores da empresa de segurança Dream revelaram, em um relatório publicado nesta segunda-feira (26), uma campanha de ataques cibernéticos apoiada por ferramentas de inteligência artificial (IA) que comprometeu 25 servidores em vários países. A operação utilizou vulnerabilidades conhecidas no sistema PHP e no kernel do Linux para assumir o controle total de dispositivos de rede, incluindo sistemas ligados ao governo dos Estados Unidos. A investida ocorreu neste mês e ficou em firewalls expostos à internet. De acordo com a Dream, os criminosos usaram motores de busca de dispositivos conectados, a exemplo da plataforma FOFA , para mapear dezenas de milhares de sistemas vulneráveis. Em seguida, o grupo selecionou alvos estratégicos na América do Norte e na Ásia antes de executar a invasão automatizada por meio de scripts personalizados. Ataque cibernético usa inteligência artificial e atinge servidores globais Foto: imaginima/divulgação O vetor principal baseia-se em duas brechas de segurança no código PHP , registradas sob os códigos CVE-2026-109618 e CVE-2026-109619 , combinadas com uma falha de escalação de privilégios no Linux chamada Fragnesia. Com a vulnerabilidade dupla, os invasores conseguiram contornar barreiras de proteção e executar comandos remotos sem precisar de credenciais de acesso. A análise dos artefatos recuperados indicou o uso de ferramentas de assistência baseadas em IA, como o Claude Code e a plataforma de varredura Aiscan integrada a modelos de linguagem desenvolvidos por empresas como DeepSeek e Kimi. Os especialistas destacaram a sofisticação da infraestrutura utilizada no caso: “A operação ilustra como um painel de gerenciamento exposto pode se tornar um caminho direto para a infraestrutura de identidade de uma organização”, destacou a equipe de pesquisa da Dream, em documento oficial. Invasão a redes governamentais Durante o avanço da operação, o coletivo direcionou recursos para comprometer a infraestrutura interna de uma organização ligada ao governo norte-americano. Após derrubar o primeiro firewall, os atacantes mantiveram o monitoramento até conseguirem burlar um segundo equipamento de borda. Cronograma operacional da campanha, desde a configuração em 8 de outubro até a exploração, o pivô para a rede interna e a pós-exploração em 24 de outubro. Foto: Reprodução/ A partir dessa posição, invasores criaram um canal de comunicação secreto e criptografado para ligar o firewall invadido aos computadores deles, com o objetivo de garantir que essa conexão continuasse funcionando mesmo se o equipamento fosse reiniciado. Com essa brecha aberta, o grupo conseguiu alcançar servidores internos de gerenciamento, roubar senhas de acesso que estavam guardadas nos arquivos do sistema e tentar listar todos os usuários cadastrados na rede da organização. A empresa Palo Alto Networks confirmou, por meio de um comunicado oficial , que os dispositivos afetados pertencem à linha de firewalls PAN-OS. A companhia trabalhou em conjunto com os pesquisadores da Dream para verificar as ferramentas utilizadas e liberou atualizações de segurança para corrigir as falhas nas versões afetadas do sistema operacional de rede. Apesar da gravidade da invasão, os analistas da Dream ainda investigam se os cibercriminosos conseguiram extrair dados sensíveis ou criar com sucesso contas de acesso persistente na rede corporativa comprometida. Falha crítica no PHP paralisa governos e exige atualização urgente Foto: Reprodução/PHP Desafios na defesa digital Os analistas da empresa Flare avaliaram que o aproveitamento dessa vulnerabilidade exige um estudo profundo dos sistemas. O diretor de pesquisa de segurança, Oliver Bilodeau, explicou que essa complexidade costuma impedir ataques em grande escala, mas a situação muda completamente quando se trata de aparelhos de rede e equipamentos corporativos: O caminho do ataque. PHP2Shell e Fragnesia fazem root no firewall do perímetro, um túnel SSH reverso chega ao servidor de gerenciamento inte",
+  "numeros": [
+   {
+    "valor": "25",
+    "rotulo": "servidores comprometidos"
+   },
+   {
+    "valor": "8 a 24",
+    "rotulo": "datas de operação dos ataques"
+   }
+  ],
+  "fonte": "TecMundo",
+  "categoria": "Atendimento",
+  "publico": [
+   "Empresários",
+   "Indústria"
+  ],
+  "dor": "perda de dados e comprometimento operacional",
+  "angulo": "Com os ataques cibernéticos crescendo, a gestão de segurança digital e a atualização de sistemas se tornam essenciais para evitar riscos financeiros e de dados.",
+  "gancho": "Ciberataques: *Sua empresa está segura?*",
+  "ideias": [
+   "Como proteger sua empresa de ciberataques",
+   "A importância da atualização constante de sistemas",
+   "Inteligência artificial: aliada ou inimiga na segurança digital?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:16:22-03:00",
+  "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataques-com-php2shell-forcam-ordem-de-correcao-urgente-nos-eua/",
+  "publicadoEm": "2026-11-02T17:33:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-24"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Novas regras do SAC: como impactam seu negócio?",
+  "resumo": "As novas diretrizes de atendimento ao consumidor exigem adequações que podem afetar suas operações e resultados. Entenda o que muda a partir de hoje para o seu negócio.",
+  "fatos": [
+   "As novas regras do SAC começam a valer em 2 de outubro.",
+   "O decreto foi publicado em 13 de outubro e determina atendimento humano em canais eletrônicos das 8h às 20h, todos os dias.",
+   "Empresas devem ter um canal eletrônico disponível 24 horas por dia.",
+   "Atendimentos devem ser realizados em até 20 segundos para 80% dos casos, com um máximo de cinco minutos para outros.",
+   "Demais demandas não urgentes têm até sete dias para resposta clara e objetiva.",
+   "Proibição de publicidade durante o atendimento e controle rigoroso do tempo de espera.",
+   "Consumidores devem ter acesso gratuito ao histórico de atendimentos em até cinco dias úteis."
+  ],
+  "explicacao": [
+   "O novo decreto foi estabelecido para melhorar a qualidade do atendimento ao consumidor, garantindo que haja contato humano disponível em canais eletrônicos.",
+   "Os prazos para atendimento e resposta foram definidos para aumentar a eficiência no suporte aos clientes.",
+   "As empresas precisam se adaptar rapidamente a essas mudanças para evitar penalidades e melhorar a satisfação do consumidor, impactando diretamente suas vendas.",
+   "As diretrizes incluem adaptações tecnológicas, onde a inteligência artificial pode auxiliar, mas não substituir a interação humana.",
+   "Essas exigências são aplicáveis a vários setores, incluindo empresas de telefonia, bancos e plataformas digitais."
+  ],
+  "materia": "A partir desta segunda-feira, 2, os canais de atendimento telefônicos e eletrônicos – Serviço de Antendimento ao Consumidor (SAC) – das empresas estão obrigados a funcionar em contato direto com os consumidores. O decreto do governo federal com as mudanças foi publicado em 13 de outubro e exige a garantia de atendimento humano tanto por telefone quanto nos canais eletrônicos, das 8h às 20h, todos os dias da semana, inclusive nos finais de semana e feriados. A norma define ainda que os fornecedores deverão manter pelo menos um canal eletrônico em funcionamento 24 horas por dia, sete dias, além de prazos para resposta e cancelamento. Entre os canais eletrônicos estão os chats oferecidos em sites ou aplicativos e os serviços de mensagens instantâneas. Os novos parâmetros de atendimento valem para aos fornecedores de produtos e serviços regulados governo federal. Entram nessa categoria operadoras de telefonia e de planos de saúde, empresas aéreas, concessionárias de energia e empresas do setor financeiro, como bancos e fintechs. As normas incluem as plataformas digitais de intermediação de produtos e serviços, serviços de transporte remunerado privado individual de passageiros e serviços de entrega de produtos ou mercadorias. As empresas terão que apresentar dados à Secretaria Nacional do Consumidor ( Senacon ). “Sistemas automatizados e ferramentas de inteligência artificial poderão ser utilizados na triagem, na distribuição interna e na resolução das demandas, mas não poderão impedir ou afastar a opção de atendimento em tempo real por uma pessoa durante esse período”, diz a Senacom. O decreto determina atendimento prioritário e adequado às necessidades das pessoas idosas. Os canais de SAC (Sistema de Atendimento ao Consumidor) deverão ainda observar requisitos de acessibilidade para pessoas com deficiência, conforme regras a serem estabelecidas pelos órgãos e entidades reguladores competentes. Tempo de espera e prazos de resolução Segundo o decreto, o contato com uma pessoa nos atendimentos telefônicos deve ocorrer em até 20 segundos em pelo menos 80% das demandas atendidas. Nas outras o tempo máximo de espera será de cinco minutos. Se a ligação for interrompida acidentalmente antes da conclusão do atendimento, o fornecedor deverá retornar a chamada em até cinco minutos, aproveitar as informações já fornecidas pelo consumidor e informar o número de protocolo anteriormente atribuído, quando houver. O consumidor também não poderá ser obrigado a reiniciar o atendimento ou realizar novos contatos para tratar da mesma solicitação e não poderá ser encaminhado para outro canal, exceto quando o atendimento presencial for indispensável à resolução do problema. Com atendimento obrigatoriamente gratuito, o encaminhamento para uma pessoa não poderá ser condicionado ao fornecimento prévio de número de contrato, CPF ou outros dados do consumidor. Também está proibida a veiculação de publicidade durante o atendimento e no período de espera. “As demandas não urgentes deverão ser respondidas em até sete dias corridos. A resposta deverá ser clara, objetiva, conclusiva e abordar todos os pontos apresentados pelo consumidor. As demandas que envolvam risco relevante ao consumidor terão tratamento prioritário e atendimento imediato, a qualquer tempo. Caberá às agências ou aos órgãos reguladores competentes definir as situações consideradas urgentes”, explica o Senacom. Cancelamento no SAC e nos canais de contratação Segundo a nova norma, a opção de cancelamento do produto ou do serviço deverá estar disponível em todos os níveis de atendimento do SAC, inclusive no primeiro, tanto nos canais telefônicos quanto nos canais eletrônicos. Todos os meios e canais disponibilizados para a contratação também deverão permitir o cancelamento. “Nesses canais, a opção deverá ser oferecida no mesmo menu eletrônico utilizado para contratar ou, quando houver atendimento humano, pela mesma equipe de atendentes responsável pela contratação. O consumidor não poderá ser d",
+  "numeros": [
+   {
+    "valor": "20 segundos",
+    "rotulo": "tempo para atendimento humano em 80% das chamadas"
+   },
+   {
+    "valor": "5 minutos",
+    "rotulo": "tempo máximo para atendimento das demais chamadas"
+   },
+   {
+    "valor": "7 dias",
+    "rotulo": "prazo para resposta a demandas não urgentes"
+   },
+   {
+    "valor": "24 horas",
+    "rotulo": "disponibilidade mínima de canais eletrônicos"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Atendimento",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Receio de perder clientes por serviços inadequados",
+  "angulo": "A nova legislação exige adaptações que podem ser complexas, mostrando a necessidade de um planejamento estratégico e apoio para atender essas demandas.",
+  "gancho": "Novas regras do SAC: *prepare-se para as mudanças*",
+  "ideias": [
+   "Entenda as novas regras do SAC",
+   "Como adaptar seu atendimento às novas regras?",
+   "Desvendando o novo decreto do SAC"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:16:22-03:00",
+  "url": "https://mercadoeconsumo.com.br/02/11/2026/dia-do-consumidor/novas-regras-do-sac-comecam-a-valer-hoje/",
+  "publicadoEm": "2026-11-02T18:00:02-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-23"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento x Prejuízo: O Desafio da Anthropic",
+  "resumo": "A Anthropic revela crescimento expressivo, mas um grande prejuízo também chama atenção. O futuro financeiro da empresa levanta questões importantes para investidores e empresários do setor de tecnologia.",
+  "fatos": [
+   "A Anthropic teve receita de R$ 91,8 bilhões no terceiro trimestre de 2026, um crescimento de 12 vezes em relação ao ano anterior.",
+   "Apesar do crescimento, a companhia registrou prejuízo de R$ 124,2 bilhões no mesmo período.",
+   "Até setembro de 2026, a empresa acumulou receita de R$ 178,2 bilhões e prejuízo líquido de R$ 561,6 bilhões.",
+   "A companhia possui R$ 4,83 trilhões em compromissos financeiros, com R$ 378 bilhões vencendo nos próximos 12 meses.",
+   "A possível abertura de capital pode avaliar a Anthropic em até R$ 10,8 trilhões e movimentar R$ 540 bilhões."
+  ],
+  "explicacao": [
+   "Os números mostram a velocidade de crescimento do mercado de IA, mas evidenciam a pressão financeira sobre a Anthropic.",
+   "Os prejuízos, influenciados por instrumentos financeiros, levantam preocupações sobre a sustentabilidade dos investimentos.",
+   "A desaceleração do crescimento da receita pode impactar a capacidade da empresa de atingir resultados financeiros sustentáveis.",
+   "Investidores devem observar a dependência da Anthropic em relação a financiamentos para projetos de infraestrutura de IA."
+  ],
+  "materia": "A Anthropic registrou receita de US$ 17 bilhões (aproximadamente R$ 91,8 bilhões) no terceiro trimestre de 2026, crescimento de 12 vezes em relação ao mesmo período do ano passado. Apesar da expansão acelerada, a desenvolvedora do Claude também contabilizou prejuízo líquido de US$ 23 bilhões (cerca de R$ 124,2 bilhões). Os números foram divulgados nesta segunda-feira (2), enquanto a companhia se prepara para possível abertura de capital ainda neste mês. Os resultados representam atualização importante das informações financeiras apresentadas pela empresa em seu prospecto para uma oferta pública inicial de ações ( IPO , na sigla em inglês). Até então, a maior parte dos dados disponíveis contemplava apenas os primeiros seis meses de 2026. O desempenho do terceiro trimestre é especialmente relevante para investidores diante da velocidade de crescimento do mercado de inteligência artificial (IA). A avaliação de uma companhia desse setor depende não apenas da expansão da receita, mas também da capacidade de sustentar os investimentos necessários para desenvolver e operar seus modelos. A possível abertura de capital da Anthropic poderia avaliar a empresa em até US$ 2 trilhões (aproximadamente R$ 10,8 trilhões). A oferta também poderia movimentar US$ 100 bilhões (cerca de R$ 540 bilhões), tornando-se uma das maiores operações desse tipo já realizadas. Anthropic acumula prejuízo bilionário e compromete quase R$ 4,83 trilhões em infraestrutura Nos primeiros nove meses de 2026, a Anthropic acumulou receita de US$ 33 bilhões (aproximadamente R$ 178,2 bilhões) e prejuízo líquido de US$ 104 bilhões (cerca de R$ 561,6 bilhões); O resultado negativo, entretanto, foi influenciado principalmente por um lançamento contábil extraordinário de US$ 94 bilhões (R$ 507,6 bilhões), relacionado a notas conversíveis. Esse tipo de instrumento financeiro funciona como uma dívida que pode ser transformada em participação acionária posteriormente; Quando considerados indicadores que excluem determinados custos, o prejuízo operacional da empresa foi bem menor: quase US$ 1,3 bilhão (aproximadamente R$ 7 bilhões) no período; Outro número que chama atenção é o volume de compromissos financeiros assumidos pela companhia. Até o fim de setembro, a Anthropic havia contratado aproximadamente US$ 895 bilhões (R$ 4,83 trilhões) em obrigações relacionadas a data centers, chips e capacidade computacional; Desse total, quase US$ 70 bilhões (R$ 378 bilhões) vencem nos próximos 12 meses. Outros US$ 448 bilhões (R$ 2,42 trilhões) deverão ser pagos até o fim de 2030; A companhia informou ainda que possuía US$ 146,6 bilhões (aproximadamente R$ 791,6 bilhões) em dinheiro e investimentos de alta liquidez ao final do terceiro trimestre. Crescimento da receita começa a desacelerar Embora os números trimestrais tenham superado ligeiramente as projeções anteriormente apresentadas a investidores, o ritmo de expansão da Anthropic mostra sinais de desaceleração. A receita cresceu 47% em relação ao segundo trimestre, resultado um pouco superior aos 45% que haviam sido antecipados em apresentação privada da empresa. O avanço, entretanto, ficou distante dos 144% de crescimento registrados entre o primeiro e o segundo trimestre. A desaceleração não significa necessariamente perda de força comercial, mas reforça as dúvidas sobre a capacidade da companhia de transformar sua expansão em resultados financeiros sustentáveis. “Ela é eficiente, mas, à medida que constrói sua própria infraestrutura, o dinheiro vai começar a escorrer”, afirmou Brandon Ross, analista da LightShed Partners, ao comentar os investimentos da empresa ao The New York Times . A preocupação não é exclusiva da Anthropic. Grandes empresas de tecnologia vêm ampliando seus gastos com infraestrutura de IA e recorrendo cada vez mais ao mercado de dívida para financiar projetos. Caso a demanda por IA fique abaixo das expectativas, esses compromissos podem aumentar a pressão sobre os resultados. IPO será realizado em breve – Image",
+  "numeros": [
+   {
+    "valor": "124,2 bilhões",
+    "rotulo": "prejuízo no trimestre"
+   },
+   {
+    "valor": "91,8 bilhões",
+    "rotulo": "receita no trimestre"
+   },
+   {
+    "valor": "561,6 bilhões",
+    "rotulo": "prejuízo acumulado até setembro"
+   },
+   {
+    "valor": "4,83 trilhões",
+    "rotulo": "compromissos financeiros totais"
+   },
+   {
+    "valor": "10,8 trilhões",
+    "rotulo": "avaliação potencial na abertura de capital"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "temor de grandes prejuízos em investimentos em IA",
+  "angulo": "Essa situação evidencia a importância de um bom planejamento financeiro e estratégias de marketing para garantir a sustentabilidade de negócios no setor.",
+  "gancho": "como *crescimento e prejuízo* afetam sua empresa?",
+  "ideias": [
+   "Crescimento de receita: Uma faca de dois gumes",
+   "Prejuízos da Anthropic: O que podemos aprender?",
+   "Como se proteger de riscos em investimentos em IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:16:22-03:00",
+  "url": "https://olhardigital.com.br/2026/11/02/pro/anthropic-fatura-r-918-bilhoes-em-trimestre-mas-prejuizo-chega-a-r-1242-bilhoes/",
+  "publicadoEm": "2026-11-02T18:52:44-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-22"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças demográficas exigem adaptação no marketing e vendas",
+  "resumo": "A expectativa de vida crescente transformará a economia e o comportamento do consumidor. Agregar valor às experiências e serviços é essencial para atender a novas demandas.",
+  "fatos": [
+   "A expectativa de vida aumentou, criando 20 a 40 anos de pós-carreira ativa.",
+   "Famílias estão se tornando menores e dispersas, reduzindo redes de apoio.",
+   "A solidão crônica pode afetar a saúde, comparando-se aos riscos do tabagismo.",
+   "O mercado está respondendo com serviços que promovem a autonomia e convivência.",
+   "A economia do futuro demanda produtos e serviços com dignidade e empatia."
+  ],
+  "explicacao": [
+   "O aumento da longevidade traz novos desafios e oportunidades de negócio.",
+   "Mudanças demográficas exigem que empresas entendam e se adaptem ao novo perfil de consumo.",
+   "Clientes mais velhos buscam autonomia e experiências de qualidade, o que muda a forma de comercializar produtos e serviços.",
+   "Empresas que ignoram estas mudanças podem perder oportunidades significativas de mercado.",
+   "O futuro do marketing está em conectar-se com a nova realidade e oferecer soluções que valorizem a vida e a felicidade."
+  ],
+  "materia": "Vivemos uma transformação sem precedentes na história humana. Três forças estruturais estão redesenhando o comportamento e o consumo global: O aumento expressivo da expectativa de vida , cria uma fase pós-carreira ativa de 20 a 40 anos. Famílias cada vez menores e dispersas , reduz a rede de apoio tradicional doméstica. O duplo desafio do tédio e da solidão , que desponta como uma das maiores dores de saúde pública e bem-estar do século 21. Nesse cruzamento, a chamada economia prateada deixa de ser um nicho restrito aos cuidados médicos para se consolidar como um motor de negócios voltados à autonomia, conexão humana, lazer e vitalidade. “Filhos de aluguel”: autonomia cotidiana e pequenos reparos Com filhos morando em outras cidades, rotinas corporativas sufocantes e menos herdeiros por família, tarefas operacionais simples tornam-se problemas difíceis de resolver: trocar uma lâmpada em pé-direito alto, configurar a smart TV, instalar uma fechadura eletrônica ou consertar um vazamento na torneira. O modelo de negócio: serviços de suporte residencial com triagem rigorosa, pontualidade, paciência e linguagem acessível. Por que vai crescer: O cliente prateado quer continuar morando na própria casa (o chamado aging in place ), preservando sua independência sem precisar incomodar ninguém ou depender de favores. Não se vende apenas um parafuso apertado; mas autonomia, confiança e respeito ao tempo do cliente. Espaços de convivência e atividades: o antídoto contra o isolamento A solidão crônica tem impacto comparável ao tabagismo para a saúde. Quando a rotina de trabalho diminui e a casa fica vazia, a falta de convivência social precisa ser preenchida com propósito e pertencimento. O modelo de negócio: hubs urbanos diurnos, clubes de membros, centros de atividades culturais, tecnológicas e físicas, desenhados para acolher e promover trocas autênticas entre pares. Por que vai crescer: os modelos antigos de “asilo” ou centros de convivência assistenciais não conversam com o público moderno de 60, 70 ou 80 anos. Essa geração busca aprender programação básica, participar de debates, ter aulas de gastronomia, praticar atividades físicas e, acima de tudo, fazer novos amigos com interesses semelhantes. O valor está na experiência e na comunidade. Agências de viagem especializadas: da fuga do tédio à construção de histórias Viajar é um dos principais destinos dos recursos acumulados ao longo de décadas de trabalho. No entanto, o turismo convencional peca ao oscilar entre pacotes de aventura extrema ou excursões engessadas e apressadas. O modelo de negócio: roteiros de slow travel , viagens culturais em pequenos grupos, segurança logística refinada, acessibilidade sem estigma e experiências que equilibram conforto e vivência autêntica. Por que vai crescer: o tempo livre agora é abundante, mas a pressa acabou. Esse viajante não quer apenas “tirar fotos de pontos turísticos”; quer saborear a gastronomia local, caminhar no seu próprio ritmo, criar memórias e, muitas vezes, viajar desacompanhado com a segurança de um grupo com a mesma energia. É o combate direto ao tédio por meio do deslumbramento contínuo. Sexshop e intimidade: desmistificando o tabu do prazer e do autocuidado Talvez a maior miopia do mercado seja imaginar que o desejo, a curiosidade e a busca por afeto evaporam aos 60 anos. Com o aumento da expectativa de vida, tratamentos hormonais modernos e os novos arranjos de relacionamento (ou mesmo o redescobrimento da própria sexualidade após a viuvez ou o divórcio), a intimidade ganha outro significado. O modelo de negócio: marcas focadas em bem-estar íntimo, produtos ergonômicos, lubrificantes de alta performance, estimuladores sensoriais discretos e conteúdo educativo sem vulgaridade. Por que vai crescer: o envelhecimento moderno recusa a invisibilidade afetiva e sexual. Pequenas barreiras anatômicas ou hormonais podem ser facilmente superadas pela tecnologia e pela informação. Esse mercado encontra um público maduro, financeiramente",
+  "numeros": [],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "O que seu negócio perde com a falta de adaptações ao mercado",
+  "angulo": "Ao compreender essas mudanças, sua empresa pode se posicionar melhor e oferecer o que realmente importa para o novo consumidor.",
+  "gancho": "*Mudanças demográficas* impactam seu negócio!",
+  "ideias": [
+   "O futuro do consumo: adaptando-se às novas realidades",
+   "Como atender o cliente prateado com serviços distintos",
+   "Redefinindo a expectativa de vida no mercado atual"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:16:22-03:00",
+  "url": "https://mercadoeconsumo.com.br/02/11/2026/artigos/a-revolucao-invisivel-da-longevidade-4-mercados-que-vao-crescer-com-as-mudancas-demograficas/",
+  "publicadoEm": "2026-11-02T12:00:53-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-21"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Empreendedorismo 60+: Oportunidade em alta para novos negócios",
   "resumo": "O evento Sebrae Futuridade 60+ incentivou o empreendedorismo entre pessoas com 60 anos ou mais, valorizando suas experiências e habilidades. O potencial desse público é cada vez mais reconhecido.",
   "fatos": [
@@ -1144,6 +1497,113 @@
   "publicadoEm": "2026-11-02T07:00:00-03:00",
   "data": "2026-11-02",
   "id": "2026-11-02-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e a pressão nos custos",
+  "resumo": "A recente decisão sobre a escala 6x1 impacta diretamente os custos do setor público. Essa mudança exige adaptações e pode gerar reflexos na economia.",
+  "fatos": [
+   "O fim da escala 6x1 foi decidido por representantes do setor público.",
+   "Essa mudança pressiona os custos operacionais dentro do setor.",
+   "A adaptação à nova realidade pode gerar impactos em diversas áreas da economia."
+  ],
+  "explicacao": [
+   "A alteração na escala de trabalho é uma resposta a demandas por melhorias nas condições laborais.",
+   "Na prática, isso significa que o setor público terá que se reestruturar em termos de pessoal e custos.",
+   "Essas adaptações podem influenciar a prestação de serviços e até o ajuste de custos que afeta o cidadão."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "O Popular",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Aumento dos custos afetará todos os cidadãos",
+  "angulo": "Entender como o mercado financeiro pode ajudar a administrar essas mudanças é fundamental para evitar impactos no bolso.",
+  "gancho": "O *fim da escala 6x1* e suas consequências",
+  "ideias": [
+   "Como a mudança da escala afeta o seu dia a dia?",
+   "Entenda o impacto da nova escala 6x1",
+   "Prepare-se para os custos do setor público em alta"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:16:22-03:00",
+  "url": "https://opopular.com.br/politica/fim-da-escala-6x1-pressiona-custos-do-setor-publico-1.3476058",
+  "publicadoEm": "2026-11-02T19:49:06-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-21"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e aumento na demanda por galpões",
+  "resumo": "A Sort Investimentos projeta uma alta de 30% na procura por galpões logísticos após a aprovação do fim da escala de trabalho 6x1 no Congresso. Entenda os impactos.",
+  "fatos": [
+   "A Sort Investimentos prevê aumento de 30% na demanda por galpões logísticos.",
+   "A mudança foi aprovada pelo Congresso e se refere ao fim da escala de trabalho 6x1.",
+   "A jornada de trabalho passará de 44 horas para 40 horas semanais.",
+   "A empresa catarinense gerencia mais de R$ 3 bilhões em ativos imobiliários.",
+   "A mudança tende a acelerar a migração do varejo físico para o e-commerce."
+  ],
+  "explicacao": [
+   "A aprovação do fim da escala 6x1 vai permitir jornadas de trabalho mais curtas, o que deve aumentar a eficiência logística.",
+   "Com a redução da jornada, empresas podem repensar suas operações, priorizando estruturas para e-commerce.",
+   "Essa alteração pode significar uma redistribuição de investimentos do varejo físico para o comércio eletrônico, ampliando a demanda por galpões.",
+   "A transformação será sentida na ocupação de imóveis destinados à armazenagem e distribuição de mercadorias.",
+   "Juntas, essas mudanças indicam um crescimento significativo no setor logístico."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Editado por StÃ©fanie Rigamonti, espaÃ§o cobre os bastidores da economia e de negÃ³cios. Com Luana FranzÃ£o e Maria Clara Guilherme VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. Receba no seu email as informaÃ§Ãµes exclusivas da coluna Painel S.A. A Sort Investimentos , empresa catarinense de gestÃ£o de ativos imobiliÃ¡rios, projeta uma elevaÃ§Ã£o de 30% na demanda por galpÃµes logÃ­sticos com a aprovaÃ§Ã£o pelo Congresso do fim da escala de trabalho 6x1 . A companhia, que tem sob gestÃ£o mais de R$ 3 bilhÃµes apenas nesse segmento de imÃ³veis , espera que a alteraÃ§Ã£o na jornada de 44 horas para 40 horas semanais vÃ¡ acelerar a migraÃ§Ã£o do varejo fÃ­sico para o comÃ©rcio eletrÃ´nico , que utiliza estruturas centralizadas de armazenamento e distribuiÃ§Ã£o em sua operaÃ§Ã£o. Segundo Renato Monteiro, fundador da Sort, a alteraÃ§Ã£o da escala de trabalho tende a acelerar uma transformaÃ§Ã£o que jÃ¡ ocorre no varejo brasileiro, com reflexos diretos sobre a ocupaÃ§Ã£o de imÃ³veis destinados Ã armazenagem e distribuiÃ§Ã£o de mercadorias. \"NÃ£o significa necessariamente que teremos menos lojas fÃ­sicas. O que pode ocorrer Ã© uma redistribuiÃ§Ã£o dos investimentos do varejo, com empresas que jÃ¡ operam nos dois canais ampliando suas estruturas de comÃ©rcio eletrÃ´nico e logÃ­stica\", diz Monteiro. \"O ecommerce permite concentrar estoques, automatizar processos e atender consumidores de diferentes regiÃµes a partir de um mesmo centro de distribuiÃ§Ã£o. Nossa projeÃ§Ã£o Ã© que essa mudanÃ§a possa alavancar em atÃ© 30% a demanda por galpÃµes logÃ­sticos\", completa. LINK PRESENTE: Gostou deste texto? Assinante pode liberar sete acessos gratuitos de qualquer link por dia. Basta clicar no F azul abaixo. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. VocÃª jÃ¡ conhece as vantagens de ser assinante da Folha? AlÃ©m de ter acesso a reportagens e colunas, vocÃª conta com newsletters exclusivas ( conheÃ§a aqui ). TambÃ©m pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notÃ­cias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado! Mais de 180 reportagens e anÃ¡lises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder pÃºblico, veicula notÃ­cias proveitosas e inspiradoras, faz contraponto Ã intolerÃ¢ncia das redes sociais e traÃ§a uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteÃºdo? Integrantes das ForÃ§as Armadas criticam 'abandono de tropa' por senador e pregam afastamento de famÃ­lia Americanos vÃ£o Ã s urnas para renovar a CÃ¢mara, um terÃ§o do Senado e escolher 36 governadores estaduais Integrantes do governo e do PT falam em 'chantagem, terrorismo e especulaÃ§Ã£o' em reaÃ§Ã£o Ã cobranÃ§a de ajuste fiscal Copyright Folha de S.Paulo. Todos os direitos reservados. Ã proibida a reproduÃ§Ã£o do conteÃºdo desta pÃ¡gina em qualquer meio de comunicaÃ§Ã£o, eletrÃ´nico ou impresso, sem autorizaÃ§Ã£o escrita da Folhapress. Ãudio adicionado Ã playlist com sucesso!",
+  "numeros": [
+   {
+    "valor": "30",
+    "rotulo": "previsão de alta na demanda por galpões"
+   },
+   {
+    "valor": "3 bilhões",
+    "rotulo": "ativos sob gestão da Sort Investimentos"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "aumenta a pressão sobre o orçamento mensal",
+  "angulo": "Entender as novas dinâmicas do mercado pode abrir oportunidades de renda, além de depender apenas do salário.",
+  "gancho": "Demanda crescente em galpões *após nova jornada de trabalho*",
+  "ideias": [
+   "A nova jornada e suas oportunidades",
+   "Como a aprovação impacta o comércio",
+   "O futuro do logística no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T20:16:22-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/com-fim-da-escala-6x1-empresa-projeta-alta-de-30-na-demanda-por-galpoes-logisticos.shtml",
+  "publicadoEm": "2026-11-02T12:15:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-20"
  },
  {
   "segmento": "trader",
