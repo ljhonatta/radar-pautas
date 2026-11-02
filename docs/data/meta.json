@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-02T07:43:03-03:00",
+  "ultimaColeta": "2026-11-02T16:51:17-03:00",
   "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Fechar lojas para se adaptar ao novo trabalho; Aumento de até 15% nas taxas de condomínio; Fim da escala 6x1: novo modelo de trabalho.",
+  "mensagem": "7 pauta(s) nova(s): Fim da escala 6x1: mudanças que afetam seu bolso; Fim da escala 6x1: impactos no bolso e no trabalho; Mudança na escala 6x1: desafios para o comércio.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-11-02T16:51:17-03:00",
    "2026-11-02T07:43:03-03:00",
    "2026-11-02T07:39:06-03:00",
    "2026-11-01T22:05:33-03:00",
@@ -18,19 +19,19 @@
    "2026-10-31T12:31:30-03:00",
    "2026-10-30T22:09:50-03:00",
    "2026-10-30T17:18:39-03:00",
-   "2026-10-30T13:18:16-03:00",
-   "2026-10-29T22:24:32-03:00"
+   "2026-10-30T13:18:16-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-02T07:43:03-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-02T16:51:17-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Mudanças políticas e econômicas exigem adaptação no varejo; TikTok se transforma em superapp e mexe no mercado; Message Ads: conectando buscas e vendas no WhatsApp.",
+  "mensagem": "7 pauta(s) nova(s): Como a inadimplência afeta seu negócio?; Nova alíquota de CBS preocupa empresários do setor alimentício; Novas regras de SAC: impacto nos negócios.",
   "falhas": [],
-  "manual": true,
+  "manual": false,
   "historico": [
+   "2026-11-02T16:51:17-03:00",
    "2026-11-02T07:43:03-03:00",
    "2026-11-02T07:39:06-03:00",
    "2026-11-01T22:05:33-03:00",
@@ -41,8 +42,7 @@
    "2026-10-31T12:31:30-03:00",
    "2026-10-30T22:09:50-03:00",
    "2026-10-30T17:18:39-03:00",
-   "2026-10-30T13:18:16-03:00",
-   "2026-10-29T22:24:32-03:00"
+   "2026-10-30T13:18:16-03:00"
   ]
  }
 }
