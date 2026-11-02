@@ -1,6 +1,695 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "A importância da governança em IA para empresas",
+  "resumo": "A falta de governança em inteligência artificial pode prejudicar negócios. Apenas 13% das organizações têm uma estrutura de governança efetiva. Entenda como isso afeta o seu bolso.",
+  "fatos": [
+   "Apenas 13% das organizações possuem bases de governança em IA, segundo pesquisa da SmartX com 2.100 executivos.",
+   "Somente 29% das empresas têm um plano estratégico concreto para IA.",
+   "32% das organizações não têm políticas ou estruturas definidas sobre inteligência artificial.",
+   "59% das decisões sobre IA são delegadas à liderança executiva.",
+   "31% das empresas atribuem a responsabilidade sobre IA aos líderes de tecnologia."
+  ],
+  "explicacao": [
+   "A implementação rápida da IA nas empresas levanta questões sobre governança e responsabilidade.",
+   "A falta de estrutura e planejamento nas organizações pode levar a decisões erradas e prejudicar resultados.",
+   "Os empresários precisam estar cientes da necessidade de um controle eficaz sobre as ferramentas de IA."
+  ],
+  "materia": "Existe um botão de “desligar” a inteligência artificial quando precisamos? Tudo se resume à governança e à responsabilidade. Infelizmente, há muito pouca, enquanto a IA continua a inundar os locais de trabalho e as vidas das pessoas. Apenas 13% das organizações possuem as bases de governança necessárias para adotar a inteligência artificial de forma segura e significativa, segundo uma pesquisa recente da SmartX com 2.100 executivos. A porcentagem de organizações com um plano estratégico concreto é apenas de 29%. Já um terço dos entrevistados, 32%, relatam que suas organizações não possuem estruturas definidas, como políticas de inteligência artificial de primeira geração, políticas de ética ou um órgão de supervisão. “Alguém precisa liderar e decidir quais ferramentas a organização usa, como elas são implementadas, quem é treinado e quais medidas de segurança são tomadas. Sem essa responsabilidade, mesmo as melhores intenções em relação à IA tendem a estagnar ou dar errado”, afirma o relatório, de autoria de Tayloe Radey, diretora de pesquisa da SmarterX. Aproximadamente 59% delegam as decisões sobre IA à sua liderança executiva, e 31% atribuem essa responsabilidade aos seus líderes de tecnologia. A Maribel Lopez , da Lopez Research, que tem estudado esses desenvolvimentos e conversado com líderes empresariais sobre essas questões, destaca que a capacidade de atribuir responsabilidades é, infelizmente, uma fragilidade crítica observada em organizações saturadas de IA atualmente. Os líderes empresariais, estejam ou não diretamente envolvidos com inteligência artificial em suas empresas, precisam, no mínimo, de poder de veto sobre as decisões das máquinas, explicou ela em uma recente transmissão online apresentada por Jo Peterson, CIO da Clarify360. As práticas de governança de IA são escassas e, quando existem, são inconsistentes e dispersas por departamentos como o jurídico e o de RH, constatou Lopez em sua pesquisa. Para agravar o desafio, há também a falta de profissionais capacitados para entender e manter a tecnologia no caminho certo. Em última análise, alguém precisa estar no comando, e esses líderes ainda não surgiram. “É preciso ter a opinião de diferentes grupos dentro da organização sobre como uma política de IA poderia ser estruturada”, disse Maribel. “Mas alguém precisa estar no comando e questionar as atitudes e funcionalidade dos agentes.” O que aumenta o desafio é a velocidade vertiginosa com que a inteligência artificial está evoluindo atualmente. “É um ambiente muito dinâmico. A cada um ou dois meses, algo muda, e ficamos com três fornecedores de modelos dizendo que seus sistemas romperam as regras. Dá para ver que isso é algo que não se configura e ou esquece”, afirma Lopez. Ainda assim, a fundadora da Lopez Research destaca que os defensores da IA ​​precisam dar um passo atrás e agir com cautela. “Vamos analisar aplicativos SaaS que já possuem algum tipo de identidade, segurança e permissões integradas, que podem ser estendidas aos agentes.” A IA está se proliferando e avançando em um ritmo muito acelerado para “garantir que um humano revise cada transação realizada por um agente. Isso precisa ser planejado com muita atenção desde o início”, acrescentou Maribel. Reportagem publicada originalmente em Forbes.com Adicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.",
+  "numeros": [
+   {
+    "valor": "13%",
+    "rotulo": "das organizações com governança de IA"
+   },
+   {
+    "valor": "29%",
+    "rotulo": "com plano estratégico para IA"
+   },
+   {
+    "valor": "32%",
+    "rotulo": "sem estruturas definidas sobre IA"
+   }
+  ],
+  "fonte": "Forbes Brasil",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de competitividade e decisões erradas em IA",
+  "angulo": "Os dados mostram que a falta de governança em IA é crítica, e as empresas precisam de planejamento e assessoria para acompanhar essa evolução.",
+  "gancho": "Você está *preparado para a IA?*",
+  "ideias": [
+   "Governança em IA: o que você precisa saber",
+   "Tome as rédeas da IA na sua empresa",
+   "A importância de um planejamento estratégico em IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://forbes.com.br/forbes-tech/2026/11/com-a-implementacao-da-ia-nas-empresas-quem-tem-o-controle-dos-agentes/",
+  "publicadoEm": "2026-11-02T05:05:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Kopenhagen investe em marketing para crescer 15% neste Natal",
+  "resumo": "A Kopenhagen se prepara para um Natal ambicioso, visando um aumento de 15% nas vendas por meio de novos produtos e investimento em publicidade. A estratégia inclui a antecipação das compras na Black Friday.",
+  "fatos": [
+   "A Kopenhagen planeja aumentar seu faturamento em mais de 15% neste Natal.",
+   "Os lançamentos de Natal representam 30% do portfólio da marca.",
+   "O orçamento de mídia será 60% superior ao de 2025.",
+   "A expectativa é crescer dois dígitos nas vendas e no volume de vendas nas mesmas lojas.",
+   "A marca participará da Black Friday para antecipar as compras de presentes de Natal."
+  ],
+  "explicacao": [
+   "A Kopenhagen está investindo fortemente em publicidade para se destacar no mercado durante a temporada de Natal.",
+   "Os novos produtos incluem panetones com duplo recheio e kits de presentes, atraindo mais consumidores.",
+   "O aumento na verba de marketing planeja ampliar a participação de mercado e reforçar a conexão com os clientes.",
+   "A antecipação das vendas durante a Black Friday é uma estratégia para maximizar o potencial da temporada de festas."
+  ],
+  "materia": "A Kopenhagen prepara um Natal com mais lançamentos e investimento em publicidade para elevar o faturamento em mais de 15% no Brasil. Entre as novidades estão panetones com duplo recheio e kits para presente com produtos de linhas conhecidas, como Língua de Gato e Lajotinha. A temporada de festas concentra, ao lado da Páscoa, cerca de um terço do faturamento anual da marca. Neste ano, os lançamentos representam 30% do portfólio de Natal, e o orçamento de mídia será 60% superior ao de 2025. “Estamos diante do maior Natal da história da Kopenhagen em termos de investimento e ambição de crescimento. Nosso objetivo é reforçar a marca como o principal destino de presentes da temporada, ampliando participação de mercado e fortalecendo nossa conexão com o consumidor”, afirma Patricia Nacamuta, diretora de Estratégia e Marca da Kopenhagen. A expectativa é crescer dois dígitos tanto no volume de vendas quanto nas vendas mesmas lojas. A Kopenhagen também espera atrair mais clientes para as unidades físicas e vender mais pelo comércio eletrônico. Marca antecipa presentes de Natal na Black Friday A campanha aproveita a Black Friday para antecipar as compras de presentes de fim de ano. Em uma segunda etapa, o foco passa para o portfólio natalino, com panetones clássicos e edições especiais, como o Calendário do Advento. A marca também estreia o selo K.O.P. (Kopenhagen de Origem Protegida), que valoriza a origem dos ingredientes e estabelece critérios socioambientais. Fundada em 1928, a Kopenhagen atua no segmento de chocolates finos e conta com mais de 300 itens no portfólio, entre chocolates, produtos de cafeteria e coleções comemorativas, distribuídos em todo o território nacional. Imagem: Divulgação O post Kopenhagen aposta em kits para presente e mira alta de 15% no Natal apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "15%",
+    "rotulo": "crescimento esperado no faturamento"
+   },
+   {
+    "valor": "60%",
+    "rotulo": "aumento no orçamento de mídia"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "novos produtos no portfólio de Natal"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Restaurantes"
+  ],
+  "dor": "perda de vendas para concorrentes se não se destacar",
+  "angulo": "A Kopenhagen está mostrando que um bom planejamento e investimento em marketing podem resultar em vendas significativas, algo a ser considerado por empresários em todos os setores.",
+  "gancho": "Planeje seu marketing para o *maior Natal da história*!",
+  "ideias": [
+   "Aprenda com Kopenhagen: como crescer no Natal?",
+   "Estratégias de marketing para o varejo neste fim de ano",
+   "Antecipe suas vendas para o Natal como a Kopenhagen"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://mercadoeconsumo.com.br/01/11/2026/noticias-varejo/kopenhagen-aposta-em-kits-para-presente-e-mira-alta-de-15-no-natal/",
+  "publicadoEm": "2026-11-01T10:35:06-03:00",
+  "data": "2026-11-01",
+  "id": "2026-11-02-vpr-06"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Apostas em IA e impacto no mercado",
+  "resumo": "Wall Street investe trilhões em IA, mas agora busca proteção financeira contra possíveis perdas. Essa mudança reflete uma preocupação com a volatilidade do setor.",
+  "fatos": [
+   "A valorização de ações e empresas de tecnologia impulsionada pela IA gerou trilhões em investimentos.",
+   "A busca por opções de venda e contratos de proteção contra calotes cresceu entre os investidores.",
+   "O Nasdaq caiu 2,9% no final de setembro, o pior mês desde março de 2025.",
+   "As opções de venda, como put options, permitem limitar prejuízos em ações desvalorizadas.",
+   "A procura por proteção é significativa, abrangendo empresas como Amazon e Alphabet.",
+   "A Jump Trading e outros data centers estão criando mecanismos para limitar riscos financeiros."
+  ],
+  "explicacao": [
+   "O crescimento explosivo da IA gerou um otimismo alto, mas as recentes quedas alertaram investidores sobre a instabilidade do mercado.",
+   "As opções de venda funcionam como um seguro: se o preço das ações cair, os investidores podem evitar perdas maiores.",
+   "As empresas de tecnologia também estão se protegendo contra a diminuição na demanda por sua infraestrutura e serviços."
+  ],
+  "materia": "Depois de impulsionar valorização de trilhões de dólares em ações e empresas de tecnologia, a inteligência artificial (IA) começa a provocar reação entre investidores: a procura por proteção contra possível reversão do mercado. Mesmo com muitos participantes ainda otimistas, cresce a demanda por instrumentos financeiros capazes de reduzir perdas caso a aposta na IA desande. O movimento aparece em diferentes frentes de Wall Street . Investidores estão recorrendo a opções de venda de ações e contratos de proteção contra calotes para se resguardar de eventual queda. Ao mesmo tempo, empresas que constroem e operam data centers procuram mecanismos para limitar prejuízos caso a demanda por capacidade computacional diminua. “Estamos vendo demanda realmente significativa de pessoas que querem se proteger contra perdas”, afirmou Stephen Solaka, vice-presidente sênior da Gateway Investment Advisers, ao The Wall Street Journal . A preocupação ganhou força após empresas de diferentes portes não conseguirem atender às expectativas do mercado. A volatilidade também atingiu companhias que se beneficiaram diretamente do entusiasmo com a IA, incluindo fabricantes de chips, gigantes de tecnologia e operadoras de infraestrutura computacional. Na sexta-feira (30), o Nasdaq, índice fortemente concentrado em empresas de tecnologia, caiu 2,9%, encerrando o pior mês desde março de 2025. Alphabet e Intel também registraram algumas de suas maiores quedas diárias. Investidores compram proteção contra quedas Um dos instrumentos procurados são as put options, ou opções de venda. Esses contratos dão ao comprador o direito de vender uma ação por um preço determinado até uma data específica. Na prática, funcionam como uma espécie de seguro: se o papel desvalorizar muito, o investidor pode limitar parte do prejuízo; O interesse por esse tipo de proteção aumentou, especialmente em torno da CoreWeave, empresa de infraestrutura de IA que aluga capacidade computacional e tem recorrido a grandes volumes de financiamento; Segundo dados da Cboe Global Markets, o volume de contratos de opções ligados à companhia chegou a recorde em outubro e permaneceu elevado. Entre as apostas mais populares estão opções com vencimento em 2028 que oferecem retorno caso as ações da empresa caiam para US$ 35 (cerca de R$ 190). Na última semana, os papéis eram negociados em torno de US$ 55 (aproximadamente R$ 300); Outra frente de proteção envolve os chamados credit-default swaps (CDS), contratos que funcionam como seguro contra o risco de uma empresa deixar de pagar suas dívidas; O custo desses contratos aumentou no último mês para cinco grandes empresas de tecnologia e computação em nuvem: Amazon, Alphabet, Microsoft, Meta e Oracle. Os níveis chegaram aos mais altos desde 2021, de acordo com dados da provedora Solve. “Não houve exceções, o que sugere uma preocupação ampla do mercado com o setor, em vez de eventos de crédito específicos de empresas individuais”, afirmou Eugene Grinberg, cofundador da Solve. A mudança foi especialmente expressiva no caso da Oracle, cujos spreads de CDS aumentaram mais de um ponto percentual. Empresas querem se proteger de uma queda na demanda por IA A busca por proteção não se limita a investidores que possuem ações. Empresas que alugam chips e infraestrutura para desenvolver modelos de IA também procuram maneiras de reduzir o risco de queda nos preços da capacidade computacional. A Jump Trading, empresa especializada em negociação quantitativa, criou recentemente uma mesa dedicada ao mercado de poder computacional. A operação aproveita diferenças de preço entre fornecedores e também estrutura contratos financeiros negociados diretamente entre as partes. Um exemplo ajuda a entender como esse mercado pode funcionar: uma empresa de infraestrutura que aluga chips da Nvidia poderia comprar uma opção de venda para se proteger contra uma queda no preço cobrado pelo aluguel desses equipamentos. Se a demanda por processamento diminuir, os valores recebidos pel",
+  "numeros": [
+   {
+    "valor": "5",
+    "rotulo": "grandes empresas com aumento em CDS"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "aumento no aluguel de chips Nvidia B300"
+   },
+   {
+    "valor": "4,8 trilhões",
+    "rotulo": "perdas das big techs indicam bolha da IA"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "Perdas financeiras e riscos de investimento em IA",
+  "angulo": "Esta tendência revela a necessidade de uma estratégia de marketing sólida, com gestão de riscos que pode ser integrada ao seu planejamento, garantindo segurança e crescimento nos negócios.",
+  "gancho": "Proteja-se de *perdas financeiras* com IA",
+  "ideias": [
+   "IA e a nova dinâmica do mercado",
+   "Como proteger seu negócio em tempos instáveis",
+   "Investimentos em tecnologia e a importância da segurança"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://olhardigital.com.br/2026/11/01/pro/wall-street-aposta-trilhoes-em-ia-mas-comeca-a-comprar-seguro-contra-colapso/",
+  "publicadoEm": "2026-11-01T13:39:22-03:00",
+  "data": "2026-11-01",
+  "id": "2026-11-02-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA aumenta vendas em lojas físicas e online",
+  "resumo": "Dados mostram que visitantes vindos de ferramentas de IA compram 50% mais em lojas. Isso indica uma nova tendência de consumo que pode impactar o varejo.",
+  "fatos": [
+   "Um levantamento realizado com 7.600 lojas revelou que usuários que acessam por IA têm um potencial de compra maior.",
+   "Os clientes que chegam até elas por meio de ferramentas de IA compram até 50% mais.",
+   "Esse dado pode significar uma mudança significativa no comportamento do consumidor no varejo."
+  ],
+  "explicacao": [
+   "O uso de inteligência artificial nas ferramentas de marketing está se mostrando eficaz para atrair consumidores.",
+   "Esses consumidores tendem a realizar compras maiores, o que pode ser crucial para o sucesso das lojas.",
+   "Com a crescente adoção de IA, é fundamental que empresários ajustem suas estratégias de marketing para acompanhar essa tendência."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Midiamax",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas e clientes para a concorrência",
+  "angulo": "Esse cenário mostra a importância de investir em marketing digital e tecnologia para não ficar para trás.",
+  "gancho": "*IA pode ser sua aliada* nas vendas",
+  "ideias": [
+   "Como a IA está transformando as vendas?",
+   "Consumidores de IA gastam mais: entenda!",
+   "A importância da tecnologia no varejo moderno"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://midiamax.com.br/trends/2026/11/02/levantamento-com-dados-de-7-600-lojas-revela-que-visitantes-vindos-de-ferramentas-de-ia-compram-50-mais/",
+  "publicadoEm": "2026-11-02T06:55:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a IA afeta seus anúncios e negócios",
+  "resumo": "A adoção de IA no marketing traz riscos e oportunidades. Anunciantes devem intensificar a qualidade da mídia para não perder audiência.",
+  "fatos": [
+   "Estudo da DoubleVerify mostra que a falta de qualidade na mídia pode custar até US$ 399 mil por bilhão de impressões.",
+   "44% dos consumidores na América Latina reagem negativamente a marcas ao lado de conteúdos de baixa qualidade gerados por IA.",
+   "No Brasil, 45% dos consumidores têm uma percepção negativa ao ver seus anúncios ao lado de 'AI Slop'.",
+   "Marcas com ferramentas de verificação tiveram uma redução de 57% nas violações de tráfego inválido.",
+   "O Brasil apresenta uma taxa de violação de brand suitability de 6,9%, acima da média global."
+  ],
+  "explicacao": [
+   "A proliferação de conteúdos de baixa qualidade gerados por IA está criando novos desafios no marketing digital.",
+   "Marcas que se utilizam de ferramentas de verificação e proteção de mídia estão melhorando seus resultados e segurança financeira.",
+   "A necessidade de alta qualidade em anúncios é essencial para evitar que clientes se distanciem.",
+   "Profissionais de marketing estão cada vez mais conscientes da importância de manter a qualidade e a adequação das campanhas publicitárias.",
+   "O controle efetivo sobre a veiculação de anúncios pode transformar a performance e confiança da marca."
+  ],
+  "materia": "Início ▸ Post Patrocinado ▸ DoubleVerify ▸ O impacto da IA nos investimentos de mídia no Brasil e no mundo Relatório da DoubleVerify constatou que o custo de não utilizar proteções de qualidade de mídia pode chegar a US$ 399 mil por bilhão de impressões na web aberta A ampla adoção de ferramentas de inteligência artificial (IA) trouxe duas tendências opostas ao mercado publicitário. Por um lado, a IA generativa transformou a veiculação de anúncios em uma experiência hiperpersonalizada, abrindo caminho para fluxos de trabalho autônomos que aprofundam as interações entre marcas e consumidores. Por outro, a internet foi inundada por conteúdos de baixa qualidade gerados por IA — frequentemente chamados de “AI Slop” — além de audiências compostas, em parte, por bots criados para fraudar sistemas de publicidade programática, simulando um engajamento humano genuíno. Quando pessoas reais visualizam esse conteúdo de “AI Slop” percebem sua baixa qualidade e penalizam as marcas que aparecem ao redor desse material. Essa realidade exige que os anunciantes adotem uma postura intencional ao utilizar ferramentas para identificar e mitigar riscos de danos à marca e de fraudes no ecossistema de mídia digital. Essas são algumas das conclusões do relatório “ 2026 Global Insights: Qualidade da mídia na era da IA ”, da DoubleVerify (DV), que revelou como a IA agêntica impacta diretamente os aportes em mídia em todo o mundo. “À medida que o ecossistema digital fica mais complexo, a qualidade da mídia torna-se essencial para garantir que cada impressão gere valor, que o investimento esteja protegido e que as marcas preservem a confiança conquistada junto aos consumidores”, afirma Armando Rodriguez, vice-presidente regional (RVP) Latam da DoubleVerify. Estudo “2026 Global Insights: Qualidade da mídia na era da IA”, da DoubleVerify, apontou como a IA impacta nos investimentos de mídia em todo o mundo O relatório também revela o desafio crescente que os anunciantes enfrentam diante da proliferação de conteúdos gerados por inteligência artificial na internet. Na América Latina, 44% dos consumidores afirmam que teriam uma percepção negativa de uma marca caso vissem seus anúncios ao lado de conteúdos de baixa qualidade ou de spam gerados por IA. No Brasil, esse índice sobe para 45%, sendo que um terço (33%) dos entrevistados declara que isso teria um impacto muito negativo em sua percepção sobre a marca. Embora esse seja um problema generalizado na web aberta, o Brasil apresenta características específicas que levam os anunciantes a adotar estratégias adaptadas ao mercado nacional. Marcas que reconheceram a importância de utilizar ferramentas de verificação para garantir a qualidade da mídia observaram uma queda de 57% na taxa de violações de tráfego inválido sofisticado (SIVT, na sigla em inglês). Por outro lado, a América Latina apresenta um desempenho abaixo do esperado no quesito adequação de marca (brand suitability). A taxa de violação de brand suitability na região chegou a 6,9%, acima do parâmetro de referência global. Consequentemente, campanhas sem proteção têm cerca de três vezes mais chances de aparecer ao lado de conteúdos impróprios, em comparação com aquelas que utilizam ferramentas que oferecem essa camada de segurança. As tendências indicam que, embora as marcas que operem no Brasil estejam combatendo com sucesso os fraudadores, elas permanecem vulneráveis à exibição de seus anúncios em ambientes inadequados ou em meio a conteúdos de baixa qualidade gerados por IA. Para mitigar o risco de desperdiçar orçamentos de mídia e comprometer os resultados comerciais, os anunciantes brasileiros precisam adotar ferramentas de verificação de qualidade de mídia que combinem medição pós-bid com proteções pré-bid, garantindo o alinhamento contextual. Além disso, o relatório revela que os profissionais de marketing do Brasil compreendem claramente a dimensão do problema. Quase quatro em cada dez (39%) afirmam que controles verificados de brand suitabili",
+  "numeros": [
+   {
+    "valor": "45",
+    "rotulo": "% de percepção negativa de marca no Brasil"
+   },
+   {
+    "valor": "57",
+    "rotulo": "% de redução em violações de tráfego inválido com verificação"
+   },
+   {
+    "valor": "6,9",
+    "rotulo": "% de violação de brand suitability na América Latina"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de clientes e reputação no mercado",
+  "angulo": "Essa realidade ressalta a importância de cuidados estratégicos em suas campanhas. A VPR Vision Prime pode ajudar na gestão e proteção de suas ações publicitárias.",
+  "gancho": "impacto da IA nos *seus anúncios*",
+  "ideias": [
+   "Entenda a importância da qualidade nos anúncios",
+   "Como a IA pode afetar sua marca?",
+   "Proteção de mídia: um investimento necessário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://www.meioemensagem.com.br/patrocinado/doubleverify/o-impacto-da-ia-nos-investimentos-de-midia-no-brasil-e-no-mundo",
+  "publicadoEm": "2026-11-02T00:00:49-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Chilli Beans enfrenta crise e busca recuperação financeira",
+  "resumo": "A Chilli Beans, famosa rede de óculos e relógios, pediu recuperação extrajudicial para reestruturar R$ 340 milhões em dívidas. A mudança visa redefinir prazos e fortalecer relações comerciais.",
+  "fatos": [
+   "Chilli Beans entrou com pedido de recuperação extrajudicial para reestruturar R$ 340 milhões em dívidas.",
+   "O plano foi alinhado com credores e inclui novos prazos de pagamento.",
+   "A empresa receberá um aporte de até R$ 50 milhões para a reestruturação.",
+   "As dívidas com fornecedores e colaboradores não estão incluídas no plano.",
+   "Caito Maia, CEO, afirmou que o varejo brasileiro passa por um momento desafiador.",
+   "A rede possui cerca de 900 franquias no Brasil e está presente em mais de 14 países."
+  ],
+  "explicacao": [
+   "A Chilli Beans enfrenta dificuldades financeiras, reflexo de um varejo desafiador no Brasil.",
+   "A recuperação extrajudicial permite que a empresa negocie diretamente com seus credores.",
+   "Com o novo aporte, espera-se que a operação seja fortalecida e as relações com franqueados melhorem.",
+   "Essa renegociação é crucial para manter a viabilidade do negócio em um mercado competitivo."
+  ],
+  "materia": "01/11/2026 08h39 Atualizado 01/11/2026 08h39 A Chilli Beans, rede de óculos e relógios, entrou com pedido de recuperação extrajudicial para reestruturar R$ 340 milhões em dívidas financeiras. Segundo a companhia, o plano foi alinhado com seus principais credores e prevê novos prazos e condições de pagamento aos bancos. O acordo também contempla um aporte de até R$ 50 milhões para a reestruturação que a marca vem promovendo nos últimos meses. Itaú, Akron e Vega atuam como financiadores âncoras e coordenam a injeção dos recursos. Dívidas com fornecedores, colaboradores e demais parceiros não estão abrangidas pelo plano. A empresa não detalhou os fatores que levaram ao endividamento. Em comunicado, o fundador e CEO, Caito Maia, afirmou que o varejo brasileiro atravessa um período desafiador. \"Passamos por um momento difícil, mas saímos ainda mais fortes e conscientes do que representamos para milhares de consumidores e centenas de parceiros\", disse, em nota. Na recuperação extrajudicial, a empresa negocia diretamente com os credores e submete o acordo à homologação da Justiça. Segundo Felipe Casotti, sócio da Akron Capital, um dos principais financiadores da companhia, a renegociação busca adequar a estrutura de capital da Chilli Beans à realidade atual do negócio, permitindo que a companhia concentre esforços na operação e fortaleça a relação com franqueados e fornecedores. A rede mantém cerca de 900 franquias no Brasil e está presente em mais de 14 países. Em outubro, abriu nove pontos de venda no país e outras quatro unidades na América do Sul, de acordo com o comunicado. Da medicina de precisão ao sono, da atividade física aos dados de saúde, diferentes estratégias buscam ampliar vitalidade e bem-estar, embora boa parte das promessas sobre longevidade ainda esteja sendo investigada Tecnologia, que recupera parte da água descartada durante processo de osmose reversa, fez consumo diário da unidade cair de 28.600 mil litros de água para cerca de 10.000 litros No último mês, os dez bilionários perderam, juntos, US$ 273 bilhões; recuo foi impulsionado pela desvalorização das ações de empresas de tecnologia, em meio a resultados abaixo das expectativas e preocupações com os gastos em inteligência artificial Segundo levantamento, apenas os dez bilionários mais ricos do estado poderiam pagar, juntos, US$ 31,5 bilhões se a proposta for aprovada; CEO da Meta, Mark Zuckerberg, lidera a lista Aplicativo de vídeos vem ampliando gradualmente seus serviços nos últimos anos, com a adição do TikTok Shop, de um mapa para descobrir lugares nas proximidades, de recursos de busca mais completos, jogos e outras funcionalidades Especialista em Alemanha dá dicas do que fazer quando for dividir a conta no país: \"As pessoas vão ficar contando\" As manifestações muitas vezes são organizadas de maneira improvisada, por meio de redes sociais como o TikTok ou o Instagram Segundo o site The Information, as duas já estão até trabalhando em uma segunda versão Donald Trump chega às eleições de meio de mandato nos Estados Unidos com um problema semelhante ao enfrentado pelo ex-presidente democrata A primeira fase da retomada contempla 15 criptoativos, incluindo bitcoin, ether, XRP e dogecoin. Também foram liberadas retiradas de BNB e algumas stablecoins, como USDT e USDC",
+  "numeros": [
+   {
+    "valor": "340 milhões",
+    "rotulo": "dívidas financeiras"
+   },
+   {
+    "valor": "50 milhões",
+    "rotulo": "apoio financeiro para reestruturação"
+   },
+   {
+    "valor": "900",
+    "rotulo": "franquias no Brasil"
+   },
+   {
+    "valor": "14",
+    "rotulo": "países de presença"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de controle financeiro e de mercado",
+  "angulo": "A situação da Chilli Beans evidencia a importância de um planejamento estratégico para evitar crises financeiras. Conheça como uma gestão de marketing eficaz pode ajudar sua empresa.",
+  "gancho": "Chilli Beans: *uma recuperação necessária*",
+  "ideias": [
+   "Recuperação Extrajudicial: O que aprender com a Chilli Beans",
+   "O que fazer para evitar crises como a da Chilli Beans?",
+   "Como a gestão de marketing impacta na recuperação financeira?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://epocanegocios.globo.com/empresas/noticia/2026/11/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml",
+  "publicadoEm": "2026-11-01T08:39:24-03:00",
+  "data": "2026-11-01",
+  "id": "2026-11-02-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Prepare sua marca para a Black Friday com estratégia",
+  "resumo": "Com a pressão por vendas, marcas precisam repensar suas estratégias. Audiência sozinha não garante conversão. Construir relacionamento antes da Black Friday é fundamental.",
+  "fatos": [
+   "O marketing digital enfrenta tensões na Black Friday 2026.",
+   "A audiência não garante conversão, mesmo com milhões de visualizações.",
+   "Marcas precisam começar a construir relações antes da Black Friday.",
+   "IA aumenta produção de conteúdo, mas não é vantagem competitiva única.",
+   "Visualizações devem ser analisadas dentro do funil de vendas.",
+   "Conteúdos precisam ter objetivos específicos: alcance, consideração e conversão.",
+   "Construir uma comunidade engajada pode trazer resultados melhores que apenas seguidores."
+  ],
+  "explicacao": [
+   "A Black Friday se aproxima e a competição por atenção cresce. Marcas que esperam o último momento para se promover enfrentam desafios maiores.",
+   "É essencial abordar conteúdos de forma integrada, considerando tanto o marketing quanto as vendas.",
+   "O uso de IA na criação de conteúdo é comum, mas sem um diferencial claro, os produtos ficam parecidos.",
+   "Construir confiança e desejo antes da promoção é o que realmente impacta as vendas.",
+   "Conectar métricas de engajamento a resultados comerciais é a chave para uma estratégia eficaz."
+  ],
+  "materia": "Beatriz Millani, cofundadora da KOBO, defende que marcas abandonem a obsessão por viralização e analisa por que audiência, inteligência artificial e produção em escala não garantem conversão Um vídeo alcança milhões de visualizações. Uma campanha acumula curtidas, comentários e novos seguidores. Mas quanto desse desempenho realmente se transforma em vendas? A pergunta expõe uma das principais tensões do marketing digital na Black Friday 2026. Enquanto ferramentas de inteligência artificial permitem produzir mais conteúdo, em menos tempo e com menor barreira técnica, as marcas enfrentam uma pressão crescente para demonstrar como alcance, engajamento e criatividade contribuem para resultados comerciais. Nesse cenário, audiência sozinha começa a perder espaço como indicador de sucesso. Para Beatriz Millani, cofundadora da KOBO, agência especializada em conteúdo digital e audiovisual, visualizações, seguidores e curtidas podem ajudar a entender distribuição e atenção, mas não devem ser tratados isoladamente como resultado de negócio. Com mais de dez anos de experiência em marketing, growth e branding, incluindo passagens por VTEX e SC Johnson, a executiva defende uma abordagem em que conteúdo, dados e estratégia comercial sejam analisados de forma integrada. Para Beatriz, um dos principais erros das marcas é concentrar a estratégia de Black Friday apenas no período promocional. Quando todas as empresas passam a comunicar descontos ao mesmo tempo, a disputa tende a ficar concentrada em preço. A construção de confiança, desejo e relacionamento precisa começar antes. Nesse contexto, o conteúdo assume um papel que vai além de promover uma oferta: ele ajuda a construir familiaridade com a marca, explicar diferenciais e formar uma comunidade que já chega à Black Friday com intenção de compra. IA aumenta produção, mas não garante diferenciação A inteligência artificial também muda a equação. Hoje, praticamente qualquer empresa consegue gerar roteiros, imagens e ideias rapidamente. Para Beatriz, isso faz com que a tecnologia deixe de ser uma vantagem competitiva isolada. O diferencial passa a estar na capacidade de entender o consumidor, acompanhar conversas culturais e encontrar pontos de vista que outras marcas ainda não exploraram. A IA pode acelerar a execução, mas não substitui repertório e leitura de contexto. Audiência precisa ser lida dentro do funil A mesma lógica vale para influenciadores e vídeos curtos. Um creator com milhões de seguidores pode gerar grande alcance sem necessariamente produzir vendas. Já um perfil menor, mas com uma comunidade que confia em suas recomendações, pode ter impacto maior na decisão de compra. Por isso, Beatriz defende que diferentes conteúdos tenham objetivos distintos ao longo do funil. Alguns ajudam a gerar descoberta. Outros constroem consideração e confiança. Outros são desenhados diretamente para conversão. Esperar que uma única peça faça tudo ao mesmo tempo pode comprometer a estratégia. A executiva também questiona o uso isolado de visualizações, curtidas, comentários e número de seguidores. Para ela, visualização é uma métrica de distribuição, não necessariamente de negócio. Quando o objetivo é gerar demanda, indicadores como visitas ao perfil, tráfego para o site, buscas e conversas comerciais ganham relevância. Quando o objetivo é venda, entram métricas como conversão, custo de aquisição, receita e retorno sobre investimento. O desafio é conectar os resultados comerciais aos conteúdos que contribuíram para eles, mesmo quando a venda não acontece imediatamente depois de uma interação. Conteúdo precisa entrar na operação comercial A principal mudança defendida por Beatriz para 2027 é justamente essa integração. Produzir conteúdo apenas para preencher calendário ou buscar viralização tende a perder espaço para estratégias em que criação, distribuição, dados e vendas trabalham de forma conectada. Isso também exige testar formatos, avaliar resultados e entender quais elementos realmente influe",
+  "numeros": [],
+  "fonte": "Adnews",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Depender apenas de curtidas e seguidores pode ser arriscado.",
+  "angulo": "A adaptação às novas dinâmicas de mercado é crucial e mostra como um marketing planejado pode levar a resultados concretos.",
+  "gancho": "Você *realmente* sabe vender na Black Friday?",
+  "ideias": [
+   "Estratégias para a Black Friday",
+   "Transformando curtidas em vendas",
+   "O impacto da IA no marketing"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://adnews.com.br/post/black-friday-2026-o-fim-das-metricas-de-vaidade-e-a-pressao-por-vendas-nas-redes-sociais",
+  "publicadoEm": "2026-11-02T07:00:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Reforma tributária afeta seu planejamento financeiro",
+  "resumo": "A nova alíquota da CBS, fixada em 11,3%, gera incertezas para pequenas empresas, impactando o custo e a escolha do regime tributário. Entenda como isso pode afetar seu bolso.",
+  "fatos": [
+   "Em 28 de outubro, TCU calculou a alíquota da CBS em 11,3468%, arredondando para 11,3%.",
+   "Prazo para empresas do Simples escolherem o regime vai até 15 de dezembro.",
+   "A nova alíquota é superior às previsões de 8,8% e 9,21% feitas anteriormente.",
+   "A alíquota é ajustada para manter a arrecadação da União, não a carga individual.",
+   "Empresas podem optar por registrar CBS no regime regular, buscando créditos, ou no Simples, o que pode alterar sua competitividade."
+  ],
+  "explicacao": [
+   "A alíquota da CBS, que passará a ser efetiva em 2027, foi estabelecida para garantir a arrecadação para a União. O valor de 11,3% pode representar um ônus para pequenas empresas, especialmente aquelas que não conseguem se beneficiar dos créditos tributários disponíveis.",
+   "Com diferentes opções de regime tributário, as empresas precisam avaliar se permanecer no Simples Nacional ainda é vantajoso, considerando a nova alíquota que pode impactar sua margem competitiva no mercado.",
+   "A escolha do regime tributário será estratégica; empresas devem considerar a estrutura de seus custos e a relação com seus clientes para determinar qual opção será mais econômica."
+  ],
+  "materia": "Antes mesmo de começar a ser efetivamente cobrada, a Contribuição sobre Bens e Serviços produziu o seu primeiro número oficial relevante, e ele merece bastante atenção. Em 28 de outubro, o Tribunal de Contas da União calculou em 11,3468% a alíquota de referência da CBS para 2027, percentual que a lei manda arredondar para 11,3% [1] . O número ainda precisa ser fixado pelo Senado, que tem até 15 de dezembro para fazê-lo, mas chama atenção por um motivo simples: fica bem acima das estimativas oficiais que o precederam. Em 2024, ao apresentar a regulamentação da reforma, o Ministério da Fazenda projetava 8,8% para a CBS. Em julho deste ano, os parâmetros adotados pelo Comitê Gestor do IBS para o seu orçamento deixavam para a contribuição federal, por diferença, 9,21% [2] . Agora, são 11,3%. Há um detalhe de calendário que torna o número ainda mais eloquente. Dois dias depois da sessão do tribunal, em 30 de outubro, terminava o prazo para que as empresas do Simples Nacional decidam se, no primeiro semestre de 2027, recolherão o IBS e a CBS dentro do regime único ou pelo regime regular. A escolha mais estratégica que a reforma impõe às pequenas empresas foi exigida, em quase toda a sua janela, antes que se conhecesse a variável que lhe dá sentido. A tese deste artigo é simples e, reconheço, incômoda: a neutralidade que serviu de fundamento à reforma é um compromisso com a arrecadação, não com a carga de cada contribuinte. Manter a receita da União não significa manter a carga de cada empresa, e os 11,3% são a primeira prova concreta dessa diferença. A Constituição determina que a alíquota de referência assegure, de 2027 a 2033, receita da União equivalente à que se perde com a redução do PIS, da Cofins, do IPI e do IOF-Seguros [3] . O tribunal traduziu esse comando numa equação de resultado fixo: a meta é de 4,9861% do PIB, a média da receita de referência entre 2012 e 2021. Fixado o resultado, a alíquota passa a ser a variável de ajuste, e tudo o que sai da base precisa ser recomposto por quem nela permanece. No modelo, o módulo da alíquota zero retira da conta R$ 126,3 bilhões; o da redução proporcional de alíquotas, R$ 61,9 bilhões; o das compras governamentais, R$ 35,6 bilhões; o da devolução a famílias de baixa renda, R$ 10,5 bilhões [4] . Cada real retirado retorna, por definição, como alíquota mais alta sobre a regra geral. Seria injusto, e tecnicamente impreciso, converter esses números em uma lista de culpados. O próprio tribunal adverte que eles medem ajustes do modelo, e não o benefício recebido por cada setor. E a desoneração da cesta básica, as reduções para saúde e educação e a devolução às famílias de baixa renda são escolhas legítimas do legislador, com finalidade social evidente. O ponto é outro: essas escolhas têm pagador, e o pagador é a regra geral. É nela que permanece, entre tantos outros, o transporte rodoviário de cargas, que não recebeu redução de alíquota nem regime específico [5] . Os mecanismos de proteção contra o excesso existem, mas olham para o futuro. Se a arrecadação da União em 2027 e 2028 ultrapassar o teto de referência, a Constituição manda reduzir a alíquota da CBS em 2030: corrige-se a alíquota adiante, sem devolver o que tiver sido pago a mais. E o limite de 26,5% para a soma das alíquotas de referência, tantas vezes apresentado como trava, apenas obriga o Executivo a encaminhar projeto de lei complementar propondo medidas de redução, depois de uma avaliação feita com dados de 2030 [6] . É obrigação de meio, não de resultado. Também não é verdade que todas as empresas pagarão 11,3% sobre o faturamento, e é justamente aí que a análise precisa começar. O sistema concede créditos, alíquotas reduzidas, alíquota zero e regimes específicos, a CBS é calculada por fora: soma-se ao preço, em vez de estar embutida nele [7] . Por isso, os 11,3% correspondem a cerca de 10,15% do valor pago pelo adquirente, antes dos créditos. O PIS e a Cofins, calculados por dentro, pesam 9,25% desse valor no regime não",
+  "numeros": [
+   {
+    "valor": "11,3%",
+    "rotulo": "nova alíquota da CBS"
+   }
+  ],
+  "fonte": "Consultor Jurídico",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "perda de competitividade e aumento de custos",
+  "angulo": "Com a nova alíquota da CBS, a necessidade de se adaptar ao mercado financeiro se torna evidente, e a mentoria pode ajudar a entender como gerar renda além do salário fixo.",
+  "gancho": "*Aumento de impostos pode ameaçar sua margem*",
+  "ideias": [
+   "Como a nova CBS afeta o seu negócio?",
+   "Prepare-se para os impactos da CBS",
+   "Reforma tributária: desafios para pequenos empresários"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://conjur.com.br/2026-nov-02/cbs-de-113-e-neutra-para-o-fisco-nao-para-cada-contribuinte/",
+  "publicadoEm": "2026-11-02T07:01:45-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-05"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mais de 1 milhão optam por novo regime de impostos",
+  "resumo": "Mais de 1 milhão de contribuintes escolheram o regime IBS e CBS. O prazo termina amanhã, e é crucial que todos estejam atentos para não perder essa chance.",
+  "fatos": [
+   "1.000.142 contribuintes optaram pelo regime regular do IBS e da CBS.",
+   "O prazo para esta opção termina em 30 de outubro de 2026.",
+   "Contribuintes interessados devem agir agora para não perder a oportunidade.",
+   "As opções podem ser canceladas até 20 de dezembro de 2026.",
+   "299.921 solicitações para o Simples Nacional foram deferidas.",
+   "357.828 solicitações para o Simples Nacional foram indeferidas."
+  ],
+  "explicacao": [
+   "A Receita Federal informou que um número expressivo de contribuintes já optou pelo novo regime de impostos, o que pode impactar significativamente suas declarações.",
+   "O fato de não haver prorrogação para o prazo de opção torna essa decisão crucial.",
+   "Contribuintes que reconsiderarem sua decisão terão um prazo para cancelamento, dando certa flexibilidade.",
+   "O novo regime pode facilitar a vida dos empresários, mas é essencial que a opção seja feita dentro do prazo estipulado para evitar complicações futuras."
+  ],
+  "materia": "Receita Federal informa que 1.000.142 contribuintes já realizaram a opção pelo regime regular do IBS e da CBS. (Foto ilustração) O prazo para efetuar a opção termina amanhã, 30 de outubro de 2026 (sexta-feira). A Receita Federal reforça a importância de que os contribuintes interessados realizem o procedimento dentro do prazo estabelecido, evitando a perda da oportunidade de exercer a opção, pois o prazo não será prorrogado. Os contribuintes que realizarem a opção e posteriormente desejarem reconsiderar sua decisão poderão cancelá-la até o dia 20 de dezembro de 2026. Em relação às solicitações de opção pelo Simples Nacional, foram registrados os seguintes resultados: – 299.921 solicitações deferidas; – 357.828 solicitações indeferidas. (Ascom/Receita Federal) Compartilhe No Comment! Be the first one. Deixe um comentário Cancelar resposta",
+  "numeros": [
+   {
+    "valor": "1.000.142",
+    "rotulo": "contribuintes que optaram pelo IBS e CBS"
+   },
+   {
+    "valor": "30/10/2026",
+    "rotulo": "data limite para optar pelo novo regime"
+   },
+   {
+    "valor": "20/12/2026",
+    "rotulo": "data limite para cancelar a opção"
+   },
+   {
+    "valor": "299.921",
+    "rotulo": "solicitações deferidas do Simples Nacional"
+   },
+   {
+    "valor": "357.828",
+    "rotulo": "solicitações indeferidas do Simples Nacional"
+   }
+  ],
+  "fonte": "Bahia Na Política",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "perder oportunidades de economia em impostos",
+  "angulo": "Entender como o novo regime de impostos pode impactar seu negócio é crucial para gerar renda de forma mais eficiente.",
+  "gancho": "Você já se decidiu sobre *seus impostos*?",
+  "ideias": [
+   "Como aproveitar o IBS e CBS a seu favor?",
+   "Prazo de impostos: não perca essa oportunidade!",
+   "A escolha de regime de impostos que pode mudar seu negócio."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://bahianapolitica.com.br/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs/",
+  "publicadoEm": "2026-11-02T07:15:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Pequenas empresas enfrentam desafios na reforma tributária",
+  "resumo": "A Fenacon alerta que muitas pequenas empresas não estão preparadas para a reforma tributária. O governo precisa conscientizá-las sobre as mudanças iminentes.",
+  "fatos": [
+   "Reynaldo Lima Jr., presidente da Fenacon, afirma que pequenas empresas têm dúvidas sobre a reforma tributária.",
+   "Ele sugere que o governo federal realize ações de conscientização para ajudar essas empresas.",
+   "A reforma tributária introduz mudanças significativas, com a primeira etapa começando em janeiro.",
+   "O fim da escala 6 x 1 impacta especialmente pequenas e médias empresas financeiramente.",
+   "A Fenacon propõe que essa mudança da escala seja implementada de forma gradual por setor ou porte de empresa."
+  ],
+  "explicacao": [
+   "A alerta sobre a falta de preparação das pequenas empresas vem à tona com a reforma tributária criada para simplificar o sistema de impostos.",
+   "Com a mudança da escala de trabalho, as empresas se veem obrigadas a se adaptar rapidamente, o que pode ser financeiramente inviável.",
+   "É crucial que essas empresas se concentrem em mudanças imediatas, como o novo CBS, para garantir sua sobrevivência no mercado."
+  ],
+  "materia": "Presidente da entidade afirmou que o governo federal deveria realizar um trabalho de conscientização com as companhias O presidente da Fenacon (Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícias, Informações e Pesquisas), Reynaldo Lima Jr., disse acreditar que as pequenas empresas brasileiras não estão preparadas para a reforma tributária. “Vemos empresas grandes se estruturando e se organizando, mas entre médias, micro e pequenas empresas existe um distanciamento e uma série de dúvidas” , declarou o presidente da Fenacon. Reynaldo afirmou que o governo federal deveria realizar um trabalho de conscientização com as empresas porque a reforma tributária “é muito profunda e tem muitos detalhes” . “A maior orientação que podemos dar é a de se preocupar por etapas. Vamos nos preocupar com o CBS que está entrando em vigor em janeiro. Não nos preocupar com questões que vão acontecer só em 2029. Vamos nos preocupar com ações agora para não nos perdermos” , afirmou. O presidente da Fenacon declarou que o fim da escala 6 X 1 traz um impacto financeiro especialmente às pequenas e médias empresas. “O objetivo da mudança da escala para a 5 X 2 força as empresas a se adequar e nem sempre elas têm capacidade financeira de contratar e de se ajustar” , afirmou. Segundo Reynaldo, o fim da escala 6 X 1 deveria ser implementado de forma gradual por setor ou por porte de empresa. “A imposição de um modelo que é para todo mundo não foi o melhor modelo escolhido. Deveríamos ter dado mais autonomia. A escala poderia acontecer como aconteceu, mas acho que tinha que ser pensada nas atividades, principalmente, as que têm regime de escala, por exemplo, a atividade médica” , declarou. O presidente da Fenacon disse acreditar que sem essa atualização dos limites do Simples Nacional pode haver um desestímulo ao crescimento das empresas. O limite geral de faturamento do Simples Nacional é de R$ 4,8 milhões por ano. Segundo ele, o que deveria ser prioridade na agenda econômica do governo federal para melhorar o ambiente de negócios em 2027 é essa questão do limite geral do Simples Nacional. a) Para receber as informações solicitadas, você nos autoriza a usar o seu nome, endereço de e-mail e/ou telefone e assuntos de interesse (a depender da opção assinalada e do interesse indicado). Independentemente da sua escolha, note que o Poder360 poderá lhe contatar para assuntos regulares. b) Caso não deseje oferecer o seu consentimento para as divulgações do Poder360, é possível seguir sem receber as informações assinaladas acima. Você poderá, a qualquer momento, se descadastrar de nossos contatos ou revogar o consentimento dado abaixo pelos nossos canais de atendimento. c) O Poder360 garantirá o exercício de quaisquer direitos e prerrogativas de proteção de dados pessoais em conformidade com a Lei 13.709/2018. Mais informações, leia nossa Política de Privacidade . O Poder360 enviou um e-mail para você confirmar a inscrição. Clique no link enviado para o seu e-mail para concluir o cadastro. Não chegou ainda? Dê uma olhada na caixa de spam se a mensagem não tiver aparecido em alguns minutos.",
+  "numeros": [
+   {
+    "valor": "R$ 4,8 milhões",
+    "rotulo": "limite de faturamento do Simples Nacional"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Incertezas sobre como se adaptar às novas leis fiscais",
+  "angulo": "Com as constantes mudanças tributárias, aprender a lidar com o mercado financeiro se torna essencial para manter a lucratividade sem depender apenas da escala de trabalho.",
+  "gancho": "Prepare sua empresa para as *mudanças tributárias agora*",
+  "ideias": [
+   "Desafios da reforma tributária para pequenas empresas",
+   "Adaptação às novas leis fiscais é crucial",
+   "Como se ajustar à mudança da escala de trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/pequenas-empresas-nao-estao-prontas-para-reforma-tributaria-diz-fenacon/",
+  "publicadoEm": "2026-11-02T06:00:49-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Desafios econômicos: ajuste fiscal ou programas sociais?",
+  "resumo": "As decisões econômicas impactam o futuro do Brasil. Entenda como isso afeta seu bolso e a necessidade de alternativas ao emprego tradicional.",
+  "fatos": [
+   "Brasil enfrenta alto endividamento privado e empresas em recuperação judicial.",
+   "O governo atual ampliou gastos sociais por meio de subsídios sem corte de despesas.",
+   "A relação dívida/PIB cresceu mais de dez pontos percentuais neste governo.",
+   "Despesas com saúde, educação e Previdência estão indexadas ao salário mínimo e à arrecadação.",
+   "Falta de diagnósticos e soluções políticas eficazes resulta em gastos sem benefícios relevantes."
+  ],
+  "explicacao": [
+   "Os problemas econômicos do Brasil exigem decisões urgentes para evitar agravar a situação fiscal até 2027.",
+   "Despesas públicas continuam a crescer, mesmo com a necessidade de ajustes fiscais.",
+   "Rever a vinculação das despesas e aumentar a eficiência das políticas públicas é essencial para o futuro econômico do país."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. Economista, ex-presidente do Insper, ex-secretÃ¡rio de PolÃ­tica EconÃ´mica do MinistÃ©rio da Fazenda (2003-2005, governo Lula) e colunista da Folha As escolhas de polÃ­tica econÃ´mica passaram a dominar o debate depois da eleiÃ§Ã£o. Existem sinais de problemas econÃ´micos Ã frente, como, por exemplo, o nÃºmero recorde de empresas em recuperaÃ§Ã£o judicial , o elevado endividamento privado e as graves dificuldades de algumas companhias em setores como varejo e agronegÃ³cio . As dificuldades se disseminam com o desequilÃ­brio das contas pÃºblicas e as altas taxas de juros . Os problemas devem se agravar em 2027, mas o tamanho da encrenca dependerÃ¡ das decisÃµes do governo jÃ¡ na transiÃ§Ã£o para o novo mandato. No debate, contudo, tÃªm sido criados espantalhos retÃ³ricos. Um exemplo Ã© o suposto dilema: ajuste fiscal ou preservar os programas sociais? Isso pode ser verdade em outros paÃ­ses, mas nÃ£o Ã© o nosso caso. A imensa maioria dos gastos pÃºblicos nÃ£o pode ser reduzida em razÃ£o de clÃ¡usulas pÃ©treas da nossa ConstituiÃ§Ã£o . NÃ£o se pode demitir servidores, diminuir seus salÃ¡rios ou suas aposentadorias, por exemplo, ou reduzir as transferÃªncias para estados e municÃ­pios. NÃ£o Ã© possÃ­vel realizar o ajuste fiscal com base no corte dos gastos com saÃºde , educaÃ§Ã£o ou PrevidÃªncia. O principal desajuste fiscal no Brasil Ã© o mandatÃ³rio crescimento recorrente de despesas pÃºblicas, em meio Ã distribuiÃ§Ã£o de novos benefÃ­cios para grupos de interesse. Recentemente, o governo concedeu subvenÃ§Ãµes para o consumo de gasolina e diesel, abriu mÃ£o de receita para privilÃ©gio da indÃºstria quÃ­mica, concedeu auxÃ­lio financeiro para tÃ¡xis , Ã´nibus e exportadores, entre dezenas de outras medidas. Antes disso, com a PEC da TransiÃ§Ã£o , em 2022, os gastos com saÃºde e educaÃ§Ã£o voltaram a ser vinculados a indicadores da receita do governo. Isso significa que aumentos de arrecadaÃ§Ã£o, seja pelo crescimento da economia , seja por novas regras de tributaÃ§Ã£o, devem ser, em parte, destinados ao aumento do gasto pÃºblico. Parcela relevante da PrevidÃªncia , a maior conta primÃ¡ria do governo federal, estÃ¡ indexada ao salÃ¡rio mÃ­nimo , que, por forÃ§a legal, cresce com a inflaÃ§Ã£o mais o crescimento real do PIB . Essa era a inconsistÃªncia do arcabouÃ§o fiscal, como documentei com Marcos Mendes e coautores no texto \"O algoritmo do gasto\" , na sequÃªncia do anÃºncio da medida. As regras a partir da PEC da TransiÃ§Ã£o implicavam que, qualquer que fosse o aumento de arrecadaÃ§Ã£o, o aumento das despesas obrigatÃ³rias iria comprimir as despesas discricionÃ¡rias e inviabilizar a polÃ­tica pÃºblica. A saÃ­da do governo foi introduzir, progressivamente, diversas brechas para viabilizar a expansÃ£o dos gastos fora do arcabouÃ§o. O resultado foi o crescimento da relaÃ§Ã£o dÃ­vida/PIB em mais de dez pontos percentuais neste governo. Equilibrar as contas pÃºblicas comeÃ§a por rever as regras que resultam no aumento recorrente desses gastos sociais, nÃ£o por reduzi-los. A diminuiÃ§Ã£o da sua taxa de crescimento para um Ã­ndice mais prÃ³ximo da inflaÃ§Ã£o ajudaria a reduzir a pressÃ£o sobre as contas pÃºblicas que resulta no crescente endividamento do governo, que contribui para as elevadas taxas de juros. Essa agenda implica retirar a vinculaÃ§Ã£o e a indexaÃ§Ã£o das despesas com saÃºde, educaÃ§Ã£o e PrevidÃªncia, que passariam a crescer a uma taxa menor e independente da arrecadaÃ§Ã£o. A revisÃ£o das distorÃ§Ãµes tributÃ¡ria",
+  "numeros": [
+   {
+    "valor": "10%",
+    "rotulo": "crescimento da relação dívida/PIB"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento de impostos e redução de serviços públicos essenciais",
+  "angulo": "Com as incertezas econômicas, adquirir conhecimento no mercado financeiro se torna uma alternativa viável para garantir a renda, sem depender apenas do salário mensal.",
+  "gancho": "Como se preparar para o *futuro econômico incerto?*",
+  "ideias": [
+   "Descomplicando a economia: o que vem por aí",
+   "Ajuste fiscal: como isso afeta seu dia a dia?",
+   "Garantindo sua renda em tempos de crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/preservar-o-social-ou-fazer-ajuste-fiscal-e-um-falso-dilema.shtml",
+  "publicadoEm": "2026-11-01T12:00:00-03:00",
+  "data": "2026-11-01",
+  "id": "2026-11-02-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impacto no bolso das prefeituras",
+  "resumo": "O fim da escala 6 x 1 pressiona prefeituras, aumentando custos com serviços terceirizados e comprometendo a qualidade do atendimento ao público.",
+  "fatos": [
+   "Sebastião Melo, prefeito de Porto Alegre, afirmou que a mudança aumentará os custos municipais com serviços essenciais.",
+   "O custo estimado para as prefeituras em todo o Brasil com a redução da jornada é de R$ 30 a 35 bilhões.",
+   "Cerca de R$ 20 bilhões desse impacto está relacionado a contratos terceirizados em áreas como saúde e transporte.",
+   "As prefeituras terão 12 meses para acabar com a escala 6 x 1, diferentemente de 60 dias aplicável a outras regras.",
+   "O aumento dos custos pode levar a um reajuste na passagem de ônibus em Porto Alegre, prevista para janeiro."
+  ],
+  "explicacao": [
+   "A redução da jornada de trabalho para 40 horas semanais promete aumentar os custos com a necessidade de mais contratações ou serviços reduzidos.",
+   "Prefeituras não dispõem de recursos para arcar com esses gastos, podendo comprometer a qualidade dos serviços municipais.",
+   "Essa situação pode levar a aumentos nas tarifas de transporte ou cortes em serviços públicos, afetando diretamente a população carente."
+  ],
+  "materia": "Prefeito de Porto Alegre afirma que redução da jornada vai afetar contratos municipais e pode comprometer a qualidade dos serviços O prefeito de Porto Alegre (RS) e presidente da FNP (Frente Nacional de Prefeitos), Sebastião Melo (MDB), afirmou que o fim da escala 6 X 1 vai aumentar os custos das prefeituras com serviços terceirizados, especialmente nas áreas de saúde, transporte, limpeza urbana e segurança. Segundo ele, a redução da jornada de trabalho exigirá a contratação de mais funcionários ou a diminuição da oferta de serviços públicos. Em entrevista ao Poder360 , Melo disse que os municípios não têm recursos disponíveis para absorver o aumento das despesas. Para o prefeito, a mudança poderá provocar a precarização dos serviços prestados à população, sobretudo aos cidadãos de baixa renda, que dependem mais diretamente do transporte público e dos equipamentos públicos de saúde e assistência social. “Não temos como pagar essa conta” , declarou. Segundo Melo, a FNP contratou uma consultoria para calcular os impactos da redução da jornada nas contas municipais. O 1º levantamento estimou um custo de R$ 35 bilhões para as prefeituras em todo o país. Com a previsão de uma etapa de transição para 42 horas semanais, o cálculo foi revisto para R$ 30 bilhões. O impacto voltaria a R$ 35 bilhões quando a jornada chegasse a 40 horas. O presidente da FNP afirmou que cerca de R$ 20 bilhões do impacto estimado estão relacionados aos contratos terceirizados. Isso ocorre porque parte dos serviços municipais é executada por empresas contratadas em licitações que consideravam a escala 6 X 1. Com a mudança nas regras trabalhistas , os prestadores poderão pedir o reequilíbrio econômico-financeiro dos contratos. As empresas que prestam serviços para prefeituras terão prazo de 12 meses, e não 60 dias como as demais, para acabar com a escala 6 x 1 dos empregados. Melo citou a limpeza urbana como exemplo dos efeitos da mudança. Em Porto Alegre, segundo ele, cerca de 3.500 trabalhadores atuam na coleta e na manutenção da limpeza da cidade, que tem aproximadamente 500 km² de extensão. Com a redução da jornada, a prefeitura terá de contratar mais funcionários para manter o mesmo nível de atendimento ou reduzir a quantidade de trabalhadores e, consequentemente, a qualidade do serviço. O mesmo raciocínio, afirmou, vale para o transporte público. A redução da jornada dos motoristas poderá exigir a contratação de mais profissionais para cumprir a programação das linhas de ônibus. O aumento dos custos poderá ser repassado à tarifa ou absorvido pelo orçamento municipal. Em Porto Alegre, a passagem de ônibus é reajustada em janeiro. Melo afirmou que o cálculo do próximo reajuste deverá considerar o impacto da mudança na jornada de trabalho. “Teremos uma passagem mais cara, fruto da escala 6 X 1” , declarou. O prefeito também mencionou os contratos de segurança privada, manutenção de prédios públicos, atendimento em equipamentos de saúde e assistência social, abrigos para pessoas em situação de rua e restaurantes populares. Segundo ele, todos esses serviços poderão sofrer alterações nos custos. O prefeito afirmou que ainda não há uma definição sobre quais serviços poderão sofrer cortes. Disse, porém, que a prefeitura não dispõe de recursos livres para cobrir as despesas adicionais e que não pretende aumentar impostos nem retirar verbas de áreas como saúde e educação. “Vai ter corte de serviço” , afirmou. Segundo ele, a margem de manobra do orçamento municipal é limitada porque grande parte dos recursos já está comprometida com despesas obrigatórias, contratos e repasses vinculados. Melo também afirmou que pretende informar a população caso haja redução na oferta de algum serviço. A prefeitura deverá utilizar painéis eletrônicos e relógios públicos para explicar os motivos das mudanças. O objetivo, segundo ele, é deixar claro que eventuais cortes ou aumentos de tarifas decorrem dos custos adicionais provocados pela redução da jornada. Melo afirmou que a FNP n",
+  "numeros": [
+   {
+    "valor": "35 bilhões",
+    "rotulo": "custo estimado para prefeituras"
+   },
+   {
+    "valor": "20 bilhões",
+    "rotulo": "custo com contratos terceirizados"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento nas tarifas e cortes em serviços essenciais",
+  "angulo": "Entender o cenário do mercado financeiro pode trazer alternativas para contornar os impactos da redução nos serviços públicos e gerir melhor sua renda.",
+  "gancho": "Como o *fim da escala 6x1* impacta sua vida?",
+  "ideias": [
+   "O que muda com o fim da escala 6x1?",
+   "Custos nas prefeituras: quem paga a conta?",
+   "Serviços essenciais em risco: entenda o impacto"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:39:06-03:00",
+  "url": "https://www.poder360.com.br/poder-congresso/fim-da-escala-6-x-1-pressiona-gasto-de-prefeituras-diz-sebastiao-melo/",
+  "publicadoEm": "2026-11-02T06:00:38-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Como a IA transforma decisões de compra e reputação",
   "resumo": "O avanço da inteligência artificial modifica a forma como consumidores escolhem produtos e fornecedores, exigindo novas estratégias de marketing e gestão de reputação para as empresas.",
   "fatos": [
@@ -10794,197 +11483,6 @@
  },
  {
   "segmento": "vpr",
-  "titulo": "Google Planilhas se aprimora com *gráficos de caixa*",
-  "resumo": "A nova funcionalidade de gráficos de caixa no Google Planilhas facilita a visualização de dados e melhora a compatibilidade com o Excel. A atualização promete impactar a análise de dados nos negócios.",
-  "fatos": [
-   "O Google Planilhas agora suporta gráficos de caixa, facilitando a visualização de dados.",
-   "Os gráficos calculam automaticamente mínimo, máximo, quartis, mediana, média e pontos fora da curva.",
-   "A atualização melhora a compatibilidade com Excel, preservando gráficos de caixa durante importação e exportação.",
-   "Esse recurso pode ser utilizado para analisar pesquisas, notas de estudantes e variações nas vendas.",
-   "A distribuição ocorrerá gradualmente, podendo levar até 15 dias para todos os usuários."
-  ],
-  "numeros": [
-   {
-    "valor": "15",
-    "rotulo": "dias para liberação total"
-   },
-   {
-    "valor": "6",
-    "rotulo": "data de início para domínios programados"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Profissionais liberais",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Perda de eficiência na análise de dados e tomadas de decisão",
-  "angulo": "A nova atualização do Google Planilhas demonstra como ferramentas adequadas podem transformar dados em insights, mostrando a importância de contar com tecnologia para gestão eficiente de informações.",
-  "gancho": "*Gráficos de caixa* revolucionam análise de dados",
-  "ideias": [
-   "Como gráficos de caixa podem ajudar seu negócio",
-   "5 dicas para usar Google Planilhas com eficiência",
-   "A importância de visualizar dados na sua empresa"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "celular",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-23T11:30:17-03:00",
-  "url": "https://canaltech.com.br/apps/google-planilhas-ganha-novo-visual-e-graficos-de-caixa-para-bater-de-frente-com-o-excel/",
-  "publicadoEm": "2026-10-22T18:04:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-23-vpr-07"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Vazamento de dados: como a segurança impacta negócios",
-  "resumo": "O megavazamento da Capcom expôs mais de 11 milhões de contas, evidenciando a importância da segurança digital. Empresas precisam estar atentas para evitar danos financeiros e reputacionais.",
-  "fatos": [
-   "A Capcom sofreu um megavazamento que expôs 11.774.247 contas.",
-   "Cibercriminosos tiveram acesso a e-mails e informações pessoais dos usuários.",
-   "A empresa registrou 196 trocas de senha não autorizadas após o incidente.",
-   "Após o vazamento, uma força-tarefa foi criada para investigar o problema.",
-   "O evento foi registrado na polícia e na Comissão Japonesa de Proteção às Informações Pessoais."
-  ],
-  "numeros": [
-   {
-    "valor": "11.774.247",
-    "rotulo": "contas expostas"
-   },
-   {
-    "valor": "196",
-    "rotulo": "trocas de senha não autorizadas"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Atendimento",
-  "publico": [
-   "Empresários",
-   "Indústria",
-   "Comércio local"
-  ],
-  "dor": "perda de clientes e danos à imagem da empresa",
-  "angulo": "A segurança digital é crucial para proteger informações e evitar prejuízos. Este caso destaca a necessidade de ter um bom planejamento e assessoria para mitigar riscos.",
-  "gancho": "A Capcom e o *perigo do vazamento de dados*",
-  "ideias": [
-   "O que o vazamento da Capcom ensina sobre segurança?",
-   "Como proteger sua empresa de vazamentos?",
-   "A importância da segurança digital para o seu negócio."
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-23T11:30:17-03:00",
-  "url": "https://canaltech.com.br/games/megavazamento-de-dados-na-capcom-tem-117-milhoes-de-contas-expostas/",
-  "publicadoEm": "2026-10-22T16:48:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-23-vpr-06"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Como a SportyNet se adapta ao TikTok?",
-  "resumo": "A SportyNet firmou parceria com o TikTok para transmitir jogos, ampliando suas transmissões esportivas. A estratégia busca engajar torcedores e diversificar canais de divulgação.",
-  "fatos": [
-   "A SportyNet começará a transmitir jogos das Séries B e C no TikTok a partir de 23 de setembro.",
-   "Os conteúdos incluirão pré-jogo, análise e cobertura extensiva após as partidas.",
-   "O acordo é parte da estratégia de aumentar a distribuição de suas transmissões esportivas."
-  ],
-  "numeros": [
-   {
-    "valor": "23",
-    "rotulo": "data de início das transmissões"
-   },
-   {
-    "valor": "19h45",
-    "rotulo": "horário do pré-jogo"
-   },
-   {
-    "valor": "21h",
-    "rotulo": "horário do início da partida"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Redes sociais",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Você perde oportunidades se não acompanha tendências de marketing.",
-  "angulo": "Com a nova parceria, é fundamental que empresas se atualizem nas redes sociais para não ficarem para trás, mostrando a importância de investir em marketing digital.",
-  "gancho": "*Aposte no marketing digital* para engajar!",
-  "ideias": [
-   "Como o TikTok impacta a transmissão de esportes?",
-   "Engaje sua audiência com conteúdo ao vivo!",
-   "Por que diversificar canais de marketing é essencial?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "funil",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-23T11:30:17-03:00",
-  "url": "https://canaltech.com.br/entretenimento/sportynet-fecha-acordo-com-tiktok-para-exibir-jogos-das-series-b-e-c/",
-  "publicadoEm": "2026-10-22T16:56:45-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-23-vpr-05"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Cuidado com as mudanças que afetam o seu negócio!",
-  "resumo": "Leis e a economia impactam diretamente suas vendas e equipe. Saiba como se adaptar!",
-  "fatos": [
-   "Novos filmes e séries, como Cyberpunk: Mercenários 2, geram interesse e discutem a narrativa de 2078 em Night City.",
-   "A corporação Arasaka enfrenta uma grande crise após eventos de Cyberpunk 2077, o que pode impactar a percepção de consumo.",
-   "A pesquisa e desenvolvimento de novas tecnologias, como os Psicófagos, pode influenciar como empresas se adaptam ao novo comportamento do consumidor.",
-   "Tendências de conteúdo e entretenimento são essenciais na construção de comunidades e fidelização de clientes alvo no varejo e no e-commerce.",
-   "Mudanças climáticas e novas legislações podem afetar diretamente a economia e o comportamento do consumidor."
-  ],
-  "numeros": [],
-  "fonte": "Canaltech",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Você pode perder clientes e vendas por falta de adaptação.",
-  "angulo": "Entender as tendências do mercado e o comportamento do consumidor é fundamental para garantir a competitividade do seu negócio.",
-  "gancho": "*Cuidado com as mudanças*, elas podem impactar seu lucro!",
-  "ideias": [
-   "Mudanças que afetam seu lucro!",
-   "Como se adaptar às novas tendências",
-   "A importância do planejamento para novas histórias"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-23T11:30:17-03:00",
-  "url": "https://canaltech.com.br/entretenimento/como-mercenarios-2-se-conecta-ao-universo-de-cyberpunk-2077/",
-  "publicadoEm": "2026-10-22T18:45:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-23-vpr-04"
- },
- {
-  "segmento": "vpr",
   "titulo": "Acelere sua segurança digital com IA!",
   "resumo": "O uso de inteligência artificial aumenta a descoberta de vulnerabilidades, encurtando prazos para correções. Empresários devem estar atentos às implicações para os negócios.",
   "fatos": [
@@ -11672,62 +12170,6 @@
  },
  {
   "segmento": "trader",
-  "titulo": "Superávit no Orçamento e suas consequências no seu bolso",
-  "resumo": "O superávit primário em 2027 deve seguir firme, refletindo na economia e no emprego. Entenda como isso pode afetar seu negócio ou renda.",
-  "fatos": [
-   "O ministro da Fazenda, Dario Durigan, afirma que o superávit primário de 2027 está mantido.",
-   "Entre as medidas previstas estão reajuste do Bolsa Família e redução de combustíveis.",
-   "Serão remanejados cerca de R$ 20 bilhões na Lei Orçamentária Anual de 2027.",
-   "O governo também planeja ações para regularização de dívidas de famílias e pequenas empresas.",
-   "As iniciativas buscam melhorar a arrecadação sem alterar as regras fiscais."
-  ],
-  "numeros": [
-   {
-    "valor": "200",
-    "rotulo": "bilhões em melhoria das contas públicas desde 2023"
-   },
-   {
-    "valor": "20",
-    "rotulo": "bilhões que serão remanejados na PLOA de 2027"
-   },
-   {
-    "valor": "90",
-    "rotulo": "por cento de desconto em dívidas pelo Desenrola"
-   }
-  ],
-  "fonte": "Agência Brasil Economia",
-  "categoria": "Negócios",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados"
-  ],
-  "dor": "medo de não conseguir lidar com aumentos nas despesas",
-  "angulo": "Aprender a operar no mercado financeiro pode aliviar a pressão da economia, permitindo gerar renda além do salário, sem depender das incertezas do emprego.",
-  "gancho": "Descubra como *a economia pode melhorar sua vida*",
-  "ideias": [
-   "Como o superávit afeta seu bolso?",
-   "Entenda as mudanças no Orçamento de 2027.",
-   "O que esperar da economia nos próximos anos?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-23T11:30:17-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previsao-de-superavit-no-orcamento-de-2027-esta-mantida-diz-durigan",
-  "publicadoEm": "2026-10-22T17:59:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-23-trader-12"
- },
- {
-  "segmento": "trader",
   "titulo": "Receita abre consulta ao lote residual do IRPF",
   "resumo": "A Receita Federal liberou consulta ao lote residual do Imposto de Renda, com R$ 531,6 milhões para 184.442 contribuintes. O pagamento ocorre em 30 de outubro.",
   "fatos": [
@@ -11824,47 +12266,6 @@
   "publicadoEm": "2026-10-23T11:24:03-03:00",
   "data": "2026-10-23",
   "id": "2026-10-23-trader-10"
- },
- {
-  "segmento": "trader",
-  "titulo": "Mudanças no Open Finance: mais segurança e transparência",
-  "resumo": "O CMN e o BC atualizaram as regras do Open Finance, aumentando a segurança no compartilhamento de dados. Essas mudanças visam beneficiar tanto pessoas físicas quanto jurídicas, especialmente empresas.",
-  "fatos": [
-   "As novas regras permitem um controle maior dos clientes sobre seus dados financeiros.",
-   "Entre as mudanças, está a exigência de consentimento específico para cada empresa parceira.",
-   "O Open Finance facilita o acesso a serviços financeiros adequados ao perfil do cliente.",
-   "As alterações buscam aumentar a concorrência entre bancos e fintechs.",
-   "A expectativa é que um ambiente com regras mais claras contribua para modernizar o Sistema Financeiro Nacional."
-  ],
-  "numeros": [],
-  "fonte": "Agência Brasil Economia",
-  "categoria": "Negócios",
-  "publico": [
-   "Empresários",
-   "Profissionais liberais",
-   "Autônomos"
-  ],
-  "dor": "medo da insegurança na gestão financeira",
-  "angulo": "Entender o Open Finance te coloca à frente no mercado, facilitando decisões financeiras sem amarras tradicionais.",
-  "gancho": "Descubra como *as regras do Open Finance mudam tudo*",
-  "ideias": [
-   "Open Finance: segurança para seu negócio?",
-   "Entenda as novas regras do Open Finance",
-   "Como o Open Finance pode impulsionar sua empresa"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-23T11:30:17-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance",
-  "publicadoEm": "2026-10-22T20:03:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-23-trader-09"
  },
  {
   "segmento": "trader",
@@ -12187,61 +12588,6 @@
  },
  {
   "segmento": "trader",
-  "titulo": "Desenrola 3.0: uma nova chance para dívidas",
-  "resumo": "O governo inicia a terceira fase do Desenrola, que poderá beneficiar devedores com renegociação facilitada. As instituições financeiras devem informar as dívidas que desejam renegociar nos próximos dias.",
-  "fatos": [
-   "Instituições financeiras têm cinco dias úteis para informar as dívidas a serem renegociadas.",
-   "O governo estima que R$ 90 bilhões em dívidas possam ser apresentadas nesta fase do Desenrola 3.0.",
-   "O custo máximo de compra das dívidas seria de R$ 9 bilhões, com desconto mínimo de 90%.",
-   "O programa visa favorecer devedores de baixa renda e microempreendedores individuais (MEIs).",
-   "Após o leilão, dívidas adquiridas poderão ser renegociadas com repasse dos descontos obtidos."
-  ],
-  "numeros": [
-   {
-    "valor": "90 bilhões",
-    "rotulo": "dívidas estimadas a serem apresentadas"
-   },
-   {
-    "valor": "9 bilhões",
-    "rotulo": "custo máximo da compra de dívidas"
-   },
-   {
-    "valor": "90%",
-    "rotulo": "desconto mínimo exigido pelo programa"
-   }
-  ],
-  "fonte": "Agência Brasil Economia",
-  "categoria": "Negócios",
-  "publico": [
-   "CLT",
-   "Autônomos",
-   "Profissionais liberais",
-   "Aposentados"
-  ],
-  "dor": "medo de não conseguir renegociar dívidas e piorar a situação financeira",
-  "angulo": "Aprender sobre o mercado financeiro pode ajudar você a encontrar formas de renda além das amarras tradicionais, como os empregos fixos.",
-  "gancho": "Renegociação de dívidas: *oportunidade para recomeçar*",
-  "ideias": [
-   "Como o Desenrola 3.0 pode te ajudar?",
-   "Três dicas para renegociar suas dívidas",
-   "Aprenda a investir e escapar das dívidas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "imposto",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-23T11:30:17-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/portaria-convoca-instituicoes-financeiras-para-3a-fase-do-desenrola",
-  "publicadoEm": "2026-10-22T22:04:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-23-trader-02"
- },
- {
-  "segmento": "trader",
   "titulo": "Inflação de serviços afeta seu bolso e negócios",
   "resumo": "Com a inflação de serviços em alta, muitos enfrentam dificuldades financeiras. O cenário limita os cortes de juros e aumenta a pressão no mercado de trabalho.",
   "fatos": [
@@ -12294,900 +12640,5 @@
   "publicadoEm": "2026-10-23T11:27:10-03:00",
   "data": "2026-10-23",
   "id": "2026-10-23-trader-01"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Uber expande modo *Electric* para novas cidades brasileiras",
-  "resumo": "A Uber anunciou a chegada do modo Electric a mais 11 cidades no Brasil. Essa modalidade prioriza corridas com carros 100% elétricos, promovendo a sustentabilidade.",
-  "fatos": [
-   "O modo Electric da Uber agora está disponível em 15 cidades brasileiras.",
-   "As novas cidades que receberam a modalidade incluem Belo Horizonte, Campinas, e Salvador.",
-   "O modo Electric oferece corridas com carros 100% elétricos e possui tarifa acima do modo UberX.",
-   "O app agora conta com o recurso “Preferências de partida” para facilitar a identificação dos motoristas."
-  ],
-  "numeros": [
-   {
-    "valor": "15",
-    "rotulo": "cidades com modo Electric"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Consumo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perder competitividade em um mercado sustentável",
-  "angulo": "A expansão do modo Electric da Uber destaca como a sustentabilidade pode influenciar o comportamento do consumidor e o mercado, mostrando a importância de estar preparado para essas mudanças.",
-  "gancho": "Uber e o futuro *sustentável* das corridas",
-  "ideias": [
-   "Como a sustentabilidade impacta seus negócios?",
-   "A corrida do futuro é elétrica!",
-   "Seu negócio está preparado para a inovação sustentável?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://canaltech.com.br/apps/uber-leva-modo-com-carros-eletricos-para-mais-cidades-brasileiras-saiba-quais/",
-  "publicadoEm": "2026-10-22T16:12:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-18"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Mudanças na Ambev exigem novas estratégias de marketing",
-  "resumo": "A Ambev reestrutura sua área de bebidas e foca nos não-alcoólicos, o que impacta diretamente a maneira como o varejo deve se adaptar e comunicar suas ofertas. A falta de adaptação pode custar vendas.",
-  "fatos": [
-   "Daniela Cachich passou a ser a presidente de não-alcoólicos na Ambev.",
-   "Fabricio Zonzini se tornou vice-presidente da Beyond Beer, cuidando das marcas alcoólicas.",
-   "O foco em não-alcoólicos reflete uma mudança significativa na estratégia da empresa."
-  ],
-  "numeros": [],
-  "fonte": "Meio & Mensagem",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Medo de perder vendas para concorrentes mais adaptados.",
-  "angulo": "As mudanças na Ambev mostram a necessidade de uma estratégia de marketing moderna e ágil, essencial para se manter relevante e competitivo no mercado.",
-  "gancho": "Prepare-se para *as novas demandas do consumidor*!",
-  "ideias": [
-   "Ambev muda estratégia: o que isso significa para você?",
-   "Focar nos não-alcoólicos: aprenda a se adaptar!",
-   "Seu negócio está pronto para as mudanças de mercado?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://www.meioemensagem.com.br/gente/acontece-no-meio/daniela-cachich-passa-a-focar-nos-nao-alcoolicos-da-ambev",
-  "publicadoEm": "2026-10-22T17:13:14-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-17"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Walmart avança com IA enquanto Amazon bloqueia agentes",
-  "resumo": "O Walmart inova com ferramentas para integração de agentes de IA, enquanto a Amazon enfrenta bloqueios. Essa dinâmica mostra a necessidade de adaptação no varejo digital e atendimento ao consumidor.",
-  "fatos": [
-   "Amazon bloqueou agentes de IA, proibindo compras automatizadas em seu site.",
-   "Walmart anunciou três iniciativas para integrar agentes de IA, focando na conveniência e transparência.",
-   "Os Perfis de Agentes do Walmart permitirão controle sobre compras realizadas por IA.",
-   "O Walmart Agent Gateway padroniza como agentes e IA se conectam a dados e sistemas.",
-   "As primeiras funcionalidades de integração serão disponibilizadas já no próximo mês."
-  ],
-  "numeros": [],
-  "fonte": "Meio & Mensagem",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Empresas perdem vendas ao não se adaptarem a novas tecnologias.",
-  "angulo": "A evolução no uso de IA no varejo destaca a importância de modernizar canais de venda, sugerindo que empresas invistam em gestão digital e automação para não ficarem para trás.",
-  "gancho": "Walmart avança e Amazon *enfrenta bloqueios*!",
-  "ideias": [
-   "Como a IA pode transformar seu varejo",
-   "Não fique para trás: adapte-se ao digital",
-   "O futuro das vendas está nas mãos da IA"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://www.meioemensagem.com.br/marketing/enquanto-amazon-faz-bloqueios-walmart-avanca-com-agentes",
-  "publicadoEm": "2026-10-22T17:57:36-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-16"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Entenda como o 6G pode impactar seu negócio",
-  "resumo": "A Anatel debate o leilão das frequências para o 6G, mas as operadoras pedem cautela. Essa situação pode influenciar o planejamento do seu marketing digital.",
-  "fatos": [
-   "A Anatel quer leiloar a faixa de 6 GHz em 2028 para o 6G.",
-   "Operadoras argumentam que a padronização do 6G deve avançar até 2028 ou 2029.",
-   "A consulta pública sobre o tema continua até 7 de dezembro, permitindo contribuições da sociedade.",
-   "O leilão do 5G movimentou cerca de R$ 47,2 bilhões, sendo 85% em compromissos de infraestrutura.",
-   "85% dos usuários afirmaram que o 5G não alterou seu consumo de dados móveis."
-  ],
-  "numeros": [
-   {
-    "valor": "85",
-    "rotulo": "percentual de usuários que notaram pouca mudança com o 5G"
-   },
-   {
-    "valor": "47,2 bilhões",
-    "rotulo": "valor movimentado pelo leilão do 5G"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Redes sociais",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Perder oportunidades de inovação e competitividade no mercado",
-  "angulo": "A falta de adaptação às novas tecnologias pode limitar o crescimento do seu negócio. Considere investir em um site e gestão de tráfego para não ficar para trás.",
-  "gancho": "O futuro do 6G e *o impacto no seu",
-  "ideias": [
-   "Prepare seu negócio para o 6G",
-   "O impacto do 5G nas vendas",
-   "Como a tecnologia afeta o varejo?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "funil",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://canaltech.com.br/telecom/anatel-ja-planeja-6g-no-brasil-mas-operadoras-querem-pisar-no-freio/",
-  "publicadoEm": "2026-10-22T11:43:47-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-15"
- },
- {
-  "segmento": "vpr",
-  "titulo": "IA criativa invade o espaço das agências de publicidade",
-  "resumo": "Plataformas de IA estão assumindo funções que antes eram exclusivas das agências de marketing, impactando diretamente os negócios. Entenda como isso afeta sua empresa.",
-  "fatos": [
-   "Ferramentas como Canva e Figma estão ampliando operações para além da criação, oferecendo serviços de publicação e análise de anúncios.",
-   "O Canva Grow permite que pequenas empresas adiem a contratação de agências, concentrando atividades de marketing em uma única plataforma.",
-   "Produção de anúncios com IA pode reduzir custos por lead em até 71% em comparação com métodos tradicionais.",
-   "O tempo de produção de anúncios pode cair de 6-8 horas para apenas 15-30 minutos com o uso de IA.",
-   "A Runway aumentou sua produção de anúncios de 77 para 900 por semana utilizando IA.",
-   "Se adaptar às novas ferramentas de IA é crucial para acompanhar a demanda de conteúdo nas plataformas digitais."
-  ],
-  "numeros": [
-   {
-    "valor": "90",
-    "rotulo": "percentual de redução no tempo de produção"
-   },
-   {
-    "valor": "71",
-    "rotulo": "redução no custo por lead"
-   },
-   {
-    "valor": "900",
-    "rotulo": "anúncios gerados pela Runway por semana"
-   }
-  ],
-  "fonte": "Meio & Mensagem",
-  "categoria": "Anúncios",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Indústria",
-   "Prestadores de serviço"
-  ],
-  "dor": "Perda de espaço no mercado para concorrentes mais modernos",
-  "angulo": "Investir em automação e gestão de marketing é fundamental para não ficar para trás diante da evolução das ferramentas digitais.",
-  "gancho": "Descubra como *a IA está mudando o marketing*",
-  "ideias": [
-   "O que a IA pode fazer pelo seu negócio?",
-   "Como se adaptar às novas ferramentas de marketing?",
-   "O futuro das agências de publicidade com IA"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://www.meioemensagem.com.br/comunicacao/plataformas-de-ia-criativa-tiram-espaco-das-agencias",
-  "publicadoEm": "2026-10-22T18:06:07-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-14"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Desperdício: um custo invisível que afeta negócios",
-  "resumo": "O desperdício em empresas se tornou um custo significativo que impacta diretamente a lucratividade. É essencial entender como otimizar processos e produtos para evitar perdas financeiras.",
-  "fatos": [
-   "O desperdício é um dos maiores custos invisíveis dentro das organizações.",
-   "Apenas 6,9% dos materiais consumidos globalmente retornam para a economia por reaproveitamento.",
-   "No Brasil, apenas cerca de 4% dos resíduos sólidos gerados são reciclados.",
-   "Práticas eficazes podem levar a recuperação de valor e novas oportunidades econômicas.",
-   "Consumidores buscam produtos que ofereçam durabilidade e soluções completas ao longo do uso."
-  ],
-  "numeros": [
-   {
-    "valor": "6,9",
-    "rotulo": "% de materiais reaproveitados globalmente"
-   },
-   {
-    "valor": "4",
-    "rotulo": "% de resíduos reciclados no Brasil"
-   }
-  ],
-  "fonte": "Meio & Mensagem",
-  "categoria": "Consumo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais"
-  ],
-  "dor": "Temor de perder valor e lucratividade por desperdício",
-  "angulo": "Com a crescente pressão por margens reduzidas, compreender a importância da otimização em processos e oferecer valor adicional ao consumidor se torna vital para o sucesso da empresa.",
-  "gancho": "Desperdício: um *custo oculto* que impacta seus lucros",
-  "ideias": [
-   "Como o desperdício afeta seu negócio?",
-   "Recuperando valor: estratégias contra o desperdício",
-   "Práticas de otimização que melhoram seus resultados"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://www.meioemensagem.com.br/womentowatch/desperdicio-e-um-dos-custos-mais-caros-para-empresas",
-  "publicadoEm": "2026-10-22T13:33:16-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-13"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Impactos da IA: prejuízos de R$ 405 bilhões na Anthropic",
-  "resumo": "A Anthropic, criadora da IA Claude, registrou prejuízo significativo, levantando preocupação sobre investimentos no setor. Isso destaca a importância de um marketing eficaz para empresas de tecnologia.",
-  "fatos": [
-   "A Anthropic apresentou prejuízo líquido de US$ 80,7 bilhões no primeiro semestre de 2026.",
-   "A empresa gastou cerca de US$ 9 bilhões em infraestrutura e processamento nos primeiros seis meses de 2026.",
-   "O faturamento da Anthropic cresceu para US$ 16,3 bilhões no mesmo período, um aumento significativo em comparação com 2025."
-  ],
-  "numeros": [
-   {
-    "valor": "405",
-    "rotulo": "milhões de reais em prejuízo"
-   },
-   {
-    "valor": "80,7",
-    "rotulo": "bilhões de dólares em prejuízo"
-   },
-   {
-    "valor": "16,3",
-    "rotulo": "bilhões de dólares em faturamento"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Profissionais liberais"
-  ],
-  "dor": "perda de competitividade no mercado tecnológico",
-  "angulo": "Os desafios financeiros da Anthropic devem fazer os empresários refletirem sobre a importância de uma estratégia de marketing digital robusta para se destacar.",
-  "gancho": "Entenda como *prejuízos bilionários* afetam o mercado",
-  "ideias": [
-   "O impacto da autonomia financeira na sua empresa",
-   "Como a IA pode transformar seu negócio",
-   "Estratégias de marketing em tempos de crise"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://canaltech.com.br/mercado/bolha-anthropic-expoe-rombo-de-r-400-bilhoes-as-vesperas-de-abrir-capital-na-bolsa/",
-  "publicadoEm": "2026-10-22T08:03:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-12"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Reforma tributária e os pequenos negócios: desmistificando a questão",
-  "resumo": "Entenda como a reforma tributária impacta os pequenos negócios e a importância de se adaptar a novas leis fiscais.",
-  "fatos": [
-   "A reforma tributária visa simplificar o sistema de impostos e facilitar a vida dos empreendedores.",
-   "Mudanças nas leis podem afetar diretamente a lucratividade e a operação de pequenos negócios.",
-   "É essencial que os empresários se informem e se preparem para as transformações fiscais."
-  ],
-  "numeros": [],
-  "fonte": "Agência Sebrae de Notícias",
-  "categoria": "Leis e economia",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais"
-  ],
-  "dor": "perda de receitas e clientes por falta de adaptação",
-  "angulo": "Compreender as implicações da reforma tributária pode ajudar seu negócio a se adaptar a novas demandas e alavancar vendas.",
-  "gancho": "Entenda *como a reforma pode afetar* seu negócio",
-  "ideias": [
-   "Reforma tributária: o que muda para você?",
-   "Pequenos negócios e a nova lei tributária",
-   "Prepare seu negócio para a reforma tributária"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T16:40:41-03:00",
-  "url": "https://www.google.com/search?q=Sebrae+desmistifica+reforma+tribut%C3%A1ria+para+os+pequenos+neg%C3%B3cios+Ag%C3%AAncia+Sebrae+de+Not%C3%ADcias",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-22T16:24:48-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-11"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Governança deficiente impede uso da inteligência artificial",
-  "resumo": "Empresas enfrentam dificuldades em implementar inteligência artificial devido à falta de governança. Isso pode impactar negativamente suas operações e vendas.",
-  "fatos": [
-   "A falta de governança é um dos principais entraves para a adoção da inteligência artificial nas empresas.",
-   "Essa questão pode travar a modernização e a competitividade no mercado.",
-   "As empresas que não se adaptarem a essas novas tecnologias poderão enfrentar perdas significativas."
-  ],
-  "numeros": [],
-  "fonte": "Confederação Nacional de Dirigentes Lojistas",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria",
-   "Restaurantes"
-  ],
-  "dor": "perder competitividade e vendas para a concorrência",
-  "angulo": "A falta de uma boa governança pode impedir sua empresa de adotar soluções de inteligência artificial, que são essenciais para se manter competitivo no mercado atual.",
-  "gancho": "Por que sua empresa *não pode ignorar a IA?*",
-  "ideias": [
-   "Governança: O que você precisa saber",
-   "Como a IA pode transformar seu negócio?",
-   "Inteligência artificial: O futuro é agora!"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T16:40:41-03:00",
-  "url": "https://www.google.com/search?q=Falta+de+governan%C3%A7a+trava+o+retorno+da+intelig%C3%AAncia+artificial+nas+empresas+Confedera%C3%A7%C3%A3o+Nacional+de+Dirigentes+Lojistas",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-22T16:09:23-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-10"
- },
- {
-  "segmento": "vpr",
-  "titulo": "5 tendências da China que podem impactar seu negócio",
-  "resumo": "Novas tecnologias, como robôs e motos elétricas, estão se tornando tendências importantes que podem chegar ao Brasil. Preste atenção nas inovações que podem transformar o mercado.",
-  "fatos": [
-   "A China é conhecida por sua inovação tecnológica em diversos setores.",
-   "Robôs e motos elétricas estão entre as principais inovações emergentes.",
-   "Essas tendências podem mudar profundamente o cenário de negócios no Brasil."
-  ],
-  "numeros": [],
-  "fonte": "URB News",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria"
-  ],
-  "dor": "perder competitividade diante das inovações no mercado",
-  "angulo": "Ficar atento às tendências internacionais é crucial para adaptar-se e se destacar em um mercado em constante evolução. Conheça nossos serviços para se preparar.",
-  "gancho": "Descubra como *tendências da China* podem impactar você",
-  "ideias": [
-   "A importância de staying updated com inovações",
-   "Como a tecnologia pode otimizar seu negócio",
-   "Robôs e IA: O que você precisa saber"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "alta",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T16:40:41-03:00",
-  "url": "https://www.google.com/search?q=Rob%C3%B4s%2C+motos+el%C3%A9tricas+e+IA%3A+especialista+lista+5+tend%C3%AAncias+da+China+que+podem+chegar+ao+Brasil+URB+News",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-22T16:17:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-09"
- },
- {
-  "segmento": "vpr",
-  "titulo": "E-commerce e caminhões: o futuro das montadoras",
-  "resumo": "O e-commerce está mudando a forma como os caminhões são vendidos e a estratégia das montadoras. As empresas precisam se adaptar a essa nova realidade.",
-  "fatos": [
-   "As vendas online estão transformando o mercado de caminhões.",
-   "Estratégias de montadoras evoluem para atender à demanda digital.",
-   "Adaptação ao e-commerce é crucial para a sobrevivência das empresas."
-  ],
-  "numeros": [],
-  "fonte": "Automotive Business",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Indústria"
-  ],
-  "dor": "perder competitividade e espaço no mercado",
-  "angulo": "As montadoras que não se adaptam ao e-commerce podem ficar para trás, reforçando a importância de uma boa presença digital.",
-  "gancho": "Confira como *o e-commerce transforma negócios*",
-  "ideias": [
-   "Caminhões são vendidos online: o que isso significa?",
-   "O e-commerce virou o jogo para montadoras!",
-   "Está sua empresa pronta para o e-commerce?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T16:40:41-03:00",
-  "url": "https://www.google.com/search?q=E-commerce+redefine+caminh%C3%B5es+e+estrat%C3%A9gia+das+montadoras+Automotive+Business",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-22T16:21:28-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-08"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Meta lucra US$ 64,6 bilhões e movimenta mercado",
-  "resumo": "O lucro da Meta destaca a importância do investimento em tecnologia e inteligência artificial, impactando diretamente o desempenho das empresas. Uma gestão eficaz pode ser a chave para o sucesso.",
-  "fatos": [
-   "A Meta superou as expectativas, com lucro de US$ 64,6 bilhões no terceiro trimestre, um aumento de 26% em relação ao ano anterior.",
-   "Os resultados são atribuídos ao avanço em inteligência artificial, com a empresa atenta ao controle de despesas, que totalizaram US$ 51,6 bilhões no mesmo período.",
-   "A receita do quarto trimestre é projetada entre US$ 73 bilhões e US$ 76 bilhões, com realocação de investimentos para áreas prioritárias.",
-   "A empresa também enfrenta processos judiciais que impactam seus resultados financeiros devido a ações relacionadas à saúde mental e ao caso Cambridge Analytica."
-  ],
-  "numeros": [
-   {
-    "valor": "64,6",
-    "rotulo": "bilhões de dólares em lucro"
-   },
-   {
-    "valor": "26",
-    "rotulo": "por cento de aumento em relação ao ano anterior"
-   },
-   {
-    "valor": "51,6",
-    "rotulo": "bilhões de dólares em despesas"
-   }
-  ],
-  "fonte": "Meio & Mensagem",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria",
-   "Restaurantes"
-  ],
-  "dor": "deixar de crescer por falta de inovação e tecnologia",
-  "angulo": "Investir em tecnologia como a Meta é essencial para permanecer competitivo no mercado e evitar perdas. Um planejamento estratégico pode levar o seu negócio ao próximo nível.",
-  "gancho": "Descubra como a *tecnologia transforma negócios*!",
-  "ideias": [
-   "Seus lucros podem crescer como os da Meta",
-   "Entenda a importância da IA para seu negócio",
-   "Como a tecnologia pode evitar perdas financeiras?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T16:40:41-03:00",
-  "url": "https://www.meioemensagem.com.br/midia/meta-tem-lucro-de-us-646-bilhoes-no-terceiro-trimestre",
-  "publicadoEm": "2026-10-22T12:58:23-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-06"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Black Friday demanda presença online para vendas.",
-  "resumo": "Sites de ofertas dominam buscas por promoções nesta Black Friday. O empresário precisa se adaptar ao comportamento do consumidor para não perder vendas.",
-  "fatos": [
-   "Nesta Black Friday, a busca por sites de ofertas cresce exponencialmente.",
-   "O comportamento do consumidor está cada vez mais digital.",
-   "Empresários que não investirem em marketing online poderão ficar para trás."
-  ],
-  "numeros": [],
-  "fonte": "E-Commerce Brasil",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perder vendas e clientes para concorrentes online.",
-  "angulo": "A necessidade de um site bem estruturado e gestão de tráfego pago é crucial para aproveitar as oportunidades da Black Friday.",
-  "gancho": "Aproveite a Black Friday: *esteja online!*",
-  "ideias": [
-   "Como se preparar para a Black Friday?",
-   "A importância do e-commerce na Black Friday.",
-   "Dicas para otimizar seu site para vendas."
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T11:43:18-03:00",
-  "url": "https://www.google.com/search?q=Black+Friday+2026%3A+sites+de+ofertas+lideram+busca+por+promo%C3%A7%C3%B5es+E-Commerce+Brasil",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-22T11:30:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-05"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Mastercard apoia PMEs no Brasil com novas estratégias",
-  "resumo": "Com 24 milhões de pequenos negócios, a Mastercard lança iniciativas para apoiar sua evolução. A digitalização e a cibersegurança ganham destaque entre as prioridades do segmento.",
-  "fatos": [
-   "Existem mais de 24 milhões de pequenos negócios ativos no Brasil, representando 96% das empresas do País.",
-   "Essas PMEs respondem por 26,5% do PIB nacional, segundo dados do Sebrae.",
-   "77% das PMEs brasileiras consideram a cibersegurança uma prioridade e 89% buscam mais ferramentas digitais.",
-   "69% preferem aprofundar relacionamentos com clientes em vez de conquistar novos.",
-   "A Mastercard lança a campanha global Dreams, focada em histórias de pequenos negócios."
-  ],
-  "numeros": [
-   {
-    "valor": "24 milhões",
-    "rotulo": "pequenos negócios no Brasil"
-   },
-   {
-    "valor": "26,5%",
-    "rotulo": "do PIB nacional"
-   },
-   {
-    "valor": "77%",
-    "rotulo": "PMEs que priorizam cibersegurança"
-   }
-  ],
-  "fonte": "Meio & Mensagem",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perda de oportunidades em um mercado competitivo",
-  "angulo": "As iniciativas da Mastercard mostram a necessidade de adaptação no mercado, criando um ambiente propício para empresas que buscam crescer com estratégias de marketing eficazes.",
-  "gancho": "Expanda seu *negócio com a Mastercard*",
-  "ideias": [
-   "Como a cibersegurança pode alavancar seu negócio",
-   "A importância da digitalização para pequenas empresas",
-   "Conquiste clientes fiéis antes de novos"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T11:43:18-03:00",
-  "url": "https://www.meioemensagem.com.br/marketing/mastercard-amplia-estrategia-para-pmes-no-brasil",
-  "publicadoEm": "2026-10-22T06:00:25-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-04"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Por que atualizar seu site é tão importante?",
-  "resumo": "Recentes falhas graves no PHP mostram a vulnerabilidade que pode afetar as vendas. Nesse contexto, a manutenção adequada de sites se torna essencial para evitar prejuízos.",
-  "fatos": [
-   "Duas falhas graves no PHP levaram governos e empresas a tirar sites do ar.",
-   "O PHP é utilizado por 69,3% dos sites cuja linguagem de servidor é conhecida.",
-   "As vulnerabilidades receberam nota 9,2 de 10 em gravidade e podem permitir execução de comandos maliciosos.",
-   "Muitos negócios dependem de aplicações criadas há 10 ou 15 anos, que podem ter problemas de segurança se não atualizadas.",
-   "Sistemas antigos podem acumular dependências que dificultam a manutenção e atualização necessária."
-  ],
-  "numeros": [
-   {
-    "valor": "69,3",
-    "rotulo": "% de sites que usam PHP"
-   },
-   {
-    "valor": "9,2",
-    "rotulo": "nota em gravidade das vulnerabilidades"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria",
-   "Restaurantes"
-  ],
-  "dor": "perder vendas e clientes devido a falhas no site",
-  "angulo": "As falhas recentes no PHP ressaltam a necessidade de manter os sites atualizados e seguros, evitando assim perturbações que podem afetar o seu negócio.",
-  "gancho": "Atualize seu site antes que seja tarde!",
-  "ideias": [
-   "Você conhece os riscos de um site desatualizado?",
-   "PHP em alta: seus impactos no seu negócio",
-   "Saiba como evitar vendas perdidas por falhas na tecnologia"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T11:43:18-03:00",
-  "url": "https://canaltech.com.br/seguranca/por-que-quase-70-dos-sites-usam-php-linguagem-que-provocou-alerta-mundial/",
-  "publicadoEm": "2026-10-22T07:30:02-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-02"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Explore ROI com o Google Marketing Platform Drop",
-  "resumo": "O Google Marketing Platform Drops traz novidades para aumentar seu ROI em toda a jornada do cliente. Acompanhe e descubra como melhorar sua performance.",
-  "fatos": [
-   "Google Marketing Platform Drops é uma nova série mensal que oferece novidades relevantes.",
-   "O foco é ajudar empresários a obter o melhor ROI.",
-   "As atualizações abrangem desde a construção de consciência até a conversão em vendas."
-  ],
-  "numeros": [],
-  "fonte": "Google Blog",
-  "categoria": "Anúncios",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perda financeira devido à falta de eficiência em anúncios",
-  "angulo": "A nova série do Google apresenta estratégias que podem transformar o seu marketing, mas você precisa estar preparado para se adaptar e implementar essas soluções.",
-  "gancho": "Melhore seu ROI com *novas estratégias*",
-  "ideias": [
-   "O que é o Google Marketing Platform Drops?",
-   "Como maximizar seu ROI com anúncios?",
-   "Dicas para impulsionar vendas online"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T11:43:18-03:00",
-  "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
-  "publicadoEm": "2026-10-22T10:00:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-vpr-01"
- },
- {
-  "segmento": "trader",
-  "titulo": "MEI pode faturar mais e contratar mais",
-  "resumo": "Mudanças para o MEI permitirão maior faturamento e a contratação de funcionários, facilitando a vida de pequenos empreendedores. Essa é uma oportunidade de crescer e diversificar a renda.",
-  "fatos": [
-   "O teto de faturamento do MEI será elevado para até R$ 140 mil por ano.",
-   "Agora, o MEI poderá contratar até dois funcionários.",
-   "Essas mudanças têm como objetivo estimular a formalização e o crescimento dos pequenos negócios."
-  ],
-  "numeros": [
-   {
-    "valor": "140000",
-    "rotulo": "faturamento anual permitido ao MEI"
-   },
-   {
-    "valor": "2",
-    "rotulo": "número de funcionários que o MEI pode contratar"
-   }
-  ],
-  "fonte": "Paraíba Business",
-  "categoria": "Negócios",
-  "publico": [
-   "Autônomos",
-   "Profissionais liberais"
-  ],
-  "dor": "preocupação com a formalização e limites de crescimento",
-  "angulo": "Conhecer o mercado financeiro pode ser a chave para diversificar sua renda e crescer, mesmo sendo MEI. Aprenda a trabalhar suas finanças e a investir.",
-  "gancho": "Aumente seu faturamento: *MEI pode faturar mais!*",
-  "ideias": [
-   "Como o MEI pode crescer?",
-   "O que muda no MEI?",
-   "Dicas para MEIs investirem"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://www.google.com/search?q=MEI+poder%C3%A1+faturar+at%C3%A9+R%24+140+mil+por+ano+e+contratar+dois+funcion%C3%A1rios+Para%C3%ADba+Business",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-22T20:30:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-trader-03"
- },
- {
-  "segmento": "trader",
-  "titulo": "Nova lei beneficia microempreendedores brasileiros",
-  "resumo": "A Lei Complementar 238 sancionada amplia o faturamento dos MEIs e perdoa dívidas. Uma mudança que pode aliviar financeiramente muitos empreendedores.",
-  "fatos": [
-   "Foi sancionada a Lei Complementar 238 em 21 de setembro.",
-   "O teto de faturamento do MEI aumentará de R$ 81 mil para R$ 110 mil em 2027.",
-   "Em 2028, o limite chegará a R$ 140 mil.",
-   "A lei prevê o perdão de dívidas com a União até 13 de outubro de 2026."
-  ],
-  "numeros": [
-   {
-    "valor": "81 mil",
-    "rotulo": "teto de faturamento atual do MEI"
-   },
-   {
-    "valor": "110 mil",
-    "rotulo": "novo teto de faturamento em 2027"
-   },
-   {
-    "valor": "140 mil",
-    "rotulo": "novo teto de faturamento em 2028"
-   }
-  ],
-  "fonte": "Agência Senado",
-  "categoria": "Negócios",
-  "publico": [
-   "Autônomos",
-   "Empresários",
-   "Profissionais liberais"
-  ],
-  "dor": "medo de dívidas elevadas e teto de faturamento baixo",
-  "angulo": "Com essas mudanças, os microempreendedores podem ter mais margem para expandir seus negócios. Aprender sobre o mercado financeiro pode ser um diferencial para administrar essa nova realidade.",
-  "gancho": "Descubra *como crescer* após a nova lei",
-  "ideias": [
-   "Como a nova lei pode ajudar seu negócio",
-   "Microempreendedores: aproveite as novas oportunidades",
-   "Perdão de dívidas: o que muda para você"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "imposto",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://www12.senado.leg.br/noticias/audios/2026/10/sancionada-lei-que-perdoa-dividas-de-meis",
-  "publicadoEm": "2026-10-22T13:04:04-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-trader-02"
- },
- {
-  "segmento": "trader",
-  "titulo": "Crescimento da arrecadação federal impacta o trabalho",
-  "resumo": "A arrecadação federal cresceu 5,62% em setembro, o que pode impactar diretamente empresários e trabalhadores. Entenda como isso pode afetar seu bolso e suas finanças.",
-  "fatos": [
-   "A arrecadação totalizou R$ 239,4 bilhões em setembro, com crescimento real de 5,62%.",
-   "No acumulado de janeiro a setembro, a arrecadação alcançou R$ 2,351 trilhões, apresentando alta real de 6,97%.",
-   "A arrecadação previdenciária somou R$ 64,6 bilhões em setembro, com aumento real de 6,18%.",
-   "Importações e aumento das alíquotas elevaram a arrecadação tributária sobre importações para R$ 13,3 bilhões, alta de 21,07%.",
-   "O IRRF sobre rendimentos de capital arrecadou R$ 12,06 bilhões em setembro, com crescimento real de 9,68%."
-  ],
-  "numeros": [
-   {
-    "valor": "239,4 bilhões",
-    "rotulo": "arrecadação total em setembro"
-   },
-   {
-    "valor": "64,6 bilhões",
-    "rotulo": "arrecadação previdenciária em setembro"
-   },
-   {
-    "valor": "13,3 bilhões",
-    "rotulo": "arrecadação sobre importações"
-   },
-   {
-    "valor": "12,06 bilhões",
-    "rotulo": "arrecadação do IRRF sobre rendimentos de capital"
-   }
-  ],
-  "fonte": "Agência Brasil Economia",
-  "categoria": "Impostos",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados"
-  ],
-  "dor": "aumento de impostos e custos reduzindo lucros",
-  "angulo": "O crescimento da arrecadação pode significar aumento de impostos, afetando a renda e os negócios. Aprender a investir é uma forma de diversificar a renda e se proteger.",
-  "gancho": "Como *a arrecadação impacta seu bolso*?",
-  "ideias": [
-   "Arrecadação federal: impactos diretos",
-   "Como a renda extra pode ajudar na crise?",
-   "Impostos em alta: o que fazer?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "imposto",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-22T21:13:47-03:00",
-  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/arrecadacao-federal-cresce-562-em-setembro-e-soma-r-2394-bilhoes",
-  "publicadoEm": "2026-10-22T11:45:00-03:00",
-  "data": "2026-10-22",
-  "id": "2026-10-22-trader-01"
  }
 ]
