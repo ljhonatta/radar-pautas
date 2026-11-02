@@ -1,6 +1,342 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Desafios do polo calçadista em tempo de crise",
+  "resumo": "As expectativas de vendas na Black Friday e Natal são baixas para o polo calçadista de Nova Serrana devido à queda na demanda e ao alto endividamento das famílias.",
+  "fatos": [
+   "O polo calçadista de Nova Serrana enfrenta 16 meses consecutivos de queda no Brasil.",
+   "As vendas da Black Friday e Natal de 2026 estão previstas para ser inferiores aos últimos dois anos.",
+   "Entre janeiro e agosto de 2026, as exportações somaram US$ 43 milhões, enquanto as importações chegaram a US$ 237 milhões.",
+   "O déficit comercial do setor aumentou aproximadamente 3,7% em 2026 em relação ao ano anterior.",
+   "A Argentina, historicamente um dos principais mercados, enfrentou mudanças que impactaram negativamente as exportações."
+  ],
+  "explicacao": [
+   "A queda na demanda e o aumento do endividamento familiar afetam as vendas no varejo, especialmente em datas como Black Friday e Natal.",
+   "As indústrias estão ajustando seus modelos de operação, com foco em vendas online e em marketplaces para reduzir os impactos.",
+   "O mercado externo, tradição em ser uma alternativa, também está em crise, resultando em um saldo negativo para as exportações."
+  ],
+  "materia": "Jornalista desde 2002, especialista em Projetos Editoriais e campanhas políticas. Desde 2025 é repórter de economia e negócios no Diário do Comércio. Nova Serrana, no Centro-Oeste de Minas Gerais, abriga um dos principais polos calçadistas do País, com centenas de fábricas e lojas que fazem do setor uma das forças da economia local. No entanto, 2026 tem sido um ano desafiador para a indústria diante da queda na demanda por seus produtos. Mesmo com a proximidade da Black Friday e do Natal, a expectativa é de que o cenário não apresente melhora significativa. A avaliação é do presidente do Sindicato Intermunicipal das Indústrias de Calçados de Nova Serrana (Sindinova), Rodrigo Martins. “No geral, o varejo tem sofrido muito este ano. Se não me engano, são 16 meses consecutivos de queda no Brasil. Por isso, a nossa expectativa é que as vendas, tanto da Black Friday quanto do final do ano, sejam menores que as anteriores. Ainda não temos uma previsão de percentual, mas, pelos números do mercado que temos acompanhado, tudo indica que será um último trimestre complexo”, afirmou. A situação preocupa , já que parte das indústrias produz apenas sob encomenda, enquanto outras trabalham com estoques e vendas on-line . Esses diferentes modelos de operação influenciam o planejamento da produção e a formação de estoques para atender à demanda. “O endividamento das famílias está bem alto, então sobra menos dinheiro para o consumo. O varejo já vem sofrendo bastante, e esperamos um Natal e uma Black Friday abaixo dos dois últimos anos”, pontuou Martins. Em períodos de dificuldades no mercado interno, as exportações costumavam representar uma alternativa para o setor calçadista. Todavia, o comércio exterior também enfrenta desafios. Segundo dados do Comex Stat, sistema de estatísticas do comércio exterior brasileiro vinculado ao Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), as importações de calçados e produtos de couro superaram as exportações no período analisado. De janeiro a agosto de 2026, as exportações somaram US$ 43 milhões, enquanto as importações alcançaram US$ 237 milhões, resultando em um déficit comercial de US$ 194 milhões. No mesmo período de 2025, foram registrados US$ 54 milhões em exportações e US$ 241 milhões em importações, com saldo negativo de US$ 187 milhões. Assim, o déficit aumentou aproximadamente 3,7% na comparação anual. Para o presidente do Sindinova, o polo calçadista de Nova Serrana foi fortemente afetado pela queda das exportações para a Argentina, historicamente um dos principais mercados externos dos produtos fabricados no município. “Uma situação impactou muito o nosso polo: uma virada no mercado argentino. Historicamente, a Argentina é o mercado externo que mais consumia os produtos do nosso polo. No entanto, houve uma mudança tanto na legislação do país quanto na abertura para o mercado asiático. Isso afetou muito a economia argentina e, consequentemente, as exportações para lá, com um resultado muito negativo para nós”, explicou. Diante do cenário desfavorável, o Sindinova e as empresas do polo calçadista buscam alternativas para reduzir os impactos da queda na demanda e melhorar os resultados até o fim do ano. Segundo Rodrigo Martins, o Sindinova organizou uma feira em São Paulo, em julho, com o objetivo de impulsionar as vendas de fim de ano e estimular novos negócios. “Escolhemos essa data justamente para dar um gás às empresas nessas vendas”, afirmou. O Sindinova também promove cursos e treinamentos voltados às vendas on-line , com o objetivo de ajudar as empresas a ampliar seus canais de comercialização. “Além da indústria, o próprio e-commerce , trabalha em várias frentes e vende também por marketplace . Então temos dado bastante treinamento nessas vendas, para ajudar a abrir novos canais”, comentou. “Também orientamos as empresas a se organizarem internamente, ajustando, quando necessário, os custos à realidade da produção, além de buscar novos clientes e canais de venda, por m",
+  "numeros": [
+   {
+    "valor": "237 milhões",
+    "rotulo": "importações de calçados e produtos de couro"
+   },
+   {
+    "valor": "43 milhões",
+    "rotulo": "exportações de calçados e produtos de couro"
+   },
+   {
+    "valor": "-194 milhões",
+    "rotulo": "déficit comercial"
+   }
+  ],
+  "fonte": "Diário do Comércio",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas e elevado endividamento familiar",
+  "angulo": "Com o cenário econômico desafiador, entender a importância de uma presença online e investimento em marketing é crucial para enfrentar a concorrência.",
+  "gancho": "Como *reduzir o impacto* da crise nas vendas?",
+  "ideias": [
+   "Desafios no comércio: como se adaptar?",
+   "A importância do e-commerce no cenário atual",
+   "Como impulsionar suas vendas online nesta crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://diariodocomercio.com.br/economia/polo-calcadista-nova-serrana-black-friday/",
+  "publicadoEm": "2026-11-02T05:02:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Queda das vendas no varejo e suas consequências",
+  "resumo": "As vendas no varejo da Alemanha caíram 2,0% em setembro, surpreendendo negativamente. Essa queda pode impactar diversos setores, incluindo o comércio local e e-commerce.",
+  "fatos": [
+   "As vendas no varejo da Alemanha caíram 2,0% em setembro, segundo dados oficiais do Destatis.",
+   "A expectativa era de um aumento de 0,4%, indicando uma grande discrepância.",
+   "Em agosto, as vendas haviam crescido 1,2%, revisado de 1,3%.",
+   "Um recuo nas vendas no varejo pode refletir em baixa no consumo geral.",
+   "O euro, moeda da zona do euro, pode se desvalorizar com dados econômicos fracos."
+  ],
+  "explicacao": [
+   "As vendas no varejo são um indicador crucial dos gastos dos consumidores. Com a queda nas vendas, a confiança do consumidor pode ser afetada, resultando em menos gastos.",
+   "Uma economia enfraquecida pode levar a uma desvalorização do euro, impactando todas as operações de importação e exportação.",
+   "Para os empresários, isso destaca a importância de estratégias de marketing digital robustas para manter a relevância no mercado."
+  ],
+  "materia": "As vendas no varejo da Alemanha, um importante indicador dos gastos dos consumidores, surpreenderam negativamente em setembro. O indicador recuou 2,0% na comparação mensal, segundo dados oficiais divulgados pelo Destatis, enquanto a expectativa era de alta de 0,4%. Em agosto, as vendas no varejo haviam crescido 1,2% (revisado de 1,3%). O euro é a moeda dos 20 países da União Europeia que integram a zona do euro. É a segunda moeda mais negociada do mundo, atrás do dólar americano. Em 2022, respondeu por 31% de todas as transações cambiais, com um volume médio diário de mais de US$ 2,2 trilhões. EUR/USD é o par de moedas mais negociado do mundo, respondendo por cerca de 30% de todas as transações, seguido por EUR/JPY (4%), EUR/GBP (3%) e EUR/AUD (2%). O Banco Central Europeu (BCE), sediado em Frankfurt, na Alemanha, é o banco central da zona do euro. O BCE define as taxas de juros e conduz a política monetária. O principal mandato do BCE é manter a estabilidade dos preços, o que significa controlar a inflação ou estimular o crescimento. Seu principal instrumento é o aumento ou a redução das taxas de juros. Taxas de juros relativamente elevadas – ou a expectativa de taxas mais altas – costumam favorecer o euro, e vice-versa. O Conselho do BCE toma decisões de política monetária em reuniões realizadas oito vezes por ano. As decisões são tomadas pelos dirigentes dos bancos centrais nacionais da zona do euro e por seis membros permanentes, incluindo a presidente do BCE, Christine Lagarde. Os dados de inflação da zona do euro, medidos pelo Índice Harmonizado de Preços ao Consumidor (IHPC), são um importante indicador econômico para o euro. Se a inflação subir mais do que o esperado, sobretudo se ficar acima da meta de 2% do BCE, isso obriga a instituição a elevar as taxas de juros para voltar a controlá-la. Taxas de juros relativamente altas em comparação com as de outras economias costumam favorecer o euro, pois tornam a região mais atraente para a aplicação de recursos por investidores globais. Os dados divulgados permitem avaliar a saúde da economia e podem afetar o euro. Indicadores como o PIB, os índices de gerentes de compras (PMIs) da indústria e de serviços, os dados de emprego e as pesquisas de confiança do consumidor podem influenciar a direção da moeda única. Uma economia forte é favorável ao euro. Além de atrair mais investimento estrangeiro, pode incentivar o BCE a elevar as taxas de juros, o que fortalecerá diretamente o euro. Por outro lado, se os dados econômicos forem fracos, o euro tende a cair. Os dados econômicos das quatro maiores economias da zona do euro (Alemanha, França, Itália e Espanha) são especialmente relevantes, pois elas representam 75% da economia da região. Outro dado relevante para o euro é a balança comercial. Esse indicador mede a diferença entre o que um país recebe com suas exportações e o que gasta com importações em determinado período. Se um país produz bens de exportação muito procurados, sua moeda se valorizará em função da demanda adicional gerada pelos compradores estrangeiros interessados em adquirir esses produtos. Portanto, um saldo comercial positivo fortalece a moeda, enquanto um saldo negativo tem o efeito contrário. As informações fornecidas neste website são apenas de natureza geral e não constituem aconselhamento financeiro pessoal. Antes de agir com base em qualquer informação neste website, deve considerar a adequação da informação em relação aos seus objetivos, situação financeira e necessidades. Investir em CFDs e contratos de margem de FX envolve riscos significativos e não é adequado para todos os investidores. Poderá perder mais do que o seu depósito inicial. Não possui, nem detém, qualquer interesse no ativo subjacente. Recomendamos que procure aconselhamento independente e que se certifique de que compreende plenamente os riscos envolvidos antes de negociar. É importante que leia e considere o documento de divulgação antes de adquirir qualquer produto listado no website.",
+  "numeros": [
+   {
+    "valor": "2,0",
+    "rotulo": "queda percentual no varejo"
+   },
+   {
+    "valor": "1,2",
+    "rotulo": "crescimento em agosto"
+   }
+  ],
+  "fonte": "www.tmgm.com",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "vendas em queda e perda de clientes",
+  "angulo": "Entender essas mudanças econômicas é crucial. Um marketing eficaz pode ajudar a reter clientes e aumentar as vendas em tempos difíceis.",
+  "gancho": "Vendas em *queda*? Veja o que fazer!",
+  "ideias": [
+   "Como as quedas no varejo afetam seu negócio",
+   "A importância do marketing em tempos de crise",
+   "O que a queda nas vendas significa para o e-commerce"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://www.tmgm.com/pt/analysis/market-news/article/germanys-retail-sales-falls-by-20-in-september-vs-04-expected-202611020701",
+  "publicadoEm": "2026-11-02T07:41:08-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Prepare seu e-commerce para a nova Black Friday",
+  "resumo": "A Black Friday 2026 se estende por meses e exige planejamento antecipado. Sem estratégia, o varejista pode perder oportunidades valiosas e afetar suas vendas.",
+  "fatos": [
+   "A Black Friday de 2026 será mais extensa, começando em setembro e se estendendo até o Carnaval.",
+   "O faturamento do e-commerce brasileiro deve alcançar R$ 13,3 bilhões durante a Black Friday, alta de 20,7% em relação a 2025.",
+   "As buscas por promoções estão aumentando com meses de antecedência, especialmente em outubro.",
+   "A maioria dos consumidores compra de uma marca apenas uma vez, revelando a importância de estratégias de fidelização.",
+   "Marcas precisam coletar dados e otimizar suas operações antes do pico de vendas para evitar instabilidade."
+  ],
+  "explicacao": [
+   "A mudança no calendário da Black Friday reflete um novo comportamento dos consumidores, que buscam promoções em várias datas ao longo do ano.",
+   "Esse cenário faz com que os varejistas precisem se preparar antecipadamente, investindo em tecnologia e estratégias de marketing.",
+   "Preparar-se envolve não só ofertas, mas uma gestão integrada entre e-commerce e redes sociais, além de um foco maior na experiência do cliente."
+  ],
+  "materia": "Em 2026, a Black Friday não cabe mais em uma sexta-feira de novembro. Ela começa a ser buscada em setembro, ganha força em outubro e abre uma sequência de datas que segue pela Cyber Monday, pelo Natal, pelas férias de verão, pelo saldão de janeiro e pelo Carnaval. Cada uma dessas datas tem metas próprias e não leva o nome de Black Friday. Mas todas são movidas pelo mesmo consumidor, que agora busca boas oportunidades ao longo de toda a temporada. Para o varejista, isso muda a pergunta central. Já não basta saber qual será a oferta do dia. É preciso saber como estar presente antes, vender sem tropeçar durante e transformar o comprador da promoção em cliente recorrente depois . A expectativa para 2026 é de crescimento, mesmo em um ano atípico, com Copa do Mundo e eleições. Uma projeção da Confi, feita por meio da Neotrust em parceria com o E-Commerce Brasil, estima que o faturamento do e-commerce brasileiro nos quatro dias da Black Friday, de 26 a 29 de novembro, chegue a R$ 13,3 bilhões. O valor representa alta de 20,7% em relação aos mesmos quatro dias de 2025, quando o canal faturou cerca de R$ 11 bilhões. O calendário também mudou. Dados internos do TikTok mostram que as buscas por termos ligados à data, antes concentradas em novembro, subiram com força em outubro do ano passado. Neste ano, já aparecem desde setembro. As datas duplas ajudaram a criar um consumidor que procura promoção o ano inteiro . E a demanda não cai depois da sexta-feira: muitas vezes, segue até o saldão de janeiro e o Carnaval. Quem planeja só para novembro chega atrasado e sai cedo demais. O erro mais comum é entrar em cima da hora. Em plataformas como o TikTok Shop, presença é construção contínua, não oportunidade pontual . Não existe fórmula pronta por vertical. O que separa quem gera resultado de quem só participa é a variedade criativa. As marcas que amadureceram mais rápido adotaram uma agenda de test and learn, com três frentes: – Afiliados e criadores de conteúdo , que ampliam o alcance com vozes próprias. – Temas ligados ao interesse da audiência , e não apenas ao produto. – Testes frequentes , para descobrir cedo o que funciona antes do pico. Por trás da criatividade, vem a infraestrutura de dados. Pixel e API instalados com antecedência permitem construir audiência antes do concorrente e alimentar campanhas automatizadas com catálogo. Nesse formato, oferecido por diferentes plataformas de mídia, o catálogo de produtos da loja é conectado aos anúncios, e o sistema decide qual item mostrar para cada pessoa com base nos sinais de navegação e compra captados pelo pixel e pela API. Criativos, públicos e lances são ajustados de forma automática ao longo da campanha. Quanto mais cedo esses sinais começam a ser coletados, melhor o algoritmo chega preparado para o pico. Há ainda a questão da mensuração. Medir só pelo clique subestima o canal , porque a demanda gerada nas redes também converte no site, na loja física e no WhatsApp. A atribuição precisa ser mais holística, e infraestrutura, criatividade e mensuração devem estar definidas antes de a campanha ir ao ar. De nada adianta gerar tráfego se, à meia-noite da sexta-feira, o site trava. O pico de acessos expõe cada ponto fraco da infraestrutura. A principal proteção é a camada de cache e CDN. Ela entrega os arquivos perto do usuário, sem consultar o banco de dados a cada requisição. Em lojas VTEX, dois alertas merecem atenção: – Evitar o ambiente myvtex , que é voltado a desenvolvimento e administração, não ao tráfego de clientes. – Evitar APIs privadas na jornada de compra , porque têm limite menor e não passam pela CDN. A preparação técnica também inclui disciplina de calendário. Promoções, UTMs, brindes e modalidades de entrega devem ser testados de ponta a ponta antes da data. Stress tests de madrugada revelam o elo fraco da loja enquanto um erro ainda custa pouco. No mês da Black Friday, vale o code freeze: sobem apenas correções, nunca features novas. Para o consumidor, experiência sem fricç",
+  "numeros": [
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "faturamento esperado da Black Friday 2026"
+   },
+   {
+    "valor": "20,7%",
+    "rotulo": "alta em relação a 2025"
+   }
+  ],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Restaurantes"
+  ],
+  "dor": "perda de oportunidades e clientes fiéis",
+  "angulo": "Entender essas novas dinâmicas e a importância do planejamento pode levar seu negócio a se destacar, atraindo mais clientes e garantindo vendas futuras.",
+  "gancho": "A Black Friday começa agora: *não fique para trás!*",
+  "ideias": [
+   "Como se preparar para a Black Friday 2026",
+   "A importância da fidelização pós-Black Friday",
+   "Por que você deve antecipar suas campanhas?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://www.ecommercebrasil.com.br/artigos/black-friday-2026-tendencias-tecnologia-e-fidelizacao-para-toda-a-temporada",
+  "publicadoEm": "2026-11-02T07:00:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Message Ads: conectando buscas e vendas no WhatsApp",
+  "resumo": "O novo formato de anúncios do Google Ads permite iniciar conversas no WhatsApp diretamente a partir de buscas. Isso pode aumentar suas vendas, conectando a intenção de compra ao atendimento imediato.",
+  "fatos": [
+   "O Message Ads é um formato de anúncio do Google que oferece botão de mensagem para WhatsApp.",
+   "Esse recurso permite que usuários pesquisem produtos e iniciem conversas sem passar por páginas intermediárias.",
+   "Funciona em campanhas de Pesquisa e Performance Max, focando em quem já busca ativamente um produto.",
+   "Uma resposta rápida em até uma hora pode aumentar em até sete vezes a chance de qualificar o lead.",
+   "É necessário um número ativo para WhatsApp Business, seguir políticas do Google e pertencer a setores elegíveis."
+  ],
+  "explicacao": [
+   "O Message Ads conecta busca e atendimento ao transformar pesquisas em conversas de venda.",
+   "O formato entrega mensagens iniciais úteis, permitindo que atendentes ofereçam recomendações personalizadas.",
+   "A eficiência depende de respostas rápidas e do uso adequado de informações do cliente durante a conversa."
+  ],
+  "materia": "O Message Ads é o formato do Google Ads que adiciona um botão de mensagem ao anúncio . Depois de configurado, o clique leva o usuário direto ao aplicativo de mensagens da empresa, no qual ele inicia a conversa. No Brasil, esse aplicativo é o WhatsApp . Na prática, quem pesquisa um produto no Google passa a conversar com a marca sem passar por uma página intermediária. O formato conecta duas metades da jornada de compra que costumam ficar separadas: a busca, onde a intenção se forma, e a conversa, onde a venda acontece. Este artigo explica como o Message Ads funciona, o que é preciso para ativá-lo e o que define o resultado da campanha depois do clique. No Google Ads, o recurso aparece com o nome de recurso de mensagem (message asset). Ele adiciona um botão aos anúncios responsivos de pesquisa. Quando a pessoa toca no botão, o WhatsApp abre com uma mensagem inicial já escrita, e a conversa começa com a empresa. Os detalhes estão na central de ajuda do Google Ads . O recurso de mensagem funciona em campanhas de Pesquisa e de Performance Max . Por isso, o anúncio é exibido para quem está buscando ativamente um produto ou serviço, e não para quem está rolando o feed. Essa diferença de contexto faz os contatos vindos do Google tenderem a ter mais intenção de compra, embora o volume costume ser menor do que o da Meta. Antes de criar a campanha, vale conferir três requisitos: – Número de WhatsApp Business ativo: o número pode vir do aplicativo WhatsApp Business ou da plataforma WhatsApp Business, e deve-se informá-lo com o país correspondente na configuração do recurso. – Mensagem inicial dentro das políticas: a mensagem que abre a conversa precisa seguir as políticas do Google Ads. – Setor elegível: setores sensíveis, como campanhas eleitorais, não podem usar o recurso. Os três nomes circulam no mercado e descrevem o mesmo movimento: o anúncio abre uma conversa no lugar de um site. A diferença está em quem oferece o formato. Message Ads e Click-to-Message são os nomes usados pelo Google. Na documentação técnica do Google Ads, os recursos de mensagem aparecem na página de resultados de busca e funcionam como recursos de clique para mensagem (Click-to-Message, ou CTM). Click-to-WhatsApp (CTWA) é o nome mais associado à Meta. São anúncios do Facebook e do Instagram que abrem uma conversa no WhatsApp quando a pessoa toca neles. No mercado, a sigla CTWA também passou a ser usada para o formato do Google. As duas estratégias se complementam. A Meta alcança quem ainda não estava procurando o produto, e o Google alcança quem já está procurando. Os dois caminhos terminam no mesmo WhatsApp, no mesmo CRM e no mesmo time de vendas. O anúncio leva a pessoa até a conversa, e a venda acontece dentro dela. Uma campanha de Message Ads entrega resultado quando três coisas funcionam juntas: a resposta chega enquanto o interesse ainda está ativo, quem responde entende o que a pessoa procura e a compra pode ser concluída sem sair do WhatsApp. Se uma delas falha, o investimento em mídia gera conversas que não viram pedido. Quem clica em um anúncio de pesquisa estava procurando aquele produto naquele momento, e esse interesse esfria rápido. Um estudo publicado na Harvard Business Review em 2011 analisou 1,25 milhão de leads recebidos por 29 empresas B2C e 13 B2B nos Estados Unidos. As empresas que tentaram contato em até uma hora tiveram quase sete vezes mais chance de qualificar o lead do que as que tentaram uma hora depois, e mais de 60 vezes mais chance do que as que esperaram 24 horas ou mais. O estudo mediu leads de formulários da web, e não conversas no WhatsApp. Ainda assim, a lógica se aplica ao Message Ads com mais força. No formulário, a empresa decide quando retornar. No WhatsApp, a pessoa já escreveu e está esperando a resposta. O mesmo estudo aponta por que as empresas demoram. Entre as causas estão consultar os leads no CRM uma vez por dia, em vez de continuamente, e distribuir os contatos entre vendedores por regras de região e de divisão i",
+  "numeros": [
+   {
+    "valor": "7",
+    "rotulo": "vezes mais chance de qualificação de lead"
+   }
+  ],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "perder vendas por falta de um atendimento ágil e conectado",
+  "angulo": "Entender como essa nova ferramenta pode otimizar seu marketing digital é essencial se você deseja não só vender, mas também atender melhor e mais rápido seus clientes.",
+  "gancho": "Transforme *buscas em vendas instantâneas*!",
+  "ideias": [
+   "Como o Message Ads pode aumentar suas vendas?",
+   "A importância de respostas rápidas no WhatsApp",
+   "Transformando buscas em conversas e vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://www.ecommercebrasil.com.br/artigos/message-ads-do-google-como-transformar-a-busca-em-conversa-de-venda-no-whatsapp",
+  "publicadoEm": "2026-11-02T06:00:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "TikTok se transforma em superapp e mexe no mercado",
+  "resumo": "Com a nova funcionalidade de guia de restaurantes, o TikTok busca expandir seus serviços, tornando-se um superapp. Isso pode impactar diretamente o comportamento do consumidor e o varejo.",
+  "fatos": [
+   "O TikTok lançou um guia de restaurantes nos Estados Unidos, parte de sua expansão.",
+   "A plataforma começou a coletar informações de mais de 40 milhões de publicações para recomendações.",
+   "O novo recurso 'Must Eat' ajuda usuários a explorar restaurantes por cidade e tipo de culinária.",
+   "Em maio, foi implementado o TikTok GO, permitindo que usuários reservem hotéis e atividades no aplicativo.",
+   "TikTok está desenvolvendo um sistema de pagamentos, o TikTok Pay, prevendo diversificação de serviços."
+  ],
+  "explicacao": [
+   "O TikTok visa competir com superapps na China, combinando várias funcionalidades em uma única plataforma.",
+   "Esse movimento pode transformar como consumidores interagem com serviços locais e e-commerce.",
+   "Com a adição de pagamentos e reservas, as pequenas empresas precisam se adaptar a essa nova dinâmica digital."
+  ],
+  "materia": "01/11/2026 16h31 Atualizado 01/11/2026 16h31 O TikTok anunciou nesta semana que está adicionando um guia de restaurantes ao seu aplicativo nos Estados Unidos, o que pode ser mais uma etapa na expansão da plataforma para além dos vídeos das redes sociais. Segundo o TechCrunch , o aplicativo de vídeos vem ampliando gradualmente seus serviços nos últimos anos, com a adição do TikTok Shop, de um mapa para descobrir lugares nas proximidades, de recursos de busca mais completos, jogos e outras funcionalidades. Os movimentos podem indicar que o TikTok está dando passos para se transformar em um “superapp”: uma única plataforma na qual os usuários podem fazer muito mais do que assistir e compartilhar vídeos, atendendo a uma ampla variedade de necessidades em um só lugar. O modelo de superapp é bastante difundido na China, com aplicativos como o WeChat, que funciona como uma combinação de Facebook, WhatsApp, Apple Pay e loja de aplicativos em uma única plataforma. Em vez de alternar entre aplicativos, o TikTok está trabalhando para se tornar a plataforma que as pessoas usam na maior parte de suas atividades digitais. Veja exemplos do que a empresa está fazendo: O TikTok se tornou um destino popular para quem busca recomendações de restaurantes, com vídeos virais frequentemente levando clientes a estabelecimentos locais. Agora, a plataforma quer facilitar esse processo de descoberta com um novo recurso chamado “Must Eat”. O guia, alimentado pela comunidade, destaca restaurantes que estão ganhando atenção na plataforma, e começou pelas áreas ao redor de Nova York, Los Angeles e San Francisco. O “Must Eat” utiliza mais de 40 milhões de publicações e comentários para reunir recomendações de restaurantes e listas selecionadas. Os usuários podem explorar restaurantes por cidade e refinar a busca por tipo de culinária, preço, avaliação e localização. A Bloomberg noticiou em agosto que o TikTok está desenvolvendo um recurso que permitiria aos usuários enviar dinheiro uns aos outros por mensagens diretas. Se for lançado, o recurso utilizará o TikTok Pay, serviço da empresa que já está disponível no Sudeste Asiático para compras no TikTok Shop. Além disso, a Reuters informou em março que o TikTok havia solicitado autorização ao Banco Central do Brasil para operar como uma empresa de tecnologia financeira que oferece serviços de crédito e pagamento. A possível expansão do TikTok para os pagamentos representa um passo importante na diversificação das atividades da empresa para além de uma plataforma de redes sociais. Ao longo dos anos, o TikTok vem trabalhando para se tornar um lugar onde os usuários possam acompanhar os melhores momentos do esporte e consumir conteúdo sobre competições. No início de junho, a empresa lançou uma área dedicada à Copa do Mundo da FIFA, na qual os usuários podiam consultar placares, calendários de jogos, classificações, vídeos em alta, melhores momentos, vídeos de jogadores e outros conteúdos. Se as pessoas já estão assistindo a vídeos no TikTok, mas querem acompanhar o placar de uma partida, podem fazer isso sem sair do aplicativo nem abrir um aplicativo específico de notícias esportivas ou o Google, por exemplo. A área dedicada à Copa do Mundo foi viabilizada pelo TikTok GamePlan, uma ferramenta da empresa voltada para o esporte. Ela foi desenvolvida para permitir que equipes, ligas e emissoras esportivas ampliem a descoberta de conteúdo e o engajamento na plataforma. Em maio, o TikTok lançou o TikTok GO, um recurso que permite aos usuários descobrir e reservar hotéis, atrações e experiências diretamente no aplicativo nos Estados Unidos. O TikTok GO apresenta opções de hospedagem e atividades por meio de vídeos, buscas e páginas de localização. Quando encontram algo de seu interesse, os usuários podem consultar detalhes, verificar a disponibilidade e concluir uma reserva. É amplamente conhecido que um dos maiores passos do TikTok para além das redes sociais foi o lançamento do TikTok Shop. A empresa começou a testar",
+  "numeros": [
+   {
+    "valor": "40 milhões",
+    "rotulo": "publicações utilizadas para recomendações de restaurantes"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Consumo",
+  "publico": [
+   "Restaurantes",
+   "Comércio local"
+  ],
+  "dor": "Temor de perder visibilidade no novo cenário digital",
+  "angulo": "Entender como se posicionar no TikTok pode ser vital para aumentar a presença online do seu negócio.",
+  "gancho": "TikTok se torna um *superapp* para serviços variados",
+  "ideias": [
+   "Seu restaurante no TikTok: saiba como!",
+   "Como se adaptar ao TikTok GO?",
+   "O impacto do TikTok na sua venda local"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://epocanegocios.globo.com/empresas/noticia/2026/11/de-guias-de-restaurantes-a-reserva-de-hoteis-tiktok-amplia-servicos-e-da-passos-para-se-tornar-um-superapp.ghtml",
+  "publicadoEm": "2026-11-01T16:31:06-03:00",
+  "data": "2026-11-01",
+  "id": "2026-11-02-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças políticas e econômicas exigem adaptação no varejo",
+  "resumo": "As transformações políticas e econômicas trazem incertezas e desafios para empresários. Adaptar-se às novas regras é essencial para navegar nesse ambiente competitivo.",
+  "fatos": [
+   "A reeleição de Lula reflete em novas composições no Congresso e redefine prioridades políticas e econômicas.",
+   "Mudanças no ambiente de negócios poderão impactar as decisões empresariais pelos próximos anos.",
+   "A polarização política exigirá mais negociação e articulação entre empresas e governo.",
+   "A inteligência artificial está mudando a produtividade e a cultura empresarial.",
+   "Setores enfrentam um cenário de juros altos, pressionando a margem de lucro e o crescimento.",
+   "O consumidor brasileiro está cada vez mais consciente das suas escolhas, priorizando valor e experiência.",
+   "A competição se expandiu para modelos de negócio que integram diversos serviços e produtos.",
+   "Mudanças climáticas e riscos cibernéticos se tornam desafios essenciais para a operação do varejo."
+  ],
+  "explicacao": [
+   "As eleições resultaram em uma nova realidade política que exigirá adaptações por parte dos empresários.",
+   "Com a IA revolucionando a gestão e as relações comerciais, as empresas precisam ficar atentas às inovações.",
+   "As taxas de juros e as mudanças no consumo impactam diretamente o fluxo de caixa e a viabilidade dos negócios.",
+   "A nova configuração do mercado exige das empresas uma visão integrada sobre produtos e serviços para manter a competitividade.",
+   "Entender as preferências do consumidor se torna fundamental para adaptar ofertas e garantir a relevância no mercado."
+  ],
+  "materia": "A reeleição de Lula e a nova composição do Congresso abrem um período de redefinições políticas e econômicas locais que se somam às transformações estruturais que ocorrem no Brasil e no mundo . O resultado eleitoral precipita uma outra etapa de negociações políticas, decisões econômicas e redefinição de prioridades que irá influenciar o ambiente de negócios pelos próximos anos e não encerra a disputa sobre os rumos do País. E que será diferente em muitos aspectos, pois está encerrado o foco no imediatismo de uma reeleição. Mas seria superficial analisar o futuro do varejo, do consumo e dos serviços apenas pela ótica da política local; as mudanças mais relevantes resultam da combinação entre fatores internos e globais, conjunturais e estruturais, que interagem e se contrapõem, criando outra realidade com suas oportunidades e ameaças. Para condensar essa visão destacamos 12 temas que merecem atenção especial. A relação entre Executivo e Congresso será determinante para a capacidade de aprovar reformas, administrar as contas públicas e construir um mínimo previsibilidade. A polarização política e a nova correlação de forças exigirão negociação e capacidade de articulação. Sempre lembrando a flexibilidade ideológica que verbas e benesses públicas podem comprar. Para as empresas, mais importante do que a orientação partidária será a qualidade das decisões, a estabilidade das regras e a capacidade de construir políticas consistentes que os fatos recentes colocam dúvidas. Em qualquer circunstância é preciso repensar o modelo de representação do setor privado para ampliar sua capacidade de apoiar projetos de natureza mais estratégica para o País. 2. Geopolítica e reorganização da economia global As tensões entre grandes potências, as barreiras comerciais e a reorganização das cadeias de abastecimento afetarão preços, câmbio, fornecedores e concorrência. A China continuará sendo um ator central – maior parceiro comercial do Brasil – tanto pela oferta de produtos e tecnologias quanto pela expansão de plataformas digitais e novos modelos de distribuição. E com crescente participação direta no mercado local. O Brasil poderá encontrar oportunidades em novos mercados e cadeias produtivas, mas também enfrentará concorrentes com escala, tecnologia e estruturas de custos distintas. A estratégia internacional deixará de ser assunto restrito às grandes multinacionais. Será parte crescente das decisões de empresas de diferentes portes pelo processo de maior inserção do Brasil na economia global como fornecedor e consumidor. E deveria focar cada vez mais na agregação de valor com marcas e distribuição às comodities de consumo que exporta. 3. Inteligência Artificial e nova competição A IA está transformando a produtividade, a gestão, a cultura e o relacionamento com consumidores e, consequentemente, a tomada de decisões. Seu impacto vai muito além da automação de tarefas. Agentes inteligentes modificarão o desenvolvimento de produtos, a comparação de preços, as compras e em especial a demanda por serviços. A vantagem competitiva estará vinculada à capacidade de integrar tecnologia, dados, conhecimento do consumidor e capacidade de execução em outro ambiente cultural e atitudinal nas empresas e nos negócios e estará muito além de simplesmente adotar ferramentas ou plataformas. A trajetória da dívida pública, a credibilidade fiscal e o comportamento dos juros continuarão influenciando o crédito, os investimentos e o consumo. Nesse campo abre-se o maior polo de incertezas, já que os discursos eleitorais se contrapõem às necessidades de curto e médio prazos. E por ser o último período de Lula na presidência, ficam, ainda, dúvidas sobre o legado que pretende deixar. O custo do capital pós eleição e a reação no mercado financeiro afetam toda a cadeia de valor, incluindo indústria, distribuição, varejo, serviços e consumidores. Em mercados com juros estratosféricos e margens pressionadas, crescer sem gerar caixa e retorno adequado sobre o capital signific",
+  "numeros": [
+   {
+    "valor": "12",
+    "rotulo": "temas impactantes para o varejo"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perda de clientes e lucro em tempos de incerteza",
+  "angulo": "As mudanças no cenário político e econômico demandam uma estratégia de marketing robusta para as empresas se adaptarem e se manterem competitivas.",
+  "gancho": "Prepare-se: *novas regras são necessárias*!",
+  "ideias": [
+   "Varejo em transformação: como lidar?",
+   "Sua empresa está pronta para a nova economia?",
+   "O impacto das eleições no consumo e nos negócios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://mercadoeconsumo.com.br/02/11/2026/noticias/os-12-temas-que-impactam-varejo-consumo-e-servicos-pos-eleicao/",
+  "publicadoEm": "2026-11-02T03:03:23-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-vpr-08"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "A importância da governança em IA para empresas",
   "resumo": "A falta de governança em inteligência artificial pode prejudicar negócios. Apenas 13% das organizações têm uma estrutura de governança efetiva. Entenda como isso afeta o seu bolso.",
   "fatos": [
@@ -404,6 +740,407 @@
   "publicadoEm": "2026-11-02T07:00:00-03:00",
   "data": "2026-11-02",
   "id": "2026-11-02-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Como a nova CBS afeta seu negócio?",
+  "resumo": "A nova Contribuição sobre Bens e Serviços (CBS) pode ter um impacto significativo na arrecadação de estados e nas operações das empresas. Entenda como essa mudança pode repercutir no seu bolso.",
+  "fatos": [
+   "A alíquota da CBS foi fixada em 11,3% pelo TCU.",
+   "A CBS começa a vigorar em 2027, coexistindo com ICMS e ISS até 2032.",
+   "Atualmente, PIS e Cofins estão na base de cálculo do ICMS e ISS.",
+   "A exclusão da CBS da base de cálculo poderia reduzir a arrecadação dos estados e municípios.",
+   "Empresas já recorrem ao Judiciário para discutir a inclusão da CBS na base de ICMS e ISS."
+  ],
+  "explicacao": [
+   "A nova CBS tem como objetivo simplificar o sistema tributário, mas sua inclusão na base do ICMS e ISS pode aumentar a carga tributária.",
+   "Com a coexistência dos tributos, empresas podem tentar reduzir custos, mas isso pode levar a contaminações jurídicas e incertezas.",
+   "Caso uma empresa obtenha liminar para excluir a CBS, ela pode repassar o custo ao preço final, mas precisa estar atenta ao risco de mudanças futuras."
+  ],
+  "materia": "02/11/2026 04h00 Atualizado 02/11/2026 04h00 Além da discussão sobre a alíquota da nova Contribuição sobre Bens e Serviços (CBS) fixada pelo Tribunal de Contas da União (TCU) em 11,3%, outro ponto da reforma tributária alimenta o debate entre empresários, União, estados e municípios: se a CBS deve entrar ou não na base de cálculo do ICMS e do ISS, já que a primeira começa a vigorar no ano que vem, quando os dois outros impostos ainda não terão sido substituídos pelo Imposto sobre Bens e Serviços (IBS). Ou seja, o novo e o antigo modelos vão coexistir na fase de transição. Imposto sobre consumo: Senado vai ouvir Fazenda e TCU antes de definir alíquota da CBS Reforma Tributária: Veja por que o novo imposto sobre o consumo pode ficar maior que o esperado Hoje, o PIS e a Cofins — que serão reunidos na CBS — estão na base de cálculo do ICMS e do ISS. Ou seja, são cobrados por dentro. O projeto inicial da Reforma Tributária previa a exclusão da CBS dessa conta, mas essa mudança não foi incluída na Emenda Constitucional. Segundo Bianca Xavier, professora de Tributário da FGV Direito Rio, isso foi proposto dessa forma porque esses tributos vão coexistir até 2032. No entanto, excluir a CBS da base de cálculo dos impostos estaduais e municipais reduziria a arrecadação. — A ideia, por uma questão de transparência tributária, era a CBS não entrar no cálculo do IBS e vice-versa. Mas isso não foi disciplinado. Depois, entendeu-se que, se o PIS e a Cofins entram na base de cálculo e, se serão substituídos pela CBS, caso ela seja excluída, vai reduzir a arrecadação. Com isso, continua ela, estados e municípios vêm se manifestando de forma favorável a que não tenha mudança. De outro lado, as empresas já estão recorrendo ao Judiciário, ampliando a discussão. Advogados, médicos, salões de beleza: veja o que muda com a alíquota de 11,3% da nova CBS Pela Reforma Tributária, um tributo dentro do outro fere os princípios de transparência e de simplicidade buscadas pelo novo sistema, o que dá munição ao setor privado para questionar a CBS na base de ICMS e ISS ou no futuro IBS. Por outro lado, há o princípio da neutralidade da reforma, isto é, a carga tributária deve ser a mesma antes e depois das mudanças no sistema tributário. — Empresa que obtiver liminar na Justiça, excluindo a CBS dos tributos estadual e municipal, e repassar o ICMS ao seu preço, tem de ter atenção. Caso, posteriormente, a decisão seja cassada, isso vira custo. É preciso fazer um contingenciamento — destaca a advogada, afirmando que seria preciso um projeto de lei regrando essa exclusão. Também Virgínia Pillekamp, sócia de Tributário do BMA Advogados, avalia que, sem a CBS na base de cálculo do ICMS, a arrecadação dos estados poderia recuar, assumindo que a maior parte das empresas vai baixar o valor de suas operações para, sobre ela, aplicarem o novo tributo e, mais adiante, o IBS. — De outro lado, as empresas vão pagar mais ou vão trabalhar com liminar judicial ou fazer um depósito judicial. É uma questão de competitividade. Entrevista: 'No fiscal, importante é ter estratégia na direção correta', diz CEO da BlackRock no Brasil Na visão da especialista, um outro complicador no horizonte virá com o split payment , o mecanismo da Reforma Tributária que vai separar automaticamente o imposto no momento em que uma compra é paga: — Quando o split payment for implementado, o que pode acontecer de forma obrigatória a partir de 2028, CBS e IBS serão dinheiro que não vai nem entrar no caixa das empresas, indo direto para o governo. Se a empresa recebe R$ 100 pelo produto vendido e há R$ 20 pagos de tributação, esses R$ 20 vão para o governo. Não é uma discussão simplória — diz Virgínia. Imposto sobre consumo: Senado vai ouvir Fazenda e TCU antes de definir alíquota da CBSO Comsefaz, que reúne os secretários de Fazenda dos estados e do Distrito Federal, afirma, em nota, que a CBS compõe a base de cálculo dos tributos sobre consumo de estados e municípios. E reafirma que um dos princípios ",
+  "numeros": [
+   {
+    "valor": "11,3%",
+    "rotulo": "alíquota da nova CBS"
+   },
+   {
+    "valor": "2032",
+    "rotulo": "ano de substituição total pelo IBS"
+   }
+  ],
+  "fonte": "O GLOBO",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "Incertezas sobre novos impostos que afetam a margem de lucro.",
+  "angulo": "Aprender sobre o mercado financeiro pode ajudar a diversificar sua renda em tempos de mudanças tributárias imprevisíveis.",
+  "gancho": "*Novo imposto* pode afetar seu negócio!",
+  "ideias": [
+   "O impacto da CBS nas pequenas empresas",
+   "Como se proteger contra a nova CBS",
+   "CBS: o que você precisa saber agora"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://oglobo.globo.com/economia/noticia/2026/11/02/cbs-por-dentro-ou-por-fora-entenda-como-novo-tributo-pode-impactar-empresas-e-a-arrecadacao-de-estados-e-prefeituras.ghtml",
+  "publicadoEm": "2026-11-02T04:00:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novo programa de educação fiscal impacta empresários e autônomos",
+  "resumo": "A Prefeitura de São Paulo lançou o Programa Municipal de Educação Fiscal para aumentar a compreensão sobre impostos e recursos públicos, impactando a todos que lidam com finanças.",
+  "fatos": [
+   "O Programa Municipal de Educação Fiscal (PMEF) foi instituído pela Prefeitura de São Paulo por meio do Decreto nº 65.655/2026.",
+   "O decreto foi publicado no Diário Oficial do Município na terça-feira, dia 27 de setembro de 2026.",
+   "O programa visa disseminar conhecimentos sobre a arrecadação tributária e a gestão de recursos públicos.",
+   "As secretarias municipais da Fazenda e da Educação são responsáveis pela execução das ações do programa.",
+   "A criação do PMEF dá continuidade a esforços anteriores, como um Acordo de Cooperação Técnica com a Receita Federal,  firmado em 1º de julho de 2025."
+  ],
+  "explicacao": [
+   "O novo programa busca aumentar a educação fiscal entre a população, fundamental para a gestão financeira e cidadania.",
+   "A compreensão dos tributos é essencial para autônomos e empresários, que podem vislumbrar novas maneiras de lidar com imposições fiscais.",
+   "A iniciativa foca na formação de cidadãos mais conscientes sobre sua relação com os tributos, o que pode impactar diretamente seus negócios."
+  ],
+  "materia": "Foto: freedomz / Magnific (Freepik) A Prefeitura de São Paulo instituiu o Programa Municipal de Educação Fiscal (PMEF), iniciativa voltada à disseminação de conhecimentos sobre a função dos tributos e a aplicação dos recursos públicos. A criação foi oficializada pelo Decreto nº 65.655/2026 , publicado na terça-feira (27) no Diário Oficial do Município. A proposta busca ampliar a compreensão da população sobre a arrecadação tributária, a gestão do dinheiro público e a cidadania fiscal. Para isso, o programa estabelece orientações alinhadas ao Programa Nacional de Educação Fiscal (PNEF). A execução ficará a cargo de uma atuação conjunta das secretarias municipais da Fazenda e da Educação, com ações voltadas à formação e à conscientização sobre o tema. Programa dá continuidade a iniciativas de educação fiscal A criação do PMEF amplia as ações já desenvolvidas pela administração municipal nessa área. Entre elas está o Acordo de Cooperação Técnica firmado entre a Secretaria Municipal da Fazenda e a Receita Federal, publicado no Diário Oficial da União em 1º de julho de 2025. A parceria prevê a elaboração de materiais didáticos, a capacitação de professores e a realização de atividades relacionadas à cidadania fiscal. Com o novo programa, a prefeitura estabelece diretrizes municipais para dar continuidade a esse trabalho, aproximando o tema dos tributos e da gestão pública da população. Mais informações sobre as iniciativas já realizadas estão disponíveis no site de Educação Fiscal e Cidadania da Prefeitura de São Paulo . Com informações Prefeitura de São Paulo A Prefeitura de São Paulo instituiu o Programa Municipal de Educação Fiscal (PMEF), iniciativa voltada à disseminação de conhecimentos sobre a função dos tributos e a aplicação dos recursos públicos. A criação foi oficializada pelo Decreto nº 65.655/2026 , publicado na terça-feira (27) no Diário Oficial do Município. A proposta busca ampliar a compreensão da população sobre a arrecadação tributária, a gestão do dinheiro público e a cidadania fiscal. Para isso, o programa estabelece orientações alinhadas ao Programa Nacional de Educação Fiscal (PNEF). A execução ficará a cargo de uma atuação conjunta das secretarias municipais da Fazenda e da Educação, com ações voltadas à formação e à conscientização sobre o tema. A criação do PMEF amplia as ações já desenvolvidas pela administração municipal nessa área. Entre elas está o Acordo de Cooperação Técnica firmado entre a Secretaria Municipal da Fazenda e a Receita Federal, publicado no Diário Oficial da União em 1º de julho de 2025. A parceria prevê a elaboração de materiais didáticos, a capacitação de professores e a realização de atividades relacionadas à cidadania fiscal. Com o novo programa, a prefeitura estabelece diretrizes municipais para dar continuidade a esse trabalho, aproximando o tema dos tributos e da gestão pública da população. Mais informações sobre as iniciativas já realizadas estão disponíveis no site de Educação Fiscal e Cidadania da Prefeitura de São Paulo . Siga o Contábeis no WhatsApp e não perca nenhuma notícia O Portal Contábeis se isenta de quaisquer responsabilidades civis sobre eventuais discussões dos usuários ou visitantes deste site, nos termos da lei no 5.250/67 e artigos 927 e 931 ambos do novo código civil brasileiro. 1999 - 2026 Contábeis ® - Todos os direitos reservados. Política de privacidade · Preferências de cookies O Portal Contábeis utiliza cookies essenciais e analíticos com base no legítimo interesse (LGPD Art. 7º, IX) para medir audiência, recomendar conteúdo e personalizar sua experiência. Publicidade personalizada depende do seu aceite. Detalhes em nossa Política de Privacidade . Ajuste suas preferências de cookies quando quiser. Usamos cookies essenciais e analíticos com base no legítimo interesse . Publicidade personalizada só com seu aceite. Saiba mais ou ajuste suas preferências . Usamos cookies para melhorar sua experiência, medir audiência e personalizar publicidade. Você pode a",
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "Programa Municipal de Educação Fiscal"
+   },
+   {
+    "valor": "2026",
+    "rotulo": "Ano da criação do programa"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "preocupações com a alta carga tributária e gestão financeira",
+  "angulo": "Compreender o cenário fiscal é fundamental para quem deseja obter êxito financeiro livre das amarras do salário e horários fixos.",
+  "gancho": "Entenda como a *educação fiscal* pode te ajudar!",
+  "ideias": [
+   "Por que a educação fiscal é essencial para o seu negócio?",
+   "Aprenda a lidar com tributos e aumente sua margem!",
+   "PMEF: O que muda para empresários e autônomos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80484/sao-paulo-cria-programa-de-educacao-fiscal/",
+  "publicadoEm": "2026-11-01T11:00:02-03:00",
+  "data": "2026-11-01",
+  "id": "2026-11-02-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aumento de combustível de aviação pode afetar preços",
+  "resumo": "A Petrobras aumentou em R$ 0,45 o preço do querosene de aviação, impactando os custos das companhias aéreas. Com isso, o custo da operação pode subir ainda mais.",
+  "fatos": [
+   "A Petrobras reajustou o querosene de aviação em 7,2%, ou R$ 0,45 por litro.",
+   "O novo preço ocorre a partir do dia 1° do mês.",
+   "Em outubro, o combustível já havia sido reajustado em 11,76% (R$ 0,65 por litro).",
+   "A participação da Petrobras na produção do QAV é de cerca de 85%.",
+   "O custo do QAV nos custos operacionais das companhias subiu de 30% para mais de 45% desde o início dos conflitos no Oriente Médio."
+  ],
+  "explicacao": [
+   "O ajuste no preço do querosene de aviação reflete o aumento da cotação internacional devido a tensões geopolíticas e redução da capacidade de refino na Rússia e Ucrânia.",
+   "Apesar de a Petrobras seguir uma fórmula que suaviza as oscilações de preços, as variações ainda são sentidas pelas companhias aéreas.",
+   "Esse aumento afeta diretamente o preço das passagens aéreas, podendo gerar novo impacto sobre o custo de vida e a renda dos consumidores."
+  ],
+  "materia": "A Petrobras anunciou reajuste médio de 7,2% no querosene de aviação vendido às distribuidoras, a partir deste domingo (1°). Isso corresponde a um aumento de R$ 0,45 por litro em relação ao mês anterior. Em outubro, o combustível utilizado em aviões e helicópteros já havia sofrido reajuste médio de 11,76%, ou 0,65 centavos por litro. A estatal tem participação de cerca de 85% na produção do QAV nacional, mas o mercado é aberto à livre concorrência, sem restrições para outras empresas atuarem como produtoras ou importadoras. De acordo com a companhia, o reajuste se deve ao aumento da cotação internacional do combustível, \"em um cenário de intensificação das tensões geopolíticas no Oriente Médio e de redução da capacidade de refino na Rússia e na Ucrânia em decorrência do conflito entre os dois países.\" A Petrobras ressalvou, em nota, que as variações acumuladas no Brasil são menores do que as observadas no mercado internacional, onde os reajustes chegam a ser diários, desde o início do conflito no Oriente Médio. Aqui, o valor é reajustado mensalmente. A companhia disse também que segue uma \"fórmula paramétrica prevista em contrato\", que vem amortecendo as oscilações de curto prazo, \"resultando em reajustes mais moderados do que os observados internacionalmente.\" Apesar disso, de acordo com a Associação Brasileira de Empresas Aéreas, a participação do QAV nos custos operacionais das companhias brasileiras subiu de 30% para mais de 45% desde o início dos conflitos no Oriente Médio.",
+  "numeros": [
+   {
+    "valor": "7,2%",
+    "rotulo": "aumento no preço do QAV"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "percentual do QAV nos custos operacionais"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento nos custos e passagem aérea maiores",
+  "angulo": "Aprender sobre investimentos pode ajudar a mitigar os impactos do aumento de preços no mercado aéreo e outras áreas.",
+  "gancho": "*Preço do combustível* afeta sua viagem!",
+  "ideias": [
+   "Como o aumento do QAV impacta você?",
+   "Custo do QAV e suas consequências",
+   "Entenda o cenário do combustível de aviação"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-reajusta-combustivel-de-aviacao-em-r-045-por-litro",
+  "publicadoEm": "2026-11-01T15:41:00-03:00",
+  "data": "2026-11-01",
+  "id": "2026-11-02-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Trabalhadores 40+ dominam vagas formais no Brasil",
+  "resumo": "A proporção de trabalhadores com 40 anos ou mais em vagas com carteira assinada chegou a quase 48% em 2025, refletindo mudanças demográficas e a dinâmica atual do mercado de trabalho.",
+  "fatos": [
+   "Os trabalhadores com 40 anos ou mais representam 47,8% das vagas formais em 2025.",
+   "Em 2022, essa proporção era de 44,4%.",
+   "Entre 2022 e 2025, o número de brasileiros com 40 anos ou mais cresceu 7%.",
+   "Os jovens (até 39 anos) em vagas com carteira caíram de 55,6% para 52,2%.",
+   "As admissões de trabalhadores com 40+ aumentaram 32% de 2026 em relação a 2022.",
+   "As demissões nesta faixa etária subiram 40% no mesmo período, superando a média geral.",
+   "Empregadores buscam trabalhadores mais experientes para contrabalançar a alta rotatividade entre os jovens."
+  ],
+  "explicacao": [
+   "O aumento da participação de trabalhadores mais velhos é resultado do envelhecimento da população e das mudanças nas preferências dos empregadores.",
+   "A procura por profissionais mais experientes surge em um cenário onde a rotatividade de jovens é alta, especialmente em setores como a construção civil.",
+   "Entretanto, o mesmo fenômeno traz preocupações, pois os trabalhadores mais velhos enfrentam riscos de demissão devido a cortes de custo e eliminação de cargos intermediários."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. Os trabalhadores com 40 anos ou mais jÃ¡ respondem por quase metade do estoque de vagas formais no Brasil. A fatia do grupo no estoque de postos formais chegou a 47,8% em 2025, ante 44,4% em 2022 âdado mais antigo disponÃ­vel no painel da Rais (RelaÃ§Ã£o Anual de InformaÃ§Ãµes Sociais)â, alta de 3,4 pontos percentuais em quatro anos. O movimento acontece simultaneamente ao envelhecimento da populaÃ§Ã£o : entre 2022 e 2025, o total de brasileiros com 40 anos ou mais cresceu 7%, para 92,2 milhÃµes, segundo o IBGE (Instituto Brasileiro de Geografia e EstatÃ­stica), enquanto a populaÃ§Ã£o de atÃ© 39 anos recuou 2,5%, para 158 milhÃµes. JÃ¡ o peso dos trabalhadores com atÃ© 39 anos, que representavam 55,6% do total dos empregos em 2022, caiu para 52,2% no ano passado, de acordo com os dados da Rais, que Ã© o registro administrativo dos contratos com carteira assinada. \"Hoje a idade mediana de um trabalhador estÃ¡ acima dos 40 anos. O mercado de trabalho tende a ser reflexo de muitas questÃµes estruturais no Brasil, inclusive a demografia\", diz o economista Bruno Imaizumi, da consultoria 4intelligence. A mudanÃ§a reflete a prÃ³pria composiÃ§Ã£o etÃ¡ria da populaÃ§Ã£o: a faixa de 40 anos ou mais aumentou porque absorveu quem envelheceu, e a de atÃ© 39 anos diminuiu porque hÃ¡ menos jovens para entrar no mercado de trabalho. Mas existem tambÃ©m componentes comportamentais nesse movimento, segundo especialistas, como, por exemplo, o fato de que os jovens, amparados pelo aumento dos benefÃ­cios sociais, estÃ£o estudando mais e, portanto, participando menos da forÃ§a de trabalho, seja trabalhando, seja procurando emprego. Na contramÃ£o, os mais velhos estÃ£o mais ativos no mercado de trabalho, jÃ¡ que a populaÃ§Ã£o estÃ¡ vivendo mais e com melhores condiÃ§Ãµes fÃ­sicas e mentais do que nas dÃ©cadas anteriores. Nesse contingente estÃ¡ Luciana Kubo, que aos 56 anos encontrou na construÃ§Ã£o civil uma nova etapa profissional depois de um longo afastamento do emprego formal. Formada em administraÃ§Ã£o, ela comeÃ§ou a trabalhar aos 17 anos e em 1999, durante uma gravidez de risco, precisou deixar o emprego. Nesse perÃ­odo, ajudou a administrar uma empresa de comÃ©rcio eletrÃ´nico criada pelo ex-marido. O negÃ³cio chegou a faturar cerca de R$ 300 mil por ano, mas perdeu espaÃ§o com as mudanÃ§as tecnolÃ³gicas e a popularizaÃ§Ã£o dos celulares. Luciana se dedicou Ã criaÃ§Ã£o dos trÃªs filhos e ficou cerca de 20 anos fora do mercado formal. HÃ¡ cinco anos, quando resolveu retornar, temia que a idade e o tempo afastada dificultassem a recolocaÃ§Ã£o. \"Quem Ã© que vai empregar uma mulher de 51 anos?\", perguntava a si mesma. No entanto, em pouco tempo ela foi contratada para a Ã¡rea administrativa de uma construtora. E, depois de acompanhar de perto a rotina do canteiro, ela comeÃ§ou a atuar como fiscal de obras, no ano passado. O mestre de obras Edilson da Hora, 44, que trabalha na mesma construtora, diz preferir contratar profissionais mais velhos, que considera mais comprometidos com o trabalho. Para ele, a construÃ§Ã£o civil tem perdido atratividade entre os jovens, em parte pelo esforÃ§o fÃ­sico exigido. O salto na participaÃ§Ã£o dos 40+ no mercado de trabalho acende um alerta de longo prazo, de acordo com economistas. Com a transiÃ§Ã£o demogrÃ¡fica em curso e a populaÃ§Ã£o economicamente ativa encolhendo progressivamente, qualificar a mÃ£o de obra jovem se torna estratÃ©gico para o crescimento do paÃ­s. \"Ã preocupante que os mais joven",
+  "numeros": [
+   {
+    "valor": "47,8%",
+    "rotulo": "participação de trabalhadores 40+ nas vagas formais"
+   },
+   {
+    "valor": "32%",
+    "rotulo": "crescimento nas admissões de trabalhadores 40+"
+   },
+   {
+    "valor": "40%",
+    "rotulo": "aumento das demissões entre trabalhadores 40+"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de segurança e estabilidade no emprego",
+  "angulo": "Entender o crescimento dos trabalhadores 40+ no mercado financeiro pode ajudar a ajustar estratégias para gerar renda extra e adaptação profissional sem depender de emprego fixo.",
+  "gancho": "Enquanto jovens buscam *flexibilidade*, experientes conquistam espaço",
+  "ideias": [
+   "40+ estão dominando o mercado de trabalho!",
+   "A nova força de trabalho: quem são os 40+?",
+   "Demissões crescem: como se proteger?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/trabalhadores-40-ja-sao-quase-metade-das-vagas-com-carteira-assinada.shtml",
+  "publicadoEm": "2026-11-01T23:00:00-03:00",
+  "data": "2026-11-01",
+  "id": "2026-11-02-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: novo modelo de trabalho",
+  "resumo": "A nova PEC reduz jornada de trabalho e impacta empresas e profissionais. Estruturas precisarão se adaptar ao novo cenário.",
+  "fatos": [
+   "A PEC que extingue a escala 6x1 foi aprovada em outubro de 2026.",
+   "A jornada máxima cairá de 44 para 40 horas semanais, sem redução salarial.",
+   "A implementação será gradual: 42 horas em 60 dias e 40 horas em 12 meses.",
+   "Setores dependentes de presença física terão que reorganizar turnos e contratar mais.",
+   "As horas extras se tornaram mais caras com a redução do divisor mensal."
+  ],
+  "explicacao": [
+   "A mudança na jornada de trabalho representa uma nova era nas relações de trabalho no Brasil, refletindo a busca por mais flexibilidade.",
+   "Empresas precisarão repensar processos e estruturas para se adequar ao novo modelo de trabalho.",
+   "Os impactos financeiros serão diretos, com um aumento no custo das horas extras para os empregadores."
+  ],
+  "materia": "Publicado em 2 de novembro de 2026 às 06:00 A aprovação da Proposta de Emenda à Constituição (PEC) que extingue a tradicional escala 6x1 e reduz a jornada máxima de trabalho de 44 para 40 horas semanais — sem redução salarial e garantindo dois dias de descanso remunerado — marca uma virada histórica nas relações de trabalho no Brasil. Aprovada em dois turnos pelo Senado Federal e promulgada no Congresso em outubro de 2026, a nova regra estabeleceu uma implementação gradual: 60 dias após a promulgação, a jornada limite cai para 42 horas semanais; 12 meses depois, consolida-se em 40 horas. Na prática, a mudança legislativa encontra eco em um movimento que já vinha transformando os escritórios e postos de trabalho em Salvador e por todo o país: o fim da lógica do \"ponto rígido\" e a busca por flexibilidade. Com a rotina das 8h às 17h perdendo espaço para modelos focados em entregas e na qualidade de vida, empresas e trabalhadores enfrentam agora o desafio de reorganizar turnos, adaptar processos internos, revisar a cultura de gestão e assegurar respaldo jurídico nessa nova era. Diferente do que parte do mercado supunha, a mudança não exige nova regulamentação complementar para a sua regra geral, sendo autoaplicável nos prazos fixados. No entanto, o tempo para reestruturação operacional das empresas é exíguo. O advogado trabalhista Breno Novelli detalha o cronograma e alerta para a urgência da adaptação. \"A mudança não é imediata, mas escalonada em duas etapas. Sessenta dias após a promulgação, as empresas terão de adotar a escala 5x2 e limitar a jornada a 42 horas semanais; doze meses depois, o teto cai para 40 horas. Na prática, a primeira virada ocorre em meados de dezembro de 2026, e a jornada de 40 horas passa a ser obrigatória no final de 2027\", explica. O advogado reforça que todo esse processo deve ocorrer sem redução salarial, o que é o ponto central da reforma. Novelli ressalta que setores de funcionamento contínuo e dependentes de atendimento presencial — como comércio varejista, supermercados, hotéis, restaurantes, postos de combustíveis e farmácias — sentirão os primeiros impactos operacionais. \"São atividades que dependem de presença física no balcão e terão de contratar mais ou reorganizar turnos para cobrir os dois dias de folga. Nos serviços terceirizados, como limpeza e vigilância, cujo custo é calculado por posto, contratos com o poder público poderão receber aditivo em até 12 meses para reequilibrar custos, o que deve gerar uma onda de pedidos de reequilíbrio econômico-financeiro\", acreddita. Além das reestruturações de escala, o impacto financeiro incide diretamente sobre o valor da hora trabalhada. Com a manutenção dos salários e a redução da carga semanal, o divisor mensal cai de 220 para 210 (na transição de 42h) e, finalmente, para 200 horas (no modelo final de 40h). Consequentemente, as horas extraordinárias ficarão automaticamente mais caras para os empregadores, mesmo sem alteração no percentual do adicional constitucional de 50%. A transição traz pontos de atenção em relação à segurança jurídica. A Constituição mantém o limite máximo de oito horas diárias, a menos que haja compensação formalizada. Para distribuir as 42 horas ao longo dos cinco dias úteis (por exemplo, estendendo a jornada diária em 24 ou 30 minutos em alguns dias), a interpretação predominante exige validação por acordo ou convenção coletiva. \"Cláusulas coletivas que contrariem as novas regras deixam de valer na primeira etapa, dois meses após a publicação. As soluções mais seguras para a transição passam necessariamente pela mesa de negociação. Para os empregadores, o diálogo sindical voltou a ser estratégico\", pontua. Se por um lado o âmbito legal exige adequação formal de escalas, pelo lado da gestão e cultura organizacional, a redução de horas obriga os líderes a abandonarem velhos paradigmas de controle. De acordo com Alise Dabdoub, especialista em liderança da Hogan Assessments, o maior desafio corporativo será aprender a medir o ",
+  "numeros": [
+   {
+    "valor": "220 para 200",
+    "rotulo": "divisor mensal de horas"
+   }
+  ],
+  "fonte": "Jornal Correio",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "aumento das despesas com horas extras",
+  "angulo": "Dominar o mercado financeiro pode ajudar a diversificar sua renda e enfrentar custos crescentes. Aprender a investir é uma alternativa viável em tempos de mudanças no mercado de trabalho.",
+  "gancho": "*Nova jornada de trabalho* e seus impactos!",
+  "ideias": [
+   "Como a nova jornada afeta seu bolso?",
+   "Prepare sua empresa para a nova realidade!",
+   "A importância de entender o mercado financeiro na nova era de trabalho!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://www.correio24horas.com.br/economia/empregos/fim-da-escala-6x1-e-a-nova-jornada-1126",
+  "publicadoEm": "2026-11-02T06:00:00-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aumento de até 15% nas taxas de condomínio",
+  "resumo": "Com o fim da escala 6x1, os condomínios podem enfrentar aumentos nas taxas e redução de serviços. Isso impacta diretamente o bolso dos condôminos e a qualidade de vida.",
+  "fatos": [
+   "O fim da escala 6x1 pode elevar as taxas de condomínio em até 15%.",
+   "Os custos com mão de obra representam até 70% das despesas condominiais.",
+   "Novas contratações podem aumentar os custos em 6,9%.",
+   "O pagamento de horas extras pode resultar em um aumento de 8,6% nas despesas.",
+   "As mudanças na jornada de trabalho começam em 15 de dezembro, reduzindo a carga semanal de 44 para 42 horas."
+  ],
+  "explicacao": [
+   "A decisão de acabar com a escala 6x1 foi tomada para progredir em direitos trabalhistas.",
+   "Na prática, os condomínios terão que adaptar suas escalas, o que pode levar a uma maior contratação de pessoal ou à redução de serviços.",
+   "Isso se traduz em custos adicionais que serão repassados aos moradores, impactando diretamente o orçamento familiar."
+  ],
+  "materia": "Condomínios residenciais e comerciais de todo o país precisarão se adaptar ao fim da escala 6×1 — Foto: Marcia Foletto/Agência O Globo O fim da escala 6×1 pode provocar aumento de até 15% nas taxas de condomínio e levar à redução de serviços em prédios de todo o país. Segundo o Sindicato da Habitação, os gastos com mão de obra representam até 70% das despesas condominiais. Para manter a qualidade dos serviços, muitos condomínios terão de contratar mais funcionários. Outra alternativa é reduzir a frequência de atividades, como a limpeza. A avaliação é do especialista em Direito Imobiliário Ronan Lelis, que aponta ainda o pagamento de horas extras como uma possibilidade para adequar as escalas. As estimativas indicam que novas contratações podem elevar os custos em 6,9%. Já o pagamento de horas extras representaria um aumento de 8,6%. As mudanças na jornada começam em 15 de dezembro, quando o limite semanal cairá de 44 para 42 horas. Um ano depois, a carga horária será reduzida para 40 horas semanais. Dificuldade zero, novo governo, sem dividas de governos anteriores. Tudo no ouro. [VÍDEO] Fantástico revela detalhes inéditos das investigações sobre a fuga de Flávio Bolsonaro https://t.co/czdYjblliU https://t.co/YRmdFAFdL1 O Fantástico revelou neste domingo (1°), detalhes inéditos das investigações da Polícia Federal que revelam como foi montada a logística de fuga do senador Flávio Bolsonaro (PL) para os Estados Unidos. A reportagem refez o trajeto percorrido pelo parlamentar até Puerto Iguazú, na Argentina, ponto de partida do voo privado que o levou a Miami junto com a família. Flávio deixou o país após o Supremo Tribunal Federal (STF) ordenar a apreensão de seus passaportes. Registros de fronteira obtidos pelo programa mostram que duas vans cruzaram a ponte que liga Foz do Iguaçu ao lado argentino na noite da travessia. Os dados migratórios confirmam que no segundo veículo viajavam três pessoas: o motorista, o advogado Roberto Jorge Alexandre, que atuou na defesa do ex-presidente Jair Bolsonaro e um cidadão israelense apontado como ex-oficial do serviço de inteligência de Israel, com histórico de registros fotográficos ao lado de autoridades como o primeiro-ministro Benjamin Netanyahu. A governadora do Estado, Fátima Bezerra (PT), entrou forte na bolsa de apostas de Brasília para compor o primeiro escalão do governo do presidente Luiz Inácio Lula da Silva. Nos bastidores do Palácio do Planalto, o nome da petista potiguar ganha tração para comandar um ministério na área social. A movimentação ocorre em momento de alta prestígio político de Fátima com a governança federal. Além de ter conseguido eleger seu sucessor no Executivo potiguar, a governadora acumula o reconhecimento público do próprio presidente. Em conversas com aliados, Lula costuma pontuar a trajetória da gestora no estado, destacando sua resiliência diante dos duros e violentos ataques machistas que enfrentou ao longo dos anos de mandato no RN. Outro fator que joga a favor da indicação é a pressão interna no Planalto por representatividade: a eventual escolha de Fátima atenderia diretamente ao compromisso de manter um contingente expressivo de mulheres no alto escalão da equipe ministerial de Lula. Com informações da Coluna Painel / Folha de São Paulo ENQUANTO ISSO 8 ANOS DE ATRASO NO RN, MISERICÓRDIA , HOSPITAIS AOS PEDAÇOS . SEGURANÇA ZERO. EDUCAÇÃO ÚLTIMO MUNDO. O senador Flávio Bolsonaro (PL-RJ) usou as redes sociais neste domingo (1º) para criticar a reportagem do Fantástico , da TV Globo, sobre sua saída do país após o resultado das eleições presidenciais. Na publicação, o parlamentar explicou ter recusado conceder entrevista ao programa por não obter a garantia de que a conversa seria exibida na íntegra, sem cortes ou restrições editoriais aos temas abordados. Fui procurado por vários veículos nesta semana, inclusive pela Rede Globo, que me convidou para uma entrevista exclusiva. Aceitei com uma condição simples: que fosse exibida na íntegra, sem cortes e s",
+  "numeros": [
+   {
+    "valor": "15",
+    "rotulo": "percentual máximo de aumento nas taxas"
+   },
+   {
+    "valor": "70",
+    "rotulo": "percentual das despesas condominiais com mão de obra"
+   },
+   {
+    "valor": "6,9",
+    "rotulo": "aumento percentual com novas contratações"
+   },
+   {
+    "valor": "8,6",
+    "rotulo": "aumento percentual com horas extras"
+   }
+  ],
+  "fonte": "Blog do BG",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Aumento nas taxas condominiais impacta o orçamento mensal.",
+  "angulo": "Aprender sobre o mercado financeiro pode ser uma saída para suavizar as ondas de custo de vida, oferecendo novas fontes de renda e menor dependência das mudanças econômicas.",
+  "gancho": "Prepare-se para *aumentos nas taxas de condomínio*",
+  "ideias": [
+   "Como o fim da escala 6x1 afeta seu bolso",
+   "Taxas de condomínio em alta? Veja como se proteger",
+   "A nova jornada de trabalho e seu impacto nas finanças"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://www.blogdobg.com.br/fim-da-escala-6x1-deve-afetar-servicos-e-elevar-valor-dos-condominios/",
+  "publicadoEm": "2026-11-02T06:37:53-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fechar lojas para se adaptar ao novo trabalho",
+  "resumo": "Lojas de veículos podem fechar mais um dia por conta do fim da escala 6x1, afetando atendimento e funcionários. Essa mudança pode impactar sua renda e o mercado de trabalho local.",
+  "fatos": [
+   "Lojas de veículos cogitam fechar um dia extra na semana devido ao fim da escala 6x1.",
+   "A reflexão sobre o fechamento inclui potencialmente a segunda-feira, mas não está definido.",
+   "O vice-presidente do Sincodiv-RS, Ambrósio Pesce Neto, comentou sobre a situação.",
+   "Fechar um dia ajudaria a manter a eficientização sem aumento de funcionários.",
+   "Sábados são o dia de maior movimento, com mais clientes visitando as lojas."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 e a redução da jornada de trabalho para 40 horas semanais trazem mudanças significativas para o setor.",
+   "As empresas buscam alternativas para se adaptar à nova realidade, como fechar um dia por semana.",
+   "Essa mudança pode afetar a oferta de empregos e a dinâmica do atendimento ao cliente nas lojas."
+  ],
+  "materia": "Jornalista de Economia, apresentadora da Rádio Gaúcha e comentarista da RBS TV, traz notícias, comentários e dicas da macroeconomia às finanças pessoais. As lojas de veículos avaliam fechar mais um dia na semana para ajudar no ajuste do fim da escala 6x1 e da redução da jornada de trabalho a 40 horas semanais . Talvez seja a segunda-feira , como o setor tem discutido nacionalmente, mas ainda não está definido, diz o vice-presidente do Sindicato dos Concessionários e Distribuidores de Veículos do Rio Grande do Sul ( Sincodiv-RS ), Ambrósio Pesce Neto. — Tem oficinas que, em alguns momentos, têm serviços essenciais, mas nada que o mercado não se adapte . Relembremos os domingos, quando abríamos — comenta o executivo. Fechar na segunda ou em outro dia de meio de semana preservaria o atendimento aos sábados sem aumentar o quadro de funcionários. O dia é o de maior movimento, pois os clientes têm tempo para visitar as lojas e testar os carros. A possibilidade de fechar domingo está sendo avaliada por supermercados. Relembre: Supermercados gaúchos cogitam fechar aos domingos com o fim da escala 6x1 Confira as principais notícias de empresas dos últimos dias. Assista ao programa Pílulas de Negócios , da coluna Acerto de Contas. Episódio desta semana: licenças da CMPC, indústria se afasta do rio, safra cheia e R$ 60 milhões para inovar Coluna Giane Guerra (giane.guerra@rdgaucha.com.br) Com Isadora Terra (isadora.terra@zerohora.com.br) e João Pedro Cecchini (joao.cecchini@zerohora.com.br)",
+  "numeros": [
+   {
+    "valor": "40",
+    "rotulo": "horas semanais de trabalho permitidas"
+   }
+  ],
+  "fonte": "GZH",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "perda de dias de trabalho e renda",
+  "angulo": "O fechamento de lojas pode impactar o seu trabalho e a renda. Conheça como dominar o mercado financeiro pode garantir maior flexibilidade e oportunidades.",
+  "gancho": "Mudanças no mercado: *o fechamento é real*",
+  "ideias": [
+   "O que significa o fim da escala 6x1?",
+   "Impactos do fechamento nas lojas de veículos",
+   "Como o mercado se adapta às novas leis"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-02T07:43:03-03:00",
+  "url": "https://gauchazh.clicrbs.com.br/colunistas/giane-guerra/noticia/2026/11/lojas-de-veiculos-cogitam-fechar-mais-um-dia-na-semana-com-fim-da-escala-6x1-cmvwtrpiw02ds016ns2kt57oj.html",
+  "publicadoEm": "2026-11-02T07:11:51-03:00",
+  "data": "2026-11-02",
+  "id": "2026-11-02-trader-06"
  },
  {
   "segmento": "trader",
