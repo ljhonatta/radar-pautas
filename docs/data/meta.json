@@ -1,28 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-03T14:24:04-03:00",
-  "novas": 8,
+  "ultimaColeta": "2026-11-03T18:25:11-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): Mais imposto sobre consumo pode afetar sua renda; Novo projeto protege *idosos no mercado financeiro*; Mudanças legais que podem afetar seu bolso.",
-  "falhas": [
-   "Google Notícias 'escala 6x1' (HTTPError)",
-   "Google Notícias 'Receita Federal' (HTTPError)",
-   "Google Notícias 'imposto de renda' (HTTPError)",
-   "Google Notícias 'INSS aposentadoria' (HTTPError)",
-   "Google Notícias 'salário mínimo' (HTTPError)",
-   "Google Notícias 'desemprego IBGE' (HTTPError)",
-   "Google Notícias 'inflação IPCA' (HTTPError)",
-   "Google Notícias 'Copom Selic juros' (HTTPError)",
-   "Google Notícias 'MEI Simples Nacional' (HTTPError)",
-   "Google Notícias 'Câmara aprova projeto trabalhador' (HTTPError)",
-   "Google Notícias 'Senado aprova empresas' (HTTPError)",
-   "Google Notícias 'custo de vida' (HTTPError)",
-   "Google Notícias 'CLT direitos trabalhistas' (HTTPError)",
-   "Google Notícias 'reforma tributária empresas' (HTTPError)"
-  ],
+  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1 e seus impactos no trabalho; Fim da escala 6x1 gera incertezas no mercado de trabalho; A nova escala de trabalho e seu impacto nas mensalidades.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-03T18:25:11-03:00",
    "2026-11-03T14:24:04-03:00",
    "2026-11-03T00:08:02-03:00",
    "2026-11-02T20:16:22-03:00",
@@ -33,32 +19,19 @@
    "2026-11-01T17:02:24-03:00",
    "2026-11-01T13:29:20-03:00",
    "2026-10-31T21:31:07-03:00",
-   "2026-10-31T16:39:32-03:00",
-   "2026-10-31T12:31:30-03:00"
+   "2026-10-31T16:39:32-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-03T14:24:04-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-03T18:25:11-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Pequenas indústrias enfrentam pior situação financeira em 5 anos; Reforma tributária: como o IVA Dual impacta seu negócio; Proibição das apostas online pode impactar seu negócio.",
-  "falhas": [
-   "Google Notícias 'Instagram novidade empresas' (HTTPError)",
-   "Google Notícias 'WhatsApp Business' (HTTPError)",
-   "Google Notícias 'Meta anúncios' (HTTPError)",
-   "Google Notícias 'Google anúncios pequenas empresas' (HTTPError)",
-   "Google Notícias 'TikTok Shop' (HTTPError)",
-   "Google Notícias 'inteligência artificial pequenas empresas' (HTTPError)",
-   "Google Notícias 'varejo vendas pesquisa' (HTTPError)",
-   "Google Notícias 'e-commerce Brasil' (HTTPError)",
-   "Google Notícias 'Black Friday varejo' (HTTPError)",
-   "Google Notícias 'Sebrae pequenos negócios' (HTTPError)",
-   "Google Notícias 'comportamento do consumidor pesquisa' (HTTPError)",
-   "Google Notícias 'PEGN empreendedor' (HTTPError)"
-  ],
+  "mensagem": "7 pauta(s) nova(s): A nova conveniência em tempos de orçamento apertado; Black Friday deve movimentar R$ 296,8 bilhões no Brasil; El Niño pode impactar vendas em 2027.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-03T18:25:11-03:00",
    "2026-11-03T14:24:04-03:00",
    "2026-11-03T00:08:02-03:00",
    "2026-11-02T20:16:22-03:00",
@@ -69,8 +42,7 @@
    "2026-11-01T17:02:24-03:00",
    "2026-11-01T13:29:20-03:00",
    "2026-10-31T21:31:07-03:00",
-   "2026-10-31T16:39:32-03:00",
-   "2026-10-31T12:31:30-03:00"
+   "2026-10-31T16:39:32-03:00"
   ]
  }
 }

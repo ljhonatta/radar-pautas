@@ -1,6 +1,412 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Crescimento das vendas requer ação marketing efetiva",
+  "resumo": "Após a proibição das apostas online, 84,3% dos atacarejos viram crescimento nas vendas, evidenciando a necessidade de planejamento de marketing para acompanhar mudanças no comportamento do consumidor.",
+  "fatos": [
+   "Aumentou em 7,8% o faturamento dos atacarejos após a proibição das apostas online.",
+   "O volume de produtos vendidos também subiu 2,4% na mesma comparação.",
+   "A pesquisa da NielsenIQ analisou 16.353 estabelecimentos, incluindo supermercados e farmácias.",
+   "A melhora nas vendas dos atacarejos alcançou 84,3% das lojas entrevistadas.",
+   "Comparativamente, outras categorias do varejo obtiveram recuperação em 56,9% dos estabelecimentos."
+  ],
+  "explicacao": [
+   "O crescimento das vendas nos atacarejos coincide com a suspensão das apostas, embora não exista relação comprovada entre os dois eventos.",
+   "O aumento no faturamento se relaciona a consumidores optando por produtos de maior valor.",
+   "Esse comportamento de compra está mudando a composição das cestas, o que sinaliza uma recuperação no consumo nesse segmento."
+  ],
+  "materia": "Pesquisa da NielsenIQ aponta alta de 7,8% no faturamento e de 2,4% nas unidades vendidas após suspensão das apostas online no Brasil 247 – O setor de atacarejo registrou crescimento das vendas em 84,3% dos estabelecimentos analisados nas três semanas posteriores à proibição das apostas online no Brasil. Um levantamento da NielsenIQ identificou uma recuperação do consumo nesse segmento, com aumento de 7,8% no faturamento e de 2,4% na quantidade de produtos comercializados na semana encerrada em 25 de outubro. Os resultados também indicam uma mudança no perfil das compras, com maior participação de mercadorias de preços elevados. Os relatos foram publicados nesta terça-feira (3) pela coluna de Lauro Jardim . A melhora alcançou uma proporção maior de lojas de atacarejo do que de estabelecimentos de outros segmentos do comércio. Enquanto 84,3% das unidades desse setor apresentaram avanço nas vendas, o percentual chegou a 56,9% nos demais canais analisados, entre eles supermercados, farmácias e lojas de conveniência. Os dados mostram uma sequência de crescimento tanto da receita quanto do volume de mercadorias vendidas após a suspensão das plataformas de apostas. O desempenho indica uma recuperação do consumo nos estabelecimentos que combinam características do atacado e do varejo. A evolução das vendas também ocorreu em um período de mudanças na composição das cestas de compras. A pesquisa identificou que os consumidores passaram a adquirir uma proporção maior de produtos com preços superiores, comportamento que contribuiu para o crescimento do faturamento do setor. Entre as semanas 36 e 43 do calendário de 2026, o indicador de mix de produtos do atacarejo apresentou crescimento de 2,61%. A variação demonstra que mercadorias de maior valor passaram a ocupar uma parcela mais expressiva das compras realizadas pelos consumidores. As categorias de refrigerantes e cervejas concentraram parte dessa mudança no comportamento de consumo. O levantamento identificou nesses segmentos uma participação mais elevada de produtos com preços superiores dentro das cestas analisadas. O avanço do indicador de mix ocorreu enquanto o preço de uma cesta fixa de alimentos registrou aumento de 0,65% no mesmo intervalo. Os números permitem distinguir a evolução dos preços da mudança nas escolhas dos consumidores. A diferença entre os indicadores mostra que o crescimento do faturamento não dependeu exclusivamente da elevação dos preços dos alimentos. A quantidade de unidades vendidas também aumentou, enquanto a composição das compras passou a incluir uma proporção maior de mercadorias de valor elevado. Embora a recuperação do atacarejo tenha coincidido com as primeiras semanas após a proibição das apostas online, a NielsenIQ não identificou uma relação comprovada de causa e efeito entre os dois acontecimentos. O estudo registra a proximidade temporal entre a suspensão das bets e a melhora do comércio, mas não conclui que o fim das apostas tenha provocado diretamente o aumento das vendas. Essa distinção integra a interpretação dos resultados, uma vez que os indicadores mostram a evolução do desempenho comercial sem determinar quais fatores explicam integralmente as mudanças no consumo. A pesquisa também permite comparar a intensidade da recuperação entre diferentes segmentos do varejo. O atacarejo apresentou uma proporção de estabelecimentos com melhora superior à observada nos demais canais comerciais incluídos no levantamento. A NielsenIQ utilizou um painel de 16.353 estabelecimentos para acompanhar o comportamento das vendas no comércio brasileiro. A amostra reúne unidades de atacarejo, supermercados, farmácias e lojas de conveniência. A metodologia considera o desempenho das mesmas lojas em períodos equivalentes de 2025, permitindo comparar a evolução das receitas, das quantidades comercializadas e da composição das cestas de produtos. Os pesquisadores também confrontaram os resultados com 103 intervalos históricos de comparação. Esse procedimento buscou ",
+  "numeros": [
+   {
+    "valor": "7.8",
+    "rotulo": "aumento percentual do faturamento"
+   },
+   {
+    "valor": "2.4",
+    "rotulo": "aumento percentual das unidades vendidas"
+   },
+   {
+    "valor": "84.3",
+    "rotulo": "percentual de atacarejos com vendas crescentes"
+   },
+   {
+    "valor": "56.9",
+    "rotulo": "percentual de outros canais de varejo com vendas crescentes"
+   }
+  ],
+  "fonte": "Brasil 247",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas e relevância no mercado",
+  "angulo": "A pesquisa mostra como mudanças no comportamento do consumidor impactam vendas, o que sublinha a importância de estratégias de marketing digital e gestão de redes para se manter relevante.",
+  "gancho": "você *conhece o impacto* da mudança no consumo?",
+  "ideias": [
+   "Atacarejo e o fenômeno das apostas",
+   "Como a mudança nas leis afeta suas vendas",
+   "Estratégias de marketing em tempos de mudança"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://www.brasil247.com/economia/vendas-crescem-em-84-dos-atacarejos-apos-proibicao-das-bets/",
+  "publicadoEm": "2026-11-03T17:13:57-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday movimentará R$ 296,8 bilhões no Brasil",
+  "resumo": "A expectativa é que o varejo brasileiro tenha uma movimentação recorde durante a Black Friday de novembro, totalizando R$ 296,8 bilhões. Isso representa uma oportunidade significativa para os empresários.",
+  "fatos": [
+   "A Black Friday deste ano deve movimentar R$ 296,8 bilhões.",
+   "O varejo brasileiro está se preparando para essa grande venda em novembro.",
+   "Os empresários devem se atentar às tendências de consumo para maximizar lucros."
+  ],
+  "explicacao": [
+   "Com a aproximação da Black Friday, as vendas costumam ser impulsionadas por promoções e estratégias de marketing eficazes.",
+   "Empresários que não se preparam para essa data podem perder oportunidades relevantes de vendas.",
+   "Adotar um planejamento focado em marketing digital é essencial para se destacar nesse período."
+  ],
+  "materia": "",
+  "numeros": [
+   {
+    "valor": "R$ 296,8 bilhões",
+    "rotulo": "movimentação no varejo"
+   }
+  ],
+  "fonte": "Monitor Mercantil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perder vendas importantes na Black Friday.",
+  "angulo": "Entender a movimentação do mercado é crucial para adotar estratégias de marketing eficientes e impulsionar vendas neste período.",
+  "gancho": "Prepare-se para a *Black Friday mais lucrativa*",
+  "ideias": [
+   "Dicas para lucrar na Black Friday",
+   "Como se destacar na Black Friday",
+   "Importância do marketing na Black Friday"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://monitormercantil.com.br/varejo-brasileiro-deve-movimentar-r-2968-bilhoes-em-novembro/",
+  "publicadoEm": "2026-11-03T16:52:42-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Impactos da economia no seu negócio em 2023",
+  "resumo": "A recente elevação nas projeções da Selic e inflação afeta diretamente o consumo e o crescimento econômico. Entenda como isso impacta suas vendas e a importância do marketing.",
+  "fatos": [
+   "A Selic foi projetada em 13,50% para 2026, subindo de 13,25%.",
+   "Atualmente, a Selic está em 13,75%.",
+   "A inflação, medida pelo IPCA, subiu para 5,22% em 2026.",
+   "O PIB para 2026 teve a projeção reduzida para 1,76% por semana consecutiva.",
+   "A cotação do dólar passou de R$ 5,05 para R$ 5,34, refletindo um aumento nas expectativas.",
+   "A prévia da inflação oficial foi de 0,32% em outubro, impactada pela queda na energia elétrica.",
+   "Alimentos, como tomate e cebola, tiveram altas significativas, o que pressiona o bolso do consumidor."
+  ],
+  "explicacao": [
+   "O aumento nas projeções da Selic e da inflação indica um cenário de crédito mais caro, desencorajando o consumo.",
+   "Essas mudanças podem afetar a demanda por produtos e serviços, impactando diretamente suas vendas.",
+   "A projeção do PIB em queda sugere um ambiente econômico instável, o que aumenta a urgência de estratégias eficazes de marketing.",
+   "Com o dólar mais alto, os custos de importação aumentam, o que pode afetar preços e margens de lucro.",
+   "É crucial que os empresários estejam atentos a essas mudanças para ajustar suas estratégias de marketing e vendas."
+  ],
+  "materia": "O mercado financeiro elevou as projeções para a taxa básica de juros (Selic), a inflação e o dólar neste ano e reduziu, pela terceira semana consecutiva, a estimativa de crescimento da economia. Os dados constam do Boletim Focus, relatório semanal divulgado pelo Banco Central. Neste primeiro boletim após o resultado das eleições presidenciais, a projeção para a taxa básica de juros (Selic) ao final de 2026 passou de 13,25% na semana passada para 13,50% – mesmo patamar estimado há quatro semanas. Atualmente, a Selic está em 13,75%, o que indica que o mercado ainda espera por um corte de 0,25 ponto percentual até o fim do ano. Para 2027 e 2028, as projeções para a Selic estão em 12,5% e 11%, respectivamente. A Selic é o principal instrumento do Banco Central para controlar a inflação. Juros mais altos encarecem o crédito e ajudam a reduzir a demanda e os preços, mas podem frear a atividade econômica. Juros menores estimulam o consumo e os investimentos, favorecendo o crescimento, mas podem pressionar a inflação. Utilizado para medir a inflação oficial do País, o Índice Nacional de Preços ao Consumidor Amplo (IPCA) também está entre as projeções do Boletim Focus. As estimativas do mercado financeiro para 2026 subiram de 5,19% há uma semana, para 5,22%. Há quatro semanas, a projeção para o IPCA era de 5,01%. Para 2027, o mercado projeta inflação de 4,76%. Para 2028, a expectativa é de 4%. A prévia da inflação oficial ficou em 0,32% em outubro, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). Com o resultado, o IPCA-15 acumula alta de 4,62% em 12 meses, acima do teto da meta de inflação. A desaceleração em relação a setembro (0,70%) foi influenciada principalmente pela queda da energia elétrica residencial, após a adoção da bandeira tarifária verde no mês de outubro. A maior pressão de alta veio dos alimentos, com destaque para tomate (24,54%), cebola (13,63%), batata-inglesa (10,96%) e arroz (5,80%). Com relação ao Produto Interno Bruto (PIB), soma dos bens e serviços produzidos no País, o mercado financeiro reduziu, pela terceira semana consecutiva, as projeções para 2026. Há uma semana, o mercado projetava crescimento de 1,8% para o PIB em 2026. Na atual edição do Boletim Focus, essa estimativa recuou para 1,76%. Para 2027, a expectativa é de crescimento de 1,2% e para 2028, 1,8%. As projeções para a cotação do dólar ao final do ano subiram de R$ 5,05, há uma semana, para R$ 5,34. O mercado estima que, em 2027, a moeda norte-americana encerrará o ano cotada a R$ 5,40. Para 2028, a projeção se mantém em R$ 5,40. Com informações de Agência Brasil. Imagem: Envato Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "13,50%",
+    "rotulo": "Selic projetada para 2026"
+   },
+   {
+    "valor": "5,22%",
+    "rotulo": "Inflação projetada para 2026"
+   },
+   {
+    "valor": "1,76%",
+    "rotulo": "Crescimento do PIB para 2026"
+   },
+   {
+    "valor": "R$ 5,34",
+    "rotulo": "Dólar projetado para o final do ano"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Você pode perder vendas e clientes se não se adaptar.",
+  "angulo": "As mudanças econômicas ressaltam a necessidade urgente de marketing para ajustar sua abordagem e manter a competitividade.",
+  "gancho": "Cómo a *economia afeta seu negócio*",
+  "ideias": [
+   "Adapte seu marketing à nova realidade econômica",
+   "Impacto da inflação no comportamento do consumidor",
+   "Dicas para sobreviver em tempos de juros altos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://mercadoeconsumo.com.br/03/11/2026/economia/focus-eleva-estimativas-para-selic-inflacao-e-dolar-projecao-do-pib-e-reduzida/",
+  "publicadoEm": "2026-11-03T14:44:27-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Reajuste no preço do combustível de aviação afeta custos",
+  "resumo": "A Petrobras anunciou um aumento de R$ 0,45 no querosene de aviação, o que impacta as companhias aéreas e o mercado. Esse reajuste reflete tensões geopolíticas e aumento dos custos operacionais.",
+  "fatos": [
+   "A Petrobras anunciou um reajuste de 7,2% no querosene de aviação (QAV) a partir do dia 1.",
+   "O aumento foi de R$ 0,45 por litro em relação ao mês anterior.",
+   "Em outubro, já houve um reajuste de 11,76%, ou R$ 0,65 por litro.",
+   "A participação da Petrobras na produção do QAV nacional é de cerca de 85%.",
+   "A participação do QAV nos custos operacionais das companhias aéreas subiu de 30% para mais de 45% desde o início dos conflitos no Oriente Médio."
+  ],
+  "explicacao": [
+   "O reajuste é resultado da alta na cotação internacional do combustível devido a tensões geopolíticas no Oriente Médio e à redução da capacidade de refino na Rússia e na Ucrânia.",
+   "As variações de preços no Brasil são menores do que as observadas internacionalmente, onde os reajustes podem ser diários.",
+   "O aumento nos custos do QAV pode impactar os preços das passagens aéreas, refletindo em uma possível redução na demanda."
+  ],
+  "materia": "A Petrobras anunciou reajuste médio de 7,2% no querosene de aviação vendido às distribuidoras, a partir deste domingo, 1. Isso corresponde a um aumento de R$ 0,45 por litro em relação ao mês anterior. Em outubro, o combustível utilizado em aviões e helicópteros já havia sofrido reajuste médio de 11,76%, ou 0,65 centavos por litro. A estatal tem participação de cerca de 85% na produção do QAV nacional, mas o mercado é aberto à livre concorrência, sem restrições para outras empresas atuarem como produtoras ou importadoras. De acordo com a companhia, o reajuste se deve ao aumento da cotação internacional do combustível, “em um cenário de intensificação das tensões geopolíticas no Oriente Médio e de redução da capacidade de refino na Rússia e na Ucrânia em decorrência do conflito entre os dois países.” A Petrobras ressalvou, em nota, que as variações acumuladas no Brasil são menores do que as observadas no mercado internacional, onde os reajustes chegam a ser diários, desde o início do conflito no Oriente Médio. Aqui, o valor é reajustado mensalmente. A companhia disse também que segue uma “fórmula paramétrica prevista em contrato”, que vem amortecendo as oscilações de curto prazo, “resultando em reajustes mais moderados do que os observados internacionalmente.” Apesar disso, de acordo com a Associação Brasileira de Empresas Aéreas, a participação do QAV nos custos operacionais das companhias brasileiras subiu de 30% para mais de 45% desde o início dos conflitos no Oriente Médio. Com informações de Agência Brasil. Imagem: Shutterstock Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "7,2%",
+    "rotulo": "percentual de aumento no querosene de aviação"
+   },
+   {
+    "valor": "R$ 0,45",
+    "rotulo": "aumento por litro"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "participação do QAV nos custos operacionais antes do conflito"
+   },
+   {
+    "valor": "45%",
+    "rotulo": "participação atual do QAV nos custos operacionais"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "Aumento nos custos operacionais reduz a margem de lucro.",
+  "angulo": "Com os custos do combustível em alta, é essencial revisar estratégias de marketing e vendas para mitigar impactos financeiros e aumentar a eficiência operacional.",
+  "gancho": "Você está preparado para *aumentos nos custos*?",
+  "ideias": [
+   "Como a alta do combustível afeta seu negócio?",
+   "5 dicas para otimizar custos em tempos de crise",
+   "Marketing e vendas: o que fazer frente aos aumentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://mercadoeconsumo.com.br/03/11/2026/economia/petrobras-reajusta-combustivel-de-aviacao-em-r-045-por-litro/",
+  "publicadoEm": "2026-11-03T15:23:31-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "El Niño pode impactar vendas em 2027",
+  "resumo": "O El Niño de 2026/2027 promete temperaturas e padrões climáticos extremos no Brasil, afetando diversos setores. Empresários devem se preparar para os possíveis impactos nas vendas e operações.",
+  "fatos": [
+   "O El Niño deve alcançar intensidade muito forte em novembro e dezembro de 2026.",
+   "Há 95% de probabilidade de que o fenômeno persista pelo menos até o primeiro trimestre de 2027.",
+   "As temperaturas devem estar acima da média em grande parte do Brasil durante este período.",
+   "As regiões do Centro-Oeste, Norte e Nordeste devem enfrentar condições mais secas e risco de fogo.",
+   "No Sul e parte do Sudeste, há possibilidade de chuvas excessivas e cheias."
+  ],
+  "explicacao": [
+   "O El Niño está em processo de intensificação, o que pode provocar significativas alterações climáticas.",
+   "Essas mudanças podem resultar em perdas ou ganhos variáveis para os negócios, dependendo da localização.",
+   "Empresários precisam estar atentos aos padrões de consumo e operação que podem ser afetados por secas ou inundações.",
+   "Adaptar estratégias de marketing e vendas se torna essencial para minimizar impactos negativos."
+  ],
+  "materia": "03/11/2026 15h20 Atualizado 03/11/2026 15h22 O verão de 2026/2027 no Brasil deve ser marcado pela influência de um El Niño particularmente intenso. O fenômeno climático, caracterizado pelo aquecimento das águas superficiais do Oceano Pacífico equatorial, está em processo de intensificação e pode alcançar uma força excepcional nos próximos meses. A Organização Meteorológica Mundial (OMM) destaca que ele continuará a se intensificar antes de atingir seu pico previsto para dezembro. É provável que traga temperaturas acima da média para grande parte do globo e altere os padrões de precipitação, aumentando o risco de secas e inundações em diferentes regiões. Pelas projeções do Boletim nº 4 do Painel El Niño 2026-2027, há 95% de probabilidade de que o fenômeno alcance intensidade muito forte em novembro e dezembro no Brasil e persista pelo menos até o primeiro trimestre de 2027. Caso esse cenário se confirme, poderá estar entre os mais intensos registrados desde 1950. O documento é elaborado pelo Instituto Nacional de Pesquisas Espaciais (INPE), em parceria com o Instituto Nacional de Meteorologia (INMET), a Agência Nacional de Águas e Saneamento Básico (ANA), o Centro Nacional de Monitoramento e Alertas de Desastres Naturais (CEMADEN), o Serviço Geológico do Brasil (SGB), a Secretaria Nacional de Proteção e Defesa Civil (SEDEC) e o Centro Gestor e Operacional do Sistema de Proteção da Amazônia (CENSIPAM). Ele aponta que o cenário previsto até dezembro é de chuva acima da média no Sul do Brasil, com possibilidade de cheias, em parte do Sudeste e no leste do Nordeste. O Centro-Oeste, o Norte e o Nordeste, por sua vez, devem apresentar condições mais secas e maior risco de fogo. Além disso, as temperaturas devem permanecer acima da média em grande parte do território nacional. O Boletim ressalta que essas projeções representam tendências sazonais e que os impactos podem variar conforme a evolução das condições meteorológicas em cada região. As condições de El Niño foram confirmadas em junho de 2026, e o aquecimento das águas do Oceano Pacífico Equatorial vem apresentando aumento contínuo. No final de setembro, as anomalias de temperatura da superfície do mar superaram 2°C nas regiões central e leste do Pacífico Equatorial, segundo dados da agência norte-americana Administração Nacional Oceânica e Atmosférica (NOAA, na sigla em inglês). Ela criou a AImigas para ajudar mulheres a não ficarem para trás na inteligência artificial As doações do magnata da tecnologia para apoiar os republicanos nas midterms, especialmente no Texas, fizeram dele o maior doador político em um único ciclo na história moderna dos EUA Há 95% de probabilidade de que El Niño alcance intensidade muito forte em novembro e dezembro e persista pelo menos até o primeiro trimestre de 2027 Ministro Luiz Fux, do Supremo Tribunal Federal (STF), conduz audiência pública para discutir os impactos da proibição da bets no Brasil, determinada pelo governo federal em setembro O resultado poderá afetar não apenas o equilíbrio de forças no Congresso, mas também o futuro da relação entre o governo e o setor de tecnologia Para o bilionário, o segredo para tirar o máximo proveito da tecnologia está em deixar de tratá-la como uma ferramenta de perguntas e respostas e começar a delegar tarefas como se fosse um funcionário Archive of Our Own (AO3), uma das maiores plataformas de histórias criadas por fãs do mundo, investiga possível comprometimento de dados de usuários Zohran Mamdani afirma que resistência à construção de data centers une democratas e republicanos e alerta para os custos ambientais e econômicos da inteligência artificial Comitês financiados por executivos e investidores de tecnologia tentam eleger aliados e derrotar candidatos favoráveis a regras mais duras para inteligência artificial Cientistas encontraram estruturas semelhantes a glóbulos vermelhos e sinais químicos da hemoglobina em ossos descobertos no Nordeste; identificação das células é contestada Montante const",
+  "numeros": [
+   {
+    "valor": "95%",
+    "rotulo": "probabilidade de intensidade muito forte do El Niño"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "aumento de custos operacionais e perda de vendas",
+  "angulo": "Entender como fenômenos climáticos impactam o mercado é essencial para traçar estratégias adequadas de marketing e vendas.",
+  "gancho": "Prepare seu negócio para o *El Niño de 2026*!",
+  "ideias": [
+   "Planeje-se para os impactos do El Niño",
+   "Como o clima pode afetar seu negócio?",
+   "Ajuste suas vendas para o verão de 2027"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://epocanegocios.globo.com/um-so-planeta/noticia/2026/11/el-nino-vai-ate-quando-fenomeno-pode-atingir-forca-excepcional-e-influenciar-o-verao-no-brasil.ghtml",
+  "publicadoEm": "2026-11-03T15:20:17-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday deve movimentar R$ 296,8 bilhões no Brasil",
+  "resumo": "A Black Friday deste ano promete ser uma grande oportunidade para o varejo brasileiro, com movimentação significativa esperada em novembro. Empresários devem se preparar para aproveitar ao máximo.",
+  "fatos": [
+   "A Black Friday no Brasil deverá gerar uma movimentação de R$ 296,8 bilhões em novembro.",
+   "A data é uma oportunidade importante para o varejo, impulsionando as vendas.",
+   "É essencial que os empresários estejam preparados para aproveitar esse momento."
+  ],
+  "explicacao": [
+   "A Black Friday é um dos principais eventos de vendas no Brasil e influencia diretamente o comportamento do consumidor.",
+   "Os empresários devem implementar estratégias de marketing e vendas para se destacarem nesse período.",
+   "Sem um planejamento adequado, há risco de perder oportunidades e vendas significativas."
+  ],
+  "materia": "",
+  "numeros": [
+   {
+    "valor": "296,8 bilhões",
+    "rotulo": "movimentação esperada na Black Friday"
+   }
+  ],
+  "fonte": "Mirian Gasparin",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas potenciais em um período crítico",
+  "angulo": "A movimentação expressiva da Black Friday mostra a importância de um planejamento de marketing para não perder vendas.",
+  "gancho": "prepare-se para *vender mais nesta Black Friday*",
+  "ideias": [
+   "Como se preparar para a Black Friday",
+   "O impacto da Black Friday no seu negócio",
+   "Dicas para aproveitar a Black Friday ao máximo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://miriangasparin.com.br/2026/11/black-friday-varejo-brasileiro-deve-movimentar-r-2968-bilhoes-em-novembro/",
+  "publicadoEm": "2026-11-03T18:11:59-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A nova conveniência em tempos de orçamento apertado",
+  "resumo": "Com o consumidor cada vez mais cauteloso, a conveniência agora considera o trajeto e a economia, mudando a dinâmica das compras e a necessidade de um marketing eficaz.",
+  "fatos": [
+   "Em abril de 2026, 25,9% das vendas das redes foram através de delivery.",
+   "As transações de delivery cresceram 24,8%, enquanto as do salão recuaram 2%.",
+   "70% dos lares brasileiros estão sob restrição orçamentária.",
+   "Em março de 2026, a Food To Save tinha mais de 7,5 milhões de usuários cadastrados.",
+   "61% dos consumidores que retiram pedidos acabam comprando itens adicionais."
+  ],
+  "explicacao": [
+   "A conveniência deixa de ser apenas receber na porta de casa e inclui a retirada em lojas locais, especialmente em tempos de orçamento apertado.",
+   "O consumidor mide conveniência pela economia e pela rotina, escolhendo formas de compra que encaixam em seus deslocamentos diários.",
+   "Esse novo comportamento exige que empresários se adaptem ao novo cenário, repensando suas estratégias de marketing para atrair e reter clientes."
+  ],
+  "materia": "Nunca foi tão fácil comer sem sair de casa. Em abril de 2026, o delivery respondeu por 25,9% das vendas das redes acompanhadas pelo Índice de Desempenho do Foodservice (IDF). Segundo levantamento do Instituto Foodservice Brasil, responsável pelo índice, no mesmo mês as transações do canal cresceram 24,8%, enquanto as do salão recuaram 2% na comparação com o mesmo mês do ano anterior. Em uma plataforma de alimentos com desconto, porém, a lógica corre em outra direção. A Food To Save conecta consumidores a estabelecimentos que vendem excedentes de alimentos em sacolas surpresas. Ou seja, o cliente nunca sabe exatamente o que irá receber, a não ser uma pista entre “Doce”, “Salgado” e “Misto”. No aplicativo, seis em cada dez pedidos são retirados presencialmente, segundo a empresa. O que significa que o cliente até compra pelo celular. Mas, em vez de esperar pela entrega, percorre o caminho até a padaria, o café ou o mercado para buscar seu pedido. Esse cenário mostra que a conveniência deixou de ser sinônimo de receber a compra em casa . Para parte dos consumidores, ela passou a ser medida pela ausência de atrito na jornada, como o encaixe na rotina atarefada, o preço final e os benefícios ganhos ao longo do caminho. Diferentes plataformas de delivery oferecem a opção de retirada como um plano B. Ou seja, apenas caso o consumidor prefira buscar o pedido diretamente na loja, a entrega por um parceiro será sempre a primeira opção. No entanto, hoje a retirada no local já responde a uma ideia mais ampla de conveniência. Uma pesquisa da Confederação Nacional de Dirigentes Lojistas (CNDL) e do SPC Brasil , divulgada em agosto, lista as principais vantagens que o brasileiro enxerga nas compras online. O preço abaixo aparece em primeiro lugar, citado por 44% dos entrevistados. Em seguida, surgem comprar sem sair de casa (33%) e economia de tempo (26%). Isso quer dizer que, mesmo no canal digital, ficar em casa é apenas uma das faces da conveniência. Ainda, o consumidor deixou de escolher um único caminho. A pesquisa Fiserv Insights 2026 mostra que 30% dos consumidores combinam loja física e e-commerce em uma mesma compra, sendo que apenas 17% compram exclusivamente no presencial. É nesse consumidor híbrido que a Food To Save aposta. “O consumidor está cada vez mais atento à relação entre preço, qualidade e conveniência, e a retirada permite combinar esses fatores de uma maneira muito interessante”, afirma Marcelo Fernandes, diretor de marketplace da empresa. Para ele, a definição de conveniência precisa ser revista. “Para nós, conveniência não significa necessariamente que tudo precisa chegar à porta de casa. Significa oferecer alternativas que façam sentido para diferentes rotinas e necessidades.” A redefinição da conveniência acontece em um momento de orçamento curto do consumidor. Segundo o estudo Consumer Insights 2026, da Worldpanel by Numerator, 70% dos lares brasileiros estão sob algum grau de restrição orçamentária . No segundo trimestre do ano, as compras em promoção cresceram 35% em valor. Além disso, o consumidor passou a ir menos vezes ao ponto de venda, concentrando mais itens em cada visita. Nesse cenário, cada componente do preço final passa a ser examinado. No delivery de alimentos e bebidas, o ticket médio chega a ser quase três vezes superior ao dos canais não digitais, de acordo com a consultoria. Abrir mão da entrega vira, para parte dos consumidores, uma forma de controlar o gasto sem abrir mão do pedido. Na Food To Save, por sua vez, os alimentos já chegam ao app com desconto, e a retirada no estabelecimento elimina o custo do frete. Mas Marcelo Fernandes não reduz a escolha ao preço. “Acreditamos que a decisão passa principalmente pela combinação entre economia, conveniência e rotina”, diz. Assim, a economia abre a porta, mas é a rotina que sustenta o hábito. Segundo a Food To Save, a distância média percorrida para buscar uma sacola – como são chamados os pedidos na plataforma – é de 3,82 km. Ainda, cerca de 80% d",
+  "numeros": [
+   {
+    "valor": "30%",
+    "rotulo": "consumidores que combinam loja física e e-commerce"
+   },
+   {
+    "valor": "74%",
+    "rotulo": "consumidores que veem preço como vantagem nas compras online"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda de vendas se não se adaptar às novas demandas",
+  "angulo": "Mudanças no comportamento do consumidor exigem estratégias de marketing atualizadas, destacando a importância de um site e gestão de redes para o sucesso no novo mercado.",
+  "gancho": "Como a *conveniência* foi redefinida?",
+  "ideias": [
+   "Entenda a nova conveniência do consumidor",
+   "Como atrair clientes na era do delivery",
+   "A importância do marketing para o comércio local"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://consumidormoderno.com.br/delivery-retirada-conveniencia-food-to-save/",
+  "publicadoEm": "2026-11-03T16:13:03-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-11"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Zoop se torna adquirente e impacta marketplaces brasileiros",
   "resumo": "A fintech Zoop passou a operar como adquirente, ampliando suas soluções para marketplaces. Essa mudança responde a nova regulamentação do Banco Central, e pode impactar as operações financeiras dos negócios.",
   "fatos": [
@@ -576,6 +982,238 @@
   "publicadoEm": "2026-11-02T12:08:55-03:00",
   "data": "2026-11-02",
   "id": "2026-11-03-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: um novo cenário trabalhista",
+  "resumo": "A nova Emenda Constitucional reduz a jornada de trabalho, mas gera dúvidas sobre a aplicação e exceções. É essencial entender as mudanças para se adaptar a esse novo cenário legal.",
+  "fatos": [
+   "A Emenda Constitucional nº 141/2026 reduz a jornada de trabalho máxima progressivamente para 40 horas semanais a partir de 16/12/2027.",
+   "Estão assegurados dois dias de repouso semanal, preferencialmente aos domingos, para todos os trabalhadores.",
+   "A EC não exclui categorias profissionais da nova jornada, apenas estabelece regras gerais com possíveis regulamentações futuras.",
+   "Empregados que já trabalham 40 horas não vão ter redução automática, mas ainda têm direito ao repouso semanal.",
+   "A aplicação das novas regras poderá ser adaptada mediante negociação coletiva ou liberalidade do empregador."
+  ],
+  "explicacao": [
+   "A mudança se dá para melhorar as condições de trabalho e o bem-estar dos profissionais.",
+   "Os trabalhadores precisam estar cientes de que as regras gerais agora são mais rígidas e garantidas pela Constituição.",
+   "É fundamental que os empregadores e empregados se adaptem a essas novas normas, que visam proteger a saúde e a qualidade de vida no trabalho."
+  ],
+  "materia": "Home > Notícias > Fim da escala 6X1: quem realmente está fora da redução da jornada e quais exceções podem ser regulamentadas 03/11/2026 - 16:36 / FONTE: Narciso Figueirôa Junior/ FOTO: SETCESP Legislação , Notícias , SETCESP em Ação A promulgação da Emenda Constitucional nº 141/2026, que reduziu progressivamente a duração máxima semanal do trabalho e instituiu dois dias de repouso semanal remunerado, trouxe algumas dúvidas sobre sua aplicação. Nos últimos dias, inclusive, surgiram informações no sentido de que determinadas categorias profissionais estariam excluídas da redução da jornada. A leitura do texto constitucional, entretanto, recomenda cautela, pois a EC 141 não estabeleceu uma lista de categorias profissionais excluídas da redução da jornada. Ao contrário, instituiu uma regra geral de duração do trabalho, com algumas situações específicas e possibilidades de regulamentação futura que não podem ser confundidas com exclusões automáticas. A regra constitucional passa a ser de jornada normal não superior a oito horas diárias e 40 horas semanais, com implementação progressiva: 42 horas semanais após dois meses da publicação da Emenda, ou seja, a partir de 16/12/2026 e 40 horas um ano depois, a partir de 16/12/2027. Também serão assegurados dois dias de repouso semanal remunerado, um deles preferencialmente aos domingos. No transporte rodoviário de cargas, essa distinção é especialmente importante, porque a existência de regimes especiais de trabalho, como o do motorista profissional, não significa que esses empregados tenham sido afastados dos novos limites constitucionais. A exceção expressa está no art. 8º da própria Emenda, ao dispor que não se aplicam as regras relativas à duração do trabalho e ao controle da jornada ao empregado que, cumulativamente, possua diploma de nível superior e receba remuneração mensal igual ou superior a duas vezes e meia o limite máximo dos benefícios do Regime Geral de Previdência Social. Mesmo nessa hipótese, permanecem preservadas as regras constitucionais relativas aos dois dias de repouso semanal remunerado. Além disso, o próprio art. 8º permite que o empregador, por liberalidade, ou a negociação coletiva restabeleçam regras de duração e controle da jornada. Esta exceção também não se aplica aos empregados públicos da administração direta ou indireta. Trata-se, portanto, da única hipótese em que a própria EC 141 afasta expressamente a aplicação das regras de duração do trabalho em razão das características pessoais e remuneratórias do empregado. Outra situação que algumas vezes vem sendo tratada equivocadamente como “exclusão” está prevista no art. 4º. A EC 141 estabelece que os empregados que já possuem jornada semanal igual ou inferior a 40 horas não terão redução proporcional automática de sua jornada. Assim, quem hoje trabalha 40 horas não passará, por força da Emenda, para 36 ou 38 horas. Quem trabalha 36 horas também continuará sujeito à jornada contratada. Isso, porém, não significa exclusão da EC 141. O próprio dispositivo determina expressamente que a nova regra dos dois dias de repouso semanal remunerado também se aplica a esses trabalhadores. Esse ponto merece atenção especial no TRC. A Lei nº 13.103/2015 e os arts. 235-A e seguintes da CLT estabelecem regras diferenciadas para os motoristas profissionais, especialmente quanto à jornada diária, intervalos, descansos e peculiaridades das viagens. Nada na EC 141, entretanto, excluiu os motoristas profissionais da redução da jornada semanal para 42 e, posteriormente, 40 horas. Ao contrário, o novo §2º do art. 7º da Constituição Federal, com a redação trazida pela EC 141, faz referência expressa aos trabalhadores submetidos a “regimes diferenciados de trabalho estabelecidos em lei ou norma regulamentadora” para admitir, mediante acordo ou convenção coletiva, regime compensatório dos dois repousos semanais. A existência de regime legal especial, portanto, não significa afastamento dos novos limites constitucionais. Significa ape",
+  "numeros": [
+   {
+    "valor": "40 horas",
+    "rotulo": "nova carga horária semanal a partir de 2027"
+   },
+   {
+    "valor": "2 dias",
+    "rotulo": "repouso semanal garantido"
+   }
+  ],
+  "fonte": "Setcesp",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "perder a segurança do salário fixo e jornada previsível",
+  "angulo": "Entender essas mudanças é fundamental para quem busca alternativas de renda e quer se desvincular do salário fixo e da jornada tradicional do trabalho.",
+  "gancho": "*Mudanças no trabalho* com a nova jornada 6x1",
+  "ideias": [
+   "Como a nova jornada afeta seu trabalho?",
+   "Entenda a Emenda 141 e suas implicações",
+   "Está preparado para as mudanças na legislação trabalhista?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://setcesp.org.br/noticias/fim-da-escala-6x1-quem-realmente-esta-fora-da-reducao-da-jornada-e-quais-excecoes-podem-ser-regulamentadas/",
+  "publicadoEm": "2026-11-03T16:36:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "A nova escala de trabalho e seu impacto nas mensalidades",
+  "resumo": "A adoção da escala 5x2 deve aumentar os custos das escolas particulares, refletindo nas mensalidades a partir de 2027. O setor pode enfrentar um acréscimo anual de até R$ 17,3 bilhões.",
+  "fatos": [
+   "A Emenda Constitucional nº 141/2026, promulgada em 16 de outubro, cria a jornada 5x2 para os trabalhadores.",
+   "A mudança deve entrar em vigor em 15 de dezembro de 2026.",
+   "O presidente do Sinepe/RS estima que as escolas terão um custo adicional de 12% a 15%.",
+   "Sem a emenda, o reajuste das mensalidades seria de 1% a 2%.",
+   "Com a nova emenda, as mensalidades podem aumentar entre 8% e 11%.",
+   "A folha de pagamento do setor poderá crescer até 17%, um acréscimo de R$ 17,3 bilhões por ano.",
+   "As escolas devem cumprir, por lei, 200 dias letivos por ano, o que pode complicar o cumprimento do novo calendário."
+  ],
+  "explicacao": [
+   "A alteração na jornada de trabalho para 5x2 visa garantir mais dias de descanso para os trabalhadores, mas gera aumento significativo nos custos operacionais das escolas.",
+   "Escolas terão que reajustar suas mensalidades, impactando diretamente as finanças dos pais de alunos com a possibilidade de um aumento de até 24%.",
+   "Os custos adicionais surgem, principalmente, devido ao Descanso Semanal Remunerado (DSR) que será acrescido pela nova legislação.",
+   "Além disso, a necessidade de adaptação à nova carga horária pode levar as instituições a reverem suas atividades e aumentar o uso de horas extras."
+  ],
+  "materia": "A adoção da escala 5x2 , que prevê cinco dias de trabalho e dois de descanso por semana, terá impacto na organização e nos custos das escolas particulares . A alteração na jornada deve atingir desde professores horistas até profissionais de apoio, além de exigir adaptações de funcionamento. O setor estima que o aumento das despesas com pessoal poderá resultar em reajustes nas mensalidades a partir de 2027 . O índice médio, normalmente divulgado em outubro pelo Sindicato do Ensino Privado no Rio Grande do Sul (Sinepe/RS), ainda não foi definido. A pesquisa feita com a escolas particulares deve ser lançada nas próximas semanas . — Tendo como referência o INPC ( Índice Nacional de Preços ao Consumidor ), se não houvesse a emenda, o reajuste ficaria em um, dois pontos percentuais, porque as escolas têm seus projetos, suas atualizações pedagógicas. Com a emenda, as escolas terão custo adicional de 12% a 15%, em média. Acrescentando 7% ou 8% da inflação, as mensalidades aumentariam em 23%, 24% , é insustentável — avalia o presidente do Sinepe/RS, Oswaldo Dalpiaz. Ele destaca que o reajuste varia de escola para escola, e que cada instituição de ensino tem sua planilha de despesas e suas particularidades. Promulgada pelo Congresso Nacional em 16 de outubro, a Emenda Constitucional nº 141/2026 prevê dois dias de folga por semana aos trabalhadores. A mudança deve entrar em vigor no dia 15 de dezembro . Ao longo da semana, a entidade se reunirá com sindicatos laborais do Estado para discutir as mudanças. A expectativa é que possa haver revisão ou flexibilização das regras e novos encaminhamentos para garantir condições sustentáveis para a manutenção das escolas em 2027. O setor também alerta para o risco de perda de alunos devido aos reajustes. Com as mudanças, a jornada semanal será reduzida gradualmente para 42 horas e, posteriormente, para 40 horas, conforme os prazos estabelecidos pela emenda. Na prática, isso se reflete em aumento de cerca de 20% no salário do professor, especialmente por conta do Descanso Semanal Remunerado (DSR) , garantido pela Consolidação das Leis do Trabalho (CLT). A ausência de uma regulamentação específica sobre o cálculo do DSR dos professores horistas é um dos principais pontos que geram dúvidas. A mudança estabelece dois dias de descanso por semana, mas não detalha como deverá funcionar o pagamento desse período para profissionais remunerados por hora-aula. O professor horista recebe o DSR discriminado em separado no contracheque. Atualmente, no regime 6x1, o valor adicional corresponde a um sexto do valor das horas-aula trabalhadas. Com a implementação de mais um dia de descanso remunerado, esse fator seria elevado a dois quintos . Segundo Dalpiaz, os professores horistas representam boa parte da folha de pagamento do setor. Levantamento da consultoria NumberTalks encomendado pela Confederação Nacional dos Estabelecimentos de Ensino (Confenen) estima que, em um cenário mais favorável, sem alteração no cálculo do DSR, o aumento da folha de pagamento seria de 9%, o equivalente a R$ 9,3 bilhões por ano no setor . Já em uma projeção considerada mais provável, com o pagamento de um segundo descanso semanal remunerado, os custos trabalhistas poderiam crescer 17%, representando acréscimo anual de R$ 17,3 bilhões . Nesse caso, o levantamento aponta para a possibilidade de reajustes entre 8% e 11% nas mensalidades escolares, considerando o cenário do país. Outro desafio é conciliar a nova jornada com as exigências legais de carga horária nas instituições de ensino. Por lei, as escolas devem cumprir, no mínimo, 200 dias letivos por ano . Assim, as escolas precisarão encontrar alternativas para cumprir as novas regras trabalhistas sem comprometer o calendário de 2027 . Gestores escolares ouvidos pela reportagem comentaram sobre a definição do cronograma letivo, além do aspecto financeiro. Festivais, feiras de ciências, provas e torneios costumam ocorrer aos sábados. — A nova escala impacta de modo significativo tod",
+  "numeros": [
+   {
+    "valor": "12 a 15%",
+    "rotulo": "aumento estimado nas despesas com pessoal"
+   },
+   {
+    "valor": "8 a 11%",
+    "rotulo": "possível aumento nas mensalidades"
+   },
+   {
+    "valor": "R$ 17,3 bilhões",
+    "rotulo": "custo adicional potencial anual"
+   }
+  ],
+  "fonte": "GZH",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "preocupação com o aumento das mensalidades e impactos financeiros",
+  "angulo": "Entender como as mudanças no trabalho escolar afetam suas finanças é crucial; aprender sobre o mercado financeiro pode ser uma solução para mitigar esses impactos.",
+  "gancho": "Aumento nas *mensalidades escolares* é iminente!",
+  "ideias": [
+   "Escolas em alerta: mensalidades podem subir!",
+   "Mudanças na legislação: o que você precisa saber",
+   "Como o novo regime de trabalho impactará seu bolso"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://gauchazh.clicrbs.com.br/educacao/educacao-basica/noticia/2026/11/fim-da-escala-6x1-deve-elevar-custos-das-escolas-e-pressionar-mensalidades-em-2027-cmw0wumwe00go015owwrm5pf1.html",
+  "publicadoEm": "2026-11-03T15:50:02-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 gera incertezas no mercado de trabalho",
+  "resumo": "Com a mudança da jornada de trabalho, a bancada ruralista busca exceções para o setor agropecuário. Isso pode impactar diretamente a produção e o emprego na área.",
+  "fatos": [
+   "A nova lei reduz a jornada de trabalho de 44 para 40 horas semanais e extingue a escala 6x1.",
+   "A Frente Parlamentar da Agropecuária defende exceções para alguns setores, como frigoríficos e a cadeia leiteira.",
+   "Pedro Lupion, presidente da FPA, admitiu que a aprovação de uma PEC para exceções é improvável.",
+   "O governo pode resolver a questão com um projeto de lei complementar, segundo Teresa Leitão.",
+   "Há preocupação com o impacto da mudança na produção de alimentos e na regulamentação da nova lei."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 altera a dinâmica de trabalho, especialmente em setores que dependem de horários diferenciados, como o agropecuário.",
+   "As exceções propostas visam garantir que a produção não seja prejudicada pela nova legislação.",
+   "A busca por adequações pode abrir espaço para debates sobre formatos mais flexíveis de trabalho que atendam a essas demandas específicas."
+  ],
+  "materia": "Lula participa da promulgação da PEC do fim da 6x1 no Congresso Nacional Sessão solene ocorre a nove dias do segundo turno da eleição presidencial. Crédito: Estadão A Frente Parlamentar da Agropecuária (FPA) busca exceções para o setor agropecuário na nova lei que reduz a jornada de trabalho de 44 para 40 horas semanais e extingue a escala 6x1. O presidente da FPA, Pedro Lupion, destaca o impacto em setores essenciais como frigoríficos e a cadeia leiteira. Uma PEC é considerada, mas Lupion admite ser improvável sua aprovação. O governo avalia que um projeto de lei complementar pode resolver a questão, segundo a líder no Senado, Teresa Leitão. BRASÍLIA - A Frente Parlamentar da Agropecuária (FPA) defende a aplicação de exceções para o setor agropecuário com o fim da escala 6x1 e a redução da jornada de trabalho de 44 para 40 horas semanais. “Há uma série de notícias de que o governo estaria elaborando uma lista de atividades essenciais ou de isenções para a mudança da jornada. Existem algumas atividades essenciais que terão impacto muito grande na produção de alimentos, principalmente o setor frigorífico e a cadeia leiteira”, disse o presidente da FPA, deputado federal Pedro Lupion (Republicanos-PR), a jornalistas, após a reunião semanal da bancada nesta terça-feira. “Então, precisaria haver uma adequação de escala em alguns setores e, nessa adequação, precisamos entender como será o funcionamento.” Lupion afirmou que a bancada busca esclarecimentos junto ao governo sobre a aplicação da nova lei aos setores considerados essenciais. Um ofício foi encaminhado aos ministérios competentes. “Precisamos entender qual é a linha de raciocínio do governo para ver o que vai ocorrer, como será a regulamentação de uma nova lei e, se houver algum tipo de mudança, quais são os setores (essenciais) dentro do setor produtivo”, acrescentou. Nesse sentido, uma Proposta de Emenda à Constituição (PEC) que preveja tratamento diferenciado ao setor seria uma das alternativas. “Há um entendimento jurídico de que seria necessária uma nova PEC para haver qualquer tipo de mudança substancial. O governo poderia adiar o início, postergar alguma aplicação, buscar algum entendimento em relação a como seria essa transição, mas, para mudar a essência do que foi aprovado no Congresso, teria que haver uma mudança constitucional novamente”, disse. Leia mais Quando começa a valer o fim da escala 6x1? Veja perguntas e respostas Saiba quais trabalhadores podem ficar de fora dos efeitos da PEC do fim da escala 6x1 Governo resiste a PEC articulada no Senado para adaptar categorias ao fim da escala 6x1 Quando começa a valer o fim da escala 6x1? Veja perguntas e respostas Saiba quais trabalhadores podem ficar de fora dos efeitos da PEC do fim da escala 6x1 Governo resiste a PEC articulada no Senado para adaptar categorias ao fim da escala 6x1 Entretanto, Lupion reconhece que é “praticamente improvável” que uma nova PEC seja aprovada. “Estamos buscando as alternativas possíveis. A PEC seria a forma mais lógica e mais correta de fazer, mas entendo que a aprovação de uma PEC agora, nos 45 do segundo tempo, é muito difícil. Precisamos ver como o governo vai agir com as outras exceções e aderir à solução que seja possível para garantir as exceções em relação ao setor produtivo”, disse. Paralelamente, o senador Eduardo Braga (MDB-AM) informou que coleta assinaturas para apresentar uma outra PEC para regulamentar as exceções de categorias com o fim da escala 6x1 . O governo, por sua vez, avalia que não há necessidade de uma nova PEC para esse propósito. Segundo a líder do governo no Senado, Teresa Leitão (PT-PE), um projeto de lei complementar seria suficiente para estabelecer regras específicas para as categorias não contempladas pelo texto promulgado em outubro. Para o presidente da FPA, há pontos da nova lei que são inaplicáveis em alguns setores essenciais, como os ligados à produção de alimentos perecíveis. “Já apresentamos emendas na época da discussão da PEC de que deve",
+  "numeros": [],
+  "fonte": "Estadão Economia",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Perda de renda e instabilidade no emprego com novas leis.",
+  "angulo": "Conhecer o mercado financeiro pode proporcionar alternativas de renda, mitigando os riscos de mudanças trabalhistas como o fim da escala 6x1.",
+  "gancho": "*Mudanças na jornada de trabalho* afetam seu bolso!",
+  "ideias": [
+   "Como o fim da escala 6x1 impacta seu trabalho?",
+   "Setores essenciais pedem exceções na nova lei!",
+   "O que você precisa saber sobre a redução da jornada?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://www.estadao.com.br/economia/agronegocios/bancada-ruralista-quer-tratamento-diferenciado-com-fim-da-escala-6x1-e-estuda-pec-para-excecoes/",
+  "publicadoEm": "2026-11-03T18:01:18-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e seus impactos no trabalho",
+  "resumo": "Governo avalia flexibilização da nova jornada de trabalho, mas com receios de custos e demissões para empresários. Economia pode ser afetada com as novas regras.",
+  "fatos": [
+   "A emenda que extinguiu a escala 6x1 foi promulgada em 16 de outubro.",
+   "A jornada de trabalho será reduzida de 44 para 40 horas ao longo de um ano.",
+   "Dois dias de descanso remunerado serão garantidos a partir de 16 de dezembro.",
+   "O governo propõe um projeto de lei complementar em vez de uma nova PEC para regulamentar a situação.",
+   "O senador Eduardo Braga propõe uma PEC paralela para flexibilizar as novas regras.",
+   "A proposta de Braga ainda não tem assinaturas e seu protocolo pode ser demorado.",
+   "Entidades críticas temem aumento de custos e possível demissão de trabalhadores."
+  ],
+  "explicacao": [
+   "A alteração na jornada de trabalho surge em um contexto onde o governo busca modernizar a legislação.",
+   "A resistência a uma nova PEC dá ênfase à tramitação mais rápida de um projeto de lei.",
+   "Empregadores e trabalhadores estão preocupados com as implicações econômicas e possíveis demissões.",
+   "À medida que o novo regime de trabalho é implementado, o setor produtivo pode sentir os impactos."
+  ],
+  "materia": "Lula participa da promulgação da PEC do fim da 6x1 no Congresso Nacional Sessão solene ocorre a nove dias do segundo turno da eleição presidencial. Crédito: Estadão O governo brasileiro, liderado por Teresa Leitão, considera desnecessária uma nova PEC para regulamentar exceções à emenda que extinguiu a escala 6x1, preferindo um projeto de lei complementar. A emenda, promulgada em outubro, reduz a jornada de trabalho de 44 para 40 horas semanais e garante dois dias de descanso remunerado. O senador Eduardo Braga propõe uma PEC paralela para flexibilizar a medida, mas enfrenta resistência devido ao tempo de tramitação e riscos políticos. O Ministério do Trabalho prepara um decreto para orientar a transição. BRASÍLIA - O governo avalia que não há necessidade de uma nova Proposta de Emenda à Constituição (PEC) para regulamentar as exceções à emenda constitucional que acabou com a escala 6x1 no Brasil , afirmou a líder do governo no Senado, Teresa Leitão (PT-PE). Segundo ela, um projeto de lei complementar seria suficiente para estabelecer regras específicas para as categorias com jornadas diferenciadas e regimes especiais de trabalho. “Tem uma questão na emenda constitucional, que agora é a emenda constitucional 141, que diz que existem excepcionalidades. Então, isso já está tratado na própria emenda, que será objeto de uma lei complementar”, disse Leitão nesta terça-feira, 3. A emenda à Constituição que acaba com a escala 6x1 foi promulgada em 16 de outubro pelo Congresso . A sessão contou com a participação do presidente Luiz Inácio Lula da Silva (PT), que tinha na proposta uma de suas bandeiras à reeleição. A primeira etapa da emenda constitucional entra em vigor em 16 de dezembro, quando os trabalhadores passam a ter direito a dois dias de descanso remunerado por semana. Além disso, a jornada de trabalho cai de 44 horas para 42 horas semanais. Doze meses depois, a jornada terá nova redução, para 40 horas semanais. O texto indica que categorias com regimes diferenciados de trabalho precisarão ser regulamentadas por lei. Entrariam na lista aeronautas, vigilantes, médicos plantonistas, vigilantes, petroleiros e profissionais envolvidos com agropecuária , por exemplo. Antes mesmo de a emenda ser promulgada, o senador Eduardo Braga (MDB-AM) já havia anunciado a intenção de apresentar um texto paralelo. “Vou apresentar uma PEC paralela à PEC 6x1, garantindo a flexibilização necessária para mitigar os riscos econômicos que esta PEC possui, sem prejudicar em nada a tramitação da PEC que extingue a 6x1 e garantindo que este Congresso e que esta CCJ possa, por exemplo, tratar do trabalho presencial e do funcionamento contínuo, como no comércio, na gastronomia, na logística, na saúde e nos serviços”, afirmou, durante a reunião na Comissão de Constituição e Justiça do Senado, que aprovou o fim da escala 6x1 em 2 de setembro. Ele disse que era necessário aprimorar as especificidades necessárias para que não haja impacto na economia brasileira. “Para viabilizar essas mudanças, nós podemos implementar, através de uma PEC autônoma, a transição gradual, a implementação escalada, a descentralização por negociação, sim, coletiva - como aconteceu, inclusive, no Chile, país citado aqui neste debate -, a ampliação do banco de horas e compensação anual, a modernização do trabalho parcial e por turnos, desoneração da folha de pagamentos”, defendeu. Leia mais Bancada ruralista quer tratamento diferenciado com fim da escala 6x1 e estuda PEC para exceções Bancada ruralista quer tratamento diferenciado com fim da escala 6x1 e estuda PEC para exceções Braga atualmente está coletando assinaturas para apresentar a PEC, que traria regras específicas para categorias com jornadas diferenciadas e regimes especiais de trabalho. A expectativa era que o texto fosse apresentado nesta semana. Questionado nesta terça-feira, 3, sobre essa previsão, Braga disse que não sabia se apresentaria nesta semana. “Não tenho nem as assinaturas. O texto não está nem concluído”, a",
+  "numeros": [
+   {
+    "valor": "42 horas",
+    "rotulo": "jornada após 12 meses"
+   },
+   {
+    "valor": "40 horas",
+    "rotulo": "jornada final"
+   },
+   {
+    "valor": "308",
+    "rotulo": "votos necessários na Câmara"
+   }
+  ],
+  "fonte": "Estadão Economia",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "receio de demissões e aumento de custos com novas regras",
+  "angulo": "Entender as mudanças na legislação pode ajudar a navegar os desafios econômicos e buscar alternativas financeiras.",
+  "gancho": "*Novas regras de trabalho* impactam seu bolso.",
+  "ideias": [
+   "Como a nova jornada de trabalho altera o mercado",
+   "Prepare-se para a mudança: o que esperar da nova lei",
+   "Flexibilidade no trabalho: riscos e oportunidades"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T18:25:11-03:00",
+  "url": "https://www.estadao.com.br/economia/governo-resiste-a-pec-articulada-no-senado-para-adaptar-categorias-ao-fim-da-escala-6x1/",
+  "publicadoEm": "2026-11-03T18:03:58-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-12"
  },
  {
   "segmento": "trader",
