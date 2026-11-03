@@ -1,6 +1,341 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Zoop se torna adquirente e impacta marketplaces brasileiros",
+  "resumo": "A fintech Zoop passou a operar como adquirente, ampliando suas soluções para marketplaces. Essa mudança responde a nova regulamentação do Banco Central, e pode impactar as operações financeiras dos negócios.",
+  "fatos": [
+   "A Zoop agora opera como adquirente, oferecendo conexão direta com bandeiras de cartão.",
+   "Recentemente, a fintech registrou R$ 155 bilhões em volume total transacionado (TPV) e tem a meta de alcançar R$ 200 bilhões.",
+   "Essa mudança veio com a Resolução 522 do Banco Central, que altera regras para gerenciamento de riscos.",
+   "Atualmente, a Zoop atende mais de 50 contas, incluindo iFood, Decolar, OLX, e Banco Cora.",
+   "A nova estrutura permite que marketplaces realizem liquidações com mais segurança, usando fluxos financeiros adequados às novas regras."
+  ],
+  "explicacao": [
+   "A mudança de status da Zoop atende às novas exigências criadas pela Resolução 522 do Banco Central, que visam aumentar a segurança financeira.",
+   "Os marketplaces devem ajustar seus fluxos financeiros para se adequarem a essas normas, o que pode demandar novas soluções de pagamento.",
+   "Com a Zoop atuando como adquirente, os marketplaces ganharão mais agilidade, podendo lançar produtos inovadores com maior rapidez."
+  ],
+  "materia": "Veja nossas notícias com mais destaque nas suas buscas. Veja nossas notícias com mais destaque nas suas buscas. A Zoop , empresa do iFood especializada em finanças embarcadas (embedded finance), passa a operar oficialmente como adquirente. A companhia, que já atuava como subadquirente, instituição de pagamento e participante direto do Pix, agora tem conexão direta com as bandeiras de cartão, ampliando seu papel na cadeia de processamento de pagamentos. Segundo Cesario Martins, CEO da Zoop , tornar-se adquirente oferece mais segurança a grandes ecossistemas que dependem da empresa para operações críticas, como serviços financeiros. “O cliente precisa ter muita tranquilidade em relação à segurança e à governança, sabendo que vai estar na mesa quando houver mudanças na regulamentação. Quando você é um grande ecossistema, precisa ter um parceiro com estrutura para ajudar em decisões complexas”, afirma. O iFood será o primeiro cliente da adquirência própria da Zoop . De acordo com Thais Redondo, diretora de Pagamentos da Zoop e do iFood Pago, a intenção é estender o uso da estrutura aos demais clientes da empresa. Atualmente, a fintech atende mais de 50 contas, entre elas iFood, Olist, Banco Cora, Banco Jota, TOTVS, Itaú, Nubank e Conta Azul . Nos últimos 12 meses, a Zoop registrou R$ 155 bilhões em volume total transacionado (TPV). A empresa continuará operando como multiadquirente, com a estrutura própria como mais uma alternativa de processamento ao lado dos parceiros atuais. A meta é alcançar R$ 200 bilhões em TPV, objetivo que pretende atingir “com inovação, fazendo diferente”. O movimento da Zoop tem como pano de fundo a Resolução 522 do Banco Central (BC) , publicada em novembro de 2025, que altera as regras para o gerenciamento centralizado de riscos nos arranjos de pagamento integrantes do Sistema de Pagamentos Brasileiro (SPB). A norma também estabelece novas responsabilidades para os participantes desses arranjos, incluindo subcredenciadores e marketplaces que atuam nessa função. De acordo com Cesario, o BC tem elevado as exigências de governança em várias frentes, tendo a Resolução 522 como um dos exemplos. Para os marketplaces, explica o CEO, a mudança exige uma reorganização dos fluxos financeiros para que, na liquidação, movimentem apenas os valores que pertencem ao próprio negócio. Já as bandeiras passam a ter mais responsabilidades na definição dos critérios de gerenciamento de riscos e de exigência de garantias dos participantes do arranjo. Esse cenário afeta o próprio iFood , que, segundo Cesario, tinha uma subadquirente própria para o marketplace e vê essa arquitetura mudar. “Muitos clientes marketplaces precisam de uma solução, porque percebem que, do jeito que estava antes, vão ter que mudar. Quem é o parceiro forte, que entende bem de marketplace e consegue dar uma solução que se sustente?”, questiona o executivo. Ele descreve dois caminhos. No primeiro, já oferecido pela Zoop por ser uma instituição de pagamento regulada, o marketplace utiliza o split de pagamentos (divisão do valor das transações entre os envolvidos), realiza a liquidação e mantém apenas os valores relacionados ao próprio negócio. O restante da operação ocorre em ambiente regulado. No segundo, com a Zoop atuando como adquirente, o marketplace pode continuar como subadquirente e utilizar a estrutura da empresa dentro de uma conta regulada, o que, segundo Cesario, permite adequar a operação às novas regras. O foco inicial são os marketplaces. Cesario cita Decolar, Sympla, OLX e o próprio iFood entre os clientes desse segmento. Segundo ele, a empresa se organizou ao longo do ano para que os marketplaces do grupo se adequassem à regulamentação. Ele define a estratégia como “inovação de dentro para fora”: as soluções são construídas primeiro para o ecossistema do iFood e, depois de amadurecidas, viram produto de prateleira. Oracle levanta US$ 20B com ações e títulos para bancar expansão em IA Empresa tem US$ 125,34B em dívidas e projeta receita ",
+  "numeros": [
+   {
+    "valor": "155 bilhões",
+    "rotulo": "volume total transacionado (TPV) pela Zoop"
+   },
+   {
+    "valor": "200 bilhões",
+    "rotulo": "meta de TPV da Zoop"
+   },
+   {
+    "valor": "50",
+    "rotulo": "número de contas atendidas pela Zoop"
+   }
+  ],
+  "fonte": "Startups",
+  "categoria": "Varejo",
+  "publico": [
+   "Prestadores de serviço",
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "receio de não se adaptar às novas regras e perder clientes",
+  "angulo": "Empresários precisam estar atentos às regulamentações e buscar soluções eficazes de pagamento que se adequem às novas exigências, como um site e gestão de tráfego pago.",
+  "gancho": "A nova regra pode *desafiar sua operação*",
+  "ideias": [
+   "O que muda com a nova adquirência da Zoop?",
+   "Como se adaptar às novas regras do BC?",
+   "A importância da inovação em pagamentos para o seu negócio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://startups.com.br/negocios/fintech/zoop-vira-adquirente-para-atender-marketplaces-sob-nova-regra-do-bc/",
+  "publicadoEm": "2026-11-03T13:07:29-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Argentina investe em IA e empresas devem se adaptar",
+  "resumo": "Com a isenção de regras e impostos menores, a Argentina busca atrair grandes investimentos em inteligência artificial. Empresários devem estar atentos a essas mudanças no mercado.",
+  "fatos": [
+   "O presidente argentino Javier Milei propõe reduzir a alíquota do imposto de renda corporativo de 25% para 15% para investimentos em IA.",
+   "A proposta aguarda aprovação do Senado e é voltada para investimentos superiores a US$ 1 bilhão.",
+   "Empresas como OpenAI, Amazon e Google demonstraram interesse na Patagônia, que reúne condições favoráveis para data centers.",
+   "O projeto da Green Capital prevê um investimento de US$ 3 bilhões em um complexo na Patagônia, mas não tem clientes definidos ainda.",
+   "A construção do complexo não deve começar antes de 2028, e quando operando, poderá consumir eletricidade equivalente a 2,7 vezes o uso de Buenos Aires em 2025."
+  ],
+  "explicacao": [
+   "A iniciativa da Argentina visa transformar a Patagônia em um polo tecnológico, atraindo grandes empresas do setor de IA com incentivos fiscais.",
+   "Isso gera oportunidades, mas também levanta preocupações quanto ao uso de recursos locais e impactos ambientais, sem regulamentações adequadas.",
+   "Empresários devem considerar essa janela de oportunidades e como suas operações podem ser influenciadas por essas mudanças no mercado."
+  ],
+  "materia": "A Argentina quer transformar a Patagônia em um polo de data centers voltados à inteligência artificial. Para atrair grandes empresas de tecnologia, o presidente Javier Milei promete reduzir impostos e manter a IA livre de regulamentações. A estratégia já despertou o interesse de empresas como OpenAI , Amazon e Google, mas também levanta questionamentos sobre os impactos ambientais e os benefícios dos investimentos para a população local. A Patagônia reúne grandes áreas disponíveis, temperaturas amenas e ventos fortes, características citadas para atrair data centers. – Imagem criada por inteligência artificial: Gemini/Olhar Digital Patagônia atrai empresas de tecnologia A região reúne condições favoráveis à instalação de data centers : grandes extensões de terras disponíveis, temperaturas amenas, ventos fortes e acesso ao gás da formação de xisto de Vaca Muerta, que pode ser utilizado na geração de energia e no resfriamento das instalações. Enquanto comunidades dos Estados Unidos e da Europa contestam novos empreendimentos pela disputa por eletricidade, o governo argentino tenta aproveitar essas condições para atrair investidores. No mês passado, durante encontro com a Câmara de Comércio dos Estados Unidos, Milei declarou: “Não vamos regulamentar a inteligência artificial. Vamos deixá-la livre”. Registros de visitantes obtidos pela Associated Press mostram que representantes de empresas e investidores do setor se reuniram com o presidente e seus assessores nos últimos meses. Entre eles estão o investidor Peter Thiel e representantes da OpenAI, Amazon , Google e Oracle . A movimentação também envolve a desenvolvedora de data centers Crusoe, que procurou autoridades argentinas neste ano para discutir investimentos apoiados pelo governo dos Estados Unidos. A empresa participou da construção do principal campus da OpenAI no Texas. Outro empreendimento em negociação é o da polonesa Green Capital, que planeja investir US$ 3 bilhões (cerca de R$ 16,05 bilhões) em um complexo na Patagônia . A estrutura seria alugada a grandes empresas de tecnologia para processamento de IA, mas ainda não tem cliente definido. Incentivos fiscais e preocupações ambientais Para atrair projetos desse porte, Milei defende um programa que reduziria de 25% para 15% a alíquota do imposto de renda corporativo em investimentos de pelo menos US$ 1 bilhão (cerca de R$ 5,45 bilhões) ligados à inteligência artificial e a outros setores emergentes. A proposta aguarda aprovação do Senado. O incentivo, porém, não estabelece contrapartidas relacionadas ao uso da infraestrutura no próprio país. As empresas não precisam reservar capacidade computacional para o mercado argentino nem divulgar quanto de água e energia seus empreendimentos consumirão. A questão da soberania tecnológica está entre as preocupações de pesquisadores e ambientalistas. Alan Rocha Varsanyi, do grupo argentino Observatorio Petrolero Sur, avalia que a capacidade de processamento será destinada principalmente à demanda internacional das empresas contratantes, e não ao desenvolvimento tecnológico local. A falta de regulamentação também levanta preocupações sobre riscos como vigilância em massa e ataques cibernéticos. Nicolás Wolovick, professor de ciência da computação da Universidade Nacional de Córdoba, teme que o país se transforme em um laboratório para tecnologias que não seriam testadas em mercados mais regulados. Especialistas em computação alertam que a ausência de regras pode transformar o país em um laboratório para testes sem salvaguardas. – Imagem: FOTOGRIN/Shutterstock Projeto bilionário enfrenta resistência local Na província de Chubut, a Green Capital planeja instalar seu complexo em uma área de 130 mil hectares arrendada de 14 proprietários rurais. Entre eles está a família de Francisco Sáenz, engenheiro agrônomo e criador de ovelhas que vê no empreendimento uma alternativa de renda diante do declínio da atividade pecuária. A construção não deve começar antes de 2028. Quando estiver em ",
+  "numeros": [
+   {
+    "valor": "25% para 15%",
+    "rotulo": "redução na alíquota do imposto de renda"
+   },
+   {
+    "valor": "US$ 1 bilhão",
+    "rotulo": "investimento mínimo para redução de imposto"
+   },
+   {
+    "valor": "2,7",
+    "rotulo": "vezes a eletricidade consumida por Buenos Aires em 2025"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perda de competitividade e oportunidades de negócio",
+  "angulo": "A ausência de regulamentações no setor de IA pode impactar diretamente as operações das empresas locais. Conheça como se adaptar e prosperar nesse cenário.",
+  "gancho": "entenda como *novas regras* podem afetar seus negócios",
+  "ideias": [
+   "IA e suas oportunidades: O que você precisa saber",
+   "Como a redução de impostos pode impactar seu negócio",
+   "O futuro da tecnologia: IA na Patagônia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://olhardigital.com.br/2026/11/03/pro/argentina-oferece-isencao-de-regras-e-imposto-menor-para-atuar-com-ia-na-patagonia/",
+  "publicadoEm": "2026-11-03T11:52:32-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Entender o consumidor é essencial pós-eleição",
+  "resumo": "No Brasil pós-eleitoral, empresários devem observar mudanças nas decisões de compra. Conhecer o consumidor é vital para estratégias de venda mais eficazes e sustentáveis.",
+  "fatos": [
+   "O cenário econômico mudou após as eleições, influenciando expectativas e decisões de compra.",
+   "O empresário deve priorizar a compreensão do que afeta o consumidor em vez de especulação.",
+   "Decisões de consumo são impactadas por renda, crédito disponível e prioridades familiares.",
+   "Necessidades do consumidor estão mudando, exigindo uma revisão nas propostas de valor.",
+   "É preciso observar o comportamento do consumidor para transformar essa informação em decisões comerciais."
+  ],
+  "explicacao": [
+   "Após a eleição, o cenário econômico desafia as empresas a entenderem como as expectativas do consumidor mudaram.",
+   "Com renda mais baixa e crédito restrito, as prioridades de compra se alteram e os empresários devem se adaptar.",
+   "As empresas que não entendem esta mudança podem perder vendas e relevância no mercado."
+  ],
+  "materia": "O resultado de uma eleição presidencial muda expectativas, influencia decisões e abre discussões sobre os rumos da economia. Mas, para quem empreende, existe uma pergunta que precisa estar acima de todas as outras: o que está mudando na vida do meu consumidor? É essa pergunta que deveria orientar boa parte das decisões empresariais neste novo ciclo. Independentemente das preferências políticas, o empresário precisa compreender que a economia não é apenas um conjunto de indicadores apresentados nos noticiários. Ela se manifesta diariamente na vida das pessoas: na capacidade de pagar as contas, na decisão de parcelar uma compra, na escolha entre marcas, na busca por melhores preços e na avaliação sobre o que realmente vale a pena levar para casa. É no comportamento do consumidor que muitas das respostas mais importantes para o futuro de uma empresa começam a aparecer. O consumidor não compra apenas porque uma empresa quer vender. Ele compra quando percebe valor, confia na marca, encontra condições adequadas e acredita que aquela escolha faz sentido para sua realidade. E essa percepção muda conforme a renda, o crédito disponível, as prioridades familiares, as experiências anteriores e as expectativas em relação ao futuro. Por isso, o cenário pós-eleitoral exige dos empresários menos especulação e mais capacidade de observação . Precisamos acompanhar os indicadores econômicos, mas também compreender como eles se traduzem em decisões concretas de consumo. Precisamos olhar para os números sem perder de vista as pessoas que estão por trás deles. Minha experiência no varejo me ensinou que o cliente percebe quando uma empresa está verdadeiramente preparada para atendê-lo. Percebe quando o vendedor conhece o produto, quando a negociação é transparente, quando as condições são explicadas com clareza e quando a organização respeita seu tempo e seu dinheiro. Aprendi também que não existe venda sustentável sem compreensão das necessidades de quem compra. Durante minha trajetória à frente da Ricardo Eletro , acompanhei de perto a complexidade de operar em um mercado competitivo, com consumidores de diferentes perfis, necessidades e possibilidades financeiras. Construir uma operação que partiu de uma loja de 20 metros quadrados e chegou a mais de mil lojas exigiu muito mais do que disposição comercial. Exigiu compreender o mercado, desenvolver equipes, organizar processos, tomar decisões e manter a atenção voltada para aquilo que o cliente valorizava. Essa experiência reforçou uma convicção que continuo levando para o meu trabalho no Grupo R1: a empresa precisa conhecer profundamente o próprio negócio, mas também precisa estar disposta a rever suas certezas . O comportamento do consumidor não pode ser interpretado exclusivamente a partir daquilo que funcionou no passado. Uma estratégia comercial bem-sucedida em determinado momento pode perder eficiência quando as condições de compra mudam, quando a concorrência se transforma ou quando novas expectativas passam a orientar as escolhas. Se a renda está pressionada, precisamos rever nossa proposta de valor. Se o acesso ao crédito se torna mais difícil, precisamos avaliar como isso afeta a conversão e o tíquete médio. Se a concorrência aumenta, precisamos melhorar a experiência e demonstrar por que nossa oferta merece ser escolhida. Se a margem diminui, temos de buscar eficiência sem comprometer a qualidade. Não podemos administrar uma empresa com base apenas no que acreditamos que o consumidor deveria fazer. Precisamos observar o que ele realmente faz, investigar por que faz e transformar esse conhecimento em decisões comerciais. No varejo, preço é uma variável decisiva. Mas confundir competitividade com desconto permanente é um erro que pode comprometer a saúde financeira de uma operação. O consumidor quer fazer uma boa compra. Isso não significa necessariamente escolher o produto mais barato, mas encontrar a melhor combinação entre preço, qualidade, confiança, conveniência, atendimento e condiç",
+  "numeros": [],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perder vendas por falta de entendimento do consumidor",
+  "angulo": "Ao entender seu consumidor, você cria estratégias de marketing mais eficazes e constrói relacionamentos duradouros, incentivando a conhecer mais sobre gestão e automação.",
+  "gancho": "Você *entende* seu consumidor hoje?",
+  "ideias": [
+   "Como o cenário pós-eleitoral afeta suas vendas?",
+   "Dicas para entender o comportamento do consumidor",
+   "A importância da proposta de valor no novo cenário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://consumidormoderno.com.br/brasil-eleicao-empresas-entendam-consumidor/",
+  "publicadoEm": "2026-11-03T11:01:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Proibição das apostas online pode impactar seu negócio",
+  "resumo": "O ministro Luiz Fux defendeu a proibição das apostas online, o que pode afetar indústrias relacionadas. As consequências nocivas do jogo foram debatidas em audiências sobre a temática.",
+  "fatos": [
+   "Luiz Fux, relator no STF, propôs a proibição das apostas online no Brasil durante audiência pública em 3 de outubro.",
+   "A medida visa discutir ações que regulamentavam as apostas e suas consequências nocivas.",
+   "Fux destacou o surgimento de milícias de apostas ilegais após a edição da nova medida.",
+   "A audiência incluiu a participação de representantes de clubes de futebol e entidades do comércio.",
+   "Fux considera a ludopatia um problema de saúde pública e econômico que precisa ser banido dos esportes."
+  ],
+  "explicacao": [
+   "A proposta de proibir as apostas online vem como resposta a preocupações sobre os malefícios associados ao jogo.",
+   "A movimentação de Fux reflete uma avaliação do impacto que as apostas têm sobre a economia e a saúde pública.",
+   "Para empresários do setor afetado, a proibição pode significar mudanças significativas na dinâmica de negócios e receitas."
+  ],
+  "materia": "O ministro Luiz Fux, relator no Supremo Tribunal Federal (STF) de ações contra a medida provisória que proíbe as bets no País, defendeu que as apostas online sejam banidas. A declaração foi feita na abertura de audiência pública realizada nesta terça-feira, 3, na Corte. Ele disse que ainda não havia manifestado essa visão porque o ministro Flávio Dino pediu vista no julgamento que discutia os jogos de azar. “Houve um pedido de vista que não voltou até hoje, razão pela qual eu não tive oportunidade de reiterar e acrescentar ao meu voto a minha percepção de que as bets devem ser banidas. “Sucede que eu tenho dez colegas que vão ter que apreciar. Razão pela qual eu preciso levar a eles outros elementos que surgiram depois da edição da medida provisória”, acrescentou Fux. O ministro também disse que o pedido de vista foi positivo porque ele “não gostaria de ter julgado isso no meio do processo eleitoral”. Também reiterou sua visão de que, às vezes, “a Corte tem que decidir não decidir”. Ele ainda rebateu críticas nas redes sociais sobre a falta de participação de entidades críticas às bets em audiência pública realizada sobre o tema na Corte. Segundo Fux, as consequências nocivas das apostas online já foram debatidas em audiência pública realizada em 2024. “Não procede a alegação de que só convoquei empresas e times de futebol”, afirmou. A audiência pública que será realizada ao longo desta terça-feira foi convocada para debater a medida provisória (MP) do governo de Luiz Inácio Lula da Silva (PT) que proibiu as bets no País . Fux assumiu a relatoria do caso por prevenção, porque já conduz ações que questionavam as leis que regulamentavam as apostas online. Fux disse que convocou a audiência pública devido ao surgimento de “novos elementos” após a edição da MP. Segundo ele, o ministro da Justiça, Wellington César Lima e Silva, foi convidado “porque há notícias de que a proibição gerou milhares de bets ilegais”. A lista de participantes prevê a participação de clubes de futebol, associações ligadas às empresas de bets, representantes dos ministérios da Justiça, da Fazenda e dos Esportes, da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e da Confederação Nacional da Indústria (CNI), entre outras. Mais cedo, o deputado André Janones (Rede-MG), acusou Fux de convidar “apenas os interessados nas bets: clubes de futebol , donos de bets, casas de apostas, CBF e etc”, disse Janones nesta terça-feira pelas suas redes sociais. “Para se ter uma ideia do que está ocorrendo, até sexta feira nem mesmo o governo havia sido convidado, e somente depois de muita pressão chamaram os ministros da Saúde e da Justiça. Mas e a sociedade Civil? Nada”, criticou. A primeira-dama Rosângela da Silva, a Janja, está presente na audiência. Segundo Fux, ela entregou ao ministro um relatório “volumoso” sobre o tema. Segundo Fux, o foco da audiência desta terça é diferente. “Temos seis ações declaratórias contra lei que admitiam as bets e agora temos ações contra a nova medida provisória. São dois enfoques diferentes. O primeiro deles leva em consideração os malefícios da lei que regulou as bets. E depois adveio a MP”, afirmou Fux. O ministro ressaltou que, após ouvir entidades da sociedade civil, ele chegou à conclusão de que a ludopatia “deve ser banida” dos esportes. “Ouvimos toda a sociedade e me convenci de que ludopatia é problema de saúde publica, econômico, e deveria ser banida do cenário dos esportes”, afirmou. Com informação do Estadão de Conteúdo (Lavínia Kaucz). Imagem: Fabio Rodrigues-Pozzebom/ Agência Brasil Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "2024",
+    "rotulo": "ano da audiência pública sobre apostas"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de receita e clientes com a proibição de apostas.",
+  "angulo": "A discussão sobre a proibição das apostas enfatiza a importância de estratégias de marketing para se adaptar e prosperar frente a mudanças regulatórias.",
+  "gancho": "Seu negócio pode ser afetado por *novas regras*!",
+  "ideias": [
+   "Como a proibição de apostas pode impactar seu comércio",
+   "Mudanças no cenário de apostas: prepare-se já!",
+   "Aposte no marketing digital para enfrentar novidades"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://mercadoeconsumo.com.br/03/11/2026/economia/relator-de-acoes-das-bets-fux-quer-proibir-apostas-online-no-pais/",
+  "publicadoEm": "2026-11-03T12:18:04-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Reforma tributária: como o IVA Dual impacta seu negócio",
+  "resumo": "A nova reforma tributária traz um IVA Dual, que promete simplificar a precificação e aumentar a clareza nos impostos das pequenas empresas. O que isso significa para você?",
+  "fatos": [
+   "O novo IVA Dual será implantado com a CBS federal e o IBS estadual/municipal.",
+   "O imposto incide apenas sobre o valor adicionado ao produto ou serviço.",
+   "A partir de 2027, o novo sistema começará a ser aplicado gradualmente.",
+   "Empresas do Simples Nacional têm até 30/10 para optar entre o Simples Híbrido ou continuar no tradicional.",
+   "O setor de serviços terá tratamentos diferenciados, com alíquotas reduzidas em algumas áreas como saúde e educação."
+  ],
+  "explicacao": [
+   "A reforma visa tornar o sistema tributário mais claro e justo, facilitando o acompanhamento dos créditos fiscais.",
+   "Com o IVA Dual, empresas não retêm mais capital em margem presumida e podem precificar com base em custos reais.",
+   "A legislação permite que insumos comprados gerem créditos para abater impostos de vendas, o que pode melhorar o fluxo de caixa."
+  ],
+  "materia": "Com a implantação do novo IVA Dual (composto pela CBS federal e pelo IBS estadual/municipal), a reforma tributária deve trazer clareza para a tabela de preços dos pequenos negócios. O imposto passa a incidir apenas sobre o valor que a empresa efetivamente adiciona ao produto ou serviço, permitindo o abatimento integral dos créditos tributários pagos nas etapas anteriores. Na indústria e no comércio, que dependem fortemente da compra de insumos, matérias-primas e mercadorias para revenda, a grande vantagem do IVA Dual é a transparência no aproveitamento de créditos fiscais . No modelo antigo, a Substituição Tributária exigia o recolhimento antecipado de impostos com base em margens estimadas pela Receita Federal. Com o novo sistema, o imposto pago na aquisição do insumo vira crédito automático para abater o imposto devido na venda final. O empreendedor deixa de ter capital retido em margens presumidas e passa a precificar seus produtos com base no valor adicionado real da sua operação. A vantagem desse novo modelo é que o imposto pago sobre os insumos vai gerar crédito para a empresa depois usar no pagamento dos seus impostos. Se você compra um insumo por R$ 100 com R$ 26 de imposto e depois revende por R$ 150, o imposto final vai incidir sobre esses R$ 150, mas você vai poder aproveitar aqueles R$ 26 que foram pagos pelos insumos. Edgard Fernandes, analista de Competitividade e especialista em Direito Tributário do Sebrae Nacional Setor de Serviços Ao contrário do comércio e da indústria, o setor de serviços costuma ter como principal custo operacional a folha de pagamento de colaboradores. Segundo a regra geral da reforma, isso não gera crédito de IVA, porém a legislação previu tratamentos diferenciados para equilibrar a competitividade do setor. “Por exemplo, há uma redução de 30% para 18 profissões regulamentadas e de 60% para a saúde e educação. Se a alíquota final for de 20%, por exemplo, para saúde e educação, ela será 60% menor, ficando em 8%”, detalha Edgard. Além disso, escolas, clínicas e escritórios que atendem o consumidor final (B2C) ou que operam no Simples Nacional tradicional continuam contando com o recolhimento unificado via DAS e as alíquotas favorecidas . “É preciso colocar na ponta do lápis, usar calculadora, planilha, o nosso simulador e contar com o seu contador e com o Sebrae. É importante olhar a sua margem e o volume de insumos utilizados na prestação do serviço. Lembrando sempre que vai haver uma escolha semestral: em março e em setembro, a empresa pode rever se quer continuar no Simples tradicional ou migrar para o regime híbrido”, recorda Edgard. O especialista lembra ainda que a transição será gradual, começando em 2027 com a entrada em vigor apenas da CBS (federal), permitindo que os empreendedores adaptem seus sistemas de gestão sem sobressaltos. Foto: Divulgação Precificação com transparência Para reformular a tabela de preços e proteger a margem de lucro durante a transição, o Sebrae orienta: Mapeie a estrutura de custos : separe o peso da folha de pagamento em relação às compras de insumos e matérias-primas que geram crédito fiscal. Simule os dois cenários : compare o recolhimento sobre o faturamento bruto (Simples tradicional) versus a apuração sobre o valor adicionado (Regime Híbrido). Planeje as janelas de opção : use as janelas de março e setembro para ajustar o regime tributário conforme as oscilações do mercado. Atualize o sistema ERP : confira se seu emissor de notas fiscais já está preparado para destacar os campos de CBS e IBS e aplicar a correta classificação de serviços (ANBS). Calendário de transição Para assegurar uma transição previsível, a Receita Federal e os órgãos reguladores estabeleceram uma linha do tempo detalhada com os prazos de opção e revisão. Confira as próximas etapas: 01/09 a 30/10 : prazo para as empresas do Simples Nacional escolherem pelo Simples Híbrido ou continuarem no Simples Tradicional; 03/11 a 20/12 : prazo para cancelamento da escolha pelo Simples Híbri",
+  "numeros": [
+   {
+    "valor": "30% a 8%",
+    "rotulo": "redução de alíquota para saúde e educação"
+   }
+  ],
+  "fonte": "Agência Sebrae",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda financeira devido a impostos altos e margens incertas",
+  "angulo": "Com as mudanças legais, é crucial ter um site e gestão de marketing para se adaptar rapidamente ao novo cenário e otimizar resultados.",
+  "gancho": "*Como a reforma tributária afeta suas vendas?*",
+  "ideias": [
+   "Entenda o novo IVA Dual hoje!",
+   "Como se preparar para a reforma tributária?",
+   "IVA Dual: ajustes necessários na sua empresa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://agenciasebrae.com.br/economia-e-politica/reforma-tributaria-aliquota-unica-simplifica-a-margem-de-lucro-e-a-precificacao-nas-pequenas-empresas/",
+  "publicadoEm": "2026-11-03T09:56:41-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-06"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Pequenas indústrias enfrentam pior situação financeira em 5 anos",
+  "resumo": "As condições financeiras das pequenas indústrias estão no pior nível desde 2026, com uma queda significativa no índice de satisfação dos empresários. A pressão financeira e a dificuldade de crédito são desafios críticos.",
+  "fatos": [
+   "O índice de situação financeira das pequenas indústrias caiu 0,9 ponto no terceiro trimestre de 2026, atingindo 38,5 pontos.",
+   "Em comparação com o terceiro trimestre de 2025, a queda foi de 2,5 pontos.",
+   "O cálculo do índice varia de 0 a 100 e considera margem de lucro, acesso ao crédito e condição financeira.",
+   "Os empresários apontam a elevada carga tributária como um dos principais entraves, com queixas na transformação subindo de 37,3% para 41%.",
+   "O índice de confiança dos empresários permanece abaixo de 50 pontos há 23 meses consecutivos."
+  ],
+  "explicacao": [
+   "As pequenas indústrias estão enfrentando um ambiente financeiro desafiador, refletido na queda de 0,9 ponto no seu índice de situação financeira.",
+   "A analista Julia Dias destaca que, além da dificuldade de acesso ao crédito, a alta taxa de juros está dificultando a recuperação financeira dessas empresas.",
+   "Os índices de confiança ainda indicam pessimismo, com as pequenas indústrias precisando de soluções eficazes para navegar esse cenário."
+  ],
+  "materia": "As condições financeiras das pequenas empresas industriais chegaram ao pior nível em cinco anos, segundo o Panorama da Pequena Indústria ( PPI ) divulgado nesta sexta-feira pela Confederação Nacional da Indústria (CNI). No terceiro trimestre de 2026, o índice de situação financeira desses pequenos negócios caiu 0,9 ponto em relação ao trimestre anterior, atingindo 38,5 pontos. O cálculo do índice vai de 0 a 100 pontos e leva em consideração a satisfação dos empresários com a margem de lucro operacional, a facilidade de acesso ao crédito e a condição financeira dos negócios. Comparado com o terceiro trimestre de 2025, a queda no índice é de 2,5 pontos. O valor atual está 0,3 ponto abaixo da média histórica do indicador. “O ambiente de crédito ainda é muito restritivo, principalmente por causa da elevada taxa de juros. As pequenas indústrias sofrem ainda mais para conseguir crédito e, mesmo quando acessam, não conseguem o valor que necessitam”, afirma em nota a analista de Políticas e Indústria da CNI, Julia Dias. O índice de desempenho das pequenas indústrias também recuou 0,9 ponto em relação ao trimestre anterior e atingiu o patamar de 44,3 pontos, cerca de 0,1 ponto acima da média histórica. Comparado com 2025, a queda no indicador é de 2 pontos. O cálculo considera o volume de produção, utilização da capacidade instalada e evolução do número de empregados. Nas pequenas indústrias, seja da transformação ou da construção, o principal entrave apontado pelos empresários foi a elevada carga tributária. Na transformação, as queixas saltaram de 37,3% para 41%; enquanto na construção foi de 42,9% para 43,6%. Os empresários industriais de pequeno porte melhoraram a confiança em outubro , de 44,4 para 46,8 pontos. Contudo, seguem há 23 meses em uma maré de pessimismo, com o índice de confiança da categoria abaixo da linha divisória de 50 pontos desde novembro de 2024. O índice de perspectivas das pequenas indústrias, por sua vez, marcou 46,6 pontos no terceiro trimestre, também abaixo da linha. Com informação do Estadão de Conteúdo (Franco Dantas, especial para a AE). Imagem: Divulgação Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "38,5",
+    "rotulo": "pontos do índice de situação financeira"
+   },
+   {
+    "valor": "44,3",
+    "rotulo": "pontos do índice de desempenho"
+   },
+   {
+    "valor": "46,6",
+    "rotulo": "pontos do índice de perspectivas"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Indústria",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "A dificuldade financeira que compromete a operação e a competitividade.",
+  "angulo": "Esse cenário mostra a necessidade de uma estratégia de marketing sólida, que inclui a gestão adequada de redes e um site eficaz para melhorar a visibilidade e acesso a novos clientes.",
+  "gancho": "*Pior nível em 5 anos* das pequenas indústrias!",
+  "ideias": [
+   "Como o crédito restritivo impacta pequenas indústrias?",
+   "Tarifas altas: um entrave para o crescimento?",
+   "A importância do marketing para a sobrevivência da pequena indústria."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://mercadoeconsumo.com.br/03/11/2026/economia/condicoes-financeiras-das-pequenas-industrias-chegam-ao-pior-nivel-em-5-anos-diz-cni/",
+  "publicadoEm": "2026-11-03T10:11:31-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-vpr-05"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Ataques hackers podem impactar seu negócio",
   "resumo": "Supermercados na Europa enfrentam riscos com ataques hackers que afetam sistemas de refrigeração, levando a perdas financeiras. É essencial se proteger com estratégias de marketing digital e tecnologia.",
   "fatos": [
@@ -241,6 +576,478 @@
   "publicadoEm": "2026-11-02T12:08:55-03:00",
   "data": "2026-11-02",
   "id": "2026-11-03-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Produção de petróleo avança, mas o que isso significa para você?",
+  "resumo": "A produção recorde de petróleo no Brasil pode indicar mudanças econômicas. Entenda como isso impacta seu bolso e a economia em geral.",
+  "fatos": [
+   "Em setembro, o Brasil produziu 4,711 milhões de barris por dia, um aumento de 2,1% em relação a agosto.",
+   "Essa produção é 20,3% maior comparada ao mesmo mês do ano passado.",
+   "Os campos de Búzios, Tupi e Mero são os principais responsáveis por essa alta.",
+   "A produção de gás natural avançou 1,6% em relação a agosto, alcançando 223,98 milhões de metros cúbicos por dia.",
+   "A Petrobras foi a maior produtora, com cerca de 2,8 milhões de barris por dia em setembro."
+  ],
+  "explicacao": [
+   "O aumento na produção de petróleo indica uma recuperação econômica e pode resultar em impactos positivos ou negativos nas contas públicas e no custo de vida.",
+   "A performance dos campos do pré-sal sugere que o Brasil está se consolidando como um importante player no mercado energético global.",
+   "As mudanças nas receitas geradas por esses recursos podem refletir em impostos, afetando consumidores e empresários."
+  ],
+  "materia": "Produção de petróleo do Brasil bate 4º recorde mensal consecutivo em setembro Relator da CBS, Eduardo Braga diz não estar de acordo com alíquota de 11,3% Após vitória de Lula, Itaú reduz otimismo com Bolsa e recomenda reforçar diversificação no exterior RIO DE JANEIRO, 3 Nov (Reuters) – A produção de petróleo do Brasil registrou seu quarto recorde mensal consecutivo em setembro, com impulso da atividade em importantes campos do pré-sal na Bacia de Santos, apontaram dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) nesta terça-feira. No total, o país produziu 4,711 milhões de barris por dia (bpd) em setembro, alta de 2,1% ante o recorde anterior registrado em agosto e de 20,3% na comparação com o mesmo mês do ano passado, mostraram os dados. O resultado foi sustentado principalmente pelos campos de Búzios, Tupi e Mero, os maiores produtores do país e operados pela Petrobras, além do avanço da produção no campo de Bacalhau, operado pela Equinor. Em meados de setembro, o presidente da Equinor, Anders Opedal, afirmou em uma conferência que a plataforma FPSO Bacalhau estava produzindo a um volume próximo de sua capacidade de 220 mil barris por dia, e que deveria atingir esse nível de “platô” ainda este ano. De acordo com os dados da ANP, a produção na plataforma de Bacalhau em setembro foi de 144,2 mil bpd, contra 114,1 mil bpd em agosto. Búzios manteve a liderança entre os campos produtores, com 1,19 milhão de bpd, seguido por Tupi, com 879 mil bpd, e Mero, com 769 mil bpd. Juntos, os três campos responderam por mais da metade da produção brasileira de petróleo. Já a produção de gás natural alcançou 223,98 milhões de metros cúbicos por dia em setembro, avanço de 1,6% frente a agosto e de 17,5% na comparação anual, também estabelecendo um recorde. A produção total de petróleo e gás no país somou 6,12 milhões de boe/d. Entretanto, apenas cerca de 66,4 milhões de metros cúbicos por dia foram disponibilizados ao mercado no mês. A reinjeção de gás natural nos reservatórios permaneceu elevada, superando a metade da produção nacional, prática comum nos campos do pré-sal. Como consorciada, a Petrobras produziu cerca de 2,8 milhões de barris por dia de petróleo em setembro. Já a Shell permaneceu como a segunda maior produtora, com produção superior a 400 mil barris por dia de petróleo no mês. Já a estatal Pré-Sal Petróleo SA (PPSA), responsável pela gestão dos contratos de partilha em nome da União, registrou produção próxima de 300 mil barris por dia, refletindo o avanço das operações nos grandes campos do pré-sal da Bacia de Santos. (Reportagem de Marta Nogueira; edição de Roberto Samora) Receba gratuitamente as newsletters do Money Times LULA REELEITO: 10 ações para COMPRAR e VENDER após a turbulência na Bolsa Usamos cookies para guardar estatísticas de visitas, personalizar anúncios e melhorar sua experiência de navegação. Ao continuar, você concorda com nossas políticas de cookies .",
+  "numeros": [
+   {
+    "valor": "4,711 milhões",
+    "rotulo": "barris por dia"
+   },
+   {
+    "valor": "20,3%",
+    "rotulo": "aumento anual de produção"
+   }
+  ],
+  "fonte": "Money Times",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Receber menos com impostos mais altos ou preços em alta.",
+  "angulo": "Entender o impacto do petróleo na economia diária pode ajudar a se preparar e buscar alternativas de renda no mercado financeiro.",
+  "gancho": "Como a *produção de petróleo* pode influenciar seu bolso?",
+  "ideias": [
+   "Impactos da produção de petróleo na economia",
+   "Como o mercado financeiro reage a mudanças na produção",
+   "Aumento da produção e suas consequências"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://www.moneytimes.com.br/producao-de-petroleo-do-brasil-soma-471-mi-bpd-em-setembro-4o-recorde-mensal-consecutivo/",
+  "publicadoEm": "2026-11-03T13:31:52-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças importantes nos vales-refeição e alimentação",
+  "resumo": "A partir do dia 7, cartões de vale-refeição e vale-alimentação de diferentes operadoras poderão ser usados em qualquer maquininha habilitada, facilitando a vida dos trabalhadores.",
+  "fatos": [
+   "A partir de 7 de fevereiro de 2026, cartões VR e VA de diferentes operadoras devem ser aceitos nas mesmas maquininhas.",
+   "Essa mudança, chamada interoperabilidade, faz parte do Programa de Alimentação do Trabalhador (PAT).",
+   "Com a nova regra, trabalhadores poderão usar seu cartão de uma operadora em estabelecimentos que aceitam cartões de outras empresas.",
+   "A expectativa é aumentar as opções de uso, especialmente em regiões menos centrais e rurais.",
+   "Empresas que não cumprirem a nova regra poderão ser multadas entre R$ 5.000 e R$ 50.000."
+  ],
+  "explicacao": [
+   "A adaptação para a interoperabilidade busca ampliar os locais onde os benefícios podem ser utilizados, facilitando o acesso ao vale-refeição e vale-alimentação.",
+   "Com a mudança, o consumidor não precisa trocar de cartão e poderá utilizar o que já possui em um número maior de estabelecimentos.",
+   "Estabelecimentos têm um prazo determinado para se adaptar, mas a mudança não implicará em custos altos para os comerciantes."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. A partir deste sÃ¡bado (7), cartÃµes de vale-refeiÃ§Ã£o (VR) e vale- alimentaÃ§Ã£o (VA) de diferentes operadoras deverÃ£o ser aceitos em todas as mesmas maquininhas , desde que os estabelecimentos aceitem esse tipo de pagamento. A mudanÃ§a, chamada de interoperabilidade, faz parte das novas regras do PAT (Programa de AlimentaÃ§Ã£o do Trabalhador) e busca ampliar as opÃ§Ãµes de uso dos benefÃ­cios. Na prÃ¡tica, quem recebe um cartÃ£o de uma empresa poderÃ¡ utilizÃ¡-lo em qualquer bar, restaurante ou supermercado que aceite VR ou VA. O trabalhador nÃ£o precisa tomar nenhuma providÃªncia para participar da mudanÃ§a, e o saldo disponÃ­vel nÃ£o serÃ¡ alterado. Receba no seu email o que de mais importante acontece na economia; aberta para nÃ£o assinantes. Ã a possibilidade de cartÃµes de diferentes empresas funcionarem nas mesmas redes de pagamento. Hoje, algumas operadoras trabalham com redes prÃ³prias de estabelecimentos credenciados, o que limita os locais em que cada cartÃ£o pode ser utilizado. Com a mudanÃ§a, um restaurante que aceita determinada bandeira poderÃ¡ receber tambÃ©m cartÃµes de outras operadoras, desde que sua maquininha esteja habilitada para benefÃ­cios de alimentaÃ§Ã£o. A principal mudanÃ§a Ã© a ampliaÃ§Ã£o dos locais em que serÃ¡ possÃ­vel usar o benefÃ­cio. Um trabalhador que recebe VR de uma operadora, por exemplo, poderÃ¡ pagar a refeiÃ§Ã£o em um restaurante credenciado por outra empresa. A expectativa Ã© ampliar as opÃ§Ãµes principalmente em bairros afastados dos grandes centros, cidades menores e regiÃµes rurais, onde a rede de estabelecimentos que aceita cada cartÃ£o pode ser mais restrita. NÃ£o. A adaptaÃ§Ã£o deve ocorrer entre as empresas responsÃ¡veis pelos cartÃµes e as redes de pagamento. O trabalhador poderÃ¡ continuar utilizando o cartÃ£o que jÃ¡ possui. Mensagens que peÃ§am dados pessoais, senhas ou uma suposta atualizaÃ§Ã£o obrigatÃ³ria do cartÃ£o por causa da mudanÃ§a devem ser tratadas com desconfianÃ§a. NÃ£o. A regra vale para maquininhas habilitadas para receber pagamentos de vale-refeiÃ§Ã£o e vale-alimentaÃ§Ã£o. NÃ£o. A interoperabilidade nÃ£o altera a finalidade de cada benefÃ­cio. O vale-refeiÃ§Ã£o continua destinado ao pagamento de refeiÃ§Ãµes prontas, como as consumidas em restaurantes e lanchonetes. JÃ¡ o vale-alimentaÃ§Ã£o deve ser utilizado na compra de alimentos em estabelecimentos como supermercados, padarias, aÃ§ougues e hortifrÃºtis. TambÃ©m continua proibido usar os benefÃ­cios para comprar produtos sem relaÃ§Ã£o com alimentaÃ§Ã£o . O trabalhador deve registrar o problema, anotando o nome do estabelecimento, a data e o horÃ¡rio da tentativa de pagamento. Se possÃ­vel, tambÃ©m deve guardar uma foto da mensagem exibida na maquininha. O primeiro passo Ã© entrar em contato com a operadora do cartÃ£o e com o RH da empresa em que trabalha, que pode cobrar uma soluÃ§Ã£o da fornecedora do benefÃ­cio. Se o problema persistir, Ã© possÃ­vel registrar uma denÃºncia no MinistÃ©rio do Trabalho e Emprego, responsÃ¡vel pela fiscalizaÃ§Ã£o das regras do PAT. O Ã³rgÃ£o disponibiliza o canal de denÃºncia trabalhista e o email atendimento.pat@trabalho.gov.br . NÃ£o necessariamente. A integraÃ§Ã£o dos sistemas Ã© responsabilidade das operadoras de benefÃ­cios e das empresas que credenciam os estabelecimentos para receber pagamentos. A recomendaÃ§Ã£o Ã© que o comerciante confirme com sua credenciadora se o equipamento e o cadastro estÃ£o habilitados para receber as diferentes bandeiras. Segundo a",
+  "numeros": [
+   {
+    "valor": "R$ 5.000 a R$ 50.000",
+    "rotulo": "multas para empresas que não se adaptarem"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Jovens"
+  ],
+  "dor": "preço alto em refeições e produtos de alimentação",
+  "angulo": "Aprender sobre o mercado financeiro pode ser a chave para diversificar sua renda e não depender apenas de benefícios como vale-alimentação.",
+  "gancho": "Novas regras sobre *vale-refeição e alimentação*!",
+  "ideias": [
+   "Interoperabilidade: o que você precisa saber?",
+   "Vale-refeição: como usar melhor seu benefício",
+   "Com novas regras, o que muda para o trabalhador?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-o-que-muda-com-as-novas-regras-para-vale-refeicao-e-alimentacao.shtml",
+  "publicadoEm": "2026-11-03T13:28:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mais da metade dos adultos brasileiros estão inadimplentes",
+  "resumo": "Com 84,2 milhões de inadimplentes, o Brasil atinge um marco histórico em setembro, afetando 51,1% da população adulta. Isso traz preocupações diretas sobre a economia e as finanças pessoais.",
+  "fatos": [
+   "O Brasil registrou 84,2 milhões de inadimplentes em setembro, o maior número histórico da Serasa.",
+   "Essa inadimplência representa 51,1% da população adulta do país, ultrapassando pela primeira vez a metade.",
+   "Os débitos totalizam R$ 597,4 bilhões, com um aumento de 0,90% em relação ao mês anterior.",
+   "Cada inadimplente possui em média R$ 7.093,83 de dívida, com 4,2 pendências por pessoa.",
+   "Em um ano, a inadimplência aumentou 6%, e desde 2020, a alta acumulada é de 34,17%.",
+   "As dívidas com bancos e cartões de crédito são as mais comuns, seguidas por financeiras e contas básicas.",
+   "O Feirão Limpa Nome da Serasa, que visa renegociação, começa nesta terça e vai até 6 de dezembro."
+  ],
+  "explicacao": [
+   "A crescente inadimplência no Brasil é resultado do aumento das dívidas e dificuldades financeiras enfrentadas pela população.",
+   "O cenário atual mostra que muitos brasileiros estão vivendo uma pressão financeira maior, o que os leva a acumular pendências.",
+   "Na prática, essa situação pode dificultar o acesso ao crédito e aumentar o custo de vida, pois o foco dos inadimplentes deve ser quitar as dívidas.",
+   "O Feirão Limpa Nome oferece uma oportunidade para renegociação, mas a estrutura de dívidas chama atenção para a necessidade de diversificação de renda.",
+   "Aprender sobre o mercado financeiro pode ajudar a evitar essa armadilha da dependência de um salário fixo e ensinar novas formas de gerar renda."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O Brasil chegou a 84,2 milhÃµes de inadimplentes em setembro, o maior nÃºmero da sÃ©rie histÃ³rica da Serasa, iniciada em 2016. O contingente equivale a 51,1% da populaÃ§Ã£o adulta, e Ã© a primeira vez que o Ã­ndice passa de metade, segundo o Mapa da InadimplÃªncia e RenegociaÃ§Ã£o de DÃ­vidas, divulgado pela empresa. Os dÃ©bitos em atraso totalizam R$ 597,4 bilhÃµes, alta de 0,90% em relaÃ§Ã£o a agosto. SÃ£o 352,7 milhÃµes de dÃ­vidas, o que dÃ¡ uma mÃ©dia de 4,2 pendÃªncias por pessoa. Cada inadimplente deve, em mÃ©dia, R$ 7.093,83, e o valor mÃ©dio de cada dÃ­vida Ã© de R$ 1.693,68. Em um ano, segundo a Serasa, o nÃºmero de inadimplentes cresceu 6%, na comparaÃ§Ã£o de setembro de 2025 com o mesmo mÃªs de 2026. Desde 2020, a alta acumulada Ã© de 34,17%. A Serasa afirma que o ritmo de crescimento desacelerou desde abril, mas que a inadimplÃªncia segue em alta. Receba no seu email o que de mais importante acontece na economia; aberta para nÃ£o assinantes. \"A inadimplÃªncia cresceu 34,17% desde 2020 e aumentou 6% apenas de setembro de 2025 para o mesmo mÃªs desse ano. Ã o maior Ã­ndice da sÃ©rie histÃ³rica. Desde abril, observamos uma desaceleraÃ§Ã£o no ritmo de crescimento, mas o nÃºmero continua aumentando \", disse Aline Maciel, diretora da Serasa, no material de divulgaÃ§Ã£o dos dados. A composiÃ§Ã£o das dÃ­vidas tambÃ©m mudou. Bancos e cartÃµes de crÃ©dito continuam na lideranÃ§a, com 27,16% do total devido. Pela primeira vez, as financeiras ocupam o segundo lugar, com 20,66%, ante 20,14% no perÃ­odo anterior. Com isso, superaram as contas bÃ¡sicas de Ã¡gua, luz e gÃ¡s, que passaram de 20,71% para 20,32% do total. Para a Serasa, o movimento indica avanÃ§o do peso das dÃ­vidas com instituiÃ§Ãµes financeiras no perfil da inadimplÃªncia. A Serasa lanÃ§a a partir desta terÃ§a-feira (3) a 36Âª ediÃ§Ã£o do FeirÃ£o Limpa Nome, o maior jÃ¡ realizado pela empresa. O mutirÃ£o reÃºne 3,3 mil empresas parceiras e mais de 750 milhÃµes de ofertas de renegociaÃ§Ã£o, volume 14% superior ao da ediÃ§Ã£o do ano passado. Os descontos chegam a atÃ© 99%. As negociaÃ§Ãµes vÃ£o atÃ© o dia 6 de dezembro, pelo site e pelo aplicativo da Serasa. O atendimento presencial Ã© feito nas mais de 7 mil agÃªncias dos Correios, sem taxa, mediante apresentaÃ§Ã£o de documento oficial com foto. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. VocÃª jÃ¡ conhece as vantagens de ser assinante da Folha? AlÃ©m de ter acesso a reportagens e colunas, vocÃª conta com newsletters exclusivas ( conheÃ§a aqui ). TambÃ©m pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notÃ­cias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado! Mais de 180 reportagens e anÃ¡lises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder pÃºblico, veicula notÃ­cias proveitosas e inspiradoras, faz contraponto Ã intolerÃ¢ncia das redes sociais e traÃ§a uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteÃºdo? De 2Âª a 6Âª pela manhÃ£, receba o boletim gratuito com notÃ­cias e anÃ¡lises de economia Ministro da articulaÃ§Ã£o polÃ­tica quer evitar alteraÃ§Ã£o no texto aprovado pela CÃ¢mara Alasca, Texas, Kansas, Iowa, Ohio, Michigan e Maine tÃªm eleiÃ§Ãµes altamente competitivas A",
+  "numeros": [
+   {
+    "valor": "84,2 milhões",
+    "rotulo": "inadimplentes no Brasil"
+   },
+   {
+    "valor": "51,1%",
+    "rotulo": "percentual da população adulta inadimplente"
+   },
+   {
+    "valor": "R$ 597,4 bilhões",
+    "rotulo": "total de débitos em atraso"
+   },
+   {
+    "valor": "R$ 7.093,83",
+    "rotulo": "média de dívida por inadimplente"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "crescimento da inadimplência em um ano"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Aumento da inadimplência e dificuldades financeiras",
+  "angulo": "Esta situação evidencia a importância de diversificar suas fontes de renda, e aprender sobre o mercado financeiro pode ser uma solução.",
+  "gancho": "*Inadimplência histórica* afeta sua renda; você está preparado?",
+  "ideias": [
+   "Entenda a inadimplência no Brasil e seu impacto",
+   "Como proteger sua renda da inadimplência",
+   "A importância de diversificar suas fontes de renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/inadimplencia-chega-a-842-milhoes-e-atinge-mais-da-metade-dos-adultos-pela-primeira-vez.shtml",
+  "publicadoEm": "2026-11-03T12:29:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Multa de R$ 700 milhões aperta bolso do consumidor",
+  "resumo": "A ANP aplicou multas a distribuidoras por elevações abusivas de preços, totalizando mais de R$ 700 milhões. Isso pode impactar ainda mais o custo de vida da população.",
+  "fatos": [
+   "A ANP multou distribuidoras de combustíveis em mais de R$ 700 milhões.",
+   "As multas foram aplicadas por processos relacionados a aumentos de até 4.000% nas margens de lucro.",
+   "As empresas multadas são responsáveis por mais de 45% do volume de combustíveis no mercado nacional em 2026.",
+   "Após a perda de validade das medidas que permitiram as multas, a ANP não pode mais autuar por preços abusivos.",
+   "Os casos que restarem serão encaminhados ao Cade e Procons para análise.",
+   "A ANP também encaminhou 11 processos ao Cade para avaliar práticas anticoncorrenciais."
+  ],
+  "explicacao": [
+   "As multas foram aplicadas devido a aumentos considerados imotivados nos preços dos combustíveis.",
+   "As distribuidoras, que representam uma parte significativa do mercado, podem ter impacto direto no preço que o consumidor paga na bomba.",
+   "Sem a capacidade da ANP de fiscalizar, futuros abusos de preços podem ser mais difíceis de controlar."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. A ANP (AgÃªncia Nacional do PetrÃ³leo , GÃ¡s Natural e BiocombustÃ­veis) informou nesta terÃ§a-feira (3) que aplicou penalidades somadas de mais de R$ 700 milhÃµes a distribuidoras de combustÃ­veis em processos que apuram elevaÃ§Ãµes abusivas de preÃ§os. As apuraÃ§Ãµes, conduzidas durante a vigÃªncia de duas medidas provisÃ³rias que permitiram Ã ANP fiscalizar e punir a prÃ¡tica, identificaram aumentos \"imotivados\" de atÃ© 4.000% na margem entre o custo de aquisiÃ§Ã£o e o valor de venda dos produtos. O regulador nÃ£o divulgou nominalmente as empresas que foram multadas, mas apontou que as distribuidoras condenadas em primeira instÃ¢ncia sÃ£o responsÃ¡veis, em conjunto, por mais de 45% do volume total de combustÃ­veis movimentado no mercado nacional em 2026. A ANP observou que deixou de ter competÃªncia para autuar agentes econÃ´micos especificamente pela prÃ¡tica de preÃ§os abusivos depois da perda de validade das medidas provisÃ³rias sobre o tema. Os casos remanescentes serÃ£o encaminhados, apÃ³s anÃ¡lise preliminar das notas fiscais pela agÃªncia, Ã Senacon (Secretaria Nacional do Consumidor) e aos Procons estaduais e municipais parceiros. A reguladora informou ainda que sua diretoria aprovou na semana passada o encaminhamento ao Cade (Conselho Administrativo de Defesa EconÃ´mica) de 11 processos administrativos sancionadores contra dez distribuidoras de combustÃ­veis por elevaÃ§Ã£o abusiva de preÃ§os. O encaminhamento permitirÃ¡ ao Cade avaliar, no Ã¢mbito de suas competÃªncias, a eventual existÃªncia de condutas anticoncorrenciais relacionadas Ã s prÃ¡ticas identificadas pela ANP. \"A medida nÃ£o significa que a AgÃªncia tenha constatado infraÃ§Ãµes Ã ordem econÃ´mica, que sÃ£o de responsabilidade do Cade, mas que os elementos reunidos durante a fiscalizaÃ§Ã£o poderÃ£o subsidiar a anÃ¡lise do Ã³rgÃ£o responsÃ¡vel pela defesa da concorrÃªncia\", disse a ANP. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. VocÃª jÃ¡ conhece as vantagens de ser assinante da Folha? AlÃ©m de ter acesso a reportagens e colunas, vocÃª conta com newsletters exclusivas ( conheÃ§a aqui ). TambÃ©m pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notÃ­cias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado! Mais de 180 reportagens e anÃ¡lises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder pÃºblico, veicula notÃ­cias proveitosas e inspiradoras, faz contraponto Ã intolerÃ¢ncia das redes sociais e traÃ§a uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteÃºdo? De 2Âª a 6Âª pela manhÃ£, receba o boletim gratuito com notÃ­cias e anÃ¡lises de economia Ministro da articulaÃ§Ã£o polÃ­tica quer evitar alteraÃ§Ã£o no texto aprovado pela CÃ¢mara Alasca, Texas, Kansas, Iowa, Ohio, Michigan e Maine tÃªm eleiÃ§Ãµes altamente competitivas Americanos vÃ£o Ã s urnas para renovar a CÃ¢mara, um terÃ§o do Senado e escolher 36 governadores estaduais Copyright Folha de S.Paulo. Todos os direitos reservados. Ã proibida a reproduÃ§Ã£o do conteÃºdo desta pÃ¡gina em qualquer meio de comunicaÃ§Ã£o, eletrÃ´nico ou impresso, sem autorizaÃ§Ã£o escrita da Folhapress. Ãudio adicionado Ã playlist com sucesso!",
+  "numeros": [
+   {
+    "valor": "700 milhões",
+    "rotulo": "multas aplicadas"
+   },
+   {
+    "valor": "4.000",
+    "rotulo": "percentual máximo de aumento na margem"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Empresários",
+   "Profissionais liberais",
+   "Aposentados"
+  ],
+  "dor": "aumento nos preços que reduzem o poder de compra",
+  "angulo": "Com a pressão sobre os preços dos combustíveis, descobrir formas alternativas de renda pode ser chave para lidar com esse cenário. O mercado financeiro oferece oportunidades de investimento e aumento de renda.",
+  "gancho": "*R$ 700 milhões* em multas e o impacto no",
+  "ideias": [
+   "Como os combustíveis afetam seu bolso",
+   "Preço do combustível: o que você pode fazer?",
+   "Entenda a crise: multas e repasse ao consumidor"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/anp-multa-distribuidoras-de-combustiveis-em-mais-de-r-700-milhoes-por-precos-abusivos.shtml",
+  "publicadoEm": "2026-11-03T13:49:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Entenda como crises internacionais afetam seu bolso.",
+  "resumo": "Crises internacionais, como a no Oriente Médio, podem impactar a economia local. É importante estar preparado para lidar com esses efeitos no dia a dia.",
+  "fatos": [
+   "O Irã vê a resposta dos EUA a suas reivindicações como insatisfatória.",
+   "O secretário do Conselho de Segurança do Irã menciona sete condições para um acordo.",
+   "A reabertura do Estreito de Ormuz depende do cumprimento dessas condições.",
+   "Tais tensões podem influenciar o preço de commodities que afetam o consumidor.",
+   "Os cidadãos devem estar cientes das implicações dessas crises no custo de vida."
+  ],
+  "explicacao": [
+   "As tensões no Oriente Médio, especialmente envolvendo o Irã e os EUA, têm potencial para impactar diretamente a economia global.",
+   "Essas crises podem levar a aumentos no preço de combustíveis e produtos que dependem do petróleo.",
+   "Nessa conjuntura, quem depende apenas do salário pode sentir o peso nas contas mensais.",
+   "Aprender sobre investimentos pode ser uma alternativa para mitigar esses efeitos negativos.",
+   "Diversificar a renda e aumentar conhecimentos financeiros se tornam essenciais."
+  ],
+  "materia": "O secretário do Conselho Supremo de Segurança Nacional do Irã, Mohsen Rezaei, afirmou que a resposta dos EUA aos direitos e reivindicações de Teerã ressaltadas na proposta do acordo para encerrar a guerra no Oriente Médio “não foi convincente”. Em publicação no X nesta terça-feira, 3, ele disse que Washington deve responder de forma “completa e explícita” às sete condições iranianas apresentadas e cumpri-las. “Somente nesse caso o Estreito de Ormuz será reaberto”, acrescentou. Leia também Trump pode mudar a Constituição dos EUA para disputar um terceiro mandato? Constituição limita presidente a duas eleições; alteração exige amplo apoio político e ratificação dos estados, enquanto analistas discutem limites institucionais EUA votam hoje sob temor de contestação de Trump Nos EUA, as eleições são geridas pelos Estados, por meio da figura do secretário de Estado Na esteira de comentários, o porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baghaei, condicionou a concretização de qualquer entendimento com os EUA ao “compromisso claro” de encerrar a guerra em todas as frentes, inclusive no Líbano. “Diante da experiência de violação de acordos anteriores por parte dos EUA, participamos de qualquer processo diplomático com a máxima cautela e total pessimismo”, afirmou. The post Irã vê com ceticismo entendimento com os EUA para encerrar a guerra appeared first on InfoMoney .",
+  "numeros": [
+   {
+    "valor": "7",
+    "rotulo": "condições para acordo com os EUA"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Negócios",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Aumento dos preços pode comprometer o orçamento mensal.",
+  "angulo": "Compreender como as crises globais impactam o dia a dia pode abrir os olhos para a necessidade de diversificação de renda.",
+  "gancho": "Crises internacionais afetam nosso *bolso diretamente*!",
+  "ideias": [
+   "Como a crise afeta seu dia a dia?",
+   "Entenda o impacto da guerra na economia.",
+   "Diversificação: proteja seu patrimônio agora!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://www.infomoney.com.br/mercados/ira-ve-com-ceticismo-entendimento-com-os-eua-para-encerrar-a-guerra/",
+  "publicadoEm": "2026-11-03T13:42:11-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças legais que podem afetar seu bolso",
+  "resumo": "Novas propostas na Câmara buscam proteger mulheres e animais, mas podem arrecadar mais impostos. Impactos diretos no seu dia a dia e negócios podem surgir.",
+  "fatos": [
+   "O Plenário da Câmara dos Deputados se reúne com 21 itens na pauta.",
+   "Projetos incluem a monitoração eletrônica de agressores e punição para maus-tratos a animais.",
+   "O Projeto de Lei 5542/26 propõe garantias na monitoração como medida protetiva.",
+   "O Projeto de Lei 4674/24 visa a oferta de ultrassonografia na rede pública.",
+   "O Projeto de Lei 2475/25 torna hediondo o crime de maus-tratos a animais resultando em morte."
+  ],
+  "explicacao": [
+   "As propostas na Câmara visam aumentar a proteção a grupos vulneráveis, mas podem gerar impactos financeiros futuros, como aumento de impostos.",
+   "A lei de monitoração eletrônica poderá exigir investimentos em tecnologia nas esferas de justiça e segurança.",
+   "A oferta de exames e o controle de medicamentos podem afetar o custo operacional de estabelecimentos de saúde.",
+   "Essas mudanças trarão exigências adicionais para empresas e profissionais que atuam nessas áreas, trazendo um risco de encarecimento.",
+   "Ambientes de negócios que dependem de constante atualização e investimento serão diretamente influenciados."
+  ],
+  "materia": "Thiago Cristino / Câmara dos Deputados Deputados reunidos no Plenário O Plenário da Câmara dos Deputados reúne-se nesta terça-feira (3) com 21 itens na pauta. Entre eles, projetos sobre monitoramento eletrônico de agressores, oferta de ultrassonografia morfológica no SUS e punição por maus-tratos a animais. A sessão está marcada para as 13h55. Uma das propostas pautadas é o Projeto de Lei 5542/26, do deputado Yury Bruno (MDB-CE), que altera a Lei Maria da Penha para estabelecer garantias mínimas na execução da monitoração eletrônica como medida protetiva de urgência. O projeto prevê alertas sonoros e luminosos, além da possibilidade, em caráter excepcional, de uso de mecanismo de contenção física remoto. Exames no SUS Também estão na pauta: o Projeto de Lei 2879/11 , do deputado Luis Tibé (Avante-MG), sobre regras de sinalização vertical de travessias de pedestres; o Projeto de Lei 1932/21, do Senado, que o abastecimento de medicamentos e produtos para a saúde nos estados e municípios seja controlado por um sistema integrado, com acompanhamento em tempo real do consumo e dos estoques; o Projeto de Lei 4674/24, do deputado Beto Preto (PSD-PR), que trata da oferta de exames de ultrassonografia morfológica na rede pública de saúde; e o Projeto de Lei 2475/25, que torna hediondo o crime de maus-tratos a animais quando a conduta resultar na morte do animal. Confira a pauta completa",
+  "numeros": [
+   {
+    "valor": "21",
+    "rotulo": "itens na pauta da Câmara"
+   },
+   {
+    "valor": "5542/26",
+    "rotulo": "Projeto de Lei sobre monitoração eletrônica"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Leis",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "possibilidade de aumento de impostos e custos operacionais",
+  "angulo": "Entender essas alterações é essencial para se adaptar e manter a rentabilidade, ampliando sua capacitação no mercado financeiro.",
+  "gancho": "Você está *preparado para as mudanças legais*?",
+  "ideias": [
+   "Como lei pode afetar seu negócio",
+   "Mudanças na proteção às mulheres e animais",
+   "O que novas leis significam para você?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "congresso",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://www.camara.leg.br/noticias/1315214-camara-analisa-projetos-sobre-sobre-protecao-as-mulheres-saude-e-maus-tratos-a-animais",
+  "publicadoEm": "2026-11-03T14:23:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novo projeto protege *idosos no mercado financeiro*",
+  "resumo": "A Câmara dos Deputados avança em projeto que exige segurança extra para transações financeiras de idosos. Medida visa proteger contra fraudes e golpes.",
+  "fatos": [
+   "A Comissão de Defesa dos Direitos da Pessoa Idosa aprovou projeto de lei que obriga instituições financeiras a oferecer autenticação em dois fatores para clientes acima de 60 anos.",
+   "O projeto foi relatado pelo deputado Castro Neto e se refere ao PL 1453/26, de Lucas Abrahao.",
+   "O mecanismo de segurança será acionado em operações que destoem do histórico do cliente.",
+   "O Banco Central ficará responsável por regulamentar a nova medida.",
+   "A proposta será ainda analisada por comissões de Finanças e Tributação e de Constituição e Justiça antes de ir ao Senado."
+  ],
+  "explicacao": [
+   "O aumento da população idosa trouxe a necessidade de uma proteção financeira mais robusta para este grupo.",
+   "A medida protege os idosos de fraudes, garantindo que operações suspeitas passem por uma verificação extra sem dificultar suas rotinas.",
+   "Problemas de segurança financeira podem impactar negativamente a qualidade de vida dos idosos, tornando esta aprovação uma importante defesa contra perdas financeiras."
+  ],
+  "materia": "Kayo Magalhães / Câmara dos Deputados Castro Neto, relator da proposta A Comissão de Defesa dos Direitos da Pessoa Idosa da Câmara dos Deputados aprovou projeto de lei que obriga bancos e outras instituições financeiras a oferecer gratuitamente mecanismos de autenticação em dois fatores para clientes com idade igual ou superior a 60 anos. O acionamento da camada adicional de segurança ocorrerá de forma seletiva e proporcional, nos casos em que a operação financeira se mostrar incompatível com o perfil do cliente, o histórico de movimentação e as análises de risco. O texto aprovado é a versão do relator, deputado Castro Neto (MDB-PI), para o Projeto de Lei 1453/26 , do deputado Lucas Abrahao (Rede-AP), atualmente na suplência. Castro Neto também acatou uma emenda apresentada no colegiado. Proteção Em seu parecer, o relator destacou a necessidade de proteger os idosos contra golpes e fraudes sem prejudicar a gestão rotineira das contas. “O envelhecimento populacional brasileiro é um fenômeno consolidado e acelerado”, afirmou ele. Caberá ao Banco Central regulamentar a medida. Pelo substitutivo , operações cotidianas e rotineiras não passarão pela verificação extra. A exigência adicional incidirá, quando caracterizada a atipicidade da transação, sobre: transferências eletrônicas; pagamentos acima dos limites estabelecidos; contratação de crédito ou de novos serviços financeiros; e alterações cadastrais relevantes. Próximos passos O projeto ainda será analisado, em caráter conclusivo , pelas comissões de Finanças e Tributação; e de Constituição e Justiça e de Cidadania. Para virar lei, terá de ser aprovado pela Câmara e pelo Senado. Saiba mais sobre a tramitação de projetos de lei",
+  "numeros": [
+   {
+    "valor": "60",
+    "rotulo": "idade mínima para autenticação extra"
+   },
+   {
+    "valor": "1453/26",
+    "rotulo": "número do projeto de lei"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Leis",
+  "publico": [
+   "Aposentados",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "preocupação com fraudes e golpes financeiros",
+  "angulo": "Entender como operar no mercado financeiro pode trazer segurança e renda extra, afastando risco de dependência de medidas governamentais.",
+  "gancho": "*Proteção na aposentadoria* é fundamental!",
+  "ideias": [
+   "Como a segurança financeira muda com o tempo",
+   "O que o projeto de lei traz de novo para idosos",
+   "A importância de estar por dentro das mudanças financeiras"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://www.camara.leg.br/noticias/1315216-comissao-aprova-mecanismo-de-seguranca-de-dois-fatores-para-transacoes-financeiras-de-idosos",
+  "publicadoEm": "2026-11-03T15:05:00-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-05"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mais imposto sobre consumo pode afetar sua renda",
+  "resumo": "A nova proposta de imposto pode ultrapassar 30%, elevando pressões sobre o bolso da população. Isso impacta diretamente trabalhadores e profissionais autônomos que dependem de um fluxo estável de renda.",
+  "fatos": [
+   "A previsão é que a alíquota do novo imposto no Brasil chegue a mais de 30% em 2033.",
+   "O TCU aprovou uma alíquota de 11,3% para a Contribuição sobre Bens e Serviços (CBS) em 2027.",
+   "Os novos impostos, um conjunto chamado IVA Dual, incluirão o IBS, criando uma cobrança conjunta.",
+   "O Senado deve definir essa alíquota até 15 de dezembro, podendo aprovar ou rejeitar a sugestão.",
+   "Atualmente, a carga tributária sobre o consumo já representa cerca de 34%, dificultando a comparação com outros países."
+  ],
+  "explicacao": [
+   "A proposta de reforma tributária tem como objetivo preservar a arrecadação atual, levando à alta da nova alíquota.",
+   "A cobrança do CBS e do IBS passará a ser mais clara, com impostos separados do valor dos produtos.",
+   "Essa elevação tributária pode impactar diretamente o custo de vida e a rentabilidade de negócios.",
+   "A mudança gera uma pressão adicional sobre os rendimentos, especialmente para autônomos e profissionais liberais."
+  ],
+  "materia": "Foto: Tara Winstead / Pexels A alíquota padrão do novo imposto sobre o consumo no Brasil poderá ultrapassar 30% quando a reforma tributária estiver totalmente implementada, em 2033. A projeção considera a proposta de 11,3% para a Contribuição sobre Bens e Serviços ( CBS ), aprovada pelo Tribunal de Contas da União (TCU), e a cobrança conjunta do tributo federal com o Imposto sobre Bens e Serviços ( IBS ), de competência estadual e municipal. Se confirmada, a taxa colocaria o Brasil acima da média e das alíquotas máximas registradas entre os países desenvolvidos que integram a Organização para a Cooperação e Desenvolvimento Econômico (OCDE), conforme levantamento da Tax Foundation, organização que acompanha sistemas tributários ao redor do mundo. O TCU aprovou a sugestão de alíquota de referência de 11,3% para a CBS em 2027. O cálculo foi elaborado por técnicos do tribunal com base em dados da Receita Federal e será encaminhado ao Congresso Nacional. O percentual ainda não é definitivo: caberá ao Senado Federal fixar a alíquota até 15 de dezembro, podendo concordar ou não com a proposta. A CBS substituirá, a partir de 2027, o PIS e a Cofins , além de parte do Imposto sobre Produtos Industrializados (IPI). Para chegar ao percentual sugerido, os técnicos do TCU estimaram quanto seria arrecadado com os tributos que serão extintos, considerando a premissa da reforma de preservar o atual nível de arrecadação sobre o consumo. As projeções anteriores eram menores. Em 2024, o governo estimou que a alíquota da CBS seria de 8,8%. Já a consultoria Roit calculou um percentual de 9,43% para 2027. Em julho, estimativas divulgadas pelo Comitê Gestor do IBS (CGIBS) apontavam uma taxa próxima de 9,2% para o tributo federal. IVA Dual pode chegar a pelo menos 30% em 2033 Além da CBS, a reforma tributária prevê a cobrança do IBS, que será dividido entre estados e municípios. Até 2028, o imposto terá uma alíquota marginal de 0,1%. A partir de 2029, a cobrança aumentará gradualmente, até atingir sua implementação integral em 2033. Antes da proposta de 11,3% para a CBS, uma estimativa do Comitê Gestor do IBS indicava que a alíquota cheia do novo imposto sobre o consumo, considerando a cobrança conjunta dos tributos federal, estaduais e municipais, ficaria em torno de 28%. Com a nova referência para a CBS, analistas passaram a apontar que o IVA Dual brasileiro poderá alcançar pelo menos 30% em 2033, primeiro ano de tributação integral. Esse patamar foi utilizado como referência para a comparação internacional apresentada pelo G1. O levantamento da Tax Foundation, com dados de 2026 e divulgado em 19 de outubro, aponta que a alíquota média dos impostos gerais sobre o consumo nos países da OCDE é de 19,4%. Caso a projeção brasileira se confirme, o percentual ficará acima das taxas praticadas pelos países desenvolvidos analisados. O governo federal, por sua vez, argumenta que a tributação atual sobre o consumo no Brasil já representa cerca de 34%. A comparação, porém, é dificultada pela complexidade do sistema vigente, que reúne exceções e tributos cobrados por dentro, ou seja, com incidência de imposto sobre o próprio imposto. Com a reforma, os novos tributos passarão a ser cobrados por fora, separados do valor dos produtos e serviços. A mudança deve permitir maior identificação dos valores recolhidos, diferentemente do modelo atual, em que as notas fiscais apresentam apenas uma estimativa aproximada da carga tributária. Manutenção da carga e benefícios fiscais influenciam alíquota A manutenção do peso dos tributos sobre o consumo é uma das premissas da reforma tributária. A concentração da arrecadação nessa base, no entanto, contribui para a regressividade do sistema, em que pessoas de menor renda acabam comprometendo proporcionalmente uma parcela maior de seus recursos com impostos. Dados da Receita Federal mostram que os tributos sobre bens e serviços representaram 43,5% da carga tributária brasileira em 2024, percentual superior à média da OCDE. Em c",
+  "numeros": [
+   {
+    "valor": "30%",
+    "rotulo": "possível alíquota do novo imposto em 2033"
+   },
+   {
+    "valor": "11,3%",
+    "rotulo": "alíquota da CBS aprovada pelo TCU"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Impostos",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "aumento de impostos comprimindo renda e lucro",
+  "angulo": "Entender a evolução da carga tributária é crucial para se preparar e buscar oportunidades no mercado financeiro, que oferece alternativas para aumentar a renda além do salário.",
+  "gancho": "*Impostos elevados* e o que isso significa para você",
+  "ideias": [
+   "Prepare seu bolso: entenda os impostos!",
+   "Como a nova carga tributária afeta seu negócio?",
+   "Alternativas para aumentar sua renda em tempos de impostos altos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-03T14:24:04-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80549/iva-dual-pode-ultrapassar-30-no-brasil-e-superar-aliquotas-da-ocde/",
+  "publicadoEm": "2026-11-03T14:15:01-03:00",
+  "data": "2026-11-03",
+  "id": "2026-11-03-trader-04"
  },
  {
   "segmento": "trader",
