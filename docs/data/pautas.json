@@ -1,6 +1,344 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Alta do ouro impacta preços no varejo brasileiro",
+  "resumo": "A valorização do ouro afeta decisões empresariais e o comportamento do consumidor, impactando os preços no varejo. Entenda como ajustar sua estratégia de vendas a esse cenário.",
+  "fatos": [
+   "O ouro superou US$ 5,3 mil por onça em janeiro de 2026.",
+   "A demanda de ouro na indústria tecnológica foi de 323 toneladas em 2025.",
+   "As joias tiveram aumento de 26,81% nos preços em 12 meses até maio de 2026.",
+   "Eletrodomésticos e eletrônicos mostraram reduções de preços em diversas categorias.",
+   "A valorização do ouro não resulta em aumento uniforme dos preços no comércio."
+  ],
+  "explicacao": [
+   "A valorização do ouro ocorre em um cenário de incertezas econômicas e tensões comerciais. Isso força empresas a reajustarem seus preços quando os custos aumentam.",
+   "Muitos segmentos precisam diversificar seus produtos e negociar melhor com fornecedores para manter a competitividade.",
+   "Consciente das mudanças, o consumidor tende a pesquisar mais e comparar preços antes de comprar, demandando maior atenção do comerciante."
+  ],
+  "materia": "A valorização do ouro no mercado internacional vai muito além das vitrines das joalherias. Embora o impacto mais direto seja percebido no comércio de joias, as oscilações do metal também despertam atenção de fabricantes, distribuidores e comerciantes de diferentes segmentos, especialmente aqueles que utilizam o ouro como matéria-prima ou componente de seus produtos. Em um cenário de instabilidade econômica, tensões geopolíticas e mudanças nas expectativas dos investidores, o metal precioso costuma ganhar destaque como alternativa de proteção patrimonial. Esse movimento pode influenciar decisões empresariais, estratégias de abastecimento e o comportamento dos consumidores. De acordo com a Agência Brasil , o ouro alcançou sucessivos recordes de valorização em janeiro de 2026, chegando a superar US$ 5,3 mil por por onça (31,1 gramas). Entre os fatores apontados estavam as incertezas internacionais e as tensões comerciais. Como a valorização do ouro chega ao comércio Para JV Rodrigues, CEO da JDTbusiness, o efeito da cotação do ouro sobre o varejo depende principalmente da participação do metal na composição dos produtos comercializados. Em determinados segmentos, a variação pode provocar aumentos expressivos nos custos. Em outros, a influência é mais limitada. Para ele, no segmento de eletrônicos, o cenário é diferente, pois o ouro é utilizado em pequenas quantidades na fabricação de celulares, computadores, televisores e outros equipamentos, principalmente por suas propriedades de condução elétrica e resistência à corrosão. O levantamento do World Gold Council também demonstra a importância do metal para a indústria tecnológica. Em 2025, a demanda mundial de ouro pelo setor de tecnologia chegou a aproximadamente 323 toneladas, com destaque para aplicações na indústria eletrônica. \"Na indústria e no setor de tecnologia, o impacto é direto. Quando o ouro fica mais caro, fabricantes precisam desembolsar mais recursos para adquirir matéria-prima, o que pode resultar em reajustes nos preços praticados pelas lojas\", explica Rodrigues. Consumidor fica mais atento aos preços e às condições de compra As oscilações econômicas também influenciam o comportamento de quem compra. Quando determinados produtos ficam mais caros, consumidores tendem a pesquisar alternativas, comparar estabelecimentos e avaliar com maior cuidado as condições de pagamento. Esse movimento exige atenção dos comerciantes, que precisam equilibrar custos operacionais, margens comerciais e competitividade. A estratégia pode envolver diversificação de produtos, negociação com fornecedores, controle de estoques e maior atenção ao perfil do público consumidor. Um levantamento divulgado pela FecomercioSP , em maio de 2026, ajuda a ilustrar como diferentes produtos apresentam comportamentos distintos no varejo. Na cesta de itens tradicionalmente procurados para o Dia das Mães, as joias registraram aumento de 26,81% em 12 meses, enquanto eletrodomésticos e eletrônicos apresentaram reduções de preços em diversas categorias. Os dados mostram que a valorização de uma matéria-prima não significa necessariamente aumento generalizado dos preços no comércio. Cada segmento possui características próprias, influenciadas por fatores como custos de produção, câmbio, concorrência, disponibilidade de mercadorias e demanda dos consumidores. Especialistas destacam importância de acompanhar o mercado Para empresas que trabalham diretamente com produtos fabricados em ouro, acompanhar as oscilações da cotação é fundamental para planejar compras, administrar estoques e estabelecer preços competitivos, explica Igor Ferreira, especialista em ouro da joalheria Fábrica do Ouro . \"A cotação do ouro influencia diretamente os custos de quem trabalha com esse metal, mas o preço final de um produto também depende de outros fatores, como fabricação, acabamento, fornecedores e características da peça. Por isso, é importante que o consumidor avalie o conjunto, e não apenas o valor anunciado\", conclui Ferrei",
+  "numeros": [
+   {
+    "valor": "5,3 mil",
+    "rotulo": "dólares por onça de ouro"
+   },
+   {
+    "valor": "323",
+    "rotulo": "toneladas de ouro na indústria tecnológica"
+   },
+   {
+    "valor": "26,81%",
+    "rotulo": "aumento de preço das joias"
+   }
+  ],
+  "fonte": "Terra",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas devido ao aumento de custos",
+  "angulo": "Compreender a cotação do ouro é crucial para empresários ajustarem suas estratégias e não perderem vendas. A VPR pode auxiliar na adequação das práticas comerciais.",
+  "gancho": "*Entenda o impacto do aumento do ouro*",
+  "ideias": [
+   "Como a alta do ouro altera seu negócio?",
+   "Adaptando-se aos preços em alta: estratégias",
+   "O que o aumento do ouro significa no varejo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://www.terra.com.br/noticias/alta-do-ouro-afeta-precos-do-varejo-no-brasil,e7eb8d18129c76b2048ad7703bd46ba20s80b9tg.html",
+  "publicadoEm": "2026-11-04T14:58:11-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Obesidade e novos tratamentos: como isso impacta suas vendas?",
+  "resumo": "A aprovação da versão comprimida do Wegovy pela Anvisa pode alterar o cenário do mercado para medicamentos de emagrecimento. Empresários devem se atentar às novas demandas e oportunidades.",
+  "fatos": [
+   "A Anvisa aprovou o comprimido do Wegovy em 4/11/2026.",
+   "É o primeiro medicamento oral da classe dos agonistas de GLP-1 liberado no Brasil.",
+   "Ainda não há preço definido para o medicamento, que deve chegar às farmácias 'nos próximos trimestres'.",
+   "Nos EUA, o comprimido é vendido entre US$ 149 e US$ 299 por mês.",
+   "Mais de 7 milhões de prescrições do comprimido foram dispensadas nos EUA desde seu lançamento."
+  ],
+  "explicacao": [
+   "A aprovação do Wegovy em comprimido é um avanço no tratamento da obesidade, oferecendo uma alternativa à injeção semanal.",
+   "O remédio deve ser usado junto com dieta e exercícios, abrangendo pacientes com IMC elevado.",
+   "A definição do preço pelo CMED é um passo crucial antes da disponibilidade no mercado brasileiro."
+  ],
+  "materia": "Por Giulia Granchi - Da BBC News Brasil em Londres 04/11/2026 15h08 Atualizado 04/11/2026 15h08 A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou nesta quarta-feira (4/11) a versão em comprimido do Wegovy, remédio para obesidade da farmacêutica dinamarquesa Novo Nordisk. É o primeiro medicamento oral da classe dos agonistas de GLP-1, a mesma das chamadas \" canetas emagrecedoras \", liberado no país para tratar obesidade e sobrepeso. O comprimido tem o mesmo princípio ativo da caneta, a semaglutida . A diferença é que ele é tomado uma vez por dia, em vez de uma injeção por semana. \"A chegada de um GLP-1 em comprimido representa uma nova ferramenta que vai cada vez mais ampliar as possibilidades de medicações que podem ser utilizadas em diferentes perfis de pacientes\", diz a endocrinologista Cynthia Valério, presidente eleita da Abeso (Associação Brasileira para o Estudo da Obesidade e da Síndrome Metabólica). Ainda não há preço nem data de lançamento no Brasil. Em nota à imprensa, a Novo Nordisk diz apenas que o comprimido deve chegar às farmácias brasileiras \"nos próximos trimestres\". A BBC News Brasil perguntou à empresa qual é a previsão de lançamento e de preço, mas não teve resposta até a publicação desta reportagem. No exterior, o comprimido está à venda nos Estados Unidos desde janeiro. Depois chegou aos Emirados Árabes Unidos, ao Reino Unido e à Alemanha. O que falta para o comprimido chegar às farmácias brasileiras A aprovação da Anvisa é o primeiro passo. Antes de chegar às prateleiras, o remédio precisa ter um preço máximo definido pela Câmara de Regulação do Mercado de Medicamentos (CMED), órgão do governo federal que fixa o valor teto de todos os medicamentos vendidos no país. Só depois disso a empresa pode começar a vender. A BBC News Brasil também perguntou à Novo Nordisk se o pedido de preço já foi feito à CMED, e aguarda resposta. A Novo Nordisk pediu o registro do comprimido à Anvisa em 30 de janeiro deste ano. A decisão foi publicada no Diário Oficial da União por meio da Resolução 4.249/2026. O remédio é indicado para adultos com obesidade, ou seja, com índice de massa corporal (IMC) igual ou maior que 30. Também vale para adultos com sobrepeso (IMC entre 27 e 30) que tenham pelo menos uma doença associada ao peso, como hipertensão ou diabetes tipo 2. Em todos os casos, deve ser usado junto com mudanças na alimentação e prática de atividade física. Onde o comprimido já é vendido e quanto custa Os Estados Unidos foram o primeiro país a aprovar o comprimido, em dezembro de 2025. A aprovação foi da Food and Drug Administration (FDA), a agência reguladora de medicamentos americana. As vendas começaram em 5 de janeiro. Para quem paga do próprio bolso, o preço vai de US$ 149 (R$ 816) por mês na dose inicial a US$ 299 (R$ 1,6 mil) nas doses mais altas. Segundo a Novo Nordisk, mais de 7 milhões de prescrições do comprimido já foram dispensadas nos Estados Unidos desde o lançamento. Em junho, os Emirados Árabes Unidos se tornaram o primeiro país fora dos Estados Unidos a vender o remédio. No Reino Unido, a agência reguladora local aprovou o comprimido em junho e as vendas começaram em julho, em farmácias privadas. Por enquanto, o remédio não é oferecido pelo sistema público de saúde britânico, o NHS. A União Europeia aprovou o comprimido em julho, depois de parecer favorável da Agência Europeia de Medicamentos (EMA). A Alemanha foi o primeiro país do bloco a vender o remédio, a partir de 1º de setembro. O comprimido também foi aprovado no Bahrein. A Novo Nordisk diz que pretende levar o comprimido a outros países nos próximos meses. Como o remédio age e por que a dose do comprimido é maior A semaglutida imita o GLP-1, hormônio que o intestino libera depois das refeições. Ele sinaliza ao cérebro que o corpo já recebeu comida, o que reduz a fome, e faz o estômago esvaziar mais devagar, o que prolonga a sensação de saciedade. Quando o remédio é engolido, boa parte da substância se perde no sistema digestivo ant",
+  "numeros": [
+   {
+    "valor": "7 milhões",
+    "rotulo": "prescrições no EUA desde o lançamento"
+   },
+   {
+    "valor": "149 a 299",
+    "rotulo": "preço mensal nos EUA (em dólares)"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas e oportunidades devido à falta de inovação",
+  "angulo": "A nova medicação em comprimido pode criar novas demandas no mercado, destacando a importância de estratégias de marketing digital e automação para se destacar.",
+  "gancho": "Aguarde: *novidade no mercado de emagrecimento*!",
+  "ideias": [
+   "Como o Wegovy pode impactar seu negócio?",
+   "Novo comprimido para obesidade: o que sua empresa precisa saber?",
+   "Estratégias de marketing para se adaptar a inovações no setor de saúde."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://epocanegocios.globo.com/empresas/noticia/2026/11/cdataanvisa-aprova-wegovy-em-comprimido-o-que-falta-para-versao-oral-da-caneta-emagracedora-chegar-as-farmacias-do-brasil.ghtml",
+  "publicadoEm": "2026-11-04T15:08:47-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Cuidado! Intenção de compra na Black Friday despenca!",
+  "resumo": "A Black Friday 2026 contará com consumidores mais cautelosos. A intenção de compra caiu de 78% para 62%, impactando as vendas. Entenda como isso pode afetar seu negócio.",
+  "fatos": [
+   "A intenção de compra caiu de 78% em 2025 para 62% em 2026.",
+   "26% dos entrevistados não sabem quanto vão gastar, aumento em relação a 16% no ano passado.",
+   "A parcela que planeja aumentar os gastos caiu de 29% para 17%.",
+   "Os consumidores que desejam gastar menos subiu de 22% para 29%.",
+   "As regiões Norte e Nordeste têm os maiores percentuais, 69% e 66%, respectivamente."
+  ],
+  "explicacao": [
+   "A redução na intenção de compra reflete a cautela do consumidor frente ao endividamento e à alta na taxa de juros.",
+   "A multiplicação de datas promocionais ao longo do ano também influenciou esse comportamento.",
+   "Apesar da queda, a Black Friday mantém relevância, mas os varejistas precisam se adaptar às novas condições de mercado."
+  ],
+  "materia": "04/11/2026 16h19 Atualizado 04/11/2026 16h19 A Black Friday 2026 deve encontrar um consumidor brasileiro mais cauteloso com o bolso. A intenção de compra na data caiu de 78% em 2025 para 62% neste ano, enquanto a parcela dos que pretendem gastar menos aumentou. Os dados são da nova edição da pesquisa Fiserv Insights, da Fiserv, empresa de tecnologia financeira e meios de pagamento. A indecisão sobre quanto gastar também cresceu de um ano para o outro. A pesquisa aponta que 26% dos entrevistados ainda não sabem quanto pretendem gastar, ante 16% no ano passado. Já a parcela dos que planejam aumentar os gastos caiu de 29% para 17%, enquanto a dos que pretendem gastar menos subiu de cerca de 22% para 29%. “No nosso momento econômico, a gente vê pelos indicadores de mercado que o endividamento está em alta, o comprometimento da renda do brasileiro com relação à dívida também está crescendo, taxa de juros mais alta. Então, o consumidor está mais cauteloso com relação a gastar”, afirma Rodrigo Climaco, vice-presidente de Desenvolvimento de Negócios da Fiserv no Brasil, que relaciona esse comportamento ao momento econômico do país. Segundo o executivo, a multiplicação das datas promocionais ao longo do ano também influencia. “A Black Friday hoje tem concorrência: o 6/6, 7/7, 8/8, 9/9, 10/10, 11/11. As plataformas também têm feito promoções muito pontuais”, diz. Climaco ressalta, porém, que a existência de outras campanhas não significa uma perda de relevância da Black Friday. “Não se caracteriza e não diminui o valor de uma Black Friday. Então, mesmo assim, tem muita gente que acaba direcionando para comprar durante esse período.” As regiões Norte e Nordeste têm os maiores percentuais de consumidores que pretendem comprar na Black Friday, com 69% e 66%, respectivamente. No Centro-Oeste, o índice é de 61%, no Sudeste, de 59,5%, e no Sul, de 58%. Eletrônicos e eletrodomésticos perdem espaço Eletrodomésticos e eletroportáteis, assim como eletrônicos e informática, continuam entre as categorias mais citadas pelos consumidores que pretendem ou podem comprar na Black Friday. Mas o interesse por ambas caiu cerca de dez pontos percentuais em um ano. A intenção de compra de eletrodomésticos e eletroportáteis passou de 46% em 2025 para 36% em 2026. No caso de eletrônicos e informática, o percentual recuou de 43% para 33%. Viagens e turismo também perderam espaço, passando de 34% para 29%, assim como casa e decoração, que caiu de 29% para 24%. Moda, beleza, supermercado e farmácia mantiveram percentuais semelhantes aos do ano passado. Segundo Climaco, isso não significa necessariamente que tenha aumentado a procura por itens de consumo cotidiano, mas que essas categorias preservaram sua participação, enquanto outras perderam intenção de compra. O parcelamento sem juros é o principal critério para a escolha do meio de pagamento nas compras em geral para 21% dos entrevistados. Entre aqueles que já decidiram comprar na Black Friday, o percentual chega a 23,2%. Climaco afirma que o consumidor procura ter liberdade para escolher como pagar, de acordo com os recursos disponíveis. “O consumidor quer comprar onde ele tem recurso disponível. Se ele tem um voucher de um cartão privado, se tem crédito no cartão ou dinheiro na conta, ele é quem direciona”, diz. O executivo destaca que o crédito continua sendo uma opção relevante, mas que o Pix também tem participação expressiva em determinados segmentos do varejo. A escolha do meio de pagamento, afirma, exige que os comerciantes estejam preparados para aceitar diferentes modalidades. A pesquisa Fiserv Insights, realizada pela Opinion Box, ouviu 2.103 pessoas com conta bancária, de 18 anos ou mais, de todas as classes sociais e regiões do país, entre 4 e 21 de setembro de 2026. A coleta foi online. Como varejistas podem usar IA para vender mais e ter uma comunicação mais personalizada, segundo a Nuvemshop A pesquisa aponta que 26% dos entrevistados ainda não sabem quanto pretendem gastar, ante 16% no ano pas",
+  "numeros": [
+   {
+    "valor": "26",
+    "rotulo": "percentuais que não sabem quanto gastar"
+   },
+   {
+    "valor": "62",
+    "rotulo": "intenção de compra em 2026"
+   },
+   {
+    "valor": "29",
+    "rotulo": "percentual que pretende gastar menos"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Queda nas vendas e falta de estratégia para se adaptar",
+  "angulo": "Com a redução no consumo, é vital que empresários contem com um site eficaz, gestão de redes e estratégias de marketing para se destacar e atrair clientes.",
+  "gancho": "A *intenção de compra caiu*; saiba como se adaptar!",
+  "ideias": [
+   "Prepare-se para a Black Friday 2026!",
+   "Como lidar com a queda na intenção de compra?",
+   "Dicas para se destacar na Black Friday!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://epocanegocios.globo.com/futuro-do-dinheiro/noticia/2026/11/black-friday-2026-intencao-de-compra-cai-de-78percent-para-62percent-em-um-ano-diz-pesquisa.ghtml",
+  "publicadoEm": "2026-11-04T16:19:56-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "YouTube desenvolve nova rede social chamada Tamba",
+  "resumo": "O YouTube pode lançar uma nova rede social chamada Tamba, visando concorrer com o Instagram. Novas funcionalidades estão sendo testadas para potencializar interações sociais na plataforma.",
+  "fatos": [
+   "O novo aplicativo Tamba foi encontrado no código do YouTube.",
+   "Tamba pode incluir posts, seguidores, conversas em grupo e mensagens diretas.",
+   "O ícone do Tamba preserva o símbolo de reprodução do YouTube.",
+   "Funções do Tamba operarão em um ambiente separado do YouTube.",
+   "A possibilidade de perfis privados está sendo considerada no Tamba.",
+   "O Tamba pode rivalizar com o Instagram e se integrar aos vídeos curtos do YouTube."
+  ],
+  "explicacao": [
+   "O desenvolvimento do Tamba indica uma tentativa do YouTube de expandir sua presença em redes sociais.",
+   "A proposta é oferecer funcionalidades semelhantes ao Instagram para melhorar a interação social dos usuários.",
+   "A utilização de testes indica que a plataforma pode receber feedback dos usuários antes da versão oficial.",
+   "Mensagens diretas já foram disponibilizadas no YouTube Brasil, sinalizando uma evolução nas interações sociais.",
+   "Isso pode impactar como os consumidores se comportam nas redes e onde preferem estar."
+  ],
+  "materia": "Por André Lourenti Magalhães • Editado por Jones Oliveira | 04/11/2026 às 18:21 Dados encontrados no código do aplicativo do YouTube indicam a presença de um novo aplicativo chamado Tamba . De acordo com o site Android Authority, a plataforma teria elementos de rede social como espaço para posts, seguidores, conversas em grupo e mensagens diretas. O ícone do Tamba preserva o símbolo de reprodução do YouTube, acompanhado de traços arredondados e a mesma fonte usada pela plataforma de vídeos. Apesar de estar vinculado ao app do YT, as funções específicas da plataforma funcionam num ambiente separado, sinal de que ambos são serviços diferentes . Alguns ícones encontrados sugerem a presença de perfis privados — o recurso não existe no YouTube, por exemplo. Ainda não é possível confirmar como o Tamba será usado, mas uma forte hipótese é servir como uma rede social e rivalizar com o Instagram. Vídeos curtos possuem grande apelo para compartilhamento entre amigos, então faria sentido desenvolver uma experiência similar para os Shorts . A matéria original reforça que o pacote de dados é acompanhado do termo “sandbox” , normalmente usado para referenciar ambientes de testes. Há uma possibilidade de que o Tamba seja usado com um grupo limitado de pessoas para experimentar novas funções antes de levá-las ao app principal de vídeos. De qualquer forma, a plataforma do Google já amplia a presença de recursos de redes sociais. Neste ano, o YouTube liberou mensagens diretas no Brasil , enquanto o YouTube Music ganhou uma função de comunidades .",
+  "numeros": [],
+  "fonte": "Canaltech",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de visibilidade e engajamento nas redes sociais",
+  "angulo": "Com o surgimento do Tamba, empresários precisam repensar estratégias para se destacar em redes sociais emergentes.",
+  "gancho": "O *Tamba pode mudar tudo* nas redes sociais",
+  "ideias": [
+   "Aposte no Tamba: prepare-se para mudanças!",
+   "Novidades do YouTube: o que esperar do Tamba",
+   "Tamba vs Instagram: quem vencerá essa disputa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://canaltech.com.br/apps/codigo-do-youtube-revela-nova-rede-social-secreta-rival-do-instagram/",
+  "publicadoEm": "2026-11-04T18:21:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Interesse pela Black Friday impacta o comércio digital",
+  "resumo": "A pesquisa revela que o Distrito Federal lidera as buscas por Black Friday no Google, sinalizando uma crescente demanda por vendas online. Entenda como isso afeta seu negócio.",
+  "fatos": [
+   "A Black Friday 2026 será em 27 de novembro.",
+   "O Distrito Federal lidera as buscas pelo termo 'Black Friday' entre setembro de 2025 e agosto de 2026.",
+   "São Paulo e Santa Catarina ocupam a segunda e terceira posições, respectivamente.",
+   "As vendas online representaram 18,7% do volume total do comércio no terceiro trimestre de 2025.",
+   "70,2% dos consumidores afirmaram comprar pela internet frequentemente ou ocasionalmente."
+  ],
+  "explicacao": [
+   "O aumento no interesse pela Black Friday indica uma tendência crescente no consumo digital.",
+   "Embora o DF lidere as buscas, é essencial que os empresários se preparem para essa demanda, especialmente no comércio online.",
+   "As vendas online estão se tornando uma parte significativa do comércio brasileiro, superando 18% do total."
+  ],
+  "materia": "A Black Friday de 2026 ocorre em 27 de novembro, mas a busca pelo tema já movimenta a internet. Segundo estudo do RecargaPay com dados do Google Brasil, o Distrito Federal lidera o ranking de pesquisas pelo termo “Black Friday” entre setembro de 2025 e agosto de 2026. São Paulo aparece em segundo lugar, seguido por Santa Catarina, em terceiro. Rio de Janeiro e Rio Grande do Sul ocupam a quarta e a quinta posições, respectivamente. Paraná, Minas Gerais, Espírito Santo, Goiás e Mato Grosso do Sul completam a lista. DF lidera ranking de interesse pela Black Friday A pesquisa considera o volume de buscas proporcional a cada 100 mil habitantes, com base na população de cada Estado. Os dados não refletem, portanto, intenções de compra ou comportamentos para além do ambiente digital. Vendas online ganham espaço no comércio brasileiro A participação das vendas online no comércio brasileiro também avançou. Segundo o Indicador de Vendas Online da Fundação Getulio Vargas, por meio do Instituto Brasileiro de Economia (FGV-IBRE), as vendas pela internet representaram 18,7% do volume total do comércio no terceiro trimestre de 2025. O resultado foi 1,3 ponto percentual superior ao do trimestre anterior e 4,8 pontos percentuais acima do registrado no mesmo período de 2024. Na mesma análise, 70,2% dos consumidores afirmaram comprar pela internet frequentemente ou de vez em quando. A decisão de compra, no entanto, também é influenciada por fatores como preço, frete, confiança na loja e segurança. Pagamento digital exige atenção a golpes A escolha do meio de pagamento depende do valor da compra, das condições oferecidas pela loja e da capacidade de pagamento de cada consumidor. O Pix permite transferências instantâneas e pode ser uma alternativa prática para quem deseja pagar à vista. O cartão de crédito, por sua vez, permite parcelar compras quando essa opção está disponível. As carteiras digitais e os aplicativos financeiros também podem reunir diferentes meios de pagamento e disponibilizar recursos para organizar as despesas. Já o Pix parcelado exige atenção, pois, quando oferecido por uma instituição financeira, pode envolver uma operação de crédito com juros. A praticidade das transações eletrônicas não elimina os riscos de golpes. Para reduzir a possibilidade de fraude, o consumidor deve acessar o site oficial da loja, conferir a reputação do vendedor e desconfiar de ofertas muito abaixo dos preços praticados no mercado. O Banco Central orienta que vítimas de golpes envolvendo Pix procurem imediatamente sua instituição financeira para contestar a transação e solicitar a análise pelo Mecanismo Especial de Devolução (MED), quando aplicável. O pedido pode ser feito em até 80 dias após a operação, mas a devolução não é garantida. Ela depende da análise do caso e da existência de recursos disponíveis nas contas envolvidas. Imagens: Divulgação O post Distrito Federal lidera ranking de interesse pela Black Friday no Google Brasil apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "18,7%",
+    "rotulo": "participação das vendas online no comércio"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas se não acompanhar a demanda digital",
+  "angulo": "A pesquisa revela a urgência de um site otimizado e tráfego pago para capturar essa demanda antes da Black Friday.",
+  "gancho": "*Black Friday* está chegando: Prepare-se!",
+  "ideias": [
+   "Como se preparar para a Black Friday?",
+   "Vendas online: oportunidades em alta!",
+   "O papel das redes sociais nas vendas digitais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://mercadoeconsumo.com.br/04/11/2026/black-friday/distrito-federal-lidera-ranking-de-interesse-pela-black-friday-no-google-brasil/",
+  "publicadoEm": "2026-11-04T16:51:18-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-06"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Cautela do consumidor afeta vendas na Black Friday",
+  "resumo": "Intenção de compra para a Black Friday caiu de 78% para 62% em um ano, mostrando um consumidor mais cauteloso financeiramente. Isso pode impactar seu negócio.",
+  "fatos": [
+   "A intenção de compra caiu de 78% em 2025 para 62% em 2026.",
+   "26% dos entrevistados não sabem quanto gastar, subindo de 16%.",
+   "O percentual que planeja gastar menos aumentou de 22% para 29%.",
+   "As categorias de eletrônicos e eletrodomésticos perderam cerca de 10 pontos percentuais de intenção de compra.",
+   "O parcelamento sem juros é escolhido por 21% dos entrevistados como critério de pagamento."
+  ],
+  "explicacao": [
+   "O aumento da cautela do consumidor reflete o cenário econômico atual, com alta de endividamento e juros.",
+   "A concorrência de diversas datas promocionais também influencia as compras durante a Black Friday.",
+   "Os empresários precisam se adaptar a essas mudanças na intenção de compra para não perder oportunidades de vendas."
+  ],
+  "materia": "04/11/2026 16h19 Atualizado 04/11/2026 16h19 A Black Friday 2026 deve encontrar um consumidor brasileiro mais cauteloso com o bolso. A intenção de compra na data caiu de 78% em 2025 para 62% neste ano, enquanto a parcela dos que pretendem gastar menos aumentou. Os dados são da nova edição da pesquisa Fiserv Insights, da Fiserv, empresa de tecnologia financeira e meios de pagamento. A indecisão sobre quanto gastar também cresceu de um ano para o outro. A pesquisa aponta que 26% dos entrevistados ainda não sabem quanto pretendem gastar, ante 16% no ano passado. Já a parcela dos que planejam aumentar os gastos caiu de 29% para 17%, enquanto a dos que pretendem gastar menos subiu de cerca de 22% para 29%. “No nosso momento econômico, a gente vê pelos indicadores de mercado que o endividamento está em alta, o comprometimento da renda do brasileiro com relação à dívida também está crescendo, taxa de juros mais alta. Então, o consumidor está mais cauteloso com relação a gastar”, afirma Rodrigo Climaco, vice-presidente de Desenvolvimento de Negócios da Fiserv no Brasil, que relaciona esse comportamento ao momento econômico do país. Segundo o executivo, a multiplicação das datas promocionais ao longo do ano também influencia. “A Black Friday hoje tem concorrência: o 6/6, 7/7, 8/8, 9/9, 10/10, 11/11. As plataformas também têm feito promoções muito pontuais”, diz. Climaco ressalta, porém, que a existência de outras campanhas não significa uma perda de relevância da Black Friday. “Não se caracteriza e não diminui o valor de uma Black Friday. Então, mesmo assim, tem muita gente que acaba direcionando para comprar durante esse período.” As regiões Norte e Nordeste têm os maiores percentuais de consumidores que pretendem comprar na Black Friday, com 69% e 66%, respectivamente. No Centro-Oeste, o índice é de 61%, no Sudeste, de 59,5%, e no Sul, de 58%. Eletrônicos e eletrodomésticos perdem espaço Eletrodomésticos e eletroportáteis, assim como eletrônicos e informática, continuam entre as categorias mais citadas pelos consumidores que pretendem ou podem comprar na Black Friday. Mas o interesse por ambas caiu cerca de dez pontos percentuais em um ano. A intenção de compra de eletrodomésticos e eletroportáteis passou de 46% em 2025 para 36% em 2026. No caso de eletrônicos e informática, o percentual recuou de 43% para 33%. Viagens e turismo também perderam espaço, passando de 34% para 29%, assim como casa e decoração, que caiu de 29% para 24%. Moda, beleza, supermercado e farmácia mantiveram percentuais semelhantes aos do ano passado. Segundo Climaco, isso não significa necessariamente que tenha aumentado a procura por itens de consumo cotidiano, mas que essas categorias preservaram sua participação, enquanto outras perderam intenção de compra. O parcelamento sem juros é o principal critério para a escolha do meio de pagamento nas compras em geral para 21% dos entrevistados. Entre aqueles que já decidiram comprar na Black Friday, o percentual chega a 23,2%. Climaco afirma que o consumidor procura ter liberdade para escolher como pagar, de acordo com os recursos disponíveis. “O consumidor quer comprar onde ele tem recurso disponível. Se ele tem um voucher de um cartão privado, se tem crédito no cartão ou dinheiro na conta, ele é quem direciona”, diz. O executivo destaca que o crédito continua sendo uma opção relevante, mas que o Pix também tem participação expressiva em determinados segmentos do varejo. A escolha do meio de pagamento, afirma, exige que os comerciantes estejam preparados para aceitar diferentes modalidades. A pesquisa Fiserv Insights, realizada pela Opinion Box, ouviu 2.103 pessoas com conta bancária, de 18 anos ou mais, de todas as classes sociais e regiões do país, entre 4 e 21 de setembro de 2026. A coleta foi online. Como varejistas podem usar IA para vender mais e ter uma comunicação mais personalizada, segundo a Nuvemshop A pesquisa aponta que 26% dos entrevistados ainda não sabem quanto pretendem gastar, ante 16% no ano pas",
+  "numeros": [
+   {
+    "valor": "62",
+    "rotulo": "intenção de compra na Black Friday 2026"
+   },
+   {
+    "valor": "26",
+    "rotulo": "percentual indeciso sobre o gasto"
+   },
+   {
+    "valor": "21",
+    "rotulo": "peso do parcelamento sem juros nas compras"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "Vendas em queda devido à cautela do consumidor",
+  "angulo": "A mudança na intenção de compra destaca a importância de estratégias de marketing, como gestão eficaz de redes e anúncios, para engajar os consumidores de forma eficaz.",
+  "gancho": "*Intenção de compra* em queda: o que fazer?",
+  "ideias": [
+   "Cuidado com as vendas nesta Black Friday",
+   "Como um site pode ajudar seu negócio",
+   "A importância da gestão de redes sociais agora"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://epocanegocios.globo.com/futuro-do-dinheiro/noticia/2026/11/black-friday-2026-intencao-de-compra-cai-de-78percent-para-62percent-em-um-ano-diz-pesquisa.ghtml",
+  "publicadoEm": "2026-11-04T16:19:56-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-05"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Fortaleza e a expectativa de vendas na Black Friday",
   "resumo": "A Black Friday é uma oportunidade significativa para o varejo de Fortaleza, com uma movimentação esperada de R$ 431 milhões. Conheça as implicações dessa data para seu negócio.",
   "fatos": [
@@ -213,6 +551,250 @@
   "publicadoEm": "2026-11-04T13:00:10-03:00",
   "data": "2026-11-04",
   "id": "2026-11-04-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novo decreto pode alterar folgas de trabalhadores",
+  "resumo": "O governo regulamentará o fim da escala 6x1, afetando a carga de descanso. Trabalhadores poderão ter apenas uma folga por semana, dependendo de acordos coletivos.",
+  "fatos": [
+   "O ministro do Trabalho, Luiz Marinho, anunciou a regulamentação do fim da escala 6x1 para 9 de abril.",
+   "A mudança permitirá que trabalhadores tenham apenas um dia de folga na semana, desde que totalizem oito folgas mensais.",
+   "A emenda da PEC passa a valer em 16 de dezembro, reduzindo a jornada semanal de 44 para 42 horas.",
+   "Os acordos coletivos terão papel essencial na definição das escalas de trabalho e folgas.",
+   "A proposta não especifica categorias afetadas, deixando a implementação a cargo das empresas."
+  ],
+  "explicacao": [
+   "A regulamentação surge como uma alternativa para flexibilizar a jornada de trabalho, reforçando a importância dos acordos coletivos.",
+   "Essas mudanças podem impactar a qualidade de vida dos trabalhadores, que poderão ter menos tempo para descanso.",
+   "As empresas terão a responsabilidade de se adaptar e definir como aplicar essas novas regras em suas operações."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O ministro do Trabalho e Emprego, Luiz Marinho , afirmou nesta quarta-feira (4) que o decreto de regulamentaÃ§Ã£o do fim da escala 6x1 vai reforÃ§ar a prevalÃªncia do acordo coletivo sobre a lei. A norma, que deverÃ¡ ser publicada na segunda (9), incluirÃ¡ a possibilidade de o trabalhador ter apenas um descanso na semana em algum momento do mÃªs, desde que, ao fim dos 30 dias, ele tenha somado oito folgas. Nesses casos, seria possÃ­vel, por exemplo, um trabalhador atuar na escala 6x1 em uma semana, e na 4x3, com trÃªs folgas, na outra âcontanto que o modelo esteja previsto no acordo coletivo. Marinho tratarÃ¡ do conteÃºdo da regulamentaÃ§Ã£o da emenda constitucional com o presidente Luiz InÃ¡cio Lula da Silva (PT) na quinta (5). A proposta que estabeleceu um segundo dia de folga obrigatÃ³ria aos trabalhadores formais foi importante pauta na campanha Ã reeleiÃ§Ã£o do petista. O decreto do MTE nÃ£o terÃ¡, no entanto, uma lista especÃ­fica de categorias afetadas pela regulamentaÃ§Ã£o. As empresas deverÃ£o decidir individualmente como o regime de escala serÃ¡ aplicado Ã s suas realidades, considerando as regras fixadas na emenda. \"NÃ£o tem lista de flexibilidade. A PEC [proposta de emenda Ã ConstituiÃ§Ã£o ] determina dois descansos semanais. A flexibilidade concedida Ã© que essas duas folgas estejam consolidadas dentro do mÃªs\", afirmou Marinho. \"Os acordos coletivos de trabalho terÃ£o um papel essencial no processo de regular as escalas, respeitado o comando da PEC.\" A regulamentaÃ§Ã£o do fim da 6x1 deverÃ¡ afetar tambÃ©m outras normas sobre o mercado de trabalho . Segundo Luiz Marinho, ele jÃ¡ acertou com o presidente da CÃ¢mara dos Deputados , Hugo Motta ( Republicanos -PB), a alteraÃ§Ã£o de NRs (Normas Regulamentadoras) que criem barreiras ao cumprimento das novas regras de jornada. Ã o caso do setor de telemarketing, segundo Marinho. Uma NR proÃ­be que o setor tenha jornada diÃ¡ria maior do que seis horas. \"Com essa limitaÃ§Ã£o, eu nÃ£o consigo implantar as duas folgas na semana com a necessidade do setor funcionar os 365 dias do ano, 24 horas por dia\", disse o ministro. \"Conversando com o setor, com o presidente [da CÃ¢mara, Hugo] Motta, nÃ³s assumimos [compromisso] de fazer a adequaÃ§Ã£o das NRs para que o setor crie condiÃ§Ãµes de cumprir a exigÃªncia da PEC.\" A emenda do fim da 6x1 comeÃ§a a valer em 16 de dezembro. A partir dessa data, a jornada semanal mÃ¡xima de 44 horas passarÃ¡ a ser de 42 horas. E a concessÃ£o de duas folgas semanais passa a ser obrigatÃ³ria. A norma do MinistÃ©rio do Trabalho e Emprego permitirÃ¡, entÃ£o, que essas duas folgas passem a ser uma mÃ©dia, permitindo que as empresas distribuam esses dias de descanso em suas escalas. O decreto e as NRs nÃ£o deverÃ£o prever, segundo Luiz Marinho, qualquer exceÃ§Ã£o Ã reduÃ§Ã£o da jornada. No caso de setores com jornadas especiais, como aqueles que fazerm 12x36, em que turnos de 12 horas sÃ£o seguidos por 36 horas de folga, o MinistÃ©rio do Trabalho e Emprego diz que os acordos definirÃ£o os regimes de hora. Na avaliaÃ§Ã£o do ministro, os acordos e convenÃ§Ãµes terÃ£o liberdade para determinar se horas excedentes serÃ£o transformadas em folgas extras, se serÃ£o pagas ou se serÃ£o jogadas para fÃ©rias, por exemplo. Marinho nÃ£o disse se o decreto do MinistÃ©rio do Trabalho e Emprego tratarÃ¡ de outras pendÃªncias apontadas pelas empresas, como o divisor aplicado ao cÃ¡lculo de horas extras, e como a nova regra incide sobre o cÃ¡lculo do descanso sema",
+  "numeros": [
+   {
+    "valor": "42 horas",
+    "rotulo": "nova jornada semanal"
+   },
+   {
+    "valor": "8 folgas",
+    "rotulo": "folgas mensais permitidas"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "falta de descanso e trabalho excessivo",
+  "angulo": "Com as novas regras, é crucial buscar formas de diversificar a renda e garantir maior flexibilidade na vida profissional, longe das amarras tradicionais.",
+  "gancho": "Mudanças no *descanso do trabalhador*",
+  "ideias": [
+   "Menos folgas, mais trabalho?",
+   "A nova realidade do trabalho",
+   "Como se adaptar às novas normas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/regulamentacao-do-fim-da-6x1-pode-liberar-semana-com-apenas-uma-folga-diz-ministro.shtml",
+  "publicadoEm": "2026-11-04T16:06:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Escala 6x1: o que muda para o seu bolso?",
+  "resumo": "A possibilidade de adiar o fim da escala 6x1 pode impactar trabalhadores e empresários. Entenda como isso afeta a rotina e a renda de quem depende do mercado.",
+  "fatos": [
+   "O ministro Flávio Dino foi sorteado para relatar uma ação sobre a escala 6x1.",
+   "A ação foi apresentada pela CNC, questionando a implementação das novas regras.",
+   "O Congresso aprovou a redução da jornada de trabalho de 44 para 40 horas semanais.",
+   "As novas regras terão início em 16 de dezembro de 2023, reduzindo a carga para 42 horas.",
+   "O limite de 40 horas por semana deve ser adotado em dezembro de 2027.",
+   "CNC pede que a primeira fase da transição comece em 16 de outubro de 2027.",
+   "A entidade argumenta que o prazo atual é insuficiente para adaptações das empresas."
+  ],
+  "explicacao": [
+   "A nova legislação visa modernizar as relações de trabalho, permitindo mais tempo de descanso aos trabalhadores.",
+   "No entanto, a CNC argumenta que o atual calendário de implementação é muito curto para que as empresas se ajustem.",
+   "Adiar o início das mudanças pode significar uma rotina de trabalho mais estável até 2027, mas pode afetar a renda a longo prazo.",
+   "Empresários podem enfrentar dificuldades em contratações e renegociações, especialmente em períodos de alta demanda.",
+   "Entender essas mudanças é crucial para quem busca uma fonte de renda mais flexível, como o mercado financeiro."
+  ],
+  "materia": "O ministro Flávio Dino , do STF (Supremo Tribunal Federal) , foi sorteado nesta quarta-feira (4) para relatar uma ação que tenta adiar a implementação do fim da escala de trabalho 6x1 no Brasil . A ação foi apresentada pela CNC (Confederação Nacional do Comércio de Bens, Serviços e Turismo) , que questiona o prazo estabelecido para a entrada em vigor das novas regras e pede ao Supremo a suspensão do calendário de transição. O texto promulgado pelo Congresso Nacional em outubro acaba com a escala 6x1 e reduz a jornada máxima de trabalho de 44 para 40 horas semanais, sem redução salarial. A mudança será gradual: a partir de 16 de dezembro deste ano, a carga horária máxima cairá para 42 horas semanais, e os trabalhadores passarão a ter direito a dois dias de descanso remunerado. O limite de 40 horas entrará em vigor em dezembro de 2027 . A CNC, porém, pede que a primeira etapa da transição seja adiada para 16 de outubro de 2027 , um ano após a promulgação da emenda. A entidade também quer que a redução definitiva para 40 horas semanais passe a ser exigida apenas em outubro de 2028. Na ação, a confederação argumenta que o prazo de apenas dois meses é insuficiente para que as empresas reorganizem escalas, contratem funcionários e renegociem acordos coletivos. A entidade afirma ainda que a entrada em vigor das novas regras em dezembro coincide com o período de maior movimento do comércio, impulsionado pelo Natal e Ano-Novo . A CNC sustenta que não pretende derrubar o fim da escala 6x1 nem a redução da jornada de trabalho, mas ampliar o prazo de adaptação das empresas às novas exigências. O pedido de liminar será analisado por Dino, que poderá decidir individualmente sobre a suspensão dos prazos antes de submeter a questão ao plenário do Supremo.",
+  "numeros": [
+   {
+    "valor": "40",
+    "rotulo": "horas de trabalho máximas semanais"
+   },
+   {
+    "valor": "42",
+    "rotulo": "horas de trabalho a partir de dezembro de 2023"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "ano de adoção das 40 horas"
+   },
+   {
+    "valor": "1",
+    "rotulo": "ano de adiamento solicitado"
+   }
+  ],
+  "fonte": "CNN Brasil",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "medo da perda de empregos e adequações às novas leis",
+  "angulo": "Com o fim da escala 6x1 e a redução de horas, é fundamental diversificar as fontes de renda. O aprendizado no mercado financeiro se torna uma alternativa sem as amarras do trabalho tradicional.",
+  "gancho": "A *mudança que pode impactar seu trabalho*",
+  "ideias": [
+   "Fim da escala 6x1: O que vem pela frente?",
+   "Como as mudanças impactam sua renda?",
+   "Prepare-se para as novas regras de trabalho!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://www.cnnbrasil.com.br/politica/dino-sera-relator-de-acao-que-tenta-adiar-fim-da-escala-6x1-para-2027/",
+  "publicadoEm": "2026-11-04T18:17:14-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Empresários pedem adiamento do fim da escala 6x1",
+  "resumo": "A CNC entrou com uma ação no STF para adiar o fim da escala 6x1, previsto para dezembro de 2026, para 2027. A decisão impacta empresários e trabalhadores.",
+  "fatos": [
+   "A Confederação Nacional do Comércio (CNC) entrou com uma Ação Direta de Inconstitucionalidade (ADI) no STF.",
+   "O pedido é para adiar o fim da escala 6x1 para dezembro de 2027.",
+   "Se a ADI for aceita, a nova jornada de trabalho, que passa a ser 5x2, só entrará em vigor a partir de 2027.",
+   "A emenda constitucional 141, que reduz a carga horária de 44 horas para 42 horas, entra em vigor em dezembro de 2026.",
+   "Os empresários alegam que a mudança não respeita acordos trabalhistas já estabelecidos.",
+   "O Supremo pode decidir sobre a ADI sem levar o caso ao plenário.",
+   "A CNC argumenta que a mudança pode impactar a autonomia das negociações coletivas."
+  ],
+  "explicacao": [
+   "Essa ação no STF surge em resposta às mudanças trazidas pela emenda que visa acabar com a escala 6x1 em favor de um novo regime de trabalho.",
+   "Empresários temem impactos negativos em suas operações e nas relações de trabalho estabelecidas em convenções coletivas.",
+   "Se aceito o pedido, haverá um adiamento na implementação das novas regras, permitindo mais tempo para adaptações."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. A CNC (ConfederaÃ§Ã£o Nacional do ComÃ©rcio de Bens, ServiÃ§os e Turismo) entrou com uma ADI (AÃ§Ã£o Direta de Inconstitucionalidade) no STF (Supremo Tribunal Federal) para adiar o fim da escala 6x1 para dezembro de 2027. Os empresÃ¡rios do setor pedem ao Supremo que declare inconstitucionais seis pontos da emenda constitucional 141, que implanta a escala 5x2, com dois dias de descanso semanal remunerado , e reduz a carga horÃ¡ria de 44 horas por semana para 42 horas a partir de 16 de dezembro deste ano. A solicitaÃ§Ã£o principal Ã© para que a nova jornada e a nova escala, que passariam a valer 60 dias apÃ³s a publicaÃ§Ã£o da emenda, sejam adiada para 16 de dezembro de 2027. AlÃ©m disso, pedem que o adiamento da nova fase, quando a carga horÃ¡ria deverÃ¡ cair para 40 horas semanais, fique para dezembro de 2028. Pela regra atual, a reduÃ§Ã£o final serÃ¡ em dezembro de 2027. Segundo a CNC, a entidade nÃ£o Ã© contra o fim da escala 6x1, mas o entendimento Ã© que a PEC (proposta de emenda Ã ConstituiÃ§Ã£o) pelo fim da escala 6x1 estabeleceu novos parÃ¢metros constitucionais em detrimento de outros jÃ¡ em vigor na prÃ³pria ConstituiÃ§Ã£o, o que seria inconstitucional. \"A ConstituiÃ§Ã£o pode estabelecer novos direitos e modificar os parÃ¢metros das relaÃ§Ãµes de trabalho, mas a implementaÃ§Ã£o dessas mudanÃ§as nÃ£o estÃ¡ dispensada da observÃ¢ncia dos limites constitucionais que disciplinam o exercÃ­cio do poder de reforma, especialmente quando seus efeitos atingem a autonomia coletiva, a seguranÃ§a jurÃ­dica e a confianÃ§a legÃ­tima\", diz a ADI. Uma newsletter com informaÃ§Ãµes exclusivas para quem precisa tomar decisÃµes O pedido Ã© para que o Supremo conceda liminar derrubando a vigÃªncia do fim da 6x1 em 2026, em decisÃ£o tomada por um Ãºnico ministro, sem que o caso precise ir ao plenÃ¡rio da corte, e que os ministros se reÃºnam apenas para debater os outros pontos. A entidade solicita ainda que as clÃ¡usulas de convenÃ§Ãµes e acordos coletivos com a jornada atual nÃ£o sejam invalidadas em 60 dias, como prevÃª a emenda. Os demais pontos que a confederaÃ§Ã£o contesta sÃ£o a necessidade de negociaÃ§Ã£o sindical para implementar a nova jornada, a falta de lei especÃ­fica para microempresas e empresas de pequeno porte, que terÃ£o tratamento diferenciado segundo a PEC, o prazo de adaptaÃ§Ã£o de atÃ© um ano a empresas que contratam com o poder pÃºblico e a exclusÃ£o de servidores da regra do controle de jornada para o superempregado, categoria criada na emenda. Dentre os argumentos das empresas estÃ¡ que nÃ£o se poderia derrubar apenas as clÃ¡usulas das convenÃ§Ãµes e acordos coletivos de trabalho que tratam sobre jornada e escala. O entendimento Ã© que o documento deveria todo ser invalidado e novas regras, redefinidas e rediscutidas com previsÃ£o de contrapartida pelo fim da escala 6x1. AlÃ©m disso, entendem tambÃ©m que uma convenÃ§Ã£o ou acordo coletivo jÃ¡ negociado nÃ£o pode ser modificado durante a sua vigÃªncia, o que seria inconstitucional, mesmo sob negociaÃ§Ã£o coletiva. \"O que se questiona Ã© a possibilidade de o novo regime constitucional determinar a extinÃ§Ã£o antecipada de disposiÃ§Ãµes integrantes de instrumentos coletivos vigentes, sem assegurar oportunidade adequada para a revisÃ£o coordenada das obrigaÃ§Ãµes e contrapartidas reciprocamente ajustadas\", diz a aÃ§Ã£o. \"Os acordos e convenÃ§Ãµes coletivas nÃ£o constituem simples agrupamentos de clÃ¡usulas independentes. Em muitos setores da atividade econÃ´mica, as",
+  "numeros": [
+   {
+    "valor": "44 para 42",
+    "rotulo": "carga horária semanal"
+   },
+   {
+    "valor": "2026 para 2027",
+    "rotulo": "adiamento do fim da escala 6x1"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "aumento na carga de trabalho e perda de poder de negociação",
+  "angulo": "Mudar a forma como trabalhamos pode criar novas oportunidades de renda. Aprender sobre o mercado financeiro ajuda a diversificar suas fontes de renda e não depender apenas do emprego tradicional.",
+  "gancho": "O que *acontece com sua renda* se a escala",
+  "ideias": [
+   "Fim da escala 6x1 e o futuro do trabalho",
+   "Como a mudança na carga horária impacta sua renda?",
+   "Prepare-se: mudanças no trabalho vêm aí"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/empresarios-do-comercio-vao-ao-stf-para-adiar-fim-da-escala-6x1-para-2027.shtml",
+  "publicadoEm": "2026-11-04T16:17:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: novas jornadas de trabalho",
+  "resumo": "O governo anuncia decreto que regulamentará o fim da escala 6x1, com garantias de pelo menos oito folgas mensais para os trabalhadores. Isso altera a dinâmica do trabalho no Brasil.",
+  "fatos": [
+   "O decreto deve ser publicado na segunda-feira, 9 de outubro.",
+   "O objetivo é regulamentar jornadas de trabalho garantindo pelo menos oito folgas mensais.",
+   "A proposta entra em vigor a partir de 15 de dezembro.",
+   "A jornada semanal deverá ser reduzida de 44 para 40 horas.",
+   "Os acordos coletivos terão papel central na implementação das novas escalas.",
+   "A PEC que extinguiu a escala 6x1 foi promulgada em 16 de outubro.",
+   "Setores contínuos como saúde e transporte serão contemplados nas mudanças."
+  ],
+  "explicacao": [
+   "A mudança na escala de trabalho busca oferecer maior flexibilidade e proteção aos trabalhadores.",
+   "As novas regras permitirão que as empresas adaptem as jornadas de acordo com suas necessidades, respeitando os direitos trabalhistas.",
+   "Esse modelo busca atender as demandas dos setores, sem comprometer o bem-estar dos funcionários e a dinâmica do mercado."
+  ],
+  "materia": "O decreto que regulamentará o fim da escala de trabalho 6x1 deve sair na próxima segunda-feira (9), disse nesta quarta-feira (4) o ministro do Trabalho e Emprego, Luiz Marinho. O texto estabelecerá diretrizes para a organização das jornadas e garantir pelo menos oito folgas por mês aos trabalhadores. Seguindo Marinho, o decreto será discutido com o presidente Luiz Inácio Lula da Silva nesta quinta-feira (5) e deverá orientar a implementação das novas regras por meio de negociações coletivas. A regulamentação também deverá permitir flexibilidade na organização das escalas, desde que sejam respeitados os direitos previstos na Proposta de Emenda à Constituição (PEC) que extinguiu o modelo de seis dias de trabalho para um de descanso. >> Siga o canal da Agência Brasil no WhatsApp Segundo Marinho, o decreto terá como objetivo coordenar a adoção das diferentes escalas de trabalho nos setores econômicos, sem comprometer os direitos dos empregados nem o funcionamento das empresas. “Soltaremos o decreto regulamentador para trazer o processo coordenado para a implantação das várias escalas que cada setor pretende implantar, sempre respeitando o comando da PEC”, afirmou o ministro. A publicação, inicialmente prevista para esta semana, foi adiada após Lula não conseguir realizar o despacho sobre o tema. A expectativa do Ministério do Trabalho é concluir a regulamentação na próxima segunda-feira. A proposta prevê que os trabalhadores tenham, no mínimo, oito folgas em um período de 30 dias. A distribuição dos descansos poderá variar conforme as características de cada atividade, desde que respeitadas as condições estabelecidas pela PEC e pelos acordos coletivos. Marinho explicou que a flexibilização poderá permitir diferentes combinações de jornadas semanais, conforme as necessidades de cada setor. “Não tem lista de flexibilidade. A PEC determina dois descansos semanais. A flexibilidade concedida é que essas duas folgas estejam consolidadas dentro do mês”, declarou. O ministro destacou que os acordos coletivos terão papel central na organização das escalas. A prioridade, segundo ele, será a negociação entre empresas e representantes dos trabalhadores, com possibilidade de convenções nacionais que facilitem a adesão dos diferentes estados. A regulamentação também deverá contemplar setores que funcionam continuamente, como atividades de saúde, transporte, segurança e limpeza urbana. A proposta de mudança na jornada de trabalho prevê a redução gradual da carga horária semanal, atualmente de 44 horas, para 40 horas. De acordo com as informações divulgadas pelo governo, a implementação deverá ocorrer a partir de 15 de dezembro, respeitando as condições estabelecidas na regulamentação. O Congresso Nacional promulgou, em 16 de outubro, a PEC que extingue a escala 6x1 e estabelece uma jornada de cinco dias de trabalho para dois de descanso. Marinho afirmou que o objetivo do governo é garantir a proteção dos trabalhadores durante a transição, sem prejudicar a atividade econômica. Durante a entrevista coletiva em que apresentou os dados do Cadastro Geral de Empregados e Desempregados (Caged) , o ministro também criticou a reação do mercado financeiro às discussões sobre propostas alternativas para a política econômica. A manifestação ocorreu após questionamentos sobre as ideias do economista André Lara Resende, um dos formuladores do Plano Real, que defende mudanças na condução das políticas fiscal e monetária. Marinho afirmou que o presidente Lula deve ter liberdade para ouvir diferentes contribuições, mesmo quando elas divergem das posições defendidas por agentes financeiros. “O que eu acho um absurdo é que qualquer tentativa de discussão que não esteja no quadradinho do chamado mercado da Faria Lima há uma grita contra”, declarou. O ministro também criticou a resistência do mercado à discussão de alternativas para a taxa básica de juros e defendeu que diferentes propostas sejam avaliadas pelo governo. “É um absurdo o comportamento do tal mercado, ",
+  "numeros": [
+   {
+    "valor": "8",
+    "rotulo": "folgas mensais garantidas"
+   },
+   {
+    "valor": "44 para 40",
+    "rotulo": "carga horária semanal"
+   },
+   {
+    "valor": "15 de dezembro",
+    "rotulo": "data de implementação"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "perda de segurança no trabalho e aumento da carga horária",
+  "angulo": "Entender as novas regras de trabalho é crucial para quem deseja se adaptar ao mercado. Aprender sobre o mercado financeiro pode oferecer alternativas para driblar incertezas no emprego.",
+  "gancho": "Nova *jornada de trabalho* está a caminho!",
+  "ideias": [
+   "As novas regras da jornada de trabalho",
+   "Como a mudança da 6x1 afeta sua rotina?",
+   "O que esperar com o fim da escala 6x1?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T18:39:55-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-preve-decreto-do-fim-da-escala-6x1-para-segunda-feira",
+  "publicadoEm": "2026-11-04T17:21:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-05"
  },
  {
   "segmento": "trader",
