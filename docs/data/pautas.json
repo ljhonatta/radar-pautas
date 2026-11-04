@@ -1,6 +1,464 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Fortaleza e a expectativa de vendas na Black Friday",
+  "resumo": "A Black Friday é uma oportunidade significativa para o varejo de Fortaleza, com uma movimentação esperada de R$ 431 milhões. Conheça as implicações dessa data para seu negócio.",
+  "fatos": [
+   "A Black Friday deve movimentar R$ 431 milhões no varejo de Fortaleza.",
+   "Essa data representa uma das principais oportunidades para o comércio local.",
+   "A Fecomércio está otimista com as vendas durante esse período."
+  ],
+  "explicacao": [
+   "A expectativa de vendas na Black Friday indica um aumento no consumo, refletindo as oportunidades que surgem nesta data.",
+   "Empresários devem se preparar para essa data, otimizando suas estratégias de marketing e gestão de redes.",
+   "Com uma boa presença online e planejamento, é possível captar mais clientes e aumentar as vendas."
+  ],
+  "materia": "",
+  "numeros": [
+   {
+    "valor": "431 milhões",
+    "rotulo": "movimentação esperada no varejo"
+   }
+  ],
+  "fonte": "URB News",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Perder vendas em uma data crucial",
+  "angulo": "Preparar o marketing e gestão pode potencializar suas vendas significativas nesta Black Friday.",
+  "gancho": "*Movimentação esperada de R$ 431 milhões*",
+  "ideias": [
+   "Você está pronto para a Black Friday?",
+   "Aposte em marketing e não perca vendas!",
+   "Como potencializar suas vendas na Black Friday?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T14:37:40-03:00",
+  "url": "https://urbnews.com.br/2026/11/04/black-friday-movimentara-r-431-milhoes-no-varejo-de-fortaleza-aponta-fecomercio/",
+  "publicadoEm": "2026-11-04T11:15:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A Black Friday pode ser promissora, mas vendedor está pressionado",
+  "resumo": "A XP projeta um crescimento de mais de 20% nas vendas online na Black Friday de 2026, mesmo com consumidores endividados. A concorrência acirrada exige estratégias eficazes.",
+  "fatos": [
+   "A XP Investimentos projeta crescimento superior a 20% nas vendas de e-commerce na Black Friday de 2026.",
+   "As famílias estão com endividamento recorde e o crédito está caro.",
+   "Grandes plataformas são estimuladas a usar promoções e logística para atrair consumidores.",
+   "A entrada do TikTok Shop aumenta a pressão competitiva.",
+   "Canais digitais em farmácias estão se destacando nas vendas de produtos de higiene e cosméticos."
+  ],
+  "explicacao": [
+   "As expectativas de vendas estão altas, mas os consumidores ainda enfrentam dificuldades financeiras.",
+   "Isso torna essenciais promoções e condições atrativas de pagamento.",
+   "Os varejistas precisam se adaptar a um calendário promocional mais extenso, antecipando as compras.",
+   "Essa movimentação reflete uma pressão do mercado, exigindo uma gestão mais eficaz das vendas online."
+  ],
+  "materia": "04/11/2026 14h00 • Atualizado 2 horas atrás Apesar do endividamento recorde das famílias e do crédito caro, a XP Investimentos projeta que as vendas do e-commerce na Black Friday (BF) de 2026 cresçam mais de 20% na base anual. Segundo os analistas Pedro Caravina e Laryssa Sumer, as grandes plataformas de comércio eletrônico estão reforçando suas estratégias com promoções, crédito e logística, enquanto a entrada do TikTok Shop aumenta a pressão competitiva. Marcopolo tem queda de 43% no lucro do 3º tri, para R$ 186,5 milhões Lucro líquido veio 8% acima do consenso de mercado A data 11.11, tradicionalmente forte no comércio asiático, também ganhou relevância no calendário de novembro, com a adesão de varejistas de vestuário. Já as farmácias combinam ofertas digitais e promoções de produtos de higiene, perfumaria e cosméticos (HPC) para capturar a demanda do período. Na avaliação da XP, as expectativas robustas de vendas convivem com um consumidor ainda pressionado, o que torna o momento das promoções e as condições de pagamento cada vez mais importantes entre as categorias. De modo geral, os varejistas se preparam para um calendário promocional mais amplo, que pode antecipar compras originalmente previstas para a própria Black Friday ou para o Natal. No e-commerce, Mercado Livre (BDR: MELI34 ), Shopee e TikTok Shop reforçam campanhas com descontos, crédito e ações de criadores de conteúdo. O Magalu ( MGLU3 ) também aposta em promoções recorrentes e pode se beneficiar do avanço das parcerias com marketplaces e da menor concorrência física após o fechamento de lojas da Casas Bahia. No vestuário, C&A ( CEAB3 ), Renner ( LREN3 ) e Riachuelo ( RIAA3 ) ampliam a participação em datas como o 11.11 e combinam descontos com financiamento e estratégias omnicanal. A XP destaca que as promoções antecipadas podem acelerar o giro de estoques, embora a isenção de imposto de importação para compras internacionais elegíveis de até US$ 50 continue pressionando os varejistas nacionais. Nas farmácias, canais digitais e produtos de higiene, perfumaria e cosméticos (HPC) ganham protagonismo. Campanhas ao longo do mês, lives e ofertas de beleza e cuidados pessoais podem ajudar a capturar compras de reposição e ampliar vendas cruzadas.",
+  "numeros": [
+   {
+    "valor": "20",
+    "rotulo": "crescimento esperado nas vendas da Black Friday"
+   },
+   {
+    "valor": "43%",
+    "rotulo": "queda no lucro da Marcopolo"
+   },
+   {
+    "valor": "R$ 186,5 milhões",
+    "rotulo": "lucro líquido da Marcopolo"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de faturamento diante da concorrência acirrada",
+  "angulo": "Com o mercado cada vez mais competitivo, é fundamental ter uma presença digital robusta e um planejamento de marketing eficaz para se destacar.",
+  "gancho": "A concorrência está feroz: *você está preparado?*",
+  "ideias": [
+   "Como se destacar na Black Friday?",
+   "Promoções e concorrência: o que saber",
+   "Seu e-commerce está preparado para o crescimento?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T14:37:40-03:00",
+  "url": "https://www.infomoney.com.br/mercados/xp-ve-black-friday-aquecida-mas-alerta-para-consumidor-pressionado-e-concorrencia/",
+  "publicadoEm": "2026-11-04T14:00:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday: Prepare seu e-commerce para a nova realidade",
+  "resumo": "A Black Friday de 2026 deve movimentar R$ 14,5 bilhões, com consumidores mais atentos a preços e formas de pagamento. Entender essas mudanças é essencial para empresários se destacarem no mercado.",
+  "fatos": [
+   "A Black Friday de 2026 deve movimentar R$ 14,5 bilhões, alta de 8,4% em relação ao ano anterior.",
+   "A expectativa é de 18,3 milhões de pedidos, com tíquete médio de R$ 791.",
+   "86% dos consumidores pretendem comprar na Black Friday deste ano.",
+   "Desconto no Pix é preferido por 36% dos consumidores e parcelamento sem juros por 34%.",
+   "56% dos consumidores começam a pesquisa por produtos com mais de 30 dias de antecedência.",
+   "86% dos entrevistados usarão ferramentas de inteligência artificial durante as compras."
+  ],
+  "explicacao": [
+   "Os consumidores estão mais informados e cuidadosos com suas compras na Black Friday. Eles não apenas buscam descontos, mas também analisam a forma de pagamento.",
+   "A preferência por descontos e a intenção de pagamento à vista se destacam, mas há também aqueles que valorizam a flexibilidade no parcelamento.",
+   "Empresas precisam se adaptar a essas mudanças, oferecendo condições que atendam a essas diferentes expectativas para não perder vendas."
+  ],
+  "materia": "A Black Friday de 2026 deve movimentar R$ 14,5 bilhões, alta de 8,4% em relação ao ano passado, segundo projeções da pesquisa promovida pela W3haus, Gauge e Ecglobal, empresas da Stefanini Marketing. O avanço deve ser acompanhado por um aumento no número de compras, que pode chegar a 18,3 milhões de pedidos. O tíquete médio projetado é de R$ 791. A expectativa de consumo também permanece elevada: 86% dos entrevistados afirmam que pretendem comprar nesta edição. Os dados mostram, porém, que a disposição para consumir vem acompanhada de maior atenção às condições encontradas pelo consumidor ao longo da jornada, do preço à forma de pagamento. “Temos uma Black Friday com forte intenção de compra, mas também com um consumidor que pesquisa, compara e avalia com mais cuidado as condições antes de decidir. Nesse cenário, não é apenas o desconto que importa. A forma como esse consumidor consegue pagar também entra nessa equação, seja pela economia imediata, seja pela possibilidade de distribuir o gasto ao longo do tempo”, afirma Aline Liston, Head de PMEs da Getnet. Desconto no Pix aparece à frente do parcelamento sem juros Entre as condições capazes de estimular a compra, o desconto no Pix foi citado por 36% dos consumidores, enquanto o parcelamento sem juros foi mencionado por 34%. O resultado reforça a convivência de duas demandas na Black Friday: de um lado, consumidores atraídos pela possibilidade de economizar no pagamento à vista; de outro, aqueles que buscam flexibilidade para organizar o orçamento. O levantamento mostra ainda que, não encontrar a opção desejada é o quinto principal motivo apontado para o abandono do carrinho. “Preço continua sendo um elemento central da Black Friday, mas o consumidor olha para a compra como um todo. Um desconto no Pix pode ser decisivo para quem prioriza economia, enquanto o crédito e o parcelamento atendem quem precisa de maior flexibilidade. Para o varejo, o ponto importante é não criar uma barreira na etapa final para um consumidor que já demonstrou intenção de comprar”, avalia Aline. Cartão de crédito e Pix permanecem entre os meios de pagamento preferidos pelos consumidores. O estudo também traz um retrato do Pix parcelado: 36% dos entrevistados dizem conhecer a modalidade e já tê-la utilizado, enquanto outros 36% afirmam conhecê-la, mas não pretendem usá-la nesta Black Friday. Consumidor começa a se preparar antes da Black Friday A decisão de compra também começa bem antes da data oficial. Segundo a pesquisa, 56% dos consumidores pretendem iniciar a busca por produtos com mais de 30 dias de antecedência, indicando uma jornada mais longa de pesquisa e comparação de ofertas. A tecnologia também passa a ocupar espaço nesse processo. O levantamento aponta que 86% dos entrevistados pretendem utilizar ferramentas de inteligência artificial durante as compras de Black Friday, incluindo atividades como comparação de preços, busca por promoções e avaliação da confiabilidade das lojas. Para o varejo, o cenário é de uma Black Friday que começa antes da data oficial e envolve consumidores mais informados e com mais recursos para comparar ofertas. Nesse contexto, preço, desconto, conveniência e condições de pagamento passam a fazer parte de uma mesma decisão de compra. Fonte: Assessoria Mais notícias 4 de novembro de 2026 Exportações do agronegócio brasileiro para a União Europeia crescem 14,8% após acordo 4 de novembro de 2026 Leilão de transmissão garante R$ 8,9 bilhões em investimentos para sete estados brasileiros 4 de novembro de 2026 Investimento estrangeiro no setor de informação e comunicação bate recorde A expectativa de consumo também permanece elevada: 86% dos entrevistados afirmam que pretendem comprar nesta edição. Os dados mostram, porém, que a disposição para consumir vem acompanhada de maior atenção às condições encontradas pelo consumidor ao longo da jornada, do preço à forma de pagamento. “Temos uma Black Friday com forte intenção de compra, mas também com um consumidor que pesquisa",
+  "numeros": [
+   {
+    "valor": "14,5 bilhões",
+    "rotulo": "movimentação em R$ na Black Friday"
+   },
+   {
+    "valor": "18,3 milhões",
+    "rotulo": "pedidos esperados"
+   },
+   {
+    "valor": "86%",
+    "rotulo": "intenção de compra"
+   }
+  ],
+  "fonte": "Paraíba Total",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Atrasos nas vendas e perdas por falta de estratégia",
+  "angulo": "Compreender as novas expectativas do consumidor é crucial para construir uma presença digital efetiva e garantir vendas. Conheça nossas soluções de gestão e marketing.",
+  "gancho": "A *Black Friday* que você precisa para vender mais!",
+  "ideias": [
+   "Como se preparar para a Black Friday?",
+   "Dicas para aumentar suas vendas na Black Friday",
+   "A importância da pesquisa antes da Black Friday"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T14:37:40-03:00",
+  "url": "https://paraibatotal.com.br/2026/11/04/black-friday-2026-deve-movimentar-r-145-bilhoes-com-consumidor-mais-atento-a-preco-e-condicoes-de-pagamento/",
+  "publicadoEm": "2026-11-04T12:11:37-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como se destacar nas recomendações de IAs na Black Friday",
+  "resumo": "Com a IA transformando a jornada de compra, marcas precisam se preparar para aparecer nas recomendações. Isso é essencial, especialmente em épocas de alta demanda como Black Friday e Natal.",
+  "fatos": [
+   "A IA está ganhando destaque nas compras, influenciando as decisões dos consumidores.",
+   "Empresas devem ajustar suas informações para serem recomendadas em ferramentas como ChatGPT e Claude.",
+   "É crucial ter um site otimizado e informações claras para não ser excluído das recomendações.",
+   "Recomendações da IA baseiam-se em dados disponíveis, como sites e redes sociais.",
+   "Páginas desatualizadas ou sem informações adequadas podem resultar em prejuízos nas vendas."
+  ],
+  "explicacao": [
+   "O aumento do uso de IAs na jornada de compra está mudando como os consumidores fazem escolhas.",
+   "Marcas que não otimizam sua presença digital correm o risco de não aparecer nas recomendações.",
+   "Preparar informações relevantes e precisas pode aumentar a visibilidade nas plataformas de IA durante períodos críticos."
+  ],
+  "materia": "Com a Inteligência Artificial (IA) ganhando espaço na jornada de compra, estar entre as recomendações pode fazer diferença na escolha do consumidor, especialmente em época de grande demanda, como a Black Friday e o Natal. Assim, marcas e lojistas precisam preparar suas informações para aparecer nas recomendações de ferramentas como ChatGPT, Claude e outros assistentes. As recomendações são construídas a partir de conteúdos disponíveis na internet, como sites, reportagens, guias de presentes, blogs, redes sociais e fóruns. Por isso, a presença digital precisa ser trabalhada antes. “Quem não organiza suas informações para atender a essas duas dinâmicas pode desaparecer das respostas da máquina”, diz Alex Cabral, diretor e fundador da Modocon, agência especializada em reputação e visibilidade em IAs. A Modocom preparou uma lista com 15 dicas para marcas, fabricantes e lojistas se saírem bem nas comparações e entrar nas recomendações das datas mais importantes para o varejo. No site 1. Abra a porta para os robôs das IAs ChatGPT, Claude, Perplexity e outros assistentes enviam robôs para ler os sites. A liberação fica num arquivo do site chamado robots.txt. Peça a quem cuida do seu site para conferir se os robôs de busca das IAs estão liberados. Loja trancada não entra na vitrine. 2. Escreva o que importa em texto, não só em imagem Preço, medidas, prazo e garantia que aparecem só dentro de um banner, de uma foto ou de um PDF costumam ser invisíveis para a IA. O mesmo vale para informação que só surge depois que a página carrega efeitos: muitos robôs lêem a página sem montá-la como o navegador faz. 3. Fale a língua de quem pergunta Ninguém pergunta à IA por uma “fritadeira elétrica de 4,2 litros”. Pergunta: “qual a melhor air fryer para família grande até R$ 800?”. A descrição que junta o termo técnico e o jeito como o cliente fala aparece nos dois tipos de pergunta. Lembre-se também de utilizar o mesmo nome do produto no site, no marketplace e nas redes : três nomes viram três produtos diferentes para a IA. 4. Responda antes que perguntem Uma seção de perguntas frequentes na página do produto, como “serve para…?”, “cabe em…?” e “qual a garantia?”, com respostas curtas e diretas, é um formato fácil de a IA reaproveitar na resposta. 5. Crie seus próprios guias de presentes Páginas como “presentes até R$ 100” ou “presentes para o amigo secreto do trabalho” respondem, quase palavra por palavra, ao que o consumidor pergunta à IA. 6. Mantenha o catálogo do Google em dia O Google usa o catálogo de produtos cadastrado no Merchant Center para mostrar produtos nas buscas com IA. Preço, estoque e frete desatualizados ali viram resposta errada. 7. Cadastre o site também no Bing O Copilot, assistente da Microsoft, se apoia no buscador da empresa. O cadastro no Bing Webmaster Tools é gratuito e leva poucos minutos. 8. Tire do ar a promoção vencida Página de oferta antiga esquecida no site pode levar a IA a citar um preço que não existe mais, e o cliente chega à loja desconfiado. 9. Coloque etiquetas invisíveis nas páginas Os chamados dados estruturados são marcações que o cliente não vê, mas que dizem aos sistemas “isto é um preço”, “isto é uma avaliação”. Essas informações não são requisito para aparecer em respostas de IA, mas garantem consistência entre o que a página diz e o que os sistemas entendem. Fora do site 10. Peça avaliações com detalhe A IA resume o que os compradores escreveram, no site, no marketplace e no Google. “Ótimo” não ajuda ninguém; “a bateria durou dois dias de praia sem precisar recarregar” ajuda. E responda às avaliações, inclusive as negativas: a resposta da loja também é lida. 11. No marketplace, o anúncio fala por você Responda às perguntas feitas no anúncio e às avaliações dos compradores. Esse texto é público, fica ao lado do produto e responde exatamente às dúvidas que o próximo cliente vai levar à IA. 12. Cuide do perfil da empresa no Google Para quem tem loja física ou oferece retirada, endereço, horário, fotos e",
+  "numeros": [],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "Perder clientes devido à falta de visibilidade nas IAs",
+  "angulo": "A realidade atual exige que marcas se adaptem às novas formas de busca e recomendações. Conheça como podemos ajudar você a se destacar.",
+  "gancho": "Prepare sua marca para *Black Friday e Natal*",
+  "ideias": [
+   "Dicas para se destacar nas IAs",
+   "Como garantir visibilidade na Black Friday",
+   "O que você precisa saber sobre a IA e vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T14:37:40-03:00",
+  "url": "https://mercadoeconsumo.com.br/04/11/2026/black-friday/black-friday-e-natal-como-marcas-podem-aparecer-nas-respostas-das-ias/",
+  "publicadoEm": "2026-11-04T13:00:10-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: pedido de adiamento afeta trabalhadores",
+  "resumo": "A CNC solicitou ao STF um adiamento no fim da escala 6x1, destacando a dificuldade de adaptação para o comércio. A mudança traz implicações para a jornada de trabalho e o descanso dos trabalhadores.",
+  "fatos": [
+   "A CNC pediu adiamento da transição anunciada pela Emenda Constitucional nº 141, que reduz a jornada de 44 para 40 horas semanais com dois dias de descanso.",
+   "A primeira fase da redução está programada para começar em 16 de dezembro de 2026, passando de 44 para 42 horas.",
+   "A confederação argumenta que 60 dias para adaptação é insuficiente, especialmente no período de alta demanda do comércio.",
+   "Foi solicitado que a primeira etapa da redução seja adiada para outubro de 2027.",
+   "Além disso, a CNC quer que o limite de 40 horas semanais se aplique apenas em outubro de 2028."
+  ],
+  "explicacao": [
+   "A mudança na escala de trabalho de 6x1 para 5x2, com redução de carga horária, visa modernizar as relações de trabalho.",
+   "No entanto, a aplicação rápida das novas regras, coincidente com períodos críticos de vendas, gera pressões operacionais sobre as empresas.",
+   "Isso pode levar a desequilíbrios financeiros para as empresas de comércio, turismo e serviços, que dependem de um calendário de vendas estável."
+  ],
+  "materia": "STF: CNC enviou à Corte um pedido de adiamento do fim da Escala 6x1, apesar de defender a medida. (Gustavo Moreno/SCO/STF/Divulgação) Publicado em 4 de novembro de 2026 às 13h08 . Última atualização em 4 de novembro de 2026 às 13h14 . A Confederação Nacional do Comércio (CNC) pediu ao Supremo Tribunal Federal (STF) para adiar a transição para o fim da escala 6x1. A mudança, estabelecida pela Emenda Constitucional nº 141, reduzirá a jornada semanal de 44 para 40 horas com dois dias de descanso remunerado. A CNC argumenta que o prazo atual de adaptação é muito curto, especialmente para o comércio durante o período de alta demanda do fim de ano. A Confederação Nacional do Comércio (CNC) pediu ao Supremo Tribunal Federal (STF) para adiar a transição para o fim da escala 6x1. A mudança, estabelecida pela Emenda Constitucional nº 141, reduzirá a jornada semanal de 44 para 40 horas com dois dias de descanso remunerado. A CNC argumenta que o prazo atual de adaptação é muito curto, especialmente para o comércio durante o período de alta demanda do fim de ano. A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) acionou o Supremo Tribunal Federal (STF) para adiar o início da transição para o fim da escala 6x1. Em ação protocolada nesta terça-feira, 3, a entidade pediu que a primeira etapa da redução da jornada, de 44 para 42 horas semanais, passe de 16 de dezembro deste ano para outubro de 2027 . Segundo a confederação, o prazo de adaptação de apenas 60 dias pode comprometer a operação de empresas do varejo, do turismo e dos serviços justamente durante o período de maior movimento do comércio. “Exigir que milhões de estabelecimentos refaçam escalas, contratem e revisem acordos em apenas dois meses, coincidindo com o pico de vendas de Black Friday, Natal, demais celebrações de fim de ano e a alta temporada do turismo, impõe um colapso operacional injustificado ao varejo físico e na importante cadeia econômica movida pelo turismo dessa época”, afirmou o presidente do Sistema CNC-Sesc-Senac , José Roberto Tadros, em comunicado. A CNC afirma que não questiona a redução da jornada para 40 horas semanais nem a garantia de dois dias de descanso remunerado. O pedido se concentra no prazo de adaptação e nas diferenças entre as regras estabelecidas para empresas privadas e para a administração pública. Além de adiar a primeira etapa, a entidade quer que o limite de 40 horas semanais passe a ser exigido somente em outubro de 2028. A mudança foi estabelecida pela Emenda Constitucional nº 141, promulgada pelo Congresso Nacional em 16 de outubro . O texto substitui o limite atual de 44 horas semanais por uma jornada máxima de 40 horas, sem redução salarial, e garante dois dias de repouso remunerado por semana. Pelo calendário aprovado, a primeira fase começa em dezembro, quando a jornada máxima semanal será reduzida de 44 para 42 horas. Um ano depois, o limite passa a ser de 40 horas. A CNC quer deslocar essas duas etapas em dez meses. A Emenda Constitucional nº 141 estabelece a substituição do modelo de seis dias de trabalho para um de descanso por uma jornada com cinco dias de trabalho e dois de repouso semanal remunerado, conhecida como escala 5x2 . Um dos dias de folga deverá ocorrer preferencialmente aos domingos. A redução da carga horária será gradual e não poderá resultar em diminuição dos salários ou dos pisos das categorias profissionais. O cronograma previsto é: A mudança será aplicada aos contratos de trabalho em vigor e não poderá resultar em redução salarial . A emenda também permite que acordos e convenções coletivas estabeleçam, excepcionalmente, uma distribuição diferente dos dias de descanso. Nesses casos, a média deverá corresponder a dois dias de repouso remunerado no mês-calendário, com pelo menos uma folga dentro de cada período máximo de uma semana de trabalho. A possibilidade de reorganizar as folgas, porém, não significa autorização para manter jornadas incompatíveis com os limites constitucionais. Empresas e",
+  "numeros": [
+   {
+    "valor": "44 para 40",
+    "rotulo": "horas semanais permitidas"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso semanal"
+   },
+   {
+    "valor": "16 de dezembro de 2026",
+    "rotulo": "data de início da primeira fase"
+   },
+   {
+    "valor": "outubro de 2027",
+    "rotulo": "data proposta para o adiamento"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "perda de flexibilidade e aumento de custos operacionais",
+  "angulo": "Aprender sobre o mercado financeiro pode abrir portas para quem não quer depender de horários rígidos. Conhecer novas formas de gerar renda é essencial.",
+  "gancho": "*Fim da escala 6x1* e suas implicações",
+  "ideias": [
+   "O que muda com o fim da escala 6x1?",
+   "A importância da nova jornada de trabalho",
+   "Como se preparar para as novas regras?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T14:37:40-03:00",
+  "url": "https://exame.com/brasil/comercio-pede-ao-stf-adiamento-do-fim-da-escala-6x1-veja-o-que-pode-mudar/",
+  "publicadoEm": "2026-11-04T13:13:06-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Transição para fim da escala 6x1 pode ser adiada",
+  "resumo": "A CNC solicitou ao STF adiamento na transição para o novo limite de horas trabalhadas, argumentando que o prazo atual é insuficiente para ajustes no setor. Isso pode impactar empregos e a economia.",
+  "fatos": [
+   "A Confederação Nacional do Comércio (CNC) protocolou pedido ao STF em 3 de outubro de 2023.",
+   "A emenda que reduz a jornada de trabalho de 44 para 40 horas semanais foi aprovada, mas não será imediata.",
+   "A transição para 42 horas começará em 16 de dezembro de 2026 e para 40 horas em 2027.",
+   "O pedido da CNC é para que a primeira transição ocorra em 16 de outubro de 2027, atrasando a mudança final para 2028.",
+   "Estimativas indicam que o fim da escala 6x1 pode gerar uma perda de R$ 76,9 bilhões no PIB.",
+   "A CNI projeta que os custos para empregadores podem aumentar em 7,84%.",
+   "O prazo atual coincide com datas comerciais importantes como Black Friday e festas de fim de ano."
+  ],
+  "explicacao": [
+   "A mudança na jornada de trabalho busca adequar a legislação às novas demandas do mercado.",
+   "A CNC argumenta que o prazo proposto é curto e pode causar desajustes operacionais significativos.",
+   "Suspender a transição permitiria que empresas se ajustassem sem crises imediatas e perdas de receita.",
+   "A disparidade de prazos entre setor público e privado é um ponto de preocupação levantado pela CNC."
+  ],
+  "materia": "A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) acionou o Supremo Tribunal Federal (STF) buscando o adiamento da transição para o fim da escala 6x1 no Brasil. De acordo com o comunicado, o processo, com pedido de liminar, foi protocolado nesta terça-feira (3). Segundo a entidade, o objetivo não é derrubar a emenda à Constituição, mas esticar os prazos. A emenda aprovada alterou a jornada de trabalho de 44 para 40 horas semanais. A redução, no entanto, não passou a valer imediatamente após a promulgação. No dia 16 de dezembro de 2026, 60 dias após a promulgação, a jornada ficará em 42 horas semanais. No dia 16 de dezembro de 2027, chegará ao patamar final de 40 horas semanais. O pedido da CNC é para que a primeira transição ocorra um ano após a promulgação da emenda, em 16 de outubro de 2027. A conclusão da transição, com a jornada em 40 horas, ficaria para dois anos depois, em outubro de 2028. A entidade argumenta que o prazo atualmente vigente para a transição não é suficiente para mapear as lacunas que serão abertas nos postos de trabalho, contratar novos funcionários, reavaliar turnos e renegociar convenções coletivas. Para que não ocorra a transição, pedem uma liminar pela suspensão do cronograma atual. Há ainda um apontamento de desigualdade de condições. É que o setor público recebeu um prazo maior, de até um ano, para adaptar seus contratos de terceirização. O presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, lembra que o prazo para a mudança para 42 horas finaliza 19 dias após a Black Friday. Ele menciona também as festas de fim de ano e avalia que a coincidência pode levar a um \"colapso operacional injustificado ao varejo físico e na importante cadeia econômica movida pelo turismo dessa época\". A Confederação Nacional da Indústria (CNI) estima uma perda no PIB de R$ 76,9 bilhões com o fim da escala 6x1, cerca de 0,7% do patamar atual. Para efeitos de comparação, a receita líquida anual da Ambev somou R$ 88,2 bilhões em 2025. Já o Instituto de Pesquisa Econômica Aplicada (Ipea) fala em uma elevação nos custos ao empregador em 7,84%, embora fale em capacidade de absorção pelo setor produtivo. Use este espaço apenas para a comunicação de erros WHATSAPP: As regras de privacidade dos grupos são definidas pelo WhatsApp. Ao entrar, seu número pode ser visto por outros integrantes do grupo.",
+  "numeros": [
+   {
+    "valor": "76,9 bilhões",
+    "rotulo": "perda no PIB estimada"
+   },
+   {
+    "valor": "7,84%",
+    "rotulo": "aumento nos custos ao empregador"
+   }
+  ],
+  "fonte": "Gazeta do Povo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "perda de renda e instabilidade no emprego",
+  "angulo": "Aprender sobre o mercado financeiro pode ser uma alternativa viável para quem se sente inseguro com as mudanças no trabalho. Isso pode gerar novas fontes de renda e segurança financeira.",
+  "gancho": "É hora de repensar a *escala 6x1*",
+  "ideias": [
+   "O impacto do fim da escala 6x1",
+   "Adiar transição da jornada de trabalho?",
+   "Como o ajuste da jornada afeta seu bolso"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T14:37:40-03:00",
+  "url": "https://www.gazetadopovo.com.br/economia/confederacao-do-comercio-pede-que-stf-adie-transicao-para-o-fim-da-escala-6-1/",
+  "publicadoEm": "2026-11-04T13:32:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho: fim da escala 6x1",
+  "resumo": "A partir de dezembro de 2026, 1 milhão de trabalhadores paranaenses terão um dia a mais de descanso com o fim da escala 6x1, afetando a rotina de muitos profissionais.",
+  "fatos": [
+   "O fim da escala 6x1 começa em dezembro de 2026.",
+   "Cerca de 1.032.927 trabalhadores no Paraná são afetados.",
+   "A maioria passará para a escala 5x2, ganhando um dia a mais de descanso.",
+   "A jornada semanal começará a reduzir gradualmente de 44 horas para 40 horas até dezembro de 2027.",
+   "O percentual de trabalhadores em escala 6x1 no Paraná é de cerca de 35%."
+  ],
+  "explicacao": [
+   "A mudança é resultado da Emenda Constitucional nº 141/2026, que visa a redução da jornada de trabalho.",
+   "A primeira fase começará 60 dias após a promulgação da emenda, permitindo dois dias de descanso semanal.",
+   "Os trabalhadores devem acompanhar as notícias e comunicações oficiais para entender como as novas regras impactarão suas rotinas."
+  ],
+  "materia": "O fim da escala 6×1 começará a ser implementado em dezembro deste ano e promete mudar a rotina de cerca de 1,03 milhão de trabalhadores paranaenses. O dado saiu de um levantamento do Ministério do Trabalho e Emprego (MTE) e mostra que cerca de 1.032.927 trabalhadores do Paraná ainda atuam na escala 6×1. Com o fim da modalidade, a maioria passaria para a escala 5×2. A seguir, saiba a partir de quando começa a valer o fim da escala 6×1 e como funcionará a mudança para essa jornada. O fim da escala 6x1 começará a ser implementado em dezembro de 2024, afetando cerca de 1,03 milhão de trabalhadores no Paraná, que passarão a ter um dia a mais de descanso por semana. A mudança ocorre devido à Emenda Constitucional nº 141/2026, que também prevê a redução gradual da jornada semanal de trabalho de 44 para 40 horas. Em dezembro, quem atua na escala 6×1 em todo o território nacional poderá ter um dia a mais de descanso na semana. A mudança foi promovida pela Emenda Constitucional nº 141/2026 , que também aplicará a redução de jornada de trabalho de forma gradual. Hoje, a carga horária semanal é de 44 horas. A emenda quer reduzir para 40 horas semanais. No entanto, essa redução será gradual, e em dezembro deste ano diminuirá para 42 horas semanais. Apenas em dezembro de 2027 passará a ser de 40 horas. O levantamento do MTE mostrou que cerca de 35% dos trabalhadores do Paraná atuam na escala 6×1. O estado possui hoje 1.850.542 trabalhadores na escala 5×2 (cinco dias trabalhados com dois de descanso) e cerca de 1,03 milhão na escala 6×1 (seis dias trabalhados com um de descanso), que serão impactados por essa mudança. As mudanças na escala de trabalho estão previstas para começar no dia 16 de dezembro de 2026 , respeitando o cronograma previsto na emenda, onde a primeira etapa inicia 60 dias após a promulgação da emenda. Nessa primeira etapa, os trabalhadores terão direito a dois dias de descanso semanal e a jornada de trabalho reduzirá de 44 para 42 horas. Acompanhe as principais notícias que afetam seu bolso e sua rotina! Entre no nosso canal do WhatsApp ! A jornada de trabalho semanal passará a ser de 40 horas em dezembro de 2027 . Isso acontece devido às etapas de transição previstas na emenda, onde: A redução na jornada de trabalho não vai diminuir o salário atual dos trabalhadores . E é importante ressaltar que quem atua na administração pública terá outro prazo: até um ano para o fim da escala 6×1. Como as novas regras serão implementadas de forma gradual, os trabalhadores podem acompanhar o cronograma por meio do Ministério do Trabalho e também pelos sindicatos, que podem fechar acordos coletivos com as empresas. Também é preciso ficar atento aos portais de notícias que podem divulgar mudanças no cronograma ou até a criação de leis com escalas específicas para determinados segmentos. Além disso, manter contato com a empresa ajuda a saber das novidades e a receber comunicados oficiais sobre as adaptações na escala. No mais, no blog da meutudo continuaremos publicando notícias sobre o fim da escala 6×1. Para acompanhar em primeira mão, inscreva-se aqui no formulário e receba no seu e-mail as principais novidades. Leticia é formada em Marketing e trabalha como redatora desde 2018. Adora consumir conteúdos sobre educação financeira e escreve na meutudo para descomplicar a vida das pessoas que buscam crédito. No seu tempo livre gosta de ir à praia, visitar cafés bonitos e inventar moda com crochê e tricô. Seja bem-vindo(a) e fique de olho no seu e-mail para acompanhar Antes de sair, uma descoberta rápida Veja o que o salário mínimo de 2027 muda pra você. Antes de sair, uma descoberta rápida Veja o que o salário mínimo de 2027 muda pra você. Deixe seu e-mail para ser avisado quando o conteúdo for atualizado. Caixa libera nova rodada do Gás do Povo em 10/11 via vale-recarga para famílias do… Pix de até R$ 5 mil para MEI ainda não é lei nem começou a… Beneficiários do INSS que desejarem fazer portabilidade de consignado a partir do dia 18 de",
+  "numeros": [
+   {
+    "valor": "44 a 40",
+    "rotulo": "horas da jornada de trabalho"
+   },
+   {
+    "valor": "1.032.927",
+    "rotulo": "trabalhadores na escala 6x1"
+   },
+   {
+    "valor": "35",
+    "rotulo": "percentual de trabalhadores na escala 6x1"
+   }
+  ],
+  "fonte": "meutudo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "dependência do salário mensal e jornada exaustiva",
+  "angulo": "As novas regras de jornada proporcionam mais tempo livre e melhor qualidade de vida, mas também podem incentivar a busca por habilidades no mercado financeiro para aumentar a renda sem amarras convencionais.",
+  "gancho": "Nova jornada de trabalho: *ganhe mais tempo livre*",
+  "ideias": [
+   "Como a nova jornada impacta suas finanças?",
+   "Fim da escala 6x1: O que esperar?",
+   "A mudança na jornada: como se preparar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T14:37:40-03:00",
+  "url": "https://meutudo.com.br/blog/noticias/2026/11/04/dezembro-traz-as-primeiras-mudancas-no-fim-da-escala-6x1-para-trabalhadores-do-parana/",
+  "publicadoEm": "2026-11-04T11:41:07-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6×1: comércio pede adiamento",
+  "resumo": "A CNC quer adiar transição para nova jornada de trabalho, que reduz carga horária. A primeira fase está prevista para iniciar em dezembro de 2023.",
+  "fatos": [
+   "A emenda que altera a jornada foi promulgada em outubro.",
+   "A primeira fase da transição começa em 16 de dezembro de 2023.",
+   "A carga horária máxima cairá de 44 para 42 horas semanais nessa data.",
+   "Os trabalhadores terão garantidos dois dias de descanso remunerado a partir dessa data.",
+   "A CNC propõe adiar essa etapa para 16 de outubro de 2027.",
+   "A redução da jornada para 40 horas deveria ser implementada a partir de outubro de 2028.",
+   "A CNC argumenta que 60 dias é um prazo curto para adaptações nas empresas."
+  ],
+  "explicacao": [
+   "A transição para o fim da escala 6x1 busca uma carga horária mais saudável para os trabalhadores, mas gera desafios para as empresas.",
+   "Com a nova lei, as empresas precisam se adaptar rapidamente, o que pode significar necessidade de contratação e reestruturação interna.",
+   "O pedido de adiamento reflete a preocupação do comércio em como essa mudança afetará a configuração do trabalho e os custos operacionais."
+  ],
+  "materia": "A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) entrou com uma ação no Supremo Tribunal Federal (STF) para adiar o início da transição para a nova jornada de trabalho após o fim da escala 6×1. A emenda constitucional promulgada em outubro reduz a carga horária de 44 para 40 horas semanais sem corte de salário. A implementação, porém, será gradual. A primeira etapa da transição começa 60 dias após a promulgação, em 16 de dezembro deste ano, quando a jornada máxima semanal cai de 44 para 42 horas e o trabalhador passa a ter garantidos dois dias de descanso remunerado. Doze meses depois, a jornada de trabalho passa a ser limitada a 40 horas semanais. A CNC pede que a primeira etapa da transição passe para o próximo ano, em 16 de outubro de 2027. Já a redução da jornada de trabalho para 40 horas semanais, defende a entidade, deveria passar a ser implementada a partir de outubro de 2028. Para a CNC, o prazo de 60 dias é muito curto para a adaptação das empresas, que podem precisar contratar novos trabalhadores, reestruturar turnos e renegociar convenções coletivas, já que os acordos em vigor perdem eficácia a partir da implementação da nova escala. Leia também 1 Senadores preparam exceções para o fim da escala 6x1 2 STF derruba lei que permitia a pais vetarem aulas sobre gênero 3 PL oficializa candidatura de Marinho a presidente do Senado 4 Janones ameaça protestar contra STF, recebe resposta e apaga post 5 STF: Fux se mostra satisfeito com audiência pública sobre bets Siga-nos nas nossas redes! facebook instagram whatsapp telegram youtube twitter Receba notícias em seu celular! Whatsapp Telegram Comunicar erro Comunicar erro Se você encontrou erro neste texto, por favor preencha os campos abaixo. Sua mensagem e o link da página serão enviados automaticamente à redação do Pleno.News, que checará a informação. Mais Recentes Polícia pede prisão de empresário suspeito de matar advogada PL oficializa candidatura de Marinho a presidente do Senado STF derruba lei que permitia a pais vetarem aulas sobre gênero Presidente do Chile diz que virá ao Brasil para posse de Lula Mãe de menina morta em escola cobra governador aliado de Lula WhatsApp Entre e receba as notícias do dia Entrar no Canal Telegram Entre e receba as notícias do dia Entrar no Grupo O autor da mensagem, e não o Pleno.News, é o responsável pelo comentário. Se você encontrou erro neste texto, por favor preencha os campos abaixo. Sua mensagem e o link da página serão enviados automaticamente à redação do Pleno.News, que checará a informação.",
+  "numeros": [
+   {
+    "valor": "60 dias",
+    "rotulo": "prazo para adaptação"
+   },
+   {
+    "valor": "44 para 40",
+    "rotulo": "carga horária máxima semanal"
+   }
+  ],
+  "fonte": "Pleno.News",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "dificuldades financeiras com novas demandas de trabalho",
+  "angulo": "Entender as mudanças no mercado de trabalho pode ser o primeiro passo para diversificar sua renda e garantir segurança financeira.",
+  "gancho": "*Novas regras de trabalho* podem impactar seu bolso!",
+  "ideias": [
+   "A nova jornada de trabalho e você",
+   "Como a redução de horas afeta a renda?",
+   "Adaptações no trabalho: o que vem por aí?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T14:37:40-03:00",
+  "url": "https://pleno.news/brasil/politica-nacional/comercio-aciona-stf-para-adiar-transicao-para-o-fim-da-escala-6x1.html",
+  "publicadoEm": "2026-11-04T14:19:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Como a Raízen impacta o mercado e os negócios?",
   "resumo": "A Raízen anunciou a separação de suas operações e prevê um aumento de capital significativo. Isso pode afetar o mercado local e as oportunidades de negócios.",
   "fatos": [
@@ -13473,153 +13931,6 @@
  },
  {
   "segmento": "vpr",
-  "titulo": "Como o Natal Luz impacta vendas no varejo",
-  "resumo": "O patrocínio da Seara ao Natal Luz de Gramado mostra a importância de ações de marketing no aumento de vendas. O evento impulsiona o consumo nesta época do ano.",
-  "fatos": [
-   "A Seara é patrocinadora da 41ª edição do Natal Luz de Gramado.",
-   "A marca realiza degustações de seu produto Fiesta Seara durante o evento.",
-   "O Natal é uma das ocasiões mais importantes para o consumo de alimentos.",
-   "As ações de marketing ocorrem em locais estratégicos, como o Aeroporto Internacional Salgado Filho.",
-   "O evento vai de 22 de outubro de 2026 até janeiro de 2027."
-  ],
-  "numeros": [],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Indústria"
-  ],
-  "dor": "Medo de não se destacar no Natal e perder vendas",
-  "angulo": "O patrocínio da Seara ilustra como ações bem planejadas podem gerar visibilidade e vendas, evidenciando a necessidade de um marketing eficaz em épocas sazonais.",
-  "gancho": "*Atraia clientes no Natal!*",
-  "ideias": [
-   "Por que seu negócio precisa de marketing no Natal?",
-   "Como fazer ações de marketing que convertem?",
-   "A importância de conectar-se com o consumidor nessa época"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://mercadoeconsumo.com.br/24/10/2026/produtos/seara-patrocina-natal-luz-de-gramado-e-leva-degustacao-do-fiesta-ao-publico/",
-  "publicadoEm": "2026-10-24T17:52:28-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-25-vpr-05"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Por que sua marca precisa de uma estratégia de marketing agora?",
-  "resumo": "A recente ampliação do portfólio de beleza da Nissei destaca a importância de se adaptar às tendências do mercado. Entenda como isso pode impactar seu negócio.",
-  "fatos": [
-   "O Grupo Nissei lançou a PrettySkin, marca sul-coreana de skincare, em 9 de outubro.",
-   "O portfólio da PrettySkin inclui 31 SKUs com produtos de limpeza, hidratação e tratamento da pele.",
-   "A estratégia busca tornar a K-Beauty mais acessível com um posicionamento de preço competitivo.",
-   "Os produtos possuem QR Code para facilitar acesso a informações sobre os ativos.",
-   "A Nissei Beauty Center já conta com mais de 40 marcas e cerca de 2 mil SKUs."
-  ],
-  "numeros": [
-   {
-    "valor": "31",
-    "rotulo": "SKUs da nova linha de produtos"
-   },
-   {
-    "valor": "40",
-    "rotulo": "marcas no Nissei Beauty Center"
-   },
-   {
-    "valor": "2000",
-    "rotulo": "SKUs disponíveis no Nissei Beauty Center"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Comércio local",
-   "Prestadores de serviço",
-   "Indústria"
-  ],
-  "dor": "não acompanhar as tendências e perder vendas potenciais",
-  "angulo": "A movimentação do mercado evidencia a necessidade urgente de atualização nas estratégias de marketing e comunicação para não ficar para trás.",
-  "gancho": "*Transforme seu negócio com estratégias de marketing*",
-  "ideias": [
-   "5 Estratégias de marketing para impulsionar suas vendas",
-   "Como o e-commerce pode aumentar seu faturamento",
-   "A importância do atendimento ao cliente nas redes sociais"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://mercadoeconsumo.com.br/24/10/2026/noticias-varejo/nissei-amplia-portfolio-de-beleza-com-marca-sul-coreana-de-skincare/",
-  "publicadoEm": "2026-10-24T19:50:52-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-25-vpr-04"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Mudança de modelo impacta na experiência do cliente",
-  "resumo": "O Divino Fogão inova com o modelo 'Sirva-se Uma Vez', atraindo consumidores que buscam controle sobre os custos. Conheça as implicações dessa mudança no mercado.",
-  "fatos": [
-   "Divino Fogão mantém o formato por quilo em mais de 260 restaurantes.",
-   "O novo modelo tem atraído consumidores que valorizam o custo-benefício.",
-   "O tíquete médio por refeição é de R$ 55.",
-   "A rede já possui nove dark kitchens em São Paulo e na Bahia.",
-   "As dark kitchens podem gerar um faturamento adicional de 20% a 30% ao mês para os parceiros."
-  ],
-  "numeros": [
-   {
-    "valor": "20 a 30",
-    "rotulo": "faturamento adicional ao mês"
-   },
-   {
-    "valor": "9",
-    "rotulo": "unidades de dark kitchens"
-   },
-   {
-    "valor": "55",
-    "rotulo": "tíquete médio em reais"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Restaurantes",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perder vendas por não atender ao orçamento do cliente",
-  "angulo": "Essa mudança no Divino Fogão demonstra a importância de entender e se adaptar ao comportamento do consumidor. Explore como um planejamento estratégico pode alavancar seu negócio.",
-  "gancho": "Atenção aos *custos do cliente*",
-  "ideias": [
-   "Como o custo influencia na escolha do restaurante?",
-   "Novas formas de aumentar seu faturamento",
-   "A importância de entender seu consumidor"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://mercadoeconsumo.com.br/24/10/2026/foodservice/de-olho-no-orcamento-do-cliente-divino-fogao-aposta-no-modelo-sirva-se-uma-vez/",
-  "publicadoEm": "2026-10-24T15:42:34-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-25-vpr-03"
- },
- {
-  "segmento": "vpr",
   "titulo": "Vendas online vão crescer mais de 20% em breve",
   "resumo": "O comércio online deve registrar uma alta significativa nas vendas, superando os R$ 13,3 bilhões. Essa é uma oportunidade que os empresários não podem ignorar.",
   "fatos": [
@@ -13664,55 +13975,6 @@
   "publicadoEm": "2026-10-25T09:37:37-03:00",
   "data": "2026-10-25",
   "id": "2026-10-25-vpr-02"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Mudanças nas tarifas impactam comércio com Canadá",
-  "resumo": "EUA alteram lista de produtos canadenses com tarifas de 50%, o que pode afetar custos e vendas. Empresários precisam se atentar às mudanças.",
-  "fatos": [
-   "Os EUA anunciaram mudanças nas tarifas de 50% para produtos canadenses.",
-   "Itens como válvulas, carpetes e resíduos agora recebem impostos.",
-   "A mudança entra em vigor em 30 de outubro.",
-   "As tarifas foram impostas inicialmente em agosto de 2023.",
-   "Essa ação é uma tentativa de ajudar os republicanos nas eleições de meio de mandato."
-  ],
-  "numeros": [
-   {
-    "valor": "50",
-    "rotulo": "tarifa sobre produtos canadenses"
-   },
-   {
-    "valor": "30",
-    "rotulo": "data de vigência das novas tarifas"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "aumento de custos e diminuição nas vendas",
-  "angulo": "Entender essas mudanças pode ser crucial para o planejamento financeiro e estratégico da sua empresa. Um bom marketing pode ajudar a mitigar impactos negativos.",
-  "gancho": "Impactos das *novas tarifas* no seu negócio",
-  "ideias": [
-   "Tarifas podem afetar seu estoque?",
-   "Prepare-se para as mudanças tarifárias!",
-   "O que as tarifas alteradas significam para você?"
-  ],
-  "formatos": [
-   "Reels",
-   "Carrossel"
-  ],
-  "cena": "imposto",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://mercadoeconsumo.com.br/24/10/2026/economia/eua-fazem-mudancas-em-lista-de-produtos-canadenses-sujeitos-a-tarifas-de-50/",
-  "publicadoEm": "2026-10-24T16:43:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-25-vpr-01"
  },
  {
   "segmento": "trader",
@@ -14327,835 +14589,5 @@
   "publicadoEm": "2026-10-25T05:00:00-03:00",
   "data": "2026-10-25",
   "id": "2026-10-25-trader-01"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Diferenças regionais impactam o comércio eletrônico",
-  "resumo": "O comportamento de compra no Brasil varia significativamente entre regiões, influenciando estratégias no e-commerce e marketing digital.",
-  "fatos": [
-   "O comércio eletrônico no Brasil é afetado por diferenças regionais de comportamento do consumidor.",
-   "Essas particularidades demandam abordagens personalizadas e adaptadas às realidades locais.",
-   "Empresários precisam entender essas variações para otimizar suas vendas online."
-  ],
-  "numeros": [],
-  "fonte": "Confederação Nacional de Dirigentes Lojistas",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Perda de vendas ao ignorar comportamentos regionais",
-  "angulo": "Entender o comportamento regional é fundamental para criar estratégias eficazes e não perder oportunidades no e-commerce.",
-  "gancho": "Você sabe *como sua região compra online*?",
-  "ideias": [
-   "Cuidado com a diversidade regional",
-   "Venda mais conhecendo seu público",
-   "Adapte seu e-commerce ao local"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T20:50:10-03:00",
-  "url": "https://www.google.com/search?q=O+Brasil+n%C3%A3o+compra+do+mesmo+jeito%3A+as+diferen%C3%A7as+regionais+que+movimentam+o+com%C3%A9rcio+eletr%C3%B4nico+Confedera%C3%A7%C3%A3o+Nacional+de+Dirigentes+Lojistas",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T15:54:44-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-vpr-12"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Como o uso de secadores impacta sua conta de luz?",
-  "resumo": "Entender o consumo de energia de secadores e chapinhas é crucial para o bolso. Secadores podem gastar até 31 vezes mais energia do que chapinhas, impactando seu faturamento mensal.",
-  "fatos": [
-   "Um secador com potência de 2.000 W consome 0,5 kWh em 15 minutos, enquanto uma chapinha de 65 W consome apenas 0,016 kWh.",
-   "A diferença de consumo entre secadores e chapinhas varia entre 9 kWh a 15 kWh por mês, dependendo do modelo.",
-   "Em São Paulo, o custo do uso mensal de um secador de 2.000 W pode chegar a R$ 14,25, enquanto uma chapinha não ultrapassa R$ 0,50."
-  ],
-  "numeros": [
-   {
-    "valor": "31",
-    "rotulo": "diferença de consumo entre secador e chapinha"
-   },
-   {
-    "valor": "15",
-    "rotulo": "kWh que secadores consomem por mês"
-   },
-   {
-    "valor": "0,5",
-    "rotulo": "kWh consumidos por secador em 15 minutos"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Consumo",
-  "publico": [
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais"
-  ],
-  "dor": "Você pode estar perdendo dinheiro com consumo excessivo.",
-  "angulo": "O impacto das escolhas de consumo pode afetar diretamente a gestão financeira do seu negócio, tornando essencial estar informado sobre eficiência energética e custos.",
-  "gancho": "Descubra *como economizar na conta de luz!*",
-  "ideias": [
-   "Aposte na eficiência: secador ou chapinha?",
-   "Como reduzir seu consumo de energia?",
-   "Energia elétrica: como seus aparelhos impactam seu bolso?"
-  ],
-  "formatos": [
-   "Reels",
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T20:50:10-03:00",
-  "url": "https://canaltech.com.br/eletro/secador-ou-chapinha-qual-gasta-mais-energia-e-pesa-na-conta-de-luz/",
-  "publicadoEm": "2026-10-24T14:30:03-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-vpr-11"
- },
- {
-  "segmento": "vpr",
-  "titulo": "IA como aliada no impulsionamento de vendas",
-  "resumo": "A Decolar lançou a Mariana, uma IA via WhatsApp que ajuda parceiros de hospedagem com suporte contínuo e análise de dados. Essa ferramenta visa potencializar os negócios dos meios de hospedagem.",
-  "fatos": [
-   "Mariana é um concierge de IA que opera via WhatsApp, oferecendo suporte 24 horas.",
-   "A ferramenta analisa dados como reservas, diária média e cancelamentos, identificando oportunidades comerciais.",
-   "Ela auxilia na apresentação das propriedades, considerando fotos, descrições e avaliações para aumentar a visibilidade."
-  ],
-  "numeros": [],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perder vendas por falta de apoio tecnológico",
-  "angulo": "O avanço da tecnologia em IA pode ser um diferencial para seu negócio, ajudando na otimização de vendas e decisões estratégicas. Conheça como potencializar sua presença online!",
-  "gancho": "Descubra como *a IA pode transformar seu negocio!*",
-  "ideias": [
-   "Como a tecnologia está mudando o setor de hospedagem",
-   "A importância da IA para decisões comerciais",
-   "Aumente suas vendas com suporte automatizado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "celular",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T20:50:10-03:00",
-  "url": "https://mercadoeconsumo.com.br/24/10/2026/tecnologia/decolar-cria-assistente-de-ia-para-impulsionar-negocios-de-parceiros-de-hospedagem/",
-  "publicadoEm": "2026-10-24T15:37:24-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-vpr-10"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Vendas da Black Friday e Natal injetam R$ 9,04 bilhões",
-  "resumo": "Os períodos de Black Friday e Natal devem gerar um impacto significativo na economia regional, trazendo esperança para os empresários. Prepare-se para aproveitar essa oportunidade.",
-  "fatos": [
-   "As vendas da Black Friday e do Natal são esperadas para injetar R$ 9,04 bilhões na economia regional.",
-   "Esses eventos sazonais podem ser cruciais para recuperar as vendas durante o ano.",
-   "Empresários precisam estar preparados para atender à demanda crescente."
-  ],
-  "numeros": [
-   {
-    "valor": "9,04 bilhões",
-    "rotulo": "impacto econômico na região"
-   }
-  ],
-  "fonte": "Correio",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Perda de vendas e clientes durante as datas importantes",
-  "angulo": "Com o aumento das vendas, é essencial estar pronto com um site, gestão de redes e estratégias eficazes para não perder essa oportunidade.",
-  "gancho": "Prepare-se para a *maior venda do ano*!",
-  "ideias": [
-   "Como se preparar para a Black Friday?",
-   "Natal: Como atrair mais clientes?",
-   "Estratégias para maximizar suas vendas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T20:50:10-03:00",
-  "url": "https://www.google.com/search?q=Vendas+da+Black+Friday+e+do+Natal+devem+injetar+R%24+9%2C04+bilh%C3%B5es+na+economia+regional+Correio",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T12:42:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-vpr-09"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Expectativa de R$ 9,04 bilhões nas vendas",
-  "resumo": "As vendas na Black Friday e no Natal devem movimentar R$ 9,04 bilhões na economia regional. O impacto positivo nas vendas é uma grande oportunidade para investimentos em marketing.",
-  "fatos": [
-   "As vendas durante a Black Friday e o Natal têm grande potencial de gerar receitas significativas.",
-   "A expectativa de movimentação econômica é de R$ 9,04 bilhões.",
-   "Esses períodos são possibilidades para empresas se destacarem e atraírem novos clientes."
-  ],
-  "numeros": [
-   {
-    "valor": "9,04 bilhões",
-    "rotulo": "movimentação na economia regional"
-   }
-  ],
-  "fonte": "Correio",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "medo de perder vendas em datas importantes",
-  "angulo": "A alta expectativa de vendas pode ser um divisor de águas, mas para isso, é crucial que a empresa tenha uma estratégia de marketing eficaz.",
-  "gancho": "Oportunidade: *R$ 9,04 bilhões à vista!*",
-  "ideias": [
-   "Como potencializar suas vendas na Black Friday?",
-   "Prepare-se para o Natal: dicas de marketing!",
-   "Aproveite a temporada festiva e venda mais!"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T15:31:26-03:00",
-  "url": "https://www.google.com/search?q=Vendas+da+Black+Friday+e+do+Natal+devem+injetar+R%24+9%2C04+bilh%C3%B5es+na+economia+regional+Correio",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T12:42:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-vpr-07"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Meta Ads: IA promete 20% mais eficiência",
-  "resumo": "O suporte do Meta Ads, com o auxílio da inteligência artificial, conseguiu aumentar em 20% a eficácia na resolução de problemas nas contas. Essa mudança impacta diretamente as estratégias de anúncios e marketing digital.",
-  "fatos": [
-   "O suporte do Meta Ads agora utiliza inteligência artificial.",
-   "Essa inovação gerou um aumento de 20% na resolução de problemas.",
-   "A mudança pode impactar positivamente as estratégias de marketing."
-  ],
-  "numeros": [],
-  "fonte": "jornaltribuna.com.br",
-  "categoria": "Anúncios",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perde oportunidades por problemas não resolvidos em anúncios",
-  "angulo": "A adoção da IA pode otimizar seu suporte em campanhas, garantindo mais eficiência e resultados.",
-  "gancho": "Nova *tecnologia* melhora suporte em anúncios",
-  "ideias": [
-   "IA e o futuro dos anúncios",
-   "Aumente sua eficiência com Meta Ads",
-   "Como resolver problemas de conta com IA"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T15:31:26-03:00",
-  "url": "https://www.google.com/search?q=Suporte+do+Meta+Ads+com+IA+eleva+em+20%25+a+resolu%C3%A7%C3%A3o+de+problemas+de+conta+jornaltribuna.com.br",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T13:52:39-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-vpr-06"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Fim da escala 6x1 e seus impactos nas vendas",
-  "resumo": "O fim da escala 6x1 pode impactar cerca de 2,6 milhões de trabalhadores no RJ. Isso pode afetar diretamente as vendas em diversos setores.",
-  "fatos": [
-   "A mudança na escala de trabalho pode gerar aumento de custos para as empresas.",
-   "Com menos horas disponíveis, o atendimento ao cliente pode ser prejudicado.",
-   "O mercado pode enfrentar uma reestruturação para se adaptar a essas novas condições."
-  ],
-  "numeros": [
-   {
-    "valor": "2,6 milhões",
-    "rotulo": "trabalhadores afetados no RJ"
-   }
-  ],
-  "fonte": "A Tribuna RJ",
-  "categoria": "Atendimento",
-  "publico": [
-   "Comércio local",
-   "Prestadores de serviço",
-   "Indústria"
-  ],
-  "dor": "Redução nas vendas e dificuldade de atender clientes a tempo",
-  "angulo": "Com a necessidade de adaptar a gestão de equipe e processos, empresários devem considerar soluções de marketing eficientes para não perder oportunidades.",
-  "gancho": "Impactos do *fim da escala 6x1*",
-  "ideias": [
-   "Como o novo regime de trabalho afeta seu negócio?",
-   "Estratégias para manter vendas com menos funcionários",
-   "A importância de uma gestão eficiente nesta transição"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T15:31:26-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+pode+afetar+2%2C6+milh%C3%B5es+de+trabalhadores+no+RJ+A+Tribuna+RJ",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T14:49:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-vpr-05"
- },
- {
-  "segmento": "trader",
-  "titulo": "Salário mínimo pode impactar MEIs em 2027",
-  "resumo": "Projeção de aumento do salário mínimo pode gerar mais custos para microempreendedores individuais. É fundamental estar preparado para essas mudanças.",
-  "fatos": [
-   "O salário mínimo de 2027 poderá ter um aumento de R$ 120.",
-   "Esse aumento pode resultar em uma cobrança maior sobre os microempreendedores individuais (MEIs).",
-   "Com custos mais altos, os MEIs precisam se adaptar para manter suas margens de lucro."
-  ],
-  "numeros": [],
-  "fonte": "Economic News Brasil",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Autônomos",
-   "Profissionais liberais"
-  ],
-  "dor": "aumento de custos reduzindo lucros e oportunidades",
-  "angulo": "A crescente pressão sobre os MEIs reforça a importância de aprender a lidar com o mercado financeiro, buscando novas formas de geração de renda sem depender apenas do salário.",
-  "gancho": "*Prepare-se para mudanças* no mercado",
-  "ideias": [
-   "Como o aumento do salário mínimo pode afetar o MEI",
-   "Dicas para microempreendedores se adaptarem a novas cobranças",
-   "Por que aprender sobre finanças é crucial para os MEIs"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "imposto",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T20:50:10-03:00",
-  "url": "https://www.google.com/search?q=Sal%C3%A1rio+m%C3%ADnimo+de+2027+pode+subir+R%24+120+e+aumentar+cobran%C3%A7a+sobre+MEIs+Economic+News+Brasil",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T17:16:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-12"
- },
- {
-  "segmento": "trader",
-  "titulo": "Mudança no patrocínio do McDonald's impacta negócios",
-  "resumo": "A McDonald's encerra um patrocínio de 32 anos com a FIFA, reformulando sua estratégia de marketing. Essa mudança pode afetar agências e empresas envolvidas na publicidade e marketing.",
-  "fatos": [
-   "O McDonald's não renovará seu contrato de patrocínio com a FIFA, vigente desde 1994.",
-   "A decisão é parte de uma reformulação na estratégia de marketing da rede.",
-   "A última campanha da marca para a Copa de 2026 foi descrita como seu maior esforço de marketing do ano, mas não atendeu às expectativas.",
-   "O impacto da mudança pode refletir nos acordos de mídia da FIFA, especialmente no Brasil."
-  ],
-  "numeros": [
-   {
-    "valor": "110",
-    "rotulo": "países alcançados pela campanha"
-   },
-   {
-    "valor": "32",
-    "rotulo": "anos de patrocínio com a FIFA"
-   }
-  ],
-  "fonte": "Exame",
-  "categoria": "Negócios",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados"
-  ],
-  "dor": "receio de perder oportunidades de patrocínio e visibilidade",
-  "angulo": "A mudança na estratégia do McDonald's pode inspirar empresários a buscar novas formas de gerar visibilidade e receita, explorando o mercado financeiro como alternativa.",
-  "gancho": "McDonald's encerra patrocínio: *o que vem por aí?*",
-  "ideias": [
-   "Como a mudança no McDonald's impacta o mercado?",
-   "Reformulação de marcas: uma oportunidade para novos negócios!",
-   "Patrocínios em queda? Entenda o que isso significa."
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "imposto",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T20:50:10-03:00",
-  "url": "https://exame.com/marketing/mcdonalds-encerra-patrocinio-da-copa-do-mundo-apos-32-anos-diz-site/",
-  "publicadoEm": "2026-10-24T14:52:38-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-11"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 e novas realidades trabalhistas",
-  "resumo": "A automação nas empresas cresce com o fim da escala 6x1, impactando a necessidade de mão de obra. O desafio agora é a busca por novas formas de renda.",
-  "fatos": [
-   "O encerramento da escala 6x1 em empresas acelera a automação.",
-   "Essa mudança tem levado à dispensa de trabalhadores.",
-   "O cenário exige adaptação de profissionais que dependem apenas de um emprego fixo."
-  ],
-  "numeros": [],
-  "fonte": "Acia Araçatuba",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "Medo de perder o emprego e a estabilidade financeira.",
-  "angulo": "Aprender sobre o mercado financeiro pode ser uma ferramenta valiosa para gerar renda sem depender de escala ou chefe.",
-  "gancho": "A nova realidade do trabalho: *automação e desemprego*",
-  "ideias": [
-   "Como a automação muda o mercado de trabalho?",
-   "A importância de diversificar suas fontes de renda.",
-   "Dicas para se preparar para o futuro do trabalho."
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T20:50:10-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+acelera+automa%C3%A7%C3%A3o+e+dispensa+trabalhadores+Acia+Ara%C3%A7atuba",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T16:35:25-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-10"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 e suas implicações",
-  "resumo": "O término da escala 6x1 traz à tona a necessidade de mudanças na rotina de trabalho das empresas. Essa nova realidade impacta tanto empregados quanto empresários.",
-  "fatos": [
-   "As empresas precisarão se adaptar às novas dinâmicas de trabalho.",
-   "A mudança na escala pode afetar a produtividade e os custos operacionais.",
-   "Profissionais autônomos e CLT devem estar atentos às novas oportunidades."
-  ],
-  "numeros": [],
-  "fonte": "Capital News",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos"
-  ],
-  "dor": "perda da estabilidade no emprego e da renda fixa",
-  "angulo": "Adaptar-se ao novo cenário do trabalho é essencial e o mercado financeiro pode proporcionar alternativas para gerar renda, livre das amarras tradicionais.",
-  "gancho": "Mudanças no trabalho: *o que fazer agora?*",
-  "ideias": [
-   "A nova rotina de trabalho e suas consequências",
-   "Como o mercado financeiro pode ajudar",
-   "Alternativas de renda: menos amarras, mais oportunidades"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T20:50:10-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1%3A+veja+o+que+as+empresas+precisam+mudar+na+rotina+de+trabalho+Capital+News",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T18:08:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-09"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 afeta economia e emprego",
-  "resumo": "O término da escala 6x1 pode causar impactos econômicos significativos no curto prazo e até levar à recessão em 2027, conforme análise da Abrasel.",
-  "fatos": [
-   "O fim da escala 6x1 altera a dinâmica de trabalho de muitos profissionais.",
-   "Mudanças nas jornadas podem gerar incertezas nos negócios.",
-   "A Abrasel aponta que essa situação pode impactar a economia do país."
-  ],
-  "numeros": [],
-  "fonte": "Economic News Brasil",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados"
-  ],
-  "dor": "A instabilidade pode afetar garantias de renda e segurança no trabalho.",
-  "angulo": "Aprender sobre o mercado financeiro pode ser uma alternativa para diversificar a renda e enfrentar incertezas.",
-  "gancho": "*Impacto do fim da escala* nos negócios",
-  "ideias": [
-   "Trabalho flexível: entenda os impactos!",
-   "Como a escala 6x1 afeta seu bolso?",
-   "Investir no futuro: mercado financeiro é a solução?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T15:31:26-03:00",
-  "url": "https://www.google.com/search?q=Impacto+econ%C3%B4mico+do+fim+da+escala+6x1+pode+levar+%C3%A0+recess%C3%A3o+em+2027%2C+diz+Abrasel+Economic+News+Brasil",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T12:12:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-08"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 e seu impacto na aposentadoria",
-  "resumo": "A redução da jornada de trabalho pode impactar as contribuições ao INSS e a futura aposentadoria dos trabalhadores. Entenda como isso afetará suas finanças.",
-  "fatos": [
-   "O fim da escala 6x1 pode trazer mudanças significativas na jornada de trabalho.",
-   "Essa mudança pode afetar as contribuições ao INSS.",
-   "Consequentemente, pode impactar a aposentadoria dos trabalhadores."
-  ],
-  "numeros": [],
-  "fonte": "Radio Caxias FM",
-  "categoria": "Previdência",
-  "publico": [
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados"
-  ],
-  "dor": "medo de ter aposentadoria comprometida",
-  "angulo": "Compreender as implicações da nova escala pode motivar a busca por aprender sobre investimentos e garantir uma aposentadoria financeira mais segura.",
-  "gancho": "Mudanças na *jornada de trabalho* impactam aposentadorias",
-  "ideias": [
-   "O que muda com o fim da escala 6x1?",
-   "Prepare-se para a aposentadoria mesmo com novas jornadas!",
-   "Entenda como a sua contribuição ao INSS pode mudar"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T15:31:26-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6%C3%971%3A+redu%C3%A7%C3%A3o+da+jornada+pode+afetar+contribui%C3%A7%C3%A3o+ao+INSS+e+aposentadoria%3F+advogada+previdenci%C3%A1ria+explica+Radio+Caxias+FM",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T13:02:40-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-07"
- },
- {
-  "segmento": "trader",
-  "titulo": "Construtoras precisam de novos trabalhadores com fim da escala 6x1",
-  "resumo": "O fim da escala 6x1 pode levar construtoras a demandar quase 300 mil trabalhadores. Isso se reflete diretamente na necessidade de adaptação do mercado de trabalho.",
-  "fatos": [
-   "As construtoras enfrentam a necessidade de quase 300 mil novos empregados após o término da escala 6x1.",
-   "Os trabalhadores nessa área podem receber salários em torno de R$ 31 mil por ano.",
-   "Esse movimento afeta a dinâmica do mercado de trabalho e pode impactar os custos de projetos."
-  ],
-  "numeros": [
-   {
-    "valor": "300000",
-    "rotulo": "novos trabalhadores necessários"
-   },
-   {
-    "valor": "31",
-    "rotulo": "salário anual em mil reais"
-   }
-  ],
-  "fonte": "Diário do Litoral",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "medo de não conseguir emprego ou renda estável",
-  "angulo": "O novo cenário do mercado pode ser uma oportunidade para aprender sobre investimentos e diversificar a renda, livrando-se de amarras como horários fixos.",
-  "gancho": "Construtoras *buscam 300 mil trabalhadores novos*",
-  "ideias": [
-   "Como o fim da escala 6x1 afeta seu trabalho?",
-   "A nova demanda no setor de construção",
-   "Diversifique sua renda com o mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T15:31:26-03:00",
-  "url": "https://www.google.com/search?q=Ap%C3%B3s+fim+da+escala+6%C3%971%2C+construtoras+podem+precisar+de+quase+300+mil+novos+trabalhadores+com+sal%C3%A1rios+de+R%24+31+mil+por+ano%3B+veja+impactos+Di%C3%A1rio+do+Litoral",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T14:04:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-06"
- },
- {
-  "segmento": "trader",
-  "titulo": "Impacto do fim da escala 6x1 no mercado",
-  "resumo": "Com o fim da escala 6x1, 2,6 milhões de trabalhadores no RJ podem ter suas jornadas alteradas, impactando o dia a dia e as finanças pessoais. Isso traz novas oportunidades no mercado financeiro.",
-  "fatos": [
-   "O fim da escala 6x1 pode afetar a jornada de trabalho de muitos profissionais.",
-   "2,6 milhões de trabalhadores no RJ estão envolvidos diretamente.",
-   "Mudanças na carga horária podem levar a reflexões sobre diversificação de renda."
-  ],
-  "numeros": [],
-  "fonte": "A Tribuna RJ",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Autônomos",
-   "Profissionais liberais"
-  ],
-  "dor": "Incerteza sobre como o pagamento será impactado.",
-  "angulo": "Aprender sobre o mercado financeiro pode ajudar a diversificar a renda e criar novas oportunidades, mitigando os riscos da mudança na jornada de trabalho.",
-  "gancho": "O *fim da escala 6x1* e suas consequências",
-  "ideias": [
-   "Como a jornada de trabalho influencia suas finanças?",
-   "Diversifique sua renda além do salário",
-   "O que fazer com as mudanças no trabalho?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T15:31:26-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+pode+afetar+2%2C6+milh%C3%B5es+de+trabalhadores+no+RJ+A+Tribuna+RJ",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T14:49:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-05"
- },
- {
-  "segmento": "trader",
-  "titulo": "O futuro da economia e seu impacto financeiro",
-  "resumo": "As propostas de Lula e Flávio Bolsonaro para o Imposto de Renda e IVA impactam diretamente o bolso do trabalhador. Entenda como essas mudanças podem influenciar a vida financeira de diferentes grupos.",
-  "fatos": [
-   "Lula quer manter a isenção do IR para quem recebe até R$ 5 mil por mês, com foco na taxação de grandes rendas.",
-   "Flávio Bolsonaro propõe rever a reforma tributária e diminuir o Imposto sobre Valor Agregado (IVA).",
-   "9 em cada 10 contribuintes terão isenção total ou parcial, beneficiando cerca de 10 milhões de pessoas.",
-   "A nova lei do IR, sancionada em 2025, prevê uma renúncia de R$ 25,84 bilhões para 2026.",
-   "Lula também defende o cashback para famílias de baixa renda e uma cesta básica isenta."
-  ],
-  "numeros": [
-   {
-    "valor": "25,84 bilhões",
-    "rotulo": "renúncia estimada para 2026"
-   },
-   {
-    "valor": "10 milhões",
-    "rotulo": "pessoas que deixarão de pagar IR"
-   },
-   {
-    "valor": "9 em 10",
-    "rotulo": "contribuintes com isenção total ou parcial"
-   },
-   {
-    "valor": "5 mil",
-    "rotulo": "renda mensal isenta de IR"
-   }
-  ],
-  "fonte": "Exame",
-  "categoria": "Impostos",
-  "publico": [
-   "CLT",
-   "Empresários",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "medo de perder a isenção e afetar o orçamento",
-  "angulo": "Entender a proposta tributária pode ajudar a moldar um futuro financeiro mais seguro e potencialmente lucrativo para você, por meio de investimentos no mercado financeiro.",
-  "gancho": "*O que muda no seu bolso?*",
-  "ideias": [
-   "Como a reforma tributária impacta sua renda?",
-   "Isenção de IR: você está preparado?",
-   "O futuro do IVA e como afeta seu dia a dia"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T10:40:44-03:00",
-  "url": "https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-para-imposto-de-renda-e-iva/",
-  "publicadoEm": "2026-10-24T06:00:53-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-04"
- },
- {
-  "segmento": "trader",
-  "titulo": "França vive protestos contra *alto custo de vida*",
-  "resumo": "França volta às ruas em ato contra o aumento no custo de vida, refletindo a insatisfação da população. A situação demanda atenção urgente para o impacto no dia a dia das famílias.",
-  "fatos": [
-   "Os cidadãos franceses estão se manifestando contra o alto custo de vida, que pesa no bolso.",
-   "Esses protestos são uma resposta direta ao aumento contínuo de preços em diversas áreas.",
-   "O forte policiamento reflete a tensão nas ruas e a seriedade das reivindicações."
-  ],
-  "numeros": [],
-  "fonte": "Terra",
-  "categoria": "Custo de vida",
-  "publico": [
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "perda de poder de compra e aumento das despesas",
-  "angulo": "Aprender a lidar com as finanças é essencial para não depender apenas de um salário fixo e enfrentar instabilidades.",
-  "gancho": "Como enfrentar *os altos custos da vida*?",
-  "ideias": [
-   "Por que não depender só do salário?",
-   "Como aprender a investir e ter liberdade financeira",
-   "Dicas para enfrentar o aumento do custo de vida"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T10:40:44-03:00",
-  "url": "https://www.google.com/search?q=Sob+forte+tens%C3%A3o+e+policiamento%2C+Fran%C3%A7a+volta+%C3%A0s+ruas+para+novo+ato+contra+alto+custo+de+vida+Terra",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T08:34:00-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-03"
- },
- {
-  "segmento": "trader",
-  "titulo": "Custo de vida pressiona eleições e os cidadãos",
-  "resumo": "O debate eleitoral aborda temas cruciais como custo de vida, saúde e programas sociais. Os impactos desses assuntos afetam diretamente o bolso dos cidadãos e a administração de negócios.",
-  "fatos": [
-   "O último debate eleitoral trouxe à tona a discussão sobre o custo de vida.",
-   "Os candidatos trocaram acusações relacionadas a temas como saúde e programas sociais.",
-   "A preocupação com a administração dos recursos públicos é crescente entre os eleitores."
-  ],
-  "numeros": [],
-  "fonte": "Diário de Goiás",
-  "categoria": "Custo de vida",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "o que as pessoas gastam não para de aumentar",
-  "angulo": "Com o custo de vida em alta, aprender sobre o mercado financeiro se torna uma habilidade crucial para gerar renda e aliviar as preocupações financeiras atuais.",
-  "gancho": "Aumento do *custo de vida* é tema central",
-  "ideias": [
-   "Como o custo de vida afeta seu trabalho?",
-   "Entenda o impacto do custo de vida nos negócios",
-   "Custo de vida: como se preparar financeiramente"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T10:40:44-03:00",
-  "url": "https://www.google.com/search?q=%C3%9Altimo+debate+antes+da+elei%C3%A7%C3%A3o+tem+troca+de+acusa%C3%A7%C3%B5es+e+discuss%C3%A3o+sobre+custo+de+vida%2C+sa%C3%BAde+e+programas+sociais+Di%C3%A1rio+de+Goi%C3%A1s",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T08:39:26-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-02"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1: impacto nos contratos",
-  "resumo": "A mudança da escala 6x1 pode influenciar a relação entre empregados e empregadores nos contratos administrativos. Isso traz novas dinâmicas para o mercado de trabalho.",
-  "fatos": [
-   "A mudança na escala de trabalho pode afetar a necessidade de profissionais para cumprir o horário estabelecido.",
-   "Empregadores e empregados terão que se adaptar às novas exigências legais.",
-   "Esse novo cenário pode elevar os custos de operação para empresas que atendem a administração pública."
-  ],
-  "numeros": [],
-  "fonte": "Consultor Jurídico",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Empresários"
-  ],
-  "dor": "Aumento nos custos e incertezas contratuais.",
-  "angulo": "Entender essas mudanças é essencial para profissionais e empresários que buscam estratégias que não dependam apenas de uma jornada fixa de trabalho.",
-  "gancho": "Novo cenário: *como se preparar*?",
-  "ideias": [
-   "Como a nova escala muda seu contrato?",
-   "Impactos da mudança de escala no trabalho",
-   "Prepare-se para o fim da escala 6x1"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-24T10:40:44-03:00",
-  "url": "https://www.google.com/search?q=Qual+o+impacto+do+fim+da+escala+6x1+nos+contratos+administrativos%3F+Consultor+Jur%C3%ADdico",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-24T09:22:23-03:00",
-  "data": "2026-10-24",
-  "id": "2026-10-24-trader-01"
  }
 ]
