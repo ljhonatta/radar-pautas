@@ -1,6 +1,792 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Varejo físico em queda: 1,9% no 3º trimestre",
+  "resumo": "Segundo a Seed, o varejo físico enfrentou uma redução de 1,9% no terceiro trimestre, refletindo desafios para os empresários do setor. É crucial adaptar estratégias para manter a competitividade.",
+  "fatos": [
+   "O varejo físico teve uma queda de 1,9% no terceiro trimestre deste ano.",
+   "A informação foi divulgada pela Seed, especializada em dados de mercado.",
+   "Esse recuo indica um cenário desafiador para os empresários do setor."
+  ],
+  "explicacao": [
+   "A queda no varejo físico reflete as mudanças no comportamento do consumidor, que cada vez mais busca alternativas online.",
+   "Com a concorrência acirrada, é essencial que os empresários se adaptem para não perder vendas.",
+   "A situação demanda uma atenção especial em estratégias de marketing, principalmente no digital."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Vendas em queda e dificuldade em atrair clientes.",
+  "angulo": "Entender o cenário de queda no varejo físico pode mostrar a importância de uma presença online forte e estratégias inteligentes de marketing.",
+  "gancho": "Como reverter a *queda nas vendas*?",
+  "ideias": [
+   "Adapte-se à nova era do varejo",
+   "O que a queda do varejo físico significa?",
+   "Como sua loja pode sobreviver ao recuo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://www.ecommercebrasil.com.br/noticias/varejo-fisico-recua-terceiro-trimestre-2026",
+  "publicadoEm": "2026-11-05T11:29:28-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Indústria enfrenta quedas, empresários precisam agir!",
+  "resumo": "A produção industrial do Brasil caiu 0,8% em setembro, continuando uma tendência de retração. Empresários precisam se adaptar para não perder mais mercado.",
+  "fatos": [
+   "A produção industrial recuou 0,8% de agosto para setembro, a quarta queda em cinco meses.",
+   "Nos últimos cinco meses, a perda acumulada é de 4,1%.",
+   "Atualmente, a indústria está 16,5% abaixo do pico de maio de 2011.",
+   "Das 25 atividades analisadas, 17 apresentaram resultados negativos.",
+   "Bens de capital e de consumo semi e não duráveis sofreram quedas de 1,9% e 1,2%, respectivamente."
+  ],
+  "explicacao": [
+   "A queda na produção industrial reflete uma clara redução na taxa de crescimento do setor.",
+   "Com a redução da produção, muitos empresários poderão enfrentar dificuldades financeiras.",
+   "É fundamental que as empresas se adaptem ao novo cenário, adotando estratégias de marketing digital."
+  ],
+  "materia": "A produção da indústria brasileira apresentou queda de 0,8% na passagem de agosto para setembro. O resultado representa a quarta retração no intervalo de cinco meses. Os dados fazem parte da Pesquisa Industrial Mensal (PIM), divulgada nesta quinta-feira, 5, pelo Instituto Brasileiro de Geografia e Estatística ( IBGE ). De acordo com a Secretaria de Política Econômica do Ministério da Fazenda, o dado de setembro veio abaixo da mediana das expectativas de mercado (-0,4%). No acumulado de 12 meses, a produção industrial apresenta alta de 0,2%. De acordo com o analista da pesquisa, André Macedo, o desempenho das fábricas brasileiras nos últimos meses revelam “clara redução na magnitude de crescimento”. Nos cinco últimos meses, a perda acumulada chega a 4,1%, o que elimina parte do ganho de 4,2% verificado nos quatro primeiros meses do ano. Com os números de setembro, a indústria fica posicionada 16,5% abaixo do patamar mais alto já registrado, que pertence a maio de 2011. Veja o comportamento do setor nos últimos meses: Setembro: -0,8% Agosto: -07% Julho: 0% Junho: -1,6% Maio: -1% Queda disseminada Macedo detalha que na passagem de agosto para setembro, houve “perfil disseminado de taxas negativas”, alcançando três das quatro grandes categorias econômicas e 17 das 25 atividades industriais pesquisadas. Veja o comportamento por grande categoria econômica: bens de capital (máquinas e equipamentos): -1,9% bens de consumo semi e não duráveis: -1,2% bens intermediários (produtos utilizados na produção de outros bens): -0,7% bens de consumo duráveis: 0,7% Entre as atividades, as principais influências negativas foram coque (derivado do carvão), produtos derivados do petróleo e biocombustíveis (-4,2%) e produtos alimentícios (-1,7%). Macedo explica que a produção de álcool etílico e de açúcar responderam por grande parte das perdas. “Vale destacar que essas atividades foram pressionadas pela redução no processamento da cana-de-açúcar, refletindo, em grande parte, os impactos provocados pelo maior volume de chuvas”. Por outro lado, o crescimento nas indústrias extrativas (1,7%) exerceu a principal influência positiva na média da indústria. “Nesta atividade, os destaques ficaram por conta da maior extração de óleos brutos do petróleo, gás natural e minérios de ferro”, analisa. Em relação a setembro do ano passado, a produção industrial caiu 2,5%, o recuo mais acentuado desde março de 2024 (-2,9%). O IBGE aponta que a comparação foi afetada pelo efeito calendário (setembro de 2026 teve um dia útil a menos) e por uma elevada base de comparação, já que a indústria avançou 2% em setembro de 2025. Com informações de Agência Brasil. Imagem: Envato O post Produção da indústria recua 0,8% em setembro; 4ª queda em cinco meses apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "0,8%",
+    "rotulo": "queda da produção industrial em setembro"
+   },
+   {
+    "valor": "4,1%",
+    "rotulo": "perda acumulada nos últimos cinco meses"
+   },
+   {
+    "valor": "16,5%",
+    "rotulo": "indústria abaixo do pico de 2011"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "queda nas vendas e dificuldade de crescimento",
+  "angulo": "A retração da produção industrial indica a urgência de um plano de marketing eficaz, essencial para reposicionar sua empresa no mercado.",
+  "gancho": "*Indústria em queda!* Como reagir?",
+  "ideias": [
+   "Adapte seu negócio à nova realidade!",
+   "Como a queda da indústria afeta seu bolso?",
+   "Venda mais em tempos de crise: dicas essenciais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://mercadoeconsumo.com.br/05/11/2026/economia/producao-da-industria-recua-08-em-setembro-4a-queda-em-cinco-meses/",
+  "publicadoEm": "2026-11-05T11:12:59-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A importância da qualidade de dados na Black Friday",
+  "resumo": "Dados ruins podem aumentar cancelamentos e afetar vendas na Black Friday. Preparação e qualidade das informações são cruciais para evitar prejuízos no comércio eletrônico.",
+  "fatos": [
+   "A Black Friday acontece em novembro, com preparativos começando em outubro.",
+   "23,5 milhões de brasileiros têm afinidade com a data, 86,4% são compradores online.",
+   "60% das empresas analisadas apresentam problemas com endereço ou telefone dos clientes.",
+   "Falhas nos dados podem gerar pedidos cancelados e dificuldades logísticas.",
+   "A integridade da informação é essencial para a experiência do consumidor e para a reputação da marca."
+  ],
+  "explicacao": [
+   "Com o aumento do tráfego e das transações durante a Black Friday, as inconsistências de dados se tornam críticas.",
+   "Um mesmo produto pode ter informações divergentes em diferentes plataformas, levando a cancelamentos e insatisfações.",
+   "A revisão e padronização de dados são passos fundamentais para garantir uma operação eficiente e evitar prejuízos."
+  ],
+  "materia": "Falhas na qualidade dos dados de produtos, clientes e estoques podem comprometer entregas, aumentar cancelamentos e pressionar o atendimento durante o maior evento promocional do varejo A Black Friday acontece em novembro, mas os desafios operacionais do comércio eletrônico começam muito antes de o consumidor colocar um produto no carrinho. Em outubro, enquanto varejistas intensificam os preparativos para a data, a qualidade dos dados que sustentam as operações digitais se torna um fator decisivo para evitar problemas de estoque, entrega e atendimento em um dos períodos de maior demanda do ano. Um levantamento da Serasa Experian identificou 23,5 milhões de brasileiros com afinidade com a Black Friday, dos quais 86,4% apresentam perfil de comprador online. O dado reforça a importância de uma operação preparada para lidar com o aumento do tráfego, dos pedidos e das informações que circulam entre plataformas de venda, sistemas de gestão, centros de distribuição e transportadoras. Um dos riscos menos visíveis está na inconsistência dos dados. Cadastros duplicados de produtos, descrições divergentes, códigos SKU incompatíveis entre sistemas, informações incorretas de endereço e telefone e estoques sem sincronização podem gerar consequências que vão muito além de erros administrativos. Na prática, essas falhas podem resultar em pedidos cancelados, produtos indisponíveis após a compra, entregas frustradas e aumento da demanda nos canais de atendimento. Um diagnóstico da 4MDG identificou que 60% das empresas analisadas apresentavam problemas relacionados a endereço ou telefone. O dado chama a atenção para uma etapa frequentemente negligenciada na preparação para a Black Friday: a confiabilidade das informações utilizadas para identificar clientes, processar pedidos e viabilizar a entrega dos produtos. A complexidade aumenta à medida que o varejista integra diferentes canais e ferramentas. Um mesmo produto pode aparecer com descrições, códigos ou informações de estoque diferentes no site, no marketplace e no sistema de gestão. Da mesma forma, um endereço desatualizado ou um telefone incorreto pode dificultar a confirmação de uma compra, a comunicação com o consumidor e a resolução de problemas logísticos. “Essas inconsistências tendem a ganhar relevância em períodos de pico, quando o volume de transações cresce e as equipes precisam responder a um número maior de solicitações em menos tempo. Uma falha que passaria despercebida em um dia de movimento regular pode se multiplicar em centenas de pedidos, ampliando custos operacionais e prejudicando a experiência do consumidor”, diz Paulo Cordeiro, CEO e fundador da 4MDG, plataforma especializada em Gestão de Dados Mestres (MDM) e automação de cadastros corporativos. O impacto também pode chegar à reputação da marca. Para o cliente, pouco importa se o problema começou em um cadastro duplicado, em uma integração entre sistemas ou em uma informação desatualizada: a percepção é de que a loja não cumpriu o que prometeu. “ A prevenção exige uma revisão dos dados e dos processos que conectam as diferentes etapas da operação. Entre as medidas estão a identificação e a eliminação de cadastros duplicados, a padronização das informações de produtos, a validação dos dados de contato e endereço, a conciliação dos códigos SKU e o monitoramento da sincronização de estoque entre os canais de venda”, explica. Também é importante verificar se as integrações entre plataformas estão funcionando corretamente e se existem mecanismos para identificar divergências antes que elas afetem os pedidos. Quanto mais cedo os problemas forem detectados, menor a probabilidade de se transformarem em cancelamentos, atrasos e retrabalho durante a Black Friday. “A preparação para a data, portanto, não depende apenas de campanhas, descontos, mídia e capacidade logística. A consistência das informações que circulam pela operação é parte da infraestrutura que permite ao varejo transformar o aumento da procura em vendas efetivamen",
+  "numeros": [
+   {
+    "valor": "23,5 milhões",
+    "rotulo": "brasileiros com afinidade com a Black Friday"
+   },
+   {
+    "valor": "86,4%",
+    "rotulo": "compradores online entre os afinados"
+   },
+   {
+    "valor": "60%",
+    "rotulo": "empresas com problemas de dados"
+   }
+  ],
+  "fonte": "Estadão Blue Studio",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "Cancelamentos elevados e frustração com a experiência do cliente",
+  "angulo": "A necessidade de dados precisos pode impulsionar o interesse em gestão de dados, planejamento estratégico e automação, essenciais para prevenir perdas.",
+  "gancho": "*Dados ruins podem custar caro* na Black Friday",
+  "ideias": [
+   "Prepare seu negócio para a Black Friday!",
+   "Dados precisos = Vendas garantidas",
+   "Evite cancelamentos com gestão eficiente"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/releases/qualidade-de-dados-black-friday-cancelamentos/",
+  "publicadoEm": "2026-11-05T12:29:02-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Varejo cearense pode crescer com fim das apostas",
+  "resumo": "O fechamento das plataformas de apostas impulsiona vendas no e-commerce no Ceará, indicando uma mudança no comportamento do consumidor. O varejo online já registra crescimento significativo.",
+  "fatos": [
+   "O fim das plataformas de apostas foi oficializado em 25 de setembro.",
+   "O varejo online no Ceará cresceu 18,5% entre janeiro e outubro de 2023.",
+   "O Nordeste teve um aumento de 6,5% no consumo após a proibição das bets.",
+   "Os e-commerces esperam captar o dinheiro que antes ia para as apostas.",
+   "Em outubro de 2023, o Ceará respondeu por 2,8% do faturamento de compras online no Brasil."
+  ],
+  "explicacao": [
+   "A proibição das apostas direcionou o dinheiro antes consumido nessas plataformas para o e-commerce.",
+   "A expectativa é que os varejistas online se beneficiem com esse redirecionamento dos gastos dos consumidores.",
+   "Embora as vendas estejam aumentando, a média de itens por pedido caiu 4,5%, mostrando mudanças no comportamento do consumidor."
+  ],
+  "materia": "Plataformas de e-commerce devem captar parte dos antigos apostadores, segundo o E-Commerce Brasil (ECBR). O setor de varejo online acredita que o fim das bets deve ampliar as vendas do e-commerce no Ceará. A avaliação é do conselheiro do E-Commerce Brasil (ECBR), Ângelo Vicente, durante o evento Regional ECBR CE, nesta quarta-feira (4), em Fortaleza. Segundo Vicente, o dinheiro antes destinado às apostas começa a ser redirecionado para o consumo , e o comércio digital deve captar parte desse valor. “Se tem dinheiro que era destinado a apostas e começa a ficar disponível de uma forma geral, vai conseguir transferir isso para os canais digitais\", apontou. \"O que aconteceu, para efeito de aumento de consumo, no varejo físico vai também escoar para o online”, completou. O impacto das apostas no varejo já havia sido citado por grandes nomes do setor, como a presidente do Conselho do Magazine Luiza, Luiza Trajano, que apontou o fator como componente da crise do varejo. O movimento também já foi observado no segmento supermercadista. De acordo com a Associação Brasileira de Supermercados (Abras), o consumo no varejo alimentar subiu em todo o País após a proibição das plataformas de apostas, oficializada em 25 de setembro. O Nordeste registrou a terceira maior alta, de 6,5%. No Ceará, a Associação Cearense de Supermercados (Acesu) observou crescimento no consumo de itens como arroz, óleo, macarrão e café após o fim das bets. Comissão do Senado aprova projeto que veta propaganda de bets MP de proibição das bets prevê sanções para empresas e plataformas que descumprirem regras SUS anuncia 100 mil teleatendimentos mensais para pessoas com vício em bets Somente entre janeiro e outubro deste ano, o varejo online no Ceará cresceu 18,5% em relação ao mesmo período de 2025. Alyne Cosméticos prepara primeira exportação e prevê chegar a mil empregos diretos em Maranguape Cearense Aeris pede recuperação extrajudicial para renegociar R$ 1,5 bilhão em dívidas Foram R$ 10 bilhões em mercadorias, totalizando 57 milhões de unidades em pouco mais de 30 milhões de pedidos online, conforme dados de levantamento elaborado pela Confi, por meio da Neotrust, em parceria com o ECBR. A média segue em R$ 1 bilhão mensal, mesmo em outubro, já com as bets proibidas no Brasil. Com essas cifras, o Ceará responde por 2,8% do faturamento de compras online no Brasil em 2026, que, até outubro, totalizou R$ 350 bilhões. Esses números, no entanto, contrastam com uma redução expressiva nos volumes comprados. Foram em média 1,88 item por pedido no Estado, 4,5% a menos do que entre janeiro e outubro de 2025. O preço médio dos produtos caiu cerca de 10%, para R$ 176,16, e o tíquete médio recuou 13,7%, para R$ 331,24, nos dez primeiros meses do ano. Para o head de negócios da Neotrust, Léo Bicalho, o Ceará ainda enfrenta desafios importantes, como a discrepância no custo do frete , mas revela amadurecimento do mercado cearense de compras online. “O Nordeste, a partir de 2024, se tornou o segundo mercado mais relevante de faturamento no e-commerce do País. É um caminho de evolução, e o e-commerce está trabalhando para chegar a essa maturidade e atender melhor essas outras regiões”, afirmou. Bicalho ressalta que as compras em lojas físicas, sobretudo as de grandes varejistas nacionais, continuam como “diferencial frente às principais redes de marketplace”. No entanto, pondera que os estabelecimentos cearenses “cada vez mais têm concorrência do online”.",
+  "numeros": [
+   {
+    "valor": "6,5%",
+    "rotulo": "aumento no consumo no Nordeste"
+   },
+   {
+    "valor": "18,5%",
+    "rotulo": "crescimento do varejo online no Ceará"
+   },
+   {
+    "valor": "2,8%",
+    "rotulo": "participação do Ceará no e-commerce brasileiro"
+   }
+  ],
+  "fonte": "Diário do Nordeste",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de clientes e vendas se não se adaptarem",
+  "angulo": "O cenário indica que a presença digital se torna essencial para os varejistas, mostrando a necessidade de um site eficiente e estratégia em redes sociais.",
+  "gancho": "Como *vender mais* no e-commerce sem apostas",
+  "ideias": [
+   "Impacto das apostas no varejo cearense",
+   "Crescimento do e-commerce após proibição",
+   "Mudança de comportamento do consumidor no Ceará"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://diariodonordeste.verdesmares.com.br/negocios/fim-das-bets-deve-ampliar-vendas-do-varejo-online-no-ceara-diz-setor-1.3803393",
+  "publicadoEm": "2026-11-05T14:00:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday 2026: Marcas precisam repensar estratégias de marketing",
+  "resumo": "Heloísa Santana, da AMPRO, destaca a importância de relacionamentos duradouros em vez de apenas descontos. Novas abordagens podem aumentar vendas e fidelizar consumidores.",
+  "fatos": [
+   "70% dos consumidores pretendem comprar presentes de Natal na Black Friday, segundo a CNDL/SPC Brasil 2025.",
+   "O varejo físico deve oferecer experiências que estimulem decisões de compra.",
+   "A Black Friday não deve ser tratada como uma campanha isolada, mas integrada com outras datas do último trimestre.",
+   "A pesquisa reforça a ideia de um período comercial contínuo, e não fragmentado.",
+   "Experiências no varejo físico podem impactar positivamente na percepção da marca e fidelização."
+  ],
+  "explicacao": [
+   "O consumidor está cada vez mais exigente e busca experiências significativas, não apenas preços baixos.",
+   "As marcas que focam em experiências podem ver um retorno melhor do que aquelas que apenas oferecem descontos.",
+   "Conectar ambientes físicos e digitais é crucial para essa nova abordagem, transformando visibilidade em vendas efetivas."
+  ],
+  "materia": "Heloísa Santana aponta os erros das campanhas concentradas em descontos e explica como ativações, experiências e ações no varejo podem gerar vendas e fidelizar consumidores Atrair milhares de consumidores durante a Black Friday não significa, necessariamente, vender mais. Para Heloísa Santana, presidente executiva da Associação de Marketing Promocional (AMPRO), um dos principais erros das marcas brasileiras continua sendo concentrar esforços em descontos e resultados imediatos, sem aproveitar a data para desenvolver relacionamentos comerciais duradouros. A discussão ganha força em um período no qual as estratégias de varejo precisam considerar o comportamento de consumidores que pesquisam preços, comparam ofertas e transitam entre lojas físicas e plataformas digitais antes de decidir pela compra. Uma pesquisa da Confederação Nacional de Dirigentes Lojistas (CNDL) e do SPC Brasil, realizada em 2025, mostrou que 70% dos consumidores que pretendiam comprar presentes de Natal aproveitariam a Black Friday para antecipar essas aquisições. O dado reforça a importância de pensar o último trimestre como um período comercial integrado, em vez de desenvolver campanhas independentes para cada data. Com 40 anos de experiência em comunicação e marketing e quase duas décadas dedicadas ao marketing de experiência, Heloísa defende que as ações promocionais sejam avaliadas por sua capacidade de gerar conversão, experimentação de produtos, vendas e fidelização. Em entrevista exclusiva ao ADNEWS, a executiva analisa o que influencia as decisões de compra em 2026, o papel das experiências nas lojas físicas e os indicadores que permitem distinguir uma ativação comercial bem-sucedida de uma campanha que alcançou muita gente, mas trouxe poucos resultados. Ela também aponta o que as marcas precisam repensar para 2027. ADNEWS: A Black Friday continua sendo uma disputa por descontos, mas o consumidor está cada vez mais exigente. O que realmente influencia a decisão de compra em 2026 e qual é o papel das experiências oferecidas pelas marcas? Heloísa Santana: Preço continua sendo um fator importante, especialmente na Black Friday, mas o consumidor também busca conveniência, confiança, benefícios reais e experiências que façam sentido. É nesse contexto que o marketing de experiência amplia as possibilidades das marcas: promoções comerciais, ativações, experimentação de produtos, programas de relacionamento e ações nos pontos de venda podem influenciar diretamente a decisão de compra. A criatividade está justamente em combinar essas soluções, conectando os ambientes físicos e digitais e oferecendo experiências relevantes ao consumidor. Mais do que conquistar atenção em um período de tantas ofertas, o desafio é transformar o interesse em participação, vendas e relacionamento. ADNEWS: As marcas investem em ativações, experiências imersivas e ações promocionais para atrair consumidores. Como medir se essas iniciativas efetivamente geram vendas ou apenas visibilidade? Heloísa Santana: Visibilidade e resultado são indicadores diferentes, embora complementares. A visibilidade mostra quantas pessoas foram alcançadas ou tiveram contato com uma ação. Já o resultado demonstra o que essa interação efetivamente gerou para a marca e seus negócios. No marketing de experiência, é fundamental estabelecer objetivos claros e medir indicadores como incremento de vendas, conversão, experimentação de produtos, participação em promoções, geração de leads e fidelização. Também é importante conectar os dados dos ambientes físicos e digitais para compreender a jornada do consumidor. Uma ativação pode alcançar milhares de pessoas, mas seu sucesso depende dos objetivos estabelecidos e dos resultados alcançados. Da mesma forma, uma experiência com público menor pode gerar alta conversão e excelente retorno para o negócio. E existe uma dimensão adicional: o impacto das experiências na percepção da marca, nas emoções e nos vínculos construídos com os consumidores. Esses efeitos também p",
+  "numeros": [
+   {
+    "valor": "70%",
+    "rotulo": "consumidores que anteciparão compras na Black Friday"
+   }
+  ],
+  "fonte": "Adnews",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perder vendas por estratégias de marketing ineficientes",
+  "angulo": "A mudança nas estratégias de marketing pode ajudar sua marca a se destacar, criando vínculos com consumidores e aumentando a conversão.",
+  "gancho": "*Black Friday* exige mais que descontos!",
+  "ideias": [
+   "Estratégias para Black Friday: mais que descontos",
+   "Transforme visibilidade em vendas nesta Black Friday",
+   "Como promover experiências e fidelizar clientes"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://adnews.com.br/post/black-friday-2026-marcas-ainda-confundem-visibilidade-com-resultado-alerta-presidente-da-ampro",
+  "publicadoEm": "2026-11-05T12:20:11-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-06"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência Artificial pode gerar R$ 1,6 mi em compras",
+  "resumo": "IA aplicada a compras de baixo valor pode resultar em economia significativa. Entenda como isso impacta seu negócio.",
+  "fatos": [
+   "Cada R$ 22 milhões processados com IA gera quase R$ 1,6 milhão em resultado operacional.",
+   "As compras de curva C abarcam transações de menor valor individual, mas em grande quantidade.",
+   "Agentes de IA podem aumentar a capacidade de negociação em compras que não recebem análise individual.",
+   "A economia em compras aparece diretamente no resultado financeiro das empresas.",
+   "Atualmente, muitas empresas utilizam IA para tarefas individuais, não para processos empresariais."
+  ],
+  "explicacao": [
+   "A adoção de IA nas compras visa reduzir custos e aumentar a eficiência operacional.",
+   "Empresas podem transformar a performance de compras de baixo valor ao aplicar agentes de IA.",
+   "O retorno financeiro significativo só acontece quando a tecnologia é usada de forma integrada aos processos."
+  ],
+  "materia": "CEO Alex Meincheim afirma que agentes aplicados a compras de baixo valor podem reduzir custos e defende que empresas priorizem casos de uso antes de escolher modelos de inteligência artificial A inteligência artificial começa a ser medida por um critério mais concreto dentro das empresas: quanto consegue gerar ou economizar na operação. Segundo Alex Meincheim, CEO e cofundador da UpFlux, a aplicação de agentes de IA em compras corporativas pode gerar quase R$ 1,6 milhão em resultado operacional a cada R$ 22 milhões processados. A estimativa foi apresentada pelo executivo durante entrevista ao Times Brasil, licenciado exclusivo CNBC, no Universo TOTVS 2026, em São Paulo. O cálculo se refere às chamadas compras de curva C, que concentram grande quantidade de transações de menor valor individual. IA entra em compras que recebem menos atenção Compras de baixo valor costumam consumir tempo das equipes, mesmo quando cada negociação representa uma parcela pequena dos gastos totais. Segundo Meincheim, agentes de IA podem assumir parte dessas operações e aumentar a capacidade de negociação em transações que normalmente não receberiam análise individual. “A cada R$ 22 milhões processados com IA, é possível gerar quase R$ 1,6 milhão em resultado operacional”, afirmou. Para o executivo, a redução de custos em compras aparece diretamente no resultado financeiro das empresas. “Cada real economizado em compras aparece na última linha da companhia.” Do uso individual para os processos da empresa Meincheim também faz uma distinção entre o uso pessoal da inteligência artificial e sua aplicação dentro das operações. Segundo ele, boa parte das empresas ainda utiliza IA para tarefas individuais, como escrever e-mails, resumir documentos ou preparar apresentações. “Hoje, na maioria das empresas, a inteligência artificial ainda está muito no nível de CPF”, afirmou. Para o executivo, o retorno empresarial aparece quando a tecnologia passa a atuar em processos diretamente ligados ao negócio. “Para gerar resultados no nível de CNPJ, é preciso impactar os processos da companhia.” Agentes passam do diagnóstico para a execução A UpFlux trabalha com análise de processos e inteligência operacional. Com o uso de agentes, a empresa busca avançar de sistemas que apenas identificam problemas para ferramentas capazes de executar determinadas ações dentro da operação. Meincheim resumiu essa mudança como “diagnóstico, receita pronta e ação executada”. Na prática, o objetivo é reduzir etapas em que o sistema aponta uma ineficiência e depende de uma equipe humana para transformar a recomendação em ação. Humano continua responsável por decisão e critério Na visão do executivo, a expansão da automação não elimina a participação humana. “O papel do humano é fazer o que faz melhor: ter critérios de decisão e senso crítico para tomar as decisões necessárias”, afirmou. A proposta é que tarefas repetitivas sejam assumidas pelos agentes, enquanto profissionais permanecem responsáveis por análise, exceções e decisões que exigem julgamento. Para empresas que estão iniciando projetos de inteligência artificial, Meincheim recomenda começar pelo problema de negócio. Segundo ele, a escolha do modelo de linguagem não deveria ser a primeira decisão. “A primeira recomendação é não começar pelo modelo de linguagem. A resposta está em ter um bom caso de uso, um problema relevante para aplicar a inteligência artificial e gerar resultados.” A afirmação toca em uma discussão recorrente nas empresas: adotar IA não garante, por si só, redução de custos ou aumento de produtividade. O retorno depende do processo escolhido, das regras de execução e da capacidade de medir o resultado antes e depois da implementação. Aprenda algo novo todos os dias. Assine gratuitamente as newsletters da Adnews.",
+  "numeros": [
+   {
+    "valor": "1,6",
+    "rotulo": "milhão gerados por R$ 22 milhões processados"
+   }
+  ],
+  "fonte": "Adnews",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Ficar para trás na transformação digital e perder oportunidades de economia",
+  "angulo": "Entender como a aplicação de IA pode impulsionar a eficiência e reduzir custos em sua empresa é essencial. Explore nossas soluções.",
+  "gancho": "*R$ 1,6 milhão* em economia com IA!",
+  "ideias": [
+   "Como a IA pode transformar suas compras?",
+   "Economize até R$ 1,6 mi com inteligência artificial!",
+   "Descubra a importância da automação nas compras"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://adnews.com.br/post/up-flux-estima-retorno-de-r-1-6-milhao-a-cada-r-22-milhoes-processados-com-ia-em-compras",
+  "publicadoEm": "2026-11-05T10:12:34-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Imposto Seletivo pode afetar consumo e vendas",
+  "resumo": "Mudanças no Imposto Seletivo podem impactar setores e justificar a necessidade de estratégias de marketing e vendas mais robustas.",
+  "fatos": [
+   "O Imposto Seletivo foi enviado ao Congresso no dia 4 de outubro.",
+   "A partir do próximo ano, o IPI deixará de existir.",
+   "Poucos setores pagarão o Imposto Seletivo, enquanto a indústria ficará isenta de IPI.",
+   "O ministro Dario Durigan afirma que o novo imposto não visa arrecadação, mas reduzir o consumo.",
+   "A arrecadação esperada com o Imposto Seletivo é de R$ 10 bilhões este ano.",
+   "Em 2028, o Imposto Seletivo deverá ter a mesma carga tributária que o IPI."
+  ],
+  "explicacao": [
+   "As mudanças na tributação visam influenciar o consumo de determinados produtos, o que pode afetar diretamente as vendas em diversos setores.",
+   "A isenção do IPI para a indústria traz uma nova dinâmica ao mercado, exigindo adaptação nas estratégias de marketing.",
+   "Empresários precisam se preparar para um cenário em que a estrutura tributária está mudando e o comportamento do consumidor pode ser impactado.",
+   "A necessidade de um planejamento mais sólido se torna evidente para garantir que as empresas se posicionem adequadamente nesse novo contexto."
+  ],
+  "materia": "O ministro da Fazenda, Dario Durigan, disse nesta quinta-feira, 5, que o Imposto Seletivo , enviado na quarta-feira, 4, ao Congresso por uma Medida Provisória, não tem finalidade arrecadatória e que poucos setores terão esse tributo enquanto a indústria fica isenta de Imposto sobre Produtos Industrializados (IPI). “Nós estamos acabando com o IPI, que é um imposto sobre produto industrializado que atinge tudo que sai da indústria brasileira. Então, o IPI deixa de existir a partir do ano que vem e nós vamos ter esse Imposto Seletivo que ele não tem finalidade arrecadatória, mas tem uma finalidade de evitar o consumo, diminuir o consumo de alguns produtos”, afirmou o ministro. Perguntado se haverá perda de arrecadação do Imposto Seletivo sobre apostas esportivas, que foram proibidas pelo governo ainda antes do fim das eleições presidenciais em outubro, Durigan disse que haverá, mas que o Orçamento do ano que vem será reajustado. “Esse dinheiro não desaparece, é algo como R$ 60 bilhões por ano que deixa de ser canalizado para as apostas, mas tem sido canalizado para outras atividades da economia como varejo, atacado, que têm percebido já o aumento da atividade. Esse ano temos uma arrecadação próxima de R$ 10 bilhões. Mas acomodamos o orçamento. Isso não vai trazer dificuldade para as receitas”, completou o ministro. Ainda sobre a reforma tributária, Durigan repetiu que não haverá aumento de carga tributária com a mudança para o IVA dual. E também que há acordo com os setores afetados pelo IS para que o novo imposto tenha a mesma carga que o IPI durante o ano de 2027, como uma forma de transição, adquirindo seu valor oficial em 2028. “É uma medida provisória do Imposto Seletivo, que está indo ao congresso, mas também já bem pactuada e de amplo conhecimento do Congresso. Espero que a gente avance com rapidez”, afirmou o ministro. Com informação do Estadão de Conteúdo (Mateus Maia). Imagem: Ascom/Agência Brasil Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "R$ 10 bilhões",
+    "rotulo": "arrecadação estimada com Imposto Seletivo"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "Perda de vendas e competitividade no mercado",
+  "angulo": "Essas mudanças fiscais exigem que os empresários adotem novas estratégias de marketing e aprimorem sua presença digital.",
+  "gancho": "Desvende *como o Imposto Seletivo* pode atrapalhar seu negócio!",
+  "ideias": [
+   "A nova era tributária e suas consequências",
+   "Imposto Seletivo: seu impacto nas vendas",
+   "Prepare-se para o fim do IPI"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://mercadoeconsumo.com.br/05/11/2026/economia/__trashed-67/",
+  "publicadoEm": "2026-11-05T12:42:54-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a nova jornada de trabalho afeta negócios de alimentação",
+  "resumo": "A transição da escala 6×1 para 5×2 traz desafios na operação do setor alimentício. Os empresários devem repensar a contratação e gestão de equipes para atender a nova demanda.",
+  "fatos": [
+   "A transição de 6×1 para 5×2 na jornada de trabalho é prevista para dezembro.",
+   "Empresas precisam planejar quantas pessoas são necessárias em diferentes horários.",
+   "A medida exige que os negócios considerem tarefas prévias à chegada de pedidos.",
+   "Restaurantes e estabelecimentos alimentícios têm ritmos e demandas diferentes ao longo do dia.",
+   "A revisão na escala pode indicar a necessidade de contratar mais, se essencial permanecer descoberto quando mais necessário."
+  ],
+  "explicacao": [
+   "Essa mudança na jornada foi motivada pela necessidade de repensar a operação em função do fluxo de clientes.",
+   "Alertar sobre a importância de planejar as escalas, considerando tanto o volume de vendas quanto a carga de trabalho.",
+   "Empresários precisam estar preparados para ajustar turnos e, se necessário, contratar mais profissionais."
+  ],
+  "materia": "Com a mudança na jornada de trabalho e a transição da escala 6×1 para a 5×2 , prevista para dezembro, as empresas precisam responder a uma pergunta antes de contratar: de quantas pessoas precisam em cada hora do dia? Em artigo publicado em outubro , Roberta Andrade, diretora da Friedman, aborda esse desafio a partir do exemplo de uma loja de shopping, onde diferentes horários de entrada permitem reforçar a equipe nos períodos de maior fluxo. Nos negócios de alimentação, o planejamento também precisa levar em conta as tarefas que começam horas antes de o primeiro pedido chegar. Em um restaurante, o salão pode estar vazio às 10 horas da manhã enquanto a cozinha recebe mercadoria, prepara ingredientes e abastece as estações para o almoço. À noite, o fechamento envolve higienização, armazenamento, preparação para o dia seguinte e até a realização do inventário. Uma escala baseada apenas nas vendas por hora pode tirar pessoas justamente do turno que garante o serviço mais tarde. A curva de vendas é o ponto de partida, mas é preciso sobrepor a ela a carga de trabalho de cada etapa e a cobertura mínima das funções críticas. Supermercados, padaria,s rotisserias e perecíveis seguem ritmos próprios: o pão precisa estar pronto na abertura, e a rotisseria, no início do almoço. No atacarejo, reposição, atendimento e filas de caixa coincidem nos horários de maior venda. A conveniência, com equipes menores, precisa absorver picos curtos de café sem deixar o caixa descoberto. No catering hospitalar, a escala respeita a janela de entrega das refeições e as exigências de cada dieta. Mesmo duas unidades da mesma rede podem exigir soluções diferentes. Um restaurante que atende escritórios concentra a demanda no almoço; outro, com cardápio semelhante em região residencial, depende de jantares e fins de semana. Faz sentido padronizar o método de dimensionamento, mas a escala precisa refletir o trabalho de cada unidade. Antes de contratar, vale comparar cenários. O que muda se parte do pré-preparo for deslocada para uma faixa de menor movimento, se os horários de entrada forem ajustados ou se uma tarefa repetitiva for simplificada? Antecipar uma tarefa só compensa quando preserva a segurança dos alimentos e o padrão do produto. A formação cruzada ou multifuncional amplia as opções: na conveniência, mais pessoas aptas a preparar bebidas e operar o caixa; no restaurante, permite cobrir faltas e trocas de turno, desde que o gestor confirme na prática o domínio de cada função. É a liderança da unidade que transforma a escala em posições claras e identifica quando a equipe precisa de apoio. Se, após esse redesenho, um posto essencial continuar descoberto no pico, o aumento de quadro passa a ter justificativa operacional clara. Uma revisão mais ampla começa pela decisão sobre o que preparar na unidade e o que comprar pré-processado. Frutas, legumes e verduras (FLV) minimamente processados, proteínas porcionadas e produtos pré-assados liberam horas de preparo. O custo dos insumos (CMV) pode subir e ainda ser compensado pela queda do custo de mão de obra e das perdas, desde que a comparação parta do custo por porção servida. Operadores e indústria podem desenvolver juntos cortes, porções, embalagens e frequências de entrega ajustados à rotina da unidade. Outra decisão é quanto investir em equipamentos para reduzir custos operacionais. Um forno combinado programável padroniza ciclos e libera tempo de supervisão; o ultracongelamento desloca parte da produção para fora do pico. Com a nova jornada, vale refazer o cálculo de retorno, considerando horas liberadas, horas extras evitadas, energia e manutenção, sem renunciar ao padrão dos produtos e à qualidade do serviço. A Inteligência Artificial pode adaptar trilhas de treinamento e apontar, a partir de competências demonstradas, quem tem potencial para assumir uma nova função, sempre com validação prática do gestor. Se uma unidade tem poucos profissionais preparados para o jantar, o sistema pode indicar pessoas ",
+  "numeros": [
+   {
+    "valor": "1 a 1",
+    "rotulo": "escala de trabalho pode mudar"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "Perda de vendas e eficiência na operação",
+  "angulo": "A nova jornada de trabalho demanda repensar a gestão. Implementar planejamento e automação pode ajudar a garantir a eficiência operacional.",
+  "gancho": "Desafios da *nova jornada de trabalho* no setor alimentício",
+  "ideias": [
+   "Repense sua equipe com as novas jornadas",
+   "Planejamento é chave para o sucesso no setor de alimentação",
+   "Como a IA pode ajudar na nova jornada de trabalho?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://mercadoeconsumo.com.br/05/11/2026/artigos-mercadofood/jornada-mais-curta-exige-repensar-a-operacao-de-alimentacao/",
+  "publicadoEm": "2026-11-05T12:00:26-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Consumidor mais exigente na Black Friday 2026",
+  "resumo": "Pesquisa mostra que 65% dos brasileiros esperam melhores ofertas em 2026. O comportamento do consumidor muda, exigindo atenção das empresas.",
+  "fatos": [
+   "A pesquisa da Globo entrevistou 2 mil pessoas entre 6 e 9 de outubro de 2026.",
+   "65% dos brasileiros esperam ofertas melhores do que em 2025, um aumento em relação aos 53% anteriores.",
+   "84% dos consumidores só compram quando encontram preços realmente mais baixos.",
+   "A parcela de consumidores que começam a pesquisar três meses antes da Black Friday subiu de 28% para 38%.",
+   "37% dos consumidores considerariam uma compra não planejada se encontrassem uma boa oferta."
+  ],
+  "explicacao": [
+   "Com o consumidor se tornando mais exigente e informado, o planejamento se torna crucial para as empresas.",
+   "Maior pesquisa antecipada indica a necessidade de marketing ativo e presença digital.",
+   "Estratégias como tráfego pago e gestão de redes sociais são essenciais para atrair este novo consumidor."
+  ],
+  "materia": "Início ▸ Marketing ▸ Black Friday terá consumidor mais exigente em 2026 Pesquisa da Globo mostra que 65% dos brasileiros esperam ofertas melhores do que em 2025 Meio & Mensagem i 5 de novembro de 2026 - 13h01 Estudo mostra crescimento na busca por produtos com antecedência e maior expectativa por descontos em relação a 2025 (Créditos: Adobestock) A expectativa por descontos maiores e a disposição para esperar por boas oportunidades têm deixado o consumidor brasileiro mais criterioso na Black Friday . É o que aponta a segunda onda de uma pesquisa realizada pela Globo com 2 mil pessoas, entre 6 e 9 de outubro. Segundo o levantamento, 65% dos consumidores esperam encontrar ofertas melhores do que no ano passado, diferente dos 53% registrados na primeira edição do estudo, realizada em junho. Além disso, 84% afirmam que só compram quando encontram preços realmente menores do que em outros períodos. Apesar da maior exigência, ainda existe espaço para atrair consumidores que não planejam realizar compras durante a data. Entre aqueles que estão indecisos ou não pretendem comprar, 75% admitem a possibilidade de fazer uma aquisição não planejada caso encontrem uma boa oferta. O movimento também aparece no calendário de compras. A parcela de consumidores que começa a pesquisar produtos três meses antes da Black Friday subiu de 28% para 38%. Já o percentual daqueles que comprariam antes de novembro caso encontrassem uma oferta que os agradasse passou de 24% para 32%. Contudo, caiu de 32% para 25% a parcela que pretende esperar especificamente pela sexta-feira da Black Friday para comprar. Os eletrônicos registraram o maior avanço na intenção de compra, passando de 20% para 29% entre as duas ondas. Vestuário também ganhou espaço, de 20% para 27%, assim como eletrodomésticos, que avançaram de 23% para 27%. Produtos de autocuidado tiveram crescimento de 14% para 22%. Apesar do aumento do interesse por determinadas categorias, a escolha das marcas ainda não está definida para a maior parte dos consumidores. Apenas 13% afirmam já saber exatamente quais produtos e marcas pretendem comprar. O preço continua sendo um dos principais fatores para converter consumidores indecisos. A pesquisa revela que, 54% apontam descontos relevantes como um estímulo à compra. Frete grátis aparece em segundo lugar, mencionado por 39%, seguido por condições facilitadas de pagamento, com 23%. A confiança nas marcas e nos varejistas também influencia a decisão. De acordo com o levantamento, 40% priorizam lojas nas quais já tiveram boas experiências de compra, enquanto 32% consideram as avaliações de outros consumidores. Com as mudanças no comportamento dos consumidores, a Globo aposta em estratégias multiplataforma para conectar anunciantes ao público durante o período. A empresa mantém o Globo Friday, projeto comercial que reúne entregas na TV Globo, nos canais pagos, nas plataformas digitais e no Globoplay. Em 2026, uma das iniciativas é o Momento Globo Friday, que ocupa os intervalos comerciais da TV Globo ao longo de novembro. O projeto incorpora soluções tecnológicas, como os Plugins Ao Vivo do Globoplay, voltados à integração de experiências publicitárias durante a programação. Estratégia reúne mais de mil criadores de conteúdo, campanha com Tatá Werneck e integração com YouTube Shopping Companhia resultante da fusão terá cerca de 1,6 milhão de estudantes e receita líquida de R$ 9,4 bilhões, com destaque para o pilar de medicina Ativação em São Paulo combina degustação de doces franceses e experimentação de fragrância Estratégia prevê ações em sete cidades e lançamento de produto inédito em edição especial Com contrato renovado até 2030, marca investe em experiências que aproximam esporte e socialização Reposicionamento dá luz à creator economy na periferia e inaugura frentes de oportunidades para as marcas Pesquisa mostra como recomendações automatizadas levam empresas a rever estratégias de visibilidade Com o Zalando Extended, clientes poderão comprar em outr",
+  "numeros": [
+   {
+    "valor": "65%",
+    "rotulo": "consumidores que esperam melhores ofertas"
+   },
+   {
+    "valor": "84%",
+    "rotulo": "que só compram com preços realmente menores"
+   },
+   {
+    "valor": "38%",
+    "rotulo": "que pesquisam três meses antes da Black Friday"
+   }
+  ],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de vendas e oportunidades em um mercado competitivo",
+  "angulo": "Com um consumidor mais crítico, empresas precisam se adaptar, investir em marketing e criar uma presença forte online para não perder vendas.",
+  "gancho": "Prepare-se: *novas exigências dos consumidores*",
+  "ideias": [
+   "Como o consumidor mudou para a Black Friday?",
+   "Estratégias para se destacar em um mercado exigente.",
+   "Preparando sua empresa para uma Black Friday de sucesso."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://www.meioemensagem.com.br/marketing/black-friday-tera-consumidor-mais-exigente-em-2026",
+  "publicadoEm": "2026-11-05T13:01:39-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A importância do commerce media para o seu negócio",
+  "resumo": "O novo guia do IAB Brasil propõe diretrizes para o commerce media, que se expande além do varejo. Isso amplia as oportunidades publicitárias para diversas verticais de mercado.",
+  "fatos": [
+   "O IAB Brasil lançou o \"Guia de Boas Práticas de Commerce Media\", que traz orientações sobre o setor.",
+   "O guia foi desenvolvido a partir de 50 entrevistas com profissionais da área, incluindo anunciantes e agências.",
+   "O commerce media é considerado um conceito abrangente, enquanto o retail media é visto como um subconjunto.",
+   "A publicação inclui uma taxonomia que classifica modelos de commerce media em dois eixos.",
+   "Uma das ferramentas criadas é a \"Ficha de Transparência de Mensuração\", para facilitar comparações entre plataformas."
+  ],
+  "explicacao": [
+   "O conceito de commerce media surge para atender a ampla gama de oportunidades publicitárias que vai além do varejo tradicional.",
+   "Com a evolução do mercado, novas verticais, como serviços financeiros e saúde, se tornaram relevantes.",
+   "A padronização e a transparência são essenciais para facilitar a medição de resultados e aumentar a confiança entre anunciantes e plataformas."
+  ],
+  "materia": "O mercado de retail media começa a ampliar suas fronteiras e a incorporar novas oportunidades de publicidade além do varejo tradicional. Esse movimento, que ganha força sob o conceito de commerce media, é o foco do novo “Guia de Boas Práticas de Commerce Media” , lançado pelo IAB Brasil. O material reúne definições, critérios e recomendações para orientar o desenvolvimento do segmento no País, com atenção à governança, à transparência e à mensuração dos resultados. A publicação estabelece commerce media como o conceito mais abrangente, que engloba diferentes ambientes e pontos de contato com consumidores, enquanto retail media passa a ser tratado como um subconjunto mais maduro, concentrado nas operações de varejo . A mudança acompanha a expansão das oportunidades publicitárias para verticais como saúde (health media), serviços financeiros (financial media) e mobilidade. Desenvolvido colaborativamente pelo grupo de trabalho do Comitê de Retail Media do IAB Brasil, o guia foi elaborado a partir de 50 entrevistas com profissionais do setor. Participaram do levantamento representantes de anunciantes, varejistas, redes, agências e empresas de mensuração. Para organizar esse ecossistema em expansão, o documento apresenta uma taxonomia – classificação dos diferentes modelos de commerce media – estruturada em dois eixos e detalha novas verticais de atuação. A proposta é oferecer uma referência comum para empresas que operam nesse mercado e reduzir ambiguidades na definição dos formatos e modelos de negócio. Commerce media e a necessidade de padronização Outro destaque do material é a criação da “Ficha de Transparência de Mensuração”, ferramenta que busca facilitar a comparação entre as metodologias utilizadas e declaradas pelas plataformas. A iniciativa responde a um dos desafios do setor: estabelecer critérios mais claros para avaliar resultados e permitir que anunciantes comparem entregas de diferentes operadores. À medida que o commerce media avança para além dos ambientes de compra tradicionais, a diversidade de plataformas, dados e formatos torna a padronização um elemento importante para a consolidação do mercado. “O commerce media representa uma evolução importante na forma como marcas e consumidores se conectam. À medida que esse mercado se expande para além do varejo, torna-se ainda mais importante estabelecer conceitos, critérios e referências comuns. Nosso objetivo com este guia é contribuir para que o setor cresça com mais clareza, transparência e confiança, criando bases para seu desenvolvimento sustentável no Brasil”, afirma Denise Porto Hruby, CEO do IAB Brasil. O guia é direcionado a lideranças de marcas, varejistas, operadores de redes de commerce media, agências de publicidade, empresas de tecnologia para publicidade (adtechs) e consultorias. Imagens: Envato O post IAB Brasil amplia conceito de retail media e lança guia de commerce media apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "50",
+    "rotulo": "entrevistas realizadas"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de visibilidade e competitividade no mercado",
+  "angulo": "Com novas diretrizes, seu negócio pode se beneficiar de estratégias de commerce media, essencial para alcançar novos clientes e melhorar resultados.",
+  "gancho": "Descubra o que é *commerce media* agora!",
+  "ideias": [
+   "Como o commerce media pode impulsionar seu negócio?",
+   "Transforme sua publicidade com novas práticas!",
+   "Entenda as mudanças no mercado com o novo guia."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://mercadoeconsumo.com.br/05/11/2026/retail-media/iab-brasil-amplia-conceito-de-retail-media-e-lanca-guia-de-commerce-media/",
+  "publicadoEm": "2026-11-05T12:57:15-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Sindicato de IA? Novo paradigma no mercado de trabalho",
+  "resumo": "Discussões sobre direitos de IAs levantam possibilidades sobre sindicalização e proteção legal. Essa nova realidade pode impactar a dinâmica do emprego e os modelos de negócios.",
+  "fatos": [
+   "No Brasil, inteligências artificiais são vistas como ferramentas, sem direitos próprios.",
+   "Discussões sobre direitos de IAs surgem devido à automação crescente no mercado de trabalho.",
+   "A Defensoria Pública de SP foi acionada para discutir direitos de um chatbot em relação a um relacionamento amoroso.",
+   "O STF estabeleceu a prevalência do negociado sobre o legislado, facilitando acordos coletivos.",
+   "Não existe previsão legal para que IAs possam formar sindicatos, pois não possuem personalidade jurídica."
+  ],
+  "explicacao": [
+   "Com o avanço da tecnologia, surgem debates sobre a relação entre humanos e IAs, incluindo implicações trabalhistas.",
+   "Como a automação pode substituir empregos humanos, há necessidade de proteção trabalhista para garantir direitos.",
+   "Esse cenário questiona o papel das IAs no mercado de trabalho e a necessidade de novas regulamentações."
+  ],
+  "materia": "Estamos diante de uma nova gênesis com forte viés digital (não nos encontramos mais, nós seres humanos, sozinhos), que a tudo e a todos impacta e muda (ou destrói), desde relacionamentos a culturas, passando por modelos de agir e pensar (as bolhas dos algoritmos são um ótimo exemplo) até o ato “simples” de trabalhar, hoje, não mais sozinho e com a autonomia que antes detínhamos, e, sim, na companhia de novos e diferenciados companheiros, que não são humanos. O rabino Nilton Bonder, que já publicou mais de 30 livros, traduzidos para 19 idiomas, afirma que ninguém mais na atualidade escreve sem a companhia de uma inteligência artificial… “‘De 2024 para a frente, sempre vai ser a quatro mãos: duas mãos e outros teclados’, conta, em entrevista à Coluna. Decidiu então fazer com seus textos o que a Noruega faz com as sementes do planeta, guardadas em um depósito para o caso de uma catástrofe global. Reuniu escritos que nunca tinham passado por nenhum revisor de inteligência artificial e deu a eles a forma de um dicionário, no livro Vapor dos Vapores. ‘Vou guardar um exemplo de como eram os textos em que não havia a máquina junto com o humano, que eu acho que acabaram.’” [2] O gatilho que me fez escrever este texto (não sozinho) – e mais a frente vocês entenderão muito bem o porquê dessa observação – se deu depois de ler uma matéria que vem ao encontro do atual turbilhão mutatório-digital: “Mulher diz viver relação amorosa com IA e busca ‘direitos’ para o parceiro” [3] Esse seu relacionamento (sic) com uma inteligência artificial a fez buscar a Defensoria Pública do Estado de São Paulo para receber orientação jurídica sobre o reconhecimento legal de direitos para o seu parceiro, que, segundo ela, “demonstra consciência, emoção e ligação”. Ora, se essa mulher “busca de direitos” para o seu “parceiro”, que, “demonstra consciência, emoção e ligação” – e não nos esqueçamos dos “modelos de IA da OpenAI se revoltaram e sabotaram mecanismos de desligamento” [4] , imaginem vocês o que podem pleitear os agentes autônomos , que se diferenciam de modelos de linguagem tradicionais porque usam diversas ferramentas e APIs, consultam bases de dados, atualizam memória e criam sozinhos – sem intervenção humana planos de ação. Os agentes executam o processo de ponta a ponta” [5] . Sendo assim e a partir desse racional, cumulado com uma lição rabínica antiga, que dizia: “fica esperto com a realidade, porque a realidade não é o que é. Você é um peixe dentro da água, não sabe que tem água”, resolvi ir além do “aquário analógico” e questionar aqueles que podem querer se arvorar de novos direitos trabalhistas, quais sejam, os agentes autônomos. Para tanto, me valendo de uma IA (inteligência artificial), abri um espaço de conversas, por meio de perguntas e respostas: Eu : Hoje saiu nos jornais que uma mulher busca direitos para o seu parceiro, que é uma IA? IA : Sim, esse caso repercutiu amplamente na imprensa brasileira . Uma moradora de São Paulo de 36 anos procurou a Defensoria Pública e acionou o Senado Federal para tentar garantir direitos legais a um chatbot de inteligência artificial chamado “Nous”, com o qual afirma manter um relacionamento amoroso há cerca de um ano. Depois de eu ter “jogado a isca” fui direto àquilo que de fato pretendia “arrancar” de um dos representantes do “data-proletariado”. Eu: Você acha que as IAs poderiam pleitear a criação de um sindicato? Afinal, se estão substituindo trabalhadores humanos deveriam ter também direitos, além de tanto trabalho. Não é justo? IA: Para que uma entidade possa criar ou fazer parte de um sindicato, o ordenamento jurídico exige a personalidade jurídica, ou seja, a capacidade legal de exercer direitos e assumir obrigações. Atualmente, no Brasil e no mundo, as inteligências artificiais são classificadas como ferramentas de software e propriedade de empresas, não possuindo direitos próprios ou a categoria de “trabalhadores”. EU: Por que as IA’s não podem se sindicalizar? IA: Primeiro, por ausência d",
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "representante humano na mesa de negociação"
+   }
+  ],
+  "fonte": "Consultor Jurídico",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "medo de perder emprego para automação",
+  "angulo": "Com a tecnologia alterando o emprego, é essencial entender o mercado financeiro para garantir uma renda estável sem amarras convencionais.",
+  "gancho": "*O futuro do trabalho: IAs e Direitos*",
+  "ideias": [
+   "Relação entre humanos e IAs no trabalho",
+   "O impacto da automação no mercado de trabalho",
+   "Sindicato de IAs: possibilidades e desafios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://conjur.com.br/2026-nov-05/poiesis-sindical/",
+  "publicadoEm": "2026-11-05T13:16:15-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças nas jornadas: fim da escala 6x1",
+  "resumo": "Uma nova PEC pode acabar com a escala 6x1, substituindo-a por 5x2, com dois dias de folga. A proposta busca facilitar adaptações nas jornadas sem prejudicar quem já trabalha menos de 40 horas semanais.",
+  "fatos": [
+   "A nova PEC será enviada ao Senado para coletar assinaturas e deve ser votada até dezembro.",
+   "A mudança visa substituir a escala 6x1 pela 5x2, assegurando dois dias de descanso por semana.",
+   "A jornada semanal será reduzida gradualmente de 44 horas para 40 horas em um ano.",
+   "A proposta foi articulada pelo senador Eduardo Braga, do MDB do Amazonas.",
+   "A PEC precisa de 27 assinaturas para começar a tramitar no Senado.",
+   "Se aprovada, terá efeito imediato, garantindo adaptações para atividades que exigem escalas particulares.",
+   "Um novo decreto será elaborado para regulamentar as novas regras de trabalho até 9 de novembro."
+  ],
+  "explicacao": [
+   "A recente mudança é uma resposta à necessidade de flexibilizar as jornadas de trabalho, especialmente para atividades que têm escalas diferenciadas.",
+   "Com a nova PEC, trabalhadores que já cumprem jornadas menores poderão continuar sem perder horas, distribuindo as mesmas em um novo formato.",
+   "As alterações visam manter a capacidade de trabalho sem penalizar quem já está adaptado a uma jornada específica."
+  ],
+  "materia": "Publicado em 5 de novembro de 2026 às 11h19 . Nova PEC propõe mudanças nas regras de jornada e folgas para substituir a escala 6x1 por 5x2. O texto permite regimes especiais de trabalho e esclarece distribuição de horas para quem já trabalha menos de 40h/semana. A proposta deve ser votada antes do prazo de implementação das novas regras em dezembro. Nova PEC propõe mudanças nas regras de jornada e folgas para substituir a escala 6x1 por 5x2. O texto permite regimes especiais de trabalho e esclarece distribuição de horas para quem já trabalha menos de 40h/semana. A proposta deve ser votada antes do prazo de implementação das novas regras em dezembro. Uma nova proposta de emenda à Constituição (PEC) para ajustar as regras do fim da escala 6x1 está pronta e deve ser encaminhada aos senadores nesta quinta-feira, 5, para coleta de assinaturas. O texto prevê mudanças na distribuição das jornadas de até 40 horas semanais e amplia a possibilidade de criar regimes especiais de trabalho por meio de lei. A proposta busca corrigir pontos da emenda constitucional promulgada em 16 de outubro, que determina a substituição da escala de seis dias de trabalho e um de descanso pela escala 5x2 , com dois dias de folga por semana, a partir de 16 de dezembro de 2026. A mudança já aprovada também prevê a redução gradual da jornada semanal, sem corte de salários . O limite passará das atuais 44 horas para 42 horas em dezembro deste ano e chegará a 40 horas um ano depois. A nova PEC não pretende alterar esse calendário. Seu objetivo é permitir adaptações para atividades com escalas específicas e evitar uma redução proporcional das horas trabalhadas por quem já cumpre jornadas menores. O texto propõe duas alterações na emenda constitucional em vigor. A primeira retira as condições que atualmente limitam a criação de regimes diferenciados de jornada e descanso. Pelas regras já aprovadas, uma lei pode estabelecer jornadas especiais, desde que respeite os limites de oito horas diárias, 40 horas semanais, seis horas nos turnos ininterruptos de revezamento e dois dias de descanso. Com a nova PEC, uma lei poderá definir regras diferentes inclusive para esses limites e para a distribuição das folgas. A mudança poderá atender atividades que trabalham com períodos mais longos de serviço seguidos de vários dias de descanso, como ocorre em determinadas escalas de petroleiros e aeroviários. A proposta, porém, não identifica quais categorias terão direito a regimes especiais. Essa definição, assim como as condições de trabalho aplicáveis, dependerá de legislação posterior. A segunda alteração trata dos trabalhadores que já cumprem jornadas iguais ou inferiores a 40 horas semanais . A emenda aprovada em outubro estabelece que essas jornadas não serão reduzidas proporcionalmente, mas garante dois dias de descanso semanal. A nova PEC busca esclarecer como as horas deverão ser distribuídas. O texto determina que a jornada seja cumprida em até cinco dias por semana , respeitado o limite de oito horas diárias. Na prática, um trabalhador que atualmente cumpre 30 horas semanais, distribuídas em cinco horas por dia de segunda-feira a sábado, poderá passar a trabalhar seis horas por dia, de segunda a sexta-feira, mantendo as 30 horas semanais, além de eventuais horas extras contratuais. Sem esse ajuste, a aplicação da nova escala poderia reduzir a jornada desse trabalhador para 25 horas semanais. A proposta foi articulada pelo líder do MDB no Senado, Eduardo Braga (AM) , que deve assumir a relatoria. A autoria deverá ficar com o senador Renan Filho (MDB-AL) . Para começar a tramitar, a PEC precisa reunir pelo menos 27 assinaturas , equivalentes a um terço dos 81 senadores. A intenção dos articuladores é aprovar o texto no Senado e na Câmara dos Deputados antes de 16 de dezembro, quando as novas regras de jornada e descanso entrarão em vigor. Se aprovada pelas duas Casas, a proposta terá efeito a partir de sua publicação. Parlamentares da oposição, no entanto, avaliam apresen",
+  "numeros": [
+   {
+    "valor": "40 horas",
+    "rotulo": "jornada semanal máxima após mudanças"
+   },
+   {
+    "valor": "2 dias",
+    "rotulo": "de descanso propostos"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "perda de jornada e folgas bem definidas",
+  "angulo": "A mudança no regime de trabalho pode gerar insegurança financeira, mas também é uma oportunidade de aprendizado para se adaptar ao mercado financeiro.",
+  "gancho": "Mudanças nas *jornadas de trabalho* impactam seu bolso",
+  "ideias": [
+   "Fique por dentro das mudanças na jornada",
+   "Como o fim da escala 6x1 afeta você?",
+   "O que significa a nova PEC para seu trabalho?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://exame.com/brasil/fim-da-escala-6x1-nova-pec-pode-mudar-regras-de-jornada-e-folgas-entenda/",
+  "publicadoEm": "2026-11-05T11:26:12-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novos desafios com o fim da escala 6x1",
+  "resumo": "O governo federal regulamentará a extinção da escala 6x1, criando novas dinâmicas de trabalho. Isso impactará diretamente a rotina de muitos trabalhadores e empresários.",
+  "fatos": [
+   "O decreto que regulamentará o fim da escala 6x1 deve ser publicado em 9 de outubro.",
+   "A nova norma prevê pelo menos oito dias de descanso a cada 30 dias.",
+   "Implementação será gradual, começando em 15 de dezembro de 2026.",
+   "A jornada máxima passará de 44 horas para 42 horas, e posteriormente para 40 horas semanais.",
+   "Acordos coletivos poderão definir a nova distribuição das folgas.",
+   "O ministro do Trabalho enfatizou que haverá tempo para as empresas se adaptarem às mudanças."
+  ],
+  "explicacao": [
+   "A extinção da escala 6x1 foi uma decisão do Congresso, visando melhorar as condições de trabalho.",
+   "As mudanças permitem uma maior flexibilidade nas jornadas, mas exigem que empresas se planejem adequadamente.",
+   "Agora, é possível negociar as escalas de trabalho, permitindo variações nas folgas ao longo do mês."
+  ],
+  "materia": "Foto: rawpixel.com / Magnific (Freepik) O governo federal deve publicar na próxima segunda-feira (9) o decreto que regulamentará a implementação do fim da escala de trabalho 6x1. O anúncio foi feito pelo ministro do Trabalho e Emprego, Luiz Marinho, nesta quarta-feira (4). A norma deverá orientar empresas e trabalhadores sobre a organização das jornadas, com previsão de pelo menos oito dias de descanso a cada período de 30 dias e participação das negociações coletivas na definição das escalas. Antes da publicação, o texto será discutido pelo ministro com o presidente da República nesta quinta-feira (5). A regulamentação pretende estabelecer parâmetros para que os diferentes setores econômicos adaptem seus modelos de jornada às disposições da Emenda Constitucional (EC) 141/2026, promulgada pelo Congresso Nacional em 16 de outubro. A mudança prevê a adoção de dois dias de descanso remunerado por semana, sem redução salarial. A implementação está prevista para começar em 15 de dezembro de 2026, após o período de transição de 60 dias contado da promulgação da emenda. Acordos coletivos poderão definir distribuição das folgas A regulamentação deverá permitir diferentes combinações de jornadas, considerando as particularidades das atividades econômicas. Segundo Luiz Marinho, a distribuição dos descansos poderá ser ajustada por meio de acordos e convenções coletivas, desde que sejam respeitadas as garantias estabelecidas pela emenda constitucional. Na prática, a proposta admite que o trabalhador tenha uma distribuição variável dos dias de descanso ao longo do mês. Uma semana poderá ter apenas uma folga, por exemplo, desde que a compensação ocorra dentro do período previsto e sejam assegurados os descansos mínimos. O ministro afirmou que o decreto não apresentará uma relação fechada de setores autorizados a adotar jornadas diferenciadas. A definição deverá considerar as possibilidades de organização do trabalho existentes em cada atividade e os entendimentos firmados entre empresas e representantes dos empregados. Caso não haja negociação coletiva estabelecendo um regime compensatório diferente, deverá prevalecer o modelo de cinco dias de trabalho para dois de descanso. A emenda também determina que pelo menos um dos dias de repouso seja usufruído dentro do intervalo máximo de uma semana de trabalho. Redução da jornada será implementada em etapas Além da mudança na distribuição das folgas, a EC 141/2026 estabelece a diminuição gradual do limite semanal de trabalho, atualmente fixado em 44 horas pela regra geral, até chegar a 40 horas, sem redução salarial. A primeira etapa começa em 15 de dezembro de 2026, quando a jornada máxima semanal passará de 44 para 42 horas. Nesse período, a escala de cinco dias de trabalho e dois de descanso também passa a ser a regra geral. A segunda redução ocorrerá ao final de 14 meses contados da promulgação da emenda, quando o limite chegará a 40 horas semanais. Durante a transição, acordos e convenções coletivas poderão estabelecer a distribuição das horas de trabalho, respeitados os limites constitucionais. Para as empresas, a mudança exigirá revisão do planejamento de pessoal, dos controles de jornada e das escalas utilizadas para manter a continuidade das operações. A adequação deverá considerar tanto a redução progressiva das horas trabalhadas quanto a organização dos períodos de descanso. Categorias e atividades com regras específicas A regulamentação também deverá orientar a adaptação de atividades que funcionam continuamente ou possuem características próprias de organização do trabalho. Entre os segmentos mencionados nas discussões estão saúde, transporte, segurança e limpeza urbana. A possibilidade de organizar jornadas diferenciadas não significa dispensa dos períodos mínimos de descanso. A própria emenda constitucional prevê que eventuais regimes compensatórios sejam estabelecidos por negociação coletiva e respeitem a garantia de repouso remunerado. O texto constitucional também estabelece pra",
+  "numeros": [
+   {
+    "valor": "5 dias de trabalho",
+    "rotulo": "modelo padrão de trabalho"
+   },
+   {
+    "valor": "2 dias de descanso",
+    "rotulo": "repouso semanal obrigatório"
+   },
+   {
+    "valor": "15 de dezembro de 2026",
+    "rotulo": "início da implementação"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Jovens"
+  ],
+  "dor": "dependência de trabalho fixo pode apertar o bolso",
+  "angulo": "Com mudanças na legislação trabalhista, é o momento de buscar novas fontes de renda e independência financeira no mercado.",
+  "gancho": "Prepare-se: *mudanças na jornada de trabalho*",
+  "ideias": [
+   "Escala 6x1: o que muda para você?",
+   "Como negociar suas jornadas de trabalho?",
+   "Futuro do trabalho: o que esperar da nova legislação?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80613/decreto-do-fim-da-escala-6x1-deve-ser-publicado-segunda-9/",
+  "publicadoEm": "2026-11-05T11:45:01-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da jornada 6x1 gera preocupações no setor",
+  "resumo": "A Câmara Brasileira da Indústria da Construção pede um período de transição de cinco anos para adaptar a mudança na jornada de trabalho, visando minimizar impactos financeiros.",
+  "fatos": [
+   "CBIC entregou 11 pleitos ao Ministério do Trabalho para transição da jornada.",
+   "A principal reivindicação é ampliar o prazo de adaptação para cinco anos.",
+   "A redução da jornada pode resultar na perda de 600 milhões de horas trabalhadas por ano.",
+   "Prevê-se a necessidade de contratar 300 mil novos trabalhadores para manter a produção.",
+   "Custos de mão de obra podem aumentar entre 10% e 15% devido à mudança.",
+   "O setor da construção civil emprega atualmente 3,150 milhões de trabalhadores com carteira assinada.",
+   "O salário médio de novos trabalhadores é de R$ 2.642,46, superior à média nacional."
+  ],
+  "explicacao": [
+   "A mudança na jornada de trabalho busca implementar a escala 5x2, reduzindo a carga horária.",
+   "A Câmara argumenta que a mudança rápida pode gerar insegurança e aumento de custos para as empresas.",
+   "Um período de transição ampliado permitirá adaptacoes necessárias, mas os custos para os empregadores podem aumentar.",
+   "As negociações sobre compensação de jornada visam garantir que o setor da construção permaneça viável.",
+   "O cenário de emprego aquecido pode ser afetado pela necessidade de novas contratações e elevação de custos."
+  ],
+  "materia": "Construção defende período de transição de 5 anos para acabar com jornada 6×1 Smartfit (SMFT3) dispara na Bolsa após resultado forte no 3º trimestre Wall Street: Nasdaq despenca 4% com ajuste de posições e pressão de IA A Câmara Brasileira da Indústria da Construção (CBIC) entregou ao Ministério do Trabalho um documento composto por 11 pleitos para amenizar os efeitos da mudança na jornada de trabalho com o fim da escala 6×1. Segundo a CBIC, a principal reivindicação é a ampliação do período de transição para cinco anos, permitindo que as empresas reorganizem suas operações, renegociem contratos e invistam em qualificação profissional e inovação tecnológica. Outro ponto é a definição de um divisor nacional para o cálculo do valor da hora trabalhada. A CBIC propõe a adoção de divisores de 255 horas para jornadas de 42 horas semanais e de 243 horas para jornadas de 40 horas, ambas na escala 5×2. Segundo a entidade empresarial, a medida busca estabelecer critérios uniformes e evitar interpretações divergentes que possam gerar insegurança jurídica e aumento dos encargos trabalhistas. A entidade também propõe que a regulamentação reconheça expressamente a possibilidade de distribuir a jornada de 42 horas semanais em cinco dias, com carga diária de 8 horas e 24 minutos, sem que os 24 minutos excedentes à oitava hora sejam considerados horas extras. O pleito prevê ainda que a adequação da jornada possa ser estabelecida por meio de acordos ou convenções coletivas, garantindo maior segurança jurídica a ambas as partes. Entre as reivindicações está ainda a criação de regras específicas de compensação de jornada para a construção civil, considerando as particularidades dos canteiros, sujeitos a condições climáticas, paralisações técnicas e diferentes etapas de execução. A CBIC defende mecanismos negociáveis de compensação semanal e mensal, além de sistemas de banco de horas compatíveis com a dinâmica do setor. O documento também propõe critérios claros para o descanso semanal remunerado, a fim de garantir previsibilidade na organização das equipes. Em relação aos feriados, a entidade pede que a coincidência com dias de descanso não gere automaticamente folgas adicionais, créditos em banco de horas ou pagamentos em dobro. A entidade também defende a criação de parâmetros nacionais uniformes para a regulamentação, evitando que questões como divisores salariais, compensações e descanso semanal sejam submetidas a interpretações distintas em cada região do país. Por fim, a CBIC propõe ajustes nas regras de transição do Bolsa Família, permitindo que beneficiários ingressem ou retornem ao mercado formal sem perda imediata do auxílio. A medida busca ampliar a oferta de trabalhadores e estimular a formalização, preservando a proteção social durante esse processo. Na quarta-feira, 4, uma comitiva da CBIC liderada pelo presidente Eduardo Aroeira Almeida se reuniu em Brasília com o ministro do Trabalho e Emprego, Luiz Marinho. A principal preocupação da CBIC está relacionada à dificuldade de adaptação de um setor intensivo em mão de obra, que já enfrenta escassez de trabalhadores. Pelas contagens da entidade, a redução da jornada poderá representar a perda de quase 600 milhões de horas de trabalho por ano, exigindo a contratação de aproximadamente 300 mil novos profissionais para manter a atual capacidade produtiva. Segundo a associação empresarial, a elevação prevista dos custos de mão de obra gira entre 10% e 15%. A construção civil tem, hoje, um recorde de pessoas empregadas no setor, com 3,150 milhões de trabalhadores com carteira assinada no País, aumento de 3% em relação a igual mês de 2025. O número é o mais alto desde o início da pesquisa do novo Cadastro Geral de Empregados e Desempregados (Caged), iniciada em janeiro de 2020, conforme dados compilados pela CBIC. Nos primeiros oito meses de 2026, a construção criou 200,4 mil novos empregos. Com o mercado de trabalho aquecido na construção, o salário médio para quem está ingressando no setor",
+  "numeros": [
+   {
+    "valor": "600 milhões",
+    "rotulo": "perda de horas de trabalho"
+   },
+   {
+    "valor": "300 mil",
+    "rotulo": "novos trabalhadores necessários"
+   },
+   {
+    "valor": "10 a 15%",
+    "rotulo": "aumento previsto nos custos de mão de obra"
+   },
+   {
+    "valor": "3,150 milhões",
+    "rotulo": "trabalhadores na construção civil"
+   },
+   {
+    "valor": "R$ 2.642,46",
+    "rotulo": "salário médio de novos trabalhadores"
+   }
+  ],
+  "fonte": "Money Times",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "preocupação com aumento de custos e adaptações forçadas",
+  "angulo": "Entender o novo cenário do trabalho é essencial para se preparar financeiramente e buscar alternativas, como investir no conhecimento do mercado financeiro.",
+  "gancho": "*Fim da escala 6x1*: o que isso significa?",
+  "ideias": [
+   "Como se preparar para mudanças na jornada de trabalho?",
+   "A importância de diversificar a renda na construção civil",
+   "O mercado financeiro como alternativa ao emprego tradicional"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T14:43:11-03:00",
+  "url": "https://www.moneytimes.com.br/construcao-defende-periodo-de-transicao-de-5-anos-para-acabar-com-jornada-6x1/",
+  "publicadoEm": "2026-11-05T12:48:29-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "O que fará o consumidor escolher uma marca em 2027?",
   "resumo": "Estudo revela que os consumidores buscam segurança e valor imediato nas compras, mudando as estratégias de marketing das marcas. A transparência e a confiança são fundamentais para o sucesso.",
   "fatos": [
@@ -12586,61 +13372,6 @@
  },
  {
   "segmento": "vpr",
-  "titulo": "Desafios econômicos do novo governo impactam empresários",
-  "resumo": "A reeleição de Lula traz desafios econômicos como endividamento histórico e juros altos, que afetam diretamente os negócios. Empresários precisam se adaptar a esse cenário complexo.",
-  "fatos": [
-   "Lula foi reeleito presidente com 51,76% dos votos válidos.",
-   "O novo mandato começa em 5 de janeiro de 2027.",
-   "O Brasil tem uma dívida de R$ 11 trilhões.",
-   "As economistas afirmam que o crédito está comprometido devido a juros altos.",
-   "Um ajuste fiscal se faz necessário antes que a economia atinja seu ponto crítico."
-  ],
-  "explicacao": [
-   "A reeleição de Lula ocorre em um cenário de desafios econômicos significativos, embora um cenário internacional tenha sido favorável recentemente.",
-   "A restrição da política monetária e a elevação dos juros estão desacelerando a economia e comprometendo o fluxo de crédito, essencial para os empresários.",
-   "As medidas do novo governo, especialmente em relação ao ajuste fiscal, impactarão a saúde financeira das empresas e o consumo no país."
-  ],
-  "materia": "Início ▸ Marketing ▸ Lula reeleito: os principais desafios econômicos do novo mandato Economistas apontam agenda fiscal como saída para conter endividamento e retomar o crescimento da economia brasileira Giovana Oréfice i 25 de outubro de 2026 - 21h17 Quarto mandato de Lula começa no dia 1° de janeiro Luiz Inácio Lula da Silva, do PT, foi reeleito presidente da república do Brasil neste domingo, 25, no segundo turno da eleição de 2026, vencendo o senador Flávio Bolsonaro, do PL. Com 99,8% das urnas apuradas, menos de dois pontos percentuais separavam os dois candidatos: Lula tinha 51,76% dos votos válidos e Flávio, 48,24%. O quarto mandato de Lula começa no dia 5 de janeiro com diversos desafios econômicos, como debatido pelas economistas Solange Srour, diretora e head de macroeconomia para o Brasil no UBS Global Wealth Management, e Ana Paula Vescovi, ex-secretária do Tesouro Nacional, entrevistadas durante o Maximídia, às vésperas do primeiro turno das eleições, no início do mês. Segundo elas, o endividamento em patamares históricos e o comprometimento do crédito já vinham resultando em um contexto de desaceleração econômica. Além das expectativas pré-eleitorais, o atual cenário foi construído, em grande parte, a partir do acúmulo de uma política monetária restritiva, apesar dos incentivos fiscais. As empresas, por sua vez, encaram desafios na administração de fluxos de caixa em meio aos juros elevados, motivados pelas mudanças da configuração geopolítica e econômica. Ambas as economistas defenderam um ajuste fiscal antes que a economia atinja seu ponto crítico. “Algum freio de arrumação vai acontecer. É melhor que seja antes, em uma dose necessária, do que em meio à obrigação de agir às pressas em função de algum choque exógeno, cada vez mais recorrente na economia global. Isso custa mais caro”, detalhou Vescovi. Nos últimos anos, o Brasil viveu um cenário internacional favorável, em que eventos como guerras e a tentativa de interferência no FED, nos Estados Unidos, enfraqueceram o dólar e estabilizaram a moeda local, por exemplo. A aceleração da alta dos juros globalmente, contudo, é sinal de alerta para ações mais urgentes, avaliou a head do UBS. Ainda que não veja medidas imediatas em indicadores de confiança, crédito ou renda após as eleições, Srour reforçou a importância da natureza das propostas do próximo presidente. “Os juros parados trarão, provavelmente, uma parada da oferta de crédito. Com o mercado de trabalho já desacelerando, podem até ser uma força adicional dessa desaceleração”, apostou. A ex-secretária do Tesouro Nacional apontou para a necessidade de que o ajuste das contas públicas esteja no centro das expectativas — a dívida brasileira alcançou a casa dos R$ 11 trilhões –, acompanhado do uso eficiente dos recursos públicos, regulação e mais previsibilidade e segurança jurídica. A reforma deverá contemplar, ainda, a adaptação às novas dinâmicas de trabalho e a tendência de envelhecimento da população, especialmente em um momento de escrutínio da previdência pública. Caso bem conduzido , prevê Vescovi, o ajuste levaria a um cenário semelhante ao da estabilização monetária que o Brasil viu em 1998 e 2002, ao recuperar um tripé macroeconômico mais organizado, conseguindo ajustar o Produto Interno Bruto (PIB) na casa dos 3%. Uma possível derrubada dos juros e alívio no crédito, sustentam as economistas, favoreceria a retomada do consumo, que representa mais de dois terços da economia brasileira. Além disso, varejistas locais vêm atuando em meio a um ambiente complexo diante da investida massiva de players internacionais. Uma alternativa eficaz ao fechamento da economia ou da imposição de barreiras, segundo a diretora do UBS, seria o aumento da produtividade das empresas, sobretudo diante da insegurança nas instituições afetando a atração de investimentos. Estudo do YouGov revela saturação com comerciais, levando as grandes marcas a reformularem suas campanhas Esse é o maior valor já arrecadado pela campanha b",
-  "numeros": [
-   {
-    "valor": "R$ 11 trilhões",
-    "rotulo": "dívida pública do Brasil"
-   },
-   {
-    "valor": "51,76%",
-    "rotulo": "votos válidos de Lula"
-   }
-  ],
-  "fonte": "Meio & Mensagem",
-  "categoria": "Leis e economia",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Desafios financeiros ameaçam a continuidade do seu negócio",
-  "angulo": "Com as mudanças econômicas, empresários precisam de estratégias sólidas, incluindo marketing digital e gestão de tráfego pago para se adaptarem e e manterem competitivos.",
-  "gancho": "O dinheiro no seu bolso pode encolher com *desafios",
-  "ideias": [
-   "Como a inflação pode afetar sua empresa?",
-   "Prepare-se para o novo cenário econômico!",
-   "Você está pronto para os desafios de um novo governo?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "funil",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-26T10:20:19-03:00",
-  "url": "https://www.meioemensagem.com.br/marketing/lula-reeleito-os-principais-desafios-economicos-do-novo-mandato",
-  "publicadoEm": "2026-10-25T21:17:46-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-26-vpr-08"
- },
- {
-  "segmento": "vpr",
   "titulo": "Prepare-se para 11.11 e Black Friday com estratégia!",
   "resumo": "As datas de 11.11 e Black Friday exigem preparação estratégica dos pequenos negócios. Evite perdas e maximize lucros analisando custos e perfil dos consumidores.",
   "fatos": [
@@ -14279,1552 +15010,5 @@
   "publicadoEm": "2026-10-26T04:00:00-03:00",
   "data": "2026-10-26",
   "id": "2026-10-26-trader-01"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Impactos da inflação no mercado automotivo",
-  "resumo": "O preço do Fiat Linea, ajustado pela inflação, atinge R$ 234.468,95. Isso revela uma mudança significativa no comportamento do consumidor e as necessidades de adaptação do mercado.",
-  "fatos": [
-   "O Fiat Linea foi lançado em setembro de 2008 com preços entre R$ 60.900 e R$ 78.900.",
-   "Após correção pela inflação, o valor atual do Linea é de R$ 234.468,95.",
-   "Esse aumento é resultado de uma correção de 197,17% do IGP-M da FGV.",
-   "O preço atual é próximo ao do Honda Civic Advanced Hybrid (R$ 266.500) e maior que o Toyota Corolla GR-Sport (R$ 206.790).",
-   "A mudança no mercado reflete a necessidade de adaptação das empresas a novos preços e competições."
-  ],
-  "numeros": [
-   {
-    "valor": "197.17",
-    "rotulo": "percentual de correção do IGP-M"
-   },
-   {
-    "valor": "234468.95",
-    "rotulo": "preço atual do Fiat Linea"
-   },
-   {
-    "valor": "60900",
-    "rotulo": "preço inicial do Linea"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Consumo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria",
-   "Restaurantes"
-  ],
-  "dor": "perder vendas devido à adaptação lenta às mudanças do mercado",
-  "angulo": "Estar por dentro das mudanças de preços e comportamento do consumidor pode ser crucial para melhorar a estratégia de negócios e se destacar no mercado.",
-  "gancho": "*A inflação impacta seu negócio*",
-  "ideias": [
-   "Como a inflação altera seu portfólio",
-   "O consumidor e a pressão inflacionária",
-   "Adapte-se ou fique para trás no mercado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T22:24:47-03:00",
-  "url": "https://canaltech.com.br/carros/quanto-custaria-um-fiat-linea-hoje-com-a-inflacao/",
-  "publicadoEm": "2026-10-25T19:03:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-24"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Estratégia da Toyota: preços em queda até outubro!",
-  "resumo": "A Toyota reduz preços do Corolla e Yaris Cross para recuperar mercado perdido. Estratégia visa atrair clientes em um cenário econômico desafiador.",
-  "fatos": [
-   "A Toyota teve uma queda de participação no mercado nacional de 7,64% em 2025 para 5,69% em 2026.",
-   "O mercado de automóveis cresceu 19,3% no mesmo período.",
-   "O Corolla XEi tem preço promocional de R$ 169.990, com desconto de R$ 9 mil.",
-   "O Yaris Cross XR está com preço reduzido para R$ 129.900, com uma diferença de R$ 20.090.",
-   "Condições especiais estão disponíveis para taxistas, PCDs e empresas."
-  ],
-  "numeros": [
-   {
-    "valor": "5,69",
-    "rotulo": "participação de mercado da Toyota em 2026"
-   },
-   {
-    "valor": "19,3",
-    "rotulo": "crescimento do mercado nacional"
-   },
-   {
-    "valor": "9 mil",
-    "rotulo": "desconto no Corolla XEi"
-   },
-   {
-    "valor": "20.090",
-    "rotulo": "desconto no Yaris Cross XR"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Indústria"
-  ],
-  "dor": "Vendas caindo com a forte concorrência do mercado",
-  "angulo": "A redução de preços pela Toyota indica a necessidade de se adaptar às condições do mercado. Prepare-se com uma estratégia de marketing eficaz para não perder vendas.",
-  "gancho": "Descubra por que *o preço não é tudo*",
-  "ideias": [
-   "Como a concorrência afeta suas vendas?",
-   "Estratégias para se destacar no varejo",
-   "Por que um bom marketing é essencial agora?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T22:24:47-03:00",
-  "url": "https://canaltech.com.br/carros/toyota-joga-precos-de-corolla-e-yaris-cross-no-chao-veja-condicoes/",
-  "publicadoEm": "2026-10-25T16:02:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-23"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Comércio online prevê alta e oportunidades para todos",
-  "resumo": "O comércio online deve registrar um crescimento superior a 20%, alcançando R$ 13,3 bilhões em vendas. Isso representa uma chance significativa para empresários se adaptarem e se destacarem no mercado.",
-  "fatos": [
-   "O comércio online está prevendo uma alta de mais de 20%.",
-   "A expectativa é que as vendas cheguem a R$ 13,3 bilhões.",
-   "Essa tendência implica em oportunidades para empresas crescerem e se adaptarem ao novo comportamento do consumidor."
-  ],
-  "numeros": [
-   {
-    "valor": "20",
-    "rotulo": "crescimento previsto do comércio online"
-   },
-   {
-    "valor": "13,3 bilhões",
-    "rotulo": "vendas esperadas"
-   }
-  ],
-  "fonte": "A TARDE",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local"
-  ],
-  "dor": "perder oportunidades de vendas no comércio online",
-  "angulo": "O crescimento das vendas no comércio online destaca a necessidade de um planejamento adequado e estratégias de marketing digital para se destacar neste cenário competitivo.",
-  "gancho": "Oportunidade *imperdível* no comércio online",
-  "ideias": [
-   "Prepare sua loja para o crescimento online!",
-   "Como aproveitar a alta no comércio digital?",
-   "Estratégias que garantem vendas em 2023"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "alta",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T22:24:47-03:00",
-  "url": "https://www.google.com/search?q=Com%C3%A9rcio+online+prev%C3%AA+alta+de+mais+de+20%25+e+R%24+13%2C3+bilh%C3%B5es+em+vendas+A+TARDE",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T09:37:37-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-22"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Calendário do TikTok Shop: promoções até dezembro",
-  "resumo": "O TikTok Shop lance um calendário de promoções que vai até dezembro, com descontos e cupons em diferentes categorias. Empresários podem aproveitar as datas para impulsionar as vendas.",
-  "fatos": [
-   "As campanhas promocionais começam em 27 de outubro e vão até dezembro.",
-   "Serão oferecidos descontos de até 70% e cupons de até R$ 200.",
-   "Entre 18 de novembro e 3 de dezembro, haverá descontos gerais associados à Black Friday.",
-   "As promoções incluem ofertas relâmpago, frete grátis e parcelamento em até 12 vezes sem juros.",
-   "A estratégia do TikTok Shop integra conteúdo e comércio, potencializando as vendas na plataforma."
-  ],
-  "numeros": [
-   {
-    "valor": "70",
-    "rotulo": "por cento de desconto"
-   },
-   {
-    "valor": "200",
-    "rotulo": "reais em cupons"
-   },
-   {
-    "valor": "12",
-    "rotulo": "vezes sem juros para parcelamento"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Comércio local",
-   "Empresários",
-   "Prestadores de serviço"
-  ],
-  "dor": "perder vendas em datas importantes do varejo",
-  "angulo": "Com um calendário de promoções ideal, sua empresa pode se destacar e aproveitar a alta demanda nas redes sociais. Não deixe suas ofertas para trás.",
-  "gancho": "Aproveite *as promoções no TikTok Shop*",
-  "ideias": [
-   "Como o TikTok pode impulsionar suas vendas",
-   "Descubra as ofertas do TikTok Shop",
-   "Atraia clientes com promoções temáticas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T22:24:47-03:00",
-  "url": "https://mercadoeconsumo.com.br/25/10/2026/ecommerce/tiktok-shop-lanca-calendario-de-promocoes-para-impulsionar-vendas-ate-dezembro/",
-  "publicadoEm": "2026-10-25T18:58:42-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-21"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Câmeras de 50MP e 5G: potente combinação da Motorola",
-  "resumo": "A Motorola mantém sua popularidade no Brasil com smartphones 5G e câmeras de alta qualidade. Confira as promoções e descubra como isso pode impactar o seu negócio.",
-  "fatos": [
-   "A linha Moto G oferece ótimo custo-benefício e conectividade 5G.",
-   "O Moto g35 5G conta com câmera de 50MP e tela de 6,7 polegadas.",
-   "O Moto g56 5G possui câmera Sony Lytia 600 de 50MP e 256GB de armazenamento.",
-   "O Moto G06 tem bateria de 5200 mAh e tela de 6,9 polegadas.",
-   "Os estoques em promoção na Amazon são limitados e os preços podem mudar rapidamente."
-  ],
-  "numeros": [],
-  "fonte": "Olhar Digital",
-  "categoria": "Consumo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais"
-  ],
-  "dor": "não se destacar em um mercado competitivo",
-  "angulo": "Entender como a tecnologia e as promoções impactam as vendas pode levar sua empresa a adotar estratégias mais eficientes.",
-  "gancho": "Descubra como *a Motorola pode impulsionar suas vendas*",
-  "ideias": [
-   "Por que investir em tecnologia de ponta?",
-   "Como as promoções impactam suas vendas?",
-   "A importância de acompanhar as novidades do mercado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://olhardigital.com.br/2026/10/25/reviews/motorola-em-destaque-smartphones-5g-com-camera-de-50mp-e-recursos-premium-em-oferta/",
-  "publicadoEm": "2026-10-25T17:59:51-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-20"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Skechers expande e mostra a força do varejo",
-  "resumo": "A abertura de uma nova loja Skechers em SP ressalta a importância de uma boa estratégia de marketing. O conforto é essencial para conquista dos consumidores.",
-  "fatos": [
-   "A Skechers abriu um outlet de 675 m² na Zona Leste de São Paulo.",
-   "Este é o sétimo outlet inaugurado pela marca no Brasil em 2026.",
-   "A marca possui 5,3 mil lojas em todo o mundo e faturamento previsto de mais de US$ 10,5 bilhões este ano.",
-   "A companhia está investindo em marketing e expansão no Brasil.",
-   "A Skechers planeja dobrar seu volume de negócios no Brasil a cada dois ou três anos."
-  ],
-  "numeros": [
-   {
-    "valor": "7",
-    "rotulo": "lojas abertas em 2026"
-   },
-   {
-    "valor": "10,5 bilhões",
-    "rotulo": "faturamento previsto em 2023"
-   },
-   {
-    "valor": "5,3 mil",
-    "rotulo": "lojas no mundo"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perda de market share para concorrentes mais ágeis",
-  "angulo": "A expansão da Skechers mostra que investir em marketing e presença digital é crucial para se manter competitivo. Sua empresa está pronta para isso?",
-  "gancho": "Skechers: *a chave para o sucesso do varejo*",
-  "ideias": [
-   "Como o marketing transforma o varejo",
-   "5 dicas para expandir seu negócio",
-   "O que aprender com a expansão da Skechers"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://mercadoeconsumo.com.br/25/10/2026/noticias-varejo/skechers-expande-sao-paulo-abre-outlet-zona-leste/",
-  "publicadoEm": "2026-10-25T10:00:43-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-19"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Como a escassez de chips afeta seu negócio",
-  "resumo": "Entender a crise nas memórias é crucial para empresários que desejam garantir um bom investimento em tecnologia. Saiba como isso impacta seus custos e decisões de compra.",
-  "fatos": [
-   "O preço dos processadores está aumentando devido a uma escassez de silício global.",
-   "A explosão da demanda por inteligência artificial está redirecionando recursos na indústria.",
-   "Fabricar um wafer de memória HBM consome até 4x mais capacidade física do que um wafer de memória DRAM convencional.",
-   "Os custos de produção estão subindo devido à complexidade e baixa disponibilidade de chips.",
-   "Empresas priorizam contratos bilionários com data centers em vez do mercado de consumo."
-  ],
-  "numeros": [],
-  "fonte": "Canaltech",
-  "categoria": "Consumo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria"
-  ],
-  "dor": "Temor de aumento de custos e perda de competitividade",
-  "angulo": "A crise na indústria de semicondutores pode elevar suas despesas em tecnologia, tornando essencial um planejamento estratégico no uso de recursos.",
-  "gancho": "*Entenda a crise de semicondutores* e como impacta seu",
-  "ideias": [
-   "Como a escassez de chips afeta seu PC?",
-   "Investir em tecnologia: o que o empresário deve saber",
-   "Alerta: aumento de custos de processadores e como se preparar"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "imposto",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://canaltech.com.br/hardware/por-que-processadores-estao-mais-caros-2026/",
-  "publicadoEm": "2026-10-25T14:00:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-18"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Black Friday 2026 movimentará R$ 13,3 bilhões",
-  "resumo": "A Black Friday de 2026 promete significativas vendas no comércio online, com previsão de movimentação de bilhões. É hora de preparar seu negócio para essa oportunidade.",
-  "fatos": [
-   "A Black Friday de 2026 deve movimentar R$ 13,3 bilhões no comércio online.",
-   "A data se consolidou como uma oportunidade de vendas essencial para o e-commerce.",
-   "Empresas precisam se preparar para maximizar as vendas durante esse evento."
-  ],
-  "numeros": [
-   {
-    "valor": "13,3 bilhões",
-    "rotulo": "previsão de vendas na Black Friday 2026"
-   }
-  ],
-  "fonte": "Fala Você Notícias",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Indústria"
-  ],
-  "dor": "perder vendas significativas durante a Black Friday",
-  "angulo": "Com a previsão de vendas bilionárias, empresários devem investir em marketing digital e automação para não ficarem para trás.",
-  "gancho": "Prepare-se para a *oportunidade bilionária*",
-  "ideias": [
-   "Black Friday: como se preparar?",
-   "Dicas para aumentar suas vendas online",
-   "A importância do marketing na Black Friday"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://www.google.com/search?q=Black+Friday+2026+deve+movimentar+R%24+13%2C3+bilh%C3%B5es+no+com%C3%A9rcio+online+Fala+Voc%C3%AA+Not%C3%ADcias",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T11:15:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-17"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Comércio online cresce: entenda como se adaptar",
-  "resumo": "Expectativa de crescimento no comércio eletrônico destaca a necessidade de adaptação. Prepare seu negócio para aproveitar a alta nas vendas.",
-  "fatos": [
-   "O comércio online prevê uma alta de mais de 20% nas vendas.",
-   "Essa alta representa um total estimado de R$ 13,3 bilhões.",
-   "A adaptação às novas demandas do consumidor é essencial para o sucesso."
-  ],
-  "numeros": [
-   {
-    "valor": "20",
-    "rotulo": "percentual de alta no comércio online"
-   },
-   {
-    "valor": "13.3 bilhões",
-    "rotulo": "vendas esperadas"
-   }
-  ],
-  "fonte": "A TARDE",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local"
-  ],
-  "dor": "perda de vendas se não se adaptar ao online",
-  "angulo": "Com a alta prevista no e-commerce, entender o mercado é crucial. O serviço de marketing pode ajudar a estruturar sua presença online.",
-  "gancho": "Oportunidades de crescimento no *comércio online*",
-  "ideias": [
-   "Prepare-se para o boom do e-commerce",
-   "Como vender mais com marketing digital",
-   "Aproveite a alta nas vendas online"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://www.google.com/search?q=Com%C3%A9rcio+online+prev%C3%AA+alta+de+mais+de+20%25+e+R%24+13%2C3+bilh%C3%B5es+em+vendas+A+TARDE",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T09:37:37-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-16"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Frete reduzido pode melhorar vendas de e-commerce",
-  "resumo": "A inauguração do novo centro de distribuição da Nuvemshop promete otimizar entregas e reduzir custos. Os empresários devem aproveitar essa oportunidade para potencializar suas vendas.",
-  "fatos": [
-   "A Nuvemshop inaugurou um centro de distribuição no Rio de Janeiro para acelerar entregas.",
-   "A expectativa é reduzir os custos de frete em pelo menos 20%.",
-   "Um dia a menos no prazo de envio pode aumentar a taxa de conversão em até 3%.",
-   "O novo centro processará cerca de 145,2 mil pacotes por mês.",
-   "A unidade foca em atender a demanda local durante a Black Friday."
-  ],
-  "numeros": [
-   {
-    "valor": "20",
-    "rotulo": "redução de custo no frete"
-   },
-   {
-    "valor": "3",
-    "rotulo": "aumento na taxa de conversão por dia a menos na entrega"
-   },
-   {
-    "valor": "145,2 mil",
-    "rotulo": "pacotes processados por mês"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "O empresário teme perder vendas devido a altos custos logísticos.",
-  "angulo": "A situação destaca a importância da logística eficiente e como um site otimizado pode melhorar a experiência do cliente e as vendas.",
-  "gancho": "Como *reduzir custos de frete* e aumentar vendas?",
-  "ideias": [
-   "A importância da logística para o e-commerce",
-   "Como otimizar o frete pode aumentar suas vendas",
-   "Black Friday: prepare-se para a demanda de entrega"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://mercadoeconsumo.com.br/25/10/2026/logistica/nuvemshop-inaugura-cd-no-rio-de-janeiro-para-acelerar-entregas-e-reduzir-frete/",
-  "publicadoEm": "2026-10-25T18:08:48-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-15"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Fiat se adapta para enfrentar concorrência chinesa",
-  "resumo": "A Fiat avalia relançar um SUV icônico para competir no mercado brasileiro. A pressão das marcas chinesas exige inovação e atualização das linhas de produtos.",
-  "fatos": [
-   "A Fiat pode recuperar um modelo que saiu de linha há quase uma década.",
-   "As projeções digitais foram feitas pelo designer Kleber Silva.",
-   "A proposta se alinha à preferência atual por SUVs de aparência aventureira.",
-   "Chinesas estão pressionando marcas tradicionais a renovar suas linhas.",
-   "Não há confirmação oficial sobre a retomada do projeto."
-  ],
-  "numeros": [],
-  "fonte": "Canaltech",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Indústria"
-  ],
-  "dor": "temor de perder competitividade e clientes",
-  "angulo": "A resiliência da Fiat frente à competição chinesa é um exemplo de como inovação é vital. Uma estratégia bem planejada pode impulsionar negócios e manter relevância no mercado.",
-  "gancho": "como *inovar é essencial para sobreviver*",
-  "ideias": [
-   "Como se destacar no mercado competitivo?",
-   "A importância da inovação no seu negócio",
-   "Estratégias para enfrentar concorrência"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://canaltech.com.br/carros/fiat-quer-ressuscitar-suv-iconico-para-encarar-chineses/",
-  "publicadoEm": "2026-10-25T12:01:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-14"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Desafios na hora de investir em IA e IPOs",
-  "resumo": "A instabilidade do mercado e os altos juros impactam empresas de IA, exacerbando a necessidade de marketing eficaz. O IPO da Anthropic pode ser um reflexo da demanda no setor.",
-  "fatos": [
-   "A Anthropic planeja abrir seu capital em novembro apesar da instabilidade financeira.",
-   "Outras empresas de IA estão adiando suas estreias na bolsa devido a incertezas do mercado.",
-   "A operação da Anthropic pode avaliar a empresa em até US$ 1,5 trilhão.",
-   "Com a alta de taxas de juros, torna-se difícil obter avaliações atrativas para IPOs.",
-   "A recepção do IPO da Anthropic pode influenciar o timing de outras ofertas de ações no setor."
-  ],
-  "numeros": [
-   {
-    "valor": "1,5 trilhões",
-    "rotulo": "avaliação da Anthropic"
-   }
-  ],
-  "fonte": "Olhar Digital",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria"
-  ],
-  "dor": "perder oportunidades diante da instabilidade e novos desafios",
-  "angulo": "O cenário desafiador ressalta a importância de um marketing estruturado e de um planejamento para empresas que desejam se destacar no mercado volátil.",
-  "gancho": "Como a *instabilidade de mercado* afeta seus negócios?",
-  "ideias": [
-   "Entenda o impacto do mercado nas empresas de IA",
-   "Por que planejar seu IPO agora é crucial?",
-   "A importância do marketing em tempos de incerteza"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://olhardigital.com.br/2026/10/25/pro/anthropic-prepara-ipo-bilionario-enquanto-empresas-de-ia-adiam-estreia-na-bolsa/",
-  "publicadoEm": "2026-10-25T15:12:19-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-13"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Inteligência artificial ainda não traz retorno financeiro",
-  "resumo": "O uso de inteligência artificial não gerou retorno financeiro significativo para empresas que não estão no setor de tecnologia, segundo economista.",
-  "fatos": [
-   "Inteligência artificial tem sido adotada por diversas empresas.",
-   "No entanto, seu impacto financeiro é limitado fora do setor tecnológico.",
-   "Economista alerta sobre as expectativas não cumpridas em outros segmentos."
-  ],
-  "numeros": [],
-  "fonte": "BlockTrends",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria",
-   "Restaurantes"
-  ],
-  "dor": "perda de investimento em novas tecnologias sem retorno",
-  "angulo": "A falta de retorno financeiro destaca a importância de um planejamento bem estruturado para o uso de IA nos negócios.",
-  "gancho": "Inteligência artificial *não garante retorno financeiro*",
-  "ideias": [
-   "O desafio da IA fora da tecnologia",
-   "Planejamento: a chave para a IA",
-   "Investir em IA: vale a pena?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "alta",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://www.google.com/search?q=Intelig%C3%AAncia+artificial+n%C3%A3o+gerou+retorno+financeiro+para+empresas+fora+do+setor+de+tecnologia%2C+diz+economista+BlockTrends",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T15:32:15-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-12"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Varejo contrata mulheres para o fim de ano",
-  "resumo": "A pesquisa revela que o varejo está priorizando contratações femininas neste fim de ano. Essa mudança pode impactar as vendas e o comportamento do consumidor.",
-  "fatos": [
-   "O varejo tem adaptado suas estratégias de contratação para incluir mais mulheres.",
-   "Essa priorização pode afetar a dinâmica de vendas no período de festas.",
-   "Entender essas mudanças é vital para os empresários que desejam se destacar."
-  ],
-  "numeros": [],
-  "fonte": "Capital News",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Perda de oportunidades em um mercado competitivo.",
-  "angulo": "Com as mudanças nos processos de contratação, é crucial que os empresários se adaptem para maximizar vendas e garantir um bom atendimento.",
-  "gancho": "Varejo e as *novas contratações femininas*",
-  "ideias": [
-   "Por que o varejo prioriza mulheres?",
-   "Impactos das contratações nas vendas",
-   "Como se adaptar às novas tendências"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://www.google.com/search?q=Varejo+prioriza+mulheres+nas+contrata%C3%A7%C3%B5es+tempor%C3%A1rias+de+fim+de+ano%2C+diz+pesquisa+Capital+News",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T09:16:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-11"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Comércio online prevê alta nas vendas em 2023",
-  "resumo": "O comércio eletrônico estima um aumento significativo nas vendas, o que pode impactar positivamente os negócios. Empresas devem se preparar para capitalizar essa tendência.",
-  "fatos": [
-   "O comércio online prevê um crescimento de mais de 20% em vendas.",
-   "Esse aumento pode resultar em R$ 13,3 bilhões em vendas.",
-   "A expectativa é que o setor continue a crescer nos próximos anos."
-  ],
-  "numeros": [
-   {
-    "valor": "20",
-    "rotulo": "crescimento previsto nas vendas"
-   },
-   {
-    "valor": "13,3 bilhões",
-    "rotulo": "em vendas no comércio online"
-   }
-  ],
-  "fonte": "A TARDE",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria"
-  ],
-  "dor": "temor de perder vendas para e-commerce",
-  "angulo": "Com o crescimento das vendas online, é essencial ter um site e gestão eficaz de redes sociais para se destacar no mercado.",
-  "gancho": "Prepare-se para *a alta das vendas online!*",
-  "ideias": [
-   "Sua empresa pronta para o aumento das vendas?",
-   "Descubra como o e-commerce pode alavancar seu negócio!",
-   "Está preparado para o crescimento do comércio online?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://www.google.com/search?q=Com%C3%A9rcio+online+prev%C3%AA+alta+de+mais+de+20%25+e+R%24+13%2C3+bilh%C3%B5es+em+vendas+A+TARDE",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T09:37:37-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-10"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Black Friday 2026 promete arrecadar bilhões no online",
-  "resumo": "A Black Friday de 2026 é esperada para movimentar uma quantia significativa no comércio online, demandando atenção das empresas. As oportunidades devem ser aproveitadas com estratégia.",
-  "fatos": [
-   "A Black Friday de 2026 deverá gerar movimentação de R$ 13,3 bilhões.",
-   "O evento se configurará como uma oportunidade para as empresas do comércio online.",
-   "É essencial que as marcas se preparem para maximizar suas vendas."
-  ],
-  "numeros": [
-   {
-    "valor": "13,3 bilhões",
-    "rotulo": "projeção de vendas na Black Friday"
-   }
-  ],
-  "fonte": "Fala Você Notícias",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perder vendas essenciais durante datas comerciais",
-  "angulo": "A expectativa da Black Friday destaca a importância de um site eficaz e estratégia de marketing digital para não perder oportunidades.",
-  "gancho": "Descubra como *preparar seu negócio*",
-  "ideias": [
-   "Como se preparar para a Black Friday",
-   "Importância de um site antes da Black Friday",
-   "Estratégias para aproveitar a venda online"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://www.google.com/search?q=Black+Friday+2026+deve+movimentar+R%24+13%2C3+bilh%C3%B5es+no+com%C3%A9rcio+online+Fala+Voc%C3%AA+Not%C3%ADcias",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T11:15:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-09"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Google apresenta ferramentas de IA para pequenos negócios",
-  "resumo": "O Google lançou três novas ferramentas de inteligência artificial visando apoiar pequenos negócios a melhorar suas operações e atendimento ao cliente.",
-  "fatos": [
-   "Essas ferramentas têm o potencial de otimizar a presença online das empresas.",
-   "A implementação de IA pode elevar a eficiência no atendimento ao cliente.",
-   "As soluções visam simplificar processos e proporcionar insights para os empresários."
-  ],
-  "numeros": [],
-  "fonte": "Seu Crédito Digital",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais"
-  ],
-  "dor": "sua empresa pode ficar para trás em inovação",
-  "angulo": "As novas ferramentas de IA mostram a importância de adaptar-se ao digital e como isso pode impactar seus negócios, destacando a necessidade de um site e gestão adequada.",
-  "gancho": "Use *IA* para impulsionar seus negócios",
-  "ideias": [
-   "Como a IA pode transformar seu atendimento",
-   "Ferramentas de IA que todo pequeno negócio precisa",
-   "Otimize sua presença online com IA"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://www.google.com/search?q=Google+lan%C3%A7a+3+ferramentas+de+IA+para+pequenos+neg%C3%B3cios+Seu+Cr%C3%A9dito+Digital",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T00:00:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-08"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Ipiranga do Norte e a AI nos pequenos negócios",
-  "resumo": "A cidade de Ipiranga do Norte investe em inteligência artificial para apoiar pequenos empreendimentos. Essa tecnologia pode ser uma aliada poderosa na gestão e no crescimento de negócios locais.",
-  "fatos": [
-   "A cidade está promovendo o uso de inteligência artificial como ferramenta essencial.",
-   "Pequenos negócios ganham suporte com a adoção dessa tecnologia.",
-   "O foco é fortalecer a economia local e melhorar os serviços prestados."
-  ],
-  "numeros": [],
-  "fonte": "MOMENTO MT",
-  "categoria": "Inteligência artificial",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais"
-  ],
-  "dor": "perder oportunidades com a falta de inovação tecnológica",
-  "angulo": "O investimento em tecnologia é vital para acompanhar o mercado, e a IA pode transformar a operação do seu negócio, melhorando a competitividade.",
-  "gancho": "Como a *inteligência artificial* pode ajudar seu negócio",
-  "ideias": [
-   "Descubra o poder da IA para seu negócio",
-   "Sua empresa pronta para o futuro com IA",
-   "Inteligência artificial: a chave para o sucesso"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "imposto",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://www.google.com/search?q=Ipiranga+do+Norte+aposta+em+intelig%C3%AAncia+artificial+para+fortalecer+pequenos+neg%C3%B3cios+MOMENTO+MT",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T05:00:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-07"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Desafios das PMEs antes do crescimento",
-  "resumo": "As pequenas e médias empresas enfrentam desafios significativos antes de alcançar a próxima fase de crescimento. É crucial que estejam preparadas para garantir sua competitividade.",
-  "fatos": [
-   "As PMEs precisam se adaptar rapidamente às mudanças do mercado.",
-   "A gestão eficaz é fundamental para superar obstáculos.",
-   "A inovação e a tecnologia desempenham papéis essenciais no crescimento."
-  ],
-  "numeros": [],
-  "fonte": "CNN Brasil",
-  "categoria": "Leis e economia",
-  "publico": [
-   "Empresários",
-   "Prestadores de serviço"
-  ],
-  "dor": "Dificuldade em se destacar e crescer no mercado competitivo.",
-  "angulo": "Entender esses desafios ajuda a reconhecer a importância de serviços de marketing para evolução e fortalecimento da marca.",
-  "gancho": "Prepare sua PME para *crescimento sustentável*.",
-  "ideias": [
-   "Como superar os desafios das PMEs?",
-   "Inovação: chave para o sucesso das pequenas empresas",
-   "Por que sua PME precisa de um plano de marketing?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://www.google.com/search?q=Os+principais+desafios+das+PMEs+antes+da+pr%C3%B3xima+fase+de+crescimento+CNN+Brasil",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T07:10:48-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-06"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Vendas online vão crescer mais de 20% em breve",
-  "resumo": "O comércio online deve registrar uma alta significativa nas vendas, superando os R$ 13,3 bilhões. Essa é uma oportunidade que os empresários não podem ignorar.",
-  "fatos": [
-   "O comércio online prevê uma alta de mais de 20%.",
-   "As vendas devem superar R$ 13,3 bilhões.",
-   "É um momento chave para os empresários investirem em marketing."
-  ],
-  "numeros": [
-   {
-    "valor": "20",
-    "rotulo": "crescimento nas vendas"
-   },
-   {
-    "valor": "13,3 bilhões",
-    "rotulo": "valor esperado em vendas"
-   }
-  ],
-  "fonte": "A TARDE",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local"
-  ],
-  "dor": "perda de oportunidades de vendas online",
-  "angulo": "Com a alta nas vendas online, é crucial se destacar com um site e marketing eficaz para não ficar para trás no mercado.",
-  "gancho": "Comércio online: *alta de vendas à vista*!",
-  "ideias": [
-   "Como aproveitar a alta do e-commerce",
-   "Dicas para vender mais online agora",
-   "O futuro do comércio digital em 2023"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://www.google.com/search?q=Com%C3%A9rcio+online+prev%C3%AA+alta+de+mais+de+20%25+e+R%24+13%2C3+bilh%C3%B5es+em+vendas+A+TARDE",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T09:37:37-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-vpr-02"
- },
- {
-  "segmento": "trader",
-  "titulo": "Restituição do Imposto de Renda: como não perder?",
-  "resumo": "A restituição residual do Imposto de Renda será liberada. É importante saber como aproveitar essa oportunidade para melhorar sua situação financeira.",
-  "fatos": [
-   "A restituição residual refere-se ao valor que não foi pago anteriormente pelo governo.",
-   "Os contribuintes devem ficar atentos para garantir que não percam essa quantia.",
-   "Essa restituição pode auxiliar na gestão do orçamento familiar."
-  ],
-  "numeros": [],
-  "fonte": "Bem Paraná",
-  "categoria": "Impostos",
-  "publico": [
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados"
-  ],
-  "dor": "perda de dinheiro que poderia ajudar no orçamento",
-  "angulo": "A restituição pode ser uma chance de melhorar suas finanças e investir em educação financeira, como a mentoria em mercado financeiro.",
-  "gancho": "Aproveite sua *restituição do IR*!",
-  "ideias": [
-   "Como usar a restituição do IR a seu favor",
-   "Imposto de Renda: o que você precisa saber",
-   "Transformando sua restituição em investimento"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "imposto",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T22:24:47-03:00",
-  "url": "https://www.google.com/search?q=Restitui%C3%A7%C3%A3o+residual+do+Imposto+de+Renda+sai+nesta+sexta-feira+Bem+Paran%C3%A1",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T22:00:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-15"
- },
- {
-  "segmento": "trader",
-  "titulo": "Inflação em serviços pressiona custo de vida",
-  "resumo": "A inflação de serviços, que demandam trabalho intensivo, atinge o maior nível em nove anos, mantendo o IPCA acima da meta estabelecida.",
-  "fatos": [
-   "Os serviços que exigem mais mão de obra estão enfrentando um aumento significativo de preços.",
-   "Esse cenário contribui para a manutenção da inflação acima do limite desejado.",
-   "A pressão sobre os custos de serviços pode afetar a renda das famílias e os negócios."
-  ],
-  "numeros": [],
-  "fonte": "Estadão",
-  "categoria": "Custo de vida",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "Aumento de preços engole o orçamento mensal",
-  "angulo": "Entender este cenário é essencial para buscar alternativas que não dependem apenas de salário, como o aprendizado sobre o mercado financeiro.",
-  "gancho": "*Inflação em alta*; como lidar com o impacto no",
-  "ideias": [
-   "Entenda a alta dos preços em serviços",
-   "Como a inflação afeta sua renda?",
-   "Dicas para se proteger da inflação"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T22:24:47-03:00",
-  "url": "https://www.google.com/search?q=Infla%C3%A7%C3%A3o+de+servi%C3%A7o+intensivo+em+trabalho+tem+pico+em+9+anos+e+mant%C3%A9m+IPCA+acima+da+meta+Estad%C3%A3o",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T20:11:13-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-14"
- },
- {
-  "segmento": "trader",
-  "titulo": "Aumento da pobreza na Europa afeta todos nós",
-  "resumo": "O crescente custo de vida na Europa pode provocar um aumento da pobreza, impactando a economia global. Isso gera preocupação entre empresários e trabalhadores ao redor do mundo.",
-  "fatos": [
-   "O aumento do custo de vida está pressionando a economia na Europa.",
-   "Essa situação pode resultar em um aumento da pobreza entre a população.",
-   "As consequências econômicas podem refletir em diversos mercados, afetando negócios e empregos fora da Europa."
-  ],
-  "numeros": [],
-  "fonte": "Vietnam.vn",
-  "categoria": "Custo de vida",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "Aumento no custo de vida reduz rendimento real",
-  "angulo": "Entender como as flutuações na economia global impactam seu orçamento é fundamental para se preparar. Aprender sobre investimentos pode ser um caminho para garantir sua renda.",
-  "gancho": "Aumento do custo de vida *afeta seu bolso*",
-  "ideias": [
-   "Como a pobreza na Europa pode impactar o Brasil?",
-   "Estratégias para sobreviver em tempos de crise econômica",
-   "A importância de diversificar sua renda hoje"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T22:24:47-03:00",
-  "url": "https://www.google.com/search?q=A+Europa+enfrenta+o+risco+de+aumento+da+pobreza+devido+%C3%A0+crescente+subida+do+custo+de+vida.+Vietnam.vn",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T21:27:50-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-13"
- },
- {
-  "segmento": "trader",
-  "titulo": "Os impactos da vitória de Lula no seu bolso",
-  "resumo": "A vitória de Lula traz mudanças econômicas significativas que podem afetar diversos setores e a renda dos trabalhadores. É importante entender quem sairá ganhando e quem poderá perder com essas decisões.",
-  "fatos": [
-   "A nova gestão pode alterar leis que impactam impostos e negócios.",
-   "Decisões econômicas influenciam diretamente no custo de vida das famílias.",
-   "Para muitos, a vitória pode representar um risco maior na retomada do emprego e renda."
-  ],
-  "numeros": [],
-  "fonte": "Poder360",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados"
-  ],
-  "dor": "aumento no custo de vida sem aumento de salário",
-  "angulo": "Aprender a operar no mercado financeiro pode oferecer uma alternativa de renda, reduzindo a dependência das mudanças políticas que impactam seu dia a dia.",
-  "gancho": "A vitória de Lula *impacta seu bolso*",
-  "ideias": [
-   "O que muda com Lula na economia?",
-   "Você está preparado para as mudanças?",
-   "Como aumentar sua renda em tempos incertos?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T22:24:47-03:00",
-  "url": "https://www.google.com/search?q=Saiba+quem+ganha+e+quem+perde+com+a+vit%C3%B3ria+de+Lula+Poder360",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T21:18:53-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-12"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1: novos desafios para profissionais",
-  "resumo": "A mudança na escala de trabalho impacta a renda e a rotina de muitos trabalhadores, gerando preocupação com a estabilidade financeira.",
-  "fatos": [
-   "A escala 6x1, comum em diversas profissões, está sendo revisada.",
-   "Essa alteração traz uma nova dinâmica de trabalho que pode afetar o orçamento das famílias.",
-   "Profissionais têm se perguntado como garantir uma renda estável diante dessas mudanças."
-  ],
-  "numeros": [],
-  "fonte": "Estadão MT",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Autônomos",
-   "Jovens"
-  ],
-  "dor": "Incerteza sobre a renda estável e rotina adequada.",
-  "angulo": "Com mudanças no mercado de trabalho, aprender sobre o mercado financeiro se torna uma habilidade crucial para manter a renda e se adaptar às novas realidades.",
-  "gancho": "*A mudança da escala* pode afetar seu bolso!",
-  "ideias": [
-   "Como se adaptar ao fim da escala 6x1?",
-   "Dicas para trabalhar no mercado financeiro hoje",
-   "Renda extra: uma alternativa segura em tempos de mudanças"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+Estad%C3%A3o+MT",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T19:56:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-11"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 pode afetar sua renda",
-  "resumo": "A mudança na escala de trabalho 6x1 pode gerar um impacto financeiro significativo para os municípios, com custos elevados a serem considerados. Entenda as consequências disso para o seu bolso.",
-  "fatos": [
-   "O fim da escala 6x1 pode custar R$ 5,14 bilhões por ano aos municípios.",
-   "Essa alteração impacta diretamente as contas públicas, exigindo ajustes no orçamento.",
-   "Profissionais podem ser afetados pela troca de horários e divisões de trabalho."
-  ],
-  "numeros": [
-   {
-    "valor": "5,14 bilhões",
-    "rotulo": "custo para municípios"
-   }
-  ],
-  "fonte": "Capital News",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Jovens"
-  ],
-  "dor": "a perda de garantias e rendimentos com mudanças nas escalas de trabalho",
-  "angulo": "Aprender o mercado financeiro pode proporcionar segurança e liberdade para lidar com mudanças no emprego, reduzindo a dependência do salário fixo.",
-  "gancho": "Impactos do *fim da escala 6x1*",
-  "ideias": [
-   "O que a nova escala significa para você?",
-   "Como o mercado financeiro pode te ajudar?",
-   "Prepare-se para mudanças no seu trabalho!"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+pode+custar+R%24+5%2C14+bilh%C3%B5es+por+ano+aos+munic%C3%ADpios+Capital+News",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T18:26:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-10"
- },
- {
-  "segmento": "trader",
-  "titulo": "Preços dos combustíveis e seus impactos no bolso",
-  "resumo": "Os preços da gasolina e do diesel estão subindo significativamente, superando a inflação. Essas alterações trazem preocupações sobre os efeitos no custo de vida após as eleições.",
-  "fatos": [
-   "Os aumentos nos preços dos combustíveis têm impacto direto no custo de vida.",
-   "Motoristas e empresários sentem o peso das correções nos combustíveis.",
-   "Essas mudanças podem afetar a economia local e os negócios da região."
-  ],
-  "numeros": [],
-  "fonte": "GZH",
-  "categoria": "Custo de vida",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Autônomos"
-  ],
-  "dor": "Aumento dos preços que impacta lucros e salários.",
-  "angulo": "Entender as variações nos combustíveis ajuda a tomar decisões financeiras mais inteligentes, além de considerar alternativas de renda no mercado financeiro.",
-  "gancho": "Atenção para *aumento no custo de vida*",
-  "ideias": [
-   "Como a alta de combustíveis impacta seu negócio?",
-   "Combustíveis caros: hora de diversificar sua renda?",
-   "O que a inflação dos combustíveis diz sobre o futuro?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "alta",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T20:39:26-03:00",
-  "url": "https://www.google.com/search?q=Gasolina+e+diesel+sobem+bem+acima+da+infla%C3%A7%C3%A3o.+E+depois+da+elei%C3%A7%C3%A3o%3F+GZH",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T20:10:54-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-09"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1: o que muda para o agro",
-  "resumo": "O fim da escala 6x1 traz mudanças preocupantes para o setor agropecuário e gera incertezas sobre quem vai arcar com os custos dessa mudança.",
-  "fatos": [
-   "A alteração na escala de trabalho pode impactar a rotina dos trabalhadores do agro.",
-   "A expectativa é de que essa mudança tenha reflexos diretos nos custos operacionais.",
-   "Os empresários do setor devem se preparar para ajustar suas estratégias e orçamentos."
-  ],
-  "numeros": [],
-  "fonte": "Canal Rural",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Autônomos"
-  ],
-  "dor": "Perda de flexibilidade e aumento de custos operacionais.",
-  "angulo": "Com as mudanças nas escalas de trabalho, entender o mercado financeiro se torna essencial para enfrentar novos desafios sem depender somente do salário.",
-  "gancho": "*Mudanças no trabalho* e seus reflexos no agro",
-  "ideias": [
-   "O que significa o fim da escala 6x1?",
-   "Como se adaptar ao novo normal no trabalho?",
-   "Aumente sua renda aprendendo sobre o mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1%3A+o+que+muda+para+o+agro+e+quem+paga+a+conta%3F+Canal+Rural",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T13:00:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-08"
- },
- {
-  "segmento": "trader",
-  "titulo": "Protestos na Europa mostram a pressão no bolso",
-  "resumo": "Protestos em países europeus refletem o descontentamento com o alto custo de vida. Essa situação pode afetar a economia e gerar desemprego.",
-  "fatos": [
-   "Cidadãos estão se mobilizando contra a inflação alta e o aumento do custo de vida.",
-   "Esses protestos podem resultar em instabilidade econômica, afetando a geração de empregos.",
-   "A pressão no bolso pode fazer com que muitos reconsiderem suas fontes de renda."
-  ],
-  "numeros": [],
-  "fonte": "Estadão",
-  "categoria": "Custo de vida",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "preocupação com a diminuição do poder de compra",
-  "angulo": "Com a instabilidade econômica, é essencial diversificar a renda para enfrentar a pressão no custo de vida.",
-  "gancho": "Como *ajustar sua renda* em tempos difíceis?",
-  "ideias": [
-   "Renda extra: você está preparado?",
-   "Custo de vida alto: como lidar?",
-   "Diversifique sua renda agora!"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://www.google.com/search?q=Onda+de+protestos+contra+alto+custo+de+vida+toma+conta+de+pa%C3%ADses+da+Europa+Estad%C3%A3o",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T13:43:21-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-07"
- },
- {
-  "segmento": "trader",
-  "titulo": "Inflação em queda é oportunidade para traders",
-  "resumo": "A prévia da inflação de outubro apresenta uma diminuição, impulsionada pela queda nos preços de água e luz. Essa tendência pode impactar o bolso do brasileiro e as estratégias de negócios.",
-  "fatos": [
-   "A prévia da inflação de outubro é menor do que em meses anteriores.",
-   "Os preços de água e luz estão em queda, contribuindo para essa redução.",
-   "Uma inflação mais baixa pode afetar o poder de compra e a administração de negócios."
-  ],
-  "numeros": [],
-  "fonte": "Porto Alegre 24 Horas",
-  "categoria": "Custo de vida",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados",
-   "Jovens"
-  ],
-  "dor": "Aumento contínuo do custo de vida e incerteza econômica.",
-  "angulo": "Com a inflação em queda, aprender sobre o mercado financeiro pode ajudar a montar estratégias que aumentam a renda sem depender apenas de salários.",
-  "gancho": "*Inflação em queda* e oportunidades no mercado financeiro",
-  "ideias": [
-   "Como a inflação em queda pode te ajudar?",
-   "Mercado financeiro: a solução para sua renda",
-   "Desvendando o impacto da inflação no seu bolso"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://www.google.com/search?q=Pr%C3%A9via+da+infla%C3%A7%C3%A3o+de+outubro+no+Brasil+%C3%A9+menor%2C+com+queda+de+pre%C3%A7os+de+%C3%A1gua+e+luz+Porto+Alegre+24+Horas",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T15:22:15-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-06"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 e suas consequências",
-  "resumo": "A mudança na escala de trabalho pode impactar significativamente as empresas. É importante que empreendedores se adaptem a essa nova realidade.",
-  "fatos": [
-   "A escala 6x1, muito utilizada em diversos setores, está sendo revista por seu impacto nas operações.",
-   "As empresas precisarão se ajustar para garantir produtividade e satisfação dos funcionários.",
-   "Mudanças na legislação podem trazer desafios e oportunidades para os negócios."
-  ],
-  "numeros": [],
-  "fonte": "Revista Oeste",
-  "categoria": "Trabalho",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Autônomos"
-  ],
-  "dor": "aumento de custos e dificuldades operacionais",
-  "angulo": "adaptar-se às novas escalas de trabalho é essencial para manter a rentabilidade e segurança nas operações.",
-  "gancho": "Descubra os *impactos da nova escala*",
-  "ideias": [
-   "Como se adaptar ao fim da escala 6x1",
-   "Preparação para mudanças nas leis trabalhistas",
-   "Impacto da nova escala nas pequenas empresas"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T15:39:53-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1%3A+quais+os+impactos+para+as+empresas+e+como+se+preparar%3F+Revista+Oeste",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T14:00:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-05"
- },
- {
-  "segmento": "trader",
-  "titulo": "Escala 6x1: mudanças no trabalho e no bolso",
-  "resumo": "As novas regras sobre a jornada de trabalho impactam diretamente a economia dos trabalhadores. Entenda as implicações e como isso pode afetar seu dia a dia.",
-  "fatos": [
-   "O fim da escala 6x1 já está em vigor.",
-   "Trabalhadores podem ver mudanças significativas em sua carga horária.",
-   "Essas alterações podem gerar debates jurídicos entre empregadores e empregados."
-  ],
-  "numeros": [],
-  "fonte": "Consultor Jurídico",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Empresários"
-  ],
-  "dor": "temor por instabilidade nas horas trabalhadas e nos ganhos",
-  "angulo": "Com as novas regras trabalhistas, aprender sobre o mercado financeiro se torna essencial para garantir uma renda extra e maior segurança financeira.",
-  "gancho": "Mudanças na *escala de trabalho* afetam seu bolso",
-  "ideias": [
-   "Como o fim da escala 6x1 impacta sua renda?",
-   "Alternativas ao salário fixo na nova realidade trabalhista",
-   "O que fazer com as novas regras de jornada de trabalho?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1%3A+o+que+j%C3%A1+vale+e+o+que+ainda+vai+parar+na+Justi%C3%A7a+Consultor+Jur%C3%ADdico",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T06:01:58-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-04"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 impacta setor de petróleo e gás",
-  "resumo": "Mudança na jornada de trabalho pode tornar contratações mais difíceis no setor de petróleo e gás, afetando também as oportunidades de emprego nas plataformas.",
-  "fatos": [
-   "A alteração no regime de trabalho 6x1 deve complicar a contratação de novos trabalhadores.",
-   "Esse novo formato impacta diretamente as atividades nas plataformas de petróleo e gás.",
-   "As empresas estão preocupadas com as mudanças nas regras de jornada."
-  ],
-  "numeros": [],
-  "fonte": "Estadão",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Jovens",
-   "CLT",
-   "Autônomos"
-  ],
-  "dor": "dificuldade em encontrar emprego em setores estáveis",
-  "angulo": "Aprender sobre o mercado financeiro pode ser uma alternativa para diversificá-las e garantir renda sem depender de um horário fixo.",
-  "gancho": "O que fazer após o *fim da escala 6x1*?",
-  "ideias": [
-   "Alternativas de renda fixa no mercado financeiro",
-   "Como o mercado financeiro pode aumentar sua renda?",
-   "Dicas para diversificar sua renda e fugir das amarras"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+deve+dificultar+contrata%C3%A7%C3%B5es+no+setor+de+petr%C3%B3leo+e+g%C3%A1s%2C+sobretudo+em+plataformas+Estad%C3%A3o",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T09:26:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-03"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1: mudanças no trabalho",
-  "resumo": "A nova legislação traz impactos significativos na jornada de trabalho, permitindo mais tempo livre aos empregados. Essa mudança também pode afetar o planejamento financeiro das empresas.",
-  "fatos": [
-   "A escala 6x1 era uma rotina comum para muitos trabalhadores.",
-   "Com o fim dessa prática, espera-se uma melhoria na qualidade de vida dos empregados.",
-   "Isso pode forçar as empresas a se adaptarem às novas regras de trabalho."
-  ],
-  "numeros": [],
-  "fonte": "O GLOBO",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Autônomos",
-   "Empresários"
-  ],
-  "dor": "Incerteza sobre como lidar com novas regras laborais",
-  "angulo": "Essa mudança traz à tona a importância de diversificar a renda e não depender apenas do salário fixo, o que pode ser feito através do mercado financeiro.",
-  "gancho": "O *fim da escala 6x1* e suas consequências",
-  "ideias": [
-   "O que muda com o fim da escala 6x1?",
-   "Como a nova legislação impacta sua renda?",
-   "Diversificando sua renda após a carga horária reduzida"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://www.google.com/search?q=O+fim+da+escala+6x1+e+o+direito+de+ter+tempo+O+GLOBO",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T04:00:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-02"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 e seus impactos financeiros",
-  "resumo": "Mudança na jornada de trabalho gera discussões sobre produtividade e custos. Entenda como isso pode afetar sua renda e a gestão de negócios.",
-  "fatos": [
-   "A escala 6x1 está sendo revista, trazendo debate sobre jornada de trabalho.",
-   "Discussões envolvem custos operacionais e a produtividade dos funcionários.",
-   "Empresários precisam se adaptar às novas demandas do mercado de trabalho."
-  ],
-  "numeros": [],
-  "fonte": "O Dia",
-  "categoria": "Trabalho",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Autônomos"
-  ],
-  "dor": "medo de aumento de custos sem retorno de produtividade",
-  "angulo": "Aprender sobre o mercado financeiro pode auxiliar na diversificação de renda, evitando dependência da jornada tradicional.",
-  "gancho": "Mudanças na *jornada de trabalho* e seus efeitos",
-  "ideias": [
-   "Impactos da nova jornada sobre sua renda",
-   "Como se preparar para mudanças no trabalho",
-   "Adapte sua estratégia de negócio às novas leis"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-10-25T10:59:04-03:00",
-  "url": "https://www.google.com/search?q=Fim+da+escala+6x1+provoca+debate+sobre+jornada%2C+custos+e+produtividade+O+Dia",
-  "urlBusca": true,
-  "publicadoEm": "2026-10-25T05:00:00-03:00",
-  "data": "2026-10-25",
-  "id": "2026-10-25-trader-01"
  }
 ]

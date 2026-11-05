@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-04T22:52:51-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-11-05T14:43:11-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Fim da escala 6x1: impactos no bolso e no trabalho; Projeto proíbe obsolescência programada de produtos; Selic a 13,75%: impacto no bolso e investimentos.",
+  "mensagem": "4 pauta(s) nova(s): Fim da jornada 6x1 gera preocupações no setor; Novos desafios com o fim da escala 6x1; Mudanças nas jornadas: fim da escala 6x1.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-05T14:43:11-03:00",
    "2026-11-04T22:52:51-03:00",
    "2026-11-04T18:39:55-03:00",
    "2026-11-04T14:37:40-03:00",
@@ -18,19 +19,19 @@
    "2026-11-02T20:16:22-03:00",
    "2026-11-02T16:51:17-03:00",
    "2026-11-02T07:43:03-03:00",
-   "2026-11-02T07:39:06-03:00",
-   "2026-11-01T22:05:33-03:00"
+   "2026-11-02T07:39:06-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-04T22:52:51-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-05T14:43:11-03:00",
+  "novas": 10,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): 84,3% das lojas de atacarejo melhoram desempenho após proibição das bets; Segurança cibernética: essencial para PMEs na era digital; Crescimento digital e necessidade de estratégia de marketing.",
+  "mensagem": "10 pauta(s) nova(s): A importância do commerce media para o seu negócio; Consumidor mais exigente na Black Friday 2026; Como a nova jornada de trabalho afeta negócios de alimentação.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-05T14:43:11-03:00",
    "2026-11-04T22:52:51-03:00",
    "2026-11-04T18:39:55-03:00",
    "2026-11-04T14:37:40-03:00",
@@ -41,8 +42,7 @@
    "2026-11-02T20:16:22-03:00",
    "2026-11-02T16:51:17-03:00",
    "2026-11-02T07:43:03-03:00",
-   "2026-11-02T07:39:06-03:00",
-   "2026-11-01T22:05:33-03:00"
+   "2026-11-02T07:39:06-03:00"
   ]
  }
 }
