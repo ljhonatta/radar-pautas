@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-05T14:43:11-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-11-05T18:44:16-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Fim da jornada 6x1 gera preocupações no setor; Novos desafios com o fim da escala 6x1; Mudanças nas jornadas: fim da escala 6x1.",
+  "mensagem": "6 pauta(s) nova(s): Fim da escala 6x1: novas regras de trabalho; Fim da escala 6x1: impacto no mercado de trabalho; Mudanças na jornada de trabalho: impactos para empresas.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-05T18:44:16-03:00",
    "2026-11-05T14:43:11-03:00",
    "2026-11-04T22:52:51-03:00",
    "2026-11-04T18:39:55-03:00",
@@ -18,19 +19,19 @@
    "2026-11-03T00:08:02-03:00",
    "2026-11-02T20:16:22-03:00",
    "2026-11-02T16:51:17-03:00",
-   "2026-11-02T07:43:03-03:00",
-   "2026-11-02T07:39:06-03:00"
+   "2026-11-02T07:43:03-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-05T14:43:11-03:00",
-  "novas": 10,
+  "ultimaColeta": "2026-11-05T18:44:16-03:00",
+  "novas": 8,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "10 pauta(s) nova(s): A importância do commerce media para o seu negócio; Consumidor mais exigente na Black Friday 2026; Como a nova jornada de trabalho afeta negócios de alimentação.",
+  "mensagem": "8 pauta(s) nova(s): Toyota reduz preços de SUV híbrido com campanha especial; Aumente suas vendas com as previsões do setor automotivo; Privalia acelera entregas e desafia o varejo local.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-05T18:44:16-03:00",
    "2026-11-05T14:43:11-03:00",
    "2026-11-04T22:52:51-03:00",
    "2026-11-04T18:39:55-03:00",
@@ -41,8 +42,7 @@
    "2026-11-03T00:08:02-03:00",
    "2026-11-02T20:16:22-03:00",
    "2026-11-02T16:51:17-03:00",
-   "2026-11-02T07:43:03-03:00",
-   "2026-11-02T07:39:06-03:00"
+   "2026-11-02T07:43:03-03:00"
   ]
  }
 }

@@ -1,6 +1,490 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Apostas em jogo: entenda o impacto nas finanças",
+  "resumo": "A recente audiência do STF traz à tona os riscos do endividamento associado a apostas, afetando tanto consumidores quanto o comércio. A proibição pode ter repercussões financeiras relevantes.",
+  "fatos": [
+   "O secretário Ricardo Morishita defendeu a proibição das apostas durante audiência no STF.",
+   "O governo alega que apostas causam danos econômicos e à saúde.",
+   "Estudos mostram que 28 milhões de brasileiros apostaram, com 11 milhões em risco.",
+   "O faturamento bruto das operadoras regulamentadas foi de R$ 37 bilhões em 2025.",
+   "Projeções indicam que a perda de receitas para clubes de futebol pode chegar a R$ 420 milhões."
+  ],
+  "explicacao": [
+   "A discussão sobre as apostas no Brasil reflete preocupações com o endividamento das famílias.",
+   "A alegação é que a proibição poderia impactar a economia e a saúde pública, com muitos endividados em crise.",
+   "Os valores apresentados mostram que a expansão das apostas pode influenciar a qualidade de crédito.",
+   "Assim, a interação entre saúde e economia é um tema central na discussão sobre o futuro das apostas."
+  ],
+  "materia": "O secretário nacional do Consumidor, Ricardo Morishita , defendeu a proibição das bets durante audiência pública no Supremo Tribunal Federal (STF) , realizada na terça-feira (3/11). Para ele, a proteção prevista no Código de Defesa do Consumidor (CDC) deve prevalecer diante dos danos associados às apostas. A manifestação ocorreu na 52ª audiência pública do STF , conduzida pelo ministro Luiz Fux , que reuniu representantes do governo, economistas, clubes e entidades esportivas. Em discussão, a constitucionalidade da Medida Provisória nº 1.394/2026 , que proibiu a exploração e a publicidade das apostas de quota fixa no Brasil. Entretanto, a sessão revelou divergências sobre os efeitos da proibição e a responsabilidade das bets pelo endividamento das famílias. Enquanto o Ministério da Fazenda apontou prejuízos econômicos, um economista contestou a associação entre apostas e a crise histórica de inadimplência. Morishita sustentou que o CDC, em vigor há 36 anos, estabelece limites à permanência de atividades consideradas nocivas no mercado de consumo. “O Código não admite que um produto altamente nocivo e altamente perigoso continue a persistir no mercado de consumo”, afirmou. Segundo o secretário, o reconhecimento legal das apostas em 2018 ocorreu sob um regime de autorização associado a três objetivos de proteção: saúde e segurança, poupança popular e enfrentamento da criminalidade. Na avaliação da Senacon , esses objetivos não foram alcançados. “Esses três objetivos de tutela, ao meu ver e ao ver da Secretaria Nacional do Consumidor , não lograram efeito”, declarou. Ele também destacou que os prejuízos ultrapassam a esfera individual dos apostadores. “No fim do dia são os consumidores que pagam essa imensa conta desses imensos danos que vêm provocando a atividade das bets.” Ao encerrar sua manifestação, o secretário posicionou-se favoravelmente à constitucionalidade da medida provisória. O ministro da Saúde, Alexandre Padilha , confrontou diretamente os argumentos dos clubes de futebol, que relataram perdas financeiras e dificuldades para manter contratos. “Eu, com todo respeito, eu ouvi um representante de um time de futebol que acabou de falar que a briga dele… são os clubes, o salário, como manter o time de futebol. A minha briga são as mulheres”, afirmou Padilha, segundo a transcrição da sessão. Padilha afirmou que 65% das mulheres com problemas relacionados às apostas sentem vergonha de procurar atendimento. Também citou pesquisas que associam o transtorno do jogo a um risco de suicídio até 15 vezes maior. Os percentuais foram apresentados pelo ministro e dependem da metodologia dos estudos citados. Conforme os dados do 3º Levantamento Nacional sobre o Uso de Drogas (LENAD3) , citados pelo Ministério da Saúde , 28 milhões de brasileiros haviam apostado no período considerado pela pesquisa, dos quais aproximadamente 11 milhões apresentariam comportamento de risco ou problemático. A ANJL contestou o uso do levantamento por conter dados anteriores à operação do mercado regulado, iniciada em 2025. O ministro informou ainda que a procura por atendimento no Sistema Único de Saúde (SUS) , relacionada à ludopatia e aos jogos eletrônicos, cresceu mais de 200% entre 2018 e 2026. Além disso, outro dado apresentado foi a participação feminina no atendimento digital disponibilizado pela pasta: 50,1% das pessoas que procuraram o serviço eram mulheres. Padilha também informou 1,2 milhão de solicitações de autoexclusão no portal federal, das quais cerca de 40% mencionavam perda de controle e problemas de saúde. “Não é só dinheiro que se perde. Se perde o controle da vida”, declarou Padilha. Em contraponto, o advogado Eduardo Schumacher , representante do Grêmio , afirmou que o clube reconhece os danos sociais associados às apostas, mas questiona a ausência de um período de adaptação. “O Grêmio não vem a essa tribuna negar danos, não vem defender as casas de apostas.” Schumacher argumentou que a medida provisória concedeu apenas dez dias pa",
+  "numeros": [
+   {
+    "valor": "65%",
+    "rotulo": "mulheres com problemas relacionados às apostas sentindo vergonha"
+   },
+   {
+    "valor": "200%",
+    "rotulo": "aumento na procura por atendimento SUS para ludopatia desde 2018"
+   },
+   {
+    "valor": "R$ 120 bilhões a R$ 140 bilhões",
+    "rotulo": "impacto econômico estimado no PIB"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "preocupação com o endividamento e perda de clientes",
+  "angulo": "Com o cenário atual, é crucial reforçar serviços de marketing digital para equilibrar perdas e conquistar novos clientes.",
+  "gancho": "*Impacto das apostas* nas suas finanças!",
+  "ideias": [
+   "Como evitar a perda com endividamento?",
+   "Apostas: ameaça ao seu negócio?",
+   "Saiba como o marketing digital pode ajudar!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://consumidormoderno.com.br/bets-stf-segunda-parte/",
+  "publicadoEm": "2026-11-05T16:58:54-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Por que sua empresa precisa de mais marketing agora?",
+  "resumo": "O cenário econômico atual ainda é desafiador para muitas famílias no Brasil, especialmente na base da pirâmide. Isso reflete diretamente no consumo e nas vendas do varejo.",
+  "fatos": [
+   "81,6% das famílias brasileiras têm dívidas a vencer, uma leve queda em relação ao mês anterior.",
+   "A inadimplência caiu para 29,3%, o menor nível desde 2026.",
+   "O endividamento entre famílias com até três salários-mínimos aumentou 2,1 pontos percentuais.",
+   "O tempo médio de atraso no pagamento de dívidas caiu de 65,3 para 65,1 dias.",
+   "As buscas por itens essenciais aumentaram 2,4% entre 6 a 24 de outubro, indicando mudança de consumo."
+  ],
+  "explicacao": [
+   "Embora o endividamento esteja supostamente em queda, ele ainda afeta uma grande parcela da população, especialmente as famílias de menor renda.",
+   "Com a Selic alta e o crédito caro, o orçamento das famílias continua pressionado, limitando o consumo.",
+   "Novas mudanças no comportamento de compra indicam que os consumidores estão buscando formas de equilibrar suas finanças.",
+   "As mudanças de consumo podem impactar diretamente as vendas, exigindo uma adaptação das empresas às novas realidades do mercado."
+  ],
+  "materia": "O orçamento das famílias brasileiras deu um pequeno respiro em outubro, mas ainda está longe de confortável. Segundo a Pesquisa de Endividamento e Inadimplência do Consumidor (Peic) , divulgada pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) , 81,6% dos lares têm algum tipo de dívida a vencer. Em setembro, o número era de 81,7%. É o segundo recuo do ano, e agora o índice volta ao patamar de junho. A inadimplência caiu pelo segundo mês seguido, de 29,6% para 29,3%, e igualou o menor nível de 2026. Já a fatia de famílias que dizem não ter como quitar as contas atrasadas passou de 12,5% para 12,2%. Os números sugerem estabilidade. Mas a leitura por faixa de renda mostra um retrato menos uniforme. O único grupo em que a inadimplência subiu foi entre quem ganha até três salários-mínimos. Na comparação com outubro de 2025, o endividamento está 2,1 pontos percentuais mais alto. A inadimplência, por outro lado, está 1,2 ponto abaixo. Ou seja, mais famílias têm dívidas, mas uma parcela menor está deixando de pagá-las. A composição do endividamento também melhorou. O grupo que se declara muito endividado recuou de 17,3% para 16,8%, o menor percentual desde abril. No sentido oposto, os que se consideram pouco endividados passaram de 34,9% para 35,8%. A própria CNC faz uma ressalva. O indicador mede a percepção de cada família sobre a própria situação. Estar endividado, na pesquisa, significa ter compromissos financeiros a pagar, como cartão de crédito, cheque especial, carnê, consignado, empréstimo pessoal ou financiamento. Isso, portanto, não equivale a superendividamento, situação em que a pessoa não consegue pagar o conjunto de suas dívidas sem comprometer o mínimo necessário para viver. O tempo médio de atraso de pagamentos das dívidas caiu de 65,3 para 65,1 dias. A redução se concentrou nas dívidas com mais de 90 dias de atraso, que ainda representam 48,8% do total. Na prática, quase metade das contas em atraso já passou de três meses sem pagamento. O peso das dívidas no orçamento também diminuiu. A parcela de famílias que comprometem mais da metade da renda com dívidas caiu para 19,3%. Parte delas passou para um patamar menos apertado, em que as parcelas consomem entre 11% e 50% do que ganham. No entanto, as dívidas de longo prazo perderam espaço. A parcela de famílias com compromissos que se estendem por mais de um ano recuou de 33,8% para 33,4%. Prazos menores reduzem o tempo de exposição à dívida, mas aumentam o valor das parcelas mensais. O que, por sua vez, aperta o orçamento no curto prazo e reduz a margem para novas compras. O recorte por renda revela onde a pressão continua concentrada. Para o economista-chefe da CNC, Fabio Bentes , a vulnerabilidade é mais acentuada justamente entre as famílias de menor poder aquisitivo. Grupo em que quase uma em cada cinco admite não ter como sair do atraso. Outubro foi o primeiro mês sem as plataformas de apostas online no Brasil. Segundo a CNC, ainda não é possível medir o impacto sobre o consumo, uma vez que os dados oficiais do IBGE referentes a outubro só serão divulgados em dezembro. No entanto, a entidade identificou sinais de mudança no comportamento de busca. Entre 6 a 24 de outubro, as pesquisas no Google por itens essenciais de farmácia e supermercado cresceram 2,4%. As buscas por plataformas de varejo digital também subiram: Magalu (7,7%), Mercado Livre (1,5%) e iFood (0,6%). Fabio Bentes avalia que, com a Selic ainda elevada e o crédito caro, o dinheiro que deixou de ir para apostas tende a ser direcionado tanto para quitar parcelas atrasadas, o que ajuda a explicar a queda na inadimplência, quanto para o consumo. As projeções da CNC indicam nova redução das contas em atraso em novembro e dezembro, com o endividamento estável em torno de 81,6%. O cenário favorece o equilíbrio do orçamento no período de maior consumo do ano, que inclui Black Friday, 13º salário e Natal. Para o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros , a acomodação dos",
+  "numeros": [
+   {
+    "valor": "29,3%",
+    "rotulo": "índice de inadimplência"
+   },
+   {
+    "valor": "81,6%",
+    "rotulo": "famílias com dívidas a vencer"
+   },
+   {
+    "valor": "2,4%",
+    "rotulo": "crescimento em buscas por itens essenciais"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "O que acontece se o consumidor não comprar?",
+  "angulo": "Entender o cenário atual de endividamento é crucial para empresas que buscam estratégias eficazes de marketing e vendas, principalmente em um período crítico para o consumo.",
+  "gancho": "O cenário econômico *é desafiador para todos*",
+  "ideias": [
+   "Como o endividamento afeta suas vendas?",
+   "Estratégias de marketing em tempos difíceis",
+   "Você conhece o comportamento do seu consumidor?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://consumidormoderno.com.br/alivio-endividamento-base-piramide-cnc/",
+  "publicadoEm": "2026-11-05T17:10:40-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Resistência Popular Complica Expansão de Data Centers nos EUA",
+  "resumo": "Eleitores rejeitam propostas para construção de data centers, criando obstáculos para empresas de IA como Meta e OpenAI. Novas exigências podem afetar investimentos e custos operacionais.",
+  "fatos": [
+   "40 das 41 iniciativas locais sobre data centers foram rejeitadas nas eleições de meio de mandato nos EUA.",
+   "Mais da metade das votações contrárias ocorreu em Ohio, um mercado chave para data centers.",
+   "Candidatos a cargos estaduais que impõem restrições venceram em Texas, Ohio e Geórgia.",
+   "Meta planeja investir até US$ 145 bilhões em 2026, mas agora deverá enfrentar processos mais rigorosos para novos data centers.",
+   "OpenAI apresentou proposta para regulamentar a construção de data centers, garantindo que grandes consumidores de eletricidade paguem por custos adicionais."
+  ],
+  "explicacao": [
+   "A resistência popular é um reflexo de preocupações sobre o impacto ambiental e econômico dos data centers.",
+   "Com a expansão do setor de IA, as comunidades exigem garantias sobre o consumo de recursos, como eletricidade e água.",
+   "Empresas de tecnologia terão que negociar condições favoráveis para prosseguir com seus investimentos em novas instalações."
+  ],
+  "materia": "A expansão da infraestrutura necessária para desenvolver inteligência artificial (IA) enfrenta novo obstáculo nos Estados Unidos : a resistência popular. Nas eleições de meio de mandato realizadas na terça-feira (3), eleitores rejeitaram a maioria das propostas locais relacionadas à construção de data centers e ajudaram a eleger candidatos que prometem impor limites ao setor. O resultado já provoca reações entre as gigantes de tecnologia, incluindo Meta e OpenAI . Segundo levantamento apresentado pelo The New York Times , 40 das 41 iniciativas locais relacionadas a data centers foram rejeitadas pelos eleitores. Mais da metade das votações ocorreu em Ohio (EUA), um dos principais mercados estadunidenses para esse tipo de instalação. A resistência também apareceu nas disputas estaduais. Candidatos democratas que defenderam restrições à construção de novos centros de processamento venceram eleições para governos estaduais e cargos legislativos no Texas (EUA), em Ohio e na Geórgia (EUA). O resultado representa mudança importante para as empresas de tecnologia, que, durante anos, encontraram apoio de autoridades locais interessadas em atrair investimentos, empregos e arrecadação. Agora, comunidades exigem mais garantias sobre os impactos dessas instalações, principalmente em relação ao consumo de eletricidade e água. A reação popular ocorre em meio à expansão acelerada da infraestrutura de IA. Data centers concentram milhares de servidores responsáveis pelo treinamento e funcionamento de modelos generativos, assistentes virtuais e outros serviços digitais. O crescimento dessa estrutura, entretanto, exige grandes quantidades de energia e recursos naturais. Meta admite dificuldades para construir novos data centers A resistência política já preocupa empresas que planejam investir bilhões de dólares em infraestrutura de IA. Durante conferência de tecnologia organizada pelo The Wall Street Journal , na quarta-feira (4), a presidente da Meta, Dina Powell McCormick, reconheceu que construir novos data centers nos Estados Unidos será mais difícil após as eleições; Segundo a executiva, os resultados eleitorais foram influenciados por diferentes fatores, mas a oposição aos centros de processamento apareceu com destaque em campanhas políticas e pesquisas de saída das urnas; Powell McCormick afirmou que novos projetos deverão enfrentar processos de análise mais rigorosos e negociações mais difíceis com autoridades e comunidades locais. Por outro lado, a executiva acredita que a expansão de instalações existentes poderá encontrar menos resistência, especialmente quando os empreendimentos já demonstraram benefícios econômicos para a região; Ela relatou, inclusive, que um governador eleito que havia feito oposição aos data centers durante a campanha demonstrou interesse em conversar com a empresa depois de assumir o cargo. A intenção seria evitar a perda de investimentos e empregos para outras localidades. A Meta está ampliando sua infraestrutura para sustentar o desenvolvimento de agentes pessoais de IA, chamados Muse, que Mark Zuckerberg considera centrais para o futuro da companhia. A empresa prevê investir até US$ 145 bilhões (cerca de R$ 792 bilhões) em despesas de capital em 2026. Entre os projetos em andamento estão os data centers Hyperion, na Louisiana (EUA), e Prometheus, em Ohio, além de uma terceira instalação no Texas, desenvolvida em parceria com a BlackRock. Os novos obstáculos também podem levar as empresas a procurar oportunidades fora dos Estados Unidos. Powell McCormick afirmou que as grandes operadoras de data centers estão avaliando a possibilidade de construir instalações em outros países como forma de diversificar seus investimentos. A Meta também anunciou recentemente planos para levantar até US$ 97,5 bilhões (aproximadamente R$ 532 bilhões) por meio de novas emissões de ações. A iniciativa busca financiar parte de sua expansão em IA em momento de crescente preocupação do mercado com os gastos das gigantes de tecnologia. ",
+  "numeros": [
+   {
+    "valor": "145 bilhões",
+    "rotulo": "investimentos da Meta até 2026"
+   },
+   {
+    "valor": "40 de 41",
+    "rotulo": "iniciativas locais rejeitadas"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Indústria"
+  ],
+  "dor": "perda de investimentos e aumento de custos operacionais",
+  "angulo": "Entender as novas exigências pode ajudar empresários a se prepararem e a garantir a viabilidade de seus negócios com tecnologia e IA.",
+  "gancho": "E se os *data centers* não puderem mais se",
+  "ideias": [
+   "A resistência popular e os data centers",
+   "Impactos da eleição na indústria de IA",
+   "Como preparar seu negócio para novas exigências"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://olhardigital.com.br/2026/11/05/pro/eua-eleitores-dao-recado-a-industria-de-ia-e-ameacam-expansao-de-data-centers/",
+  "publicadoEm": "2026-11-05T18:05:25-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crise bancária no Paraguai impacta economia e políticos",
+  "resumo": "A derrocada do Ueno Bank causa turbulências no Paraguai, resultando em protestos e na renúncia do presidente. Milhões de correntistas estão sem acesso aos seus recursos, afetando a economia local.",
+  "fatos": [
+   "Ueno Bank, com US$ 4,2 bilhões em ativos, colapsou, afetando milhões de clientes.",
+   "O presidente do Paraguai, Santiago Peña, renunciou após pressão da crise.",
+   "O Banco Central interveio no Ueno Bank devido a problemas de solvência.",
+   "Os correntistas tentam recuperar até US$ 38 mil, mas as dúvidas persistem.",
+   "O colapso gerou protestos em Assunção e outras cidades do Paraguai."
+  ],
+  "explicacao": [
+   "A falência do Ueno Bank causou uma crise de confiança no sistema financeiro paraguaio.",
+   "A intervenção do Banco Central paralisou as operações, deixando milhões sem acesso a seus depósitos.",
+   "A natureza da crise obrigou os cidadãos a repensarem suas finanças e a segurança de suas economias."
+  ],
+  "materia": "A derrocada do Ueno Bank, fintech com US$ 4,2 bilhões em ativos e 3 milhões de clientes, paralisou a economia do país, provocou a prisão de executivos e levou o chefe do Executivo à renúncia Presidente do Paraguai, Santiago Peña, renunciou ao cargo após crise do Ueno Bank A derrocada do Ueno Bank resultou na renúncia do presidente do Paraguai, Santiago Peña. O banco, que cresceu rapidamente, enfrentou problemas de solvência e deixou milhões de clientes sem acesso a seus depósitos, gerando protestos e pedidos de impeachment contra Peña por conflito de interesses. A intervenção do Banco Central paralisou as operações do Ueno, que tinha quase 3 milhões de clientes e ativos de US$ 4,2 bilhões. A crise também levou à renúncia do presidente do Banco Central e à prisão de oito pessoas ligadas ao Ueno. Correntistas tentam recuperar seus recursos, com o sistema de garantia de depósitos cobrindo até US$ 38 mil por cliente, mas dúvidas persistem sobre a recuperação total dos valores. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Uma crise bancária que deixou milhões de paraguaios preocupados com suas economias, provocou protestos nas ruas de Assumpção e outras cidade do país e levou até os jogadores da seleção nacional de futebol a exigir punição aos responsáveis resultou na queda do presidente do Paraguai . Na quinta-feira, 5 de novembro, Santiago Peña anunciou sua renúncia à Presidência do Paraguai em meio à derrocada do Ueno Bank, banco digital que cresceu rapidamente no país e agora está sob intervenção do banco central paraguaio (BC), que identificou problemas de solvência. O colapso da instituição, que deixou milhões de correntistas sem acesso a seus recursos, desencadeou uma grave crise política no país, chegando ao Poder Executivo em razão das antigas ligações societárias de Peña com o grupo controlador do banco e da atuação de seu governo diante dos problemas financeiros do Ueno. A pressão sobre o presidente se intensificou quando parlamentares apresentaram um pedido de impeachment por suposto conflito de interesses – Peña foi acionista de um grupo que controlava o Ueno Bank e desvinculou totalmente apenas em 2025 – e má gestão. Sem contar sequer com o apoio de seu próprio partido, o Colorado, Peña anunciou sua saída por meio de um vídeo publicado nas redes sociais. \"Tomei a decisão de apresentar minha renúncia à Presidência da República. Faço isso pensando na estabilidade do nosso país, na paz social e na necessidade de preservar nossas instituições democráticas\", afirmou o presidente. A renúncia poderia permitir que Peña evitasse a destituição e preservasse a condição de senador vitalício, algo previsto para ex-presidentes, que lhe garantiria prerrogativas parlamentares, como foro privilegiado. No entanto, a Câmara dos Deputados aprovou por unanimidade, com 78 votos, a acusação contra o presidente, deixando para o Senado a decisão sobre a continuidade do processo. Oito executivos ou ex-executivos do Ueno Bank foram presos preventivamente, e o presidente do BC, Carlos Carvallo, apresentou sua renúncia, junto a outros diretores da autoridade monetária. Carvallo comandou a instituição financeira que deu origem ao banco digital antes de assumir o órgão regulador, em 2023, por indicação de Peña. O escândalo, que vem abalando o Paraguai nos últimos dias, guarda algumas semelhanças com o caso do Banco Master , que abalou o sistema financeiro brasileiro, embora as duas instituições tenham dimensões distintas e peso diferente nos mercados em que atuam – da trajetória meteórica, passando pela presença de recursos públicos, suspeitas de irregularidades financeiras e até as conexões do banco com o poder político. Lançado em 2022 pelo Grupo Vázquez, a partir da aquisição da Financiera El Comercio, instituição fundada em 1976, o Ueno se transformou em banco em 2023. No ano seguinte, incorporou o Visión Banco, movimento que acelerou sua expansão e fez com que deixasse de ser uma fintech de nicho para con",
+  "numeros": [
+   {
+    "valor": "3 milhões",
+    "rotulo": "clientes do Ueno Bank"
+   },
+   {
+    "valor": "US$ 4,2 bilhões",
+    "rotulo": "ativos do Ueno Bank"
+   },
+   {
+    "valor": "US$ 38 mil",
+    "rotulo": "cobertura de depósitos"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Medo de perder acesso aos recursos financeiros.",
+  "angulo": "Em momentos de crise, é vital fortalecer a presença online e automatizar sistemas financeiros para manter as vendas e a comunicação com os clientes.",
+  "gancho": "O que *a crise do Ueno Bank* ensina sobre",
+  "ideias": [
+   "Como a crise paraguaia afeta seus negócios?",
+   "Crise financeira? Entenda os riscos e soluções!",
+   "A importância da gestão financeira em tempos de crise!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://neofeed.com.br/economia/banco-master-do-paraguai-derruba-o-presidente-santiago-pena-e-gera-crise-politica-e-economica/",
+  "publicadoEm": "2026-11-05T17:51:39-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crise no Paraguai: impactos para empresários brasileiros",
+  "resumo": "A renúncia do presidente paraguaio devido à crise financeira afeta o comércio local. Empresários devem se preparar para as consequências na economia da região.",
+  "fatos": [
+   "Santiago Peña renunciou ao cargo em meio a uma crise financeira após intervenção do Banco Central no Ueno Bank.",
+   "A liquidação do Ueno Bank afetou 2,9 milhões de correntistas, cerca de 60% da população adulta do Paraguai.",
+   "A crise política começou quando a Câmara dos Deputados começou a discutir o impeachment do presidente.",
+   "O presidente do Banco Central, Carlos Carvallo, também renunciou após a crise no Ueno Bank.",
+   "A Moody's alertou que apenas 30% dos depósitos do Ueno estavam dentro dos limites de garantia do seguro."
+  ],
+  "explicacao": [
+   "A renúncia veio como resposta à pressão política e a uma crise financeira que paralisou o Ueno Bank.",
+   "Com muitos correntistas sem acesso aos seus depósitos, a confiança no sistema bancário paraguaio foi abalada.",
+   "Isso pode resultar em uma semiparalisação do comércio, impactando diretamente a economia regional."
+  ],
+  "materia": "Enquanto a Câmara dos Deputados do Paraguai discutia a abertura de um processo de impeachment contra o presidente, nesta quinta-feira, 5, o mandatário do país Santiago Peña anunciou a renúncia ao cargo, em meio a uma crise financeira causada pela intervenção do Banco Central Paraguaio (BCP) no banco digital Ueno Bank. Abandonado pelo próprio partido, que passou a cobrar sua renúncia, Peña justificou a decisão em nome da estabilidade do país e da necessidade de “preservar nossas instituições”. O vice-presidente Pedro Allana assumirá o cargo. “Me dirijo a vocês em um dos momentos mais difíceis da minha vida, com o coração voltado para o Paraguai e com a convicção de que a nossa República deve estar sempre acima de qualquer pessoa ou circunstância”, disse o presidente, em pronunciamento nas redes sociais. “A história se encarregará de julgar e colocar na sua devida dimensão os acontecimentos que hoje nos cabe vivenciar. Tomei a decisão de apresentar a minha renúncia à Presidência da República”, acrescentou. Crise A crise financeira que sacudiu o Paraguai começou na terça-feira, 3, e se transformou em crise política. Na manhã de hoje, a Câmara iniciou o debate para abertura de um processo de impeachment que contava com o apoio até mesmo da legenda do mandatário, o Partido Colorado. O terremoto político no país vizinho é consequência da liquidação do Ueno Bank, que tinha 2,9 milhões de correntistas, cerca de 60% da população adulta do país. Essas pessoas tiveram seus depósitos congelados. Após a liquidação do banco, o presidente do BC paraguaio, Carlos Carvallo, renunciou ao cargo. Ele foi dirigente do banco digital até 2023, antes de assumir a chefia do Banco Central do país. https Protestos de rua cobram que os responsáveis pela crise sejam punidos. O Ministério Público do Paraguai pediu a prisão de oito pessoas, incluindo o presidente do Ueno, Juan Manuel Gustale. Presidência A crise atingiu o presidente Santiago Peña por ele ter sido acionista, até março de 2025, do grupo que controla o banco, o Grupo Vázquez. Eleito em 2023, o Santiago Peña é um político da direita conservadora do Partido Colorado que há sete décadas controla o poder no Paraguai, exceto por cinco anos (1947-1952). A oposição acusa o governo pelos investimentos realizados pelo Instituto de Seguridade Social (PIS), que é estatal, no Ueno Bank. O banco digital ainda administra o pagamento de pensões de milhares de aposentados e tem cerca de 30% dos depósitos de fundos públicos, estimados em US$ 850 milhões. A oposição responsabiliza Peña pela crise por ele ter nomeado para presidente do BC um ex-dirigente do Ueno. Ao anunciar a renúncia, o presidente pediu desculpas ao povo paraguaio. “Também quero pedir desculpas ao povo, caso em algum momento eu tenha falhado. Nunca foi minha intenção trair a confiança que depositaram em mim. A cada dia, assumi esta responsabilidade com a vontade de trabalhar pelo Paraguai”, afirmou Peña. Partido Colorado O presidente do Partido Colorado e ex-presidente do país, Horácio Cartes, afirmou que a legenda não estará ao lado “do latrocínio de fundos públicos, privados e dos aposentados”. O presidente do Congresso paraguaio, Bachi Nunéz, dois dias antes de pedir a renúncia de Peña, avaliava à imprensa que o presidente não poderia ser responsabilizado porque o Banco Central tinha autonomia institucional. A oposição acusa o Partido Colorado de querer se afastar do escândalo que teria ajudado a construir. A deputada do Partido País Solidário (PPS), Johanna Ortega, destacou, durante a sessão da Câmara, que os recursos dos aposentados estavam sendo depositados em um banco próximo ao presidente Peña. “Temos alertado sobre conflitos de interesses, sobre a utilização de instituições públicas para favorecer negócios privados de uns poucos, e sobre o crime de gestão em proveito próprio — prática na qual este Presidente da República tem incorrido sistematicamente”, afirmou. O Paraguai conta com um fundo garantidor que pode reembolsar até US$ 38 m",
+  "numeros": [
+   {
+    "valor": "2,9 milhões",
+    "rotulo": "correntistas afetados no Paraguai"
+   },
+   {
+    "valor": "60%",
+    "rotulo": "porcentagem da população adulta afetada"
+   },
+   {
+    "valor": "$850 milhões",
+    "rotulo": "fundos públicos depositados no Ueno Bank"
+   },
+   {
+    "valor": "$38 mil",
+    "rotulo": "reembolso garantido por pessoa no fundo garantidor"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "diminuição nas vendas e incertezas financeiras",
+  "angulo": "A crise no Paraguai demonstra a importância de uma gestão de marketing digital eficaz para enfrentar situações adversas e se preparar para o futuro.",
+  "gancho": "Crise no Paraguai: *como isso afeta seu negócio?*",
+  "ideias": [
+   "Entenda a crise paraguaia e suas consequências para o Brasil",
+   "O que empresários devem fazer diante da instabilidade",
+   "Estratégias de marketing em tempos de crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://mercadoeconsumo.com.br/05/11/2026/economia/presidente-do-paraguai-renuncia-em-meio-a-crise-bancaria-vice-assume/",
+  "publicadoEm": "2026-11-05T15:15:09-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Privalia acelera entregas e desafia o varejo local",
+  "resumo": "A Privalia inova ao oferecer entregas no próximo dia útil em São Paulo, atingindo 20 milhões de clientes. Esta mudança pode impactar empresas locais que não acompanham a evolução do e-commerce.",
+  "fatos": [
+   "Privalia oferece entrega no próximo dia útil para compras até meio-dia.",
+   "Disponível na capital e em 7 municípios da Grande São Paulo.",
+   "Mais de 98% dos pedidos elegíveis terão entrega rápida.",
+   "Cesar Borges, COO, defende a importância da agilidade na entrega.",
+   "Expansão também para outras 20 cidades até novembro de 2023.",
+   "Novo sistema de entrega já passou por 30 mil entregas em fase piloto.",
+   "Campanhas de 11.11 e Black Friday incluirão entregas rápidas."
+  ],
+  "explicacao": [
+   "A Privalia, reconhecida no e-commerce, ampliou sua oferta para atender à demanda por entregas rápidas em São Paulo.",
+   "O novo modelo logístico visa atender as necessidades imediatas do consumidor, oferecendo produtos de grandes marcas a preços acessíveis.",
+   "Ao implementar essa modalidade, a Privalia ajustou seus processos internos para agilidade no atendimento dos pedidos, preparando-se para um mercado cada vez mais competitivo."
+  ],
+  "materia": "A Privalia passa a oferecer entrega no próximo dia útil para compras realizadas até o meio-dia, de segunda a sexta-feira. A modalidade, sem cobrança adicional, já está disponível na capital paulista e em sete municípios da Grande São Paulo. A iniciativa amplia os serviços logísticos da plataforma digital de moda e lifestyle, que reúne 20 milhões de clientes no Brasil. O serviço já alcança mais de 98% dos pedidos de produtos participantes na cidade de São Paulo, além de Barueri, Osasco, Guarulhos, Santo André, São Bernardo do Campo, São Caetano do Sul e Mauá. A empresa prevê levar a modalidade a pelo menos outras 20 cidades da Grande São Paulo até o fim de novembro. “A Privalia é conhecida pelas oportunidades de comprar grandes marcas a preços atrativos, e isso não muda. O que faltava era estarmos presentes também quando o cliente precisa do produto para amanhã. Com a entrega no próximo dia útil, passamos a atender essas duas necessidades na mesma plataforma”, afirma Cesar Borges, COO da Privalia. Ainda em 2026, a Privalia pretende expandir a entrega no próximo dia útil para outras regiões, incluindo Belo Horizonte, Campinas e Curitiba. A política de frete da plataforma, incluindo as condições de gratuidade quando aplicáveis, permanece inalterada. As campanhas participantes estão identificadas no site e no aplicativo com o selo “entrega rápida”, permitindo que o consumidor identifique os produtos elegíveis antes de finalizar a compra. Entre as marcas participantes estão Live!, Insider, Lança Perfume e Hering. Para viabilizar o novo prazo, a Privalia ajustou os processos de preparação e despacho dos pedidos, alinhando estoque, centro de distribuição e transportadoras. Antes do lançamento, a modalidade passou por uma fase piloto que envolveu cerca de 30 mil entregas. Durante as campanhas de 11.11 e Black Friday, a proposta é manter a entrega no próximo dia útil para todos os produtos identificados como entrega rápida nas regiões atendidas. A modalidade está disponível desde a primeira semana de novembro, no site e no aplicativo da Privalia. Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "20 milhões",
+    "rotulo": "clientes da Privalia"
+   },
+   {
+    "valor": "7",
+    "rotulo": "municípios atendidos"
+   },
+   {
+    "valor": "98%",
+    "rotulo": "pedidos que terão entrega rápida"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de clientes para concorrentes mais ágeis",
+  "angulo": "Com as mudanças no e-commerce, é fundamental que as empresas locais invistam em logística e marketing para se manterem relevantes no mercado.",
+  "gancho": "Seus clientes esperam *entrega no dia seguinte*",
+  "ideias": [
+   "5 dicas para melhorar sua logística.",
+   "A importância do e-commerce no varejo moderno.",
+   "Como as grandes marcas estão se adaptando ao mercado."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://mercadoeconsumo.com.br/05/11/2026/logistica/privalia-passa-a-oferecer-entrega-no-proximo-dia-util-em-sao-paulo/",
+  "publicadoEm": "2026-11-05T15:41:09-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Aumente suas vendas com as previsões do setor automotivo",
+  "resumo": "A Fenabrave revisou sua previsão de vendas de veículos novos, aumentando para 12,8% em 2026. Entenda como isso pode impactar seu negócio e a importância de estar preparado.",
+  "fatos": [
+   "A Fenabrave prevê crescimento de 12,8% nas vendas de veículos novos em 2026.",
+   "O total de emplacamentos em 2023 até outubro é de 4.722.650 unidades, 12,62% acima de 2025.",
+   "Quase 5,6 milhões de veículos devem ser vendidos em 2026.",
+   "Vendas de veículos eletrificados cresceram mais de 130% em 2023.",
+   "Os eletrificados agora representam 20,54% dos emplacamentos no Brasil, um aumento significativo em relação a 2022."
+  ],
+  "explicacao": [
+   "A revisão das vendas pela Fenabrave indica uma recuperação do mercado automotivo brasileiro, embora haja ajustes pontuais.",
+   "A queda nas vendas de caminhões e ônibus é compensada pelo aumento nas vendas de automóveis e veículos eletrificados.",
+   "Esse panorama revela uma tendência de crescimento e a urgência de empresas em se atualizar com marketing digital e estratégias de vendas."
+  ],
+  "materia": "A Federação Nacional da Distribuição de Veículos Automotores (Fenabrave) aumentou a projeção de crescimento para as vendas de veículos novos em 2026 de 8,6% para 12,8%. A expectativa foi divulgada nesta quarta-feira, 4, com os dados de emplacamentos de veículos novos no País em outubro. A previsão é de que o setor, como um todo, deve vender quase 5,6 milhões de unidades no ano. Entre janeiro e outubro, foram emplacadas 4.722.650 unidades, o que já representa um crescimento de 12,62% sobre igual período de 2025. De acordo com a Fenabrave, este foi o segundo maior resultado acumulado da série histórica, atrás apenas do registrado em 2011. “Os resultados acumulados permitem uma avaliação mais favorável para o fechamento do ano, principalmente entre automóveis e comerciais leves. Ao mesmo tempo, continuamos projetando retração para caminhões e ônibus, ainda que menores que as estimadas em julho, mas abaixo do que prevíamos em janeiro”, disse Arcelio Junior, presidente da Fenabrave. Para a federação, o resultado mostra que o mercado brasileiro mantém ritmo consistente de crescimento, ainda que com ajustes pontuais. “Observamos uma recuperação gradual em segmentos como caminhões, ônibus e implementos rodoviários, cuja queda acentuada vem retrocedendo ao longo dos meses, notadamente, após a implantação do Programa Move Brasil”, acrescentou Arcelio Junior. Queda em outubro As vendas desses veículos tiveram queda de 4,06% em outubro, na comparação com setembro, segundo o balanço. Em relação a outubro de 2025, também houve retração, de 0,85%. A Fenabrave avalia que a retração de outubro foi influenciada pelo calendário, já que outubro do ano passado teve 23 dias úteis, enquanto neste ano foram 21. O total de 489.119 emplacamentos no mês passado inclui automóveis, veículos comerciais leves (picapes e furgões), ônibus, caminhões, motos e implementos rodoviários, como reboques e carrocerias. Veículos elétricos Um fator que tem contribuído para o bom desempenho no ano é a venda dos veículos eletrificados, que apresentaram crescimento superior a 130% no acumulado do ano, com 524.766 unidades emplacadas. Isso considera tanto os modelos híbridos quanto os totalmente elétricos. Considerando-se apenas automóveis e veículos comerciais leves, a participação dos eletrificados praticamente dobrou no país: atualmente, eles já representam 20,54% dos emplacamentos no Brasil, diz a Fenabrave. No ano passado, isso correspondia a 10,67%. Desempenho por segmentos O segmento de automóveis e comerciais leves continua tendo um bom crescimento no ano, informou a Fenabrave. No acumulado do ano, o crescimento foi de 17,29%, com 2.410.505 unidades emplacadas. Considerando-se apenas o mês de outubro, houve queda de 5,48% em relação a setembro e crescimento de 2,5% ante outubro do ano passado. Quanto aos segmentos de caminhões e ônibus, a queda persiste, apesar de alguma recuperação no ano. No acumulado do ano, o recuo foi de 4,18%, enquanto, em setembro, a queda foi de 8,36%. Em relação a outubro de 2025, as vendas caíram 10,26%. Já as motocicletas cresceram 8,90% no ano, com 1.985.816 unidades emplacadas, maior volume acumulado de sua série histórica. “A motocicleta atende tanto às necessidades de mobilidade individual quanto às atividades profissionais, especialmente nas cidades. Essa diversidade de utilização contribui para manter a demanda elevada, ainda que com pequenos ajustes pontuais de um mês para o outro, como os que ocorreram em outubro, em função do menor número de dias úteis em relação a outubro do ano passado”, afirma Arcelio Junior. Com informações de Agência Brasil. Imagem: Shutterstock O post Fenabrave prevê aumento de 12,8% na venda de veículos novos em 2026 apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "12,8%",
+    "rotulo": "crescimento nas vendas em 2026"
+   },
+   {
+    "valor": "4.722.650",
+    "rotulo": "emplacamentos até outubro de 2023"
+   },
+   {
+    "valor": "20,54%",
+    "rotulo": "participação de eletrificados nos emplacamentos"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas para concorrentes que se adaptam",
+  "angulo": "A previsão de crescimento das vendas de veículos indica a necessidade de investir em marketing digital e planejamento estratégico, que podem potencializar sua presença no mercado.",
+  "gancho": "Prepare-se para o *crescimento do mercado automotivo*",
+  "ideias": [
+   "Como se preparar para o aumento das vendas de veículos",
+   "O impacto das vendas de veículos eletrificados no seu negócio",
+   "Por que investir em marketing é essencial agora"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://mercadoeconsumo.com.br/05/11/2026/economia/fenabrave-preve-aumento-de-128-na-venda-de-veiculos-novos-em-2026/",
+  "publicadoEm": "2026-11-05T14:52:23-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Toyota reduz preços de SUV híbrido com campanha especial",
+  "resumo": "A Toyota lançou uma campanha com descontos significativos no Yaris Cross híbrido, beneficiando especialmente o público PcD. Os abatimentos chegam a R$ 21,3 mil, tornando o modelo mais acessível.",
+  "fatos": [
+   "A campanha de vendas diretas da Toyota é voltada para o público PcD.",
+   "Os abatimentos chegam a R$ 21,3 mil para o Yaris Cross híbrido.",
+   "A versão mais barata, XRE Hybrid, agora custa R$ 156.056,74.",
+   "A configuração topo de linha, XRX Hybrid, passa a custar R$ 171.989,21.",
+   "Os valores promocionais são condicionados ao atendimento dos critérios da venda direta."
+  ],
+  "explicacao": [
+   "Os preços mais baixos tornam o Yaris Cross híbrido mais competitivo no mercado brasileiro.",
+   "A redução nos valores facilita a adesão de consumidores ao modelo, especialmente no segmento de SUVs.",
+   "Essa estratégia pode impactar as vendas e a percepção de valor dos híbridos no setor automobilístico."
+  ],
+  "materia": "A Toyota colocou o Yaris Cross híbrido em uma campanha de vendas diretas com condições especiais para o público PcD . A iniciativa jogou no chão os preços das duas configurações eletrificadas do SUV compacto. Os abatimentos chegam a R$ 21,3 mil e deixam a versão mais barata abaixo dos R$ 157 mil. A redução também beneficia quem procura a configuração topo de linha, que passa a custar menos de R$ 172 mil. A campanha torna o modelo mais competitivo para consumidores que buscam um SUV compacto com conjunto híbrido, especialmente diante dos preços praticados no mercado brasileiro. Os valores promocionais são condicionados ao [object Object] . Como é o Toyota Yaris Cross híbrido? O Yaris Cross é um SUV compacto que aposta na combinação de motor a combustão e propulsão elétrica para oferecer uma alternativa eletrificada dentro do segmento. As versões XRE Hybrid e XRX Hybrid compartilham essa proposta, mas ocupam posições diferentes na gama da Toyota. A XRX Hybrid é a configuração mais completa da dupla, enquanto a XRE Hybrid aparece como opção de entrada entre as versões híbridas. A escolha depende do orçamento e da preferência por uma configuração mais equipada, além da diferença de preço entre elas. Como ficam os preços do Yaris com os descontos? A versão XRE Hybrid teve o preço de tabela de R$ 174.320 reduzido para R$ 156.056,74 na modalidade PcD. A diferença representa uma economia de R$ 18.263,26 para quem atende aos critérios da venda direta. Já a XRX Hybrid passou de R$ 193.320 para R$ 171.989,21 , com abatimento de R$ 21.330,79 . É o maior desconto da campanha, tanto em valor absoluto quanto proporcionalmente ao preço original. Talvez você não saiba, ou não tenha percebido, mas o Yaris Cross conta com uma \"ajudinha\" da lei para bombar nas vendas desde que chegou ao Brasil; descubra qual é .",
+  "numeros": [
+   {
+    "valor": "21.300",
+    "rotulo": "desconto máximo da campanha"
+   },
+   {
+    "valor": "156.056,74",
+    "rotulo": "preço XRE Hybrid após desconto"
+   },
+   {
+    "valor": "171.989,21",
+    "rotulo": "preço XRX Hybrid após desconto"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "perda de competitividade em vendas de automóveis",
+  "angulo": "Mantenha sua empresa atualizada com estratégias de marketing, como gestão de redes sociais, para não perder vendas em um mercado competitivo.",
+  "gancho": "Atenção! *Descontos que movimentam o mercado*",
+  "ideias": [
+   "Entenda a verdadeira razão dos descontos",
+   "Como a Toyota se destaca no mercado?",
+   "A importância de promoções no consumo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://canaltech.com.br/carros/toyota-faz-queima-e-joga-no-chao-precos-do-yaris-cross-hibrido/",
+  "publicadoEm": "2026-11-05T17:45:03-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-11"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Varejo físico em queda: 1,9% no 3º trimestre",
   "resumo": "Segundo a Seed, o varejo físico enfrentou uma redução de 1,9% no terceiro trimestre, refletindo desafios para os empresários do setor. É crucial adaptar estratégias para manter a competitividade.",
   "fatos": [
@@ -540,6 +1024,346 @@
   "publicadoEm": "2026-11-05T12:57:15-03:00",
   "data": "2026-11-05",
   "id": "2026-11-05-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Descontos de até 80% para dívidas em Goiânia",
+  "resumo": "Prefeitura de Goiânia lança programa com descontos significativos para regularização de dívidas até 2026. Isso traz alívio para cidadãos e empresários com dívidas municipais.",
+  "fatos": [
+   "A Prefeitura de Goiânia oferece até 80% de desconto sobre juros, multas e encargos em dívidas municipais.",
+   "O programa é valido até 16 de novembro de 2026 e abrange dívidas vencidas até 31 de agosto de 2026.",
+   "Descontos variam de acordo com a forma de pagamento: 80% à vista, 70% em até 10 parcelas, e 40% em até 60 parcelas.",
+   "As condições foram estabelecidas pela Lei nº 11.734/2026, publicada em 29 de outubro.",
+   "Os atendimentos ocorrem sem agendamento no Paço Municipal de 3 a 6 de novembro e de 9 a 16 de novembro em outras unidades."
+  ],
+  "explicacao": [
+   "Este programa é uma oportunidade para muitos que enfrentam dificuldades financeiras devido a dívidas municipais.",
+   "Os descontos oferecidos podem ser vantajosos, principalmente no pagamento à vista, o que pode possibilitar a regularização de pendências.",
+   "Para cidadãos e empresários, essa é uma chance de recuperar a saúde financeira e evitar complicações futuras."
+  ],
+  "materia": "Foto: wavebreakmedia_micro / Magnific (Freepik) A Prefeitura de Goiânia, por meio da Secretaria Municipal da Fazenda (Sefaz), disponibilizou condições especiais para contribuintes e empresas regularizarem débitos municipais, com descontos de até 80% sobre juros de mora, multas e encargos que permitem redução legal. A iniciativa, vinculada à III Semana Nacional da Regularização Tributária e à XXI Semana Nacional da Conciliação, contempla dívidas vencidas até 31 de agosto de 2026 e permite pagamentos à vista ou parcelados em até 60 vezes. As condições foram autorizadas pela Lei nº 11.734/2026, publicada em 29 de outubro, e poderão ser utilizadas até 16 de novembro de 2026. A medida abrange créditos tributários, fiscais e não tributários, estejam eles inscritos ou não em dívida ativa e em cobrança administrativa ou judicial. O percentual de abatimento varia conforme a quantidade de parcelas escolhida. Para pagamento integral, a redução chega a 80%. Já nos parcelamentos, os descontos diminuem progressivamente, conforme as condições estabelecidas na legislação municipal. A iniciativa não corresponde ao Refis tradicional realizado pelo município, mas a uma ação temporária relacionada aos eventos promovidos pelo Conselho Nacional de Justiça (CNJ), com participação do Tribunal de Justiça de Goiás (TJGO). Quais dívidas podem ser negociadas em Goiânia? A legislação permite incluir na negociação débitos tributários decorrentes de impostos e taxas municipais, além de créditos fiscais relacionados a infrações à legislação tributária e ao descumprimento de obrigações acessórias. Também podem ser negociadas obrigações não tributárias, como multas administrativas, ressarcimentos, indenizações, preços públicos e outros valores legalmente constituídos em favor do município. A oportunidade contempla dívidas que já estejam inscritas em dívida ativa, em cobrança administrativa ou judicial, além de valores incluídos em parcelamentos anteriores, inclusive aqueles que foram rescindidos. Também podem entrar na negociação créditos com exigibilidade suspensa ou que sejam objeto de impugnação, recurso administrativo ou discussão judicial. O benefício, entretanto, não alcança multas decorrentes de infrações de trânsito. Também ficam de fora os créditos cuja redução ou negociação seja proibida pela Constituição Federal, por legislação específica, decisão judicial ou vinculação legal da receita. Confira os descontos e as condições de parcelamento Os percentuais de redução incidem sobre juros de mora, multa moratória e outros encargos acessórios que legalmente admitam abatimento. Para créditos fiscais decorrentes de infrações tributárias, a lei também permite a redução da multa punitiva. As condições variam de acordo com a modalidade de pagamento: Forma de pagamento Desconto sobre encargos À vista 80% De 2 a 10 parcelas 70% De 11 a 20 parcelas 65% De 21 a 30 parcelas 60% De 31 a 40 parcelas 50% De 41 a 60 parcelas 40% O valor mínimo de cada parcela é de R$ 100 para pessoas físicas e R$ 300 para pessoas jurídicas. O limite máximo para adesão é de R$ 2,5 milhões em débitos consolidados, antes da aplicação dos descontos, por CPF, CNPJ ou cadastro imobiliário municipal, conforme o caso. A legislação também estabelece que os abatimentos não alcançam o valor principal da dívida nem a atualização monetária. Custas judiciais, honorários advocatícios e emolumentos extrajudiciais eventualmente devidos também permanecem fora das reduções. Como negociar os débitos e quais são os prazos? A campanha está dividida em dois períodos de atendimento. De 3 a 6 de novembro, durante a XXI Semana Nacional da Conciliação, os contribuintes podem procurar o hall do Paço Municipal, as unidades do Atende Fácil e o 7º Centro Judiciário de Solução de Conflitos e Cidadania (Cejusc), localizado no Fórum Cível, na Avenida Olinda. Na etapa seguinte, de 9 a 16 de novembro, durante a III Semana Nacional da Regularização Tributária, o atendimento será realizado no hall do Paço Municipal, na est",
+  "numeros": [
+   {
+    "valor": "80%",
+    "rotulo": "desconto máximo"
+   },
+   {
+    "valor": "60 meses",
+    "rotulo": "parcelamento máximo"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de oportunidades devido a dívidas acumuladas",
+  "angulo": "Com a liberdade financeira proporcionada por essas condições, você poderá explorar a educação financeira, uma habilidade fundamental para gerar renda a longo prazo.",
+  "gancho": "*Descontos de até 80%* para regularização de dívidas municipais!",
+  "ideias": [
+   "Aproveite os descontos em Goiânia!",
+   "Regularize suas dívidas com até 80% de desconto.",
+   "Saiba como negociar sua dívida municipal!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80637/goiania-oferece-ate-80-de-desconto-em-dividas-municipais/",
+  "publicadoEm": "2026-11-05T16:45:01-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 aperta empresas em R$ 158 bilhões",
+  "resumo": "A aprovação da PEC 221/2019 aumenta custos para as empresas. Estimativa aponta que o fim da escala pode elevar a folha de pagamento em R$ 158 bilhões.",
+  "fatos": [
+   "O Senado aprovou o fim da escala 6x1 em 14 de outubro.",
+   "Estudo da FecomercioSP estima custo adicional de R$ 158,4 bilhões.",
+   "A emenda transforma a jornada máxima de 44 para 40 horas semanais.",
+   "Essas mudanças entraram em vigor a partir de 16 de outubro.",
+   "A transição será gradual: começa com 42 horas em dois meses.",
+   "26,8 milhões de trabalhadores podem ser impactados, segundo o Dieese.",
+   "O setor de serviços pode arcar com R$ 76,9 bilhões desse custo."
+  ],
+  "explicacao": [
+   "A aprovação da redução da jornada de trabalho requer que as empresas reavaliem seus custos operacionais.",
+   "Com a jornada reduzida, o custo por hora aumenta, impactando principalmente setores que necessitam de cobertura contínua.",
+   "As empresas precisam calcular quantas horas de trabalho serão necessárias e o impacto nos contratos.",
+   "A mudança exige planejamento e adaptações em turnos e contratações para manter o funcionamento adequado dos negócios."
+  ],
+  "materia": "Adicione nosso site às suas fontes preferidas para acompanhar nossas notícias. 📰 A aprovação do fim da escala 6x1 pelo Senado deve colocar uma nova conta no planejamento das empresas brasileiras. Estudo da FecomercioSP estima em R$ 158,4 bilhões o custo adicional sobre a folha de pagamentos em um cenário de redução da jornada máxima de 44 para 40 horas semanais. A PEC 221/2019 foi aprovada em dois turnos nesta quarta-feira, 14 de outubro, com dois dias de descanso remunerado por semana e sem redução salarial. Promulgado em 16 de outubro, por meio da Emenda Constitucional nº 141/2026, o texto prevê uma transição: a jornada cai primeiro para 42 horas, dois meses após a publicação da emenda, e chega a 40 horas um ano e dois meses após a publicação. Os efeitos tendem a ser mais relevantes nas atividades que dependem de equipes presenciais e cobertura contínua de horários. Pelos cálculos da FecomercioSP, o setor de serviços concentraria R$ 76,9 bilhões do custo adicional, seguido pela indústria, com R$ 35,9 bilhões, pelo varejo, com R$ 30,4 bilhões, e pela construção civil, com cerca de R$ 9,7 bilhões. A entidade estima ainda que 62% dos trabalhadores formais estão em jornadas entre 40 e 44 horas semanais. Já levantamento do Dieese aponta que a mudança pode alcançar 26,8 milhões de trabalhadores, entre formais e informais. “Para quem paga o mesmo salário por uma jornada que cai de 44 para 40 horas, o custo da hora de trabalho aumenta cerca de 10%. Isso não significa que toda folha automaticamente crescerá 10%, porque o efeito depende da escala e da produtividade de cada negócio. Mas, se a empresa precisar contratar para manter o mesmo período de funcionamento, o impacto financeiro pode ser bem maior”, explica Fábio Edelberg, CEO da Navecon, empresa especializada em gestão e inteligência contábil, financeira, patrimonial e tributária. A mudança exige atenção principalmente de empresas com operações aos fins de semana ou horários extensos, como comércio, logística, restaurantes, hotéis, supermercados e diversos segmentos de serviços. Segundo Edelberg, o primeiro exercício deve ser mapear quantas horas precisam ser cobertas por semana e quanto dessa cobertura hoje depende da sexta jornada de trabalho. MEI muda em 2027: novo teto de R$ 110 mil, dois funcionários e perdão de dívidas podem beneficiar 17,6 milhões de microempreendedores Governo envia regras e alíquotas do imposto seletivo para o congresso Balanço 2023-2026: Minas Gerais avança no aumento das coberturas vacinais “A discussão deixa de ser apenas trabalhista e passa diretamente pelo orçamento. É preciso calcular quantas pessoas serão necessárias para manter a operação, quanto isso adiciona à folha e aos encargos e se há espaço para ganho de produtividade antes de simplesmente aumentar o quadro”, afirma. A transição prevista na PEC dá às empresas pouco mais de um ano para chegar à jornada definitiva de 40 horas, mas a primeira mudança ocorre apenas dois meses após a publicação da emenda. Para o CEO da Navecon, esperar a redução entrar em vigor pode encurtar o tempo para reorganizar contratos, turnos e projeções para 2027. “Empresas que dependem fortemente de mão de obra já deveriam colocar esse cenário no orçamento. Escala, custo por hora, necessidade de contratação, horas extras e produtividade precisam ser simulados juntos. O impacto real vai variar muito de empresa para empresa”, conclui. Fundada em 2013, a Navecon é uma empresa focada em gestão e inteligência contábil, financeira, patrimonial e tributária, com sede no estado de Santa Catarina, e atuação em todo o território nacional. A companhia atende atualmente mais de 1.350 empresas com presença relevante em segmentos como indústria, comércio, e-commerce, logística e distribuição. Ao longo de sua trajetória, consolidou-se como uma parceira estratégica para empresas que buscam maior eficiência na gestão de seus recursos e maior segurança nas decisões empresariais. Para comentar realize o login em sua conta! Repórter na ",
+  "numeros": [
+   {
+    "valor": "158,4 bilhões",
+    "rotulo": "custo adicional na folha de pagamento"
+   },
+   {
+    "valor": "26,8 milhões",
+    "rotulo": "trabalhadores afetados"
+   }
+  ],
+  "fonte": "RCWTV",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "aumento considerável nos custos operacionais das empresas",
+  "angulo": "Aprender a operar no mercado financeiro pode ser uma alternativa para se adaptar às mudanças e aumentar a renda sem depender de funcionários ou horários fixos.",
+  "gancho": "como o *fim da escala 6x1* impacta seu negócio?",
+  "ideias": [
+   "Como se preparar para a nova jornada de trabalho",
+   "Impactos da redução de jornada no setor empresarial",
+   "Alternativas à dependência do salário: mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://www.rcwtv.com.br/noticia/fim-da-escala-6x1-pode-elevar-folha-das-empresas-em-r-158-bilhoes",
+  "publicadoEm": "2026-11-05T18:05:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impacto nas jornadas de trabalho",
+  "resumo": "A audiência de conciliação marcada por Dino trata do fim da escala 6x1, impactando trabalhadores e empresas. As discussões refletem as novas dinâmicas de trabalho.",
+  "fatos": [
+   "Dino marcou uma audiência de conciliação sobre a escala 6x1.",
+   "O debate pode afetar a jornada de trabalho de diversos profissionais.",
+   "Este movimento reflete uma mudança nas relações de trabalho e na gestão de recursos humanos."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 sugere um repensar das jornadas de trabalho atuais.",
+   "A mudança busca flexibilizar a carga horária, favorecendo tanto empregados quanto empregadores.",
+   "Isso pode representar uma nova oportunidade para profissionais buscarem alternativas de renda no mercado financeiro."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "JOTA Info",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "medo de perder a flexibilidade e renda estável",
+  "angulo": "Com a possibilidade de novas jornadas de trabalho, aprender sobre o mercado financeiro pode ser uma saída para diversificar a renda e se adaptar aos novos cenários.",
+  "gancho": "A mudança na *escala 6x1* impacta você!",
+  "ideias": [
+   "Impacto do fim da escala 6x1",
+   "Como se preparar para mudanças na jornada de trabalho",
+   "Mercado financeiro: alternativa à nova realidade trabalhista"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://www.jota.info/trabalho/dino-marca-audiencia-de-conciliacao-em-acao-que-discute-fim-da-escala-6x1",
+  "publicadoEm": "2026-11-05T17:34:29-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho: impactos para empresas",
+  "resumo": "A Emenda Constitucional 141/2026 reduzirá a jornada de trabalho, mas o governo rejeitou adiamento. Isso gera incertezas para empregadores em um prazo curto e desafios na adaptação.",
+  "fatos": [
+   "A partir de 16 de dezembro de 2026, a jornada máxima passará a ser de 42 horas semanais.",
+   "Em 16 de dezembro de 2027, a jornada será reduzida definitivamente para 40 horas semanais.",
+   "O ministro Flávio Dino rejeitou o pedido da CNC para adiar as mudanças.",
+   "A implementação afeta diversos setores, exigindo renegociações e adaptações.",
+   "O pedido da CNC argumentava por mais tempo para a adaptação das empresas ao novo cronograma."
+  ],
+  "explicacao": [
+   "A Emenda Constitucional 141/2026 visa reduzir a jornada de trabalho e garantir dois dias de descanso semanal.",
+   "O fechamento dos prazos coincide com um período crítico para o comércio, gerando pressão para as empresas.",
+   "A dificuldade de adaptação poderá impactar a operação e a margem de lucro dos negócios."
+  ],
+  "materia": "O ministro Flávio Dino, do Supremo Tribunal Federal, marcou para a próxima terça-feira (10/11), às 14h, audiência de conciliação para discutir a implementação da Emenda Constitucional 141/2026 , conhecida como “Emenda do Fim da Escala 6×1”. A decisão foi tomada nesta quinta (5/11), no âmbito da ADI 8.041, ajuizada pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). Na ação, a entidade questiona o cronograma estabelecido pela emenda para a redução da jornada semanal de trabalho e a ampliação do repouso remunerado. O objetivo, segundo a CNC, é obter mais tempo para que os empregadores se adaptem às novas regras, sem contestar o conteúdo da reforma constitucional. Dino, no entanto, não concedeu a medida cautelar solicitada. O ministro determinou que a audiência ocorra na Sala de Sessões da 1ª Turma do STF e estabeleceu que a discussão ficará restrita aos aspectos práticos da implementação das mudanças. A redução da jornada e a garantia de dois dias de descanso semanal, de acordo com o ministro, não estarão em negociação. Foram convocadas confederações sindicais empresariais de âmbito nacional, centrais sindicais, Advocacia-Geral da União, advocacias da Câmara dos Deputados e do Senado e Procuradoria-Geral da República. Cada entidade poderá indicar até dois representantes, com prazo até as 17h de segunda (9/11) para encaminhar os nomes ao STF. A Emenda Constitucional 141/2026 alterou o artigo 7º da Constituição para reduzir o limite da jornada normal de trabalho de 44 para 40 horas semanais, mantendo o teto de oito horas diárias. Também assegurou dois dias de repouso semanal remunerado. A implementação foi dividida em duas etapas. Em 16 de dezembro de 2026, dois meses após a publicação da emenda, a jornada semanal máxima passará a ser de 42 horas, e o segundo dia de descanso se tornará obrigatório. Na mesma data, perderão eficácia as cláusulas de acordos e convenções coletivas incompatíveis com as novas disposições. Um ano depois, em 16 de dezembro de 2027, o limite semanal será reduzido definitivamente para 40 horas. A CNC sustenta que a concentração de mudanças em dezembro de 2026 deixa um intervalo insuficiente para que as empresas reorganizem suas operações. Entre as dificuldades apontadas estão a necessidade de renegociar instrumentos coletivos, contratar e treinar funcionários, revisar contratos de prestação de serviços e adaptar sistemas de controle de jornada e folha de pagamento. A entidade também argumenta que o prazo coincide com o período de maior movimentação do comércio, quando as escalas de trabalho já estão organizadas para atender à demanda de fim de ano. Por isso, pediu ao STF que suspendesse o cronograma inicial de dois meses e estabelecesse uma transição mais longa. Pela proposta apresentada, a primeira etapa passaria a valer em 16 de outubro de 2027, enquanto a jornada de 40 horas semanais entraria em vigor em 16 de outubro de 2028. A ação também questiona a perda automática de eficácia de cláusulas coletivas que contrariem a emenda, a exigência de novas negociações para adequar a distribuição da jornada e o tratamento conferido às micro e pequenas empresas. Ao analisar o caso, Flávio Dino afirmou que a contestação de uma emenda constitucional exige demonstração consistente de violação aos limites impostos pela Constituição ao poder de reforma. Para o ministro, não é suficiente sustentar que outro modelo de transição seria mais conveniente ou adequado. “Não cabe ao Supremo Tribunal Federal substituir as escolhas do constituinte reformador por soluções que considere mais adequadas ou convenientes. Incumbe-lhe verificar a compatibilidade da emenda com os limites constitucionais ao poder de reforma”, afirmou na decisão. O relator ponderou ainda que a redução da jornada semanal para menos de 44 horas já vem sendo adotada em diversos países e observou que a reforma aprovada pelo Congresso distribuiu seus efeitos ao longo do tempo. Dino destacou que a primeira etapa representa uma redução de du",
+  "numeros": [
+   {
+    "valor": "40",
+    "rotulo": "horas semanais após a reforma"
+   },
+   {
+    "valor": "42",
+    "rotulo": "horas semanais após 2026"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso semanal"
+   }
+  ],
+  "fonte": "Consultor Jurídico",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "preocupação com a adaptação às novas regras",
+  "angulo": "Aprender sobre o mercado financeiro pode oferecer independência e renda sem depender de normas trabalhistas rígidas. Crescer em um cenário de incertezas é crucial para profissionais.",
+  "gancho": "O que esperar com a *nova jornada de trabalho*?",
+  "ideias": [
+   "Como se preparar para a nova jornada?",
+   "Impactos da Emenda 141/2026 nas empresas",
+   "Custo de adaptação: o que muda para o empresário?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://conjur.com.br/2026-nov-05/dino-marca-conciliacao-no-stf-sobre-implementacao-do-fim-da-escala-6x1/",
+  "publicadoEm": "2026-11-05T17:45:51-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impacto no mercado de trabalho",
+  "resumo": "O Supremo STF convoca audiência sobre o fim da escala 6x1, impactando profundamente trabalhadores e empresas a partir de dezembro. A mudança promete mais descanso e qualidade de vida.",
+  "fatos": [
+   "O ministro Flávio Dino convocou uma audiência de conciliação sobre o assunto para 10 de novembro.",
+   "As entidades empregadores e empregados devem participar da audiência.",
+   "O fim da escala 6x1 foi aprovado no Senado no mês passado, permitindo duas folgas semanais.",
+   "A nova jornada de trabalho deve entrar em vigor em 15 de dezembro e reduzir a carga semanal de 44 para 40 horas.",
+   "A Confederação Nacional do Comércio deseja adiar a mudança para outubro de 2027.",
+   "Uma pesquisa revelou que 73% dos brasileiros apoiam o fim da escala 6x1.",
+   "Um decreto regulamentando a nova jornada será publicado na próxima segunda-feira."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 representa uma mudança significativa nas dinâmicas de trabalho no Brasil, garantindo mais descanso aos trabalhadores.",
+   "Com duas folgas semanais e uma jornada máxima de 40 horas, a nova norma promete um impacto positivo na qualidade de vida.",
+   "O governo, por meio do decreto, busca equilibrar as necessidades de trabalhadores e empresas, essencial para evitar conflitos."
+  ],
+  "materia": "O ministro Flávio Dino, Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (5) convocar uma audiência de conciliação para tratar das ações que contestam o fim da escala de trabalho 6x1 . A audiência foi marcada para 10 de novembro, às 14h, na Primeira Turma do Supremo. Dino também determinou que entidades que representam empregadores e empregados sejam intimadas para participar da reunião. Também foi concedido prazo de cinco dias para a Advocacia-Geral da União (AGU), a Procuradoria-Geral da República (PGR), a Câmara dos Deputados e o Senado se manifestarem sobre o tema. Flávio Dino é relator das ações em que a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e a Confederação Nacional da Indústria (CNI) acionaram o Supremo para suspender o fim da escala 6x1. A CNC pretende adiar o início da redução das horas de trabalho para outubro de 2027. Já a CNI, pede a prorrogação do prazo por um ano. A nova jornada entra em vigor em 15 de dezembro deste ano. >> Siga o canal da Agência Brasil no WhatsApp Em uma decisão histórica, o Senado Federal aprovou no mês passado o fim da escala 6x1 de trabalho . Com isso, o trabalhador passa a ter dois dias por semana de descanso remunerado, em jornada máxima de 5x2, sem redução salarial. Além disso, a atual jornada de trabalho de 44 para 40 horas semanais terá uma regra de transição de 14 meses. A medida foi aprovada, na ocasião, com votos da base governista e da oposição. O texto já havia sido aprovado pela Câmara dos Deputados. O fim da escala foi celebrado por entidades representativas dos trabalhadores. Para a categoria, a nova jornada permitirá ao trabalhador ter maior contato com a família e poder se dedicar a outras atividades e estudo. Uma pesquisa realizada em fevereiro deste ano pela Nexus mostrou que 73% dos brasileiros apoiam o fim da escala 6x1. O ministro do Trabalho e Emprego, Luiz Marinho, informou que um decreto para regulamentar o funcionamento da escala deve sair na próxima segunda-feira (9). O texto estabelecerá diretrizes para a organização das jornadas e garantir pelo menos oito folgas por mês aos trabalhadores. Segundo Marinho, o decreto terá como objetivo coordenar a adoção das diferentes escalas de trabalho nos setores econômicos, sem comprometer os direitos dos empregados nem o funcionamento das empresas.",
+  "numeros": [
+   {
+    "valor": "73",
+    "rotulo": "percentual de apoio ao fim da escala"
+   },
+   {
+    "valor": "15 de dezembro",
+    "rotulo": "data de início da nova jornada"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas máximas semanais após mudança"
+   }
+  ],
+  "fonte": "Agência Brasil Últimas",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "perder horas de descanso e qualidade de vida",
+  "angulo": "Entender as mudanças na jornada de trabalho é crucial para se adaptar e encontrar novas formas de gerar renda no mercado financeiro.",
+  "gancho": "Mudanças na *escalas de trabalho* em 2023!",
+  "ideias": [
+   "O que muda com o fim da escala 6x1?",
+   "Qual o impacto nas finanças pessoais?",
+   "Como gerar renda fora do trabalho tradicional?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-marca-audiencia-de-conciliacao-sobre-fim-da-escala-6x1",
+  "publicadoEm": "2026-11-05T17:22:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: novas regras de trabalho",
+  "resumo": "O ministro Flávio Dino agendou uma audiência sobre o fim da escala 6x1 que pode afetar milhares de trabalhadores. Entenda o impacto dessa mudança e como se preparar.",
+  "fatos": [
+   "Flávio Dino, do STF, marcou uma audiência de conciliação para o dia 10 de dezembro sobre a transição do trabalho 6x1 para 5x2.",
+   "A reunião inclui entidades empresariais e centrais sindicais para discutir a implementação das novas regras.",
+   "A primeira fase da transição reduz a jornada de 44 para 42 horas semanais e deve ser implementada em 16 de dezembro.",
+   "A totalidade da carga horária será de 40 horas semanais a partir de dezembro de 2027.",
+   "A Confederação Nacional do Comércio pediu que o Supremo determine um cronograma adequado por conta da proximidade das festas de fim de ano."
+  ],
+  "explicacao": [
+   "A mudança busca promover duas folgas por semana para os trabalhadores, substituindo a antiga prática de um único dia de folga.",
+   "A implementação dessa nova escala pode causar confusão e desafios logísticos para muitas empresas, especialmente durante o período de festas.",
+   "Por isso, o apoio e a participação de todos os envolvidos na audiência são essenciais para definir um cronograma justo e eficiente."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O ministro FlÃ¡vio Dino , do STF (Supremo Tribunal Federal), marcou nesta quinta-feira (5) uma audiÃªncia de conciliaÃ§Ã£o com entidades empresariais, centrais sindicais e o governo do presidente Lula (PT) para tratar da transiÃ§Ã£o para o fim da escala 6x1 . O encontro ocorrerÃ¡ na prÃ³xima semana, na terÃ§a (10), na sede do tribunal, em BrasÃ­lia. AlÃ©m do governo, que a AGU representarÃ¡ (Advocacia-Geral da UniÃ£o), tambÃ©m foram convocadas as advocacias do Senado Federal e da CÃ¢mara dos Deputados . Dino foi sorteado relator de aÃ§Ã£o proposta pela CNC (ConfederaÃ§Ã£o Nacional do ComÃ©rcio de Bens, ServiÃ§os e Turismo) , que acionou o Supremo para questionar as regras definidas para a transiÃ§Ã£o da escala de trabalho 6x1, em que o trabalhador folga apenas um dia durante a semana, para a 5x2, com duas folgas semanais. Na aÃ§Ã£o, a entidade nÃ£o questiona a reduÃ§Ã£o da jornada de trabalho em si, apenas a sua implementaÃ§Ã£o âfato destacado por Dino na decisÃ£o que estabeleceu a audiÃªncia. \"A reduÃ§Ã£o da jornada e a ampliaÃ§Ã£o do repouso semanal nÃ£o estÃ£o em negociaÃ§Ã£o. O que se examinarÃ¡, se possÃ­vel, sÃ£o aspectos de implementaÃ§Ã£o, matÃ©ria que as entidades interessadas reunidas podem equacionar com maior adequaÃ§Ã£o do que decisÃ£o judicial proferida sem sua participaÃ§Ã£o\", diz o magistrado. Segundo a CNC, esse processo depende de negociaÃ§Ã£o sindical, recrutamento e treinamento de funcionÃ¡rios, revisÃ£o de contratos e ajustes de sistema de ponto e folha. Conforme o texto aprovado no Congresso Nacional para o fim da 6x1, a proposta serÃ¡ implementada em duas fases, sendo a primeira delas em 16 de dezembro. Na data, a carga horÃ¡ria dos trabalhadores cai de 44 para 42 horas semanais e jÃ¡ passa a ser exigido um novo acordo para distribuir a jornada de trabalho nos cinco dias da semana. A reduÃ§Ã£o completa para 40 horas semanais sÃ³ passa a valer a partir de dezembro de 2027. Na avaliaÃ§Ã£o da CNC, a implementaÃ§Ã£o da primeira fase coincide com a temporada de fim de ano, em que os feriados de Natal e Ano Novo se aproximam e as escalas jÃ¡ estavam dimensionadas conforme o regime anterior. A entidade pede para que o regime seja declarado inconstitucional e para que o Supremo Tribunal Federal determine um cronograma adequado. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. VocÃª jÃ¡ conhece as vantagens de ser assinante da Folha? AlÃ©m de ter acesso a reportagens e colunas, vocÃª conta com newsletters exclusivas ( conheÃ§a aqui ). TambÃ©m pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notÃ­cias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado! Mais de 180 reportagens e anÃ¡lises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder pÃºblico, veicula notÃ­cias proveitosas e inspiradoras, faz contraponto Ã intolerÃ¢ncia das redes sociais e traÃ§a uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteÃºdo? De 2Âª a 6Âª pela manhÃ£, receba o boletim gratuito com notÃ­cias e anÃ¡lises de economia AnÃºncio ocorre enquanto a CÃ¢mara dos Deputados analisava a abertura de um processo para destituir o polÃ­tico Ministro participou de conversa com o presidente para falar do cenÃ¡rio econÃ´mico Em e",
+  "numeros": [
+   {
+    "valor": "44 para 42",
+    "rotulo": "redução de horas semanais"
+   },
+   {
+    "valor": "10",
+    "rotulo": "data da audiência"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "receber menos por conta de adaptações no trabalho",
+  "angulo": "Entender o mercado financeiro pode ajudar a lidar melhor com as novas regras e gerar uma nova fonte de renda, tornando-se menos dependente da escala de trabalho.",
+  "gancho": "Ainda mais *mudanças nas regras de trabalho*",
+  "ideias": [
+   "Como o fim da escala 6x1 pode afetar seu bolso?",
+   "Adapte-se às novas regras de trabalho e amplie suas opções",
+   "Flexibilidade e renda: o que você precisa saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T18:44:16-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dino-marca-conciliacao-entre-empresas-trabalhadores-e-governo-sobre-transicao-para-o-fim-da-6x1.shtml",
+  "publicadoEm": "2026-11-05T17:26:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-05"
  },
  {
   "segmento": "trader",
