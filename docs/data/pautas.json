@@ -1,6 +1,367 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "O que fará o consumidor escolher uma marca em 2027?",
+  "resumo": "Estudo revela que os consumidores buscam segurança e valor imediato nas compras, mudando as estratégias de marketing das marcas. A transparência e a confiança são fundamentais para o sucesso.",
+  "fatos": [
+   "Estudo da Euromonitor envolve mais de 40 mil consumidores de diversos países.",
+   "72% dos consumidores estão preocupados com a alta dos preços de produtos básicos.",
+   "54% afirmam comprar apenas de marcas nas quais confiam completamente.",
+   "Entre 2024 e 2026, vendas de produtos com promessas concretas cresceram 33%.",
+   "81% dos consumidores usam IA generativa para atividades cotidianas.",
+   "72% confiam em recomendações de amigos e familiares para comprar.",
+   "A demanda por valor imediato traz novos desafios para empresas em 2027."
+  ],
+  "explicacao": [
+   "O consumidor atual busca não só o preço, mas também a confiança e soluções rápidas.",
+   "Com a pressão do custo de vida, a disponibilidade e a transparência são cruciais nas decisões de compra.",
+   "A evolução do comportamento do consumidor exige que as marcas apresentem valor imediato e autêntico.",
+   "A utilização de tecnologia como a IA ainda precisa garantir controle ao consumidor.",
+   "As marcas que não se adaptarem a essas novas exigências podem perder clientes para a concorrência."
+  ],
+  "materia": "Em um passado não muito distante, as marcas até podiam pedir paciência aos consumidores. Compre agora, acumule pontos, mantenha a assinatura, siga o tratamento, espere os resultados e, em algum momento, a recompensa chegará. Mas, ultimamente, o futuro anda pouco convincente. Com o sobe e desce dos preços, produtos desaparecendo das prateleiras, serviços alterando regras e a tecnologia tomando decisões cada vez maiores, o consumidor passou a valorizar “ o que eu ganho com isso agora “. Essa busca por uma comprovação mais rápida de valor aparece no relatório Principais Tendências Globais de Consumo para 2027 , da Euromonitor International. O estudo realizado com mais de 40 mil consumidores de países diversos entre janeiro e fevereiro de 2026, mostra um consumidor menos disposto a confiar apenas na promessa das empresas e mais interessado em encontrar segurança, transparência e algum controle sobre aquilo que compra. Isso não quer dizer que todo mundo passou a pensar apenas no curto prazo. Mas esperar meses por um benefício que talvez não chegue já não parece tão interessante quanto antes. O aumento do custo de vida continua no centro das decisões: 72% dos consumidores ouvidos estão preocupados com a alta dos preços de produtos básicos . Mas o que parece barato na etiqueta pode custar caro em tempo, paciência e frustração. E isso está cada vez mais valioso. Um produto que vive em falta, muda de qualidade a cada compra ou exige uma nova pesquisa toda vez que acaba não entrega exatamente uma boa economia. Por isso, 54% afirmam comprar apenas de marcas nas quais confiam completamente e 56% pesquisam bastante antes de escolher um produto ou serviço. Além disso, um em cada três consumidores prefere comprar menos itens, desde que sejam melhores. A conta do valor agora inclui a disponibilidade do produto, seu funcionamento e um preço minimamente previsível. Mas existe outro custo que não aparece na etiqueta: o esforço. Enquanto 42% dos consumidores se sentem pressionados pela quantidade de coisas que precisam realizar, 69% procuram maneiras de simplificar a vida . Assim, economizar tempo, diminuir etapas e evitar decisões desnecessárias também passam a ser formas de entregar valor. A exigência por valor imediato nasce de uma relação mais pessimista com o futuro. Apenas 26% dos consumidores afirmam ter dinheiro disponível em uma reserva de emergência e 38% acreditam que o mundo estará mais perigoso nos próximos cinco anos . Ao mesmo tempo, 44% preferem aproveitar a vida sem se preocupar tanto com o planejamento do futuro. Essa preferência pelo que pode ser comprovado agora já aparece nas vendas. Entre o primeiro trimestre de 2024 e o segundo trimestre de 2026, as vendas globais de produtos de consumo com promessas concretas e verificáveis no presente cresceram 33% . Já aquelas apoiadas em conceitos genéricos ou benefícios que só poderiam ser conferidos no futuro avançaram 18%. Na prática, expressões como “resultado em sete dias”, “clinicamente testado” e “garantia de devolução do dinheiro” ganharam mais espaço do que promessas amplas como “premium”, “inovador”, “sustentável” ou “feito para durar”. Isso muda a maneira de vender praticamente tudo. Um programa de fidelidade, por exemplo, perde força quando exige meses de compras para liberar um benefício pouco relevante. Uma assinatura parece menos atraente quando a economia só aparece depois de muito tempo. Até promessas ligadas à saúde, à carreira e ao bem-estar passam a ser avaliadas pelo que conseguem entregar no caminho, e não apenas no final. “Os consumidores não estão mais simplesmente comprando produtos ou serviços. Eles estão procurando confiança”, afirma Ali Angus, head de Inovação da Euromonitor International . Essa necessidade de segurança e controle aparece inclusive na relação com a Inteligência Artificial. O uso da tecnologia disparou: 81% dos consumidores já recorrem à IA generativa para ajudar em atividades cotidianas . O tráfego enviado por essas ferramentas para páginas d",
+  "numeros": [
+   {
+    "valor": "54%",
+    "rotulo": "consumidores que compram de marcas confiáveis"
+   },
+   {
+    "valor": "33%",
+    "rotulo": "crescimento de vendas de produtos com promessas verificáveis"
+   },
+   {
+    "valor": "81%",
+    "rotulo": "consumidores que usam IA generativa"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "O que sua marca perde ao não atender essas novas demandas?",
+  "angulo": "Entenda como a mudança no comportamento do consumidor evidencia a necessidade de uma presença digital forte e estratégias de tráfego pago e gestão de redes sociais.",
+  "gancho": "Você está *preparado para 2027*?",
+  "ideias": [
+   "A mudança nos hábitos de compra até 2027",
+   "Por que a confiança é o novo marketing?",
+   "Como a IA pode ajudar sua marca a se adaptar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://consumidormoderno.com.br/o-que-fara-o-consumidor-escolher-uma-marca-em-2027/",
+  "publicadoEm": "2026-11-04T18:04:25-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Bloqueio de SMS não cadastrados para proteger negócios",
+  "resumo": "A Anatel determina novas regras que bloqueiam SMS não cadastrados para combater fraudes. Empresários precisam se adaptar rapidamente para evitar perdas financeiras.",
+  "fatos": [
+   "A Anatel publicou novas regras para bloquear SMS não cadastrados com validade de 90 dias.",
+   "Operadoras de telefonia devem bloquear mensagens corporativas de remetentes não cadastrados.",
+   "Códigos curtos agora serão exclusivos e um diretório público será criado para rastreamento.",
+   "Todas as operadoras têm 60 dias para implementar mecanismos de monitoramento de tráfego.",
+   "O Brasil é o terceiro país mais visado por ataques digitais, incluindo golpe via SMS."
+  ],
+  "explicacao": [
+   "As novas regras visam combater fraudes digitais que ocorrem via SMS, um método comum de phishing.",
+   "As operadoras precisam se adaptar a essas exigências para garantir que mensagens fraudulentas não cheguem aos consumidores.",
+   "Para as empresas que utilizam SMS para comunicação, é essencial se cadastrar e implementar novas práticas de segurança."
+  ],
+  "materia": "A Agência Nacional de Telecomunicações (Anatel) publicou uma série de novas medidas para apertar o cerco contra golpes digitais via SMS no Diário Oficial da União nesta quarta-feira (04). As operadoras de telefonia móvel serão obrigadas a bloquear automaticamente mensagens corporativas de remetentes não cadastrados, assim como implementar um diretório público para rastrear a origem desses disparos. O motivo para essas alterações está relacionado a uma tentativa de frear o crescimento de fraudes que usam a tecnologia do SMS. Criminosos utilizam esse tipo de canal para aplicar golpes de phishing e, consequentemente, roubar dados. A nova regulamentação busca minimizar e rastrear essa prática. Um dos pontos alinhados tem relação com os códigos curtos, do termo short codes, em inglês. Eles constituem de cinco a seis dígitos e agora cada um deles será exclusivo de uma única empresa , com objetivo de acabar com o compartilhamento indiscriminado dessas numerações. A exceção fica para questões de operabilidade técnica. O grande destaque fica para a criação de um diretório setorial centralizado , que ficará disponível para consulta pública. A Anatel deu o prazo de 90 dias para que todas as pessoas jurídicas responsáveis pelo disparo de mensagens SMS, na modalidade Application-to-Person (A2P), sejam identificadas na plataforma. Segundo a determinação, a regra criada pela Agência indica que as operadoras precisarão impedir a entrega de qualquer SMS aos usuários se a mensagem for originada por um código curto que não esteja cadastrado na central. Essas empresas também precisarão realizar campanhas de conscientização para ensinar o consumidor a utilizar a nova ferramenta. Companhias terão 60 dias para implementar outros mecanismos O Despacho Decisório também informa que todas as operadoras deverão implementar mecanismos automatizados de monitoramento de tráfego em até 60 dias. Neste caso, o foco é fazer com que as redes identifiquem em tempo real certos padrões anômalos, campanhas de falsificação de identidade e uso de credenciais vazadas. Essas empresas vão precisar criar um canal de comunicação compartilhado para emitir alertas rápidos sobre incidentes de segurança; Companhias que usam o SMS para recuperação de senhas e a autenticação de dois fatores (2FA) terão que adotar procedimentos mais rigorosos para verificação de identidade dos usuários; A Superintendência Executiva da Anatel acompanhará as mudanças de perto e terá 180 dias para enviar um relatório ao Conselho do órgão; Esse relatório conterá uma avaliação a respeito da eficácia ou não das alterações para reduzir o volume de mensagens fraudulentas. Por falar em golpes, o Brasil é o terceiro país mais visado por ataques digitais no mundo , e as investidas via Pix e IA crescem cada vez mais. Siga o TecMundo no X, Instagram, Facebook e YouTube e assine a nossa newsletter para receber as principais notícias e análises diretamente no seu e-mail.",
+  "numeros": [
+   {
+    "valor": "90 dias",
+    "rotulo": "prazo para implementação das novas regras"
+   },
+   {
+    "valor": "60 dias",
+    "rotulo": "prazo para mecanismos de monitoramento"
+   },
+   {
+    "valor": "3º",
+    "rotulo": "posição do Brasil em ataques digitais"
+   }
+  ],
+  "fonte": "TecMundo",
+  "categoria": "Atendimento",
+  "publico": [
+   "Empresários",
+   "Prestadores de serviço",
+   "Comércio local"
+  ],
+  "dor": "perda de clientes e aumento de fraudes",
+  "angulo": "Com as novas regras da Anatel, empresários devem se preparar para assegurar a comunicação com seus clientes, evitando perdas e fraudes.",
+  "gancho": "Prepare-se: *novas regras de SMS* à vista!",
+  "ideias": [
+   "Você está preparado para as novas regras de SMS?",
+   "Saiba como evitar fraudes com SMS!",
+   "A Anatel e a proteção dos seus negócios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/operadoras-terao-que-bloquear-sms-nao-cadastrados-usados-em-golpes/",
+  "publicadoEm": "2026-11-04T16:30:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Fim da escala 6×1 pode impactar seu negócio",
+  "resumo": "O novo decreto que regulamentará o fim da escala de trabalho 6×1 entrará em vigor na próxima segunda-feira. Isso pode modificar a estrutura da sua equipe e afetar a operação da sua empresa.",
+  "fatos": [
+   "O decreto será publicado em 9 de outubro e estabelece novas diretrizes para a jornada de trabalho.",
+   "Os trabalhadores devem ter pelo menos oito folgas em um período de 30 dias.",
+   "A carga horária semanal poderá ser reduzida de 44 para 40 horas até 15 de dezembro.",
+   "A flexibilidade nas escalas permitirá diferentes combinações de jornadas semanais.",
+   "A regulamentação deverá ser pautada por negociações coletivas entre empresas e trabalhadores."
+  ],
+  "explicacao": [
+   "O fim da escala 6×1 busca garantir mais folgas para os trabalhadores, impactando a rotina das empresas.",
+   "Empresários precisarão adaptar suas escalas de trabalho, respeitando as novas diretrizes.",
+   "Isso pode resultar em mudanças nos custos operacionais e na gestão da equipe."
+  ],
+  "materia": "O decreto que regulamentará o fim da escala de trabalho 6×1 deve sair na próxima segunda-feira, 9, disse nesta quarta-feira, 4, o ministro do Trabalho e Emprego, Luiz Marinho. O texto estabelecerá diretrizes para a organização das jornadas e garantir pelo menos oito folgas por mês aos trabalhadores. Seguindo Marinho, o decreto será discutido com o presidente Luiz Inácio Lula da Silva nesta quinta-feira (5) e deverá orientar a implementação das novas regras por meio de negociações coletivas. A regulamentação também deverá permitir flexibilidade na organização das escalas, desde que sejam respeitados os direitos previstos na Proposta de Emenda à Constituição (PEC) que extinguiu o modelo de seis dias de trabalho para um de descanso. Decreto Segundo Marinho, o decreto terá como objetivo coordenar a adoção das diferentes escalas de trabalho nos setores econômicos, sem comprometer os direitos dos empregados nem o funcionamento das empresas. “Soltaremos o decreto regulamentador para trazer o processo coordenado para a implantação das várias escalas que cada setor pretende implantar, sempre respeitando o comando da PEC”, afirmou o ministro. A publicação, inicialmente prevista para esta semana, foi adiada após Lula não conseguir realizar o despacho sobre o tema. A expectativa do Ministério do Trabalho é concluir a regulamentação na próxima segunda-feira. Folgas e negociação A proposta prevê que os trabalhadores tenham, no mínimo, oito folgas em um período de 30 dias. A distribuição dos descansos poderá variar conforme as características de cada atividade, desde que respeitadas as condições estabelecidas pela PEC e pelos acordos coletivos. Marinho explicou que a flexibilização poderá permitir diferentes combinações de jornadas semanais, conforme as necessidades de cada setor. “Não tem lista de flexibilidade. A PEC determina dois descansos semanais. A flexibilidade concedida é que essas duas folgas estejam consolidadas dentro do mês”, declarou. O ministro destacou que os acordos coletivos terão papel central na organização das escalas. A prioridade, segundo ele, será a negociação entre empresas e representantes dos trabalhadores, com possibilidade de convenções nacionais que facilitem a adesão dos diferentes estados. A regulamentação também deverá contemplar setores que funcionam continuamente, como atividades de saúde, transporte, segurança e limpeza urbana. Redução da jornada A proposta de mudança na jornada de trabalho prevê a redução gradual da carga horária semanal, atualmente de 44 horas, para 40 horas. De acordo com as informações divulgadas pelo governo, a implementação deverá ocorrer a partir de 15 de dezembro, respeitando as condições estabelecidas na regulamentação. O Congresso Nacional promulgou, em 16 de outubro, a PEC que extingue a escala 6×1 e estabelece uma jornada de cinco dias de trabalho para dois de descanso. Marinho afirmou que o objetivo do governo é garantir a proteção dos trabalhadores durante a transição, sem prejudicar a atividade econômica. Críticas ao mercado Durante a entrevista coletiva em que apresentou os dados do Cadastro Geral de Empregados e Desempregados ( Caged ), o ministro também criticou a reação do mercado financeiro às discussões sobre propostas alternativas para a política econômica. A manifestação ocorreu após questionamentos sobre as ideias do economista André Lara Resende, um dos formuladores do Plano Real, que defende mudanças na condução das políticas fiscal e monetária. Marinho afirmou que o presidente Lula deve ter liberdade para ouvir diferentes contribuições, mesmo quando elas divergem das posições defendidas por agentes financeiros. “O que eu acho um absurdo é que qualquer tentativa de discussão que não esteja no quadradinho do chamado mercado da Faria Lima há uma grita contra”, declarou. O ministro também criticou a resistência do mercado à discussão de alternativas para a taxa básica de juros e defendeu que diferentes propostas sejam avaliadas pelo governo. “É um absurdo o comportam",
+  "numeros": [
+   {
+    "valor": "8",
+    "rotulo": "folgas mínimas por mês"
+   },
+   {
+    "valor": "44 para 40",
+    "rotulo": "redução da carga horária semanal"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Alterações nas escalas podem impactar sua produtividade",
+  "angulo": "Com as mudanças nas jornadas, é essencial um planejamento eficaz e a gestão das operações para evitar perdas financeiras.",
+  "gancho": "prepare-se para as novas *regras de trabalho*",
+  "ideias": [
+   "Como o fim da escala 6×1 pode afetar sua empresa?",
+   "O que muda nas escalas de trabalho em 2023?",
+   "Adequação à nova jornada: como se preparar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://mercadoeconsumo.com.br/04/11/2026/economia/governo-preve-decreto-do-fim-da-escala-6x1-para-segunda-feira/",
+  "publicadoEm": "2026-11-04T18:25:10-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento digital e necessidade de estratégia de marketing",
+  "resumo": "A Pague Menos viu um aumento de 32,8% nas vendas digitais, destacando a importância de uma gestão eficaz de marketing para empresários. O controle de despesas e a eficiência operacional são essenciais em períodos de",
+  "fatos": [
+   "Pague Menos registrou lucro de R$ 96,3 milhões no 3T26, alta de 19,5%.",
+   "As vendas digitais cresceram 32,8%, representando 24,6% da receita bruta.",
+   "A receita bruta totalizou R$ 4,429 bilhões, alta de 6,9% em relação ao ano anterior.",
+   "O número de usuários ativos do aplicativo saltou 23% nos últimos 12 meses.",
+   "A participação da Pague Menos no varejo farmacêutico digital alcançou 12,2%."
+  ],
+  "explicacao": [
+   "A Pague Menos mostrou um forte desempenho em vendas digitais, refletindo a importância de um marketing eficaz nas empresas contemporâneas.",
+   "O controle de despesas e a implementação de tecnologia foram cruciais para aumentar a margem bruta e minimizar custos operacionais.",
+   "Nos momentos de desaceleração, os empresários devem se adaptar e reforçar sua presença online para captar mais consumidores."
+  ],
+  "materia": "A Pague Menos ( PGMN3 ) registrou lucro líquido ajustado de R$ 96,3 milhões no terceiro trimestre de 2026, crescimento de 19,5% em relação ao mesmo período do ano passado. O resultado , divulgado ao mercado nesta quarta-feira, 4, foi favorecido pelo controle de despesas, pela melhora da margem bruta e pela redução dos custos financeiros. A companhia também registrou avanço de 32,8% nas vendas digitais, que contribuíram para sustentar o crescimento da operação em um cenário de desaceleração do mercado farmacêutico. A receita bruta somou R$ 4,429 bilhões, alta de 6,9% na comparação anual. Embora positiva, a expansão ficou abaixo dos 9,3% registrados no segundo trimestre e dos 14,4% do primeiro trimestre de 2026. A companhia atribui a perda de ritmo principalmente às bases de comparação mais elevadas, especialmente dos medicamentos GLP-1, que impulsionaram as vendas ao longo de 2025. O Ebitda ajustado atingiu R$ 278,8 milhões, crescimento de 7,2% em relação ao terceiro trimestre do ano passado. A margem Ebitda permaneceu em 6,3%, enquanto a margem líquida ajustada avançou de 1,9% para 2,2%. No acumulado dos nove primeiros meses de 2026, a receita bruta chegou a R$ 12,916 bilhões, alta de 10%, enquanto o lucro líquido ajustado somou R$ 225,5 milhões, avanço de 46,5%. A melhora do resultado da Pague Menos ocorreu mesmo diante de um crescimento mais moderado das vendas. Um dos fatores foi a expansão da margem bruta, que passou de 29,9% para 30% na comparação anual, o maior patamar para um terceiro trimestre desde 2018. O lucro bruto somou R$ 1,327 bilhão, crescimento de 7,2%. Segundo a companhia, o desempenho reflete melhorias nas condições comerciais, especialmente nas categorias de medicamentos genéricos e GLP-1, além de ganhos tributários relacionados ao novo centro de distribuição na Paraíba. A empresa também destacou a manutenção das perdas de estoque em níveis reduzidos, resultado associado à maior eficiência na gestão de mercadorias, com utilização crescente de ferramentas de inteligência artificial. As despesas gerais e administrativas totalizaram R$ 102,8 milhões, redução de 3,3% em relação ao mesmo trimestre de 2025. A queda foi explicada principalmente por menores provisões para remuneração variável e planos de ações restritas. Já as despesas com vendas cresceram 8,5%, chegando a R$ 946 milhões, pressionadas por custos relacionados à operação do novo centro de distribuição, à expansão da rede e a ajustes no quadro de funcionários. O resultado financeiro também contribuiu para a melhora do lucro. As despesas financeiras líquidas diminuíram 13%, passando de R$ 129,6 milhões para R$ 112,7 milhões. A redução foi favorecida por menores custos com antecipações de recebíveis e pela queda do CDI médio no período. A estratégia digital permaneceu como uma das principais frentes de crescimento da Pague Menos no terceiro trimestre. As vendas realizadas pelos canais digitais somaram aproximadamente R$ 1,1 bilhão, alta de 32,8% em relação ao mesmo período de 2025. Com isso, a participação desses canais na receita bruta passou de 19,8% para 24,6% em um ano, avanço de 4,8 pontos porcentuais. O crescimento foi impulsionado principalmente pelo aplicativo da companhia, cujas vendas aumentaram 73,2% na comparação anual. O canal concentra cerca de dois terços das vendas de e-commerce da rede. Nos últimos 12 meses, a Pague Menos registrou crescimento de 23% no número de usuários ativos mensais do aplicativo, além de 3,4 milhões de downloads. A companhia também ampliou a base de consumidores que utilizam mais de um canal de compra. Os clientes omnicanal passaram a representar 14,5% da base, crescimento de 2,9 pontos porcentuais em relação ao terceiro trimestre de 2025. Embora representem uma parcela menor do total de consumidores, esses clientes respondem por aproximadamente 40% das vendas da Pague Menos e apresentam gasto médio 3,8 vezes superior ao dos demais. O crescimento digital também ocorre fora da categoria de medicamentos GLP-1. Exclui",
+  "numeros": [
+   {
+    "valor": "32,8%",
+    "rotulo": "crescimento das vendas digitais"
+   },
+   {
+    "valor": "24,6%",
+    "rotulo": "participação das vendas digitais na receita bruta"
+   },
+   {
+    "valor": "12,2%",
+    "rotulo": "participação no varejo farmacêutico digital"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de clientes e vendas em um mercado competitivo",
+  "angulo": "A performance digital da Pague Menos demonstra a necessidade de estratégias adequadas, como gestão de redes sociais e automação, que podem ajudar seu negócio a superar desafios.",
+  "gancho": "Sua empresa *está preparada para o digital?*",
+  "ideias": [
+   "Aumente suas vendas com um marketing digital eficiente",
+   "O que a Pague Menos nos ensina sobre e-commerce?",
+   "Vendas digitais: a chave para o sucesso no varejo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "alta",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://mercadoeconsumo.com.br/04/11/2026/noticias/pague-menos-amplia-lucro-em-195-no-3t26-vendas-digitais-crescem-328/",
+  "publicadoEm": "2026-11-04T19:17:49-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Segurança cibernética: essencial para PMEs na era digital",
+  "resumo": "O aumento de ataques digitais destaca a importância do seguro cibernético para PMEs. Sem proteção, esses negócios enfrentam riscos que podem comprometer sua operação e faturamento.",
+  "fatos": [
+   "Menos de 25% das PMEs possuem seguro cibernético, segundo Steven Robinson.",
+   "Entre janeiro e abril de 2026, houve mais de 33,3 mil ataques contra PMEs com programas maliciosos disfarçados.",
+   "44% dos pequenos negócios no Brasil sofreram tentativas de golpes digitais ou por telefone nos últimos 12 meses.",
+   "A maioria das invasões ocorre por falha humana, como cliques em links maliciosos.",
+   "Investir em segurança de dados é considerado uma decisão de gestão responsável."
+  ],
+  "explicacao": [
+   "A Inteligência Artificial (IA) tornou os ataques digitais mais frequentes e acessíveis para criminosos, ampliando os riscos para PMEs.",
+   "Protegendo-se com um seguro cibernético, as empresas garantem a continuidade do negócio e a recuperação rápida em caso de ataques.",
+   "Preparar-se para possíveis ataques antes que eles ocorram é fundamental para a sobrevivência e a rentabilidade do negócio."
+  ],
+  "materia": "Reforma Tributária: risco para quem não se prepara. Oportunidade para quem se antecipa. Com a IA acelerando os ataques digitais, especialistas defendem que o seguro cibernético deixe de ser opcional para PMEs e que proteger dados garanta a continuidade do negócio. O seguro cibernético para PME (pequenas e médias empresas) é a proteção financeira contra os prejuízos de um ataque digital , risco que a Inteligência Artificial (IA) tornou mais frequente por automatizar a ação dos criminosos e ampliar sua escala. Apesar disso, Steven Robinson , líder nacional da área de segurança cibernética da consultoria RPS, estima que menos de 25% das empresas menores tenham essa cobertura , e isso deixa muitas delas expostas a ataques que bloqueiam os dados e exigem pagamento. A seguir, você vai entender por que a IA ampliou esse risco, como a segurança de dados sustenta a continuidade da operação e quais dúvidas mais comuns surgem na hora de se proteger. As PMEs são um alvo porque a IA automatizou e barateou ataques que antes exigiam mais esforço , o que enfraquece o mito de que hackers só miram corporações bilionárias. Em levantamento divulgado em junho de 2026, a Kaspersky , empresa internacional de cibersegurança, identificou, com base em dados de telemetria, mais de 33,3 mil ataques contra PMEs com programas maliciosos disfarçados de serviços de IA entre janeiro e abril de 2026. No Brasil, uma pesquisa do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas ( Sebrae ) com o Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV IBRE) , divulgada em 2026, mostra que 44% dos pequenos negócios sofreram tentativas de golpes digitais ou por telefone nos últimos 12 meses. Nesse cenário, o que define a vítima é a vulnerabilidade do sistema , e empresas que usam servidores locais antigos ou planilhas desprotegidas ficam mais expostas. Por isso, o preparo para um possível ataque precisa vir antes do incidente , e não depois dele. Investir em segurança de dados é uma decisão de gestão responsável , e não uma reação ao medo, pois significa preparar a empresa com antecedência . Em caso de sequestro do sistema por um ataque que bloqueia os dados e exige pagamento, só mantém o faturamento, a emissão de notas fiscais e o controle dos recebimentos quem já tem um plano de proteção . Por essa razão, o seguro cibernético deixou de ser assunto restrito à área de tecnologia e passou a integrar o planejamento estratégico da diretoria , voltado a garantir a continuidade das operações. O seguro cibernético cobre prejuízos de ataques e vazamentos em dois grupos, segundo a Rep Seguros. Danos próprios incluem resposta ao incidente, recuperação de dados, interrupção de negócios e extorsão; danos a terceiros, indenizações e custos de defesa. Sim, pequenas empresas sofrem ataques de sequestro de dados com frequência e costumam ser alvos preferidos dos cibercriminosos. Muitos empreendedores acreditam que hackers só miram grandes corporações ou governos, mas esse mito não se sustenta. O primeiro passo para proteger uma empresa sem gastar muito é treinar a equipe em segurança digital. A maioria das invasões e vazamentos ocorre por falha humana, como cliques em links maliciosos ou senhas fracas, e mudar o comportamento dos funcionários custa pouco ou nada. Finanças das pequenas indústrias atingem pior nível desde 2021, aponta CNI NFS-e Nacional libera alternância de perfis: o que muda para empresas e contadores? 68% das PMEs ignoram o controle de caixa, aponta pesquisa Assine nossa newsletter e receba artigos, dicas e novidades sobre gestão empresarial diretamente no seu e-mail. Ao assinar, você concorda com nossa política de privacidade. Cancele quando quiser.",
+  "numeros": [
+   {
+    "valor": "25%",
+    "rotulo": "PMEs com seguro cibernético"
+   },
+   {
+    "valor": "44%",
+    "rotulo": "Pequenos negócios que sofreram tentativas de golpes"
+   },
+   {
+    "valor": "33.300",
+    "rotulo": "Ataques contra PMEs identificados"
+   }
+  ],
+  "fonte": "Omie",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de dados, faturamento e clientes",
+  "angulo": "A situação alerta os empresários sobre os riscos e a importância de implementar seguros e treinamentos, levando-os a buscar soluções eficazes.",
+  "gancho": "Você está *protegido contra ataques digitais*?",
+  "ideias": [
+   "Seguro cibernético: sua PMEs está preparada?",
+   "Como a IA aumenta os riscos para suas vendas?",
+   "O que fazer em caso de ataque digital?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://www.omie.com.br/blog/seguro-cibernetico-pme-ia/",
+  "publicadoEm": "2026-11-04T16:22:06-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "84,3% das lojas de atacarejo melhoram desempenho após proibição das bets",
+  "resumo": "Com a proibição das apostas online, 84,3% das lojas de atacarejo apresentaram aumento nas vendas. O impacto positivo nas finanças é perceptível e reafirma a importância do marketing eficaz.",
+  "fatos": [
+   "84,3% das lojas de atacarejo melhoraram a taxa de vendas entre as semanas 41 e 43.",
+   "Na semana 43, o atacarejo cresceu 7,8% no faturamento.",
+   "71,4% dos estabelecimentos de atacarejo registraram crescimento positivo nas vendas.",
+   "O faturamento do atacarejo tinha uma queda de 3,5% antes das semanas 41 e 42.",
+   "Entre as 16.353 lojas avaliadas, as vendas melhoraram em até 100% em algumas bandeiras."
+  ],
+  "explicacao": [
+   "A proibição das apostas online teve um impacto positivo no setor do atacarejo, com um aumento significativo nas vendas.",
+   "Os dados mostram que a recuperação começou logo após a proibição, indicando uma tendência de melhora nas finanças.",
+   "Isso sugere que uma estratégia de marketing eficaz pode ser crucial em tempos de mudança econômica."
+  ],
+  "materia": "O desempenho do atacarejo ganhou força nas semanas seguintes à proibição das bets no Brasil . Levantamento da NielsenIQ (NIQ) mostra que 84,3% das lojas comparáveis do canal melhoraram a taxa de vendas entre as semanas 41 e 43, período que sucede a medida contra as apostas online. O indicador considera estabelecimentos que tiveram melhora em relação ao desempenho anterior, mesmo que ainda apresentem queda nas vendas. Na semana 43, encerrada em 25 de outubro, o atacarejo registrou crescimento de 7,8% no faturamento e de 2,4% nas unidades vendidas. Foi a terceira semana consecutiva de resultados positivos nos dois indicadores, após duas semanas de retração nas unidades. O levantamento identifica a melhora do canal no período posterior à proibição das bets, mas não estabelece uma relação causal entre a medida e o desempenho das vendas. A análise de mesmas lojas reúne 16.353 estabelecimentos dos canais avaliados. No atacarejo, o faturamento passou de queda de 3,5% nas semanas 39 e 40 para alta de 5,4% nas semanas 41 e 42 e de 5,6% no acumulado das semanas 41 a 43, sempre na comparação com os mesmos períodos de 2025. Nos demais canais, as taxas foram de -1,5%, 2,8% e 2,4%, respectivamente. A melhora no atacarejo chegou a cerca de 9 pontos percentuais, ante 3,9 pontos nos outros formatos. Além das 84,3% de lojas que melhoraram a taxa de vendas, 71,4% dos estabelecimentos de atacarejo registraram crescimento positivo do faturamento nas semanas 41 a 43. Nos demais canais, esse percentual foi de 60,7%. A melhora também aparece na análise das dez redes apresentadas no levantamento. Entre as bandeiras, a parcela de lojas que melhoraram a taxa de vendas variou de 93,3% a 100%. Os avanços ficaram entre 8,2 e 22,2 pontos percentuais, na comparação entre os blocos das semanas 39 e 40 e das semanas 41 a 43. Atacarejo mantém crescimento nas vendas Na semana 43, o alimentar de autosserviço registrou alta de 4,8% no faturamento, enquanto as unidades vendidas ficaram praticamente estáveis, com variação de -0,1%. No canal farma, os resultados foram de 7,2% em valor e 3,5% em unidades. No atacarejo, o crescimento das unidades perdeu intensidade ao longo das últimas semanas, passando de 5,5% na semana 41 para 3,0% na semana 42 e 2,4% na semana 43. Apesar da desaceleração, o canal permaneceu no campo positivo. O levantamento também identificou mudanças na composição das compras de alimentos. Entre as semanas 36 e 43, o preço de uma cesta fixa de produtos comuns aos períodos subiu 0,31% no conjunto de autosserviço alimentar e atacarejo. Já o indicador de mix dentro das categorias ficou em 2,96%. No atacarejo, a cesta fixa avançou 0,65%, enquanto o indicador de mix foi de 2,61%. A cesta fixa mede a variação de preço de uma mesma composição de produtos. O indicador de mix mantém os preços de referência constantes e identifica mudanças na participação dos itens dentro das categorias. O resultado positivo aponta maior peso de produtos de preço mais alto, como marcas, versões ou embalagens que exigem maior desembolso por unidade. Na comparação entre as semanas 42 e 43, a cesta fixa do alimentar subiu 0,55% no conjunto de autosserviço e atacarejo, enquanto o mix ficou em 1,94%. No atacarejo, os resultados foram de 0,57% e 0,71%, respectivamente. A mudança na composição aparece com mais clareza em refrigerantes e cervejas. O café não acompanhou o mesmo padrão. Melhora supera a maior parte das janelas históricas A comparação histórica da NIQ mostra que a melhora da taxa de vendas do painel total superou a observada em 93% dos 103 períodos analisados. Já o avanço adicional do atacarejo em relação aos demais canais foi maior do que o registrado em 94% das janelas históricas. O teste compara blocos de duas semanas com blocos de três semanas, cada um em relação ao período correspondente do ano anterior. Os percentuais indicam a posição do resultado no histórico e não representam probabilidades de que a melhora tenha sido causada pela proibição das apostas online.",
+  "numeros": [
+   {
+    "valor": "84,3%",
+    "rotulo": "lojas de atacarejo com melhora nas vendas"
+   },
+   {
+    "valor": "7,8%",
+    "rotulo": "crescimento no faturamento na semana 43"
+   },
+   {
+    "valor": "71,4%",
+    "rotulo": "estabelecimentos com faturamento positivo"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "perda de vendas e lucro em cenários difíceis",
+  "angulo": "A recuperação das vendas no atacarejo destaca a importância de uma presença online forte e estratégias de marketing adaptáveis, levando empresários a considerarem melhorias em suas práticas de marketing.",
+  "gancho": "Aumente suas vendas com *estratégia eficaz*",
+  "ideias": [
+   "Como a proibição das bets impactou as vendas?",
+   "Por que o atacarejo se destaca neste momento?",
+   "A importância do marketing na recuperação de vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://mercadoeconsumo.com.br/04/11/2026/supermercados/atacarejo-melhora-vendas-em-843-das-lojas-apos-restricoes-as-bets-aponta-niq/",
+  "publicadoEm": "2026-11-04T18:06:57-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-vpr-11"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Alta do ouro impacta preços no varejo brasileiro",
   "resumo": "A valorização do ouro afeta decisões empresariais e o comportamento do consumidor, impactando os preços no varejo. Entenda como ajustar sua estratégia de vendas a esse cenário.",
   "fatos": [
@@ -551,6 +912,300 @@
   "publicadoEm": "2026-11-04T13:00:10-03:00",
   "data": "2026-11-04",
   "id": "2026-11-04-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Juros altos impactam diretamente seu bolso e negócios",
+  "resumo": "A manutenção da Selic em 13,75% causa críticas e preocupação. Alta de juros pode encarecer crédito e limitar investimentos, afetando empresas e consumo das famílias.",
+  "fatos": [
+   "O Comitê de Política Monetária manteve a taxa Selic em 13,75% ao ano.",
+   "Entidades da indústria e comércio criticaram a decisão por prejudicar a atividade econômica.",
+   "A Confederação Nacional da Indústria alertou sobre o aumento do endividamento das famílias.",
+   "Expectativa de crescimento econômico inferior a 2% foi citada por economistas.",
+   "O aumento da Selic compromete recursos para saúde, educação e segurança."
+  ],
+  "explicacao": [
+   "A decisão do Banco Central de manter os juros altos gera um efeito cascata na economia.",
+   "O crédito encarecido dificulta o financiamento de empresas e consumidores, restringindo investimentos.",
+   "Com menos recursos, as famílias e os empresários enfrentam dificuldades, ampliando o endividamento e limitando o crescimento."
+  ],
+  "materia": "A manutenção da taxa básica de juros (Selic) em 13,75% ao ano pelo Comitê de Política Monetária (Copom) do Banco Central foi alvo de críticas do setor produtivo. Entidades da indústria e do comércio apontam prejuízos à atividade econômica, ao crédito, aos investimentos e ao orçamento público. O deputado Lindbergh Farias (PT-RJ) também criticou a decisão. Em nota, a Confederação Nacional da Indústria (CNI) classificou a decisão como equivocada e excessivamente conservadora. Para a entidade, a manutenção dos juros elevados encarece o crédito, prejudica empresas e famílias e desacelera a economia. O presidente da confederação, Ricardo Alban, defendeu a retomada dos cortes na próxima reunião do Copom, prevista para dezembro. “É possível continuar diminuindo os juros em ritmo compatível com a convergência da inflação para a meta, sem impor à economia um custo maior do que o necessário para assegurar a estabilidade dos preços”, afirmou. A entidade também destacou o aumento do endividamento das famílias e a pressão sobre os custos de financiamento das empresas. >> Siga o canal da Agência Brasil no WhatsApp O economista-chefe da Associação Paulista de Supermercados (Apas), Felipe Queiroz, afirmou que os juros elevados prejudicam comércio, serviços e indústria, além de limitar o consumo e os investimentos. “Está na hora de o Banco Central adotar uma política monetária que tanto controle a inflação quanto não prejudique o ritmo de atividade econômica”, declarou. Queiroz acrescentou que a taxa de juros é um impedimento ao crescimento econômico e citou a expectativa de expansão inferior a 2% neste ano. A Confederação Nacional dos Trabalhadores do Ramo Financeiro (Contraf-CUT) e a Central Única dos Trabalhadores (CUT) criticaram a manutenção da Selic. Para a presidenta da Contraf-CUT e vice-presidente da CUT, Juvandia Moreira, a política monetária amplia o endividamento e compromete recursos públicos. “Quanto mais alta a Selic, maior também será a dívida do Estado, com menos recursos sobrando para o que importa, como saúde, educação e segurança”, afirmou. A Força Sindical, por sua vez, classificou a decisão como “irracional, nefasta e desastrosa”. O presidente da entidade, Miguel Torres, afirmou que os juros altos restringem o crédito, a produção e a geração de empregos. O deputado federal Lindbergh Farias atribuiu a manutenção dos juros à pressão do mercado financeiro após a eleição presidencial. “É inadmissível que, depois da derrota de seu candidato, a Faria Lima passe a torcer contra o Brasil e use os juros como instrumento de pressão sobre o governo eleito”, afirmou o parlamentar em postagem nas redes sociais. Para o deputado, a decisão do Copom encarece o crédito e sufoca a produção. Lindbergh também cobrou explicações do Banco Central sobre a interrupção do ciclo de cortes e defendeu investimentos em indústria, ciência e infraestrutura.",
+  "numeros": [
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "crescimento econômico esperado"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "pessoas temem o aumento das dívidas e custos",
+  "angulo": "Conhecer o mercado financeiro pode oferecer alternativas de renda que não dependem da Selic alta e do crédito caro.",
+  "gancho": "*Juros altos* e o que você pode fazer",
+  "ideias": [
+   "Como os juros afetam seu bolso?",
+   "Descubra alternativas à dependência do salário!",
+   "Preparando-se para enfrentar a alta da Selic"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/setor-produtivo-critica-manutencao-da-selic-em-1375-ao-ano",
+  "publicadoEm": "2026-11-04T19:34:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Emprego avança, mas empregos formais caem na comparação anual",
+  "resumo": "Em setembro, o Brasil adicionou 121,3 mil empregos formais, mas houve uma queda significativa em relação ao ano anterior. Juros altos e inflação impactam o mercado de trabalho.",
+  "fatos": [
+   "No mês de setembro, foram criados 121,3 mil postos formais de trabalho.",
+   "No acumulado de 2023, o total de contratações com carteira assinada chega a 1,25 milhão.",
+   "O estoque total de empregos está em 48,4 milhões.",
+   "A soma de empregos criados em setembro é 43,5% menor que no mesmo mês de 2022.",
+   "Em agosto, houve 165,8 mil novas contratações com carteira assinada."
+  ],
+  "explicacao": [
+   "A forte alta da inflação e a taxa de juros elevada são fatores que dificultam a criação de novos postos de trabalho.",
+   "O Banco Central manteve a Selic em 13,75%, o que representa um alto custo de crédito.",
+   "Com a insegurança fiscal, a recuperação econômica esperada está sendo freada, levando a uma desaceleração nas contratações."
+  ],
+  "materia": "Com 121,3 mil postos formais criados em setembro , as contratações com carteira assinada chegaram a 1,25 milhão em nove meses, levando o estoque total de empregos a 48,4 milhões, segundo o Ministério do Trabalho . O resultado mensal, no entanto, foi 43,5% menor do que o de um ano antes e bem inferior às projeções do mercado, distribuídas na faixa de 156 mil a 170 mil. Em agosto haviam sido abertos 165,8 mil empregos com papel firmado. Os números indicam avanço em várias atividades, mas com perda de vigor também ao longo deste ano. Quatro dos grandes setores tiveram saldo positivo de emprego regular, com 81,2 mil contratações em serviços, 19,3 mil na indústria, 15,7 mil no comércio e 9,4 mil na construção. A agropecuária fechou 4,4 mil postos. As estimativas do mercado apontam crescimento econômico bem inferior aos 2,3% contabilizados em 2025. Ao longo de um mês, a mediana das projeções caiu de 1,85% para 1,76%, segundo levantamento do Banco Central (BC) . A produção industrial aumentou 3,1% no primeiro semestre, mas perdeu impulso em março, quando o avanço mensal ficou em apenas 0,1%. Crédito caro, com juros básicos mantidos em nível muito alto pelo BC, estão entre os principais freios da atividade industrial apontados pelos economistas. Esses juros estavam em 15% em março deste ano e diminuíram nos meses seguintes até 13,75%, taxa ainda em vigor no início da última reunião do Comitê de Política Monetária do BC, o Copom , iniciada na terça-feira, 3, e terminada nesta quarta-feira, 4, com a decisão de manter a taxa Selic inalterada. A insegurança quanto à política fiscal e, portanto, à busca do equilíbrio das finanças públicas, dificultou um corte mais veloz dos juros básicos. Isso prolongou os entraves financeiros à produção, ao investimento produtivo e ao crescimento econômico. A gastança federal se manteve, durante a maior parte deste ano, como um obstáculo à expansão produtiva e à criação de empregos. Após quebra de banco digital e bloqueio de contas, paraguaios protestam e pedem prisão de presidente Lula fará pronunciamento para tentar acalmar o mercado e demonstrar preocupação com a dívida pública Master paraguaio? Entenda crise em banco digital ligado ao presidente Santiago Peña Como a derrota de Trump nas eleições legislativas pode afetar as relações comerciais com o Brasil BC do Paraguai diz que adiantará recursos do Fundo de Garantia de Depósitos a clientes do Ueno Bank",
+  "numeros": [
+   {
+    "valor": "121,3 mil",
+    "rotulo": "novos empregos em setembro"
+   },
+   {
+    "valor": "1,25 milhão",
+    "rotulo": "contratações em 2023"
+   },
+   {
+    "valor": "48,4 milhões",
+    "rotulo": "estoque total de empregos"
+   }
+  ],
+  "fonte": "Estadão Economia",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "medo de perder o emprego e dificuldades financeiras",
+  "angulo": "A incerteza no mercado de trabalho reforça a importância de diversificar fontes de renda, como o aprendizado do trading no mercado financeiro.",
+  "gancho": "O que fazer quando a *inflação e juros* apertam",
+  "ideias": [
+   "Como a inflação afeta seu emprego?",
+   "Dicas para investir em tempos de crise",
+   "Empregos no Brasil: alternativas à carteira assinada"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://www.estadao.com.br/economia/inflacao-alta-e-juro-elevado-frearam-emprego/",
+  "publicadoEm": "2026-11-04T18:33:34-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Selic a 13,75%: impacto no bolso e investimentos",
+  "resumo": "A Fiesp critica a manutenção da Selic em 13,75% ao ano, afirmando que isso encarece o crédito e agrava o endividamento, afetando diretamente a capacidade de investimento de empresários e famílias.",
+  "fatos": [
+   "O Banco Central manteve a Selic em 13,75% ao ano em decisão unânime em 4 de novembro de 2026.",
+   "A Fiesp classificou a decisão como 'desmedida', afirmando que prejudica a produção e o consumo.",
+   "O crédito bancário para o setor produtivo está na faixa de 30% ao ano, inviabilizando investimentos.",
+   "As famílias e empresas passam por um endividamento recorde, agravado a cada mês.",
+   "O custo para o governo com os juros da dívida ultrapassa R$ 1 trilhão por ano."
+  ],
+  "explicacao": [
+   "A manutenção da Selic impacta diretamente o custo do crédito, tornando mais difícil para empresários e trabalhadores obterem financiamentos e relatarem novos investimentos.",
+   "Esse cenário resulta em um mercado menos dinâmico e mais endividado, causando dificuldades financeiras para muitos.",
+   "Para famílias, isso significa um aperto no orçamento, enquanto empresários enfrentam um ambiente desfavorável para crescimento."
+  ],
+  "materia": "A Fiesp (Federação das Indústrias do Estado de São Paulo) classificou nesta 4ª feira (4.nov.2026) como “desmedido” o aperto monetário do Banco Central, que manteve a taxa básica de juros, a Selic, em 13,75% ao ano. A organização afirmou que os juros prejudicam a produção, o consumo e os investimentos no país. O Copom (Comitê de Política Monetária) do Banco Central manteve a Selic em 13,75% ao ano nesta 4ª feira (4.nov) , em decisão unânime. A autoridade monetária justificou a manutenção pela aceleração da inflação . A decisão interrompeu uma sequência de 5 cortes consecutivos de 0,25 ponto percentual iniciada em março de 2026. A Fiesp disse que os juros elevados encarecem o crédito para empresas e empreendedores, dificultam novos investimentos e agravam o endividamento de famílias e companhias. “O crédito bancário tomado pelo setor produtivo e empreendedores na casa dos 30% ao ano inviabiliza investimentos, e o endividamento recorde das famílias e empresas se agrava a cada mês” , declarou a entidade em nota assinada por Paulo Skaf, presidente da instituição. A federação também criticou o impacto dos juros sobre as contas públicas. De acordo com a nota, o pagamento de juros da dívida custa mais de R$ 1 trilhão por ano ao governo. A Fiesp defendeu mudanças nas políticas monetária e fiscal para reduzir a taxa básica e recuperar a competitividade da economia brasileira. Eis a íntegra da nota da Fiesp: “A decisão do Banco Central de manter a Selic em 13,75% ao ano insiste em um aperto monetário desmedido, que coloca a taxa básica em um patamar aproximadamente de três vezes a inflação corrente. Na prática, a autoridade monetária pune quem produz e consome. O crédito bancário tomado pelo setor produtivo e empreendedores na casa dos 30% ao ano inviabiliza investimentos, e o endividamento recorde das famílias e empresas se agrava a cada mês. Para as contas públicas, a fatura custa mais de R$ 1 trilhão por ano apenas no pagamento de juros da dívida. É urgente readequar as políticas monetária e fiscal para trazer a Selic a níveis toleráveis e devolver a competitividade à economia brasileira.”",
+  "numeros": [
+   {
+    "valor": "R$ 1 trilhão",
+    "rotulo": "custo anual em juros da dívida para o governo"
+   },
+   {
+    "valor": "30%",
+    "rotulo": "taxa de juros do crédito bancário para o setor produtivo"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Juros e crédito",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "endividamento crescente e dificuldade de investimento",
+  "angulo": "Entender como a alta taxa de juros afeta sua vida financeira e como o conhecimento no mercado financeiro pode ajudar a criar oportunidades fora das amarras do emprego tradicional.",
+  "gancho": "*Selic elevada*: o que isso significa para você?",
+  "ideias": [
+   "Como a Selic em 13,75% afeta seu bolso?",
+   "Juros altos: o que você pode fazer?",
+   "Estratégias para atenuar o impacto da Selic alta"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/fiesp-critica-manutencao-da-selic-em-1375-ao-ano/",
+  "publicadoEm": "2026-11-04T21:49:12-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Projeto proíbe obsolescência programada de produtos",
+  "resumo": "Um projeto de lei foi aprovado no Senado e visa proibir a obsolescência programada, protegendo os consumidores ao garantir o direito de reparo. Agora, ele segue para a Câmara dos Deputados.",
+  "fatos": [
+   "O projeto de lei, PL 805/2024, foi aprovado no Senado em 4 de outubro de 2023.",
+   "Ele visa proibir a obsolescência programada, reduzindo a vida útil dos produtos de forma intencional.",
+   "O projeto também regulamenta o direito do consumidor de reparar os produtos.",
+   "Após a aprovação no Senado, o projeto seguirá para análise na Câmara dos Deputados.",
+   "Isso impacta diretamente consumidores que buscam produtos duráveis e reparáveis."
+  ],
+  "explicacao": [
+   "A obsolescência programada encarece o custo de vida, pois obriga os consumidores a comprarem novos produtos com frequência.",
+   "Com essa nova legislação, os consumidores poderão exigir reparos, aumentando a durabilidade dos produtos.",
+   "Isso pode gerar uma economia significativa no longo prazo, pois produtos que duram mais não precisam ser substituídos com tanta frequência."
+  ],
+  "materia": "Compartilhe este conteúdo no Whatsapp Compartilhe este conteúdo no Facebook Compartilhe este conteúdo no X Compartilhe este conteúdo no Telegram Compartilhe este conteúdo no Linkedin O projeto de lei que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo foi aprovado nesta quarta-feira (4) pela Comissão de Fiscalização e Controle do Senado. O projeto ( PL 805/2024 ) agora segue para análise na Câmara dos Deputados. Ouça o áudio. MAIS NOTÍCIAS SOBRE: Comissão de Fiscalização e Controle (CTFC) Senador Dr. Hiran Consumidor Indústria Quer receber notificações do portal Senado Notícias?",
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "projeto aprovado no Senado"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Leis",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "preocupações sobre o aumento do custo de reposição de produtos",
+  "angulo": "Entender estas novas leis pode levar você a perceber as oportunidades de ganho no mercado financeiro, sem depender apenas do salário.",
+  "gancho": "*Obsolescência programada* é coisa do passado!",
+  "ideias": [
+   "Como a nova lei impacta seu bolso?",
+   "Mais direitos para o consumidor!",
+   "Menos desperdício, mais economia!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-proibe-obsolescencia-programada-de-produtos-vai-a-camara",
+  "publicadoEm": "2026-11-04T20:55:50-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impactos no bolso e no trabalho",
+  "resumo": "A CNI e a CNC acionaram o STF contra a nova jornada de trabalho. Mudanças trazem custos significativos para a indústria e o comércio.",
+  "fatos": [
+   "A CNI e a CNC entraram com uma ação no STF em 4 de outubro de 2023.",
+   "A Emenda Constitucional 141/2026 acaba com a escala 6x1 e reduz a jornada de 44 para 40 horas semanais.",
+   "A CNI estima que o custo do trabalho formal na indústria aumentará em 11,1%, o que representa R$ 88 bilhões.",
+   "A nova jornada começa em 15 de dezembro de 2023, com regra de transição de 14 meses.",
+   "O ministro do Trabalho e Emprego, Luiz Marinho, deve divulgar um decreto regulatório em 9 de outubro de 2023."
+  ],
+  "explicacao": [
+   "A mudança está gerando controvérsia, pois a CNI e a CNC argumentam que ela fere a segurança jurídica e autonomia trabalhista.",
+   "Setores que dependem de acordos coletivos enfrentam incertezas e aumentos significativos nos custos de operação.",
+   "As novas diretrizes prometem garantir pelo menos oito folgas mensais, mas podem impactar na flexibilidade das jornadas de trabalho."
+  ],
+  "materia": "A Confederação Nacional da Indústria (CNI) e a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) ingressaram nesta quarta-feira (4) com uma ação no Supremo Tribunal Federal (STF) para suspender o fim da escala de trabalho 6x1. Na ação, a CNI alega que a Emenda Constitucional 141 de 2026, promulgada no mês passado pelo Congresso Nacional, fere a segurança jurídica, a livre iniciativa econômica e a autonomia coletiva trabalhista. A confederação também sustenta que o fim da escala vai impactar nos acordos trabalhistas ainda vigentes e acordados entre empresas e trabalhadores. “As convenções e acordos coletivos de trabalho vigentes devem manter plenos efeitos até o término regular de seus prazos de vigência ou até que sobrevenha nova pactuação coletiva autônoma”, afirma a CNI. Sobre os impactos financeiros, a CNI afirmou que a redução da jornada de trabalho, somada com a ampliação do repouso semanal sem redução de salário, vai aumentar o custo do trabalho formal da indústria em 11,1%, percentual equivalente a R$ 88 bilhões. A confederação citou que diversos setores da indústria funcionam de forma ininterrupta e sempre dependeram de negociações coletivas para definição do regime de folgas. “A viabilidade dessas plantas fabris sempre dependeu tanto da negociação coletiva de regimes compensatórios com ciclos plurimensais ou anuais quanto da previsão legal de regimes diferenciados de trabalho e repouso cumulativo”, completou a entidade. Já a CNC informou que pretende adiar o início da redução das horas de trabalho para outubro de 2027. A nova jornada deve entra em vigor em 15 de dezembro deste ano. Em uma decisão histórica, o Senado Federal aprovou no mês passado o fim da escala 6x1 de trabalho. Com isso, o trabalhador passa a ter dois dias por semana de descanso remunerado, em jornada máxima de 5x2, sem redução salarial. Além disso, a atual jornada de trabalho de 44 para 40 horas semanais terá uma regra de transição de 14 meses. A medida foi aprovada, na ocasião, com votos da base governista e da oposição. O texto já havia sido aprovado pela Câmara dos Deputados. O fim da escala foi celebrado por entidades representativas dos trabalhadores. Para a categoria, a nova jornada permitirá ao trabalhador ter maior contato com a família e poder se dedicar a outras atividades e estudo . Uma pesquisa realizada em fevereiro deste ano pela Nexus mostrou que 73% dos brasileiros apoiam o fim da escala 6x1. O ministro do Trabalho e Emprego, Luiz Marinho, informou que o decreto que regulamentará o fim da escala deve sair na próxima segunda-feira (9). O texto estabelecerá diretrizes para a organização das jornadas e garantir pelo menos oito folgas por mês aos trabalhadores. Segundo Marinho, o decreto terá como objetivo coordenar a adoção das diferentes escalas de trabalho nos setores econômicos, sem comprometer os direitos dos empregados nem o funcionamento das empresas.",
+  "numeros": [
+   {
+    "valor": "11,1%",
+    "rotulo": "aumento do custo do trabalho na indústria"
+   },
+   {
+    "valor": "R$ 88 bilhões",
+    "rotulo": "impacto financeiro estimado"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de folga por semana"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas semanais na nova jornada"
+   }
+  ],
+  "fonte": "Agência Brasil Últimas",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "preocupação com aumento de custos e redução de flexibilidade",
+  "angulo": "Entender o cenário atual do mercado é essencial, pois a nova legislação impacta diretamente na estratégia financeira pessoal e empresarial.",
+  "gancho": "*Aumento de custos* e novo formato de trabalho: como",
+  "ideias": [
+   "Como o fim do 6x1 impacta seu negócio?",
+   "Custo do trabalho em alta: o que fazer?",
+   "Nova jornada de trabalho: vantagens e desvantagens"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-04T22:52:51-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/entidades-da-industria-e-do-comercio-recorrem-ao-stf-contra-fim-da-6x1",
+  "publicadoEm": "2026-11-04T20:23:00-03:00",
+  "data": "2026-11-04",
+  "id": "2026-11-04-trader-09"
  },
  {
   "segmento": "trader",
