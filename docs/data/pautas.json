@@ -1,6 +1,537 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Mudanças no comércio afetam importações e vendas de varejo",
+  "resumo": "As adequações na importação exigidas pela nova legislação podem impactar diretamente as vendas do varejo, especialmente durante a Black Friday e o Natal.",
+  "fatos": [
+   "A transição da Declaração de Importação (DI) para a Declaração Única de Importação (Duimp) está em andamento.",
+   "O Release Azuis (R77) inicia em 1º de novembro, focado em melhorias no sistema de importação.",
+   "O Release Canoas (R78/R79) deverá ser implementado em 4 de dezembro, relacionado ao desligamento da DI.",
+   "As importações brasileiras totalizaram US$ 195 bilhões entre janeiro e agosto de 2026, o que representa uma alta de 6% em relação ao ano anterior.",
+   "A expectativa de vendas na Black Friday é de R$ 14,47 bilhões, com 18,3 milhões de pedidos projetados."
+  ],
+  "explicacao": [
+   "As novas regras de importação trazem a necessidade de adaptações rápidas, especialmente agora que as vendas do varejo se intensificam com a Black Friday e o Natal.",
+   "Os empresários devem estar cientes de que a euforia das vendas pode ser afetada por atrasos ou falhas na adequação dos sistemas de importação.",
+   "Motivos como a complexidade da reforma tributária e as exigências da Duimp contribuem para desafios logísticos."
+  ],
+  "materia": "Cronograma de mudanças do comércio exterior exige agilidade nas adequações em sistemas e processos em um período de alta demanda para o comércio que depende de produtos e componentes importados Brasília – Enquanto empresas se preparam para a Black Friday e o Natal, o comércio exterior brasileiro passa por mudanças que exigem adequações a sistemas e processos de importação. A substituição gradual da Declaração de Importação (DI) pela Declaração Única de Importação (Duimp) e as adaptações à Reforma Tributária do Consumo acontecem de forma escalonada nos próximos meses, fase desafiadora para negócios que precisam garantir importação e exportação de produtos, matérias-primas e componentes dentro do prazo. O cenário exige respostas rápidas das empresas. O cronograma do Portal Único Siscomex prevê atualizações do sistema, chamadas Releases , que introduzem modificações nos processos de importação. Entre as próximas etapas, está o Release Azuis (R77), que prevê melhorias no sistema e tem treinamento iniciado em outubro e entrada em produção em 1º de novembro. Já o Release Canoas (R78/R79), relacionado ao desligamento da antiga Declaração de Importação (DI), está previsto para 4 de dezembro. Ao longo de outubro, também estão previstas alterações na admissão de mercadorias na Zona Franca de Manaus e na integração com a Suframa. Antes dessas etapas,já entrou em produção o Release Paraná – RTC (R75), em setembro, voltado à adequação à Reforma Tributária do Consumo. Todas essas atualizações acarretaram desafios para a geração da Duimp. “Estamos falando de mudanças que acontecem justamente quando os negócios precisam estar mais preparados para importar. Se um sistema não estiver adequado ou uma operação não for planejada considerando esses prazos, o impacto pode chegar diretamente ao abastecimento. O comércio exterior precisa estar na mesa de decisão estratégica de qualquer companhia que tenha algum processo de importação ou exportação, porque qualquer alteração nessa cadeia compromete todo o negócio”, afirma André Barros, CEO da eComex, companhia pioneira em soluções tecnológicas para automação e gestão do comércio exterior. A transição para a Duimp não representa apenas uma troca de documento, mas uma transformação na forma como as empresas estruturam suas operações de comércio exterior. Sistemas, integrações e bases de dados precisam acompanhar as novas exigências O impacto da Reforma Tributária vai além da adequação fiscal. “Não basta adequar a tributação. As empresas também precisam estar preparadas para operar no sistema de importação, com os cadastros, dados e processos exigidos pelas novas regras. É uma mudança de tecnologia, processos e dados que precisa ser tratada com antecedência”, explica Barros. As alterações regulatórias se somam à pressão sazonal sobre as importações. Entre janeiro e agosto de 2026, as compras brasileiras do exterior somaram US$ 195 bilhões, alta de 6% em relação ao mesmo período de 2025. Apenas em agosto, foram US$ 25,8 bilhões, crescimento de 9,2% na comparação anual, segundo dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). A expectativa com a Black Friday deste ano é movimentar R$ 14,47 bilhões em vendas e 18,3 milhões de pedidos. Os dados são da pesquisa realizada pela Stefanini Marketing, que aponta roupas, eletrônicos pessoais e produtos de beleza e perfumaria entre as categorias com maior intenção de compra na data promocional de 27 de novembro. Para empresas que dependem de produtos importados, o planejamento começa antes da data de venda. Produção na origem, tempo de trânsito internacional, desembaraço aduaneiro, estoque e distribuição precisam ser considerados em conjunto. “Quando se trabalha com importação e exportação, não existe espaço para deixar a decisão para depois. É preciso saber o que será necessário, quanto tempo levará para chegar e quais riscos podem aparecer no caminho. Com as mudanças regulatórias acontecendo ao mesmo tempo, é fundamental agir com antec",
+  "numeros": [
+   {
+    "valor": "14,47 bilhões",
+    "rotulo": "vendas esperadas na Black Friday"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "aumento nas importações em relação ao ano anterior"
+   }
+  ],
+  "fonte": "Comex do Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas e clientes devido a atrasos nas importações.",
+  "angulo": "As mudanças nas regras de importação e tributação exigem planejamento estratégico para evitar prejuízos nas vendas, o que torna essencial a gestão eficiente de processos comerciais.",
+  "gancho": "Adequações exigidas: sua empresa está preparada?",
+  "ideias": [
+   "Importações: Como garantir que sua empresa não falhe?",
+   "Desafios do varejo: O que muda nas vendas?",
+   "Planejamento estratégico para Black Friday e Natal"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://comexdobrasil.com/duimp-e-reforma-tributaria-pressionam-importacoes-do-varejo-entre-black-friday-e-natal/",
+  "publicadoEm": "2026-11-05T16:30:26-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-27"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças na importação pressionam vendas de varejo",
+  "resumo": "A nova legislação de importação e a Reforma Tributária exigem adaptações rápidas das empresas. Planejamento e gestão eficientes são essenciais para evitar impactos negativos nas vendas durante a Black Friday e Natal.",
+  "fatos": [
+   "A transição da Declaração de Importação (DI) para a Declaração Única de Importação (Duimp) acontece em várias etapas.",
+   "Mudanças nos processos de importação e integração com a Suframa exigem atualizações de sistemas e treinamentos, iniciados em outubro.",
+   "O Release Azuis (R77) entra em produção em 1º de novembro e o Release Canoas (R78/R79) está previsto para 4 de dezembro.",
+   "As compras brasileiras do exterior somaram US$ 195 bilhões entre janeiro e agosto de 2026, um aumento de 6% em relação a 2025.",
+   "A expectativa de vendas para a Black Friday deste ano é de R$ 14,47 bilhões, com 18,3 milhões de pedidos estimados."
+  ],
+  "explicacao": [
+   "As mudanças na legislação exigem que empresas se adaptem rapidamente para evitar impactos no abastecimento, principalmente durante períodos de alta demanda como o Natal.",
+   "A Reforma Tributária não se limita à adequação fiscal, mas requer que as empresas reestruturem seus processos de importação.",
+   "Com as vendas esperadas para a Black Friday, o planejamento e a gestão eficaz do estoque e da logística se tornam ainda mais críticos.",
+   "Se as empresas não estiverem preparadas, riscos podem afetar toda a cadeia de suprimentos, impactando suas operações e receita."
+  ],
+  "materia": "Cronograma de mudanças do comércio exterior exige agilidade nas adequações em sistemas e processos em um período de alta demanda para o comércio que depende de produtos e componentes importados Brasília – Enquanto empresas se preparam para a Black Friday e o Natal, o comércio exterior brasileiro passa por mudanças que exigem adequações a sistemas e processos de importação. A substituição gradual da Declaração de Importação (DI) pela Declaração Única de Importação (Duimp) e as adaptações à Reforma Tributária do Consumo acontecem de forma escalonada nos próximos meses, fase desafiadora para negócios que precisam garantir importação e exportação de produtos, matérias-primas e componentes dentro do prazo. O cenário exige respostas rápidas das empresas. O cronograma do Portal Único Siscomex prevê atualizações do sistema, chamadas Releases , que introduzem modificações nos processos de importação. Entre as próximas etapas, está o Release Azuis (R77), que prevê melhorias no sistema e tem treinamento iniciado em outubro e entrada em produção em 1º de novembro. Já o Release Canoas (R78/R79), relacionado ao desligamento da antiga Declaração de Importação (DI), está previsto para 4 de dezembro. Ao longo de outubro, também estão previstas alterações na admissão de mercadorias na Zona Franca de Manaus e na integração com a Suframa. Antes dessas etapas,já entrou em produção o Release Paraná – RTC (R75), em setembro, voltado à adequação à Reforma Tributária do Consumo. Todas essas atualizações acarretaram desafios para a geração da Duimp. “Estamos falando de mudanças que acontecem justamente quando os negócios precisam estar mais preparados para importar. Se um sistema não estiver adequado ou uma operação não for planejada considerando esses prazos, o impacto pode chegar diretamente ao abastecimento. O comércio exterior precisa estar na mesa de decisão estratégica de qualquer companhia que tenha algum processo de importação ou exportação, porque qualquer alteração nessa cadeia compromete todo o negócio”, afirma André Barros, CEO da eComex, companhia pioneira em soluções tecnológicas para automação e gestão do comércio exterior. A transição para a Duimp não representa apenas uma troca de documento, mas uma transformação na forma como as empresas estruturam suas operações de comércio exterior. Sistemas, integrações e bases de dados precisam acompanhar as novas exigências O impacto da Reforma Tributária vai além da adequação fiscal. “Não basta adequar a tributação. As empresas também precisam estar preparadas para operar no sistema de importação, com os cadastros, dados e processos exigidos pelas novas regras. É uma mudança de tecnologia, processos e dados que precisa ser tratada com antecedência”, explica Barros. As alterações regulatórias se somam à pressão sazonal sobre as importações. Entre janeiro e agosto de 2026, as compras brasileiras do exterior somaram US$ 195 bilhões, alta de 6% em relação ao mesmo período de 2025. Apenas em agosto, foram US$ 25,8 bilhões, crescimento de 9,2% na comparação anual, segundo dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). A expectativa com a Black Friday deste ano é movimentar R$ 14,47 bilhões em vendas e 18,3 milhões de pedidos. Os dados são da pesquisa realizada pela Stefanini Marketing, que aponta roupas, eletrônicos pessoais e produtos de beleza e perfumaria entre as categorias com maior intenção de compra na data promocional de 27 de novembro. Para empresas que dependem de produtos importados, o planejamento começa antes da data de venda. Produção na origem, tempo de trânsito internacional, desembaraço aduaneiro, estoque e distribuição precisam ser considerados em conjunto. “Quando se trabalha com importação e exportação, não existe espaço para deixar a decisão para depois. É preciso saber o que será necessário, quanto tempo levará para chegar e quais riscos podem aparecer no caminho. Com as mudanças regulatórias acontecendo ao mesmo tempo, é fundamental agir com antec",
+  "numeros": [
+   {
+    "valor": "R$ 14,47 bilhões",
+    "rotulo": "expectativa de vendas na Black Friday"
+   },
+   {
+    "valor": "US$ 195 bilhões",
+    "rotulo": "compras do exterior entre janeiro e agosto de 2026"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "aumento em relação ao ano anterior nas importações"
+   }
+  ],
+  "fonte": "Comex do Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas e competividade no mercado",
+  "angulo": "As alterações na importação indicam a necessidade de um planejamento mais robusto, mostrando como o marketing digital e automação podem ajudar a mitigar riscos.",
+  "gancho": "Prepare-se: *Mudanças na importação afetam seu negócio*",
+  "ideias": [
+   "Como a Duimp impacta suas vendas?",
+   "Esse é o momento de repensar seu planejamento?",
+   "Black Friday: O que pode dar errado com a importação?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://comexdobrasil.com/duimp-e-reforma-tributaria-pressionam-importacoes-do-varejo-entre-black-friday-e-natal/",
+  "publicadoEm": "2026-11-05T16:30:26-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-26"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ciberataques: Aumentam as ameaças ao seu negócio",
+  "resumo": "Os ciberataques estão se tornando uma ameaça real para empresas, afetando não só dados, mas também operações físicas. Entenda a importância da segurança digital.",
+  "fatos": [
+   "Recentes ciberataques na França afetaram refrigeradores de bancos de sangue, resultando em perda de alimentos e incêndios.",
+   "A Binance, maior corretora de criptomoedas, teve US$ 6,3 bilhões (cerca de R$ 34 bilhões) roubados em um ataque.",
+   "No Brasil, hackers invadiram o Hospital Israelita Albert Einstein e o Hospital Sírio-Libanês, expondo dados sensíveis dos pacientes.",
+   "Mais de 4.500 dispositivos de controle de refrigeração acessíveis pela internet em análise da Kaspersky.",
+   "A Inteligência Artificial está facilitando a realização de ataques cibernéticos, com golpes cada vez mais difíceis de identificar."
+  ],
+  "explicacao": [
+   "Os ciberataques estão crescendo à medida que os criminosos utilizam novas tecnologias, como IA, para automatizar invasões e explorar vulnerabilidades.",
+   "Esses ataques podem resultar em danos físicos e financeiros significativos para empresas que não protegem adequadamente suas informações.",
+   "Empresas ainda com sistemas vulneráveis e equipamentos desatualizados estão mais sujeitas a essas ameaças."
+  ],
+  "materia": "Imagine chegar a um supermercado e encontrar geladeiras e freezers com a temperatura alterada por criminosos . Ou descobrir que equipamentos responsáveis pela conservação de bolsas de sangue foram invadidos. Parece roteiro de filme, mas situações como essas aconteceram recentemente. Na França, refrigeradores de três bancos de sangue regionais foram alvo de um ataque cibernético durante a madrugada de domingo para segunda-feira. O caso aconteceu poucas semanas depois de hackers assumirem o controle de equipamentos de refrigeração em centenas de supermercados do país. Como resultado, perdas de alimentos e até incêndios. “O episódio mostra como vulnerabilidades digitais podem ultrapassar o ambiente virtual e causar impactos físicos e econômicos. Por isso, o desafio não é apenas proteger informações, mas garantir a segurança de toda a infraestrutura, fortalecer a capacidade de resposta e proteger serviços essenciais à sociedade”, explica Fabio Assolini, pesquisador líder de segurança da Kaspersky. No setor financeiro, a Binance , maior corretora de criptomoedas do mundo, foi alvo de um ataque hacker que resultou no roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões). Uma das maiores ações criminosas já registradas na história do setor. O problema não está restrito à outros países. No Brasil, ataques ao Hospital Israelita Albert Einstein e ao Hospital Sírio-Libanês , em outubro, também trouxeram à tona a vulnerabilidade de informações de pacientes. Mesmo quando o atendimento continua funcionando, dados sensíveis podem ficar expostos. O que esses episódios têm em comum? Equipamentos e sistemas conectados à internet que, quando apresentam falhas de segurança, podem se tornar portas de entrada para criminosos. Uma análise da Kaspersky identificou mais de 4.500 dispositivos de controle de refrigeração acessíveis pela internet no Shodan. No Censys, ferramenta semelhante, foram encontrados aproximadamente 4.300. Os números podem incluir os mesmos equipamentos e não significam que todos tenham sido invadidos. Ainda assim, mostram quantos dispositivos podem ser localizados na rede. Para Assolini , o avanço dos ataques tem relação com a capacidade dos criminosos de utilizar novas tecnologias para ganhar escala. A Inteligência Artificial, por exemplo, permite automatizar invasões, encontrar vulnerabilidades com mais rapidez e desenvolver golpes cada vez mais difíceis de reconhecer. “Os ciberataques continuam crescendo porque, enquanto as tecnologias de proteção evoluem, os criminosos também se sofisticam, utilizando Inteligência Artificial para automatizar ataques, explorar vulnerabilidades e ampliar a escala das invasões”, diz. Mas não é necessário que os criminosos inventem uma nova forma de invasão a cada dia. Muitas ações ainda utilizam técnicas conhecidas, potencializadas pela velocidade e pelo alcance que a tecnologia proporciona. “Muitas empresas ainda possuem sistemas vulneráveis, equipamentos desatualizados e falhas nos controles de segurança, o que facilita a ação dos criminosos. E não estamos falando apenas de ameaças futuras: já estamos vivendo essa realidade”, explica. Outro caminho são os ataques à cadeia de fornecedores de tecnologia . Nesse tipo de operação, os criminosos comprometem um desenvolvedor ou fornecedor para chegar a outras empresas que utilizam seus serviços. Assim, uma única brecha pode abrir caminho para diferentes organizações . Se os ataques a hospitais e bancos de sangue mostram o que pode acontecer com serviços essenciais, as fraudes digitais revelam uma preocupação mais próxima das rotinas dos consumidores . Afinal, quantas vezes por dia alguém informa o CPF, telefone, endereço ou dados bancários para acessar um serviço, fazer uma compra ou receber um benefício? Essas informações têm valor para os criminosos. E não são apenas senhas e números de cartões que interessam . Histórico de consumo, nomes de familiares, endereço e hábitos pessoais também ajudam a construir golpes personalizados. A Inteligência Artifi",
+  "numeros": [
+   {
+    "valor": "US$ 6,3 bilhões",
+    "rotulo": "valor roubado da Binance"
+   },
+   {
+    "valor": "4.500",
+    "rotulo": "dispositivos vulneráveis na internet"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perda de dados e segurança financeira",
+  "angulo": "A necessidade de proteger seu negócio contra ciberataques nunca foi tão urgente. Entender esses riscos é essencial para se planejar e garantir a continuidade operacional.",
+  "gancho": "Como se proteger de *ciberataques*?",
+  "ideias": [
+   "Cibersegurança: Prepare sua empresa!",
+   "Dicas para evitar ciberataques",
+   "Como a IA pode proteger seu negócio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://consumidormoderno.com.br/por-que-ataques-ciberneticos-estao-crescendo/",
+  "publicadoEm": "2026-11-05T17:53:59-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-25"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "TikTok Shop ganha aplicativo próprio: o que muda?",
+  "resumo": "O TikTok lançou um app exclusivo para sua plataforma de compras, permitindo transações mais dinâmicas em alguns países do sudeste asiático. A nova ferramenta promete modernizar a experiência de compras online.",
+  "fatos": [
+   "O TikTok lançou um aplicativo separado para o TikTok Shop, disponível em iOS e Android.",
+   "O app está em funcionamento em países como Singapura, Malásia, Tailândia e Filipinas.",
+   "Com o novo app, os usuários poderão comprar durante transmissões ao vivo e vídeos curtos.",
+   "Os usuários terão acesso a recomendações personalizadas e ofertas exclusivas.",
+   "Não há confirmação se o app será lançado no Brasil."
+  ],
+  "explicacao": [
+   "O TikTok Shop agora existe como um aplicativo independente, facilitando as compras diretamente na plataforma.",
+   "Essa mudança visa otimizar a experiência do cliente ao permitir compras dinâmicas durante conteúdos de vídeo.",
+   "Com o app, espera-se que o engajamento e as vendas aumentem significativamente."
+  ],
+  "materia": "Início ▸ Mídia ▸ TikTok separa TikTok Shop em outro aplicativo Novo aplicativo já está disponível para iOS e Android em alguns países do sudeste asiático; plataforma não informou se levará ideia a outros mercados Meio & Mensagem i 5 de novembro de 2026 - 16h06 TikTok Shop ganha aplicativo dedicado (Crédito: Mojahid Mottakin/AdobeStock) O TikTok lançou um aplicativo independente para o TikTok Shop, tanto para iOS e Android ,em alguns países do sudeste asiático, como Singapura, Malásia, Tailândia e Filipinas. O anúncio veio do consultor de mídia sociais Matt Navarra. O app permitirá fazer compras por meio de transmissões ao vivo e vídeos curtos, finalizar compras dentro do app e rastrear pedidos. O TikTok Shop independente ainda contará com recomendações de produtos personalizadas, ofertas exclusivas para usuários do app e suporte ao cliente. Não se sabe se o TikTok planeja lançar o app no Brasil. O TikTok não respondeu ao pedido de comentário de Meio & Mensagem sobre o lançamento. Além do TikTok Shop, a plataforma está expandindo sua atuação para além das redes sociais. Recentemente, adicionou jogos, guias de restaurantes, plataformas esportivas, reservas de hotéis e microdramas ao app, além de estar explorando opções de pagamento. Com 14 horas ao vivo, canal aposta em verticais como jornalismo, entretenimento e cobertura política Plataforma de streaming estreia, nos Estados Unidos, ferramenta de personalização a partir do humor, histórico e das demandas dos usuários Nos EUA, grupo exibirá o jogo pela ABC e ESPN, além do Disney+ e com outras exibições temáticas especiais JCDecaux reúne oito marcas em circuito de OOH espalhado pelo metrô e vias de SP para orientar fãs da Fórmula 1 Serviço de vídeo on demand gratuito da Skydance quer consolidar participação e alcançar diferentes públicos Além dos avisos sonoros, motoristas também terão direito a um veículo personalizado no mapa Liminar foi concedida a favor da Associação Nacional de Jornais (ANJ), Associação Brasileira de Emissoras de Rádio e Televisão (Abert) e à Associação Nacional de Editores de Revistas (Aner) Pesquisa da Go Magenta aponta que audiência recorre à familiaridade na hora de consumir conteúdo, mas destaca que há espaço para novidades Veículos apresentam plataforma focada em futebol feminino que reúne cobertura, influência e experiências Copyright 2010 - 2026 • Meio & Mensagem - Todos os direitos Reservados Faça o login com a sua conta M&M ID para ter acesso a conteúdos exclusivos",
+  "numeros": [],
+  "fonte": "Meio & Mensagem",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Restaurantes",
+   "Profissionais liberais"
+  ],
+  "dor": "perder oportunidades de vendas para concorrentes que utilizam novas plataformas",
+  "angulo": "O avanço do TikTok Shop em um app separado indica a necessidade de atualização no marketing digital e adaptação às novas tendências.",
+  "gancho": "Descubra como *TikTok transforma compras*",
+  "ideias": [
+   "Novos horizontes para vendas no TikTok",
+   "Como o TikTok Shop pode impactar seu negócio",
+   "O futuro das compras online com TikTok"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://www.meioemensagem.com.br/midia/tiktok-separa-tiktok-shop-em-outro-aplicativo",
+  "publicadoEm": "2026-11-05T16:06:56-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-24"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A conexão entre Brasil e China que você precisa saber",
+  "resumo": "Empresas chinesas estão se interessando cada vez mais pelo Brasil. A Remessa Online atua como uma ponte entre esses mercados, facilitando operações e ampliando oportunidades.",
+  "fatos": [
+   "A Remessa Online visitou Shenzhen, um importante centro de tecnologia e eletrônicos na China.",
+   "Exportar para o Brasil hoje rende 12% mais em reais do que em maio.",
+   "Empresas chinesas estão cada vez mais atentas ao mercado brasileiro, com foco em e-commerce e operações cross-border.",
+   "Durante a visita, a Remessa Online encontrou uma fábrica de fones de ouvido interessada em entrar no Brasil.",
+   "A presença em Shenzhen fortalece a conexão entre exportadores chineses e o comércio brasileiro."
+  ],
+  "explicacao": [
+   "A necessidade de integrar mercados emergentes como o brasileiro com a produção chinesa está crescendo.",
+   "Com o aumento das operações de e-commerce e marketplaces, a conexão entre Brasil e China se torna cada vez mais relevante.",
+   "A Remessa Online atua facilitando o câmbio e serviços financeiros, que são cruciais para essas operações internacionais."
+  ],
+  "materia": "A Remessa Online visitou exportadores e uma fábrica de eletrônicos em Shenzhen e vê o interesse crescente de empresas chinesas pelo mercado brasileiro. Visitas a exportadores e a uma fábrica de eletrônicos reforçam o interesse crescente de empresas chinesas pelo Brasil e o papel do câmbio na conexão entre os dois mercados. A missão da Remessa Online na China prossegue com uma nova etapa em Shenzhen , uma das cidades mais importantes do país para a indústria de tecnologia, eletrônicos e desenvolvimento de produtos destinados ao mercado global . Exportar hoje rende 12% mais em reais do que em maio Reconhecida mundialmente como um dos grandes centros de produção de eletrônicos, Shenzhen também se consolidou como referência para empresas que buscam expandir suas operações internacionais e alcançar novos mercados consumidores. Ao longo do dia, a equipe da Remessa Online realizou três visitas estratégicas: dois exportadores chineses e uma fábrica de fones de ouvido de grande reconhecimento, que demonstrou interesse em ingressar no mercado brasileiro. Remessa Online na China: parcerias estratégicas com exportadores em Yiwu Ao longo das reuniões realizadas durante a viagem, uma percepção vem se fortalecendo: as empresas chinesas estão cada vez mais atentas às oportunidades no mercado brasileiro. O crescimento dos marketplaces, do e-commerce e das operações cross-border no Brasil tem despertado o interesse de fabricantes , exportadores e empresas que buscam novas formas de comercializar seus produtos diretamente com o consumidor e as empresas brasileiras. Esse movimento representa uma transformação relevante na dinâmica do comércio internacional: as conexões entre empresas chinesas e brasileiras estão mais rápidas, diretas e estratégicas. Nesse cenário, a Remessa Online atua aproximando empresas e oferecendo soluções de câmbio e serviços financeiros que contribuem para viabilizar e fortalecer operações internacionais. A presença na China permite compreender de perto as necessidades dos exportadores, identificar oportunidades de negócios e construir relacionamentos estratégicos que conectam o mercado chinês ao Brasil. A agenda segue intensa. No dia seguinte, estão previstas mais duas reuniões com empresas chinesas e, na sexta-feira, a Remessa Online participa de um evento voltado a 25 empresas chinesas que estão entrando no mercado brasileiro. A Remessa Online acompanha de perto esse movimento de internacionalização , em busca de novas oportunidades e do fortalecimento de sua presença nas conexões entre Brasil e China. A equipe realizou três visitas estratégicas: dois exportadores chineses e uma fábrica de fones de ouvido de grande reconhecimento, interessada em entrar no mercado brasileiro. O crescimento dos marketplaces, do e-commerce e das operações cross-border no Brasil tem despertado o interesse de fabricantes e exportadores que buscam vender diretamente ao mercado brasileiro. A Remessa Online conecta empresas e oferece soluções de câmbio e serviços financeiros que viabilizam e fortalecem as operações internacionais entre China e Brasil. Shenzhen é um dos maiores polos mundiais de eletrônicos e de desenvolvimento de produtos para o mercado global, sendo referência para empresas que querem expandir internacionalmente. Viagem de negócios para a China: o que preparar antes da sua primeira ida",
+  "numeros": [
+   {
+    "valor": "12%",
+    "rotulo": "aumento nas exportações em reais"
+   },
+   {
+    "valor": "25",
+    "rotulo": "empresas chinesas participando de evento no Brasil"
+   }
+  ],
+  "fonte": "Remessa Online",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "perda de oportunidades no comércio internacional",
+  "angulo": "A nova dinâmica de comércio internacional entre Brasil e China mostra a importância de estratégias em marketing digital e e-commerce, indicando a necessidade de uma abordagem profissional.",
+  "gancho": "Saiba como *conectar seu negócio ao comércio internacional*",
+  "ideias": [
+   "Como vender mais com e-commerce?",
+   "Oportunidades entre Brasil e China",
+   "A importância das conexões internacionais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://www.remessaonline.com.br/blog/remessa-online-em-shenzhen/",
+  "publicadoEm": "2026-11-05T18:22:23-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-23"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência artificial: necessidade urgente para empresas brasileiras",
+  "resumo": "Mais da metade das empresas já adotam IA, mas enfrentam desafios com custo e segurança. Aspectos que podem afetar diretamente suas operações e resultados financeiros.",
+  "fatos": [
+   "57% das empresas brasileiras usam IA em escala, segundo pesquisa da IDC.",
+   "72% das grandes empresas utilizam IA, enquanto apenas 42% das pequenas e médias possuem essa tecnologia.",
+   "A expectativa é que o uso de IA aumente para 86% nas grandes e 46% nas pequenas e médias empresas em 2 anos.",
+   "Atualmente, IA representa 28% dos investimentos em tecnologia; esse número pode chegar a 42% nos próximos 24 meses.",
+   "58% das organizações utilizam agentes de IA, devendo chegar a 80% em 2 anos."
+  ],
+  "explicacao": [
+   "A pesquisa revela a crescente adoção de IA nas empresas, mas também colocou em evidência os desafios financeiros e de segurança relacionados ao seu uso.",
+   "O aumento no consumo de 'tokens' para IA está pressionando os orçamentos, o que requer um planejamento mais eficaz.",
+   "Empresas devem implementar práticas de gestão de custos e segurança para maximizar os benefícios da tecnologia."
+  ],
+  "materia": "05/11/2026 15h18 Atualizado 05/11/2026 15h18 A inteligência artificial já não é uma experiência isolada para mais da metade das empresas brasileiras. Segundo uma pesquisa realizada pela consultoria IDC, a pedido da Dell Technologies, 57% das companhias do país já utilizam a tecnologia em escala. Com a expansão, porém, surgem novos desafios: controlar os custos, garantir a segurança dos dados e preparar a infraestrutura para sustentar aplicações cada vez mais complexas. O levantamento, realizado entre setembro e outubro de 2026 com 250 organizações, revela diferenças importantes conforme o porte das empresas. Enquanto 72% das grandes companhias já utilizam IA em diferentes áreas do negócio, o percentual cai para 42% entre as pequenas e médias empresas. A expectativa é que esses índices cheguem a 86% e 46%, respectivamente, nos próximos dois anos. O avanço também deve pesar no orçamento. Atualmente, a inteligência artificial representa, em média, 28% dos investimentos em tecnologia da informação das empresas pesquisadas. Em 24 meses, a projeção é que essa fatia alcance 42%. Parte dessa pressão está relacionada à popularização dos agentes de IA, sistemas capazes de executar tarefas com diferentes graus de autonomia. Segundo a pesquisa, 58% das organizações já utilizam esses recursos, percentual que deve chegar a 80% nos próximos dois anos. Para Diego Puerta, presidente da Dell Technologies no Brasil, a prioridade das empresas precisa deixar de ser apenas a adoção da tecnologia. “O desafio não é simplesmente investir mais em inteligência artificial, mas criar as condições para que esses investimentos se traduzam em resultados concretos e sustentáveis para o negócio”, afirma. Um dos principais pontos de atenção é o consumo de tokens, unidades utilizadas pelos modelos de IA generativa para processar informações. Embora 45% das empresas já monitorem esse consumo, ainda não possuem práticas estruturadas para otimizar os gastos. Ao mesmo tempo, 93% esperam um aumento no volume de tokens processados nos próximos 12 meses. “É o maior aumento de custos que já vi em 27 anos”, diz o executivo. A segurança dos dados também preocupa. Entre as organizações entrevistadas, 48% apontam a proteção das informações como obstáculo à adoção de ambientes de nuvem para IA, enquanto 35% mencionam a imprevisibilidade dos custos. Nesse cenário, 43% das companhias pretendem adotar infraestruturas híbridas, combinando nuvens públicas, privadas e ambientes próprios. Outras 45% planejam implementar práticas de FinOps, voltadas ao monitoramento e à gestão dos gastos com tecnologia. Apesar dos obstáculos, os resultados já começam a aparecer. Entre as empresas pesquisadas, 52% relatam ganhos de eficiência nos processos, 51% identificam melhorias na produtividade dos funcionários e outros 51% apontam avanços na satisfação dos clientes. Ela criou a AImigas para ajudar mulheres a não ficarem para trás na inteligência artificial A empresária, celebridade e, agora, atriz está de volta à série 'Tudo É Justo', que recebeu críticas generalizadas em sua primeira temporada no ano passado. Tuju e Lasai aparecem nas 16ª e 25ª posições, respectivamente; Nelita e Evvai também representam o país na lista estendida, entre os 51º e 100º lugares RadianX usa perovskita para transformar luz solar, difusa e artificial em eletricidade e acaba de receber quase R$ 50 milhões para avançar rumo à produção em escala comercial Selecionados tinham até as 23h59 de segunda-feira para depositar mais dinheiro e precisavam mantê-lo na conta até sábado; Banco Central do Paraguai anunciou resolução da instituição durante a madrugada Após mais de duas décadas em operação, observatório de raios gama encerrou sua trajetória na manhã de quarta-feira (4), meses depois de uma frustrada tentativa de resgate para elevar sua órbita. Venda simulada de créditos inadimplentes está na origem do problema, segundo imprensa paraguaia AutoDNA coordena mais de 20 tipos de instrumentos, executa milhares de etapas sem",
+  "numeros": [
+   {
+    "valor": "57%",
+    "rotulo": "empresas que usam IA"
+   },
+   {
+    "valor": "28%",
+    "rotulo": "investimentos atuais em IA"
+   },
+   {
+    "valor": "42%",
+    "rotulo": "investimentos projetados em IA"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "Crescimento dos custos e desafios de segurança com IA",
+  "angulo": "A necessidade de investimento em IA sem planejamento pode resultar em perdas financeiras significativas, tornando o suporte e gestão essenciais.",
+  "gancho": "*IA em alta*, mas custos preocupam",
+  "ideias": [
+   "Como a IA afeta seu bolso?",
+   "Desafios do uso de IA nas empresas",
+   "O que sua empresa precisa para adotar IA?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "alta",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://epocanegocios.globo.com/inteligencia-artificial/noticia/2026/11/pesquisa-idc-mais-da-metade-das-empresas-brasileiras-ja-usa-ia-em-escala-mas-custos-e-seguranca-preocupam.ghtml",
+  "publicadoEm": "2026-11-05T15:18:32-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-22"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Panvel cresce com e-commerce, mas Mercado Livre complica",
+  "resumo": "Panvel teve alta de 15,3% na receita, alcançando R$ 1,7 bilhão, com 46,6% das vendas online. No entanto, o Mercado Livre afeta negativamente o setor farmacêutico.",
+  "fatos": [
+   "A Panvel registrou R$ 1,7 bilhão em receita no terceiro trimestre de 2026, alta de 15,3%.",
+   "O e-commerce representou 46,6% das vendas, com o aplicativo crescendo 271%.",
+   "A empresa inaugurou 14 novas lojas, totalizando 677, com meta de 700 até o final de 2026.",
+   "O lucro líquido ajustado foi de R$ 46,4 milhões, crescimento de 35,4%.",
+   "O CFO criticou a venda de medicamentos pelo Mercado Livre, considerando prejudicial ao setor."
+  ],
+  "explicacao": [
+   "O crescimento da Panvel se deve ao fortalecimento de seus canais digitais, principalmente o e-commerce e o aplicativo, que impulsionaram vendas significativas.",
+   "O aplicativo conta com melhora na experiência do usuário, permitindo que a compra seja iniciada digitalmente e finalizada na loja física.",
+   "Por outro lado, a venda de medicamentos com prescrição médica pelo Mercado Livre gera preocupações, uma vez que a regulamentação do setor é essencial para garantir a segurança."
+  ],
+  "materia": "Com quase metade das vendas das farmácias vindo dos canais online, varejista gaúcha registra alta de 15% na receita e 35% no lucro. Aplicativo da Panvel cresceu 271% e impulsionou a receita do digital O valor de mercado da Panvel é de R$ 1,6 bilhão A Panvel , varejista farmacêutica gaúcha, registrou no terceiro trimestre de 2026 uma receita de R$ 1,7 bilhão, com crescimento de 15,3% em relação ao ano anterior, impulsionado principalmente pelo e-commerce, que representou 46,6% das vendas. O aplicativo da empresa teve um crescimento de 271%, respondendo por quase 80% das vendas digitais. A companhia também viu um aumento de 20% nas entregas. As canetas emagrecedoras, especialmente o Mounjaro, contribuíram significativamente para o faturamento, com um crescimento de 68%. A alavancagem da empresa caiu para 0,8 vez, e o EBITDA ajustado foi de R$ 96,8 milhões, alta de 21,2%. A Panvel inaugurou 14 novas lojas, totalizando 677, com a meta de 700 até o final de 2026. O CFO criticou a venda de medicamentos com prescrição médica pelo Mercado Livre, considerando-a prejudicial ao setor farmacêutico. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed A varejista farmacêutica gaúcha Panvel viu no crescimento de seus canais digitais o principal pilar de sustentação para o avanço em suas linhas financeiras no terceiro trimestre deste ano. No período, a companhia registrou receita de R$ 1,7 bilhão, alta de 15,3% sobre a mesma base de 2025. E quase metade veio do e-commerce. Do total de volume de vendas entre julho e setembro da Panvel , R$ 792,4 milhões, o equivalente a 46,6% da receita bruta, passaram pelas plataformas online da empresa. O maior destaque foi o aplicativo, que cresceu 271% e respondeu por quase 80% das vendas digitais. Uma das explicações para este crescimento está no aprimoramento do uso da ferramenta dentro da loja física, sem que o cliente tenha que concluir a compra direto no canal digital. Na prática, ele pode iniciar pelo app, para aproveitar os descontos do canal digital, e finalizar diretamente no caixa da farmácia. No terceiro trimestre, a companhia alcançou 10 milhões de downloads. “O cliente que tem o app acaba gerando mais vendas, mas era necessário reduzir um pouco o atrito e facilitar o caminho. A gente descobriu em fazer com que a pessoa possa concluir a compra direto no caixa aumenta o volume de conversão”, diz Antonio Napp, CFO da Panvel, ao NeoFeed . A sustentação dos canais digitais não se deu somente no avanço do aplicativo. Segundo o executivo, a companhia registrou crescimento acima de 20% no volume de entregas. “Para nós, é menos competição entre os canais e mais com a jornada completa. É importante operar bem dentro e fora da loja.” A perspectiva do CFO da Panvel é que, até o fim do ano, este volume de vendas pelas plataformas deva crescer ainda mais. “Não temos uma meta específica, mas temos percebido aumento da aderência do uso do nosso app. Isso trouxe mais clientes e aumentou a cesta”, explica. A venda online teve como impulso o crescimento expressivo de receita vinda das canetas emagrecedoras, que hoje já representam 12% do total do faturamento da Panvel. Somente no terceiro trimestre, o volume cresceu 68%, incluindo todas as marcas dos medicamentos análogos ao GLP-1. O Mounjaro, tirzepatida da americana Eli Lilly , segue na ponta, em um cenário de estabilidade. Ela ainda representa quase dois terços das vendas das canetas. No caso da semaglutida, a receita subiu junto com a chegada de novos players, a partir do fim da patente do Ozempic e Wegovy. Em junho, a EMS lançou a Ozivy e, recentemente, a Hypera trouxe ao mercado a Semavy. A Owozy , da Sandoz, e distribuída pela Biolab, também entra no mercado em 2026. “Crescemos na quantidade e esta tendência está seguindo no quarto trimestre. À medida que o preço da caneta caiu, as quantidades vendidas aumentaram muito mais. Isso significa mais gente nas lojas e nos canais online. E gerou vendas de mais produtos”, afirma. E",
+  "numeros": [
+   {
+    "valor": "15,3",
+    "rotulo": "crescimento da receita"
+   },
+   {
+    "valor": "271",
+    "rotulo": "crescimento do aplicativo em percentual"
+   },
+   {
+    "valor": "677",
+    "rotulo": "número de lojas da Panvel"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "não se adaptar ao digital pode levar à queda nas vendas",
+  "angulo": "O caso da Panvel ilustra como um e-commerce bem estruturado pode alavancar vendas, enquanto a falta de estratégia pode afetar diretamente os lucros.",
+  "gancho": "*Adaptar-se ao digital é essencial*",
+  "ideias": [
+   "E-commerce: o futuro das vendas",
+   "Como o digital pode aumentar suas vendas",
+   "Impactos das novas leis no varejo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://neofeed.com.br/negocios/panvel-cresce-no-digital-com-canetas-emagrecedoras-mais-baratas-e-chega-a-r-17-bilhao-de-receita/",
+  "publicadoEm": "2026-11-05T19:02:40-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-21"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA reduz custos e melhora eficiência no MPMG",
+  "resumo": "O Ministério Público de Minas Gerais economizou R$ 138 milhões com IA, produzindo milhares de minutas diariamente. Um exemplo de como a tecnologia pode transformar processos.",
+  "fatos": [
+   "O MPMG reduziu um gasto anual de R$ 138 milhões.",
+   "Desenvolveu um agente que produz entre 3 mil e 3,5 mil minutas processuais por dia.",
+   "A plataforma gera aproximadamente 750 transcrições diárias para cerca de 5 mil usuários.",
+   "A tecnologia foi desenvolvida com o apoio da Dell, utilizando o framework Dell AI Factory.",
+   "O MPMG pode monitorar reclamações em tempo real, com percentuais de 20%, 30% e 40% de aumento em queixas."
+  ],
+  "explicacao": [
+   "A implementação da IA no MPMG exemplifica como a tecnologia pode otimizar serviços e reduzir custos.",
+   "Com a capacidade de catalogar dados e reconhecer padrões, a IA permite um monitoramento mais eficiente das queixas.",
+   "Isso não só melhora a resposta ao consumidor, mas também facilita a intervenção em casos onde há um aumento significativo de queixas."
+  ],
+  "materia": "O Ministério Público do Estado de Minas Gerais ( MPMG ) conseguiu reduzir um gasto anual de R$ 138 milhões, após desenvolver um agente responsável por produzir entre 3 mil e 3,5 mil minutas diárias das quase 370 unidades do MP. A plataforma, criada com tecnologia da Dell , produz em torno de 750 transcrições por dia, atendendo aproximadamente 5 mil usuários. Em Minas Gerais, o órgão não apenas defende o consumidor judicialmente, mas também tem a função administrativa do Procon estadual. A implementação da plataforma contou com o apoio da Dell, mais precisamente seu framework Dell AI Factory. A estrutura fornece a capacidade de processamento necessária para catalogar os dados, reconhecer padrões e rodar modelos de IA analítica. Com o apoio da ferramenta, o MP monitora as queixas em tempo real, conseguindo diferenciar as individuais e pontuais, das que estão escalando rapidamente, saltando para percentuais como 20%, 30% e 40%. Uma vez identificada a crescente, o Ministério acompanha a situação para saber se a tendência se manterá ou o número ficará estável. Caso se mantenha em ascensão, ele interfere para evitar que o dano seja ainda maior. A ferramenta faz parte do projeto MP Inteligente. Como próximo passo, o Ministério Pública de Minas Gerais quer disponibilizar a tecnologia para outras atividades institucionais, como resumos de grandes volumes processuais. Receba gratuitamente a newsletter do Mobile Time e fique bem informado sobre tecnologia móvel e negócios. Cadastre-se aqui! As ilustrações das matérias são produzidas por Mobile Time com IA As principais notícias da indústria móvel, de segunda a sexta, no seu email. Para mais informações sobre a coleta e uso dos dados no Mobile Time, consulte nossa Política de Privacidade",
+  "numeros": [
+   {
+    "valor": "R$ 138 milhões",
+    "rotulo": "custo anual reduzido"
+   },
+   {
+    "valor": "3.500",
+    "rotulo": "minutas processuais diárias"
+   },
+   {
+    "valor": "5.000",
+    "rotulo": "usuários atendidos"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda financeira com processos ineficientes",
+  "angulo": "Entender como a automação e a IA podem transformar negócios e otimizar recursos é essencial para a competitividade no mercado.",
+  "gancho": "*Redução de custos* com *inteligência artificial*",
+  "ideias": [
+   "Como a IA pode transformar seu negócio?",
+   "Aumente a eficiência com tecnologia.",
+   "Descubra o poder da automação."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "alta",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/05/11/2026/mpmg-reduz-custo-anual-d/",
+  "publicadoEm": "2026-11-05T21:46:38-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-20"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A necessidade de IA nas empresas brasileiras",
+  "resumo": "Estudo aponta que 57% das empresas no Brasil utilizam inteligência artificial, com expectativa de aumento significativo nos próximos anos. A falta de otimização pode afetar os resultados financeiros.",
+  "fatos": [
+   "57% das empresas brasileiras usam inteligência artificial em suas operações.",
+   "80% das empresas querem implementar agentes de IA com supervisão humana em dois anos.",
+   "70% ainda usam nuvens privadas ou data centers tradicionais.",
+   "90% esperam aumento no consumo de IA nos próximos 12 meses.",
+   "Somente 45% monitoram os custos por token de IA.",
+   "44% atribuíram o aumento dos gastos à falta de otimização tecnológica.",
+   "Os gastos com IA podem representar 50% do orçamento de TI até 2027.",
+   "Diego Puerta, presidente da Dell no Brasil, ressaltou aumento na demanda por semicondutores e memórias."
+  ],
+  "explicacao": [
+   "Com o crescimento da inteligência artificial, é essencial que as empresas se preparem para adotar essa tecnologia.",
+   "A pesquisa mostra que a maioria das companhias ainda não otimiza seus custos, o que pode levar a prejuízos.",
+   "A pressão cambial e a alta demanda por tecnologia também aumentam os custos operacionais.",
+   "Empresas que não priorizam planejamento podem perder oportunidades valiosas de retorno.",
+   "Isso cria a necessidade de investimento em serviços que ajudem na implementação e gestão de IA."
+  ],
+  "materia": "Levantamento feito por Dell Technologies e IDC aponta que 57% das empresas brasileiras afirmam que usam inteligência artificial em suas operações. Segundo Matheus da Costa, analista de infraestrutura de mercado da consultoria, o número é acima da média global. A divulgação do material foi realizada nesta quinta-feira, 5, em São Paulo. A pesquisa, feita com 250 companhias, ainda mostrou que 80% das respondentes desejam implementar agentes de IA como força de trabalho e agentes autônomos sob supervisão humana. Em relação ao fluxo de dados, a maioria (70%) ainda roda em nuvem privada ou infraestruturas tradicionais, como data center próprio ou colocation. Segundo Costa, o índice é mais significativo em empresas com mais de 1 mil funcionários. O processo exige planejamento em relação aos tokens. 90% das respondentes esperam um aumento no consumo nos próximos 12 meses, só que apenas 45% realmente monitoram o custo por token. Além disso, 44% revelaram que o aumento dos gastos com a tecnologia é motivado pela falta de otimização entre modelo e infraestrutura. Diego Puerta, presidente da Dell no Brasil, afirmou que em quase 30 anos na empresa, jamais havia presenciado uma alta tão significativa em 12 meses. Ele explicou que a elevação dos custos com tokens é impulsionada pela alta demanda por semicondutores e memórias, além da pressão cambial. Apesar da queda no preço da unidade de token ter caído quase 80%, a busca explodiu no período. Na avaliação da IDC, em 2027, os gastos com inteligência artificial representarão 50% do orçamento de TI das companhias. Puerta alertou que, com os custos envolvidos, as empresas precisam se atentar e direcionar a tecnologia para projetos que realmente tenham retornos expressivos. Receba gratuitamente a newsletter do Mobile Time e fique bem informado sobre tecnologia móvel e negócios. Cadastre-se aqui! As ilustrações das matérias são produzidas por Mobile Time com IA As principais notícias da indústria móvel, de segunda a sexta, no seu email. Para mais informações sobre a coleta e uso dos dados no Mobile Time, consulte nossa Política de Privacidade",
+  "numeros": [
+   {
+    "valor": "57",
+    "rotulo": "empresas que usam IA"
+   },
+   {
+    "valor": "80",
+    "rotulo": "empresas que querem implementar IA"
+   },
+   {
+    "valor": "90",
+    "rotulo": "que esperam aumento no consumo de IA"
+   },
+   {
+    "valor": "45",
+    "rotulo": "monitoram custo por token"
+   },
+   {
+    "valor": "50",
+    "rotulo": "gastos com IA no orçamento de TI até 2027"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Aumento de custos com tecnologia sem retorno financeiro",
+  "angulo": "A urgência em otimizar o uso da IA pode levar sua empresa a buscar assessoria e automação para maximizar resultados.",
+  "gancho": "Como *otimizar o uso de IA* na sua empresa?",
+  "ideias": [
+   "Por que sua empresa precisa de IA?",
+   "Aumente sua competitividade com IA.",
+   "Estratégias para implementar IA de forma eficaz."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/05/11/2026/dell-idc-estudo-ia/",
+  "publicadoEm": "2026-11-05T21:35:31-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-vpr-19"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Apostas em jogo: entenda o impacto nas finanças",
   "resumo": "A recente audiência do STF traz à tona os riscos do endividamento associado a apostas, afetando tanto consumidores quanto o comércio. A proibição pode ter repercussões financeiras relevantes.",
   "fatos": [
@@ -1024,6 +1555,298 @@
   "publicadoEm": "2026-11-05T12:57:15-03:00",
   "data": "2026-11-05",
   "id": "2026-11-05-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Reforma tributária e o impacto no bolso do empresário",
+  "resumo": "A reforma tributária promete simplificar impostos, mas o aumento da alíquota pode afetar empresas. Com uma projeção de até 30%, o custo das operações pode encarecer ainda mais os negócios.",
+  "fatos": [
+   "A previsão de uma alíquota de 30% para CBS e IBS gera alerta entre empresários.",
+   "A recuperação de créditos tributários pode demorar, prejudicando empresas que contam com fluxo de caixa reduzido.",
+   "Setores que utilizam mais mão de obra tendem a sofrer mais com a nova alíquota, sem compensação tributária relevante.",
+   "Mudanças na legislação, como a Lei Complementar 214/2025, estabelecem prazos para ressarcimentos.",
+   "Pequenas empresas podem ter dificuldade em absorver a carga tributária elevada, impactando empregos e investimentos."
+  ],
+  "explicacao": [
+   "A reforma tributária busca simplificar o sistema, mas o aumento da alíquota pode ser problemático.",
+   "Muitas empresas precisam financiar períodos de espera para ressarcimento de tributos, impactando sua liquidez.",
+   "Empresas que dependem do crédito bancário podem sobreviver melhor que aquelas que se baseiam no fluxo de caixa.",
+   "A nova alíquota pode forçar empresas a aumentarem preços ou reduzirem contratações, afetando o mercado de trabalho.",
+   "Transparência na devolução de créditos é vital para que os empresários possam planejar suas finanças."
+  ],
+  "materia": "João Alberto Graça* A reforma tributária brasileira promete simplificar o sistema de impostos sobre o consumo e reduzir distorções históricas. Mas o sucesso dessa transformação não dependerá apenas das novas regras de tributação. A alíquota do Imposto sobre Valor Agregado (IVA), a disponibilidade dos créditos tributários e a eficiência na devolução desses valores serão determinantes para o impacto sobre a economia. Um sistema que arrecada com rapidez, mas demora a devolver o que é devido, pode transformar as empresas em financiadoras involuntárias do Estado. A projeção de uma alíquota conjunta próxima de 30% para a Contribuição sobre Bens e Serviços (CBS) e o Imposto sobre Bens e Serviços (IBS) acende um sinal de alerta. O percentual coloca o Brasil em um patamar elevado na comparação internacional e exige atenção aos efeitos sobre os preços, os investimentos e a competitividade. Mais do que discutir o tamanho da alíquota, porém, é necessário compreender como o novo modelo distribuirá seus custos entre os diferentes setores da economia. Empresas de um mesmo mercado poderão enfrentar realidades bastante distintas. Aquelas com acesso a crédito bancário mais barato terão melhores condições de suportar a espera pela restituição dos tributos. Já as que dependem do próprio fluxo de caixa para pagar salários, fornecedores e despesas operacionais terão menos margem para absorver atrasos. Essa diferença é particularmente relevante nos serviços intensivos em mão de obra, nos quais a folha de pagamento representa parcela expressiva dos custos e não gera créditos de IBS e CBS. A alíquota elevada também precisa ser analisada à luz das exceções previstas na legislação. Quando determinados setores recebem reduções ou tratamentos diferenciados, a manutenção da arrecadação pretendida tende a concentrar uma parcela maior da cobrança sobre as demais atividades. Benefícios fiscais podem ter justificativa econômica ou social, mas seus custos precisam ser transparentes. O Congresso deve avaliar o impacto acumulado de cada concessão e informar quem financiará a diferença. Isso não significa que uma alíquota próxima de 30% represente automaticamente um aumento equivalente nos preços. O novo sistema substituirá tributos existentes e permitirá o aproveitamento de créditos ao longo da cadeia produtiva. O resultado efetivo dependerá da tributação anterior, dos insumos utilizados, do enquadramento de cada atividade e da capacidade de repassar eventuais aumentos ao consumidor. Uma análise responsável precisa considerar essas variáveis, em vez de comparar apenas percentuais nominais. Os serviços vendidos diretamente ao consumidor final merecem atenção especial. Empresas que utilizam poucos insumos tributados e concentram seus custos na contratação de profissionais terão menor possibilidade de compensar o imposto pago nas operações. Caso a carga líquida aumente, poderão reduzir margens, reajustar preços ou adiar contratações. Se o consumidor não tiver condições de absorver os reajustes, o efeito poderá chegar à demanda, ao emprego e aos investimentos. A situação é diferente em setores como indústria, varejo e exportação, que podem se beneficiar de uma apropriação mais ampla de créditos e da redução da tributação acumulada ao longo da cadeia. Entretanto, essa vantagem depende de uma condição essencial: conseguir utilizar os créditos ou receber sua restituição em prazo adequado. Enquanto o dinheiro permanece retido, a empresa precisa recorrer a recursos próprios ou contratar empréstimos para manter suas atividades. É nesse ponto que o funcionamento do split payment ganha importância. O mecanismo prevê a separação do valor correspondente aos tributos no momento da liquidação financeira da operação, com o objetivo de reduzir a inadimplência e proteger a arrecadação. A medida pode trazer ganhos de eficiência ao sistema, mas também exige uma estrutura tecnológica confiável, conciliação precisa dos pagamentos e restituição rápida de eventuais valores recolhidos em ",
+  "numeros": [
+   {
+    "valor": "30%",
+    "rotulo": "alíquota prevista para CBS e IBS"
+   }
+  ],
+  "fonte": "ABC Repórter",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "Medo de aumento nos custos e redução de lucros",
+  "angulo": "Entender a reforma tributária é essencial para empresários que buscam seguranças financeiras e autonomia fora do emprego tradicional.",
+  "gancho": "*O que a nova alíquota pode custar?*",
+  "ideias": [
+   "Aumento da alíquota: impacto real nos negócios",
+   "Reforma tributária: empresário em alerta",
+   "Como se preparar para as mudanças tributárias?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://abcreporter.com.br/2026/11/05/iva-e-o-preco-oculto-da-reforma-tributaria-para-as-empresas/",
+  "publicadoEm": "2026-11-05T18:16:21-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Como o novo imposto afeta seu bolso?",
+  "resumo": "O 'Imposto do Pecado' começará em 2027, afetando produtos nocivos à saúde. Entenda como isso impacta seu custo de vida e orçamento.",
+  "fatos": [
+   "O governo federal publicou a MP 1.399/2026 sobre o Imposto Seletivo.",
+   "O imposto começará a valer em fevereiro de 2027, com alíquotas temporárias até dezembro.",
+   "Entre os produtos afetados estão cigarros, bebidas alcoólicas e veículos.",
+   "Os cigarros terão uma cobrança fixa de R$ 3,50 por maço e alíquotas variáveis.",
+   "Para automóveis, a alíquota-base é de 6,3%, sujeita a ajustes por critérios técnicos.",
+   "A previsão de arrecadação com o novo imposto é de R$ 41,9 bilhões em 2027."
+  ],
+  "explicacao": [
+   "O 'Imposto do Pecado' visa desestimular o consumo de produtos prejudiciais. Com alíquotas variáveis, o governo espera equilibrar a arrecadação e a promoção da saúde pública.",
+   "Produtos nocivos como bebidas e cigarros terão tributações específicas, impactando diretamente o valor final para o consumidor.",
+   "Para veículos, as alíquotas variarão conforme características de eficiência energética, podendo influenciar na decisão de compra."
+  ],
+  "materia": "Após meses de negociação com os setores atingidos, o governo federal publicou, na quarta-feira (4), a Medida Provisória (MP) 1.399/2026 , que estabelece as alíquotas do Imposto Seletivo (IS), conhecido como “Imposto do Pecado”. Criado pela reforma tributária, o tributo incidirá sobre produtos e serviços considerados prejudiciais à saúde ou ao meio ambiente, como cigarros, bebidas alcoólicas, refrigerantes, veículos e determinadas atividades de apostas . A cobrança está prevista para começar em fevereiro de 2027 , com percentuais temporários que deverão vigorar até dezembro do mesmo ano. A partir de 2028, o imposto terá alíquotas definitivas, que ainda serão discutidas pelo governo federal e pelo Congresso Nacional. A medida estabelece regras específicas para cada categoria de produto, incluindo critérios relacionados ao teor alcoólico das bebidas e à eficiência energética dos veículos. Confira o que muda e como funcionará a tributação. >> Siga o canal da Agência Brasil no WhatsApp O Imposto Seletivo é um tributo federal criado pela Reforma Tributária com o objetivo de desestimular o consumo de bens e serviços que provocam impactos negativos à saúde ou ao meio ambiente. Conhecido popularmente como “Imposto do Pecado”, o IS será aplicado além dos demais tributos previstos na nova estrutura tributária brasileira. Entre os produtos e atividades sujeitos à cobrança estão: O imposto poderá incidir sobre a produção, extração, comercialização ou importação dos produtos abrangidos pela legislação. A cobrança será realizada uma única vez ao longo da cadeia econômica, sem possibilidade de aproveitamento de créditos de operações anteriores. A MP estabelece percentuais temporários para o período de fevereiro a dezembro de 2027. Em regra, as alíquotas foram definidas com base na tributação atualmente aplicada pelo Imposto sobre Produtos Industrializados (IPI). Confira os percentuais previstos para cada categoria: No caso dos cigarros e cigarrilhas, a tributação inclui uma parcela percentual e outra fixa de R$ 3,50 por vintena, correspondente a um maço com 20 unidades. Para as bebidas alcoólicas, a cobrança varia de acordo com a categoria do produto e o teor alcoólico. A proposta é que bebidas com maior concentração de álcool estejam sujeitas a uma tributação mais elevada. A tributação dos automóveis terá uma sistemática diferente das demais categorias. Para os carros de passeio, a MP estabelece uma alíquota-base de 6,3%, que poderá ser ajustada conforme características técnicas e ambientais. A definição do percentual final levará em consideração cinco critérios: Após a aplicação dos ajustes previstos na medida, o resultado será multiplicado pelo fator de conversão de 1,21. Na prática, veículos com características mais sustentáveis poderão receber reduções na tributação, enquanto determinados modelos poderão ter acréscimos. A alíquota final, portanto, não será igual para todos os automóveis. Para veículos comerciais leves, a alíquota-base prevista é de 3,9%, também sujeita a ajustes. A medida provisória estabelece condições especiais para determinados veículos e categorias de compradores. Entre os casos previstos de alíquota zero estão: A MP também prevê alíquota zero para determinados bens minerais durante o período de transição de 2027. O Imposto Seletivo será implementado de forma gradual, em etapas que acompanham a transição da Reforma Tributária. O governo deverá encaminhar ao Congresso Nacional, até 31 de maio de 2027, um projeto de lei com as alíquotas que serão aplicadas a partir de 2028. As alíquotas estabelecidas para 2027 são temporárias e foram definidas, em regra, para manter o nível de tributação atualmente aplicado pelo IPI. A partir de 2028, os percentuais poderão ser alterados conforme as regras permanentes do Imposto Seletivo. Isso significa que produtos como cigarros, bebidas alcoólicas e veículos poderão ter aumentos ou reduções na tributação, dependendo das alíquotas aprovadas pelo Congresso Nacional. A intenção do gover",
+  "numeros": [
+   {
+    "valor": "41,9 bilhões",
+    "rotulo": "previsão de arrecadação em 2027"
+   },
+   {
+    "valor": "6,3%",
+    "rotulo": "alíquota-base para carros de passeio"
+   },
+   {
+    "valor": "3,9%",
+    "rotulo": "alíquota-base para veículos comerciais leves"
+   },
+   {
+    "valor": "R$ 3,50",
+    "rotulo": "cobrança por maço de cigarros"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Impostos",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "aumento na carga tributária e no custo de vida",
+  "angulo": "Com a nova tributação, é essencial diversificar a renda e aprender a negociar no mercado financeiro, minimizando impactos no orçamento.",
+  "gancho": "Seu bolso pode sofrer: *entenda o novo imposto*",
+  "ideias": [
+   "Novo imposto: como se preparar?",
+   "O que muda com o Imposto Seletivo?",
+   "Estratégias para lidar com o aumento da carga tributária"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/imposto-do-pecado-entenda-cobranca-sobre-cigarros-bebidas-e-veiculos",
+  "publicadoEm": "2026-11-05T17:10:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "A responsabilidade fiscal e seu impacto nas finanças pessoais",
+  "resumo": "O presidente Lula defende a responsabilidade fiscal como chave para atração de investimentos, impactando diretamente a economia e, consequentemente, o bolso dos cidadãos.",
+  "fatos": [
+   "Lula afirmou que responsabilidade fiscal é essencial para atrair investimentos.",
+   "O governo enfrenta pressão para apresentar um plano de ajuste fiscal.",
+   "Desde os resultados do segundo turno, a dívida pública tem crescido.",
+   "O ministro da Fazenda prometeu resultados melhores nas contas públicas, sem medidas específicas.",
+   "Uma lista de 27 minerais críticos foi aprovada, priorizando a industrialização no Brasil."
+  ],
+  "explicacao": [
+   "A busca por responsabilidade fiscal surgiu como resposta à escalada da dívida pública e a queda na Bolsa de Valores.",
+   "Lula e sua equipe buscam criar um ambiente favorável a investimentos, reduzindo incertezas jurídicas e fiscais.",
+   "Essa situação implica em possíveis mudanças nas formas de geração de renda, já que, com mais investimentos, espera-se um fortalecimento da economia.",
+   "A discussão sobre minerais críticos também reflete a intenção de agregar valor ao que é produzido no Brasil, com potencial para gerar empregos.",
+   "Investir em conhecimento do mercado financeiro pode ser uma forma de se preparar para essas mudanças e oportunidades."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O presidente Luiz InÃ¡cio Lula da Silva (PT) defendeu nesta quinta-feira (5) a responsabilidade fiscal como forma de atrair investimentos para o paÃ­s. \"Aqui tambÃ©m estÃ¡ dito que se a gente quiser atrair capital, temos que ter seriedade. NinguÃ©m vai colocar dinheiro aqui pelos belos cabelos do Lula ou do [vice-presidente Geraldo] Alckmin\", disse o petista em reuniÃ£o com o Conselho Nacional para a IndustrializaÃ§Ã£o de Minerais CrÃ­ticos e EstratÃ©gicos. \"As pessoas vÃ£o colocar se perceberem que os investimentos deles vÃ£o gerar retorno financeiro. Ã por isso que precisamos ter responsabilidade jurÃ­dica. Ã por isso que temos que ter responsabilidade fiscal.\" O governo estÃ¡ sob pressÃ£o de setores econÃ´micos para apresentar um plano de ajuste fiscal capaz de conter a trajetÃ³ria ascendente da dÃ­vida pÃºblica, em meio Ã escalada do dÃ³lar e Ã queda da Bolsa de Valores desde o resultado do segundo turno. TambÃ©m nesta quinta, Lula iniciou uma sÃ©rie de conversas com economistas e empresÃ¡rios para debater os rumos da polÃ­tica fiscal do governo . ApÃ³s o encontro, o ministro da Fazenda, Dario Durigan , voltou a prometer resultados melhores nas contas pÃºblicas para os prÃ³ximos anos, mas nÃ£o falou sobre medidas concretas. A reuniÃ£o desta quinta (5) entre o novo conselho e o presidente aprovou a lista dos minerais considerados crÃ­ticos e/ou estratÃ©gicos que a polÃ­tica nacional sobre o tema deve priorizar. Foram 27 minerais incluÃ­dos na lista dos que serÃ£o contemplados nas proteÃ§Ãµes e regras previstas na lei. \"NÃ£o queremos fazer com que o estado seja senhor supremo da exploraÃ§Ã£o, transformaÃ§Ã£o, industrializaÃ§Ã£o. Aqui estÃ¡ dito que precisamos de parceria, que precisamos aprender, construir com outros paÃ­ses que queiram participar conosco o processo de transformaÃ§Ã£o e exploraÃ§Ã£o dessa riqueza\", disse Lula. O tema dos minerais virou pauta cara durante a campanha do presidente, que colocou a temÃ¡tica em peÃ§as eleitorais do inÃ­cio da corrida. A exploraÃ§Ã£o dos minerais Ã© cobiÃ§ada por outros paÃ­ses, como os Estados Unidos, e foi usada como pauta petista para inflar defesas Ã soberania nacional. A chamada PolÃ­tica Nacional de Minerais CrÃ­ticos foi sancionada em setembro deste ano. Na reuniÃ£o, os minerais foram distribuÃ­dos em trÃªs classes, de acordo com a importÃ¢ncia para o Brasil em termos de soberania e industrializaÃ§Ã£o. O secretÃ¡rio-executivo do CIMCE (Conselho Nacional para IndustrializaÃ§Ã£o de Minerais CrÃ­ticos e EstratÃ©gicos), Leonardo Durans, afirmou Ã Folha que a lista Ã© o primeiro passo para elaboraÃ§Ã£o do plano nacional do setor. \"Ã um estudo para definir as cadeias prioritÃ¡rias. O objetivo Ã© que o Brasil deixe de sÃ³ exportar minÃ©rio e passe a agregar valor aqui, com processamento, refino e produÃ§Ã£o industrial no paÃ­s\", explicou. TambÃ©m foram estabelecidos cinco parÃ¢metros para definir os minerais: o risco geopolÃ­tico, a concentraÃ§Ã£o geogrÃ¡fica da produÃ§Ã£o, o potencial de substituiÃ§Ã£o, a posiÃ§Ã£o brasileira na cadeia e a dependÃªncia e vulnerabilidade do paÃ­s. As classes tambÃ©m sinalizam a prioridade no acesso aos instrumentos de fomento previstos na polÃ­tica. \"Essa lista Ã© importante porque ela organiza as prioridades dessa polÃ­tica\", disse a ministra da Casa Civil, Miriam Belchior. \"Se eu defino os minerais, defino sobre quais poderÃ£o ser usados os instrumentos de fomento previstos na legislaÃ§Ã£o aprovada.\" Participaram da reuniÃ£o do Conselho r",
+  "numeros": [
+   {
+    "valor": "27",
+    "rotulo": "minerais críticos listados"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Aumento das despesas e endividamento devido à inflação",
+  "angulo": "Entender a responsabilidade fiscal pode ajudar você a se preparar para um futuro financeiro mais seguro, além de abrir novas oportunidades de renda.",
+  "gancho": "Como a *responsabilidade fiscal* afeta seu bolso?",
+  "ideias": [
+   "Responsabilidade fiscal: o que significa para você?",
+   "Entenda como os investimentos impactam sua renda",
+   "Minerais críticos: uma nova oportunidade para o Brasil?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/temos-que-ter-responsabilidade-fiscal-diz-lula-em-meio-a-debate-sobre-ajuste-nas-contas-publicas.shtml",
+  "publicadoEm": "2026-11-05T19:12:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho: o que vem por aí?",
+  "resumo": "O STF decidirá sobre o fim da escala 6x1 em audiência marcada para o dia 10. Mudanças impactam a jornada e os direitos dos trabalhadores.",
+  "fatos": [
+   "Audiência de conciliação no STF será no dia 10 de outubro, às 14h.",
+   "Ministro Flávio Dino convocou entidades de empregadores e trabalhadores para o encontro.",
+   "CNC pede adiamento do fim da escala 6x1 para outubro de 2027.",
+   "A nova jornada de trabalho entra em vigor em 15 de dezembro deste ano.",
+   "A carga semanal será reduzida de 44 para 40 horas, estabelecendo a jornada 5x2."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 gera grande debate entre sindicatos e empregadores, afetando diretamente os direitos trabalhistas.",
+   "Essa mudança significa que os trabalhadores poderão ter dois dias de descanso remunerado por semana, mantendo a carga horária máxima.",
+   "Além disso, haverá uma regra de transição de 14 meses para adaptação à nova jornada."
+  ],
+  "materia": "Encontro no STF será na terça-feira (10) e reunirá entidades de empregadores e de trabalhadores. O ministro Flávio Dino, do Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (5) convocar uma audiência de conciliação sobre as ações que contestam o fim da escala 6×1. O encontro foi marcado para a terça-feira (10), às 14h, na Primeira Turma do Supremo. Dino determinou que entidades que representam empregadores e empregados sejam intimadas a participar. O ministro também deu prazo de cinco dias para que a Advocacia-Geral da União (AGU), a Procuradoria-Geral da República (PGR), a Câmara dos Deputados e o Senado se manifestem sobre o tema. Dino é relator da ação em que a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) pede a suspensão do fim da escala 6×1. A entidade quer adiar para outubro de 2027 o início da redução da jornada. Pela lei aprovada, a nova jornada entra em vigor em 15 de dezembro deste ano. A Confederação Nacional da Indústria (CNI) também acionou o STF para suspender a mudança. Essa ação ainda não tem relator, mas a tendência é que também fique com Dino. O Senado aprovou no mês passado o fim da escala 6×1, com votos da base governista e da oposição. O texto já havia passado pela Câmara dos Deputados. Com a mudança, o trabalhador passa a ter dois dias de descanso remunerado por semana, em jornada máxima de 5×2, sem redução de salário. A carga semanal cai de 44 para 40 horas, com regra de transição de 14 meses. O ministro do Trabalho e Emprego, Luiz Marinho, informou que o decreto que regulamenta a nova escala deve sair na segunda-feira (9). O texto vai estabelecer diretrizes para a organização das jornadas e garantir pelo menos oito folgas por mês aos trabalhadores. O andamento das ações pode ser acompanhado no portal do STF . Conteúdo em Alta Fux defende banimento das apostas online no STF Skatista Duda Ribeiro é prata na Olimpíada da... CNC aciona STF para adiar fim da escala... Agenda da Indústria Capixaba tem 65 propostas para... Fim da escala 6×1: decreto deve sair na... Dino manda PF apurar interferência estrangeira nas eleições Escala 6×1 no campo: Faes orienta produtores do... Saque-aniversário: antecipação de 5 parcelas vai até março Lula vai criar Ministério da Segurança Pública por... Anuário IEL 2026: Banestes lidera em ativos no...",
+  "numeros": [
+   {
+    "valor": "40",
+    "rotulo": "horas semanais de trabalho"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso por semana"
+   }
+  ],
+  "fonte": "ES Brasil",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de flexibilidade no trabalho e redução de renda.",
+  "angulo": "Entender as mudanças no mercado de trabalho é essencial para buscar alternativas de renda, como a capacitação financeira.",
+  "gancho": "*Mudanças na jornada de trabalho* impactam seu bolso.",
+  "ideias": [
+   "Como a nova jornada de trabalho afeta seu bolso?",
+   "O que muda no seu dia a dia com o fim da escala 6x1?",
+   "Preparado para as novas regras da jornada de trabalho?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://esbrasil.com.br/escala-6x1-dino-audiencia-conciliacao-stf/",
+  "publicadoEm": "2026-11-05T21:58:11-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 pode impactar trabalhadores",
+  "resumo": "A audiência de conciliação sobre o fim da escala 6x1 será realizada para discutir uma nova jornada de trabalho. Mudanças podem afetar como e quanto os trabalhadores ganham.",
+  "fatos": [
+   "Flávio Dino convocou audiência de conciliação para 10 de outubro às 14h.",
+   "Entidades empregadoras e trabalhadoras foram intimadas a participar da reunião.",
+   "Prazo de cinco dias foi dado para se manifestarem AGU, PGR, Câmara e Senado.",
+   "As confederações CNC e CNI pedem adiamento da nova escala em um ano.",
+   "A nova escala de trabalho deve entrar em vigor em 15 de dezembro.",
+   "O decreto com as diretrizes da nova jornada será anunciado em 9 de outubro.",
+   "O texto prevê pelo menos oito folgas mensais para os trabalhadores."
+  ],
+  "explicacao": [
+   "A convocação para audiência indica que o fim da escala 6x1 está gerando controvérsias entre empregadores e empregados.",
+   "O novo formato de trabalho pode regularizar jornadas de forma a garantir mais folgas aos trabalhadores.",
+   "Mudanças na forma de trabalho tendem a afetar a estrutura salarial e as perspectivas de renda.",
+   "Adiar a implementação prejudica aqueles que precisam se adaptar a novas condições.",
+   "Essas alterações trazem importantes reflexões sobre a segurança financeira no atual cenário de trabalho."
+  ],
+  "materia": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino convocou para a próxima terça-feira, dia 10, às 14h, uma audiência de conciliação para tratar das ações que contestam o fim da escala de trabalho 6x1. O magistrado também determinou que entidades que representam empregadores e empregados sejam intimadas para participar da reunião, que será com a primeira turma da Corte. Também foi concedido prazo de cinco dias para a Advocacia-Geral da União (AGU), a Procuradoria-Geral da República (PGR), a Câmara e o Senado se manifestarem. Flávio Dino é relator das ações em que a Confederação Nacional do Comércio de Bens Serviços e Turismo (CNC) e a Confederação Nacional da Indústria (CNI) pedem ao Supremo para adiar o início da redução das horas de trabalho para daqui a cerca de um ano. A nova escala está prevista para entrar em vigor agora em 15 de dezembro. O decreto de regulamentação no país da nova escala de trabalho deve ser anunciado na próxima segunda-feira, dia 9, pelo governo federal. O texto vai estabelecer diretrizes para a organização das jornadas e garantir pelo menos oito folgas por mês aos trabalhadores.",
+  "numeros": [
+   {
+    "valor": "5 dias",
+    "rotulo": "prazo para manifestações"
+   },
+   {
+    "valor": "8",
+    "rotulo": "número mínimo de folgas por mês"
+   }
+  ],
+  "fonte": "Agência Brasil",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Profissionais liberais"
+  ],
+  "dor": "insegurança em relação à renda e estabilidade do emprego",
+  "angulo": "Entender as mudanças no trabalho é essencial para quem busca uma renda independente e menos dependente das regras tradicionais.",
+  "gancho": "O *fim da escala 6x1* e suas consequências",
+  "ideias": [
+   "Como o fim da escala 6x1 pode afetar seu salário?",
+   "Novas regras de trabalho: o que esperar?",
+   "O que muda com a audiência sobre a escala 6x1?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-05T22:51:37-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-11/flavio-dino-convoca-audiencia-de-conciliacao-sobre-fim-da-escala-6x1",
+  "publicadoEm": "2026-11-05T20:37:00-03:00",
+  "data": "2026-11-05",
+  "id": "2026-11-05-trader-11"
  },
  {
   "segmento": "trader",
