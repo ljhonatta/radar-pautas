@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-06T13:59:02-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-11-06T18:12:07-03:00",
+  "novas": 8,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Nova proposta pode impactar sua rotina de trabalho; Mudanças na jornada de trabalho: Fim da escala 6x1; CNI aciona STF contra fim da escala 6x1.",
+  "mensagem": "8 pauta(s) nova(s): Indústria contesta fim da escala 6x1 no STF; Fim da escala 6x1 muda o comércio de Porto Alegre; Fim da escala 6x1: impacto no mercado de trabalho.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-06T18:12:07-03:00",
    "2026-11-06T13:59:02-03:00",
    "2026-11-05T22:51:37-03:00",
    "2026-11-05T18:44:16-03:00",
@@ -18,19 +19,19 @@
    "2026-11-03T22:44:35-03:00",
    "2026-11-03T18:25:11-03:00",
    "2026-11-03T14:24:04-03:00",
-   "2026-11-03T00:08:02-03:00",
-   "2026-11-02T20:16:22-03:00"
+   "2026-11-03T00:08:02-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-06T13:59:02-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-06T18:12:07-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Google, Meta e TikTok contestam nova lei na Califórnia; Consumo fraco pressiona resultados de grandes varejistas; Entenda por que a crise não esvazia o mercado.",
+  "mensagem": "7 pauta(s) nova(s): A necessidade de entender o consumidor 60+ no mercado; WhatsApp usa IA para otimizar fotos e Status; Instagram lança app Edits para edição de vídeos.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-06T18:12:07-03:00",
    "2026-11-06T13:59:02-03:00",
    "2026-11-05T22:51:37-03:00",
    "2026-11-05T18:44:16-03:00",
@@ -41,8 +42,7 @@
    "2026-11-03T22:44:35-03:00",
    "2026-11-03T18:25:11-03:00",
    "2026-11-03T14:24:04-03:00",
-   "2026-11-03T00:08:02-03:00",
-   "2026-11-02T20:16:22-03:00"
+   "2026-11-03T00:08:02-03:00"
   ]
  }
 }

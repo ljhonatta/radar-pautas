@@ -1,6 +1,386 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Como pequenos negócios devem se adaptar à inteligência artificial",
+  "resumo": "Pequenos negócios enfrentam novos desafios de visibilidade digital. A presença online não é mais suficiente; é crucial ser encontrado por meio de IA.",
+  "fatos": [
+   "O comportamento do consumidor mudou, com a IA influenciando as buscas por serviços.",
+   "Ferramentas como ChatGPT permitem uma pesquisa mais específica e detalhada.",
+   "Empresas as quais não são facilmente encontradas na internet correm o risco de se tornarem invisíveis.",
+   "A concorrência agora inclui a capacidade de ser descoberto e compreendido online.",
+   "Não basta ter um site e redes sociais, é necessário apresentar informações claras e acessíveis."
+  ],
+  "explicacao": [
+   "A transformação nas buscas se deve ao uso crescente de IA, que organiza informações de forma mais eficiente.",
+   "Isso requer que os pequenos negócios repensem sua comunicação e a apresentação de seus serviços online.",
+   "A mudança na forma como os clientes descobrem empresas pode impactar diretamente nas vendas e no reconhecimento da marca."
+  ],
+  "materia": "Quando alguém precisava encontrar uma empresa, contratar um profissional ou pesquisar um serviço, o caminho mais comum era recorrer a um buscador, digitar algumas palavras e analisar os resultados apresentados. Esse comportamento continua existindo, mas já não é o único. A inteligência artificial passou a participar desse processo. Em vez de apresentar apenas uma lista de páginas, ferramentas como ChatGPT e os recursos de busca com IA do Google permitem que o usuário faça perguntas mais específicas, compare alternativas e receba respostas organizadas a partir de diferentes informações disponíveis na internet. Essa mudança altera a maneira como empresas e profissionais podem ser descobertos. Para os pequenos negócios, surge uma questão importante. Quando alguém pergunta a uma ferramenta de inteligência artificial onde encontrar determinado serviço, quais empresas atuam em uma especialidade ou que profissional pode ajudar a resolver um problema, o negócio tem informações públicas suficientes para ser reconhecido? A resposta nem sempre é positiva. Muitas empresas possuem experiência, bons profissionais e serviços bem definidos, mas ainda são pouco conhecidas fora de seu círculo de clientes e contatos. O mercado pode reconhecer seu trabalho por indicação, enquanto sua presença na internet não oferece elementos suficientes para que outras pessoas compreendam o que fazem. Ser encontrado exige mais do que estar na internet Durante anos, a presença digital de muitos pequenos negócios se concentrou em manter um site e publicar nas redes sociais. Essas iniciativas continuam importantes, mas a mudança no comportamento de pesquisa amplia o desafio. Hoje, não basta considerar se a empresa aparece quando alguém digita seu nome. Também é necessário pensar se ela pode ser identificada quando o usuário descreve uma necessidade, procura uma especialidade ou pede sugestões dentro de determinado segmento. Imagine uma pessoa que procura orientação para organizar as finanças de uma pequena empresa. Ela pode pesquisar por um escritório contábil, mas também pode perguntar a uma ferramenta de IA quais profissionais oferecem esse tipo de orientação e têm experiência com negócios de pequeno porte. Nesse cenário, a empresa que apresenta informações claras sobre sua atuação tem mais condições de ser compreendida do que aquela cuja presença digital se limita a uma descrição genérica. Isso não significa que basta estar na internet para aparecer nas respostas. As ferramentas utilizam diferentes fontes e critérios para selecionar informações, e não existe uma fórmula que garanta a indicação de uma empresa. A visibilidade também pode variar conforme a pergunta, a plataforma e o contexto da pesquisa. O ponto é que a descoberta de empresas está passando por novos caminhos. E quem não acompanha essa transformação corre o risco de continuar conhecido apenas por quem já teve contato direto com seu trabalho. A mudança também diz respeito à competitividade Para pequenos negócios, esse movimento merece atenção porque a concorrência nem sempre acontece apenas entre empresas que oferecem produtos ou serviços semelhantes. Ela também ocorre entre aquelas que conseguem ser encontradas e compreendidas pelo público e as que permanecem pouco visíveis. Um profissional pode ter anos de experiência, conhecer profundamente sua área e entregar um serviço de qualidade. No entanto, se essas informações não chegam ao ambiente digital de maneira compreensível, parte desse conhecimento permanece restrita aos clientes que já o conhecem. A inteligência artificial não substitui a reputação construída no relacionamento com o mercado, nem determina sozinha a escolha do consumidor. Mas acrescenta uma nova etapa ao processo de descoberta. Antes de entrar em contato com uma empresa, o potencial cliente pode consultar uma ferramenta, pedir comparações e buscar referências. Por isso, a pergunta que o empresário precisa fazer não é apenas se sua empresa está presente nas redes sociais ou se possu",
+  "numeros": [],
+  "fonte": "Zero Hora Digital",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda de visibilidade e oportunidades de negócio.",
+  "angulo": "A necessidade de se destacar no ambiente digital leva a buscas por gestão de redes, planejamento e automação para melhorar a presença online.",
+  "gancho": "Prepare-se para ser encontrado na *era da IA*!",
+  "ideias": [
+   "Por que seu negócio precisa de uma presença digital forte?",
+   "IA e pequenas empresas: como se destacar?",
+   "A importância da visibilidade online para seu negócio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://horasp.com.br/como-os-pequenos-negocios-podem-se-preparar-para-ser-encontrados-na-era-da-inteligencia-artificial/",
+  "publicadoEm": "2026-11-06T16:26:40-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Revolut investe US$ 1 bilhão na América Latina",
+  "resumo": "A Revolut vai investir mais de US$ 1 bilhão na América Latina, focando especialmente no Brasil e México, como parte de sua estratégia de crescimento na região. O movimento pode impactar o mercado financeiro local.",
+  "fatos": [
+   "A Revolut planeja investir mais de US$ 1 bilhão na América Latina nos próximos anos.",
+   "O foco principal será Brasil, México, Colômbia, Peru e Argentina.",
+   "A empresa espera dobrar o número de novos clientes no Brasil em 2027.",
+   "Os países latino-americanos deverão representar um em cada quatro novos clientes até 2027.",
+   "A Revolut conquistou seu primeiro milhão de clientes no México em aproximadamente oito meses.",
+   "A fintech já possui 80 milhões de clientes em cerca de 40 mercados."
+  ],
+  "explicacao": [
+   "O investimento da Revolut na América Latina reflete a busca por crescimento em mercados emergentes.",
+   "A presença robusta de bancos digitais na região oferece um campo fértil para novos produtos e serviços.",
+   "As operações no Brasil são centrais para a estratégia global da empresa, focando em campanhas de marketing e parcerias.",
+   "A expectativa é que a competição aumente, forçando empresários locais a adaptarem suas estratégias."
+  ],
+  "materia": "Fintech britânica acelera expansão na região, com entrada em três novos países. Brasil e México são os principais motores de crescimento de um investimento bilionário Pintura especial da equipe Audi F1 Team, que tem Revolut como patrocinadora, para o GP Brasil da Fórmula 1 2026 (Foto: Divulgação) A Revolut , fintech britânica, planeja investir mais de US$ 1 bilhão na América Latina nos próximos anos, com foco no Brasil, México, Colômbia, Peru e Argentina. A expectativa é que a região se tornará um motor de crescimento significativo para a empresa, que já possui 80 milhões de clientes em cerca de 40 mercados. O investimento será direcionado à expansão geográfica, desenvolvimento de produtos e crescimento das operações. O Brasil é um dos destaques do plano, por ser um dos maiores mercados da Revolut. A empresa espera dobrar o número de novos clientes no País em 2027. Apesar da concorrência, a empresa acredita que o crescimento dos bancos digitais está apenas começando e está confiante em sua estratégia de expansão na América Latina. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Depois de se consolidar como principal - e mais valiosa - fintech da Europa, a Revolut quer avançar e crescer em novas fronteiras. E, neste plano, a América Latina e o Brasil possuem papel central. Com pretensão de se tornar um banco global, a fintech britânica pretende investir mais de US$ 1 bilhão na região nos próximos anos, apostando que os países latino-americanos, junto com os Estados Unidos, serão responsáveis por uma parcela significativa de sua próxima onda de crescimento. A expectativa é que, em 2027, um em cada quatro novos clientes conquistados pela Revolut venha do continente americano, um salto que colocaria a região entre os principais motores de expansão de uma companhia que já alcançou 80 milhões de clientes e está presente em cerca de 40 mercados. “Queremos que a América Latina seja verdadeiramente uma região estratégica”, disse Ignacio Zunzunegui, head de crescimento para as Américas da Revolut, em encontro de executivos globais da fintech com jornalistas na quinta-feira à noite, 5 de novembro, em São Paulo. “Sabemos que precisamos vencer na América Latina como parte dessa visão global”, complementou. No Brasil para acompanhar o Grande Prêmio de São Paulo da Fórmula 1 (a Revolut é parceira principal da equipe Audi F1 Team, que tem o brasileiro Gabriel Bortoleto como um dos pilotos), os executivos destacaram que o ritmo esperado de aquisição de clientes na região será quase o dobro do registrado no ano anterior e quatro vezes superior ao observado dois anos antes. No caso da América Latina, a Revolut pretende distribuir o US$ 1 bilhão em investimento entre Brasil, México e os novos mercados que vai começar a operar – Colômbia , Peru e Argentina . A companhia não definiu quanto será destinado a cada país ou a produtos específicos. Segundo Carlos Urrutia, head de expansão global da Revolut, os recursos serão utilizados principalmente para financiar a expansão geográfica, o desenvolvimento de produtos e o crescimento das operações. O compromisso cobre um horizonte de alguns anos, não apenas 2027. A depender dos resultados, o montante pode crescer. “Esse US$ 1 bilhão é um investimento mínimo que estamos assumindo neste momento. Não é um teto. Conforme identificarmos oportunidades, poderemos acelerar os investimentos”, disse. Os resultados obtidos no Brasil e no México ajudam a explicar o otimismo da Revolut com a América Latina. Os dois países estão entre os cinco mercados com maior velocidade de crescimento da fintech no mundo. “E, no próximo ano, esperamos que sejam os mercados de maior crescimento de toda a companhia”, disse Zunzunegui. No México, onde iniciou suas operações em janeiro , a Revolut conquistou seu primeiro 1 milhão de clientes em aproximadamente oito meses. A companhia atribui parte desse desempenho ao fato de ter iniciado com licença bancária completa, o que permitiu oferecer um portfó",
+  "numeros": [
+   {
+    "valor": "80 milhões",
+    "rotulo": "clientes da Revolut"
+   },
+   {
+    "valor": "1 bilhão",
+    "rotulo": "investimento da Revolut"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "ano para dobrar clientes no Brasil"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de competitividade diante de novas fintechs como Revolut",
+  "angulo": "Entender como a Revolut expande suas operações pode incentivar empresários a investirem em marketing e em presença digital.",
+  "gancho": "A Revolut vai *mudar o jogo* na América Latina",
+  "ideias": [
+   "Como a Revolut transforma o mercado financeiro",
+   "Porque seu negócio precisa se reinventar como a Revolut",
+   "A expansão da Revolut e as oportunidades para empresários"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://neofeed.com.br/negocios/o-projeto-de-us-1-bilhao-da-revolut-para-acelerar-na-america-latina/",
+  "publicadoEm": "2026-11-06T14:40:25-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A Black Friday da Amazon e o futuro do marketing",
+  "resumo": "A Amazon investiu mais de R$ 1 bilhão em influenciadores desde 2020 e planeja dobrar este valor até 2027, transformando a Black Friday em um mês inteiro de ofertas.",
+  "fatos": [
+   "A Black Friday da Amazon no Brasil agora dura quase todo o mês de novembro.",
+   "A empresa investiu mais de R$ 1 bilhão na creator economy desde 2020.",
+   "A Amazon planeja mais que dobrar seu investimento em influenciadores até 2027.",
+   "Em setembro de 2026, o Brasil teve 84,2 milhões de pessoas negativadas, o maior número da história.",
+   "83% dos consumidores brasileiros afirmam ter reduzido ou planejado reduzir seus gastos.",
+   "O Programa Amazon Influencers permite que criadores ganhem comissões sobre vendas."
+  ],
+  "explicacao": [
+   "A Amazon enxerga a Black Friday como uma oportunidade de engajamento que se estende por semanas.",
+   "O investimento em influenciadores busca criar uma conexão direta com os consumidores.",
+   "Com a muitos negativados, a empresa aposta em estratégias de pagamento flexíveis para atrair compradores.",
+   "A dinâmica de compra envolve tanto produtos planejados quanto itens de impulso, que são aproveitados durante o mês.",
+   "Esse cenário cria uma necessidade evidente para as empresas se adaptarem às novas demandas dos consumidores."
+  ],
+  "materia": "A Black Friday da Amazon no Brasil já não cabe em apenas uma sexta-feira, tampouco em uma semana. Há cerca de três anos, a empresa estende a temporada de ofertas por quase todo o mês de novembro. Movimento que o varejo também vem apostando para impulsionar ainda mais a data promocional. É nesse período que o consumidor faz duas coisas ao mesmo tempo: compra algo planejado há meses e aproveita o desconto para uma aquisição de impulsividade. Ou seja, além de comprar uma geladeira nova – item que foi buscado, comparado e colocado no carrinho em uma jornada mais longa –, o cliente também aproveita as ofertas para comprar um produto de oportunidade. “A gente se prepara para esse mês já com isso em mente”, explica Camila Nunes, diretora de Marketing e Prime da Amazon Brasil . Mas, para manter a conversa durante todo o mês, a Amazon aposta em quem está influenciando as compras desse consumidor. A companhia afirma ter ultrapassado R$ 1 bilhão em investimentos acumulados na Creator economy no Brasil desde 2020. Isso por meio do Programa Amazon Influencers . Além disso, a empresa planeja mais que dobrar o investimento anual no setor até 2027, na comparação com 2025. O anúncio foi feito durante o Creators Lab de Black Friday , evento em que influenciadores parceiros conhecem as ofertas antes mesmo do público, produzindo conteúdo para a data. A lógica de uma Black Friday mais longa parte de um hábito que, segundo Camila Nunes, se consolidou a cada edição. “Virou um hábito o cliente comprar ao longo do mês de novembro todo”, afirma. De um lado, estão os produtos de alto valor agregado, que exigem planejamento, avaliação e comparação de preço. Do outro, itens de rotina, que entram no carrinho porque o desconto apareceu. Segundo a executiva, esse comportamento está relacionado a um traço cultural. “Nós somos, em comparação a outros países, os clientes que mais gostam de comprar em promoção. É um mês para você comprar várias vezes.” Por esse motivo, a operação foi desenhada para dar razões para o cliente voltar. “A gente tem novas ofertas no ar todos os dias. Sempre vai ter coisa nova.” Com isso, a temporada estendida da Black Friday muda a natureza do desafio. Concentrar a atenção do consumidor ao longo de 24 horas é uma coisa. Agora, mantê-lo sempre retornando por quase quatro semanas, com ofertas suficientes para que cada visita valha a pena, é outra. Essa Black Friday acontece em um cenário de endividamento elevado das famílias brasileiras . Em setembro de 2026, foram 84,2 milhões de pessoas negativadas, o maior número de inadimplentes em toda a série histórica do Mapa da Inadimplência da Serasa. Ao mesmo tempo, o consumidor está atento a produtos que justifiquem o gasto . Segundo levantamento da Bain & Company, por exemplo, 83% dos consumidores brasileiros afirmam ter reduzido ou planejado reduzir seus gastos. No entanto, categorias como alimentação fora do lar, entretenimento e cuidados pessoais permanecem entre as formas de se presentear. A resposta da Amazon passa pela forma de pagamento. De acordo com Camila, a temporada terá milhões de reais em cupons, parcelamento em até 21 vezes no cartão Amazon e desconto para quem prefere pagar à vista. “Tudo isso para garantir que a gente vai atender diversos tipos de necessidade do consumidor brasileiro”, afirma. Outra estratégia está no Prime. A Black Friday, diferentemente do Prime Day, não é um evento exclusivo para assinantes. Mas, a temporada ganhou uma camada de ofertas restritas a esse público. “Ao acessar a primeira página, o grid de produtos mostra que cliente Prime economiza mais”, explica. O argumento se apoia no frete grátis e nas modalidades de entregas mais rápidas, que não existiam na edição de 2025. Em São Paulo, a entrega da compra pode ocorrer no mesmo dia ou em algumas horas. Assim, para a Amazon, Prime Day e Black Friday não disputam o mesmo orçamento do consumidor. “São muitos meses de planejamento”, diz Camila, citando as áreas comercial, de marketplace, de operações e de",
+  "numeros": [
+   {
+    "valor": "84,2 milhões",
+    "rotulo": "negativados em setembro de 2026"
+   },
+   {
+    "valor": "R$ 1 bilhão",
+    "rotulo": "investido em influenciadores até 2020"
+   },
+   {
+    "valor": "21 vezes",
+    "rotulo": "parcelamento no cartão da Amazon"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de clientes por falta de engajamento",
+  "angulo": "A Black Friday longa exige planejamento e presença digital para capturar a atenção do consumidor e criar novas oportunidades de vendas.",
+  "gancho": "A Black Friday virou *um mês de oportunidades*",
+  "ideias": [
+   "Como influenciadores mudam as vendas?",
+   "O que seu negócio aprende com a Amazon?",
+   "Estratégias de vendas para a Black Friday"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://consumidormoderno.com.br/amazon-black-friday-temporada-influenciadores/",
+  "publicadoEm": "2026-11-06T14:55:28-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Jogos grátis deste fim de semana: aproveite!",
+  "resumo": "Chegou o fim de semana e com ele, uma seleção de jogos grátis imperdíveis, como PAYDAY 3. A oportunidade perfeita para testar novas experiências e entretenimento.",
+  "fatos": [
+   "Entre 6 e 8 de outubro, PAYDAY 3 é o destaque entre os jogos grátis.",
+   "O jogo está disponível em PlayStation 5, XBOX Series e PC, permitindo acesso ao conteúdo completo.",
+   "A produtora Starbreeze não exige mais conta Starbreeze Nebula, facilitando o acesso.",
+   "Além de PAYDAY 3, outros jogos como Disney Epic Mickey: Rebrushed e Age of Wonders 4 também estão disponíveis gratuitamente.",
+   "O Age of Wonders 4 requer 16 GB de memória RAM e processadores robustos para operar.",
+   "007 First Light está disponível gratuitamente por uma hora para assinantes da PS Plus Deluxe."
+  ],
+  "explicacao": [
+   "Esta oportunidade de jogos grátis surge com o objetivo de atrair novos jogadores e fidelizar os antigos.",
+   "O sucesso de PAYDAY 3 é um exemplo claro de como um jogo pode mudar a percepção do público ao longo do tempo.",
+   "As promoções de aquisição e a disponibilidade de vários títulos gratuitos são estratégias para manter o interesse e engajar os consumidores."
+  ],
+  "materia": "Com a chegada do fim de semana , todos já sabem que vem junto uma enxurrada de jogos grátis para curtir durante os dias de sossego. Neste não é diferente, mas há um diferencial: a presença de vários games de peso e queridinhos pela comunidade. Entre esta sexta-feira (6) e domingo (8), o jogo grátis de maior destaque é PAYDAY 3 . Disponível sem custos em todas as plataformas ( PlayStation 5 , XBOX Series e no [object Object] ), você pode ter em mãos a experiência completa — tanto offline quanto online. A produtora Starbreeze garante que todo o conteúdo produzido nos últimos três anos está liberado, inclusive os DLCs pagos. Na prática, os jogadores poderão contar com absolutamente tudo do título no seu console ou computador. Além disso, a companhia trouxe novidades a PAYDAY 3. O servidor CRIME.NET retornou, já que agora não será mais exigida uma conta Starbreeze Nebula para acessar o jogo. É um passo dado para agilizar a experiência e também a diversão. Caso queira continuar a aventura após o período gratuito, o título está com promoções no PS5, XBOX Series e Steam, o que facilita a aquisição definitiva. Porém, é bom já se programar, já que todas encerrarão em breve. Vale notar a ascensão do título, que foi lançado com críticas extremamente negativas e reclamações e hoje coleciona elogios e uma aceitação da comunidade. Se você largou de mão, pode ser bom voltar. Se nunca quis pelas reações, é a oportunidade de testar e ver por conta própria. Porém, ele não é o único sucesso na lista de jogos grátis do fim de semana. Confira quais outros games podem ser jogados sem custo nos próximos dias. 5. Disney Epic Mickey: Rebrushed Lançado originalmente no Nintendo Wii, Disney Epic Mickey: Rebrushed é uma versão remasterizada e disponibilizada em todas as plataformas. Contudo, poderá jogá-lo de graça no [object Object] . Essa versão não é para resgatar, mas sim para acessar via nuvem da Amazon. Logo, é bom aproveitar enquanto a obra está no catálogo — já que traz uma jornada bem diferente do icônico rato, assim como reapresenta Oswald, o Coelho aos fãs. 4. Age of Wonders 4 Um dos grandes games de estratégia 4X da atualidade, Age of Wonders 4 permite que você crie e administre um verdadeiro império. Porém, desta vez, o jogador tem de defender seu povo de feiticeiros que desejam atuar como deuses sobre os mortais. Você pode buscar o jogo grátis deste fim de semana no [object Object] , mas é importante se atentar às exigências para executar o game no PC. Ele não roda em qualquer máquina, já que a recomendação é de ter 16 GB de memória RAM e processadores mais robustos. Os assinantes do Game Pass também podem jogar a experiência. 3. Ball x Pit Lançado pela Devolver Digital em 2025, o viciante Ball x Pit agora está liberado para você desfrutar diretamente de seu XBOX. No roguelite , você terá uma esfera e um exército crescente de inimigos que segue em sua direção. Com mecânicas de gerenciamento, combinações diferentes de habilidades e personagens e muita diversão, um detalhe importante é que será necessário ser assinante do Game Pass para curti-lo. 2. Kingdom Come: Deliverance II Forte candidato ao GOTY de 2025 , Kingdom Come: Deliverance II é um RPG de ação ambientado no Século XV. A aventura, focada em narrativa, te levará a desafiar vários inimigos e a própria realidade para se tornar digno de castelos. Da humildade à realeza, um dos grandes destaques da experiência é o seu pé no realismo — o que torna o jogo grátis deste fim de semana quase um simulador repleto de mecânicas. Você pode jogá-lo no catálogo do [object Object] . 1. 007 First Light Recém-lançado, [object Object] é o primeiro game de James Bond em muito tempo e traz uma história inédita: o caminho de origem do soldado que se tornou o espião mais charmoso e carismático de todos os tempos. O game está disponível de graça para os assinantes da PS Plus Deluxe , dentro dos testes de jogos do serviço. Contudo, a Sony e a IO Interactive “economizaram” e permitem que tenha acesso a apena",
+  "numeros": [],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Profissionais liberais",
+   "Comércio local"
+  ],
+  "dor": "perder oportunidades de engajamento com clientes e diversão.",
+  "angulo": "Mostre como a presença online é fundamental, mesmo em um setor como o de jogos, impactando diretamente no sucesso das vendas e na fidelização.",
+  "gancho": "*Aproveite os jogos grátis deste fim de semana!*",
+  "ideias": [
+   "Descubra os jogos grátis deste fim de semana!",
+   "PAYDAY 3 e mais: jogue sem custo!",
+   "Fique por dentro das novidades do game grátis!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://canaltech.com.br/games/jogos-gratis-fim-de-semana-pay-day-3-007-first-light-e-mais/",
+  "publicadoEm": "2026-11-06T15:33:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Instagram lança app Edits para edição de vídeos",
+  "resumo": "O Instagram lançou o Edits, um app de edição de vídeos para computadores, criando concorrência direta com o CapCut. O novo aplicativo promete facilitar a criação de conteúdos complexos.",
+  "fatos": [
+   "O Instagram lançou o app Edits para MacOS em 06/11/2026.",
+   "O app visa atender projetos de vídeo mais complexos aproveitando telas maiores.",
+   "A versão para desktop inclui músicas licenciadas e geração de legendas automáticas.",
+   "Os criadores podem personalizar atalhos de teclado e importar arquivos de outros softwares.",
+   "Os vídeos editados no Edits para desktop podem ser publicados diretamente no Instagram."
+  ],
+  "explicacao": [
+   "A introdução do Edits é uma resposta à popularidade do CapCut entre criadores de conteúdo desde 2021.",
+   "A Meta busca facilitar experiências mais sofisticadas de edição, permitindo aos usuários criar sem limitações de dispositivos móveis.",
+   "O app suporta publicações em várias plataformas, oferecendo exportações em 4K e sem marca d'água."
+  ],
+  "materia": "06/11/2026 16h18 Atualizado 06/11/2026 16h18 O Instagram anunciou na quinta-feira a chegada de seu app de edição de vídeos curtos, Edits, para computadores com sistema operacional MacOS. A versão foi desenvolvida para projetos de vídeo mais complexos, a fim aproveitar os benefícios da tela maior, mouse e teclado, destaca a empresa. O aprimoramento coloca o aplicativo do Instagram numa posição direta de concorrência com o CapCut, aplicativo de edição da ByteDance, dona do TikTok. O lançamento da Meta vem para desafiar o CapCut, que já é popular entre criadores de conteúdo desde 2021, e está disponível tanto para Windows quanto Mac, segundo informações do TechCrunch. A rede social informou que a nova versão do aplicativo para inclui uma músicas, efeitos sonoros e de vídeo licenciados e isentos de royalties, além da geração legendas automáticas em vários idiomas. Além disso, os estilos de áudio e texto salvos pelos criadores no aplicativo para celular podem ser sincronizados com o aplicativo para computador. Os usuários também podem personalizar atalhos de teclado ou importá-los de outros softwares de edição para terem uma maior familiaridade com o app. O Edits para computador também inclui uma linha do tempo de edição completa com várias faixas, quadros-chave para transições, formas de onda de áudio para cortes precisos, de respiração e muito mais. Além disso, os criadores podem importar seus próprios arquivos. “Muitos criadores descreveram a mesma situação para nós: um projeto fica grande demais para o celular”, disse Brett Westervelt, chefe da equipe de Edição, em uma publicação no blog. “Você tem uma dúzia de clipes rolando, está tentando cortar o vídeo na batida certa e seu polegar cobre a parte da linha do tempo que você precisa ver. Se seu trabalho está crescendo, suas ferramentas precisam crescer junto. Estamos ampliando o aplicativo para lidar com seus projetos mais ambiciosos no computador.” Uma das vantagens é a possibilidade dos criadores poderem publicar diretamente do Edits para desktop no Instagram, com recursos nativos como marcação e localização integrados. A empresa afirma que isso elimina a série de etapas para publicar um vídeo. O Instagram diz que as edições serão compatíveis para vídeos tanto na vertical quanto na horizontal, com exportações sem marca d'água e em resolução 4K para compartilhamento em diversas plataformas ou uso pessoal. Sem previsão de lançamento para Windows, a empresa planeja realizar atualizações semanais para aprimorar o editor para desktop, e está trabalhando para possibilitar que os criadores editem de forma integrada um projeto no desktop e no celular. A rede social também afirmou que continuará a expandir o aplicativo Edits para celular, que já conta com mais de 50 milhões de criadores de conteúdo. Memecoin caiu a US$ 1,12, depois de ter superado US$ 73 no auge, e acumula desvalorização de mais de 98% Democratas conquistaram espaço no Congresso e em governos estaduais, ampliando a pressão por regras mais rígidas para a construção de data centers e o setor de inteligência artificial nos Estados Unidos ByteDance iniciou conversas para uma unidade fora do Complexo do Pecém, com porte semelhante ao projeto de R$ 55 bilhões já em construção no estado, segundo a Bloomberg Rede social estende seu editor de vídeos gratuito para desktop com novas ferramentas avançadas; até o momento o aplicativo está disponível apenas para dispostivos com MacOS Invasores exploraram um recurso da Ethereum criado para facilitar o uso de carteiras digitais e conseguiram movimentar dezenas de criptomoedas de uma vez, reduzindo o tempo para que a corretora reagisse Segundo a Justiça americana, grupo clonava vozes e imagens de executivos para convencer funcionários a autorizar transferências e depois convertia o dinheiro em criptomoedas. A Agility, fabricante do Digit, oferece o robô por assinatura e também permite a compra do equipamento por cerca de R$ 1 milhão Empresa do grupo Itaú Unibanco alcançou o nível Sele",
+  "numeros": [
+   {
+    "valor": "50 milhões",
+    "rotulo": "criadores de conteúdo utilizando o Edits para celular"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "temor de ficar para trás em ferramentas de edição",
+  "angulo": "Com o lançamento do Edits, os empresários precisam considerar a importância de ter uma presença online robusta, para não perder oportunidades em um cenário competitivo.",
+  "gancho": "Conheça o novo *app que pode transformar* seus vídeos!",
+  "ideias": [
+   "Edite como um profissional com Edits!",
+   "O que o novo Edits significa para você?",
+   "Tornar-se um criador nunca foi tão fácil!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/11/instagram-lanca-versao-do-app-edits-concorrente-do-capcut-para-computador.ghtml",
+  "publicadoEm": "2026-11-06T16:18:36-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "WhatsApp usa IA para otimizar fotos e Status",
+  "resumo": "O WhatsApp implementou uma nova ferramenta de IA que ajusta fotos para tela cheia, eliminando bordas pretas. Uma inovação que pode mudar a forma de compartilhar conteúdo visual.",
+  "fatos": [
+   "WhatsApp lançou uma ferramenta de IA para expandir fotos e evitar bordas pretas.",
+   "O recurso adapta imagens ao formato 9:16, ideal para Status e conteúdos em tela cheia.",
+   "A funcionalidade permite ao usuário ver uma prévia antes de compartilhar a imagem.",
+   "O editor oferece a opção de desfazer ou gerar novas bordas até encontrar o resultado desejado.",
+   "O lançamento é gradual e começou com usuários do WhatsApp Beta para Android e TestFlight no iOS."
+  ],
+  "explicacao": [
+   "A nova ferramenta de IA foi desenvolvida para melhorar a experiência de compartilhamento de fotos no WhatsApp.",
+   "Ela analisa a imagem original e gera elementos adicionais para preencher as bordas, eliminando a necessidade de outros aplicativos.",
+   "A expectativa é que mais usuários tenham acesso à função nos próximos dias, facilitando a criação de conteúdos visuais melhores."
+  ],
+  "materia": "O WhatsApp começou a liberar uma ferramenta de inteligência artificial que expande fotos para preencher a tela inteira , sem deixar bordas pretas na parte superior e inferior. O recurso utiliza a Meta AI para gerar novos elementos ao redor da imagem original e adaptá-la ao formato 9:16, usado nos Status e em outros conteúdos em tela cheia. A novidade fica disponível no editor de imagens do aplicativo , na área de filtros e efeitos. Ao selecionar a opção de expansão, a Meta AI analisa os detalhes da fotografia e cria uma continuação da cena nas bordas. A ferramenta funciona tanto no envio de fotos em conversas comuns quanto nas atualizações de Status. O usuário pode conferir o resultado antes de compartilhar a imagem. O editor mostra uma prévia da versão criada pela IA e oferece a opção de desfazer a alteração caso o resultado não fique como esperado. Também é possível gerar uma nova borda até encontrar uma versão satisfatória. A opção de expansão aparece apenas quando a imagem selecionada está em um formato incompatível com a proporção 9:16 . Por isso, as fotos quadradas ou horizontais são as mais indicadas para testar a novidade. Com o recurso, o WhatsApp também busca evitar que o usuário recorra a aplicativos externos de edição para redimensionar fotos antes do compartilhamento. A ferramenta está sendo liberada gradualmente e ainda não chegou a todos os usuários. A distribuição começou pelo WhatsApp Beta para Android, na versão 2.26.44.8, e agora também alcança participantes do programa TestFlight no iOS, com a versão beta 26.44.10.16. Apesar da prioridade para quem utiliza as versões de teste, algumas pessoas com a versão estável mais recente do WhatsApp para iPhone também já conseguem acessar o recurso. A expectativa é que a Meta amplie a disponibilidade da ferramenta nas próximas semanas. Se você gostou do conteúdo, talvez também se interesse por conferir “ Como conversar com a Meta AI? Conheça 5 prompts úteis para o chatbot ”.",
+  "numeros": [
+   {
+    "valor": "9:16",
+    "rotulo": "formato ideal para Status"
+   },
+   {
+    "valor": "2.26.44.8",
+    "rotulo": "versão beta do WhatsApp para Android"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de engajamento por imagens de baixa qualidade",
+  "angulo": "Com a nova funcionalidade, empresários podem aprimorar a visibilidade de seus produtos no WhatsApp, impulsionando o engajamento e as vendas.",
+  "gancho": "Descubra como *melhorar suas fotos no WhatsApp*",
+  "ideias": [
+   "Novidade do WhatsApp: como usar a IA",
+   "Otimize suas fotos com a nova ferramenta",
+   "Impulsione seu Status com fotos perfeitas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://canaltech.com.br/inteligencia-artificial/whatsapp-comeca-a-usar-ia-para-completar-fotos-e-evitar-bordas-pretas-em-tela-cheia/",
+  "publicadoEm": "2026-11-06T17:06:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A necessidade de entender o consumidor 60+ no mercado",
+  "resumo": "O público 60+ é diverso e demanda produtos além da saúde. As marcas precisam redefinir suas estratégias para atender essas diferentes expectativas.",
+  "fatos": [
+   "Empresas ainda veem o consumidor 60+ como um grupo homogêneo e limitado à saúde.",
+   "Iniciativa Prateados identificou 15 perfis distintos entre consumidores 60+. ",
+   "O mercado oferece muitos produtos para a longevidade, mas pouco para lazer e bem-estar.",
+   "As marcas falham em reconhecer a diversidade de interesses e comportamentos deste grupo.",
+   "A assistir à IA Cora no Prateados é um exemplo de adaptação tecnológica às necessidades do público."
+  ],
+  "explicacao": [
+   "A economia da longevidade traz novos desafios para as marcas, que devem entender as particularidades do público 60+.",
+   "As empresas devem superar a visão estereotipada e desenvolver serviços que atendam ao bem-estar e experiências.",
+   "A escuta ativa e a adaptabilidade tecnológica são essenciais para a criação de experiências digitais relevantes."
+  ],
+  "materia": "O consumidor com mais de 60 anos está longe de representar um público homogêneo. Seus interesses, hábitos e expectativas variam tanto quanto os de qualquer outra geração. Ainda assim, muitas empresas continuam associando o envelhecimento principalmente à saúde, aos cuidados e à dependência. É justamente essa visão limitada que o Prateados, iniciativa fundada por Ana Boyadjian, busca superar ao apostar em experiências, lazer e convivência. Na fase de testes da plataforma, a equipe identificou 15 perfis diferentes de pessoas 60+. A descoberta revelou a diversidade de comportamentos e reforçou a necessidade de desenvolver produtos e serviços que respeitem as particularidades desse público. Afinal, viver mais também significa continuar fazendo escolhas, construindo relações e descobrindo interesses . A experiência também levou a mudanças no desenvolvimento tecnológico do Prateados . Após observar o comportamento dos participantes, a equipe substituiu um personagem tridimensional robotizado por Cora, uma assistente de voz baseada em Inteligência Artificial (IA). A decisão ilustra como a escuta ativa pode contribuir para experiências digitais mais acessíveis e intuitivas. Em entrevista à Consumidor Moderno , Ana Boyadjian discute as oportunidades da economia da longevidade, os erros da publicidade e o papel das famílias na preservação da autonomia. Para a empreendedora, o desafio das marcas não é apenas reconhecer o potencial econômico dessa geração, mas compreender seus desejos e projetos de vida. Consumidor Moderno: O que as marcas ainda não entenderam sobre o consumidor 60+? Ana Boyadjian: Acho que existe uma oportunidade interessante de olhar menos para a idade e mais para o comportamento. É um público diverso nos interesses, nos hábitos de consumo e até na maneira de se relacionar. Talvez o desafio seja justamente ampliar essa escuta e compreender que estamos falando de pessoas que continuam fazendo escolhas, descobrindo interesses e construindo novos projetos de vida. CM: O que vocês descobriram na fase de testes do Prateados que mais contrariou as expectativas sobre esse público? Ana Boyadjian : Uma das coisas que mais nos surpreendeu foi a diversidade de perfis que encontramos. Durante a nossa pesquisa, identificamos 15 personas diferentes, praticamente 60 tons de prateados! E olha que estamos falando de pessoas de uma mesma faixa etária. São interesses, hábitos, comportamentos e expectativas muito diferentes. Acho que essa foi uma das descobertas mais interessantes, porque ainda existe uma tendência de olhar para o público 60+ como se fosse um grupo homogêneo. E a nossa experiência mostrou justamente o contrário: nenhum prateado é igual ao outro. CM: Quais necessidades de consumo das pessoas 60+ ainda são pouco atendidas pelo mercado brasileiro? Ana Boyadjian : Existe uma oferta bastante ampla de produtos e serviços relacionados à sobrevida, aquilo que costumo chamar de “economia da fralda geriátrica”. Estamos falando de home care, produtos milagrosos para dores, cuidados e tantas outras soluções que, em muitos casos, são fundamentais e até vitais. Mas não podemos olhar só para essa demanda. Existe outra dimensão da longevidade que ainda é pouco explorada pelo mercado: a do bem-estar, do lazer, da diversão e das experiências. Durante nossa pesquisa com os Prateados, percebemos o quanto essa geração tem desejos e interesses relacionados à vida ativa, às descobertas e à convivência. Acho que existe uma oportunidade enorme para as marcas ampliarem esse olhar e investirem não apenas em soluções para viver mais, mas também para viver melhor. CM: Quais são hoje as principais barreiras enfrentadas pelo consumidor 60+ nas jornadas digitais das empresas? Ana Boyadjian : Acho importante reconhecer que existem diferentes níveis de familiaridade com a tecnologia entre pessoas 60+. E, muitas vezes, as barreiras estão menos na capacidade do usuário e mais na maneira como a experiência digital foi desenhada . Ficamos mais de três meses es",
+  "numeros": [
+   {
+    "valor": "15",
+    "rotulo": "perfils diferentes de consumidores 60+ identificados"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de oportunidades ao ignorar a diversidade de consumo",
+  "angulo": "Esta situação evidencia a necessidade de planejamento e gestão de marketing personalizada que atenda ao consumidor 60+.",
+  "gancho": "*Entenda o consumidor 60+* para não ficar para trás",
+  "ideias": [
+   "Como se adaptar ao consumidor 60+",
+   "Desmistificando o público sênior: O que as marcas precisam saber",
+   "A economia da longevidade: oportunidades e desafios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://consumidormoderno.com.br/consumidor-60-prateados/",
+  "publicadoEm": "2026-11-06T17:11:03-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-07"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Entenda como datas sazonais afetam seu negócio",
   "resumo": "O planejamento de campanhas para datas comemorativas deve começar pela análise de comportamento do consumidor. Isso pode otimizar suas vendas e evitar desperdícios de recursos.",
   "fatos": [
@@ -340,6 +720,470 @@
   "publicadoEm": "2026-11-06T12:12:34-03:00",
   "data": "2026-11-06",
   "id": "2026-11-06-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Como o tempo de contribuição impacta sua aposentadoria",
+  "resumo": "O valor da aposentadoria do INSS varia de acordo com o tempo de contribuição. Mesmo com salários médios iguais, a diferença pode ser significativa entre trabalhadores com 25 e 40 anos de contribuição.",
+  "fatos": [
+   "Trabalhadores com média de R$ 4.000 podem receber de R$ 2.800 a R$ 4.000 de aposentadoria, dependendo do tempo de contribuição.",
+   "Um homem com 25 anos de contribuição recebe 70% da média, totalizando R$ 2.800.",
+   "Outro homem que contribuiu por 40 anos pode alcançar 100% da média, ou R$ 4.000.",
+   "Essa diferença resulta em R$ 14.400 a menos ao longo de 12 meses para quem contribuiu menos.",
+   "A fórmula de cálculo está na Reforma da Previdência de 2019 e usa 100% dos salários desde julho de 1994."
+  ],
+  "explicacao": [
+   "O cálculo do INSS considera o tempo de contribuição, influenciando diretamente no valor da aposentadoria.",
+   "Trabalhadores com a mesma média salarial podem ter aposentadorias diferentes; isso ocorre pela aplicação de percentuais que sobem com mais anos de contribuição.",
+   "A regra geral exige mínimo de 15 a 20 anos de contribuição para aumento percentual, o que impacta o quanto se recebe no final.",
+   "Esse padrão se aplica mais acentuadamente para homens e mulheres, onde os percentuais começam a se diferenciar ao ultrapassar determinados períodos.",
+   "Além disso, regras de transição também afetam o momento e o valor da aposentadoria, sendo importante planejar com antecedência."
+  ],
+  "materia": "O tempo de contribuição influencia diretamente o valor da aposentadoria do INSS. Trabalhadores com a mesma média salarial podem receber benefícios diferentes (Divulgação) Dois trabalhadores podem chegar à aposentadoria com a mesma média de salários e, ainda assim, receber valores bastante diferentes do Instituto Nacional do Seguro Social (INSS). Em uma simulação com média contributiva de R$ 4.000, um homem com 25 anos de contribuição teria um benefício calculado em R$ 2.800, enquanto outro, com 40 anos, alcançaria R$ 4.000. A diferença seria de R$ 1.200 por mês, mesmo sem qualquer alteração na média salarial utilizada. O cálculo segue as regras da Previdência Social, detalhadas em reportagem do portal Previdenciarista , que explica como o histórico de contribuições influencia o valor das aposentadorias previstas para 2027. A fórmula geral considera a média dos salários registrados ao longo da vida profissional e aplica um percentual que pode aumentar conforme os anos de contribuição. A diferença chama atenção porque muita gente acredita que a aposentadoria será equivalente ao último salário recebido antes de deixar o trabalho. Entretanto, o INSS utiliza critérios próprios para calcular o benefício, e o resultado pode ficar abaixo da remuneração que o trabalhador tinha na ativa. Além disso, duas pessoas que contribuíram sobre valores semelhantes podem ter aposentadorias diferentes, dependendo do tempo contribuído e da regra previdenciária aplicável. A explicação está na fórmula de cálculo estabelecida pela Reforma da Previdência de 2019. Na regra geral, o INSS considera a média de 100% dos salários de contribuição desde julho de 1994, ou desde o início das contribuições, quando posterior. Esses valores são atualizados monetariamente para compor a média utilizada no cálculo. Depois, o instituto aplica um percentual inicial de 60%. O percentual aumenta dois pontos percentuais por ano que ultrapassar determinados períodos de contribuição. Para as mulheres, o acréscimo começa após 15 anos. Para os homens, após 20 anos. Isso significa que a mesma média salarial pode produzir resultados diferentes, conforme o histórico previdenciário. Para entender a diferença, considere dois trabalhadores com média contributiva hipotética de R$ 4.000. O primeiro é um homem que completou 25 anos de contribuição. Pela fórmula geral, ele recebe 60% da média, mais 10 pontos percentuais pelos cinco anos que ultrapassaram o limite de 20 anos. O resultado é 70% de R$ 4.000, equivalente a R$ 2.800. Já um homem com 40 anos de contribuição acumula 40 pontos percentuais adicionais, alcançando 100% da média. Nesse caso, o cálculo resulta em R$ 4.000. A diferença mensal entre os dois exemplos é de R$ 1.200. Em 12 pagamentos, isso representa R$ 14.400 de diferença, sem considerar o décimo terceiro salário. A comparação demonstra o peso do tempo de contribuição no cálculo previdenciário. Entretanto, os valores são ilustrativos. A concessão da aposentadoria também depende do cumprimento dos requisitos legais. A tabela abaixo considera uma média contributiva hipotética de R$ 4.000 e utiliza a fórmula geral de cálculo. Os exemplos mostram que, com o mesmo tempo de contribuição e a mesma média, homens e mulheres podem alcançar percentuais diferentes na fórmula geral. Isso acontece porque os dois pontos percentuais adicionais começam a ser contabilizados após 15 anos para mulheres e 20 anos para homens. É importante observar que a tabela apresenta apenas resultados matemáticos. Ela não significa que qualquer trabalhador com esses períodos já poderá se aposentar em 2027. A idade, a carência e as regras de transição precisam ser analisadas separadamente. Além disso, algumas modalidades de aposentadoria utilizam critérios próprios de cálculo. Uma consequência da fórmula geral é que as mulheres podem alcançar 100% da média contributiva com menos anos de contribuição. Para isso, são necessários 35 anos, considerando a aplicação dos dois pontos percentuais adicionais após os",
+  "numeros": [
+   {
+    "valor": "2.800",
+    "rotulo": "aposentadoria com 25 anos de contribuição"
+   },
+   {
+    "valor": "4.000",
+    "rotulo": "aposentadoria com 40 anos de contribuição"
+   },
+   {
+    "valor": "14.400",
+    "rotulo": "diferença anual para aposentadoria menor"
+   }
+  ],
+  "fonte": "Diário do Litoral",
+  "categoria": "Previdência",
+  "publico": [
+   "Aposentados",
+   "Autônomos",
+   "CLT",
+   "Profissionais liberais",
+   "Jovens"
+  ],
+  "dor": "medo de não ter uma aposentadoria digna",
+  "angulo": "Entender como o tempo de contribuição afeta sua aposentadoria pode motivar você a buscar outras formas de geração de renda.",
+  "gancho": "A *aposentadoria depende* do seu tempo de contribuição",
+  "ideias": [
+   "O que você precisa saber sobre sua aposentadoria",
+   "Como garantir um valor melhor na aposentadoria",
+   "Diferenças salariais na aposentadoria do INSS"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://www.diariodolitoral.com.br/nacional/brasil/inss-pode-pagar-r-2-800-ou-r-4-000-de-aposentadoria-em-2027-para-quem-teve-a-mesma-media-salarial-dependendo-dos-anos-de-contribuicao/",
+  "publicadoEm": "2026-11-06T16:04:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo perdoa dívidas de 3,6 milhões de MEIs",
+  "resumo": "O governo anunciou a anistia de dívidas para 3,6 milhões de Microempreendedores Individuais. É importante ficar atento às regras para garantir o benefício e alavancar os negócios.",
+  "fatos": [
+   "3,6 milhões de MEIs foram beneficiados pela anistia de dívidas.",
+   "As regras para o perdão de dívidas precisam ser seguidas para a obtenção do benefício.",
+   "O programa visa ajudar os empreendedores a se reerguerem financeiramente."
+  ],
+  "explicacao": [
+   "A medida busca aliviar a pressão econômica sobre os microempreendedores, permitindo que retomem suas atividades sem o peso das dívidas.",
+   "Com o perdão das dívidas, os MEIs podem reinvestir em seus negócios e melhorar sua situação financeira.",
+   "Aprender sobre o mercado financeiro pode ser uma alternativa para os MEIs se protegerem contra futuras quedas no rendimento."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Página1News",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "medo de não conseguir se reerguer financeiramente",
+  "angulo": "Entender o mercado financeiro é um passo importante para a autonomia financeira e segurança em negócios, além de depender menos de apoio governamental.",
+  "gancho": "descubra como *não depender apenas de dívidas*",
+  "ideias": [
+   "Como a anistia de dívidas afeta seu negócio?",
+   "Regras que MEIs devem saber sobre a anistia",
+   "Empreender sem dívidas: o que muda?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://pagina1news.com.br/governo-perdoa-dividas-de-36-milhoes-de-meis-veja-as-regras-para-garantir-o-beneficio/",
+  "publicadoEm": "2026-11-06T16:45:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "MEXC é bloqueada nos EUA por evasão de sanções",
+  "resumo": "A corretora MEXC sofreu bloqueio nos EUA por facilitar transações ilícitas. Impactos podem ser sentidos por usuários e stakeholders no mercado de criptomoedas.",
+  "fatos": [
+   "A corretora MEXC foi bloqueada pelo Tesouro dos EUA por facilitar transações de US$ 16 bilhões.",
+   "As transações estavam ligadas a entidades no Irã, Rússia e Coreia do Norte.",
+   "A MEXC é considerada uma preocupação principal de lavagem de dinheiro relacionada à Rússia.",
+   "Cerca de US$ 1,5 bilhão em transações foram diretas com a Rússia, incluindo US$ 232 milhões dos EUA.",
+   "A MEXC teve seu acesso ao sistema financeiro dos EUA encerrado devido à deficiências nos controles anti-lavagem de dinheiro."
+  ],
+  "explicacao": [
+   "O bloqueio da MEXC ocorre em um contexto de rigor regulatório sobre criptomoedas nos EUA.",
+   "As ações do Tesouro visam proteger o sistema financeiro de atividades ilícitas, impactando a operação da corretora.",
+   "Para traders e usuários, isso gera incertezas sobre a segurança e a confiabilidade das plataformas de criptoativos.",
+   "A situação reforça a necessidade de regulamentação e compliance nos negócios de criptomoedas, impactando futuros investimentos.",
+   "Com mais de US$ 1 bilhão em transações diárias, o bloqueio pode afetar significativamente o mercado em diversas regiões."
+  ],
+  "materia": "Publicado em 6 de novembro de 2026 às 17h50 . A corretora de criptomoedas asiática MEXC teve seu acesso ao sistema financeiro dos Estados Unidos bloqueado por supostamente ter \"facilitado\" pelo menos US$ 16 bilhões em transações ilícitas ligadas a entidades em Irã , Coreia do Norte e Rússia . As operações teriam possibilitado, entre outras coisas, a realização de cibercrimes. Um comunicado do Tesouro dos EUA afirma que a empresa diz manter uma política de identificação de clientes e anti-lavagem de dinheiro, mas ainda assim, deficiências nos seus controles permitiram transações para jurisdições e indivíduos sancionados. O Tesouro norte-americano afirma que esses valores incluem US$ 1,5 bilhão em transações para a Rússia , sendo que US$ 232 milhões vieram de operações diretas com os EUA, o que tornaria a exchange a \"principal preocupação de lavagem de dinheiro em termos de conexões com finança ilícitas russas\". A MEXC global foi fundada em 2018 e processa mais de US$ 1 bilhão em transações diárias, mantendo US$ 5 bilhões em reservas. Procurada pela EXAME, a corretora não respondeu imediatamente a um pedido de comentário. No Brasil, a MEXC é uma das 134 empresas que pediu autorização ao Banco Central para se tornar uma prestadora de serviços de ativos virtuais (PSAV) regulada no país. Siga o Future of Money nas redes sociais: Instagram | X | YouTube | Tik Tok De bancos como BTG, Itaú e Bradesco a empresas criptonativas como Binance, OKX, Coinbase e Bitget, mais de 100 companhias se submeteram ao processo de licença Criptomoedas sofrem com uma aversão a risco generalizada a partir da queda de ações ligadas ao setor de tecnologia e inteligência artificial Compra e venda de criptoativos continua no ar, mas a área de transferências sem passar por real está \"temporariamente indisponível\" Empresário falou sobre como a criptomoeda pode oferecer defesa de capital e também tratou dos riscos atrelados a inteligência artificial e computação quântica",
+  "numeros": [
+   {
+    "valor": "US$ 16 bilhões",
+    "rotulo": "transações facilitadas"
+   },
+   {
+    "valor": "US$ 5 bilhões",
+    "rotulo": "reservas da MEXC"
+   },
+   {
+    "valor": "US$ 1,5 bilhão",
+    "rotulo": "transações para a Rússia"
+   },
+   {
+    "valor": "US$ 232 milhões",
+    "rotulo": "transações diretas com os EUA"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "perda de acesso a serviços financeiros e possíveis prejuízos",
+  "angulo": "Com as mudanças no cenário das criptomoedas, depender apenas de salários está cada vez mais arriscado. Aprender sobre o mercado pode ser um caminho seguro para diversificação de renda.",
+  "gancho": "os riscos da *evolução das criptos*",
+  "ideias": [
+   "Criptomoeda: uma nova realidade?",
+   "O impacto do bloqueio da MEXC",
+   "Como proteger seu investimento em cripto"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://exame.com/future-of-money/corretora-cripto-mexc-e-bloqueada-nos-eua-por-facilitar-evasao-de-sancoes/",
+  "publicadoEm": "2026-11-06T14:50:40-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: Audiência marcada pelo STF",
+  "resumo": "O STF discute o fim da escala 6x1 em audiência marcada para 10 de outubro, com representantes de diversas entidades. A transição traz impactos diretos para trabalhadores e empresários.",
+  "fatos": [
+   "A audiência sobre o fim da escala 6x1 acontece no dia 10 de outubro de 2023.",
+   "O ministro Flávio Dino é responsável pela convocação da reunião no STF.",
+   "Estarão presentes representantes de entidades empresariais e centrais sindicais.",
+   "A transição da jornada de trabalho ocorrerá em duas etapas, com a primeira começando em 16 de dezembro de 2026.",
+   "O limite semanal de trabalho passará de 44 para 42 horas na primeira fase."
+  ],
+  "explicacao": [
+   "A discussão foi solicitada pela Confederação Nacional do Comércio, que questiona a adaptação das empresas às novas regras.",
+   "O impacto da mudança afetará diretamente CLT e autônomos que dependem de escalas definidas.",
+   "As empresas precisam se preparar para renegociações e treinamentos para se adequarem à nova jornada."
+  ],
+  "materia": "Fim da escala 6×1 – O ministro Flávio Dino, do Supremo Tribunal Federal (STF) , marcou para a próxima terça-feira (10) uma audiência de conciliação para discutir a implementação do fim da escala 6×1. A reunião reunirá representantes de entidades empresariais, centrais sindicais e governo federal, além das advocacias do Senado e da Câmara dos Deputados, na sede do Supremo, em Brasília. A audiência foi determinada no âmbito da Medida Cautelar na Ação Direta de Inconstitucionalidade (ADI) 8.041, apresentada pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). A entidade questiona as regras e o cronograma estabelecidos para a transição do modelo de seis dias de trabalho para um de cinco dias trabalhados e dois de descanso semanal. LEIA: Família processa Google após filha conversar com Gemini sobre suicídio A CNC não contesta diretamente a redução da jornada de trabalho, mas argumenta que a implementação das novas regras exige um período de adaptação para as empresas. A entidade aponta a necessidade de negociação sindical, contratação e treinamento de funcionários, revisão de contratos e adequações nos sistemas de controle de ponto e folha de pagamento. “A redução da jornada e a ampliação do repouso semanal não estão em negociação. O que se examinará, se possível, são aspectos de implementação, matéria que as entidades interessadas reunidas podem equacionar com maior adequação do que decisão judicial proferida sem sua participação”, disse o magistrado. Na decisão, o ministro destacou que as entidades interessadas podem encontrar soluções mais adequadas para a implementação das mudanças por meio do diálogo do que por uma determinação judicial sem a participação dos representantes dos trabalhadores, das empresas e do poder público. O Sindpd-SP (Sindicato dos Trabalhadores em Tecnologia da Informação de São Paulo) estará presente na audiência representado pelo seu presidente Antonio Neto, que participará em nome da Central dos Sindicatos Brasileiros (CSB), entidade a qual também preside. Como será a transição para o fim da escala 6×1? O cronograma aprovado pelo Congresso Nacional prevê a implementação da redução da jornada em duas etapas. A primeira começa em 16 de dezembro de 2026, quando o limite semanal de trabalho passa de 44 para 42 horas. Nessa fase, também será necessário estabelecer um novo acordo para distribuir a jornada de trabalho ao longo de cinco dias da semana. A redução completa, com limite de 40 horas semanais, está prevista para dezembro de 2027. A CNC questiona especialmente o início da primeira etapa, por coincidir com o período de festas de fim de ano, quando as empresas do comércio já organizam suas escalas de trabalho em função do movimento de Natal e Ano Novo. A confederação pede que o STF declare inconstitucional o regime de transição e determine um cronograma que considere o tempo necessário para as adaptações. ACESSE BENEFÍCIOS EXCLUSIVOS NA BEE FENATI A Bee Fenati é uma rede social pensada para a categoria TI. Lá, o profissional de tecnologia troca experiências com colegas de profissão, se mantém atualizado sobre as novas tendências do setor de tecnologia, turbina o seu currículo com cursos e certificações, encontra vagas disponíveis no mercado e ainda ganha descontos e cashback em centenas de grandes marcas parceiras. (Saiba mais) A parceria da Bee Fenati com o Baratão Combustíveis garante até 25% de desconto na hora de abastecer utilizando os cupons exclusivos para sócios e contribuintes dos sindicatos filiados à Fenati. São mais de 3 mil postos credenciados em todo o país! Todos os meses são disponibilizados quatro cupons, que se somam aos descontos do aplicativo. A economia média é de 20% por abastecimento, sendo possível recuperar todo o valor da contribuição ao sindicato em apenas uma compra. Para quem abastece toda semana, a parceria pode equivaler a um tanque grátis no mês! ( Entenda como funciona aqui ) Na Benefícios Rede Bee , o profissional de TI acessa descontos em centenas ",
+  "numeros": [
+   {
+    "valor": "44 para 42",
+    "rotulo": "horas semanais após a primeira etapa"
+   },
+   {
+    "valor": "December 2026",
+    "rotulo": "início da primeira etapa"
+   }
+  ],
+  "fonte": "SINDPD",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "insegurança com redução de jornada e perda de renda",
+  "angulo": "Aprender sobre o mercado financeiro pode ser a solução para diversificar sua renda e não depender apenas da jornada fixa.",
+  "gancho": "*Mudanças no trabalho* e o que você precisa saber",
+  "ideias": [
+   "Impactos da redução da jornada para trabalhadores",
+   "Como o mercado financeiro pode ajudar a enfrentar mudanças",
+   "Desafios das empresas com o fim da escala 6x1"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://sindpd.org.br/2026/11/06/stf-audicencia-fim-da-escala-6-x-1/",
+  "publicadoEm": "2026-11-06T16:08:25-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho: o que esperar?",
+  "resumo": "A partir de dezembro de 2026, a redução da jornada de trabalho exigirá atenção redobrada dos empresários. Entenda como isso impacta sua gestão e planejamento.",
+  "fatos": [
+   "A emenda que altera a jornada de trabalho é a EC nº 141/2026.",
+   "A primeira fase da redução começa em 16 de dezembro de 2026, passando das 44 horas atuais para 42 horas semanais.",
+   "Em 16 de dezembro de 2027, a jornada será reduzida para 40 horas semanais.",
+   "Os empregadores devem garantir dois dias de repouso semanal remunerado, preferencialmente um aos domingos.",
+   "As regras se aplicam igualmente a micro e pequenas empresas, sem tratamento diferente."
+  ],
+  "explicacao": [
+   "A mudança na jornada de trabalho surge como uma resposta às demandas atuais do mercado e visa melhorar a qualidade de vida dos trabalhadores.",
+   "As empresas devem se adaptar às novas regras, que incluem a reorganização das escalas de trabalho e a revisão de acordos coletivos.",
+   "O não cumprimento poderá gerar riscos legais e financeiros, portanto, a preparação antecipada é crucial."
+  ],
+  "materia": "Fim da escala 6x1: CNC esclarece o que muda para empresas a partir de dezembro Divulgaçãotransmissão reuniu os advogados especialistas da Diretoria Jurídica e Sindical (DJS) da Confederação Luciana Diniz e Roberto Lopes, com mediação de Karina PraçaA redução da jornada de trabalho e o fim da escala 6x1 como modelo regular estão entre as mudanças que mais exigirão atenção do empresariado brasileiro nos próximos meses. Para esclarecer os efeitos da Emenda Constitucional (EC) nº 141/2026, a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) realizou, nesta sexta-feira (6), uma live pelo CNC Play, seu canal no YouTube.A transmissão reuniu os advogados especialistas da Diretoria Jurídica e Sindical (DJS) da Confederação Luciana Diniz e Roberto Lopes, que explicaram as alterações, os prazos para adequação e os principais pontos de atenção para os empregadores.Durante a conversa, mediada por Karina Praça, da Gerência Executiva de Comunicação da CNC, os especialistas responderam a perguntas de empresários, representantes de federações, sindicatos e departamentos jurídicos de diferentes regiões do Brasil. Entre os temas tratados estavam a reorganização das equipes, a possibilidade de manutenção do funcionamento do comércio aos sábados, domingos e feriados, os impactos sobre comissões e gorjetas, as regras para micro e pequenas empresas e o papel da negociação coletiva.Logo na abertura, a CNC destacou a urgência da discussão: a primeira etapa da redução da jornada começa em 16 de dezembro de 2026, poucos dias antes do Natal, período de maior movimentação para o comércio e de geração de renda para trabalhadores de diversos segmentos. A entidade entrou com uma atuação no Supremo Tribunal Federal solicitando, entre outras medidas, o adiamento do início da implementação das novas regras.Mudanças começam em dezembro e chegam às 40 horas em 2027Ao explicar o funcionamento da emenda, Luciana Diniz apresentou o cronograma de transição.Atualmente, o limite geral é de 44 horas semanais. A partir de 16 de dezembro de 2026, passa a ser de 42 horas, com a garantia de dois dias de repouso semanal remunerado. Em 16 de dezembro de 2027, o limite será reduzido para 40 horas semanais;A nova regra também estabelece a preservação integral dos salários e dos pisos salariais, sem redução nominal ou proporcional em razão da diminuição da jornada;Outro ponto esclarecido pelos advogados é que os dois dias de descanso não precisam ser consecutivos. Um deles deve ser preferencialmente aos domingos, mas a emenda não determina que as folgas ocorram obrigatoriamente aos sábados e domingos.A escala 5x2 passa a ser a referência geral. Entretanto, a emenda admite, excepcionalmente, outros modelos mediante convenção ou acordo coletivo de trabalho, desde que seja garantida a média de dois repousos remunerados por semana dentro do mesmo mês-calendário e pelo menos uma folga a cada semana de trabalho.Folgas aos domingos e regras específicas para mulheresAs perguntas do público também trataram da obrigatoriedade de uma das folgas ocorrer aos domingos. Luciana Diniz explicou que a emenda estabelece preferência pelo domingo, mas as regras específicas para cada atividade continuam valendo.No comércio em geral, permanece a exigência de repouso dominical ao menos uma vez a cada três semanas, conforme a legislação aplicável.Para as trabalhadoras do comércio, existe ainda a previsão do artigo 386 da Consolidação das Leis do Trabalho (CLT), que estabelece escala de revezamento quinzenal para o descanso aos domingos. A advogada citou decisão da ministra do STF, Cármen Lúcia, sobre o tema e recomendou que os sindicatos incluam cláusulas específicas nas negociações coletivas para tratar da situação de homens e mulheres.Micro e pequenas empresas terão as mesmas regrasUma das perguntas encaminhadas pelos participantes foi sobre a possibilidade de tratamento diferenciado para empresas com equipes reduzidas e menor capacidade de absorver os custos da mudança.Lopes explico",
+  "numeros": [
+   {
+    "valor": "40 horas",
+    "rotulo": "nova carga horária em 2027"
+   },
+   {
+    "valor": "44 horas",
+    "rotulo": "atual carga horária até 2026"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso garantidos por semana"
+   }
+  ],
+  "fonte": "Panrotas",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "perda de controle sobre horas de trabalho e custos",
+  "angulo": "Entender as novas regras é essencial para evitar surpresas e proteger seu negócio no futuro financeiro. Aprender sobre o mercado é uma forma de se adaptar.",
+  "gancho": "A *nova jornada* pode apertar seu bolso!",
+  "ideias": [
+   "O que muda com a nova jornada de trabalho?",
+   "Empresários: como se preparar para 2026",
+   "Entenda a EC nº 141 e prepare sua empresa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/11/fim-da-escala-6x1-cnc-esclarece-o-que-muda-para-empresas-a-partir-de-dezembro_233450.html",
+  "publicadoEm": "2026-11-06T17:36:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impacto no mercado de trabalho",
+  "resumo": "A Fecomércio MG pede para ser 'amigo da Corte' em ação no STF sobre o fim da escala 6x1, destacando o impacto econômico nas empresas de Minas Gerais.",
+  "fatos": [
+   "Fecomércio MG protocolou pedido ao STF em 6/11.",
+   "A ação questiona o fim da jornada de trabalho 6x1 em Minas.",
+   "A ADI foi movida pela Confederação Nacional do Comércio.",
+   "Mudança pode afetar 3,88 milhões de contratos de trabalho.",
+   "Aumento estimado de 9,18% nas folhas de pagamento em Minas.",
+   "O setor de comércio e serviços representa 75,70% da economia mineira."
+  ],
+  "explicacao": [
+   "O pedido da Fecomércio MG visa fornecer dados ao STF sobre a proposta de fim da escala 6x1.",
+   "A emenda constitucional prevê a redução da jornada de trabalho e dois dias de descanso semanal.",
+   "A mudança pode impactar significativamente as micro e pequenas empresas do estado.",
+   "O aumento nos custos trabalhistas pode comprometer a competitividade das empresas locais.",
+   "A participação da Fecomércio é para oferecer uma perspectiva regional no debate."
+  ],
+  "materia": "Com localizações salvas você poderá receber alertas de lugares que você escolheu e da sua atual localização. Compartilhe sua localização para sempre receber alertas locais, independente da sua posição. Para remover uma cidade, selecione o ícone da lixeira. Com localizações salvas você poderá receber alertas de lugares que você escolheu e da sua atual localização. Marco Aurélio Neves Repórter multimídia da editoria de Economia em O TEMPO. Trabalhou no jornal Diário do Comércio, em que atuou nas editorias de Economia, Negócios e Agronegócio. Colaborou ainda com a revista Viver Brasil e Jornal Tudo BH em política, economia, negócios, cultura, comportamento, saúde, gastronomia e turismo. Atuou na comunicação corporativa de empresas como BDMG, Copasa, Grupo Ubec, Vale e Anglo Gold Ashanti. Graduado em jornalismo pela Universidade Federal de Viçosa (UFV). A Federação do Comércio de Bens, Serviços e Turismo de Minas Gerais (Fecomércio MG) protocolou, nesta sexta-feira (6/11), um pedido ao Supremo Tribunal Federal (STF) para atuar como amicus curiae (“amigo da Corte”) na Ação Direta de Inconstitucionalidade (ADI) que questiona pontos da emenda constitucional que estabelece o fim da jornada de trabalho de seis dias com um de descanso semanal, conhecida como escala 6x1. O \"amigo da corte\" é quando um terceiro interessado ingressa em um processo judicial para atuar como um colaborador neutro, para aprimorar o debate, ao fornecer subsídios técnicos, científicos, sociais ou econômicos ao órgão julgador. A ADI foi movida pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e questiona aspectos da transição prevista na emenda sobre o fim da escala 6x1, como a redução da jornada de trabalho, o estabelecimento de dois dias de repouso semanal remunerado e o prazo fixado para a adaptação às novas regras. O processo está sob relatoria do ministro Flávio Dino. Leia mais. Falta de mão de obra e fim da escala 6x1 deverão impulsionar demanda por automação industrial Com o ingresso na ação, a Fecomércio MG pretende subsidiar os ministros do STF com dados técnicos e econômicos de Minas Gerais. De acordo com a entidade, o objetivo é evidenciar os desdobramentos das mudanças sobre a organização dos setores de comércio, serviços e turismo, além de seus reflexos sobre trabalhadores e empresas locais. Ao fundamentar o pedido, a Fecomércio MG apresentou um panorama do setor no estado para dimensionar a abrangência da matéria: Representação: a entidade abrange 54 sindicatos empresariais, 402 categorias econômicas e mais de 750 mil empresas Peso econômico: o setor responde por 75,70% da economia mineira e por 73,30% dos empregos formais do estado Perfil empresarial: cerca de 95% dos estabelecimentos representados são micro e pequenas empresas Mercado de trabalho: a mudança alcança potencialmente 3,88 milhões de contratos de trabalho, sendo que 91,8% dos vínculos atuais registram jornadas superiores a 40 horas semanais Custos trabalhistas: a Fecomércio MG estima aumento médio de 9,18% nas folhas de pagamento em Minas, um índice superior à estimativa nacional, calculada em 6,26%. Competitividade: a entidade aponta o risco de perda de competitividade devido ao aumento dos custos operacionais das empresas brasileiras frente a plataformas internacionais que operam em regime contínuo Na petição, a Fecomércio MG enfatiza o apoio à ação da CNC e destaca que sua intenção é somar uma perspectiva regional ao debate. A entidade pontua que “não pretende contestar, de forma abstrata”, a jornada de 40 horas semanais ou o repouso remunerado de dois dias, mas sim fornecer subsídios sobre os critérios, o prazo de transição e as consequências práticas para a rotina das empresas, as negociações coletivas e a manutenção dos postos de trabalho. O pedido para formalizar a participação da Fecomércio MG como amicus curiae aguarda a análise e decisão do relator da matéria, ministro Flávio Dino. O portal O TEMPO utiliza cookies para armazenar ou recolher informações ",
+  "numeros": [
+   {
+    "valor": "75,70%",
+    "rotulo": "contribuição do setor à economia mineira"
+   },
+   {
+    "valor": "3,88 milhões",
+    "rotulo": "contratos de trabalho afetados"
+   },
+   {
+    "valor": "9,18%",
+    "rotulo": "aumento nas folhas de pagamento estimado"
+   }
+  ],
+  "fonte": "O Tempo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais"
+  ],
+  "dor": "ameaça ao emprego e aumento de custos para empresas",
+  "angulo": "Entender o mercado financeiro pode ajudar a diversificar a renda e enfrentar mudanças do setor tradicional.",
+  "gancho": "O *fim da escala 6x1* e suas consequências",
+  "ideias": [
+   "Como o fim da escala 6x1 pode te afetar?",
+   "Aumento de custos trabalhistas: o que fazer?",
+   "O que significa ser 'amigo da Corte' na economia?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://www.otempo.com.br/economia/2026/11/6/fecomercio-mg-pede-para-ingressar-como-amigo-da-corte-em-acao-no-stf-sobre-fim-da-escala-6x1",
+  "publicadoEm": "2026-11-06T16:55:02-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 muda o comércio de Porto Alegre",
+  "resumo": "A partir de dezembro, o comércio de Porto Alegre implementa acordos que permitem redução da jornada de trabalho. Mudanças impactam custos e operações das empresas, exigindo adaptações.",
+  "fatos": [
+   "A nova convenção foi firmada em 3 de novembro.",
+   "A jornada de trabalho será reduzida de 44 para 42 horas semanais a partir de dezembro.",
+   "Os trabalhadores terão jornada de 8h24min diárias a partir de 16 de dezembro.",
+   "O acordo foi negociado entre mais de 20 sindicatos, patronais e laborais.",
+   "Reajustes salariais de 1% e 1,5% nos pisos salariais foram estabelecidos.",
+   "A implementação da nova escala traz desafios, especialmente para pequenos negócios."
+  ],
+  "explicacao": [
+   "A transição para o fim da escala 6x1 no comércio de Porto Alegre visa melhorar a qualidade de vida dos trabalhadores.",
+   "Os acordos foram feitos para se ajustar ao período de vendas do Natal, permitindo a manutenção da escala 6x1 temporariamente.",
+   "Empresários precisarão adaptar suas operações e custos devido à mudança na jornada de trabalho."
+  ],
+  "materia": "Os trabalhadores e empresas que atuam no comércio de Porto Alegre começarão em dezembro a etapa de transição para o fim da escala 6x1 . Isso porque os sindicatos patronais e laboral entraram em uma nova convenção para a redução progressiva da jornada de trabalho para a classe na Capital. O acordo, firmado no último dia 3 de novembro, prevê a redução da jornada de 44 para 42 horas semanais a partir de dezembro, distribuídas em cinco dias na semana, sem redução salarial. Entretanto, em função da proximidade com o Natal, tradicional período de vendas no comércio, a negociação também previu ajustes que permitem a manutenção da escala 6x1 nas duas semanas que antecedem a data, desde que o empregador conceda os dois dias de descansos semanais remunerados destas duas semanas dentro do mês de dezembro. Na prática, a atual escala de seis dias seguirá válida durante o período, com as folgas sendo adiantadas desde o início do mês. Isso porque a lei prevê o início da escala 5x2 a partir do dia 16 de dezembro, mas a mudança na jornada no comércio da Capital começará já no início do mês, com folgas de dois dias, justamente para adequar as escalas para o período de alta das vendas na proximidade do Natal. A partir do dia 16 de dezembro, a jornada normal diária será de 8h24min, permitindo que as 42 horas sejam distribuídas em cinco dias de trabalho na semana. Já a partir de 16 de dezembro de 2027, a jornada diária normal volta a ser de oito horas diárias, totalizando 40 horas em cinco dias de trabalho. Conforme o presidente do Sindicato dos Empregados no Comércio de Porto Alegre (Sindec-POA) , Nilton Neco Souza da Silva, o acordo é válido para os funcionários que atuam no comércio, em farmácias, em supermercados e outros segmentos. Mais de 20 sindicatos, entre patronais e laboral, participaram das três rodadas de negociação que selaram o acordo. Além das adequações para o fim da escala 6x1, a convenção coletiva também estabeleceu reajustes salariais de 1% de ganho real para a categoria e 1,5% de ganho real nos pisos salariais. O presidente do Sindec-POA destacou ainda que o acordo garante avanços históricos em qualidade de vida, valorização salarial e melhores condições para quem atua no comércio da Capital. “Foi um ganha-ganha, que mostra como a negociação coletiva é importante, pois busca melhorias para todos os lados. O acordo mostra ainda que dá para encarar a redução da jornada sem maiores problemas. Tendo boa vontade de todas as partes, é possível dar esses oito descansos por mês para o trabalhador. Considero que esse foi um saldo muito positivo”, contou Neco. Um dos sindicatos patronais que participaram da negociação foi o Sindicato dos Lojistas do Comércio de Porto Alegre (Sindilojas POA) . Para o presidente da entidade, o empresário Arcione Piva, relatou que a redução da jornada de trabalho causará impacto direto nos custos das empresas e poderá exigir mudanças na operação. “Essa mudança representa mais um desafio para o empreendedor, especialmente para os pequenos negócios, que trabalham com equipes reduzidas e precisarão fazer ajustes significativos na jornada de atendimento ou na recomposição de mão de obra. Estamos conversando com os empresários para ajudá-los a compreender e se adaptar a esse novo cenário”, completou. Veja Também - Mercado gaúcho de veículos registra o melhor acumulado de janeiro a outubro desde 2015 - Reforma tributária exigirá o triplo de capital de giro das empresas nos primeiros 90 dias, alerta Tax Group - Grupo Sinosserra inaugura sexta loja no Estado em 2026 - Mercado gaúcho de veículos registra o melhor acumulado de janeiro a outubro desde 2015 - Reforma tributária exigirá o triplo de capital de giro das empresas nos primeiros 90 dias, alerta Tax Group - Grupo Sinosserra inaugura sexta loja no Estado em 2026 O programa é voltado para mulheres que desejam criar ou profissionalizar um pequeno negócio",
+  "numeros": [
+   {
+    "valor": "44 para 42",
+    "rotulo": "Horas semanais"
+   },
+   {
+    "valor": "1% e 1,5%",
+    "rotulo": "Reajuste salarial"
+   }
+  ],
+  "fonte": "Correio do Povo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Preocupação com a adaptação à nova jornada de trabalho",
+  "angulo": "Entender o mercado financeiro pode oferecer alternativas em um cenário de mudanças no emprego tradicional.",
+  "gancho": "O *fim da escala 6x1* e suas consequências",
+  "ideias": [
+   "Como o fim da escala 6x1 impacta sua renda?",
+   "Adaptações necessárias no comércio: o que considerar?",
+   "Trabalhador e empresário: como enfrentar as mudanças?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://www.correiodopovo.com.br/not%C3%ADcias/economia/sindicatos-chegam-a-acordo-para-o-fim-da-escala-6x1-no-comercio-de-porto-alegre-a-partir-de-dezembro-1.1762482",
+  "publicadoEm": "2026-11-06T16:04:03-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Indústria contesta fim da escala 6x1 no STF",
+  "resumo": "A CNI entrou com uma nova ação no STF contra o fim da escala 6x1, buscando limitar a competência da Justiça do Trabalho na implementação da nova jornada reduzida de trabalho. Essas mudanças podem impactar",
+  "fatos": [
+   "A CNI (Confederação Nacional da Indústria) acionou o STF contra o fim da escala 6x1.",
+   "A nova jornada 5x2, com redução de 44 para 42 horas semanais, deve ser implementada a partir de 16 de dezembro.",
+   "Empresas enfrentam pressão para manter a escala antiga, temendo sanções.",
+   "A CNI argumenta que as decisões da Justiça do Trabalho geram insegurança jurídica.",
+   "O ministro Flávio Dino marcou audiência de conciliação para 10 de outubro entre diferentes partes envolvidas.",
+   "A CNI também questiona regulamentações que ampliam a atuação da Justiça do Trabalho em questões federais."
+  ],
+  "explicacao": [
+   "A ação da CNI reflete a preocupação do setor industrial com as novas regras de jornada de trabalho que podem gerar insegurança econômica.",
+   "A implementação prevista da escala 5x2 requer um entendimento maior entre empresários e órgãos regulatórios.",
+   "A contestação visa garantir que a Justiça do Trabalho não extrapole suas atribuições, promovendo um ambiente de trabalho controlado."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. A CNI (ConfederaÃ§Ã£o Nacional da IndÃºstria ) entrou com uma nova aÃ§Ã£o no STF (Superior Tribunal Federal) contra o fim da escala 6x1 . Desta vez, a confederaÃ§Ã£o pede ao Supremo que limite a competÃªncia da JustiÃ§a do Trabalho e do MPT (MinistÃ©rio PÃºblico do Trabalho) nos processos e fiscalizaÃ§Ãµes que envolvam a implantaÃ§Ã£o da nova escala 5x2 e da jornada reduzida de trabalho. A partir de 16 de dezembro, empresas de todo o paÃ­s deverÃ£o reduzir a carga horÃ¡ria de 44 horas semanais para 42 horas e implantar a escala 5x2, com dois dias de descanso semanal remunerado. A indÃºstria e o comÃ©rcio (CNC) foram ao STF cada uma com ADIs (AÃ§Ãµes Diretas de Inconstitucionalidade) questionando o fim da escala 6x1. Entidades do comÃ©rcio pediram adiamento para dezembro de 2027, mas as companhias industriais querem derrubar a emenda constitucional. Desta vez, alÃ©m da ADI, a CNI entrou com uma ADPF (ArguiÃ§Ã£o de Descumprimento de Preceito Fundamental). A entidade argumenta que o JudiciÃ¡rio trabalhista e o MPT tÃªm invadido indevidamente a competÃªncia federal ao julgar temas regulatÃ³rios, ambientais, sanitÃ¡rios e administrativos no mundo do trabalho. O setor diz ainda que decisÃµes de tribunais trabalhistas tÃªm gerado inseguranÃ§a jurÃ­dica, desorganizando a economia, o que violaria clÃ¡usulas pÃ©treas do juiz natural e da separaÃ§Ã£o de poderes. Para impedir que seja alvo de sanÃ§Ãµes caso mantenha a escala 6x1 , pede uma liminar ao Supremo. A newsletter sobre o mundo jurÃ­dico exclusiva para assinantes da Folha A CNC tambÃ©m fez pedido de liminar para adiar a implantaÃ§Ã£o da escala 5x2, o que foi negado pelo ministro FlÃ¡vio Dino, sorteado relator da aÃ§Ã£o. Ele marcou para terÃ§a-feira (10), audiÃªncia de conciliaÃ§Ã£o entre empresÃ¡rios do comÃ©rcio, centrais sindicais e a AGU (Advocacia-Geral da UniÃ£o), que representa o governo federal em aÃ§Ãµes na JustiÃ§a. Para Dino, derrubar normas de uma emenda constitucional ou mesmo uma emenda aprovada pelo parlamento requer provas robustas de inconstitucionalidade, o que nÃ£o Ã© o caso. Segundo ele, Ã© preciso chegar a um consenso para que a reduÃ§Ã£o da jornada seja feita. Na aÃ§Ã£o, a CNI diz que \"a proteÃ§Ã£o ao meio ambiente laboral nÃ£o pode ser utilizada como fundamento para ampliar indistintamente a competÃªncia da JustiÃ§a do Trabalho sobre matÃ©rias de regulaÃ§Ã£o federal\". \"Ã necessÃ¡rio respeitar a distribuiÃ§Ã£o constitucional de atribuiÃ§Ãµes entre os diferentes ramos do MinistÃ©rio PÃºblico, do JudiciÃ¡rio e da administraÃ§Ã£o pÃºblica\", segundo o diretor JurÃ­dico da confederaÃ§Ã£o, Alexandre Vitorino. \"A ConstituiÃ§Ã£o estabeleceu competÃªncias especÃ­ficas para a JustiÃ§a Federal, a JustiÃ§a do Trabalho e os diferentes ramos do MinistÃ©rio PÃºblico. A preservaÃ§Ã£o desses limites Ã© fundamental para garantir o juiz natural, a seguranÃ§a jurÃ­dica e o respeito Ã s atribuiÃ§Ãµes dos Ã³rgÃ£os responsÃ¡veis pela regulaÃ§Ã£o federal\", diz. A ADPF questiona o artigo 643 da CLT (ConsolidaÃ§Ã£o das Leis do Trabalho), que Ã© anterior Ã ConstituiÃ§Ã£o de 1988, para impedir que sua interpretaÃ§Ã£o seja utilizada como fundamento para atribuir Ã JustiÃ§a do Trabalho competÃªncia sobre a validade de atos e normas da administraÃ§Ã£o pÃºblica. O Ã³rgÃ£o se movimenta antes mesmo que o governo federal, por meio do MinistÃ©rio do Trabalho e Emprego, publique normativa a respeito da implantaÃ§Ã£o da escala 5x2 e da reduÃ§Ã£o da jornada para setores considerados especiais.",
+  "numeros": [
+   {
+    "valor": "42 horas",
+    "rotulo": "nova carga horária semanal"
+   },
+   {
+    "valor": "16 de dezembro",
+    "rotulo": "data de implantação da nova escala"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "A insegurança econômica com a mudança de jornadas",
+  "angulo": "Com as incertezas no trabalho tradicional, aprender sobre o mercado financeiro se torna uma alternativa para garantir renda de forma mais flexível.",
+  "gancho": "A *escala 6x1* está ameaçada!",
+  "ideias": [
+   "Mudança na escala de trabalho: desafios e oportunidades",
+   "Empresários: como a nova jornada pode impactar seu negócio?",
+   "Está pronto para lidar com a nova jornada 5x2?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T18:12:07-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/industria-entra-com-nova-acao-no-stf-contra-fim-da-escala-6x1-e-quer-limitar-justica-do-trabalho.shtml",
+  "publicadoEm": "2026-11-06T17:55:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-06"
  },
  {
   "segmento": "trader",
