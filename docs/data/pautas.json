@@ -1,6 +1,241 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Black Friday e o impacto no trânsito das cidades",
+  "resumo": "O aumento nas compras online na Black Friday traz mais concorrência e desafios de entrega. O trânsito pode ser severamente afetado com a maior circulação de veículos de carga.",
+  "fatos": [
+   "O e-commerce no Brasil deve ter alta de 20% nas vendas durante a Black Friday em comparação ao mesmo período do ano passado.",
+   "Entre janeiro e setembro, foram registrados 1,2 bilhão de pedidos online, um aumento superior a 30% em relação ao ano anterior.",
+   "Paradas irregulares de veículos de carga podem reduzir a velocidade média das vias em até 16%, especialmente em horários de pico.",
+   "A falta de infraestrutura adequada é a principal causa das paradas proibidas, levando a multas de R$ 195,23 e cinco pontos na habilitação.",
+   "Simulações revelaram que ampliar vagas logísticas pode reduzir as paradas ilegais em 64%.",
+   "Atrasos nas entregas foram responsáveis por 25,29% das queixas durante o período promocional anterior."
+  ],
+  "explicacao": [
+   "O aumento das compras online durante a Black Friday gera um volume grande de entregas, impactando diretamente o trânsito nas grandes cidades.",
+   "Sem uma infraestrutura de carga e descarga adequada, motoristas recorrem a paradas irregulares, causando lentidão nas vias.",
+   "As propostas de entrega em horários alternativos visam amenizar esses problemas, mas enfrentam desafios como poluição sonora e disponibilidade do consumidor."
+  ],
+  "materia": "Por Danielle Cassita | 06/11/2026 às 19:00 Quem está de olho na Black Friday para encontrar boas ofertas em itens desejados pode esperar mais um fenômeno: mais trânsito . É que o aumento nas compras virtuais durante o período deve aumentar a circulação de veículos de carga principalmente nos grandes centros urbanos, sobrecarregando o tráfego. De acordo com levantamento do Centro Universitário FEI , paradas irregulares de veículos de carga reduzem em até 16% a velocidade média das vias , especialmente quando os fretes coincidem com os horários de pico. Já a Confi/Neotrust estima que o e-commerce do Brasil tenha alta de 20% nas vendas em comparação com o período entre 26 e 29 de novembro — somente entre janeiro e setembro, foram registrados 1,2 bilhão de pedidos online , quantidade mais de 30% maior que a do ano passado. A falta de áreas exclusivas de carga e descarga é, para especialistas, a raiz das paradas proibidas: sem infraestrutura adequada, os condutores recorrem a acostamentos e faixas de trânsito, conduta classificada pelo Código de Trânsito Brasileiro (CTB) como infração grave , com penalidade de R$ 195,23 e cinco pontos na habilitação . Em contrapartida, simulações em regiões centrais revelam que ampliar vagas logísticas reduz as paradas ilegais em 64% . Entretanto, o gargalo logístico atinge também o consumidor final, já que os atrasos operacionais responderam por 25,29% das queixas registradas no setor durante o período promocional anterior. Como tentativa de reduzir os impactos nas vias principalmente durante o período diurno, ganham força propostas de distribuição em horários alternativos , como o período da madrugada. Contudo, essa operação esbarra em barreiras de poluição sonora em bairros residenciais , além da necessidade de o cliente precisar estar no local para a entrega, a qual seria feita fora do horário comercial. Enquanto o grande dia não chega, aproveite para se preparar com a nossa matéria sobre 11 produtos que devem bater menor preço do ano !",
+  "numeros": [
+   {
+    "valor": "30",
+    "rotulo": "% de aumento nos pedidos online"
+   },
+   {
+    "valor": "20",
+    "rotulo": "% de alta nas vendas"
+   },
+   {
+    "valor": "25,29",
+    "rotulo": "% de queixas por atrasos"
+   },
+   {
+    "valor": "64",
+    "rotulo": "% de redução com mais vagas"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Restaurantes"
+  ],
+  "dor": "O que você perde com entregas atrasadas e trânsito caótico?",
+  "angulo": "Entender como a logística afeta suas vendas pode ser o primeiro passo para se adaptar às demandas de mercado. Investir em adequações é essencial.",
+  "gancho": "Atrasos estarão à vista na *Black Friday*!",
+  "ideias": [
+   "Como o trânsito afeta suas vendas na Black Friday?",
+   "Black Friday: Prepare sua logística para evitar atrasos.",
+   "Infraestrutura de entrega: a chave para o sucesso na Black Friday."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://canaltech.com.br/carros/entregas-da-black-friday-podem-travar-o-transito-nas-grandes-cidades-do-brasil/",
+  "publicadoEm": "2026-11-06T19:00:03-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "PIX fora do ar: impactos nas vendas do comércio",
+  "resumo": "A interrupção do PIX afetou pagamentos e transferências, envolvendo diversos bancos. Isso pode impactar diretamente o comércio e os negócios que dependem de pagamentos eletrônicos.",
+  "fatos": [
+   "No dia 6 de novembro, o sistema do PIX apresentou falhas significativas, afetando quase 10 mil usuários.",
+   "Os problemas mais reportados ocorreram em aplicativos de celular (31%) e pagamentos em caixas (27%).",
+   "Bancos como Bradesco, Santander e Itaú notificaram seus clientes sobre as falhas no serviço.",
+   "O pico das reclamações foi registrado às 19h16, segundo o DownDetector.",
+   "A dificuldade de acesso ao PIX pode causar atrasos nas vendas e receitas para comerciantes."
+  ],
+  "explicacao": [
+   "A falha no sistema do PIX impede que consumidores finalizem compras, afetando assim as vendas do comércio local.",
+   "No dia a dia, essa situação gera frustração nos clientes, que, sem a opção de pagar via PIX, podem desistir de comprar.",
+   "Negócios que dependem de pagamentos eletrônicos precisam estar preparados para tais ocorrências e adaptar sua estratégia."
+  ],
+  "materia": "06/11/2026 20h57 Atualizado 06/11/2026 20h58 No início da noite desta sexta-feira (6), clientes de diversos bancos e fintechs passaram a relatar em grupos e redes sociais que o sistema do Pix não está disponível para realizar transferências e pagamentos. Os problemas mais relatadas foram em aplicativos de celular (31%), pagamentos (27%) e transferências (24%). No site Downdetector, os relatos de dificuldade de acesso saltaram de 17, às 18h40, para quase 10 mil, às 19h16. Bradesco, Santander, Itaú, Caixa e Banco do Brasil estão entre os bancos mencionados com problemas de acesso ao serviço. Na rede X, ex-Twitter, o assunto já é um dos mais comentados, com usuários relatando problemas para pagar nos caixas de mercados e padarias. Bancos como o Itaú e o Bradesco estão conversando com os clientes. Itaú disse que estava ciente do problema e toman do providências, e Bradesco pediu para que tentassem novamente mais tarde. O pico das reclamações aconteceu às 19:16, segundo o DownDetector, que monitora queixas de usuários em todo o mundo; na última contagem, havia 660 pessoas relatando o problema no site Ações isoladas também ocorrem do lado de fora da empresa e por toda a Europa, em protesto contra os dados ambientais e sociais causados pela corrida da IA André Lara Resende se tornou o economista mais comentado no Brasil nos últimos dias por conta de um artigo publicado em setembro e que foi elogiado por membros do PT. Memecoin caiu a US$ 1,12, depois de ter superado US$ 73 no auge, e acumula desvalorização de mais de 98% Democratas conquistaram espaço no Congresso e em governos estaduais, ampliando a pressão por regras mais rígidas para a construção de data centers e o setor de inteligência artificial nos Estados Unidos ByteDance iniciou conversas para uma unidade fora do Complexo do Pecém, com porte semelhante ao projeto de R$ 55 bilhões já em construção no estado, segundo a Bloomberg Rede social estende seu editor de vídeos gratuito para desktop com novas ferramentas avançadas; até o momento o aplicativo está disponível apenas para dispostivos com MacOS Invasores exploraram um recurso da Ethereum criado para facilitar o uso de carteiras digitais e conseguiram movimentar dezenas de criptomoedas de uma vez, reduzindo o tempo para que a corretora reagisse Segundo a Justiça americana, grupo clonava vozes e imagens de executivos para convencer funcionários a autorizar transferências e depois convertia o dinheiro em criptomoedas. A Agility, fabricante do Digit, oferece o robô por assinatura e também permite a compra do equipamento por cerca de R$ 1 milhão",
+  "numeros": [
+   {
+    "valor": "10.000",
+    "rotulo": "usuários afetados pelo PIX"
+   },
+   {
+    "valor": "31%",
+    "rotulo": "problemas em aplicativos de celular"
+   },
+   {
+    "valor": "27%",
+    "rotulo": "problemas em pagamentos"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "vendas paradas e clientes frustrados sem opções de pagamento",
+  "angulo": "Entender como falhas no sistema de pagamentos afetam suas vendas é essencial. O planejamento e a gestão de redes ajudam a mitigar perdas.",
+  "gancho": "*PIX fora do ar* e o impacto nas vendas!",
+  "ideias": [
+   "Como falhas no PIX podem afetar suas vendas?",
+   "O que fazer quando o PIX sai do ar?",
+   "Preparando seu negócio para imprevistos financeiros!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://epocanegocios.globo.com/futuro-do-dinheiro/noticia/2026/11/pix-fora-do-ar-10-mil-pessoas-reclamam-e-dizem-que-nao-conseguem-fazer-pagamentos.ghtml",
+  "publicadoEm": "2026-11-06T20:57:12-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Reforma Tributária e o atraso tecnológico dos escritórios contábeis",
+  "resumo": "Mais da metade dos escritórios contábeis ainda não se preparou para as mudanças que começam em 2027, destacando uma necessidade urgente de adaptação em tecnologia e processos.",
+  "fatos": [
+   "52,9% dos 577 escritórios entrevistados ainda estão nos estágios iniciais de adaptação à Reforma Tributária.",
+   "Apenas 8% começaram a calcular os custos para implementar as novas regras.",
+   "74% dos profissionais ainda não formaram grupos de trabalho para estudar as mudanças.",
+   "51% projetam uma redução moderada ou significativa no fluxo de caixa de seus clientes.",
+   "85,2% demonstram interesse em ferramentas de simulação e cálculo tributário."
+  ],
+  "explicacao": [
+   "A Reforma Tributária exige adaptações significativas nos processos contábeis, implicando na necessidade de utilizar tecnologia avançada.",
+   "Com 70% dos profissionais sem calcular os custos da transição, a urgência de preparação é clara.",
+   "As novas regras impactarão diretamente o fluxo de caixa das empresas, exigindo que escritórios se adaptem rapidamente."
+  ],
+  "materia": "A menos de dois meses de 2027, quando novas etapas da Reforma Tributária começam a entrar em vigor, mais da metade dos profissionais contábeis brasileiros ainda está nos estágios iniciais de preparação para as mudanças. É o que mostra a terceira edição do relatório Reforma Tributária do Brasil 2026, elaborado pelo Thomson Reuters Institute. Segundo o levantamento, 52,9% dos 577 entrevistados afirmam que seus escritórios ainda estão em fase inicial de adaptação, enquanto apenas 8% começaram a calcular os custos necessários para implementar as novas regras. O levantamento evidencia uma distância entre a percepção da urgência da reforma e as medidas efetivamente adotadas pelo setor. Cerca de 74% dos profissionais dizem que seus escritórios ainda não formaram grupos de trabalho ou comitês internos para estudar as mudanças. Entre os principais entraves estão a falta de tempo e a concorrência com outras prioridades, apontadas por 36,8% dos entrevistados, além da incerteza sobre a regulamentação, mencionada por 27,3%. A adaptação também envolve uma revisão dos sistemas contábeis, processos internos e projeções financeiras. Apesar da proximidade das próximas etapas da reforma, 70% dos profissionais afirmam que seus escritórios ainda não calcularam quanto custará a transição. Outros 23% dizem não ter intenção de fazer essa estimativa. A preocupação se estende às finanças das empresas atendidas: 51% dos entrevistados projetam uma redução moderada ou significativa no fluxo de caixa dos clientes, enquanto 26% esperam aumento. Um dos fatores de pressão é o ‘split payment’, mecanismo de pagamento segregado que prevê a separação dos tributos no momento da transação comercial. Com isso, os valores referentes à CBS e ao IBS deixam de permanecer temporariamente no caixa das empresas, o que pode reduzir os recursos disponíveis para financiar o capital de giro. A mudança exige que escritórios e companhias antecipem os efeitos da nova sistemática sobre suas operações e projeções financeiras. A complexidade das mudanças também deve ampliar a demanda por serviços especializados. Para 73% dos profissionais ouvidos, a procura por esse tipo de trabalho tende a crescer, sendo que 49% esperam uma expansão significativa. Ao mesmo tempo, apenas 17% acreditam que a reforma tornará as atividades contábeis mais simples, enquanto 55% preveem aumento da complexidade. Nesse cenário, 85,2% demonstram interesse em ferramentas de simulação e cálculo tributário, e 54,1% buscam recursos de inteligência artificial para responder a dúvidas sobre a reforma. A necessidade de incorporar tecnologia à rotina acompanha a pressão por capacitação das equipes: 78,7% consideram o treinamento interno essencial para a transição. Para Marcondes de Borba, líder da Domínio Solutions na Thomson Reuters, a operação manual já não atende às exigências do novo sistema. “Com dois sistemas fiscais operando em paralelo, a rotina contábil não se sustenta mais de forma manual ou olhando apenas para o passado”, afirma. Segundo ele, a tecnologia passa a ter papel estratégico na análise de dados e na simulação de cenários, permitindo que os escritórios orientem clientes sobre fluxo de caixa, margens e formação de preços. Pornô gerado por IA: entenda os perigos por trás do DeepNude O que faz um notebook ser bom? A resposta muda dependendo do que você faz com ele Banco do Brasil caiu? Pix fora do ar atinge usuários nesta sexta-feira (6) ‘Funcionário virtual’: Perplexity lança agente de IA que trabalha 24 horas por dia Falha permite acesso root a servidores Linux ao digitar senha longa",
+  "numeros": [
+   {
+    "valor": "74%",
+    "rotulo": "profissionais sem grupos de trabalho formados"
+   },
+   {
+    "valor": "51%",
+    "rotulo": "projeção de redução no fluxo de caixa"
+   }
+  ],
+  "fonte": "TecMundo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de clientes e aumento de custos operacionais",
+  "angulo": "Enfrentar as mudanças da Reforma Tributária requer planejamento e uso de tecnologia, o que inviabiliza a adaptação sem suporte especializado e ferramentas adequadas.",
+  "gancho": "*Atenção empresários!* Reforma Tributária exige nova abordagem",
+  "ideias": [
+   "Você está preparado para a Reforma Tributária?",
+   "Reforma Tributária: Como a tecnologia pode ajudar?",
+   "Adapte seu escritório: A mudança começa agora!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://www.estadao.com.br/tecmundo/stem/reforma-tributaria-avanca-mas-529-dos-contadores-ainda-nao-se-prepararam/",
+  "publicadoEm": "2026-11-06T15:50:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças nas tarifas de gás afetam investimentos bilionários",
+  "resumo": "A nova metodologia da ANP pode travar R$ 12 bilhões em investimentos, enquanto transportadoras ameaçam recorrer à Justiça. A situação gera incertezas para o setor.",
+  "fatos": [
+   "A ANP deve concluir a revisão tarifária do gás natural até 9 de novembro.",
+   "A nova metodologia, que zerou a base de remuneração, é contestada por transportadoras.",
+   "A NTS já anunciou a suspensão de R$ 12 bilhões em investimentos devido à nova regra.",
+   "A ATGás entrou com recursos para suspender a decisão da ANP.",
+   "Grandes consumidores, representados pela Abrace, apoiam a mudança nas tarifas."
+  ],
+  "explicacao": [
+   "A revisão tarifária buscando tarifas maisjustas refletiu a pressão econômica no setor de gás natural.",
+   "O Método de Capital Recuperado adotado pela ANP visa ajustar as tarifas, mas gerou resistência por parte das transportadoras.",
+   "Mudanças impactam diretamente o planejamento econômico de empresas, gerando insegurança sobre investida em projetos."
+  ],
+  "materia": "Com a introdução de nova metodologia, que zerou a base de remuneração de NTS e TAG, transportadoras travam investimentos e ameaçam a Justiça, enquanto a indústria defende o corte nas tarifas A ANP deve concluir, na segunda-feira, 9 de novembro, a terceira e última etapa do plano de definição das novas tarifas de transporte válidas para os cinco gasodutos do País até 2030 A revisão tarifária do transporte de gás natural pela ANP enfrenta resistência das principais transportadoras, que ameaçam recorrer à Justiça. A ANP deve concluir a definição das novas tarifas até 9 de novembro, mas a Associação de Empresas de Transporte de Gás Natural por Gasoduto (ATGás) já entrou com um recurso para suspender uma decisão que zerou a base regulatória de ativos das duas maiores transportadoras, NTS e TAG. A nova metodologia de cálculo, o Método de Capital Recuperado (RCM), é contestada pelas empresas, que alegam que ela resulta em tarifas menores. A NTS anunciou a suspensão de R$ 12 bilhões em investimentos devido a essa mudança. Enquanto isso, grandes consumidores de gás, representados pela Abrace, apoiam a ANP e defendem que as decisões regulatórias não devem ser influenciadas por ameaças de paralisação de investimentos. Eles argumentam que as tarifas devem refletir ativos não depreciados e garantir uma remuneração justa. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Brasília - Cercada de resistências das maiores transportadoras do mercado, a revisão tarifária no transporte de gás natural em curso pela Agência Nacional de Petróleo (ANP) corre o risco de parar na Justiça antes mesmo de ser concluída. E ameaça ainda mais investimentos bilionários nos gasodutos brasileiros. A agência reguladora deve concluir, na segunda-feira, 9 de novembro, a terceira e última etapa do plano de definição das novas tarifas de transporte válidas para os cinco gasodutos do País até 2030. O assunto entrou na pauta da diretoria, mas a reação das empresas ao processo só cresce. Na mesma reunião colegiada, os conselheiros da ANP também terão sobre a mesa um recurso já movido pela Associação de Empresas de Transporte de Gás Natural por Gasoduto (ATGás) para suspender uma decisão de outubro da agência que zerou a base regulatória de ativos de contratos das duas maiores transportadoras do ramo. E as transportadoras também apresentaram recursos individuais contestando parâmetros adotados pela agência. \"Ao adotar premissas econômicas e financeiras atípicas e incompatíveis com a prática de ciclos anteriores, a decisão [da ANP] afasta-se do arcabouço vigente e produz resultados que não refletem os riscos da atividade, distorcendo a adequada remuneração dos ativos e comprometendo os sinais econômicos essenciais à expansão da malha\", informou a ATGás em nota divulgada na sexta-feira, 6 de novembro.. A recente decisão da ANP se refere a uma nova metodologia de cálculo da base de remuneração dos ativos da Nova Transportadora do Sudeste (NTS) e da Transportadora Associada de Gás (TAG), associadas da entidade. Esse novo método de precificação, adotado há mais de um mês pela ANP - o chamado Método de Capital Recuperado (RCM, na sigla em inglês) -, é inédito no Brasil e sempre foi rejeitado pelas empresas. O RCM é utilizado na Austrália, mas a forma como ele foi pensado para o mercado brasileiro remunera menos as empresas, na visão das transportadoras. Na prática, quanto maior for o valor dos ativos, maior será a tarifa; e quanto menor o valor, menor a tarifa. E por isso mesmo essas companhias do setor sempre foram contra a metodologia – ainda mais agora, que a base tarifária foi finalmente zerada. \"A ANP adotou uma metodologia sem precedente regulatório e reconhecimento internacional no processo de revisão tarifária. Faltou isonomia no tratamento entre os pares\", diz uma fonte do setor ao NeoFeed . Em sua defesa, a ANP sempre sustentou que a discussão é técnica e se baseou em prévia consulta pública com transparência e publicidade ao processo",
+  "numeros": [
+   {
+    "valor": "R$ 12 bilhões",
+    "rotulo": "investimentos suspensos pela NTS"
+   },
+   {
+    "valor": "2030",
+    "rotulo": "ano até o qual as novas tarifas são válidas"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Indústria"
+  ],
+  "dor": "receio de perder investimentos e competitividade no setor",
+  "angulo": "As mudanças nas regras regulatórias ressaltam a importância de estabelecer estratégias sólidas em marketing e presença digital.",
+  "gancho": "Descubra por que *planejamento digital* é essencial!",
+  "ideias": [
+   "Os riscos de desinvestimento estão à vista!",
+   "Como as mudanças na ANP impactam o seu negócio?",
+   "Estratégias para sobreviver em um ambiente regulatório instável."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://neofeed.com.br/negocios/curto-circuito-no-setor-de-gas-anp-muda-regra-trava-r-12-bilhoes-e-disputa-pode-parar-na-justica/",
+  "publicadoEm": "2026-11-06T18:53:12-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-vpr-14"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Como pequenos negócios devem se adaptar à inteligência artificial",
   "resumo": "Pequenos negócios enfrentam novos desafios de visibilidade digital. A presença online não é mais suficiente; é crucial ser encontrado por meio de IA.",
   "fatos": [
@@ -723,6 +958,305 @@
  },
  {
   "segmento": "trader",
+  "titulo": "Reforma Tributária sofre pedido de adiamento por associações comerciais",
+  "resumo": "Centenas de associações comerciais solicitaram adiamento da Reforma Tributária, prevista para 2027. A mudança exigiria adaptações que muitas pequenas empresas não estão prontas para enfrentar.",
+  "fatos": [
+   "1.491 associações comerciais assinaram um manifesto pedindo o adiamento da Reforma Tributária.",
+   "O início da implementação está previsto para janeiro de 2027, mas a CACB sugere adiamento para 2028.",
+   "Dalmar Pimenta, da ACMinas, afirmou que o cenário atual é 'muito nebuloso'.",
+   "O Tribunal de Contas da União sugeriu uma alíquota de 11,34% para a CBS.",
+   "Até 15 de dezembro, o Senado deve definir a alíquota da CBS.",
+   "O presidente da CACB alertou para pouca margem de tempo antes das festas de Natal.",
+   "As associações pedem que 2027 seja um ano de testes, sem recolhimentos efetivos."
+  ],
+  "explicacao": [
+   "As associações comerciais estão preocupadas com a implementação da Reforma Tributária em 2027, alegando que o prazo é muito curto para as adaptações necessárias.",
+   "Com as incertezas em torno das alíquotas e regulamentações, muitos pequenos empresários não se sentem preparados para enfrentar as mudanças tributárias.",
+   "A proposta de um ano de testes sem recolhimento de novos tributos visa ajudar as micro e pequenas empresas a se ajustarem sem pressão imediata."
+  ],
+  "materia": "Repórter do Diário do Comércio. Graduada em Jornalismo e mestre em Letras pela PUC Minas. Experiência de 30 anos em cobertura política e econômica. Centenas de associações comerciais de Minas Gerais assinam manifesto da Confederação das Associações Comerciais e Empresariais do Brasil (CACB) que reivindica o adiamento do início da implementação da Reforma Tributária, previsto para janeiro de 2027. O documento, com adesão de 1.491 entidades do sistema do associativismo, foi protocolado, nesta sexta-feira (6), na Presidência da República e na Secretaria da Receita Federal do Ministério da Fazenda. Na avaliação do diretor da ACMinas e vice presidente do Conselho de Assuntos Jurídicos da entidade, Dalmar Pimenta, o cenário ainda está “muito nebuloso” para que a reforma tributária entre em vigor em janeiro de 2027. “Ao avaliar a situação, o governo deve entender que cumprir esse prazo é muito precipitado. Isso sem contar toda a insegurança jurídica que as empresas vão sofrer com dois sistemas tributários funcionando ao mesmo tempo”, afirma. Para Pimenta, as empresas, principalmente os pequenos negócios, precisam de mais tempo para se adaptar às novas regras de cobrança de impostos e contribuições. O diretor ressalta ainda que os custos dessas adequações são elevados e nem todos os empreendedores conseguiram se preparar para o início da reforma tributária. “Se houver o adiamento, o governo vai ganhar ponto com isso”, salienta. Além disso, ele destaca que ainda não se sabe qual será a alíquota do CBS e do IBS para 2027. “O Tribunal de Contas da União sugeriu que a alíquota do CBS seja de 11,34%. Isso foi enviado para o Congresso e, até dia 15 de dezembro, o Senado tem que definir, por exemplo, se a alíquota do CBS vai ser a que o TCU sugeriu, se vai ser maior ou menor que isso. Estamos todos perdidos. O próprio governo está sem saber o que fazer e percebeu não está dando conta de decidir tudo”, assinala. Para o presidente da CACB, Alfredo Cotait Neto, a medida provisória do Imposto Seletivo saiu em 4 de novembro e o Senado tem até 15 de dezembro para fixar a alíquota de referência da CBS. “Se usar todo o prazo, sobram pouco mais de duas semanas para rever preços e renegociar contratos, em pleno Natal do comércio e com a primeira etapa da nova jornada de trabalho entrando em vigor”, alerta. Leia mais: Reforma tributária: empresas mineiras têm dois meses para refazer as contas de 2027 Por isso, Cotait defende que não é razoável exigir que o setor produtivo se prepare para uma mudança dessa dimensão antes que a regulamentação seja definitivamente concluída e as alíquotas sejam aprovadas pelo Senado Federal. No manifesto, as associações comerciais pedem que as etapas previstas para o ano que vem comecem a vigorar em janeiro de 2028. Alegam que o prazo dado pelo governo foi curto para fazer as adequações necessárias. O presidente da CACB conta que as associações defendem que o ano de 2027 seja de testes, sem recolhimento efetivo dos novos tributos e com os impostos atuais mantidos, para que as micro e pequenas empresas possam se adequar. No documento, a CACB declara que não se opõe à modernização do sistema tributário, mas considera prudente que sua implementação ocorra com responsabilidade, previsibilidade e segurança jurídica. A entidade lembra que o regulamento da Contribuição sobre Bens e Serviços (CBS) só saiu em abril, com 620 artigos. A Receita Federal deverá apresentar, ainda na próxima semana, a nova versão da regulamentação da reforma. Repórter do Diário do Comércio. Graduada em Jornalismo e mestre em Letras pela PUC Minas. Experiência de 30 anos em cobertura política e econômica. Inovação também precisa de capital privado: o Brasil pode avançar nessa agenda Em um ano caro, produtividade será a chave Fim da escala 6×1 e jornada de 40 horas: o que muda para o pequeno comércio Liderar na incerteza: a coragem de decidir quando o futuro não está escrito Ao preencher e enviar o formulário, você concorda com a nossa Política de Privaci",
+  "numeros": [
+   {
+    "valor": "1.491",
+    "rotulo": "associações que assinaram o manifesto"
+   },
+   {
+    "valor": "11,34%",
+    "rotulo": "proposta de alíquota da CBS"
+   },
+   {
+    "valor": "15",
+    "rotulo": "dias restantes para a definição da alíquota no Senado"
+   }
+  ],
+  "fonte": "Diário do Comércio",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "Incerteza sobre o futuro financeiro dos pequenos negócios",
+  "angulo": "Entender a reforma tributária pode ser um passo crucial para pequenos empresários que desejam segurança financeira frente a mudanças inesperadas. Aprender sobre o mercado financeiro pode ajudar nesse preparo.",
+  "gancho": "Reforma Tributária: *precariedade no planejamento*",
+  "ideias": [
+   "Como o adiamento da reforma pode afetar seu negócio",
+   "Entenda a urgência da Reforma Tributária",
+   "Preparação financeira: o que os empresários precisam saber"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "congresso",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://diariodocomercio.com.br/economia/reforma-tributaria-adiamento/",
+  "publicadoEm": "2026-11-06T19:30:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-18"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Projeções econômicas em queda: impactos no seu bolso",
+  "resumo": "Bradesco e XP revisaram previsões, indicando inflação mais alta e PIB quase estagnado até 2027. Isso afeta diretamente seu poder de compra e a rentabilidade dos negócios.",
+  "fatos": [
+   "Bradesco prevê PIB de 1,5% em 2023, reduzido de 1,7%; para 2027, a projeção vai de 1,0% para 0,4%.",
+   "Inflação projetada em 5,5% para 2023, contra 4,9% anteriormente, e 5,3% em 2027, acima de 4,1%.",
+   "XP também revisou sua previsão para o PIB, agora em 0,3% para 2024, e 5,5% para 2027 em inflação.",
+   "Itaú já havia ajustado suas previsões, apontando PIB de 0,5% para 2024 e inflação de 6,1% em 2027.",
+   "A incerteza no mercado foi acentuada pela reeleição do presidente Lula, sem anúncio de equipe econômica."
+  ],
+  "explicacao": [
+   "As revisões feitas por Bradesco e XP refletem um cenário econômico desfavorável que afeta diretamente a vida financeira das pessoas.",
+   "A inflação crescente e o baixo crescimento do PIB geram pressões sobre os preços e o poder de compra da população.",
+   "Empresas e cidadãos, especialmente os mais vulneráveis, podem enfrentar dificuldades financeiras devido ao aumento no custo de vida.",
+   "Esses fatores indicam a necessidade de buscar novas fontes de renda, além do emprego tradicional."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O Bradesco e a XP revisaram fortemente suas projeÃ§Ãµes econÃ´micas, passando a prever uma inflaÃ§Ã£o bem mais alta e uma atividade praticamente estagnada em 2027, conforme relatÃ³rios publicados nesta sexta-feira (6). A piora nas apostas vem apÃ³s a reeleiÃ§Ã£o do presidente Luiz InÃ¡cio Lula da Silva (PT), que ainda nÃ£o anunciou qual serÃ¡ a equipe econÃ´mica e a polÃ­tica fiscal do seu quarto mandato , adicionando incerteza a um mercado que jÃ¡ despencou com a derrota do senador FlÃ¡vio Bolsonaro (PL). O Bradesco revisou em relatÃ³rio a previsÃ£o de crescimento do PIB (Produto Interno Bruto) neste ano de 1,7% para 1,5%, cortando a estimativa para 2027 de 1,0% para 0,4%. Para a inflaÃ§Ã£o, o banco projeta uma alta de 5,5% neste ano, contra 4,9% antes, e de 5,3% em 2027, bem acima dos 4,1% estimados anteriormente. \"A combinaÃ§Ã£o de condiÃ§Ãµes financeiras mais restritivas, menor confianÃ§a e desaceleraÃ§Ã£o do crÃ©dito deve aprofundar a perda de fÃ´lego da economia ao longo dos prÃ³ximos trimestres\", disse o Bradesco. O banco citou um cenÃ¡rio substancialmente mais desafiador para a inflaÃ§Ã£o diante de choques de oferta, desvalorizaÃ§Ã£o do real, reduÃ§Ã£o da jornada de trabalho no paÃ­s e implementaÃ§Ã£o da reforma tributÃ¡ria, apontando tambÃ©m que o cenÃ¡rio incorpora as despesas pÃºblicas jÃ¡ comprometidas e anunciadas durante a campanha eleitoral de Lula. \"O arcabouÃ§o fiscal precisa ser reforÃ§ado para ancorar as expectativas\", ressaltou. A XP, por sua vez, reduziu as projeÃ§Ãµes para o PIB em 2026 de 1,7% para 1,5% e, para o ano que vem, de 1,0% para 0,3% \"devido ao aperto adicional das condiÃ§Ãµes financeiras, elevado endividamento das empresas e famÃ­lias, menor impulso fiscal e baixa contribuiÃ§Ã£o dos setores menos sensÃ­veis ao ciclo\". A instituiÃ§Ã£o financeira ainda revisou as previsÃµes para a inflaÃ§Ã£o de 5,1% para 5,2% neste ano e de 4,4% para 5,5% em 2027. \"A revisÃ£o incorpora parcialmente a materializaÃ§Ã£o de riscos ligados Ã mudanÃ§a na jornada de trabalho, persistÃªncia do petrÃ³leo em nÃ­veis altos, cÃ¢mbio mais depreciado e implementaÃ§Ã£o da reforma tributÃ¡ria \", afirmou a XP. Na semana passada, o ItaÃº jÃ¡ havia piorado suas previsÃµes, apostando em um crescimento do PIB de 0,5% no prÃ³ximo ano (contra 1,2% antes) e em uma inflaÃ§Ã£o de 6,1% em 2027 (4,6% antes). VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. VocÃª jÃ¡ conhece as vantagens de ser assinante da Folha? AlÃ©m de ter acesso a reportagens e colunas, vocÃª conta com newsletters exclusivas ( conheÃ§a aqui ). TambÃ©m pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notÃ­cias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado! Mais de 180 reportagens e anÃ¡lises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder pÃºblico, veicula notÃ­cias proveitosas e inspiradoras, faz contraponto Ã intolerÃ¢ncia das redes sociais e traÃ§a uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteÃºdo? De 2Âª a 6Âª pela manhÃ£, receba o boletim gratuito com notÃ­cias e anÃ¡lises de economia Ordem foi emitida logo depois de processo polÃ­tico; ele fica em prisÃ£o domiciliar atÃ© se apresentar Ã Procuradoria, Ã s 11h deste sÃ¡bado Senado",
+  "numeros": [
+   {
+    "valor": "5,5%",
+    "rotulo": "inflação projetada para 2023"
+   },
+   {
+    "valor": "0,4%",
+    "rotulo": "crescimento do PIB projetado para 2027"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "aumento do custo de vida e perda de poder aquisitivo",
+  "angulo": "Diante de uma economia estagnada e inflação alta, aprender sobre o mercado financeiro se torna essencial para uma nova fonte de renda, sem depender somente de salários.",
+  "gancho": "*Projeções econômicas* que vão impactar seu bolso",
+  "ideias": [
+   "Prepare-se para a inflação: como se proteger",
+   "Seu salário vai longe? Descubra como",
+   "Mercado financeiro: a liberdade que você precisa"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bradesco-e-xp-pioram-significativamente-projecoes-para-inflacao-e-atividade-economica-em-2027.shtml",
+  "publicadoEm": "2026-11-06T18:35:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-17"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aposte em seu futuro financeiro, não em sorte",
+  "resumo": "A Lotomania oferece prêmios altos, mas depender da sorte pode ser arriscado. O aprendizado no mercado financeiro traz segurança e alternativas de renda.",
+  "fatos": [
+   "O concurso 2996 da Lotomania sorteou 20 números em São Paulo.",
+   "Os números sorteados foram: 95, 11, 76, 34, 36, 92, 13, 25, 63, 29, 35, 16, 93, 77, 40, 83, 39, 49, 66 e 90.",
+   "O prêmio estimado para este concurso era de R$ 3.070.988,51.",
+   "A aposta mínima na Lotomania custa R$ 3,00.",
+   "É possível escolher 50 números entre 100 disponíveis ou optar pela Surpresinha."
+  ],
+  "explicacao": [
+   "Os jogos de loteria, como a Lotomania, atraem apostadores em busca de grandes prêmios, mas contam somente com a sorte.",
+   "No cenário atual, as alternativas de renda se tornaram fundamentais para tornar-se financeiramente seguro.",
+   "Aprender sobre o mercado financeiro pode proporcionar ganhos reais e sustentáveis, em vez de depender apenas de sorteios."
+  ],
+  "materia": "Os números do concurso 2996 da Lotomania foram sorteados nesta sexta-feira (6), em São Paulo. As dezenas sorteadas foram: 95 – 11 – 76 – 34 – 36 – 92 – 13 – 25 – 63 – 29 – 35 – 16 – 93 – 77 – 40 – 83 – 39 – 49 – 66 – 90 O prêmio estimado para este concurso era de R$ 3.070.988,51 Na Lotomania, o apostador escolhe 50 números entre 100 disponíveis (de 00 a 99). Também é possível optar pela Surpresinha, quando os números são escolhidos pelo sistema. A aposta mínima custa R$ 3,00. Ganham prêmio os acertadores de 20, 19, 18, 17, 16, 15 ou nenhum número, conforme as regras da modalidade. The post Lotomania: confira o resultado do concurso 2996 sorteado nesta sexta-feira (6) appeared first on InfoMoney .",
+  "numeros": [
+   {
+    "valor": "R$ 3.070.988,51",
+    "rotulo": "prêmio estimado"
+   },
+   {
+    "valor": "R$ 3,00",
+    "rotulo": "aposta mínima"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "dependência de sorte e vulnerabilidade financeira",
+  "angulo": "Investir na educação financeira abre caminhos para renda, tornando você menos dependente de sorteios aleatórios.",
+  "gancho": "Seu futuro financeiro não pode depender da sorte!",
+  "ideias": [
+   "Transforme seu conhecimento em renda",
+   "A sorte é boa, mas a educação financeira é melhor",
+   "Chega de esperar, comece a investir hoje!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2996-sorteado-nesta-sexta-feira-6/",
+  "publicadoEm": "2026-11-06T21:54:16-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-16"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho: impactos para empresários",
+  "resumo": "Discussões sobre a redução da jornada de trabalho e fim da escala 6x1 afetam diretamente o setor produtivo. Novas regras entram em vigor a partir de dezembro.",
+  "fatos": [
+   "A Emenda Constitucional nº 141, que altera a jornada de trabalho, foi promulgada em 16 de outubro.",
+   "A jornada passará de 44 para 42 horas semanais a partir de 16 de dezembro de 2023.",
+   "Em dezembro de 2027, a jornada máxima será de 40 horas semanais.",
+   "O COSIN se reuniu para discutir as implicações da nova emenda com empresários e sindicatos.",
+   "A implementação será gradual e envolve negociação coletiva.",
+   "O ministro Flávio Dino convocou uma audiência para o dia 10 de novembro para discutir o assunto.",
+   "Haverá diferenças de adequação entre a iniciativa privada e a administração pública, que terá um ano a mais."
+  ],
+  "explicacao": [
+   "A redução das horas trabalhadas é uma tentativa de melhorar as condições laborais, mas traz desafios para os empresários em relação à organização do trabalho.",
+   "As lojas, especialmente do comércio, enfrentarão dificuldades para se adaptar, pois muitas funcionam aos domingos.",
+   "A indústria também sentirá os efeitos, necessitando ajustar sua operação para atender às novas regras.",
+   "Essa mudança pode gerar incertezas e requer uma clara comunicação entre empregadores e colaboradores.",
+   "O COSIN busca esclarecer dúvidas e promover um debate saudável sobre as adaptações necessárias."
+  ],
+  "materia": "O Conselho Temático de Relações Trabalhistas e Sindicais (COSIN), da Federação das Indústrias do Estado do Ceará (FIEC) se reuniu, nesta sexta-feira (06/11), para discutir os impactos da redução das jornadas de trabalho e o fim da escala 6x1 no setor produtivo. O encontro também contou com a presença de diretores, presidentes de sindicatos, além de líderes e colaboradores do Sistema FIEC. A Emenda Constitucional nº 141, que reduz a duração máxima da jornada de trabalho semanal e prevê dois dias de repouso semanal remunerado, foi promulgada pelo Congresso Nacional no último dia 16 de outubro. De acordo com o documento, a transição para o novo modelo será gradual. A partir do dia 16 de dezembro, a jornada deverá passar de 44 para 42 horas semanais, com dois dias de folga remunerados. Em dezembro de 2027, o máximo será de 40 horas. O Presidente do COSIN, André Luís Pinto, destaca que o encontro pretende tirar dúvidas sobre o assunto e discutir as demandas dos empresários em relação aos prazos para a implementação da emenda. “É sempre muito importante tratar de assuntos que as pessoas estão demandando e poder esclarecer, tirar dúvidas, debater. A redução da jornada de trabalho e o fim da escala 6x1 é um assunto latente, e os prazos estão bem apertados para que tudo aconteça. Estão sendo discutidas algumas possibilidades de flexibilizações e talvez até extensões de prazos, e ainda existem muitas questões técnicas que não foram observadas, mas, agora, vamos precisar nos adequar”, afirmou André Luís. O debate teve a participação do auditor fiscal e Chefe de Fiscalização da Superintendência Regional do Trabalho e Emprego no Ceará, Luis Alves de Freitas Lima, que apresentou os principais aspectos técnicos da emenda constitucional, incluindo a necessidade de negociação coletiva para a transição para 42 horas, cálculos de divisores salariais, descontos por faltas e regras específicas para o trabalho noturno e feminino. “Temos muitas dúvidas que ainda não vamos conseguir sanar, porque o decreto do Governo deve ser publicado na segunda-feira. O Ministro Flávio Dino também marcou uma audiência para o dia 10 de novembro, chamando a classe patronal e a classe dos trabalhadores para chegar a um bom senso. O impacto é grande para todos os setores. Entendemos que, para o comércio, vai ser mais pesado, porque tem muitas lojas que funcionam aos domingos, como as dos shoppings. Mas claro que na indústria também tem seu impacto”, destacou. Para a Gerente Jurídica do Sistema FIEC, Natali Camarão, também é necessário discutir a segurança jurídica da emenda constitucional, pontuando questões como o curto prazo para o início da implementação e a diferença de tratamento entre a iniciativa privada e a administração pública, que terá um ano para se adequar. “Estamos com a casa cheia, com muitas observações e dúvidas. Tivemos um momento semelhante com a Reforma Trabalhista de 2017, então nosso objetivo de hoje foi tornar esse momento mais dinâmico. Trouxemos uma apresentação mais prática, para que possamos absorver melhor esse assunto no nosso dia a dia”, observou.",
+  "numeros": [
+   {
+    "valor": "44 para 42",
+    "rotulo": "horas semanais reduzidas"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas semanais em 2027"
+   },
+   {
+    "valor": "1",
+    "rotulo": "ano extra para a administração pública se adequar"
+   }
+  ],
+  "fonte": "FIEC - Federação das Indústrias do Estado do Ceará",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "perda de lucratividade e controle sobre os horários",
+  "angulo": "Entender como o novo regime de trabalho promove a necessidade de diversificação de renda é fundamental para evitar surpresas em seus negócios.",
+  "gancho": "Mudanças que vão afetar seu *negócio diretamente*",
+  "ideias": [
+   "Entenda as novas regras trabalhistas",
+   "Como a redução da jornada impacta seu negócio",
+   "Prepare-se para as mudanças da jornada de trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://www1.sfiec.org.br/fiec-noticias/175084/cosin-discute-impactos-da-reducao-das-jornadas-de-trabalho-e-do-fim-da-escala-6x1-no-setor-produtivo",
+  "publicadoEm": "2026-11-06T18:11:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: o que isso significa para empresários?",
+  "resumo": "Reunião de comerciantes discute o impacto do fim da escala 6x1 e a necessidade de mais tempo para adaptação. A implementação das novas regras traz desafios para o setor varejista.",
+  "fatos": [
+   "Cerca de 50 lojistas discutiram o fim da escala 6x1 em Recife.",
+   "A reunião foi promovida pelo Sindilojas Recife em 6 de novembro.",
+   "A expectativa é que a implementação das novas regras seja adiada para garantir segurança jurídica.",
+   "As novas regras reduzem a jornada de trabalho de 44 para 40 horas semanais, com implantação em 16 de dezembro de 2026.",
+   "Empresas terão 14 meses de transição e dois dias de descanso por semana a partir da nova norma."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 traz mudanças significativas para a rotina de trabalho no comércio.",
+   "A proposta de mudança foi motivada pela necessidade de adaptação na jornada semanal e na organização dos horários.",
+   "Os empresários pedem mais tempo para se adequar às novas regras, especialmente em um período de alta demanda como o fim do ano."
+  ],
+  "materia": "Cerca de 50 lojistas e empresários do setor varejista participaram, na manhã desta sexta-feira, 6 de novembro, de uma reunião para discutir os impactos do fim da escala de trabalho 6x1 no comércio. O encontro foi promovido pelo Sindicato dos Lojistas do Comércio de Bens e Serviços do Recife (Sindilojas Recife), na sede da Câmara de Dirigentes Lojistas (CDL Recife), no bairro da Boa Vista, na área central da capital pernambucana. Durante a reunião, representantes de diferentes segmentos do varejo buscaram esclarecer dúvidas sobre as mudanças na jornada de trabalho e as diretrizes para a aplicação das novas regras. A assessoria jurídica do sindicato também participou da discussão, orientando os empresários sobre possíveis impactos para as empresas. As contribuições apresentadas pelos participantes estão sendo reunidas em um documento que deverá servir de referência para a próxima convenção coletiva e para as negociações com o sindicato dos comerciários. A proposta é estabelecer orientações que garantam segurança jurídica tanto aos empregadores quanto aos trabalhadores durante o período de adaptação. De acordo com o presidente do Sindilojas Recife, Fred Leal, o setor espera que a aplicação das novas regras seja adiada. Entre as preocupações está a proximidade do fim do ano, período de maior movimentação no comércio, quando as empresas costumam registrar aumento na demanda por produtos e serviços. A expectativa dos empresários é contar com mais tempo para organizar as mudanças na rotina de funcionamento dos estabelecimentos e adequar as escalas dos funcionários. As mudanças na jornada de trabalho também estarão em discussão no Supremo Tribunal Federal (STF). Na próxima terça-feira (10), às 14h, está prevista uma audiência de conciliação na sala de sessões da Primeira Turma da Corte para tratar do cronograma de transição e implementação das novas regras. A audiência foi motivada por ações judiciais apresentadas pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e pela Confederação Nacional da Indústria (CNI). As entidades questionam o prazo estabelecido pela Emenda Constitucional nº 141/2026, que reduziu a jornada semanal de trabalho de 44 para 40 horas. Entre os argumentos apresentados pelas confederações está a necessidade de um período maior para que as empresas realizem adaptações estruturais, reorganizem os turnos e contratem profissionais, quando necessário. A discussão no STF, conforme as informações divulgadas, ficará concentrada nos aspectos relacionados à implementação das novas regras. A redução da jornada de trabalho e a ampliação do descanso semanal não fazem parte dos pontos que serão debatidos na audiência. A Emenda Constitucional nº 141/2026, aprovada pelo Congresso Nacional no mês passado, estabelece mudanças no modelo de jornada de trabalho. Com a nova regra, os trabalhadores passam a ter direito a dois dias de descanso remunerado por semana, em uma organização de jornada máxima de cinco dias de trabalho para dois de descanso, conhecida como escala 5x2. A norma também prevê a redução da carga horária semanal de 44 para 40 horas, sem diminuição salarial. A implementação das mudanças ocorrerá por meio de um período de transição de 14 meses. A primeira etapa da transição está prevista para começar em 16 de dezembro de 2026. Até lá, empresas e representantes dos trabalhadores deverão acompanhar as orientações sobre a aplicação das novas regras e os ajustes necessários nas relações de trabalho. No comércio, a discussão envolve especialmente a reorganização dos horários de funcionamento, a distribuição das folgas e a necessidade de adequação das equipes. Por isso, o Sindilojas Recife pretende utilizar as contribuições dos empresários para orientar as próximas negociações coletivas do setor. Para poder interagir com todos comentários, faça Login na sua conta Terra Os comentários são de responsabilidade exclusiva de seus autores e não representam a opinião deste site. Se achar algo que viole os termo",
+  "numeros": [
+   {
+    "valor": "14 meses",
+    "rotulo": "período de transição"
+   },
+   {
+    "valor": "40 horas",
+    "rotulo": "nova jornada semanal"
+   }
+  ],
+  "fonte": "Terra",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Dificuldade em adequar as escalas de trabalho rapidamente.",
+  "angulo": "A mudança na jornada é uma oportunidade para aprender sobre gestão de trabalho e aumentar a renda através do mercado financeiro.",
+  "gancho": "*Novo formato de trabalho* pode impactar seu bolso!",
+  "ideias": [
+   "Entenda o que muda com o fim da escala 6x1",
+   "Como adaptar sua empresa às novas regras?",
+   "Saiba o que os empresários esperam da nova jornada de trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-06T22:23:00-03:00",
+  "url": "https://www.terra.com.br/noticias/brasil/cidades/comercio-do-recife-discute-fim-da-escala-6x1-e-defende-prazo-maior-para-adaptacao,26436f9211a6011b0f4269a569fd85a54ofggxzy.html",
+  "publicadoEm": "2026-11-06T18:56:00-03:00",
+  "data": "2026-11-06",
+  "id": "2026-11-06-trader-14"
+ },
+ {
+  "segmento": "trader",
   "titulo": "Como o tempo de contribuição impacta sua aposentadoria",
   "resumo": "O valor da aposentadoria do INSS varia de acordo com o tempo de contribuição. Mesmo com salários médios iguais, a diferença pode ser significativa entre trabalhadores com 25 e 40 anos de contribuição.",
   "fatos": [
@@ -896,13 +1430,14 @@
  {
   "segmento": "trader",
   "titulo": "Fim da escala 6x1: Audiência marcada pelo STF",
-  "resumo": "O STF discute o fim da escala 6x1 em audiência marcada para 10 de outubro, com representantes de diversas entidades. A transição traz impactos diretos para trabalhadores e empresários.",
+  "resumo": "O STF discute o fim da escala 6x1, que demandará adaptação nas empresas e a necessidade de negociações coletivas. Isso impacta diretamente trabalhadores e empresários.",
   "fatos": [
    "A audiência sobre o fim da escala 6x1 acontece no dia 10 de outubro de 2023.",
    "O ministro Flávio Dino é responsável pela convocação da reunião no STF.",
    "Estarão presentes representantes de entidades empresariais e centrais sindicais.",
    "A transição da jornada de trabalho ocorrerá em duas etapas, com a primeira começando em 16 de dezembro de 2026.",
-   "O limite semanal de trabalho passará de 44 para 42 horas na primeira fase."
+   "O limite semanal de trabalho passará de 44 para 42 horas na primeira fase.",
+   "A mudança exigirá adaptações nas empresas e levantará questões sobre negociações coletivas, impactando na remuneração e na organização das escalas de trabalho."
   ],
   "explicacao": [
    "A discussão foi solicitada pela Confederação Nacional do Comércio, que questiona a adaptação das empresas às novas regras.",
@@ -942,12 +1477,13 @@
   ],
   "cena": "funil",
   "potencial": 4,
-  "status": "nova",
+  "status": "atualizada",
   "coletadoEm": "2026-11-06T18:12:07-03:00",
   "url": "https://sindpd.org.br/2026/11/06/stf-audicencia-fim-da-escala-6-x-1/",
   "publicadoEm": "2026-11-06T16:08:25-03:00",
   "data": "2026-11-06",
-  "id": "2026-11-06-trader-10"
+  "id": "2026-11-06-trader-10",
+  "atualizadoEm": "2026-11-06T22:23:00-03:00"
  },
  {
   "segmento": "trader",
