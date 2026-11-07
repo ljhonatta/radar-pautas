@@ -1,36 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-06T22:23:00-03:00",
-  "novas": 5,
-  "atualizadas": 1,
-  "status": "ok",
-  "mensagem": "5 pauta(s) nova(s) e 1 atualizada(s): Fim da escala 6x1: o que isso significa para empresários?; Mudanças na jornada de trabalho: impactos para empresários; Aposte em seu futuro financeiro, não em sorte.",
-  "falhas": [],
-  "manual": false,
-  "historico": [
-   "2026-11-06T22:23:00-03:00",
-   "2026-11-06T18:12:07-03:00",
-   "2026-11-06T13:59:02-03:00",
-   "2026-11-05T22:51:37-03:00",
-   "2026-11-05T18:44:16-03:00",
-   "2026-11-05T14:43:11-03:00",
-   "2026-11-04T22:52:51-03:00",
-   "2026-11-04T18:39:55-03:00",
-   "2026-11-04T14:37:40-03:00",
-   "2026-11-03T22:44:35-03:00",
-   "2026-11-03T18:25:11-03:00",
-   "2026-11-03T14:24:04-03:00"
-  ]
- },
- "vpr": {
-  "ultimaColeta": "2026-11-06T22:23:00-03:00",
+  "ultimaColeta": "2026-11-07T12:57:06-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Mudanças nas tarifas de gás afetam investimentos bilionários; Reforma Tributária e o atraso tecnológico dos escritórios contábeis; PIX fora do ar: impactos nas vendas do comércio.",
+  "mensagem": "4 pauta(s) nova(s): Indústria questiona fim da escala 6x1 no STF; Mudanças nos cartões de VR e VA impactam o seu bolso; A nova jornada de trabalho no setor aéreo.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-07T12:57:06-03:00",
    "2026-11-06T22:23:00-03:00",
    "2026-11-06T18:12:07-03:00",
    "2026-11-06T13:59:02-03:00",
@@ -41,8 +19,30 @@
    "2026-11-04T18:39:55-03:00",
    "2026-11-04T14:37:40-03:00",
    "2026-11-03T22:44:35-03:00",
-   "2026-11-03T18:25:11-03:00",
-   "2026-11-03T14:24:04-03:00"
+   "2026-11-03T18:25:11-03:00"
+  ]
+ },
+ "vpr": {
+  "ultimaColeta": "2026-11-07T12:57:06-03:00",
+  "novas": 4,
+  "atualizadas": 0,
+  "status": "ok",
+  "mensagem": "4 pauta(s) nova(s): Black Friday 2026: Varejo e inteligência artificial; Empresas precisam se adaptar ao atendimento digital eficaz; Black Friday traz oportunidades, mas cuidado com dívidas!.",
+  "falhas": [],
+  "manual": false,
+  "historico": [
+   "2026-11-07T12:57:06-03:00",
+   "2026-11-06T22:23:00-03:00",
+   "2026-11-06T18:12:07-03:00",
+   "2026-11-06T13:59:02-03:00",
+   "2026-11-05T22:51:37-03:00",
+   "2026-11-05T18:44:16-03:00",
+   "2026-11-05T14:43:11-03:00",
+   "2026-11-04T22:52:51-03:00",
+   "2026-11-04T18:39:55-03:00",
+   "2026-11-04T14:37:40-03:00",
+   "2026-11-03T22:44:35-03:00",
+   "2026-11-03T18:25:11-03:00"
   ]
  }
 }
