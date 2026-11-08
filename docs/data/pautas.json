@@ -1,6 +1,247 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Marcas próprias nas farmácias: uma tendência de mercado",
+  "resumo": "O crescimento das marcas próprias no varejo farmacêutico destaca a importância de se adaptar às novas demandas do consumidor. As farmácias buscam maior rentabilidade e exclusividade para se destacar.",
+  "fatos": [
+   "O mercado de marcas próprias no varejo farmacêutico passou de R$ 3,4 bilhões para R$ 6,6 bilhões em 4 anos.",
+   "A Intercron, que gerencia marcas próprias, projetou vendas de R$ 1 bilhão até 2028.",
+   "No primeiro semestre de 2026, o segmento de marcas próprias cresceu 19,1%.",
+   "As marcas próprias representam cerca de 7,3% das vendas nas redes atendidas pela Intercron.",
+   "Em 2025, a Intercron completou 470 projetos de desenvolvimento de produtos e prevê 400 para 2026."
+  ],
+  "explicacao": [
+   "O crescimento das marcas próprias reflete uma mudança nas estratégias das farmácias, que buscam exclusividade e alternativas de preço para os clientes.",
+   "As redes que adotam essa estratégia conseguem reduzir a dependência de marcas tradicionais e ampliam sua margem de lucro.",
+   "Esse cenário exige que as farmácias estejam atentas às necessidades do consumidor para se manterem competitivas.",
+   "Além dos produtos tradicionais, as marcas próprias agora abrangem nutrição esportiva e cuidados para animais, diversificando a oferta.",
+   "As farmácias que não se adaptarem a essas mudanças podem perder relevância no mercado."
+  ],
+  "materia": "O mercado de marcas próprias no varejo farmacêutico praticamente dobrou de tamanho em quatro anos, passando de R$ 3,4 bilhões para R$ 6,6 bilhões em faturamento, segundo dados da IQVIA . O avanço reflete a busca das redes de farmácias por produtos exclusivos, maior rentabilidade e alternativas de preço para o consumidor. Nesse cenário, a Intercron, responsável pelo desenvolvimento e pela gestão de marcas próprias para redes associadas à Aliança Estratégica de Negócios, mais de 1,1 mil lojas, encerrou 2025 com cerca de R$ 700 milhões em vendas, crescimento superior a 15% na comparação anual. A projeção da empresa é alcançar R$ 1 bilhão até 2028. A expansão ocorre em um momento de maior presença das marcas próprias no consumo. No primeiro semestre de 2026, o segmento registrou crescimento de 19,1%, de acordo com dados da NielsenIQ citados pela Intercron. No varejo farmacêutico, a estratégia permite que redes regionais ofereçam produtos exclusivos e reduzam a dependência de marcas tradicionais. O desenvolvimento compartilhado também amplia a escala de negociação com fabricantes, uma vantagem competitiva em um setor marcado pela presença de grandes grupos. Atualmente, a Intercron atende 13 redes, que somam mais de 1.400 lojas, e administra um portfólio de 1.300 produtos desenvolvidos em parceria com cerca de 60 fornecedores. Segundo a companhia, as marcas exclusivas representam aproximadamente 7,3% das vendas das redes atendidas. Em determinadas categorias, os produtos apresentam preços até 20% inferiores aos das marcas líderes. “As marcas próprias deixaram de ser apenas uma alternativa econômica e passaram a contribuir para a construção de valor e fidelização das redes”, afirma Pamella Dias, diretora executiva da Intercron. A ampliação das categorias também acompanha mudanças no consumo. Além de produtos tradicionais de higiene e cuidados pessoais, as marcas próprias avançam em segmentos como suplementos, nutrição esportiva, cuidados geriátricos e produtos para animais de estimação. Em 2025, a Intercron concluiu 470 projetos de desenvolvimento ou reformulação de produtos. Para 2026, a previsão é de outros 400 projetos, acompanhando a estratégia de diversificação das redes farmacêuticas. Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "R$ 1 bilhão",
+    "rotulo": "vendas projetadas pela Intercron até 2028"
+   },
+   {
+    "valor": "R$ 6,6 bilhões",
+    "rotulo": "faturamento atual do mercado de marcas próprias"
+   },
+   {
+    "valor": "19,1%",
+    "rotulo": "crescimento do segmento no primeiro semestre de 2026"
+   },
+   {
+    "valor": "7,3%",
+    "rotulo": "vendas de marcas próprias nas redes atendidas"
+   },
+   {
+    "valor": "470",
+    "rotulo": "projetos de desenvolvimento em 2025"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de espaço para marcas próprias e concorrentes",
+  "angulo": "A crescente competitividade no varejo farmacêutico revela a importância de um site bem estruturado e gestão eficaz das redes sociais para captar e fidelizar clientes.",
+  "gancho": "Você está preparado para as *marcas próprias*?",
+  "ideias": [
+   "O crescimento das marcas próprias e o futuro do varejo",
+   "Como as farmácias podem se destacar com marcas exclusivas",
+   "Marcas próprias: a nova tendência no mercado farmacêutico"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:57:04-03:00",
+  "url": "https://mercadoeconsumo.com.br/07/11/2026/noticias/marcas-proprias-avancam-nas-farmacias-intercron-projeta-r-1-bilhao-em-vendas-ate-2028/",
+  "publicadoEm": "2026-11-07T15:00:54-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Cuidados com ar condicionado e saúde respiratória",
+  "resumo": "O uso de ar-condicionado pode agravar a rinite se não for mantido adequadamente. Conheça os cuidados necessários para garantir um ambiente saudável e confortável.",
+  "fatos": [
+   "O uso frequente do ar-condicionado pode provocar ressecamento das vias respiratórias.",
+   "Mudanças bruscas de temperatura agravam o quadro de pessoas com rinite.",
+   "Filtros sujos podem espalhar poeira e micro-organismos, intensificando sintomas alérgicos.",
+   "A limpeza dos filtros deve ser feita a cada 15 dias ou uma vez por mês.",
+   "A manutenção precisa ser realizada pelo consumidor e recomenda-se uma limpeza completa anualmente."
+  ],
+  "explicacao": [
+   "O uso de ar-condicionado precisa de cuidados específicos, especialmente para quem já sofre de condições respiratórias.",
+   "A falta de limpeza e manutenção dos filtros pode resultar em infecções recorrentes por agravar a irritação nasal.",
+   "A configuração do aparelho também deve considerar a sensibilidade de cada usuário para evitar resfriamento excessivo."
+  ],
+  "materia": "Pra quem sofre com o calor, o ar-condicionado é um grande aliado. Mas precisa ter cuidado, porque ele pode se transformar em um problema para quem sofre com rinite. Mas será que dormir com o ar-condicionado ligado realmente piora o quadro? E como aproveitar o aparelho sem prejudicar a saúde respiratória? Primeiro, vale entender que o uso frequente do aparelho pode provocar ressecamento das vias respiratórias, mudanças bruscas de temperatura e até espalhar partículas que agravam os sintomas alérgicos. A situação fica ainda pior quando a limpeza e a manutenção dos filtros são deixadas de lado. De acordo com Alexandre Camilotti Gasperin, médico otorrinolaringologista e professor de Otorrinolaringologia da Escola de Medicina e Ciências da Vida da Pontifícia Universidade Católica do Paraná (PUCPR), o ar-condicionado pode agravar os sintomas da rinite por diferentes motivos. Um deles é o ressecamento do ar, que prejudica a hidratação natural da mucosa nasal e pode provocar irritação e desconforto. As mudanças bruscas de temperatura também funcionam como um fator de agressão para as vias respiratórias. Segundo Gasperin, o problema não está somente na temperatura escolhida ou no tempo de uso do equipamento. A falta de manutenção também merece atenção. O aparelho sem limpeza adequada ainda pode espalhar poeira, fungos e outros micro-organismos pelo ambiente. Essas partículas podem irritar as vias respiratórias, intensificar os sintomas e até contribuir para infecções recorrentes. Ar-condicionado sujo pode provocar crises de rinite? Ar-condicionado sujo pode provocar crises de rinite , por que os filtros acumulam poeira e outras impurezas ao longo do tempo. Quando a limpeza não é feita corretamente, o equipamento pode favorecer a circulação desses agentes no ambiente. O problema é especialmente relevante para pessoas que já apresentam sensibilidade respiratória. A exposição frequente a partículas e micro-organismos pode agravar a irritação nasal e desencadear sintomas. Por isso, limpar os filtros e realizar a manutenção periódica do aparelho são cuidados importantes. A frequência da higienização deve seguir as orientações do fabricante, já que varia conforme o modelo e as condições de uso. Boas práticas para usar o ar-condicionado e evitar desconfortos A limpeza dos filtros é um dos principais cuidados para preservar a qualidade do ar dentro de casa. Clarissa Lettieri, gerente de produto da divisão de ar-condicionado da Samsung Brasil , recomenda higienizar as peças a cada 15 dias ou, no mínimo, uma vez por mês. O procedimento pode ser feito pelo próprio consumidor, com água morna e detergente neutro, mas os filtros precisam secar completamente à sombra antes de serem reinstalados: Outro ponto é evitar o resfriamento excessivo e o fluxo de ar diretamente sobre o rosto. A porta-voz destaca que não existe uma temperatura única adequada para todas as pessoas, já que o conforto depende das condições do ambiente e da sensibilidade de cada usuário. Durante a noite, recursos de climatização também podem ajustar o funcionamento do aparelho conforme o período de sono. \"A configuração deve considerar as condições do ambiente e a sensibilidade de cada usuário, evitando o resfriamento excessivo\", afirma. A umidade também merece atenção, especialmente para quem sente ressecamento nasal e irritação na garganta. A marca destaca que o Modo Dry Comfort utiliza sensores de temperatura e umidade para controlar essas condições, enquanto o WindFree distribui o ar por microfuros, sem direcionar uma rajada diretamente às pessoas. Quer saber se o ar-condicionado sem vento da Samsung funciona mesmo? Veja como é na prática . Clarissa ressalta que a manutenção continua indispensável: \"Recomendamos ainda uma limpeza mais completa ao menos uma vez ao ano\". Cada pessoa pode reagir de uma maneira diferente. Por isso, vale observar como o organismo responde ao uso do ar-condicionado e procurar orientação médica quando necessário. Agora que já sabe os cuidados que prec",
+  "numeros": [
+   {
+    "valor": "a cada 15 dias",
+    "rotulo": "recomendação para limpeza dos filtros"
+   },
+   {
+    "valor": "uma vez ao ano",
+    "rotulo": "limpeza completa recomendada"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Profissionais liberais",
+   "Restaurantes",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de conforto e agravamento de problemas respiratórios",
+  "angulo": "Entender a importância da manutenção dos equipamentos é fundamental para evitar perdas de rendimento e desconfortos, fazendo com que você procure serviços de assessoria em gerenciamento.",
+  "gancho": "*Ar-condicionado*: cuidado com sua saúde respiratória!",
+  "ideias": [
+   "Importância da manutenção do ar-condicionado",
+   "Como o ar-condicionado pode afetar sua saúde",
+   "Dicas para um uso seguro do ar-condicionado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:57:04-03:00",
+  "url": "https://canaltech.com.br/eletro/a-rinite-esta-atacando-saiba-se-seu-ar-condicionado-e-o-vilao/",
+  "publicadoEm": "2026-11-07T19:30:00-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Varejo brasileiro e queda no faturamento de novembro",
+  "resumo": "Apesar da Black Friday, varejo deve faturar R$ 296,8 bilhões, uma queda de 2,5% em relação ao ano anterior. O cenário exige estratégias eficazes para atrair consumidores.",
+  "fatos": [
+   "O varejo brasileiro deve movimentar R$ 296,8 bilhões em novembro de 2026.",
+   "Essa expectativa representa uma queda de 2,5% em relação a 2025, que registrou R$ 304,4 bilhões.",
+   "A projeção é do IEMI – Inteligência de Mercado, que analisa o varejo restrito.",
+   "Mesmo com a Black Friday, que ocorre em 27 de novembro, as vendas totais devem ser inferiores.",
+   "O mês deve representar 8,7% do faturamento anual do varejo em 2026."
+  ],
+  "explicacao": [
+   "A expectativa de queda no faturamento reflete um ambiente de maior cautela dos consumidores devido aos altos juros.",
+   "Os varejistas precisam estar atentos aos preços, condições de pagamento e à apresentação das ofertas para garantir vendas.",
+   "Cenários de crédito caro indicam que os consumidores pesquisarão mais antes de realizar compras, afetando as estratégias de vendas de empresas."
+  ],
+  "materia": "O comércio brasileiro se prepara para uma das datas mais importantes do calendário de vendas, mas os números indicam que nem mesmo a Black Friday será suficiente para garantir um novembro melhor que o do ano passado. A expectativa é de que o varejo movimente R$ 296,8 bilhões em novembro de 2026 , uma queda de 2,5% em relação ao mesmo mês de 2025. A projeção é do IEMI – Inteligência de Mercado, que estima um faturamento inferior aos R$ 304,4 bilhões registrados em novembro do ano passado. A diferença chega a R$ 7,6 bilhões, mesmo com as campanhas promocionais que já começaram a disputar a atenção dos consumidores. O levantamento considera o chamado varejo restrito, que reúne atividades como supermercados, lojas de roupas e calçados, farmácias, móveis e eletrodomésticos. O valor previsto corresponde ao mês inteiro , e não apenas às vendas da Black Friday, marcada para 27 de novembro. Brasil segue no topo do ranking mundial de juros reais, chega a 9,49% e supera Turquia e Argentina em levantamento com 40 países Governo Lula vai liberar vales do Gás do Povo para 3,1 milhões de famílias em 10 de novembro com mais de R$ 337 milhões Concessionária vai pagar R$ 29,6 mil a motorista que bateu em anta na MT-338, mas a Justiça deixou de fora o estepe e a multimídia furtados do carro no acostamento, e o motivo vale para quem pega estrada com pedágio Projeto quer transformar até 2 horas de almoço em jornada paga no Brasil, mas estudo aponta custo até 33% maior por hora trabalhada A estimativa também considera valores nominais, sem descontar os efeitos da inflação. Portanto, a redução de 2,5% no faturamento não significa, necessariamente, que a quantidade de produtos comercializados cairá na mesma proporção. A Black Friday transformou novembro em um período estratégico para o varejo. O movimento já não se concentra exclusivamente na última sexta-feira do mês, pois muitas empresas antecipam descontos e distribuem campanhas por várias semanas. Ainda assim, o levantamento do IEMI indica que novembro deverá representar 8,7% do faturamento anual do varejo em 2026 . Em 2025, essa participação foi de 9%, enquanto em 2024 chegou a 9,1%. A redução mostra que o mês promocional deve perder espaço relativo nas receitas do setor, apesar de continuar movimentando centenas de bilhões de reais. Para o ano inteiro, a consultoria trabalha com uma previsão de R$ 3,43 trilhões em faturamento , crescimento nominal de 0,9% na comparação com 2025. O contraste indica que a retração prevista para novembro não significa, por si só, queda no faturamento acumulado do ano. Os números se referem ao varejo restrito, classificação que não inclui segmentos como veículos, motocicletas e materiais de construção. Essa delimitação é importante porque o desempenho desses mercados pode seguir trajetórias diferentes. Marcelo Prado, diretor do IEMI, avalia que a edição de 2026 da Black Friday ocorre em um ambiente de maior cautela por parte dos consumidores. Para os comerciantes, a combinação exige atenção aos preços, às condições de pagamento e à forma como as ofertas são apresentadas. Na prática, o cenário coloca os varejistas diante de um consumidor que tende a pesquisar antes de gastar. Um desconto anunciado na vitrine ou no aplicativo pode não ser suficiente para garantir a venda se o preço final, o frete ou o parcelamento não forem competitivos. O desafio também envolve o planejamento das campanhas. Antecipar promoções pode ajudar a atrair clientes, mas exige cuidado para não comprometer as margens de lucro nem apenas transferir para o começo de novembro compras que ocorreriam no fim do mês. Em um ambiente de crédito caro, as condições de pagamento ganham importância. Para o consumidor, um produto anunciado com desconto pode acabar custando mais quando os juros do parcelamento são considerados. Para os lojistas, oferecer condições atraentes também envolve custos. O resultado depende do equilíbrio entre preço, volume de vendas, estoques e despesas necessárias para realizar ca",
+  "numeros": [
+   {
+    "valor": "296,8 bilhões",
+    "rotulo": "faturamento esperado em novembro de 2026"
+   },
+   {
+    "valor": "2,5%",
+    "rotulo": "queda em relação a november de 2025"
+   },
+   {
+    "valor": "8,7%",
+    "rotulo": "participação do faturamento anual em novembro de 2026"
+   }
+  ],
+  "fonte": "CPG Click Petróleo e Gás",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "vendas caindo e consumidores hesitantes",
+  "angulo": "Com a expectativa de queda nas vendas, os empresários precisam de gestão de marketing eficaz para se adaptar e se destacar.",
+  "gancho": "Sua venda caiu? *Hora de repensar estratégias!*",
+  "ideias": [
+   "Como a Black Friday pode impactar suas vendas?",
+   "Dicas para se destacar no varejo em novembro",
+   "Prepare-se para a Black Friday com estratégia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:57:04-03:00",
+  "url": "https://clickpetroleoegas.com.br/mesmo-com-a-black-friday-varejo-brasileiro-deve-faturar-r-2968-bilhoes-em-novembro-queda-de-25-ante-2025-asaf04/",
+  "publicadoEm": "2026-11-07T17:00:00-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ciberataques podem impactar suas vendas na Black Friday",
+  "resumo": "Ciberataques durante a Black Friday podem comprometer tanto as vendas quanto a segurança de dados. Prepare-se agora para não perder vendas importantes.",
+  "fatos": [
+   "A expectativa é que o comércio eletrônico brasileiro movimente R$ 13,3 bilhões durante a Black Friday de 2026, alta de 20,7% em relação a 2025.",
+   "62% dos consumidores afirmam que sites lentos os fazem buscar outras opções.",
+   "Um ataque cibernético pode interromper pagamentos e comprometer a operação da loja virtual.",
+   "As empresas devem implementar medidas de segurança e gestão de riscos para prevenir golpes, especialmente durante campanhas de alta demanda.",
+   "Cibercriminosos usam inteligência artificial para tornar golpes mais sofisticados, aumentando os riscos para os varejistas."
+  ],
+  "explicacao": [
+   "A Black Friday é um período crítico que concentra grande demanda em poucos dias, aumentando a pressão sobre sistemas tecnológicos.",
+   "Ciberataques representam uma ameaça real, podendo resultar em perdas financeiras enormes e danos à reputação da marca.",
+   "As empresas precisam estar preparadas para a demanda, com infraestrutura eficiente e medidas de segurança para proteger clientes e dados."
+  ],
+  "materia": "Trump oferece cargo de porta-voz da Casa Branca a Dana White, presidente do UFC Trump manda investigar democratas por suposta extorsão após derrota nas eleições Diretor de estratégia da Meta, Dave Wehner deixa empresa para assumir cargo de CFO na startup de IA Fireworks Por que as perspectivas para ações do setor de saúde são incertas diante da nova composição do Congresso nos EUA Risco de escalada no Irã segue alto apesar da vitória democrata nas eleições de meio de mandato dos EUA, dizem analistas Publicado 07/11/2026 • 17:15 | Atualizado há 5 horas Entre a escolha do produto e o pagamento, a Black Friday põe à prova a capacidade tecnológica do varejo. Um site que trava, um estoque que não atualiza ou uma transação que não conclui podem desperdiçar em segundos o investimento feito para levar o cliente até a loja, e os ciberataques ampliam esse risco. A pressão sobre os sistemas aumenta com a expectativa de vendas. A projeção da Confi, por meio da Neotrust, em parceria com o E-Commerce Brasil, é que o comércio eletrônico brasileiro movimente R$ 13,3 bilhões de quinta-feira (26) a domingo (29), alta de 20,7% sobre o mesmo período de 2025. Leia também: Quais setores da economia podem ganhar ou perder com a mudança no Congresso dos EUA? Além disso, a experiência digital pesa na decisão de compra. A pesquisa Abandono de Carrinho 2026, do Opinion Box, mostra que 62% dos entrevistados afirmam que sites demorados os levam a buscar outra opção. Preparar a operação para a demanda também exige medir o custo de atender cada venda. Se as despesas com tecnologia crescerem sem controle durante a campanha, parte do faturamento adicional é consumida pela própria operação. Para a Zadara, o primeiro passo é avaliar a capacidade tecnológica, identificar gargalos e dar previsibilidade aos custos em diferentes cenários de demanda. “Isso exige capacidade para suportar picos de demanda, segurança nas transações e controle dos custos, preservando a experiência do cliente e a rentabilidade do negócio”, afirma Dirval Junior, diretor comercial da Zadara. Por sua vez, um ataque durante a campanha pode interromper pagamentos, tirar a loja virtual do ar e comprometer a integração entre lojas, estoques e centros de distribuição. Além das vendas perdidas, o varejista fica sujeito a exposição de dados, custos de recuperação e danos à reputação. Segundo Guilherme Marcial, diretor de marketing e vendas da Teletex, uma arquitetura que combine segmentação de redes, controle de acessos, inteligência de ameaças (CTI) e monitoramento contínuo por um Centro de Operações de Segurança (SOC) ajuda a antecipar riscos e conter ataques antes que atinjam toda a operação. A iTProtect acrescenta que o monitoramento em tempo real, com SOC/MDR em alerta contínuo e apoio de inteligência artificial, identifica padrões anômalos e bloqueia ameaças à medida que surgem. Para Willy Andersen, diretor técnico da empresa, é preciso definir antes quem recebe os alertas, quem autoriza medidas de contenção e quais serviços devem ser preservados. “Durante o pico, a demora para tomar uma decisão pode ampliar o impacto de um incidente”, diz. Siga o Times | CNBC no Google e receba as principais notícias do Brasil e do Mundo. Já a gestão das informações sobre produtos, clientes e pedidos precisa funcionar entre diferentes sistemas, mesmo com o aumento simultâneo de consultas e transações. Na avaliação da Everpure, a preparação deve considerar tanto os sistemas que registram as compras quanto as aplicações que analisam esses dados durante a campanha. “A Black Friday concentra a demanda mensal ou anual em apenas alguns dias, exercendo uma pressão significativa sobre a capacidade de gerenciamento de dados dos varejistas”, afirma Cláudio Tancredi, country manager da Everpure no Brasil. Na área de pagamentos, a Futurex lembra que o varejo convive com ambientes que reúnem diversas chaves criptográficas, e cada uma precisa ser criada, distribuída, armazenada, trocada e controlada com segurança. Segund",
+  "numeros": [
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "previsão de movimentação do e-commerce"
+   },
+   {
+    "valor": "62%",
+    "rotulo": "de consumidores que buscam alternativas por lentidão"
+   }
+  ],
+  "fonte": "Times Brasil | CNBC",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "vendas perdidas e reputação danificada",
+  "angulo": "A preparação para a Black Friday, com um site otimizado e segurança cibernética, é crucial para não perder vendas e clientes nesta data movimentada.",
+  "gancho": "A sua loja está *preparada para a Black Friday?*",
+  "ideias": [
+   "5 dicas para proteger sua loja online",
+   "Como evitar perdas na Black Friday",
+   "Preparativos para aumentar suas vendas em 2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:57:04-03:00",
+  "url": "https://timesbrasil.com.br/empresas-e-negocios/ciberataques-black-friday-ecommerce-13-bilhoes-seguranca-infraestrutura/",
+  "publicadoEm": "2026-11-07T17:15:00-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-vpr-10"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Alimenta 2026 destaca empreendedorismo na gastronomia brasileira",
   "resumo": "O evento Alimenta 2026, em Brasília, reúne mais de 160 expositores e espera 20 mil visitantes, promovendo a conexão entre produção regional e mercado. O Sebrae busca impulsionar negócios e visibilidade.",
   "fatos": [
@@ -492,6 +733,234 @@
   "publicadoEm": "2026-11-07T12:14:06-03:00",
   "data": "2026-11-07",
   "id": "2026-11-07-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 impacta funcionários e empresas",
+  "resumo": "O governo anunciou que um decreto regulamentando o fim da escala 6x1 será publicado na próxima segunda-feira. Essa mudança pode gerar impactos significativos no mercado de trabalho.",
+  "fatos": [
+   "O decreto que regulamenta o fim da escala 6x1 deve ser divulgado na próxima segunda-feira.",
+   "A mudança afeta empregados e empregadores, principalmente nas áreas de serviços.",
+   "A nova regulamentação pode flexibilizar a jornada de trabalho.",
+   "Funcionários podem esperar mudanças na carga horária e nos direitos trabalhistas.",
+   "Empresas também podem precisar se adaptar à nova legislação com custos adicionais."
+  ],
+  "explicacao": [
+   "Essa decisão do governo busca modernizar a legislação trabalhista e responder às novas dinâmicas do mercado.",
+   "O fim da escala 6x1 pode proporcionar mais liberdade na gestão de horários dos empregados.",
+   "Para os trabalhadores, isso pode significar melhores condições ou a redução de horas semanais, dependendo da implementação.",
+   "As empresas terão de se adaptar, o que pode gerar custos e um novo cenário de contratação.",
+   "Essa alteração na legislação mostra a necessidade de investimento em novas habilidades, como a atuação no mercado financeiro."
+  ],
+  "materia": "Jornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine Entrar",
+  "numeros": [],
+  "fonte": "Estadão",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "medo de perda de benefícios e renda estável",
+  "angulo": "O fim da escala 6x1 pode gerar insegurança financeira, mas também abre oportunidades para investir no mercado financeiro e garantir novas fontes de renda.",
+  "gancho": "Mudanças no trabalho: *o que esperar do novo decreto*?",
+  "ideias": [
+   "Fim da escala 6x1: o que muda?",
+   "Como o novo decreto pode impactar sua renda?",
+   "Prepare-se: novas leis e o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:57:04-03:00",
+  "url": "https://www.estadao.com.br/em-alta/economia/marinho-diz-que-decreto-que-regulamenta-fim-da-escala-6x1-deve-sair-na-proxima-segunda-feira/",
+  "publicadoEm": "2026-11-07T18:31:48-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e impactos no varejo",
+  "resumo": "Com o debate sobre a extinção da escala 6x1, o varejo enfrenta desafios operacionais e financeiros. Empresários precisam se preparar para as mudanças que devem afetar suas margens e contratações.",
+  "fatos": [
+   "A FecomercioSP fará um debate sobre a extinção da jornada 6x1 em 9 de novembro de 2026.",
+   "A medida pode afetar diretamente 1,8 milhão de empresários do setor terciário em São Paulo.",
+   "Esses empresários representam cerca de 10% do PIB do Brasil e sustentam aproximadamente 10 milhões de empregos formais.",
+   "Mudanças nas jornadas devem aumentar custos operacionais e afetar a rentabilidade das operações comerciais.",
+   "A entidade patronal argumenta que essa alteração pode levar à retração das contratações e fechamento de estabelecimentos menores."
+  ],
+  "explicacao": [
+   "A extinção da escala de trabalho 6x1 é uma proposta que impacta a estrutura de jornada de vários setores, especialmente o varejo.",
+   "Com a diminuição das horas trabalhadas, as empresas precisarão de mais colaboradores para manter o mesmo nível de atendimento ao público.",
+   "Falta de planejamento para essa mudança pode gerar passivos trabalhistas e comprometer a competitividade das empresas.",
+   "As empresas que não se adaptarem a essa nova realidade poderão encontrar dificuldades financeiras e operacionais no futuro.",
+   "Por outro lado, a digitalização e a automação podem ajudar as empresas a manter a eficiência diante dessas mudanças."
+  ],
+  "materia": "A FecomercioSP programou para a próxima segunda-feira, 9 de novembro de 2026 , às 17h, uma transmissão virtual voltada a orientar empresários do setor terciário sobre os desdobramentos operacionais e jurídicos decorrentes das propostas de extinção da jornada de trabalho sob escala de seis dias de atividade por um de descanso. O encontro técnico visa elucidar os impactos imediatos sobre contratações, arranjos de turnos e margens financeiras em um período crítico de demanda no mercado brasileiro. Segundo informações divulgadas pela entidade patronal paulista, o debate ocorre no limiar das campanhas de Black Friday e do período de compras de fim de ano, momentos em que o comércio varejista e as redes de serviços tradicionalmente expandem seus quadros temporários e operam com horários estendidos. A instituição sustenta que a alteração do modelo de trabalho em vigor exige planejamento preventivo das lideranças corporativas para mitigar passivos trabalhistas e evitar rupturas no atendimento presencial e logístico. Conforme a entidade, a reorganização das jornadas demanda uma avaliação que ultrapassa a mera diminuição das horas trabalhadas, alcançando decisões sobre a viabilidade econômica do negócio, cálculo de horas extraordinárias e readequação de escalas. A entidade argumenta que as empresas necessitam de segurança jurídica e de previsibilidade orçamentária para absorver as novas diretrizes sem comprometer a competitividade e o nível de emprego formal. O debate em torno da escala de trabalho incide de maneira profunda sobre a estrutura do setor de comércio de bens, serviços e turismo no estado de São Paulo, polo que concentra expressiva fatia da atividade econômica nacional. A Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo reúne a representação de 1,8 milhão de empresários , contingente responsável por aproximadamente 10% do Produto Interno Bruto (PIB) do Brasil e pela sustentação de cerca de 10 milhões de postos de trabalho formais. A entidade pontua que as características intrínsecas ao varejo e ao setor de hospitalidade dependem de funcionamento ininterrupto ou de jornadas dilatadas durante os finais de semana, período no qual se concentra parcela substancial do faturamento das lojas físicas, restaurantes e empreendimentos turísticos. Por essa razão, a imposição de limites mais rígidos ou a vedação do formato 6×1 impõe desafios de cobertura de postos que afetam diretamente a rentabilidade média das operações de pequeno, médio e grande porte. Adicionalmente, o contexto macroeconômico de 2026 reflete margens de lucro comprimidas por custos operacionais contínuos, encargos sobre a folha de pagamento e oscilações no consumo das famílias. Nesse ambiente, a entidade argumenta que modificações nas regras de jornada sem a devida modulação setorial e sem suporte em instrumentos de flexibilização podem induzir retração nas contratações e potencializar o fechamento de estabelecimentos com menor capacidade de caixa. A análise técnica formulada pela federação indica que a redução compulsória da jornada acarreta um dilema logístico para gestores de operações e de Recursos Humanos (RH) . De acordo com o material técnico do evento, a redução das horas semanais sem a correspondente contrapartida na produtividade horária implica a necessidade de admitir mais colaboradores para manter o mesmo volume de atendimento ao público consumidor. Especialistas escalados para o painel pretendem destrinchar esses aspectos financeiros. Entre os participantes confirmados estão Kelly Carvalho , assessora econômica da entidade; Marisa Salgado , partner na consultoria de liderança executiva Signium Brasil; e Rodrigo Chagas Soares , advogado, docente de Direito do Trabalho e Sindical no Insper e integrante do Conselho de Emprego e Relações de Trabalho da entidade. A programação visa contrastar a doutrina trabalhista com a prática diária de gestão de pessoas no ambiente corporativo. O evento pretende esclarecer diretrizes práticas sobre: ",
+  "numeros": [
+   {
+    "valor": "10 milhões",
+    "rotulo": "postos de trabalho sustentados"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "do PIB brasileiro"
+   },
+   {
+    "valor": "1,8 milhão",
+    "rotulo": "de empresários afetados"
+   }
+  ],
+  "fonte": "Brasil Inovador",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "temor de aumento de custos e menores margens de lucro",
+  "angulo": "Com as mudanças na jornada de trabalho, o aprendizado sobre o mercado financeiro pode ser a chave para aumentar sua renda, sem depender exclusivamente do que seu negócio tradicional pode oferecer.",
+  "gancho": "*Mudança de jornada*, maior desafio para o varejo!",
+  "ideias": [
+   "Como o fim da escala 6x1 impacta seu negócio?",
+   "Prepare sua empresa para novas jornadas de trabalho",
+   "Aumentando sua renda: aprenda a investir"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:57:04-03:00",
+  "url": "https://brasilinovador.com.br/fecomerciosp-debate-impactos-do-fim-da-escala-6x1-sobre-custos-e-operacoes-no-varejo/",
+  "publicadoEm": "2026-11-07T18:45:14-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Prazo curto para fim da escala 6x1 preocupa empresários",
+  "resumo": "Fecomércio-DF e CNC pedem ao STF mais tempo para adaptação ao fim da escala 6x1. Alterações podem impactar o comércio no período de Natal.",
+  "fatos": [
+   "Fecomércio-DF e CNC acionaram o STF para adiar o fim da escala 6x1.",
+   "O prazo atual é de 60 dias, mas requerem adiamento para outubro de 2027.",
+   "A primeira etapa prevê duas folgas semanais e redução de jornada para 42 horas.",
+   "Mudanças coincidem com períodos movimentados como Black Friday e Natal.",
+   "Mudança para 40 horas semanais poderia ser adiada para o fim de 2028.",
+   "A ação está em análise no STF e não tem prazo definido para julgamento."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1, que permite folgas apenas a cada seis dias, gera preocupações em setores que dependem de contratações temporárias.",
+   "Os empresários argumentam que o prazo dado é insuficiente para renegociar contratos e ajustar a mão de obra.",
+   "A alteração proposta pode impactar diretamente a rotina de trabalho e a capacidade de atendimento em épocas movimentadas do comércio."
+  ],
+  "materia": "Adicione como fonte preferencial no Google A Fecomércio-DF, em conjunto com a Confederação Nacional do Comércio, acionou o STF Supremo Tribunal Federal) para pedir mais prazo para que as empresas se adaptem ao fim da escala 6x1. A entidade considera insuficientes os 60 dias concedidos à iniciativa privada e propõe adiar de 16 de dezembro de 2026 para outubro de 2027 a primeira etapa da mudança, que prevê duas folgas semanais e a redução da jornada de 44 para 42 horas. Os empresários argumentam que o prazo é curto para reorganizar as escalas de trabalho, rever contratos e negociar convenções coletivas com os sindicatos. A preocupação aumenta porque a mudança está prevista para entrar em vigor em um período de grande movimento no comércio, entre a Black Friday e o Natal. Caso o pedido seja aceito, a redução seguinte, de 42 para 40 horas semanais, ficaria para o fim de 2028. A ação ainda está em análise no STF e não tem prazo para julgamento. Grupo terá 120 dias para apresentar estudos e propostas sobre infraestrutura de recarga, descarte e reciclagem de baterias Mudança permite que cartões de diferentes empresas sejam aceitos em uma rede mais ampla de estabelecimentos Imunização protege contra 20 tipos da bactéria pneumococo, que pode causar infecções como otite, meningite e pneumonia Evento busca aproximar empresários, produtores e fornecedores, além de apresentar ao público a diversidade da produção local Mais de 5 milhões de candidatos fazem o primeiro dia do exame neste domingo (8); prova começa às 13h30 Segundo representante do setor de combustíveis, redução de apenas R$ 0,19 chegou às bombas e durou poucas semanas Mais de 800 tipos de produtos podem ser destinados a escolas e instituições públicas do DF e da União Iniciativa retomou as visitas guiadas ao estádio e vai receber grupos de alunos todas as quintas-feiras até o fim do ano letivo Leilão será totalmente on-line, com abertura oficial às 9h do dia 27 de novembro, pelo site da VIP Leilões Propostas sobre monitoramento de agressores e sucessão temporária no Executivo estão em discussão na Casa Parlamentares articulam uma solução legislativa para impedir que nova regra afete os recursos do fundo Preços das diárias aumentam até 923% com expectativa de visitantes na capital Forças de segurança unem-se em ação coordenada contra criminosos com mandados em aberto Proposta de R$ 80 bilhões inclui investimentos em saúde, educação e obras; mudanças podem afetar repasses Utilizamos cookies e tecnologia para aprimorar sua experiência de navegação de acordo com o Aviso de Privacidade .",
+  "numeros": [
+   {
+    "valor": "60 dias",
+    "rotulo": "prazo atual para adaptação"
+   },
+   {
+    "valor": "2027",
+    "rotulo": "nova proposta para implementação"
+   },
+   {
+    "valor": "44 para 42 horas",
+    "rotulo": "redução de jornada"
+   }
+  ],
+  "fonte": "R7",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT"
+  ],
+  "dor": "preocupação com mudanças que afetam a contratação",
+  "angulo": "Aprender a lidar com o mercado financeiro pode ser uma alternativa para empresários e profissionais que se sentem pressionados pelas mudanças nas leis trabalhistas.",
+  "gancho": "Adaptação trabalhista: *mais um desafio para o comércio*",
+  "ideias": [
+   "Fim da escala 6x1: O que muda para empresários?",
+   "Como a nova lei pode impactar seu negócio?",
+   "Adaptações na jornada: Desafios e soluções possíveis."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:57:04-03:00",
+  "url": "https://www.r7.com/brasilia/df-record/video/comercio-aciona-stf-para-adiar-fim-da-escala-6x1-e-evitar-mudancas-as-vesperas-do-natal-07112026/",
+  "publicadoEm": "2026-11-07T16:47:57-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: mudanças e desafios para pequenas empresas",
+  "resumo": "O governo irá regulamentar o fim da escala 6x1 até 2026, exigindo adaptação nas micro e pequenas empresas e controle de produtividade. Mudanças afetam jornada e custos operacionais.",
+  "fatos": [
+   "Um decreto deverá ser publicado em 9 de novembro de 2026, reduzindo a jornada máxima para 40 horas semanais.",
+   "As mudanças incluem a obrigatoriedade de, no mínimo, oito folgas mensais para trabalhadores contratados sob CLT.",
+   "Após dois meses da publicação, a carga semanal será reduzida para 42 horas e, um ano depois, para 40 horas.",
+   "Profissionais autônomos e microempreendedores que não têm empregados não serão afetados pela mudança.",
+   "Micro e pequenas empresas que dependem de colaboradores formais enfrentarão desafios em atender a nova carga horária sem aumentar custos."
+  ],
+  "explicacao": [
+   "A mudança na legislação busca melhorar as condições trabalhistas, limitando a jornada de trabalho e promovendo mais folgas.",
+   "Para as micro e pequenas empresas, isso significa que terão que repensar suas escalas e fluxos de atendimento para manter a produtividade.",
+   "É crucial que os empresários façam análises financeiras para evitar passivos trabalhistas e garantir operações contínuas."
+  ],
+  "materia": "O governo federal planeja publicar em 9 de novembro de 2026 o decreto que regulamentará o término da escala de trabalho 6×1 no território nacional, fixando a jornada máxima em 40 horas semanais , segundo levantamento e orientações divulgados pela Contabilizei . O texto normativo deve instituir a obrigatoriedade de ao menos oito folgas mensais para profissionais contratados sob a Consolidação das Leis do Trabalho (CLT), estabelecendo mecanismos para eventuais adequações setoriais intermediadas por negociações coletivas. A mudança estrutural transfere para o centro da gestão das micro e pequenas empresas a necessidade de redimensionar escalas, revisar rotinas de atendimento e recalcular o custo operacional da mão de obra sem comprometer a rentabilidade. A transição estabelecida pelo Executivo federal prevê um cronograma em duas etapas para diluir as pressões sobre o caixa das organizações. Dois meses após a publicação oficial da norma, a carga semanal máxima recuará para 42 horas semanais , atingindo o patamar definitivo de 40 horas semanais um ano e dois meses após esse primeiro marco regulatório. Diante dessa determinação, a empresa de contabilidade destaca que a reformulação não atinge de forma uniforme todas as configurações societárias, exigindo diagnósticos individualizados sobre vínculos contratuais e modelos de atendimento. A aplicação dos novos limites de jornada restringe-se estritamente aos contratos regidos pelas normas trabalhistas da CLT, não alcançando profissionais autônomos, prestadores de serviços constituídos como pessoa jurídica (PJ) ou Microempreendedores Individuais (MEIs) que operam sem quadro de funcionários. De acordo com as análises do sócio-diretor de contabilidade e relações institucionais da Contabilizei, Charles Gularte, a legislação incide sobre o vínculo empregatício formal, mantendo a autonomia daqueles que gerenciam a própria atividade sem subordinados diretos. Para o universo de trabalhadores por conta própria, a flexibilidade operacional permanece inalterada, cabendo ao próprio empreendedor a definição do tempo dedicado à prestação dos serviços. No entanto, quando a estrutura do negócio envolve empregados registrados, a obrigatoriedade de cumprimento dos limites semanais passa a vigorar plenamente. A diferenciação exige atenção preventiva para evitar passivos trabalhistas decorrentes de interpretações errôneas sobre a natureza das relações de trabalho e a prestação contínua de serviços. Empresas que dependem de colaboradores formais enfrentam o desafio imediato de manter os níveis de atendimento e entrega sem recorrer automaticamente ao aumento de preços ou à contratação imediata de novos funcionários. A recomendação técnica prioritária da assessoria contábil é mapear detalhadamente o fluxo de demandas ao longo dos dias da semana antes de tomar qualquer decisão de investimento em folha de pagamento. O segmento de microempreendedores individuais que possui um funcionário contratado — limite máximo autorizado pela legislação vigente dessa categoria — figura entre as estruturas mais pressionadas pelo fim da escala 6×1. O colaborador registrado, que anteriormente podia cumprir até 44 horas semanais , precisará ter sua carga reduzida para 40 horas, distribuídas em cinco dias de atividade, sem que haja redução em sua remuneração nominal mensal. Em estabelecimentos que operam seis dias por semana, como padarias, salões de beleza, oficinas e comércio varejista de bairro, a redução gera uma lacuna de cobertura que não pode ser suprida pelo mesmo funcionário sem o pagamento de horas suplementares ou infração às novas regras de descanso. Conforme aponta Gularte, caberá ao proprietário cobrir a escala presencialmente, encurtar o horário diário de funcionamento do estabelecimento ou avaliar a viabilidade contábil e fiscal de desenquadrar do regime de MEI para se transformar em Microempresa (ME), viabilizando contratações adicionais. A transição de regime tributário, entretanto, envolve custos previdenciári",
+  "numeros": [
+   {
+    "valor": "40 horas",
+    "rotulo": "nova jornada semanal máxima"
+   },
+   {
+    "valor": "8 folgas",
+    "rotulo": "mínimo de folgas mensais"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "acréscimo no valor da hora trabalhada"
+   }
+  ],
+  "fonte": "Brasil Inovador",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Perda de controle sobre custos e produtividade.",
+  "angulo": "Aprender sobre o mercado financeiro se torna essencial para minimizar impactos de mudanças na legislação, garantindo maior liberdade financeira.",
+  "gancho": "A nova regra pode *afetar seu negócio*!",
+  "ideias": [
+   "Adapte sua empresa ao fim da escala 6x1",
+   "Como a nova legislação impacta seus custos?",
+   "Desvendando o fim da jornada 6x1 na prática"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-07T21:57:04-03:00",
+  "url": "https://brasilinovador.com.br/fim-da-escala-6x1-exige-reorganizacao-operacional-e-controle-de-produtividade-em-micro-e-pequenas-empresas/",
+  "publicadoEm": "2026-11-07T16:55:04-03:00",
+  "data": "2026-11-07",
+  "id": "2026-11-07-trader-09"
  },
  {
   "segmento": "trader",
