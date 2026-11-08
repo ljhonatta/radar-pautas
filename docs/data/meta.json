@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-08T13:24:39-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-11-08T17:05:26-03:00",
+  "novas": 3,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Fim da escala 6×1: novos direitos ao trabalhador; Mudança na jornada de trabalho e hora do almoço; Prioridade: Fim da escala 6x1 e cesta básica sem impostos.",
+  "mensagem": "3 pauta(s) nova(s): Fim da escala 6x1: mudanças podem afetar seu bolso; Mudanças na CLT podem impactar seu trabalho; Mudança na CLT pode afetar jornada de trabalho.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-08T17:05:26-03:00",
    "2026-11-08T13:24:39-03:00",
    "2026-11-07T21:57:04-03:00",
    "2026-11-07T16:47:17-03:00",
@@ -18,19 +19,19 @@
    "2026-11-05T22:51:37-03:00",
    "2026-11-05T18:44:16-03:00",
    "2026-11-05T14:43:11-03:00",
-   "2026-11-04T22:52:51-03:00",
-   "2026-11-04T18:39:55-03:00"
+   "2026-11-04T22:52:51-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-08T13:24:39-03:00",
+  "ultimaColeta": "2026-11-08T17:05:26-03:00",
   "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Mudanças no WhatsApp Business afetam empresas brasileiras; Endividamento eleva desafios para a Black Friday 2026; IA pode aumentar desigualdade no e-commerce.",
+  "mensagem": "6 pauta(s) nova(s): Como a Black Friday impacta seu negócio?; Entenda como o comportamento do consumidor muda em 2026; Criptoativos: o que a normalização do Nubank significa?.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-08T17:05:26-03:00",
    "2026-11-08T13:24:39-03:00",
    "2026-11-07T21:57:04-03:00",
    "2026-11-07T16:47:17-03:00",
@@ -41,8 +42,7 @@
    "2026-11-05T22:51:37-03:00",
    "2026-11-05T18:44:16-03:00",
    "2026-11-05T14:43:11-03:00",
-   "2026-11-04T22:52:51-03:00",
-   "2026-11-04T18:39:55-03:00"
+   "2026-11-04T22:52:51-03:00"
   ]
  }
 }
