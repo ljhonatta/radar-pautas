@@ -1,6 +1,532 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Imposto do pecado: impacto na venda de produtos",
+  "resumo": "A partir de 2027, produtos como cigarros e bebidas alcoólicas terão um novo imposto, impactando suas vendas. Empresários precisam se preparar para as mudanças financeiras que este imposto e o comportamento do consumidor podem gerar.",
+  "fatos": [
+   "A partir de fevereiro de 2027, produtos prejudiciais à saúde terão um novo imposto, chamado Imposto Seletivo.",
+   "O imposto varia de 0,5% sobre apostas a 66,7% sobre cigarros, visam encarecer e desestimular o consumo.",
+   "O governo estima arrecadar R$ 41,9 bilhões com este tributo no primeiro ano.",
+   "Os produtos afetados incluem cigarros, bebidas alcoólicas, refrigerantes e veículos.",
+   "O Seletivo terá uma implementação gradual e se sobrepõe ao IPI, que será zerado para a maioria dos produtos."
+  ],
+  "explicacao": [
+   "O Imposto Seletivo foi criado para desestimular o consumo de produtos nocivos à saúde e ao meio ambiente, ajustando o preço dos mesmos.",
+   "Embora as alíquotas sejam fixadas em 2027 para não alterarem preços imediatamente, consumidores vão sentir o impacto a partir de 2028.",
+   "Mudanças no comportamento do consumidor dependerão das alíquotas definitivas, que ainda serão definidas pelo governo."
+  ],
+  "materia": "Quem comprar um maço de cigarros em fevereiro de 2027 irá pagar um novo tributo. O mesmo vale para quem consumir cerveja, destilados, refrigerantes ou até um carro a gasolina. É o chamado Imposto Seletivo ou, como foi apelidado, “imposto do pecado” . Criado pela Reforma Tributária , o objetivo do tributo é encarecer produtos prejudiciais à saúde ou ao meio ambiente. E, dessa forma, desestimular o consumo. No entanto, o novo imposto tem um paradoxo. Se nada mudar até fevereiro, o preço desses produtos continuará o mesmo de hoje para o consumidor. A conta, se vier, ficará para 2028. As primeiras alíquotas foram fixadas pela Medida Provisória 1.399, publicada em edição extra do Diário Oficial da União em 4 de novembro. Elas vão de 0,5% sobre apostas a 66,7% sobre cigarros. Como MP, o texto tem força de lei imediata, mas precisa ser aprovado pela Câmara dos Deputados e pelo Senado para se tornar definitivo. Mas, então, como esse novo imposto irá impactar o bolso e a rotina do consumidor brasileiro? O chamado ‘imposto do pecado’ é um tributo federal criado pela Reforma Tributária sobre certos produtos que fazem mal à saúde ou ao meio ambiente. A lógica é extrafiscal. Ou seja, mais do que arrecadar, o imposto pretende desestimular o consumo pelo preço . A lista de produtos na mira do Imposto Seletivo inclui cigarros e outros fumígenos, bebidas alcóolicas, bebidas açucaradas, veículos, aeronaves, embarcações, bens minerais, loterias, apostas, e fantasy sports. O imposto é cobrado uma única vez, na fabricação, na extração ou na importação, e não gera crédito para as etapas seguintes da cadeia. Nesses produtos, o Imposto Seletivo ocupa o lugar do Imposto sobre Produtos Industrializados (IPI), que terá alíquota zerada para a maior parte dos itens – com exceções ligadas à Zona Franca de Manaus. Para 2027, o governo estima arrecadar R$ 41,9 bilhões com o novo tributo, segundo o Projeto de Lei Orçamentária Anual. O peso desse imposto, no entanto, não é igual para todos. O Seletivo ocupa uma fatia maior do orçamento de quem ganha menos, já que cigarro e bebida pesam mais na renda dessas famílias, aponta o tributarista Raul Iberê Malagò, titular do M&A/Law . A exceção são carros, barcos e aviões, mais presentes nas altas rendas. O cashback criado pela reforma, que devolve parte dos impostos às famílias de baixa renda, por outro lado, não alivia essa conta. Segundo Malagò, a devolução vale para o Imposto sobre Bens e Serviços (IBS) e a Contribuição sobre Bens e Serviços (CBS), mas não para o Seletivo. “A justificativa do governo é que o Seletivo existe para desestimular o consumo nocivo, e não para arrecadar”, aponta o tributarista. “Esse argumento faz sentido no cigarro, em que o preço de fato ajuda a reduzir o consumo entre os mais pobres. Faz pouco sentido no refrigerante, em que 2,6% não muda hábito nenhum: ali sobra só o imposto, e ele é regressivo.” Já Haroldo da Silva, presidente do Conselho Regional de Economia de São Paulo (Corecon-SP) , reconhece o risco regressivo, mas aponta um dilema. “Baratear produtos que fazem mal à saúde, mesmo que para consumidores de menor renda, seria o equivalente a submetê-los ainda mais aos efeitos perniciosos desses produtos”, diz. Para o economista, o efeito final depende da cesta de cada família, da mudança de comportamento, que é o que se busca, e dos ganhos de saúde. O primeiro ano do Imposto Seletivo foi desenhado para não mexer nos preços. A Medida Provisória define um Regime de Implementação Gradual. Nele, as alíquotas de 2027 reproduzem as do IPI em vigor, ajustadas por fatores de conversão que compensam a diferença entre as bases de cálculo dos dois tributos. Por isso, a alíquota nominal engana. “20% de Imposto Seletivo, por exemplo, não significam 20% a mais na prateleira”, resume Haroldo da Silva. Malagò complementa: “Na prática, o IPI muda de nome” . Segundo o tributarista, a ressalva é que os fatores de conversão são médias, e a carga de cada produto pode ficar um pouco acima ou abaixo da ",
+  "numeros": [
+   {
+    "valor": "R$ 41,9 bilhões",
+    "rotulo": "arrecadação prevista em 2027"
+   },
+   {
+    "valor": "66,7%",
+    "rotulo": "alíquota máxima sobre cigarros"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "aumento de custos e impacto na lucratividade",
+  "angulo": "Com as mudanças tributárias previstas, é essencial que empresas apostem em marketing digital para se adaptarem a um cenário de preços ascendentes e mudanças de comportamento no consumidor.",
+  "gancho": "Entenda como o *imposto do pecado* afetará seu negócio",
+  "ideias": [
+   "Prepare-se para o novo imposto de 2027",
+   "Marketing digital: sua solução para o aumento de preços",
+   "Como se adaptar às novas leis e manter vendas estáveis"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://consumidormoderno.com.br/imposto-pecado-seletivo-bolso-consumidor/",
+  "publicadoEm": "2026-11-09T16:18:21-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday: Varejo da RMVale espera alta nas vendas",
+  "resumo": "Varejo da RMVale projeta crescimento de 4% nas vendas durante a Black Friday, segundo o Sincovat. Empresas precisam se preparar para essa oportunidade.",
+  "fatos": [
+   "O varejo da RMVale está prevendo uma alta de 4% nas vendas.",
+   "A expectativa é para o mês da Black Friday.",
+   "A projeção foi feita pelo Sincovat."
+  ],
+  "explicacao": [
+   "A Black Friday é uma data importante para o varejo, e muitas empresas buscam aumentar suas vendas nesse período.",
+   "Com a expectativa de crescimento, é fundamental que os empresários planejem suas estratégias de marketing.",
+   "Investir em um site, gestão de redes e tráfego pago pode ser decisivo para aproveitar essa oportunidade."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "CBN São José dos Campos e Vale",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Temo perder vendas para a concorrência.",
+  "angulo": "A expectativa de vendas da Black Friday revela a importância de uma estratégia de marketing eficaz para maximizar resultados.",
+  "gancho": "Prepare sua loja para *aumentar suas vendas*!",
+  "ideias": [
+   "Está pronto para a Black Friday?",
+   "Como impulsionar suas vendas este mês?",
+   "Estratégias de marketing para a Black Friday."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://www.cbnvale.com.br/varejo-da-rmvale-projeta-alta-de-4-nas-vendas-durante-o-mes-da-black-friday-diz-sincovat/",
+  "publicadoEm": "2026-11-09T17:06:35-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Cuidado com a Black Friday 2026: *descontos ou dívidas?*",
+  "resumo": "Com juros altos e endividamento crescente, consumidores devem avaliar o custo real das compras na Black Friday. Empresários precisam ficar atentos às expectativas de vendas e saúde financeira.",
+  "fatos": [
+   "Os juros médios do crédito livre para pessoas físicas chegaram a 62,4% ao ano em setembro.",
+   "29% da renda familiar já está comprometida com dívidas.",
+   "A inadimplência nas operações de crédito livre atingiu 8,1% em setembro.",
+   "Em 2025, o comércio eletrônico faturou R$ 4,76 bilhões na Black Friday.",
+   "Apesar do aumento no volume de pedidos, o tíquete médio caiu 12,8%, para R$ 553,60."
+  ],
+  "explicacao": [
+   "A Black Friday 2026 acontece em um cenário econômico desafiador, com altos juros e renda familiar comprometida.",
+   "Os consumidores precisam analisar não apenas os descontos, mas também como essas compras impactarão suas finanças no início do ano.",
+   "O aumento no volume de vendas não garante lucro, exigindo planejamento financeiro tanto por parte do consumidor quanto dos varejistas."
+  ],
+  "materia": "A Black Friday 2026 se aproxima em um cenário de crédito caro, avanço da inadimplência e maior comprometimento da renda das famílias brasileiras . Dados do Banco Central (BC) mostram que os juros médios das operações de crédito livre para pessoas físicas atingiram 62,4% ao ano em setembro , enquanto o comprometimento da renda familiar com dívidas chegou a 29% em agosto . O cenário exige atenção ao custo total das compras, especialmente quando o consumidor pretende financiar produtos ou acumular prestações no cartão de crédito. Afinal, um desconto anunciado em novembro pode perder parte de sua vantagem quando os juros e as despesas dos meses seguintes entram na conta. Segundo as Estatísticas Monetárias e de Crédito , divulgadas pelo BC em 29 de outubro, os juros do crédito livre para pessoas físicas aumentaram 0,6 ponto percentual em setembro e 3,7 pontos percentuais em 12 meses. A inadimplência nessa modalidade alcançou 8,1%, com crescimento de 1,2 ponto percentual na comparação anual. Os indicadores ganham relevância diante da dimensão econômica da Black Friday. Em 2025, o comércio eletrônico brasileiro faturou R$ 4,76 bilhões apenas na sexta-feira promocional , crescimento de 11,2% em relação a 2024, segundo a Confi Neotrust. O número de pedidos avançou 28%, para 8,69 milhões, enquanto o tíquete médio recuou 12,8%, chegando a R$ 553,60. Os resultados mostram que o crescimento das vendas ocorreu principalmente pelo aumento do volume de pedidos , e não pelo maior valor médio das compras . Para 2026, a combinação entre promoções, juros elevados e orçamento pressionado coloca o planejamento financeiro no centro das decisões de consumo. Para Mariana Mantovani, fundadora da Boost Marketplace e especialista em comércio eletrônico , o aumento do volume de vendas não significa, necessariamente, maior rentabilidade para os varejistas. A combinação entre mais pedidos e queda do tíquete médio exige atenção aos resultados financeiros das campanhas promocionais. “Mais transações não significam, automaticamente, mais lucro”, observa Mariana. A taxa média de 62,4% ao ano considera operações de crédito livre contratadas por pessoas físicas, incluindo diferentes modalidades de financiamento. Não se trata, portanto, da taxa aplicada a todas as compras parceladas no comércio. No conjunto das operações de crédito livre, envolvendo pessoas físicas e jurídicas, os juros médios chegaram a 49% ao ano em setembro. O indicador apresentou alta de 0,5 ponto percentual no mês e de 3,2 pontos percentuais em 12 meses. Já a taxa média das novas contratações de crédito, considerando recursos livres e direcionados, alcançou 32,4% ao ano, com elevação de 0,2 ponto percentual em relação a agosto. O Banco Central também registrou aumento de 6,8 pontos percentuais na taxa média do cartão de crédito rotativo em setembro. Essa modalidade é utilizada quando o consumidor não paga integralmente a fatura e financia parte do saldo devedor. A situação é diferente das compras parceladas sem juros oferecidas pelos estabelecimentos comerciais. Nesse caso, não há cobrança explícita de juros sobre as prestações, desde que as faturas sejam pagas integralmente nos respectivos vencimentos. O endividamento das famílias com o Sistema Financeiro Nacional atingiu 50,1% em agosto de 2026 , segundo o BC. O resultado representa aumento de 0,2 ponto percentual em relação a julho e de 1,2 ponto percentual em 12 meses. O indicador relaciona o estoque das dívidas bancárias à renda acumulada das famílias. Isso não significa que metade dos brasileiros esteja inadimplente, mas revela a dimensão dos compromissos financeiros assumidos. Outro indicador importante é o comprometimento da renda, que chegou a 29% em agosto, com aumento de 0,2 ponto percentual no mês e de 1,4 ponto percentual em 12 meses. O percentual representa a parcela da renda mensal destinada ao pagamento de juros e amortizações de dívidas. Nesse cenário, as compras da Black Friday podem ampliar compromissos financeiros que já o",
+  "numeros": [
+   {
+    "valor": "62,4%",
+    "rotulo": "juros do crédito livre"
+   },
+   {
+    "valor": "29%",
+    "rotulo": "comprometimento da renda com dívidas"
+   },
+   {
+    "valor": "8,1%",
+    "rotulo": "inadimplência em setembro"
+   },
+   {
+    "valor": "R$ 4,76 bilhões",
+    "rotulo": "faturamento da Black Friday 2025"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Restaurantes",
+   "Profissionais liberais"
+  ],
+  "dor": "Perder vendas e aumentar a inadimplência.",
+  "angulo": "A necessidade de gestão e planejamento financeiro é vital para evitar problemas nas vendas e maximizar lucros durante as promoções.",
+  "gancho": "Descontos que *podem te endividar*!",
+  "ideias": [
+   "A Black Friday e os riscos financeiros",
+   "Como se planejar para as compras na Black Friday",
+   "Descontos: vale a pena ou não?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://consumidormoderno.com.br/black-friday-desconto-novembro-divida-janeiro/",
+  "publicadoEm": "2026-11-09T15:08:50-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Carros elétricos mais caros em 2027: entenda o impacto",
+  "resumo": "Os carros elétricos e híbridos no Brasil devem ter aumento de preço em 2027 devido ao fim de incentivos fiscais e aumento do imposto de importação.",
+  "fatos": [
+   "A partir de janeiro de 2027, os incentivos fiscais para carros elétricos e híbridos terminam.",
+   "O imposto de importação aumentará de 14% para 35%.",
+   "A cota de isenção tarifária de US$ 463 milhões acaba em dezembro de 2026.",
+   "A medida afetará modelos montados sob os regimes CKD e SKD.",
+   "O setor automobilístico prevê uma expansão de 16,4% nas vendas em 2026.",
+   "Analisando o cenário, a expansão pode ser desacelerada em 2027 devido ao cenário de juros altos."
+  ],
+  "explicacao": [
+   "O encerramento dos incentivos fiscais e o aumento do imposto têm como objetivo incentivar a produção local de peças.",
+   "No entanto, isso pode aumentar os custos de veículos que dependem de componentes importados.",
+   "Essas mudanças poderão levar a um repasse dos custos para o consumidor final, impactando as vendas.",
+   "As montadoras que não conseguirem se adaptar rapidamente à nova política poderão perder espaço no mercado.",
+   "A competição entre montadoras asiáticas deve aumentar, alterando a dinâmica do setor."
+  ],
+  "materia": "Por Danielle Cassita | 09/11/2026 às 13:00 Parece que os carros elétricos e híbridos montados no Brasil com os kits de peças importadas devem ficar mais caros a partir do ano que vem . É que, a partir de janeiro de 2027 , os incentivos fiscais que reduziam os custos dos veículos chegam ao fim, e o imposto de importação vai subir . A medida atinge diretamente os modelos montados sob os regimes CKD (totalmente desmontados) e SKD (parcialmente desmontados) , que vão perder a cota de isenção tarifária de US$ 463 milhões válida até dezembro deste ano. Já a mudança do imposto vai levar a alíquota de importação dos atuais 14% para 35% . Vale lembrar que o patamar já é aplicado aos conjuntos SKD e aos carros prontos importados desde meados de 2026. A nova política aduaneira visa acelerar a nacionalização de componentes e incentivar a cadeia local de fornecedores, mas vai afetar as marcas que dependem desses kits para montar seus carros no país, como a BYD . O encerramento dos incentivos ocorre em um momento de alerta para o setor automotivo. No momento, o mercado projeta expansão de 16,4% nas vendas em 2026 como resultado da combinação entre o desempenho da concorrência e os preços agressivos das marcas chinesas , mas analistas apontam: a tendência não deve se manter em um cenário de juros altos e endividamento familiar . Já um eventual repasse de custos ao consumidor final depende de alguns fatores, como o ritmo de localização de peças de cada montadora, o volume de kits importados e o avanço da nacionalização dos componentes. Com a desaceleração da expansão geral do setor em 2027 , a rivalidade de mercado deve migrar do embate clássico entre entrantes e marcas tradicionais para uma disputa acirrada direta , agora focada entre as próprias montadoras asiáticas no país . Aproveite para conferir nossa matéria sobre o carro elétrico mais barato do Brasil, que mudou de nome após ameaça na Justiça !",
+  "numeros": [
+   {
+    "valor": "14 a 35%",
+    "rotulo": "aumento do imposto de importação"
+   },
+   {
+    "valor": "US$ 463 milhões",
+    "rotulo": "isenção tarifária até dezembro de 2026"
+   },
+   {
+    "valor": "16,4%",
+    "rotulo": "expansão projetada nas vendas em 2026"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Indústria",
+   "Comércio local"
+  ],
+  "dor": "aumento no custo das vendas e perda de competitividade",
+  "angulo": "Entender essas mudanças é vital para empresários que desejam se preparar para o novo cenário e aprimorar sua estratégia de marketing.",
+  "gancho": "Aumento *exponencial* nos custos dos carros elétricos!",
+  "ideias": [
+   "Prepare-se para o aumento dos preços dos elétricos",
+   "Impacto do novo imposto no seu bolso",
+   "Como se adaptar às mudanças no setor automotivo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://canaltech.com.br/carros/carros-eletricos-devem-ficar-mais-caros-em-2027-saiba-o-motivo/",
+  "publicadoEm": "2026-11-09T13:00:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Insegurança regulatória impacta investimentos no Brasil",
+  "resumo": "Mudanças nas regras jurídicas e regulatórias podem frear a atração de capital estrangeiro no Brasil, afetando diversos setores. Executivos destacam a importância de um ambiente de segurança jurídica e política para o comércio.",
+  "fatos": [
+   "Executivos da Brookfield e La Caisse alertam sobre insegurança regulatória no Brasil.",
+   "A revisão tarifária das transportadoras de gás levou à suspensão de R$ 4,1 bilhões em investimentos.",
+   "A NTS, uma investida da Brookfield, também suspendeu investimentos de até R$ 12 bilhões.",
+   "A volatilidade cambial e juros altos são mencionados como obstáculos à atração de recursos.",
+   "Apesar dos desafios, há identificação de oportunidades em setores como energia e data centers."
+  ],
+  "explicacao": [
+   "A instabilidade regulatória no Brasil provoca cautela em investidores estrangeiros, como a La Caisse e a Brookfield.",
+   "Mudanças nas regras jurídicas podem dificultar investimentos em setores essenciais para a economia.",
+   "Isso reflete a necessidade de empresas locais adaptarem suas estratégias para atrair esses recursos, aumentando a segurança jurídica."
+  ],
+  "materia": "Gestoras canadenses seguem com apetite pelo País, mas revisão tarifária das transportadoras de gás pode brecar investimentos bilionários no País. Elas alertam também para juros altos e volatilidade cambial Roberto Perroni, head da Brookfield no Brasil, e Eduardo Farhat, head da La Caisse para a América Latina Executivos da Brookfield e La Caisse alertam que mudanças nas regras jurídicas e regulatórias no Brasil podem limitar a atração de capital estrangeiro, apesar do apetite contínuo por investimentos no país. Eduardo Farhat, da La Caisse, destacou que a instabilidade regulatória afeta decisões de investimento, citando a suspensão de R$ 4,1 bilhões em aportes na TAG devido a revisões tarifárias. Roberto Perroni, da Brookfield, mencionou que a falta de segurança jurídica e a volatilidade econômica também são preocupações. Os executivos também ressaltaram a importância da segurança pública e a necessidade de um ambiente político menos polarizado. Apesar dos desafios, eles identificaram oportunidades em setores como transmissão de energia e data centers, e acreditam que o Brasil pode recuperar seu protagonismo na atração de investimentos. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed O Brasil tem oportunidades para atrair ainda mais capital estrangeiro, porém mudanças nas regras jurídicas e regulatórias podem frear esse movimento. O alerta vem de executivos das canadenses Brookfield e La Caisse , que possuem forte presença em diferentes segmentos de infraestrutura do País. Para Eduardo Farhat, head da La Caisse para a América Latina, a instabilidade tem um \"efeito nuclear\" sobre as decisões de investimento . \"Não se investe em setores que não oferecem um mínimo de segurança regulatória e jurídica\", afirmou o executivo durante o NeoConference 2026 , realizado na manhã de segunda-feira, 9 de novembro, pelo NeoFeed . Como exemplo, Farhat citou a revisão tarifária das transportadoras de gás e reiterou a suspensão de R$ 4,1 bilhões em aportes previstos na TAG, da qual a La Caisse é sócia. \"Esse investimento está cancelado até esse processo de revisão regulatória voltar a ter algum senso comum\", disse. \"Tenho certeza de que, já que o processo é tão bom, como diz o regulador, alguém vai fazer no nosso lugar.\" Roberto Perroni, head da Brookfield no Brasil, ressaltou que a discussão também envolve uma das investidas da gestora, a Nova Transportadora do Sudeste (NTS), e pode afetar a percepção estrangeira sobre o ambiente regulatório. \"Estamos vivendo um momento delicado nesse segmento, mas acreditamos que vamos chegar a um consenso. Se não chegarmos, a Brookfield, depois de tantos anos no Brasil, começa a ter uma visão diferente do País\", afirmou. Como mostrou o NeoFeed , a disputa envolve uma metodologia adotada pela Agência Nacional do Petróleo (ANP), Gás Natural e Biocombustíveis (ANP) que zerou a base regulatória de ativos dos contratos legados das malhas Nordeste, da TAG, e Sudeste, da NTS. As empresas contestam os critérios, que afetam o cálculo das tarifas. A NTS já havia anunciado a suspensão de investimentos que podem chegar a R$ 12 bilhões. A ANP, por sua vez, sustenta que a discussão é técnica e foi submetida a consulta pública. Além da estabilidade regulatória, os executivos destacaram os juros elevados, a volatilidade cambial e o desequilíbrio fiscal como obstáculos à chegada de mais recursos. Para a Brookfield, a dificuldade de vender ativos também é um desafio. \"Há segmentos em que gostaríamos de entrar, mas temos dificuldade de responder para quem podemos vender daqui a seis, sete, dez anos. Acabamos não entrando em novos segmentos por causa disso\", disse Perroni. Os dois executivos apontaram também a segurança pública como uma prioridade para os próximos anos, em meio à infiltração do crime organizado na economia formal. Perroni defendeu ainda a redução da polarização política. A cautela, ressaltou o executivo, antecede o resultado das eleições e não elimina o interesse pelo País, on",
+  "numeros": [
+   {
+    "valor": "R$ 4,1 bilhões",
+    "rotulo": "investimentos suspensos na TAG"
+   },
+   {
+    "valor": "R$ 12 bilhões",
+    "rotulo": "investimentos suspensos pela NTS"
+   },
+   {
+    "valor": "125 anos",
+    "rotulo": "tempo de operação da Brookfield no Brasil"
+   },
+   {
+    "valor": "R$ 200 bilhões",
+    "rotulo": "investimentos totais da Brookfield no Brasil"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Comércio local"
+  ],
+  "dor": "perder oportunidades de investimento em um ambiente instável",
+  "angulo": "O cenário de insegurança regulatória ressalta a importância de uma gestão estratégica de marketing, que pode ajudar a empresa a navegar em tempos desafiadores.",
+  "gancho": "A *insegurança regulatória* e seu impacto nos negócios",
+  "ideias": [
+   "Como a instabilidade regulatória afeta seu negócio?",
+   "Oportunidades em tempos de risco: saiba mais!",
+   "Marketing estratégico em um cenário incerto"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://neofeed.com.br/neoconference2026/para-brookfield-e-la-caisse-inseguranca-regulatoria-poe-investimentos-em-xeque-no-brasil/",
+  "publicadoEm": "2026-11-09T14:30:30-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo adia mudança na escala 6x1 e afeta trabalhadores",
+  "resumo": "A publicação do decreto que deve regulamentar o fim da escala 6x1 foi adiada pelo governo. Essa decisão impacta a forma como as jornadas de trabalho poderão ser negociadas em diferentes setores.",
+  "fatos": [
+   "O governo adiou a publicação do decreto sobre o fim da escala 6x1, que estava prevista para 9 de outubro.",
+   "A norma ainda não recebeu a aprovação do presidente Lula, que está em viagem pela Ásia.",
+   "O decreto foi elaborado pela Casa Civil e pelo Ministério do Trabalho e Emprego.",
+   "A nova regulamentação permitirá que setores negociem escalas de trabalho por acordos coletivos.",
+   "Uma proposta em discussão inclui a redistribuição dos dias de descanso ao longo do mês.",
+   "Trabalhadores em escalas de 12x36 também podem ter suas jornadas ajustadas conforme a nova regra."
+  ],
+  "explicacao": [
+   "O adiamento da regulamentação da escala 6x1 traz incertezas sobre como as jornadas de trabalho serão ajustadas.",
+   "Com a nova regra, espera-se uma maior flexibilidade nas negociações trabalhistas entre empregadores e funcionários.",
+   "Os trabalhadores poderão, potencialmente, ter diferentes formas de organização das suas folgas, afetando sua rotina.",
+   "Essa mudança visa atender as necessidades de adaptação de diversos setores em um cenário de mercado em transformação.",
+   "O impacto no dia a dia dos trabalhadores pode ser significativo, dependendo da forma como essas negociações ocorrerem."
+  ],
+  "materia": "O governo do presidente Luiz InÃ¡cio Lula da Silva (PT) adiou a publicaÃ§Ã£o do decreto que regulamenta o fim da escala de trabalho 6x1. A norma estava prevista para ser divulgada nesta segunda-feira (9), mas ainda nÃ£o recebeu o aval do presidente. A expectativa Ã© de que o texto seja publicado apÃ³s o retorno de Lula de uma sequÃªncia de viagens pela Ãsia. O presidente embarcou para a Turquia, onde participa da conferÃªncia climÃ¡tica COP31 nos dias 11 e 12 de novembro. Em seguida, seguirÃ¡ para as Filipinas, para participar da cÃºpula de paÃ­ses do Sudeste AsiÃ¡tico, marcada para os dias 14 e 15. Segundo fontes do governo, os ministÃ©rios envolvidos na elaboraÃ§Ã£o do decreto concluÃ­ram a redaÃ§Ã£o nos Ãºltimos dias. O texto foi formulado principalmente pela Casa Civil e pelo MinistÃ©rio do Trabalho e Emprego. A regulamentaÃ§Ã£o nÃ£o deverÃ¡ estabelecer uma lista de atividades ou categorias profissionais excluÃ­das das novas regras. A proposta permitirÃ¡ que diferentes setores da economia negociem, por meio de acordos coletivos, formas de organizar as escalas de trabalho, desde que respeitem os limites previstos na proposta de emenda Ã ConstituiÃ§Ã£o (PEC) aprovada pelo Congresso. Uma das possibilidades em discussÃ£o Ã© a redistribuiÃ§Ã£o dos dias de descanso ao longo do mÃªs. Nesse modelo, o trabalhador poderia ter apenas uma folga em determinada semana, desde que recebesse a compensaÃ§Ã£o com trÃªs dias de descanso em outra. A organizaÃ§Ã£o precisaria garantir oito folgas no perÃ­odo. O ministro do Trabalho e Emprego, Luiz Marinho, jÃ¡ mencionou a necessidade de ajustes para profissionais submetidos Ã escala 12x36, na qual o trabalhador cumpre 12 horas de serviÃ§o seguidas por 36 horas de descanso. Nesses casos, se a jornada ultrapassar o limite de 40 horas semanais previsto na nova regra, o perÃ­odo excedente poderÃ¡ ser compensado com dias de descanso ou pagamento, conforme os critÃ©rios estabelecidos na regulamentaÃ§Ã£o. Cadastre-se gratuitamente e fique por dentro de tudo que acontece no Brasil e no mundo. Ao se inscrever, vocÃª concorda em receber nossa curadoria editorial por e-mail e aceita a nossa PolÃ­tica de Privacidade .",
+  "numeros": [
+   {
+    "valor": "40 horas",
+    "rotulo": "limite semanal de trabalho na nova regra"
+   },
+   {
+    "valor": "12 horas",
+    "rotulo": "jornada seguidas por 36 horas de descanso"
+   }
+  ],
+  "fonte": "www.correiodamanha.com.br",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de estabilidade nas jornadas de trabalho",
+  "angulo": "Entender a nova regulamentação pode ampliar suas opções de renda e flexibilidade no trabalho, essencial no mercado atual.",
+  "gancho": "*Mudanças na jornada de trabalho* causam incertezas para trabalhadores",
+  "ideias": [
+   "Como a nova escala pode afetar sua rotina?",
+   "Entenda as implicações do fim da escala 6x1",
+   "A hora de se adaptar ao novo cenário de trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://www.correiodamanha.com.br/politica/2026/11/333587-governo-lula-adia-decreto-que-regulamenta-o-fim-da-escala-6x1.html",
+  "publicadoEm": "2026-11-09T16:44:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 impacta trabalhadores e empresários",
+  "resumo": "O governo adiou a regulamentação do fim da escala 6x1, que passará para 5x2, gerando incertezas. A nova jornada deve afetar acordos e operações de empresas.",
+  "fatos": [
+   "O decreto que regulamentará o fim da escala 6x1 foi adiado para após a viagem de Lula.",
+   "A emenda que acaba com a escala 6x1 foi promulgada em 15 de outubro.",
+   "A nova jornada de trabalho, 5x2, começa em 16 de dezembro, reduzindo a carga semanal de 44 para 42 horas.",
+   "Um ano depois, a carga horária será de 40 horas semanais.",
+   "Acordos coletivos que não se adequarem às novas regras perderão validade automaticamente.",
+   "O ministro do Trabalho afirmou que o decreto estabelecerá um processo coordenado de transição, considerando as particularidades de cada setor."
+  ],
+  "explicacao": [
+   "O adiamento no decreto gera incertezas tanto para trabalhadores quanto para empresários, pois as novas regras irão impactar diretamente as relações de trabalho.",
+   "A alteração na carga horária pode provocar mudanças significativas nas operações empresariais e nas condições de trabalho.",
+   "As empresas devem se preparar para se adequar às novas normativas, principalmente aquelas que operam com escalas diferenciadas."
+  ],
+  "materia": "09/11/2026 15h47 Atualizado 09/11/2026 15h47 O governo adiou para a próxima semana a edição do decreto que vai regulamentar o fim da escala 6x1 . A publicação estava prevista para esta segunda-feira, mas ficou para depois da viagem do presidente Lula à Turquia, onde participará da 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31), e às Filipinas, para uma visita de Estado. O retorno está previsto para a próxima segunda-feira. 'Insegurança jurídica', processos suspensos e 'atividade danosa': Entenda a decisão de Fux sobre bets em cinco pontos Apostas: Processos suspensos por Fux pediam liberação de 29 bets e tiveram decisões conflitantes na Justiça Segundo interlocutores do Palácio do Planalto, Lula pretende assinar o decreto em uma solenidade. A emenda constitucional que acaba com a escala 6x1, promulgada pelo Congresso Nacional em 15 de outubro, foi bandeira eleitoral do presidente na disputa pelo quarto mandato. Bets: 34 mil sites ilegais continuam funcionando 39 dias após a proibição A emenda institui a escala 5x2 (cinco dias de trabalho na semana e dois de folga, um deles preferencialmente aos domingos) a partir de 16 de dezembro, quando a jornada semanal de trabalho cairá de 44 para 42 horas, sem redução de salário. Um ano depois, a carga horária baixará para 40 horas. Acordos e convenções coletivas que não se enquadrarem nas novas regras perdem validade automaticamente, o que deixa o setor produtivo apreensivo diante do prazo apertado. Uma das principais preocupações se refere às atividades econômicas que funcionam em regimes diferenciados. De atrasos salariais a risco para recuperação judicial: Pelo menos 23 clubes vão ao STF contra fim das bets Na semana passada, o ministro do Trabalho, Luiz Marinho, disse que o decreto deverá estabelecer um processo coordenado de transição para a nova jornada, considerando as particularidades de cada setor da economia. Marinho destacou que a regulamentação deverá respeitar os parâmetros previstos na emenda, como a redução da jornada e a garantia de duas folgas semanais. Segundo ele, as negociações coletivas entre empresas e trabalhadores terão papel importante na definição das escalas. Impacto: Bets começam a fazer demissões após proibição das apostas online, mostra levantamento de entidade do setor — O decreto vai orientar que as partes se acertem na convenção coletiva para ajustar o seu melhor modelo. Melhor modelo para quem? Para a atividade econômica e seus trabalhadores — disse. O ministro Flávio Dino, do Supremo Tribunal Federal ( STF ), marcou audiência sobre o tema para esta terça-feira. Dino é relator de uma ação em que a Confederação Nacional do Comércio (CNC) pede à corte mais prazo para a implementação da nova jornada de trabalho, diante da proximidade do Natal Novas versões prometem mais velocidade e capacidade para tarefas complexas, enquanto empresa se prepara para realizar IPO ainda neste mês Vídeos de milhares de aves sobrevoando a Barra da Tijuca e a Zona Sul, pouco antes do temporal no fim de semana despertaram especulações nas redes sociais; segundo biólogo, fenômeno é facilmente explicável Medicamento é aprovado para o tratamento de adultos com diabetes tipo 2 e chega ao mercado com preços entre R$ 349 e R$ 488 por unidade; produto é resultado de parceria entre Biolab e Sandoz Jensen Huang chegou a deixar temporariamente o grupo das dez pessoas mais ricas do mundo após ações da fabricante de chips recuarem Manifesto de sete organizações afirma que pagamentos acima do teto somaram ao menos R$ 24,3 bilhões em 2025 e rejeita elevar o limite como contrapartida Em novo depoimento, empregada doméstica Dilva Bernadete relatou que Lucas Portela só interrompeu as agressões quando o porteiro chegou para ajudá-la; câmeras registraram o homem nu nas dependências do condomínio, na Tijuca Daniela Soares (PL) não escapou dos transtornos na Região dos Lagos; município ainda tem 4.496 clientes sem energia, o equivalente a 6,1% do total atendido pela concessionária",
+  "numeros": [
+   {
+    "valor": "5x2",
+    "rotulo": "nova escala de trabalho"
+   },
+   {
+    "valor": "42",
+    "rotulo": "horas semanais no início"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas semanais após um ano"
+   }
+  ],
+  "fonte": "O GLOBO",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "medo da insegurança nas relações de trabalho",
+  "angulo": "Com a mudança das escalas, aprender a lidar com o mercado financeiro pode ser uma alternativa viável para garantir uma renda extra e independente.",
+  "gancho": "*Nova jornada de trabalho* traz incertezas para sua renda",
+  "ideias": [
+   "O que muda com o fim da escala 6x1?",
+   "Como se adaptar à nova jornada de trabalho?",
+   "Renda extra: uma solução para as incertezas?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://oglobo.globo.com/economia/noticia/2026/11/09/fim-da-escala-6x1-governo-adia-decreto-de-regulamentacao-para-depois-da-viagem-de-lula.ghtml",
+  "publicadoEm": "2026-11-09T15:47:20-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e suas consequências financeiras",
+  "resumo": "O governo adiou a publicação do decreto que regulamenta a redução da jornada de trabalho. Isso afeta diretamente a organização do trabalho e os salários dos profissionais.",
+  "fatos": [
+   "O decreto para o fim da escala 6x1 foi adiado para a próxima semana.",
+   "A nova jornada semanal será reduzida de 44 horas para 40 horas em duas etapas.",
+   "A primeira etapa ocorrerá 60 dias após a promulgação da emenda, em 15 de dezembro de 2026.",
+   "Os trabalhadores ganharão dois dias de descanso remunerado por semana sem redução salarial.",
+   "A implementação completa das novas regras levará 14 meses."
+  ],
+  "explicacao": [
+   "A redução proposta pela emenda constitucional foi uma promessa de campanha do presidente Lula.",
+   "Na prática, a mudança pode afetar a renda e os custos operacionais das empresas.",
+   "Os trabalhadores poderão ter folgas não consecutivas, o que pode complicar a organização do tempo e a renda mensal."
+  ],
+  "materia": "Fim da 6x1: redução gradual da jornada semanal de 44h para 40h em duas etapas (Ricardo Stuckert / PR/Divulgação) Publicado em 9 de novembro de 2026 às 16h49 . O governo federal adiou a publicação do decreto que regulamenta o fim da escala 6x1 para a próxima semana. A medida, uma das promessas de campanha do presidente Lula, reduzirá gradualmente a jornada semanal de trabalho de 44 para 40 horas, com implementação em duas etapas a partir de dezembro de 2026. Os trabalhadores ganharão dois dias de descanso remunerado por semana durante o período de transição. O governo federal adiou a publicação do decreto que regulamenta o fim da escala 6x1 para a próxima semana. A medida, uma das promessas de campanha do presidente Lula, reduzirá gradualmente a jornada semanal de trabalho de 44 para 40 horas, com implementação em duas etapas a partir de dezembro de 2026. Os trabalhadores ganharão dois dias de descanso remunerado por semana durante o período de transição. O governo federal adiou para a próxima semana a publicação do decreto que vai regulamentar o fim da escala 6x1 . A medida estava prevista inicialmente para esta segunda-feira, 9, mas ficou para depois da viagem do presidente Luiz Inácio Lula da Silva (PT) à Turquia, onde participará da COP31 (31ª Conferência das Nações Unidas sobre Mudança do Clima), e às Filipinas, para uma visita de Estado. Segundo informações do jornal O Globo , Lula pretende assinar o decreto durante uma solenidade. A proposta é formalizar a implementação das novas regras, que foram estabelecidas pela emenda constitucional promulgada pelo Congresso Nacional em 15 de outubro. O fim da escala 6x1 foi uma das bandeiras eleitorais do presidente na disputa por um quarto mandato. As novas regras serão implementadas gradualmente, com o início da transição previsto para 60 dias após a promulgação da emenda constitucional -- ou seja, a partir de 15 de dezembro de 2026. Na primeira etapa, a jornada máxima semanal será reduzida de 44 para 42 horas. Além disso, os trabalhadores passarão a ter direito a dois dias de descanso remunerado por semana, sem redução salarial. A mudança definitiva para 40 horas semanais ocorrerá 12 meses depois da primeira etapa. Com isso, a implementação completa das novas regras levará 14 meses a partir da promulgação da emenda. A proposta estabelece dois dias de descanso remunerado por semana, mas não determina que eles sejam sempre consecutivos ou ocorram nos mesmos dias. As empresas poderão organizar escalas diferentes, desde que respeitem os limites previstos. Na prática, a distribuição poderá variar ao longo do mês. Um trabalhador poderá ter apenas um dia de folga em determinada semana e três na seguinte, por exemplo, desde que o período de descanso seja compensado conforme as regras estabelecidas. Um dos dias de descanso deverá ocorrer preferencialmente aos domingos, mas a folga nesse dia não será obrigatória para todos os trabalhadores. A previsão de pelo menos um domingo de descanso por mês continua valendo conforme a Consolidação das Leis do Trabalho (CLT). As regras para o trabalho aos domingos e feriados também permanecem inalteradas. O pagamento em dobro continuará sujeito à legislação vigente e às convenções coletivas aplicáveis. A redução será feita em duas etapas. Primeiro, 60 dias após a promulgação da emenda, o limite semanal passará de 44 para 42 horas. Depois, 12 meses mais tarde, chegará a 40 horas. Durante o período de transição, acordos e convenções coletivas poderão estabelecer jornadas diárias superiores a oito horas para organizar a escala de 42 horas semanais, desde que sejam garantidos os dois dias de descanso. A redução da jornada não poderá provocar diminuição salarial, inclusive nos pisos das categorias profissionais. O limite geral de oito horas diárias e as regras para o pagamento de horas extras também serão mantidos. Na fase intermediária, a diferença entre as jornadas de 42 e 40 horas não será necessariamente considerada hora extra. Empresas e sindicatos po",
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso por semana"
+   },
+   {
+    "valor": "60",
+    "rotulo": "dias até início da transição"
+   },
+   {
+    "valor": "14",
+    "rotulo": "meses para implementação completa"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "receber menos em meio a novas exigências de trabalho",
+  "angulo": "Com a mudança nas regras de trabalho, é fundamental aprender novas habilidades financeiras que geram renda sem depender unicamente de salários convencionais.",
+  "gancho": "O que *o fim da escala 6x1* significa para",
+  "ideias": [
+   "Redução de jornada: como se preparar?",
+   "Novas regras trabalhistas e seu impacto",
+   "Dois dias de folga: o que muda na renda?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://exame.com/brasil/fim-da-escala-6x1-governo-lula-adia-assinatura-de-decreto-para-a-proxima-semana/",
+  "publicadoEm": "2026-11-09T13:49:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Regulamentação do fim da 6x1 adiada para novembro",
+  "resumo": "Aprovado o fim da escala 6x1, o decreto deve ser publicado após o retorno do presidente. Expectativa é que novas regras impactem salários e folgas dos trabalhadores.",
+  "fatos": [
+   "O decreto para regulamentar o fim da escala 6x1 estava previsto para ser publicado em 9 de novembro.",
+   "A nova previsão é que o decreto saia após o dia 16 de novembro.",
+   "O presidente Lula está fora do país participando da COP31 e da cúpula da Asean.",
+   "A regulamentação vai permitir trabalhadores com apenas um descanso na semana em meses específicos.",
+   "A jornada semanal máxima de 44 horas será reduzida para 42 horas a partir de 16 de dezembro.",
+   "Empresas poderão calcular as folgas semanais de modo flexível conforme acordo coletivo.",
+   "O ministro do Trabalho, Luiz Marinho, identificou a necessidade de mudanças nas Normas Regulamentadoras para adequar os setores."
+  ],
+  "explicacao": [
+   "O adiamento da regulamentação deve-se à ausência do presidente Lula para avaliar o documento.",
+   "A nova regra permite maior flexibilidade nas escalas de trabalho, beneficiando a dinâmica de trabalho em várias áreas.",
+   "Os trabalhadores poderão ter mais opções de horários e dias de descanso, adaptando-se melhor às exigências das empresas."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O decreto para regulamentar o fim da escala 6x1 , que estava previsto para sair nesta segunda-feira (9), deve ser publicado apenas apÃ³s o retorno do presidente Lula ( PT ) das viagens ao exterior, segundo fontes a par do assunto consultadas pela Folha . Interlocutores do governo afirmam que a nova previsÃ£o Ã© que o decreto saia na prÃ³xima semana, a partir do dia 16 de novembro. O ministro do Trabalho, Luiz Marinho , tinha afirmado na Ãºltima quinta-feira (4) que o decreto sairia nesta segunda. No entanto, o presidente nÃ£o conseguiu avaliar o documento na Ãºltima semana e, por isso, a publicaÃ§Ã£o foi adiada, de acordo com fontes ligadas ao ministro. Nesta segunda, Lula partiu para a Turquia, onde participarÃ¡ da COP31, a conferÃªncia do clima da ONU (OrganizaÃ§Ã£o das NaÃ§Ãµes Unidas). Depois, ele seguirÃ¡ para a cÃºpula da Asean (AssociaÃ§Ã£o de NaÃ§Ãµes do Sudeste AsiÃ¡tico), nas Filipinas. Segundo Marinho, o decreto vai reforÃ§ar a prevalÃªncia do acordo coletivo sobre a lei. A norma incluirÃ¡ a possibilidade de o trabalhador ter apenas um descanso na semana em algum momento do mÃªs, desde que, ao fim dos 30 dias, ele tenha somado oito folgas. Nesses casos, seria possÃ­vel, por exemplo, um trabalhador atuar na escala 6x1 em uma semana, e na 4x3, com trÃªs folgas, na outra âcontanto que o modelo esteja previsto no acordo coletivo. O decreto do MTE nÃ£o terÃ¡, no entanto, uma lista especÃ­fica de categorias afetadas pela regulamentaÃ§Ã£o. As empresas deverÃ£o decidir individualmente como o regime de escala serÃ¡ aplicado Ã s suas realidades, considerando as regras fixadas na emenda. A regulamentaÃ§Ã£o do fim da 6x1 deverÃ¡ afetar tambÃ©m outras normas sobre o mercado de trabalho . Marinho jÃ¡ acertou com o presidente da CÃ¢mara dos Deputados , Hugo Motta ( Republicanos -PB), a alteraÃ§Ã£o de NRs (Normas Regulamentadoras) que criem barreiras ao cumprimento das novas regras de jornada. Ã o caso do setor de telemarketing, segundo Marinho. Uma NR proÃ­be que o setor tenha jornada diÃ¡ria maior do que seis horas. \"Com essa limitaÃ§Ã£o, eu nÃ£o consigo implantar as duas folgas na semana com a necessidade do setor funcionar os 365 dias do ano, 24 horas por dia\", disse o ministro. A emenda do fim da 6x1 comeÃ§a a valer em 16 de dezembro. A partir dessa data, a jornada semanal mÃ¡xima de 44 horas passarÃ¡ a ser de 42 horas. E a concessÃ£o de duas folgas semanais passa a ser obrigatÃ³ria. A norma do MinistÃ©rio do Trabalho e Emprego permitirÃ¡, entÃ£o, que essas duas folgas passem a ser uma mÃ©dia, permitindo que as empresas distribuam esses dias de descanso em suas escalas. O decreto e as NRs nÃ£o deverÃ£o prever, segundo Luiz Marinho, qualquer exceÃ§Ã£o Ã reduÃ§Ã£o da jornada. No Congresso, a regulamentaÃ§Ã£o segue indefinida. Um projeto de lei enviado pelo governo Lula Ã CÃ¢mara segue parado. No Senado , o lÃ­der do MDB , Eduardo Braga (AM), disse que vem trabalhando em uma outra PEC que, segundo ele, resolveria as lacunas deixadas pela emenda do fim da 6x1. A lÃ­der do governo no Senado, Teresa LeitÃ£o (PT-PE), tem defendido que a emenda jÃ¡ prevÃª um projeto de lei complementar para casos especÃ­ficos. Uma possibilidade, na avaliaÃ§Ã£o de integrantes da base, seria esperar o decreto do MTE e sÃ³ entÃ£o trabalhar em um projeto de lei complementar a partir daquilo que a norma nÃ£o tiver resolvido. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar ",
+  "numeros": [
+   {
+    "valor": "44 a 42",
+    "rotulo": "Jornada semanal máxima"
+   },
+   {
+    "valor": "16 de dezembro",
+    "rotulo": "Data de implementação das novas regras"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "com a mudança, salários podem ser afetados",
+  "angulo": "Aprender a investir pode ajudar a equilibrar a renda em tempos de regras instáveis e menos previsíveis no trabalho.",
+  "gancho": "Desemprego e *aumento de jornada*?",
+  "ideias": [
+   "O que muda com o fim da escala 6x1?",
+   "Prepare-se: novas regras de trabalho se aproximam!",
+   "Como se adaptar às mudanças no mercado de trabalho?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-09T17:14:12-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/decreto-que-regulamenta-fim-da-6x1-tem-publicacao-adiada-e-so-deve-sair-apos-retorno-de-lula.shtml",
+  "publicadoEm": "2026-11-09T16:28:00-03:00",
+  "data": "2026-11-09",
+  "id": "2026-11-09-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Expansão do Iguatemi Brasília traz novas oportunidades",
   "resumo": "O Iguatemi Brasília se expande, incluindo grifes internacionais, aumentando a competição e a necessidade de marketing eficiente. Empresários locais devem se preparar para a nova demanda.",
   "fatos": [
