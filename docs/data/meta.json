@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-09T17:14:12-03:00",
-  "novas": 4,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-11-09T20:55:46-03:00",
+  "novas": 2,
+  "atualizadas": 1,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Regulamentação do fim da 6x1 adiada para novembro; Fim da escala 6x1 e suas consequências financeiras; Fim da escala 6x1 impacta trabalhadores e empresários.",
+  "mensagem": "2 pauta(s) nova(s) e 1 atualizada(s): O que esperar do fim da escala 6x1?; O que muda com o fim da escala 6x1?.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-09T20:55:46-03:00",
    "2026-11-09T17:14:12-03:00",
    "2026-11-08T22:17:11-03:00",
    "2026-11-08T17:05:26-03:00",
@@ -18,19 +19,19 @@
    "2026-11-06T22:23:00-03:00",
    "2026-11-06T18:12:07-03:00",
    "2026-11-06T13:59:02-03:00",
-   "2026-11-05T22:51:37-03:00",
-   "2026-11-05T18:44:16-03:00"
+   "2026-11-05T22:51:37-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-09T17:14:12-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-11-09T20:55:46-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Insegurança regulatória impacta investimentos no Brasil; Carros elétricos mais caros em 2027: entenda o impacto; Cuidado com a Black Friday 2026: *descontos ou dívidas?*.",
+  "mensagem": "7 pauta(s) nova(s): Mudanças na jornada de trabalho exigem planejamento estratégico; Nvidia perde valor após suspeita de espionagem e impacto no mercado; A nova IA da Meta e o impacto nos negócios.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-09T20:55:46-03:00",
    "2026-11-09T17:14:12-03:00",
    "2026-11-08T22:17:11-03:00",
    "2026-11-08T17:05:26-03:00",
@@ -41,8 +42,7 @@
    "2026-11-06T22:23:00-03:00",
    "2026-11-06T18:12:07-03:00",
    "2026-11-06T13:59:02-03:00",
-   "2026-11-05T22:51:37-03:00",
-   "2026-11-05T18:44:16-03:00"
+   "2026-11-05T22:51:37-03:00"
   ]
  }
 }
