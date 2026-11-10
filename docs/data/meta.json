@@ -1,36 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-10T00:52:06-03:00",
-  "novas": 2,
-  "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "2 pauta(s) nova(s): Fim da escalas 6x1 adiado, o impacto no bolso; Fim da escala 6x1: impacto no seu bolso.",
-  "falhas": [],
-  "manual": false,
-  "historico": [
-   "2026-11-10T00:52:06-03:00",
-   "2026-11-09T20:55:46-03:00",
-   "2026-11-09T17:14:12-03:00",
-   "2026-11-08T22:17:11-03:00",
-   "2026-11-08T17:05:26-03:00",
-   "2026-11-08T13:24:39-03:00",
-   "2026-11-07T21:57:04-03:00",
-   "2026-11-07T16:47:17-03:00",
-   "2026-11-07T12:57:06-03:00",
-   "2026-11-06T22:23:00-03:00",
-   "2026-11-06T18:12:07-03:00",
-   "2026-11-06T13:59:02-03:00"
-  ]
- },
- "vpr": {
-  "ultimaColeta": "2026-11-10T00:52:06-03:00",
+  "ultimaColeta": "2026-11-10T14:20:47-03:00",
   "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): STF suspende ações sobre baniu de apostas; impacto é sentido; A Black Friday e o consumidor: onde estão as vendas?; Como a Black Friday 2026 pode impactar seu negócio.",
+  "mensagem": "6 pauta(s) nova(s): Fim da jornada 6x1: impacto nas relações de trabalho; Mudanças nos vales: o que isso significa para você?; TST sugere fim da escala 6x1 no comércio.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-10T14:20:47-03:00",
    "2026-11-10T00:52:06-03:00",
    "2026-11-09T20:55:46-03:00",
    "2026-11-09T17:14:12-03:00",
@@ -41,8 +19,30 @@
    "2026-11-07T16:47:17-03:00",
    "2026-11-07T12:57:06-03:00",
    "2026-11-06T22:23:00-03:00",
-   "2026-11-06T18:12:07-03:00",
-   "2026-11-06T13:59:02-03:00"
+   "2026-11-06T18:12:07-03:00"
+  ]
+ },
+ "vpr": {
+  "ultimaColeta": "2026-11-10T14:20:47-03:00",
+  "novas": 6,
+  "atualizadas": 0,
+  "status": "ok",
+  "mensagem": "6 pauta(s) nova(s): Desoneração da gasolina e etanol até dezembro de 2026; Crescimento do Pix e sua importância para negócios; Black Friday pode aumentar vendas em Ribeirão Preto.",
+  "falhas": [],
+  "manual": false,
+  "historico": [
+   "2026-11-10T14:20:47-03:00",
+   "2026-11-10T00:52:06-03:00",
+   "2026-11-09T20:55:46-03:00",
+   "2026-11-09T17:14:12-03:00",
+   "2026-11-08T22:17:11-03:00",
+   "2026-11-08T17:05:26-03:00",
+   "2026-11-08T13:24:39-03:00",
+   "2026-11-07T21:57:04-03:00",
+   "2026-11-07T16:47:17-03:00",
+   "2026-11-07T12:57:06-03:00",
+   "2026-11-06T22:23:00-03:00",
+   "2026-11-06T18:12:07-03:00"
   ]
  }
 }

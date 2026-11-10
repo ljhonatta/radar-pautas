@@ -1,6 +1,335 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Como o Brasil Mais Produtivo pode impactar seus negócios",
+  "resumo": "O programa Brasil Mais Produtivo já atendeu 60 mil indústrias, ajudando a elevar a competitividade através de consultorias e tecnologias. Participar pode ser um diferencial para seu negócio.",
+  "fatos": [
+   "Mais de 78 mil indústrias já estão cadastradas no Brasil Mais Produtivo.",
+   "O programa já prestou atendimento a mais de 60 mil empresas.",
+   "Sua meta é alcançar 200 mil indústrias cadastradas até dezembro de 2027.",
+   "Micro e pequenas empresas recebem consultoria gratuita.",
+   "Médias indústrias podem receber subsídios de até 70% em serviços tecnológicos."
+  ],
+  "explicacao": [
+   "O Brasil Mais Produtivo é uma iniciativa do governo federal para modernizar a produção industrial e reduzir custos.",
+   "Ele oferece consultorias e orientações que ajudam na gestão e no uso eficiente de recursos, permitindo que empresas melhorem sua competitividade.",
+   "A participação é especialmente crucial para pequenas e médias empresas que enfrentam dificuldades financeiras."
+  ],
+  "materia": "Programa do governo federal oferece consultorias gratuitas, modernização de processos e apoio tecnológico para reduzir custos e aumentar a competitividade das empresas 247 – Mais de 78 mil empresas industriais brasileiras já estão cadastradas na plataforma do Brasil Mais Produtivo, programa coordenado pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) para modernizar a produção, reduzir desperdícios e elevar a competitividade da indústria nacional. A iniciativa já prestou atendimento a mais de 60 mil empresas, por meio de diagnósticos, consultorias especializadas e soluções voltadas ao aumento da produtividade. As informações foram divulgadas pela Agência Sebrae de Notícias. Desenvolvido pelo governo federal em parceria com o Sebrae, o Serviço Nacional de Aprendizagem Industrial (Senai) e a Agência Brasileira de Desenvolvimento Industrial (ABDI), o programa estabelece como meta alcançar 200 mil empresas cadastradas até dezembro de 2027. A estratégia combina aperfeiçoamento da gestão empresarial, modernização das linhas de produção, eficiência energética e incorporação de tecnologias digitais. A iniciativa prioriza o acesso de micro, pequenas e médias indústrias a serviços técnicos que permitem melhorar o desempenho produtivo sem exigir grandes investimentos iniciais. Para micro e pequenas empresas, as principais modalidades de consultoria são integralmente gratuitas. As médias indústrias podem receber subsídios de até 70% em determinadas intervenções tecnológicas. O Brasil Mais Produtivo atua em diferentes etapas da atividade industrial, desde o planejamento financeiro e o controle de estoques até a reorganização das fábricas e a digitalização dos processos. O objetivo é identificar obstáculos à produção e implementar soluções capazes de reduzir custos operacionais, melhorar a utilização de recursos e ampliar a capacidade competitiva das empresas. Segundo Carolina Molina, consultora do Sebrae Nacional, a iniciativa reúne diferentes instrumentos de apoio ao desenvolvimento industrial. “O programa oferece consultoria especializada, suporte técnico personalizado, ferramentas de transformação digital, soluções para eficiência energética e metodologias para gestão eficiente, ajudando a empresa a se tornar mais competitiva e sustentável”, afirma. Uma das principais frentes é a chamada Manufatura Enxuta, metodologia que identifica desperdícios, reorganiza espaços industriais e reduz o tempo necessário para executar atividades produtivas. O atendimento também permite aprimorar a disposição de equipamentos, diminuir deslocamentos desnecessários e acelerar a preparação das máquinas. Outra modalidade concentra-se na eficiência energética, com diagnósticos sobre o consumo de eletricidade e insumos e elaboração de planos para reduzir despesas. As micro e pequenas indústrias recebem esse atendimento gratuitamente, enquanto empresas médias podem contar com subsídios de até 70%. A modernização tecnológica constitui outro eixo do programa. As empresas participantes podem receber orientação para incorporar ferramentas digitais e tecnologias associadas à Indústria 4.0, incluindo soluções para integrar operações, acompanhar processos e aprimorar o controle da produção. O programa também disponibiliza uma plataforma digital gratuita, aberta a empresas industriais de todos os portes, na qual os empresários podem realizar avaliações de maturidade produtiva, acessar cursos, consultar conteúdos técnicos e utilizar ferramentas de gestão. Para micro e pequenas empresas, o acompanhamento dos Agentes Locais de Inovação (ALI Produtividade) busca estruturar aspectos fundamentais da administração, como organização financeira, gestão de estoques, padronização de procedimentos e planejamento comercial. A proposta é associar os ganhos obtidos diretamente nas fábricas a melhorias administrativas que permitam sustentar os resultados ao longo do tempo. Dessa forma, a modernização industrial não depende exclusivamente da aquisição de equipame",
+  "numeros": [
+   {
+    "valor": "200000",
+    "rotulo": "empresas a serem cadastradas até 2027"
+   },
+   {
+    "valor": "44%",
+    "rotulo": "aumento de produtividade na Monutri após consultoria"
+   }
+  ],
+  "fonte": "Brasil 247",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "perder competitividade e deixar de crescer no mercado",
+  "angulo": "A modernização e a gestão eficaz são essenciais para o sucesso no competitivo cenário atual. Conheça como estamos prontos para ajudar sua empresa a se destacar.",
+  "gancho": "*Aumente sua produtividade!* Como o Brasil Mais Produtivo pode",
+  "ideias": [
+   "Aumente a eficiência da sua empresa",
+   "Entenda os benefícios do Brasil Mais Produtivo",
+   "Como se cadastrar no Brasil Mais Produtivo?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://www.brasil247.com/empreender/brasil-mais-produtivo-ja-alcanca-78-mil-industrias-e-amplia-eficiencia-da-producao-nacional/",
+  "publicadoEm": "2026-11-10T14:13:15-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Você sabe medir o real retorno do seu anúncio?",
+  "resumo": "Entender a diferença entre cliques e conversões é essencial para o sucesso de qualquer campanha digital. A mensuração correta pode transformar acessos em oportunidades de negócio.",
+  "fatos": [
+   "Marcyo Massuci destaca que mais visitas não garantem mais negócios.",
+   "Campanhas devem ser medidas pela quantidade de ações como cliques no WhatsApp e solicitação de orçamentos.",
+   "O uso de ferramentas como Google Tag Manager é crucial para mensurar conversões.",
+   "Estruturas de site personalizadas melhoram desempenho e otimização técnica.",
+   "A análise correta permite decisões financeiras mais embasadas e melhora o retorno sobre investimentos."
+  ],
+  "explicacao": [
+   "As pequenas e médias empresas precisam diferenciar cliques de ações comerciais efetivas.",
+   "Mensuração de conversões ajuda a entender melhor o comportamento do consumidor.",
+   "O foco deve ser em como os visitantes interagem com seu site, não apenas em quantos acessos são gerados."
+  ],
+  "materia": "Marcyo Massuci mostra por que visitas ao site não bastam para avaliar investimentos em publicidade digital Investir em anúncios na internet e acompanhar o número de acessos ao site pode transmitir a sensação de que uma campanha está funcionando. Mas existe uma diferença importante entre levar pessoas até uma página e conseguir que elas realmente entrem em contato, solicitem um orçamento ou realizem outra ação comercial. Para Marcyo Massuci, fundador da WEBX Criação de Sites e profissional que atua com desenvolvimento web desde 2001, essa diferença precisa estar clara principalmente para pequenas e médias empresas que utilizam ferramentas como Google Ads para conquistar clientes. “Ter mais visitas é positivo, mas esse número sozinho não responde à principal pergunta de quem está investindo em publicidade: quantas dessas pessoas realmente demonstraram interesse em fazer negócio com a empresa?”, afirma Massuci. A resposta passa pela chamada mensuração de conversões. Em vez de observar somente quantas pessoas acessaram determinado site, ferramentas digitais permitem acompanhar ações consideradas relevantes para o negócio, como cliques no WhatsApp, preenchimento de formulários, ligações e solicitações de orçamento. O WhatsApp tornou-se um dos caminhos utilizados por empresas para receber contatos de potenciais clientes. Quando corretamente configurado, o site pode registrar quantos usuários clicaram no botão que direciona para uma conversa, permitindo relacionar essa ação à campanha que levou a pessoa até a página. “Muita gente olha o relatório e sabe quantas pessoas clicaram no anúncio, mas não acompanha o passo seguinte. Se o objetivo é gerar contatos, precisamos saber se aquele visitante clicou no WhatsApp, enviou um formulário, fez uma ligação ou pediu um orçamento”, explica Massuci. O desenvolvimento do site tem participação nesse processo. Segundo o material apresentado pelo profissional, páginas podem ser preparadas para receber ferramentas como Google Tag Manager, Google Ads e Analytics, permitindo acompanhar eventos e conversões relevantes. Além da mensuração, Massuci destaca que a estrutura técnica de um site também exerce influência sobre sua capacidade de alcançar bons resultados nos mecanismos de busca. Seu trabalho envolve estratégias de SEO (Search Engine Optimization), com otimizações que abrangem código, velocidade de carregamento, estrutura das páginas, organização dos conteúdos, experiência do usuário e relevância das informações para o público e para os mecanismos de pesquisa. Na WEBX, os projetos são desenvolvidos com programação em código puro, utilizando HTML, CSS3 e JavaScript, além de Python e recursos de inteligência artificial aplicados ao desenvolvimento. A proposta é criar estruturas personalizadas, sem depender de templates ou plataformas prontas, proporcionando maior controle sobre funcionalidades, desempenho, segurança e possibilidades de otimização técnica. “A mensuração precisa fazer parte da estrutura digital. Quando ela é planejada corretamente, o empresário deixa de analisar apenas movimento e começa a enxergar ações que têm significado comercial para o negócio”, destaca. A análise também ajuda a colocar em perspectiva métricas que parecem positivas à primeira vista. Uma campanha pode gerar grande volume de acessos e poucos contatos, enquanto outra, com menos visitantes, pode atrair um público mais disposto a procurar a empresa. Isso não significa que todo contato registrado pelo site necessariamente se transforme em venda. A mensuração permite acompanhar determinadas etapas da jornada digital, enquanto o fechamento do negócio pode depender de atendimento, preço, disponibilidade e outros fatores. “Conversão não deve ser confundida automaticamente com venda. O que conseguimos identificar é que aquela pessoa realizou uma ação importante. A partir disso, a empresa passa a ter informações melhores para avaliar suas campanhas”, afirma Massuci. Outro campo que vem ganhando importância no posicionament",
+  "numeros": [
+   {
+    "valor": "2001",
+    "rotulo": "ano em que Marcyo Massuci começou a atuar"
+   }
+  ],
+  "fonte": "Folha de Curitiba",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Você pode estar perdendo oportunidades valiosas sem medir conversões.",
+  "angulo": "Saber como mensurar suas campanhas digitais pode ser o diferencial entre cliques vazios e clientes reais.",
+  "gancho": "*Acessos não significam vendas!*",
+  "ideias": [
+   "A importância da mensuração nas campanhas digitais",
+   "Como o SEO e GEO podem transformar seu marketing",
+   "Entenda as ações que realmente trazem resultados"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://folhadecuritiba.com.br/seu-anuncio-trouxe-clientes-ou-apenas-cliques-especialista-explica-como-medir-resultados/",
+  "publicadoEm": "2026-11-10T12:19:37-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A importância do marketing em tempos de crise e inovação",
+  "resumo": "A situação atual do mercado de chips revela a necessidade de estratégias de marketing robustas para empresas se adaptarem a mudanças regulatórias e tecnológicas.",
+  "fatos": [
+   "A Shanghai Century Litong foi criada em junho de 2023 e logo se tornou parceira preferencial da Nvidia.",
+   "Essa empresa chinesa conseguiu negociar chips da Nvidia avaliados em US$ 7,5 bilhões desde 2023.",
+   "Alice Huang, próxima do fundador da Nvidia, ajudou a garantir fornecimento de chips durante restrições de exportação dos EUA.",
+   "A Megaspeed, também relacionada a Alice, comprou cerca de US$ 4,6 bilhões em chips da Nvidia entre 2023 e 2025.",
+   "Cerca de 240 mil chips foram levados à China, beneficiando empresas como Alibaba e Tencent."
+  ],
+  "explicacao": [
+   "A expansão da Shanghai Century Litong e suas relações com a Nvidia ilustram como conexões e estratégias de marketing são fundamentais em um mercado competitivo.",
+   "As restrições de vendas de chips para a China ampliam a necessidade de empresas se destacarem na comunicação e na construção de relacionamentos.",
+   "Empresas que não se adaptam a essa nova realidade podem acabar perdendo oportunidades valiosas de mercado."
+  ],
+  "materia": "10/11/2026 10h51 Atualizado 10/11/2026 10h51 Quatro meses depois de ser criada, a Shanghai Century Litong entrou para a lista de parceiros preferenciais da Nvidia. O status dava à empresa chinesa prioridade na oferta dos chips mais disputados da fabricante americana, justamente quando os Estados Unidos ampliavam as restrições à venda de processadores de inteligência artificial para a China. A rápida ascensão seria parte de uma rede de empresas articulada por Alice, o marido e a irmã para adquirir chips da Nvidia e fornecê-los a companhias chinesas. Desde 2023, a operação teria movimentado processadores avaliados em pelo menos US$ 7,5 bilhões, segundo uma investigação publicada nesta terça-feira (10) pelo The Information . A apuração se baseia em duas pessoas que conhecem Alice e em registros empresariais da China e de Singapura. O jornal afirma que a proximidade da executiva com Jensen Huang ajudava a obter os equipamentos quando pedidos ficavam presos na cadeia de distribuidores. A reportagem acrescenta uma dimensão comercial ao escândalo que colocou o fundador da Nvidia sob investigação. Alice não teria usado o acesso apenas para conseguir informações ou influência: sua ligação com Huang teria ajudado a abrir caminho para uma operação bilionária de compra e distribuição dos chips mais cobiçados da corrida pela IA. A empresa que chegou rapidamente à lista da Nvidia A Shanghai Century Litong foi fundada em junho de 2023. O acionista fundador era controlado, naquele momento, por Huang Yu, irmã de Alice, segundo os registros consultados pelo The Information. A empresa ligada a Huang Yu deixou a sociedade no ano seguinte. Em outubro de 2023, a Century Litong já aparecia como parceira preferencial de serviços em nuvem da Nvidia, condição que ainda consta no diretório da fabricante . A Nvidia normalmente não vende diretamente os processadores aos usuários finais. Os chips chegam ao mercado dentro de servidores fabricados por empresas como Dell e Supermicro e passam por diferentes distribuidores. O programa de parceiros em nuvem funciona como uma credencial para ajudar clientes a identificar fornecedores reconhecidos pela companhia. Para chegar à categoria preferencial, a empresa precisa demonstrar conhecimento técnico, capacidade para operar os equipamentos e determinado nível de receita. Em troca, recebe prioridade na distribuição dos chips. A Century Litong obteve a classificação cerca de duas semanas depois de Washington estender as restrições às linhas A800 e H800, desenvolvidas pela Nvidia para o mercado chinês depois da proibição dos modelos mais avançados A100 e H100. Estoques que já estavam nas mãos de distribuidores ainda podiam ser comercializados, e a empresa chinesa teria conseguido comprar grandes volumes. Alice entrava em cena quando uma encomenda de processadores restritos não avançava pelos canais habituais, segundo as fontes ouvidas pelo The Information. Ela dizia a colegas e clientes que poderia garantir o fornecimento devido às relações que mantinha dentro da Nvidia e com distribuidores. A rede também incluía a Megaspeed, empresa de data centers registrada em Singapura na qual Alice ocupou uma posição executiva. Criada com essa identidade empresarial no mesmo período da Century Litong, a companhia já havia se tornado uma das maiores compradoras asiáticas de chips da Nvidia. Entre 2023 e 2025, as importações da Megaspeed teriam alcançado aproximadamente US$ 4,6 bilhões. Parte dos equipamentos foi instalada em data centers do Sudeste Asiático, enquanto outra parcela teria chegado à Century Litong. De acordo com o The Information, a rede ajudou a levar cerca de 240 mil chips à China. A maior parte seria formada pelos modelos H100 e H200, além de unidades do A100. As fontes afirmam que os equipamentos acabaram em centros de dados que atendiam Alibaba, Tencent e laboratórios chineses de inteligência artificial. A Century Litong também oferecia o uso da capacidade computacional instalada em seus próprios data centers. ",
+  "numeros": [
+   {
+    "valor": "7,5 bilhões",
+    "rotulo": "transações em chips da Nvidia"
+   },
+   {
+    "valor": "4,6 bilhões",
+    "rotulo": "importações pela Megaspeed"
+   },
+   {
+    "valor": "240 mil",
+    "rotulo": "chips levados à China"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Concorrência",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "O que essa pessoa perde ou teme: a incapacidade de se destacar em um",
+  "angulo": "A situação atual demonstra como estratégias de marketing bem construídas podem abrir portas e garantir a relevância no mercado.",
+  "gancho": "Como a *concorrência* afeta seus negócios?",
+  "ideias": [
+   "Marketing essencial na era da inovação",
+   "Como se destacar em tempos de crise?",
+   "A importância das conexões no marketing"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://epocanegocios.globo.com/empresas/noticia/2026/11/alem-do-caso-extraconjugal-alice-huang-e-sua-familia-teriam-montado-rede-de-us-75-bi-em-chips-da-nvidia.ghtml",
+  "publicadoEm": "2026-11-10T10:51:11-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday pode aumentar vendas em Ribeirão Preto",
+  "resumo": "O comércio de Ribeirão Preto espera um crescimento nas vendas de até 3% durante a Black Friday de novembro, refletindo a confiança dos consumidores na economia.",
+  "fatos": [
+   "A Black Friday acontece em novembro e é um período de grande movimentação no varejo.",
+   "O comércio de Ribeirão Preto projeta um aumento de até 3% nas vendas neste período.",
+   "Esse crescimento reflete a expectativa positiva dos consumidores em relação à economia."
+  ],
+  "explicacao": [
+   "A expectativa de alta nas vendas é um reflexo da confiança do consumidor, que pode ser impulsionada por promoções e descontos.",
+   "Com a aproximação da Black Friday, os empresários precisam se preparar para atrair mais clientes.",
+   "Venda aumentada pode significar necessidade de fortalecimento das estratégias de marketing digital e e-commerce."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "THMais",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "perder oportunidades de venda na Black Friday",
+  "angulo": "Entender como otimizar sua presença online é fundamental para não ficar para trás nesta data importante.",
+  "gancho": "Resultados da *Black Friday* em Ribeirão Preto",
+  "ideias": [
+   "Prepare-se para a Black Friday",
+   "Aumente suas vendas neste novembro",
+   "Confiança do consumidor em alta!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://thmais.com.br/cidades/ribeirao-preto/com-black-friday-comercio-de-ribeirao-preto-projeta-alta-de-ate-3-nas-vendas-de-novembro/",
+  "publicadoEm": "2026-11-10T14:07:21-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento do Pix e sua importância para negócios",
+  "resumo": "O Pix alcançou 319 milhões de transações em um dia, mostrando sua relevância no mercado. Empresários precisam estar preparados para esta mudança.",
+  "fatos": [
+   "No dia 6 de outubro, o Pix registrou 319,7 milhões de transações em 24 horas.",
+   "A movimentação financeira totalizou R$ 180,5 bilhões, o segundo maior montante da história.",
+   "O recorde anterior estava em 4 de setembro, com 318,1 milhões de transações e R$ 186,89 bilhões movimentados.",
+   "O sistema conta com 187,8 milhões de usuários e mais de 1 bilhão de chaves registradas.",
+   "Das chaves cadastradas, 526,8 milhões são aleatórias, permitindo transações sem compartilhar dados pessoais."
+  ],
+  "explicacao": [
+   "O aumento no uso do Pix aponta para uma mudança no comportamento do consumidor em relação aos pagamentos.",
+   "Essas transações instantâneas impactam diretamente no fluxo de caixa das empresas, exigindo agilidade nos processos.",
+   "Os empresários devem adaptar suas estratégias de pagamento e marketing para se alinhar a essa nova realidade econômica."
+  ],
+  "materia": "O sistema de pagamentos instantâneos do Banco Central (BC), o Pix, bateu novo recorde na última sexta-feira, 6. Pela primeira vez, a modalidade superou 319 milhões de transações em 24 horas. Somente no último dia 6, foram feitas 319,7 milhões de transferências via Pix para usuários finais. Segundo o BC, a movimentação em volume de dinheiro atingiu R$ 180,5 bilhões em um único dia, o segundo maior montante da história. “O resultado é mais uma demonstração da importância do Pix como infraestrutura digital pública, para o funcionamento da economia nacional”, informou o BC em comunicado. O recorde diário anterior tinha sido registrado em 4 de setembro, com 318,1 milhões de transações num único dia. Naquela data, a movimentação somou R$ 186,89 bilhões. Criado em novembro de 2020, o Pix acumulou, no fim de outubro, 187,8 milhões de usuários, conforme as estatísticas mensais mais recentes. Desse total, 168,8 milhões eram pessoas físicas; e 19 milhões, pessoas jurídicas. Em setembro, segundo os dados consolidados mais recentes, o sistema alcançou a marca de R$ 3,81 trilhões movimentados. Chaves cadastradas O número de chaves Pix cadastradas no Brasil ultrapassou a marca de 1 bilhão em setembro, segundo dados do BC. Ao todo, o sistema contabilizava 1,008 bilhão de registros no dia 30, ante 998 milhões em agosto. O total representa um crescimento de aproximadamente 80 milhões de chaves desde o fim de 2025, quando havia 920 milhões. O número de chaves, porém, não corresponde à quantidade de usuários do sistema. Como uma mesma pessoa pode cadastrar mais de uma chave, o Pix reúne cerca de 170 milhões de clientes, entre pessoas físicas e jurídicas. Isso significa uma média próxima de seis chaves por cliente, considerando os números aproximados. Do total de registros, 956,7 milhões estavam vinculados a pessoas físicas e 51,2 milhões a empresas, conforme os dados do BC. Mais da metade dos cadastros corresponde a chaves aleatórias, que permitem receber transferências sem precisar compartilhar informações pessoais, como Cadastro de Pessoas Físicas (CPF), telefone ou e-mail. Confira a distribuição por tipo de chave: Aleatórias: 526,8 milhões (52,3%); Celulares: 166,3 milhões (16,5%); CPF: 153,9 milhões (15,4%); E-mails: 144,6 milhões (14,3%). Com informações de Agência Brasil Imagem: Shutterstock O post Pix bate recorde e supera 319 milhões de transações em um dia apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "319,7 milhões",
+    "rotulo": "transações em um dia"
+   },
+   {
+    "valor": "R$ 180,5 bilhões",
+    "rotulo": "movimentação financeira"
+   },
+   {
+    "valor": "1 bilhão",
+    "rotulo": "chaves Pix cadastradas"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de oportunidades em vendas e pagamentos",
+  "angulo": "A crescente utilização do Pix revela a necessidade urgente de um site otimizado e gestão das redes sociais para captar esses consumidores.",
+  "gancho": "*Transações em alta!* O Pix bate recorde hoje!",
+  "ideias": [
+   "Como o Pix pode impulsionar seu negócio",
+   "O futuro das vendas com pagamentos instantâneos",
+   "Você está preparado para a revolução do Pix?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://mercadoeconsumo.com.br/10/11/2026/meios-de-pagamento/pix-bate-recorde-e-supera-319-milhoes-de-transacoes-em-um-dia/",
+  "publicadoEm": "2026-11-10T11:24:38-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Desoneração da gasolina e etanol até dezembro de 2026",
+  "resumo": "Governo prorroga desoneração da gasolina e etanol até 9 de dezembro de 2026, visando mitigar inflação. Empresários devem se atentar ao impacto nas vendas.",
+  "fatos": [
+   "Desoneração da gasolina e etanol prorrogada até 9 de dezembro de 2026.",
+   "O impacto fiscal previsto é de R$ 2,76 bilhões nos próximos 30 dias.",
+   "A subvenção ao etanol é mantida em R$ 0,428 por litro até a mesma data.",
+   "As alíquotas de PIS/Pasep e Cofins sobre gasolina e etanol permanecem zeradas.",
+   "Medidas visam conter o aumento de preços internacionais de petróleo."
+  ],
+  "explicacao": [
+   "A prorrogação da desoneração é uma resposta do governo à alta nos preços do petróleo devido a conflitos internacionais.",
+   "Na prática, com alíquotas zeradas, empresas têm custos menores, mas é preciso gestão estratégica para aproveitar isso.",
+   "Além disso, o governo busca garantir a competitividade do biocombustível frente aos fósseis.",
+   "Os empresários devem se preparar para adaptar suas estratégias de venda e marketing nesse cenário."
+  ],
+  "materia": "O governo federal prorrogou até 9 de dezembro de 2026 a desoneração da gasolina e do etanol e manteve, até a mesma data, a subvenção ao etanol. As medidas constam em decreto publicado em edição extra no Diário Oficial da União (DOU). Em nota, a Presidência da República informou que o objetivo é evitar o impacto inflacionário decorrente da alta dos preços internacionais do petróleo provocada pelo conflito no Oriente Médio. “A medida dá continuidade à redução que vigorava de 10 de setembro a 9 de novembro de 2026”, destacou o comunicado. As alíquotas da contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público (PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins) sobre a importação e a comercialização de gasolina e suas correntes permanecem reduzidas a zero por metro cúbico. A medida, de acordo com a Presidência da República, não alcança a gasolina de aviação. O decreto também prorroga, até 9 de dezembro de 2026, a redução a zero da alíquota específica da Contribuição de Intervenção no Domínio Econômico (Cide) sobre a importação e a comercialização da gasolina. No caso do etanol hidratado combustível, as alíquotas de PIS/Pasep e Cofins também seguem zeradas até 9 de dezembro de 2026. Também foi mantida a subvenção de R$ 0,428 por litro de etanol hidratado combustível, a ser paga a produtores e cooperativas de produtores de biocombustíveis destinados ao consumo final. A medida também vale até 9 de dezembro de 2026, prorrogável por ato do Ministério da Fazenda. “A subvenção busca preservar a vantagem competitiva dos biocombustíveis em relação aos combustíveis fósseis, conforme previsto na legislação”, reforçou o comunicado do Palácio do Planalto. Em nota, o Ministério da Fazenda informou que o impacto fiscal estimado da prorrogação das desonerações da gasolina e do etanol nos próximos 30 dia será de R$ 2,76 bilhões. “Esse valor será compensado por receitas extraordinárias da União provenientes do setor de petróleo, assegurando a neutralidade fiscal da medida.” Já a prorrogação da subvenção econômica ao etanol hidratado terá impacto estimado de R$ 813,41 milhões no período de 30 dias. “As medidas têm caráter temporário e integram a resposta do governo federal aos efeitos das restrições no mercado internacional de combustíveis, que têm provocado elevação dos preços do petróleo, aumento das margens internacionais de refino e ampliação da diferença entre os preços de paridade de importação (PPI) e os praticados pelos produtores nacionais”, concluiu a pasta. Com informações de Agência Brasil Imagem: Envato Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "R$ 2,76 bilhões",
+    "rotulo": "impacto fiscal da prorrogação em 30 dias"
+   },
+   {
+    "valor": "R$ 813,41 milhões",
+    "rotulo": "impacto da subvenção do etanol em 30 dias"
+   },
+   {
+    "valor": "R$ 0,428",
+    "rotulo": "subvenção por litro de etanol"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "vendas abaixo da expectativa e dificuldade financeira",
+  "angulo": "Entender as desonerações pode ajudar empresários a ajustarem estratégias de marketing e preços, aproveitando oportunidades no mercado.",
+  "gancho": "Como a *desoneração impacta seus negócios*?",
+  "ideias": [
+   "Desoneração: como aproveitar nas vendas?",
+   "Impacto da gasolina e etanol no varejo",
+   "Estratégias para o cenário de desoneração"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://mercadoeconsumo.com.br/10/11/2026/economia/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol/",
+  "publicadoEm": "2026-11-10T11:12:28-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-07"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Desafios de armazenagem para a Black Friday e Natal",
   "resumo": "A alta demanda do varejo exige planejamento estratégico dos estoques e logística adequada. E-commerce deve movimentar R$ 13,3 bilhões entre 26 e 29 de novembro.",
   "fatos": [
@@ -348,6 +677,351 @@
   "publicadoEm": "2026-11-09T17:54:39-03:00",
   "data": "2026-11-09",
   "id": "2026-11-10-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Justiça Federal abre mão de R$ 208,9 milhões",
+  "resumo": "Luís Felipe Salomão anunciou a revisão do orçamento da Justiça Federal e desistiu de solicitar R$ 208,9 milhões em crédito para gratificações a magistrados. A readequação permitirá quitar as despesas sem recursos adicionais.",
+  "fatos": [
+   "Luís Felipe Salomão, presidente do CJF, anunciou a desistência de R$ 208,9 milhões.",
+   "A decisão foi comunicada em 10 de novembro de 2026.",
+   "O orçamento da Justiça Federal foi readequado para cobrir as despesas.",
+   "O pedido inicial surgiu de uma decisão do STF sobre quinquênio de magistrados.",
+   "A Procuradoria-Geral da República ainda não desistiu de solicitar R$ 324 milhões."
+  ],
+  "explicacao": [
+   "A Justiça Federal reavaliou seu orçamento e percebeu que não precisa de recursos extras para suas despesas.",
+   "Esse tipo de readequação é comum no final do ano, quando restos a pagar e receitas adicionais surgem.",
+   "Com essa decisão, a Justiça Federal continua a custear suas indenizações sem comprometer o orçamento público."
+  ],
+  "materia": "Luís Felipe Salomão, presidente do CJF, declarou que orçamento foi revisto e a instituição poderá pagar as despesas sem recursos extras O presidente do Superior Tribunal de Justiça (STJ) e do Conselho da Justiça Federal (CJF), Luís Felipe Salomão , desistiu de solicitar crédito extraordinário de R$ 208,9 milhões para o pagamento de indenizações e gratificações a magistrados, conhecidas como “ penduricalhos ”. A decisão foi comunicada nesta 3ª feira (10.nov.2026). Eis a íntegra do documento (PDF – 39 KB). O ofício foi encaminhado ao advogado-geral da União, Jorge Messias. Salomão afirmou que o orçamento da Justiça Federal foi readequado e que, por isso, não há necessidade de recursos adicionais. Segundo ele, a instituição conseguirá quitar os compromissos. “ Após o envio daquele documento, surgiram fatos novos com aportes de receitas e adequações orçamentárias – típicas desta época de final de ano com empenhos e despesas não efetuadas -, ensejando consequente reanálise das contas, por isso que cessou, no âmbito da Justiça Federal, a necessidade então identificada ”, escreveu o presidente. O pedido inicial de crédito extra foi motivado por uma decisão do STF (Supremo Tribunal Federal) que restabeleceu o quinquênio — adicional de 5% sobre o salário-base pago a cada 5 anos de serviço público ou de magistratura, limitado a 35%. O CJF solicitou R$ 208,9 milhões para despesas da Justiça Federal. Ao mesmo tempo, a Procuradoria-Geral da República (PGR) pediu outros R$ 324 milhões para o Ministério Público, totalizando R$ 533 milhões em solicitações encaminhadas ao governo federal. Depois de receber os pedidos, a Advocacia-Geral da União (AGU) acionou o Supremo para esclarecer a viabilidade orçamentária dos pagamentos. Com a manifestação enviada nesta 3ª feira (10.nov), a Justiça Federal abre mão de sua parcela. Até o momento, não há registro de que a PGR tenha desistido do pedido de R$ 324 milhões. a) Para receber as informações solicitadas, você nos autoriza a usar o seu nome, endereço de e-mail e/ou telefone e assuntos de interesse (a depender da opção assinalada e do interesse indicado). Independentemente da sua escolha, note que o Poder360 poderá lhe contatar para assuntos regulares. b) Caso não deseje oferecer o seu consentimento para as divulgações do Poder360, é possível seguir sem receber as informações assinaladas acima. Você poderá, a qualquer momento, se descadastrar de nossos contatos ou revogar o consentimento dado abaixo pelos nossos canais de atendimento. c) O Poder360 garantirá o exercício de quaisquer direitos e prerrogativas de proteção de dados pessoais em conformidade com a Lei 13.709/2018. Mais informações, leia nossa Política de Privacidade . O Poder360 enviou um e-mail para você confirmar a inscrição. Clique no link enviado para o seu e-mail para concluir o cadastro. Não chegou ainda? Dê uma olhada na caixa de spam se a mensagem não tiver aparecido em alguns minutos.",
+  "numeros": [
+   {
+    "valor": "208,9 milhões",
+    "rotulo": "crédito desistido pela Justiça Federal"
+   },
+   {
+    "valor": "324 milhões",
+    "rotulo": "solicitação da PGR"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "preocupação com gastos públicos e como isso impacta o bolso.",
+  "angulo": "A decisão da Justiça pode refletir um melhor gerenciamento de recursos, impactando indiretamente a economia e a cidadania; aprender sobre finanças pessoais pode ajudar nesse contexto.",
+  "gancho": "*Crédito desaprovado* e suas implicações financeiras",
+  "ideias": [
+   "Como a revisão orçamentária afeta sua vida.",
+   "Impacto da desistência de crédito no setor público.",
+   "A importância de entender a gestão financeira pública."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://www.poder360.com.br/poder-justica/justica-federal-desiste-de-r-2089-milhoes-em-credito-a-penduricalhos/",
+  "publicadoEm": "2026-11-10T14:16:28-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: impacto nas empresas",
+  "resumo": "O debate sobre o fim da escala 6x1 gerou reações no STF, onde se discute a adequação do prazo para adaptação das empresas. A CNC contesta o tempo de transição estabelecido.",
+  "fatos": [
+   "O STF começou a discutir o fim da escala 6x1 após ação da CNC em 3 de novembro.",
+   "A CNC questiona o prazo de dois meses para a transição da jornada de trabalho de 44 para 42 horas.",
+   "O ministro Flávio Dino defendeu o direito de empresas contestarem as regras de transição.",
+   "O debate no STF foi provocado por entidades empresariais, segundo Dino.",
+   "Dino afirmou que o tribunal atuará enquanto houver demandas e interesse social.",
+   "A audiência pública reuniu representantes de diversas entidades para discutir o assunto."
+  ],
+  "explicacao": [
+   "A discussão sobre o fim da escala 6x1 foi motivada por críticas ao prazo de adaptação imposto às empresas.",
+   "As empresas argumentam que o período de dois meses é insuficiente para que realizem as adaptações operacionais necessárias.",
+   "A participação do STF no debate se dá por solicitação das entidades empresariais, garantindo que suas vozes sejam ouvidas.",
+   "O processo é uma oportunidade para revisar as condições de jornada de trabalho, que podem impactar custos e operações.",
+   "A audiência pública busca permitir um debate amplo sobre as implicações da redução da carga horária."
+  ],
+  "materia": "Relator da ação movida pela CNC, magistrado defende direito de empresas contestarem prazos de transição da jornada de trabalho. O ministro Flávio Dino, do Supremo Tribunal Federal (STF), rebateu nesta terça-feira (10) as críticas à atuação da Corte na discussão sobre o fim da escala 6x1 e afirmou que o tribunal só entrou no debate porque foi provocado por entidades empresariais. Relator da ação apresentada pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), o magistrado ressaltou que a abertura da discussão não significa concordância com os argumentos do setor patronal. A declaração foi feita durante o 3º Congresso Brasileiro de Direito Parlamentar, realizado no Senado Federal, em Brasília. Na ocasião, Dino reagiu a questionamentos sobre a participação do Supremo no debate e defendeu o direito das empresas de contestarem judicialmente as regras de transição para a redução da jornada de trabalho. “Hoje vi uma autoridade política dizendo: ‘Por que o Supremo está se metendo nisso?’. Eu disse: ‘Querido, é porque alguém pediu. É básico isso’”, afirmou o ministro, em referência às declarações do ministro do Trabalho, Luiz Marinho. Marinho havia criticado a participação do STF no debate sobre a mudança da jornada de trabalho e questionado a necessidade de intervenção judicial. “Para que o Supremo vai se meter?”, declarou o ministro do Trabalho. Em resposta, Dino afirmou que a Corte continuará analisando o assunto enquanto houver demandas judiciais e interesse social envolvido. Segundo ele, a audiência pública foi convocada justamente para permitir que os representantes do setor empresarial apresentem seus argumentos. “Querem debater a inconstitucionalidade da emenda constitucional. É um direito que eles têm”, declarou o relator, reforçando que a discussão judicial não representa uma posição antecipada do tribunal sobre o mérito da contestação. A ação apresentada pela CNC em 3 de novembro questiona o período de dois meses estabelecido para a primeira etapa de transição da redução da jornada semanal de trabalho, de 44 para 42 horas. A entidade empresarial argumenta que o prazo é insuficiente para que as empresas realizem as adaptações operacionais necessárias diante das mudanças previstas. O processo está sob relatoria de Flávio Dino no Supremo. A audiência convocada pela Primeira Turma do STF reúne representantes de confederações empresariais, centrais sindicais, Advocacia-Geral da União (AGU), Procuradoria-Geral da República (PGR), Câmara dos Deputados e Senado Federal. A proposta é ouvir diferentes setores envolvidos antes da análise dos questionamentos apresentados pela confederação.",
+  "numeros": [
+   {
+    "valor": "44 para 42",
+    "rotulo": "carga horária semanal"
+   },
+   {
+    "valor": "2",
+    "rotulo": "meses para transição"
+   },
+   {
+    "valor": "3 de novembro",
+    "rotulo": "data da ação da CNC"
+   }
+  ],
+  "fonte": "Jurinews",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Receio de adaptações caras e complicadas",
+  "angulo": "Nesse cenário, qualificação no mercado financeiro se torna uma opção viável para diversificar a renda e escapar das amarras do trabalho convencional.",
+  "gancho": "*Prazo de transição* gera preocupações nas empresas",
+  "ideias": [
+   "Fim da escala 6x1: o que isso muda?",
+   "STF discute jornada de trabalho e empresas",
+   "Aprenda o mercado financeiro e amplie sua renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://jurinews.com.br/destaques-ultimas/dino-rebate-criticas-e-justifica-atuacao-do-stf-no-fim-da-escala-6x1-alguem-pediu",
+  "publicadoEm": "2026-11-10T13:17:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Prazo para redução de jornada aumenta custo de vida",
+  "resumo": "O fim da escala 6x1 pode pressionar ainda mais a inflação e os custos das empresas. Entenda como isso afeta seu bolso e a necessidade de aprender sobre o mercado financeiro.",
+  "fatos": [
+   "O Banco Central considera o fim da escala 6x1 um risco para a inflação.",
+   "14,7 milhões de trabalhadores estavam na escala 6x1 em 2025, representando 33,2% do total de empregados formais.",
+   "A Emenda Constitucional 141 foi promulgada em 16 de outubro, reduzindo a jornada semanal de 44 para 40 horas gradualmente.",
+   "A mudança terá início 60 dias após a promulgação, reduzindo para 42 horas e, posteriormente, 40 horas em 12 meses.",
+   "O Copom mantém a taxa de juros em 13,75% ao ano, frente à inflação elevada e expectativas acima das metas."
+  ],
+  "explicacao": [
+   "A redução da jornada de trabalho impacta os custos das empresas, uma vez que muitos trabalhadores terão mais dias de descanso remunerado.",
+   "Isso pode desencadear pressões inflacionárias, podendo aumentar o custo de vida da população.",
+   "A mudança ainda exigirá monitoramento por parte do Banco Central, que está atento a possíveis repercussões duradouras na inflação.",
+   "Com a economia desacelerando, o cenário é ainda mais incerto, reforçando a necessidade de uma estratégia financeira personalizada."
+  ],
+  "materia": "O Banco Central incluiu o fim da escala 6x1 entre os fatores que podem pressionar os custos do trabalho e dificultar o controle da inflação. A avaliação consta da ata da reunião do Comitê de Política Monetária (Copom), divulgada nesta terça-feira (10), e aparece na análise dos riscos para a economia brasileira. O documento relaciona quatro choques de oferta que influenciam as perspectivas para os preços: a alta do petróleo em decorrência dos conflitos no Oriente Médio, os efeitos do El Niño sobre a produção agrícola e os custos de energia, o impacto do fim da escala 6x1 sobre os custos do trabalho e a depreciação do real diante das incertezas relacionadas à política doméstica. Ao tratar do tema, o Copom afirma que o cenário atual combina sinais mais evidentes de desaceleração da economia com esses quatro fatores. O comitê considera que a mudança na jornada de trabalho pode elevar os custos das empresas e, consequentemente, gerar pressões sobre os preços. A ata não quantifica o impacto específico da redução da jornada sobre a inflação nem afirma que esse efeito já se materializou. O Banco Central trata o tema como um risco a ser acompanhado na condução da política monetária. No documento, o Copom explica que não pretende reagir automaticamente aos efeitos iniciais dos choques de oferta. A preocupação está na possibilidade de que os aumentos de custos se espalhem pela economia e provoquem efeitos inflacionários mais duradouros. “Choques de oferta têm exercido influência relevante tanto sobre a trajetória recente da inflação quanto sobre sua trajetória prospectiva”, afirma a ata. , O comitê acrescenta que precisa monitorar eventuais efeitos de segunda ordem e reagir com firmeza caso eles se concretizem. O Banco Central também avalia que a desaceleração da demanda agregada pode limitar a propagação desses choques. Segundo o documento, projeções de crescimento econômico abaixo do potencial reduzem o risco de que aumentos pontuais de custos se transformem em pressões inflacionárias persistentes. A redução da jornada de trabalho deixou de ser apenas uma proposta em discussão no Congresso. Em 16 de outubro, o Legislativo promulgou a Emenda Constitucional 141, que estabelece dois dias de descanso remunerado por semana e reduz gradualmente o limite da jornada semanal de 44 para 40 horas. A transição começa 60 dias após a promulgação, quando o limite passa a 42 horas semanais. Depois de 12 meses, chega a 40 horas. A emenda também assegura a manutenção dos salários. Ministério do Trabalho e Emprego+1 Dados do Ministério do Trabalho e Emprego (MTE) indicam que 14,7 milhões de trabalhadores com carteira assinada estavam submetidos à escala 6x1 em dezembro de 2025. O número corresponde a 33,2% dos 44,5 milhões de empregados formais abrangidos pela CLT. Ministério do Trabalho e Emprego Na reunião de 3 e 4 de novembro, o Copom decidiu manter a taxa básica de juros em 13,75% ao ano. O colegiado considerou que a inflação continua pressionada pela demanda e que as expectativas permanecem acima da meta. As projeções do Banco Central para o IPCA são de 5,6% em 2026, 4,7% em 2027 e 3,5% no segundo trimestre de 2028, horizonte relevante para a política monetária. A ata também aponta que o ambiente de expectativas desancoradas exige uma política monetária restritiva por mais tempo. Segundo o comitê, a combinação de inflação projetada mais elevada e crescimento econômico mais fraco exige cautela na condução dos juros. Use este espaço apenas para a comunicação de erros WHATSAPP: As regras de privacidade dos grupos são definidas pelo WhatsApp. Ao entrar, seu número pode ser visto por outros integrantes do grupo.",
+  "numeros": [
+   {
+    "valor": "14,7 milhões",
+    "rotulo": "trabalhadores na escala 6x1"
+   },
+   {
+    "valor": "33,2%",
+    "rotulo": "percentual de empregados formais na escala"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa básica de juros"
+   }
+  ],
+  "fonte": "Gazeta do Povo",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Aumento no custo de vida e insegurança financeira",
+  "angulo": "Conquistar a liberdade financeira é agora mais vital, aprender a investir pode ajudar a minimizar os impactos das mudanças na economia.",
+  "gancho": "Mudanças na jornada de trabalho e *seu bolso*",
+  "ideias": [
+   "Afinal, o que muda com o fim da escala 6x1?",
+   "Como lidar com a pressão inflacionária agora?",
+   "Preparação financeira em tempos de incerteza"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://www.gazetadopovo.com.br/economia/banco-central-ve-fim-da-escala-6x1-como-pressao-adicional-sobre-a-inflacao/",
+  "publicadoEm": "2026-11-10T12:25:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "TST sugere fim da escala 6x1 no comércio",
+  "resumo": "O presidente do TST defende a adoção imediata da redução da jornada de trabalho no comércio, beneficiando trabalhadores e alterando dinâmicas de emprego.",
+  "fatos": [
+   "Luiz Philippe Vieira de Mello Filho, presidente do TST, defendeu o fim da escala 6x1.",
+   "É sugerida a redução da jornada de trabalho de 44 para 40 horas semanais sem diminuição salarial.",
+   "A Emenda Constitucional 141, promulgada em outubro, prevê a redução da jornada de trabalho em prazos futuros.",
+   "Entidades empresariais querem mais tempo para se adaptar às novas regras.",
+   "Uma audiência pública no STF discute os pedidos de mais tempo por empresas do comércio e da indústria."
+  ],
+  "explicacao": [
+   "A proposta do TST visa melhorar as condições de trabalho e bem-estar dos empregados.",
+   "Essa mudança pode impactar diretamente a vida de trabalhadores que acumulam funções, especialmente mulheres.",
+   "A resistência das empresas se relaciona à adaptação dos modelos de negócios.",
+   "A decisão de reduzir a jornada sem diminuição salarial busca estimular um equilíbrio entre trabalho e vida pessoal."
+  ],
+  "materia": "Com localizações salvas você poderá receber alertas de lugares que você escolheu e da sua atual localização. Compartilhe sua localização para sempre receber alertas locais, independente da sua posição. Para remover uma cidade, selecione o ícone da lixeira. Com localizações salvas você poderá receber alertas de lugares que você escolheu e da sua atual localização. Hédio Ferreira Júnior Formado em Comunicação pela Uni-BH, atua no jornalismo desde 1996, quando começou como editor do Jornal da Itatiaia. Passou por O TEMPO, Hoje em Dia, Correio Braziliense e por assessorias de imprensa na Esplanada dos Ministérios e no Governo do Distrito Federal. Correspondente em Brasília por mais de duas décadas , tem experiência na cobertura dos Três Poderes, com destaque para o Congresso Nacional e o STF. Acompanhou casos emblemáticos como o julgamento do Mensalão, o impeachment de Dilma Rousseff e a condenação do ex-presidente Jair Bolsonaro. Em 2023, retornou a O TEMPO como repórter responsável pelo Poder Judiciário. BRASÍLIA – O presidente do Tribunal Superior do Trabalho (TST), Luiz Philippe Vieira de Mello Filho, defendeu que o comércio abandone desde já a escala de seis dias de trabalho para um de descanso, sem esperar o prazo previsto na Constituição. À frente da Justiça do Trabalho no Brasil, o ministro afirma que é possível reduzir imediatamente a jornada de 44 horas para 42 ou 40 horas semanais, sem diminuir os salários. “Não há nenhuma razão pra você não começar a aplicar isso”, afirmou ele nessa segunda-feira (9/11), em entrevista ao programa Roda Viva, da TV Cultura. Fique por dentro: Defesa quer que Gilmar Mendes decida liberdade de Vorcaro, e não Fachin A declaração contraria a posição de entidades empresariais que tentam ampliar, na Justiça, o prazo para adaptar seus negócios. Promulgada em outubro deste ano, a Emenda Constitucional 141 garante duas folgas por semana e também prevê a redução da jornada máxima de 44 para 42 horas em dezembro deste ano e para 40 horas em dezembro de 2027. A manifestação do presidente do TST não antecipa a obrigação legal: ele defende que as empresas adotem a mudança antes do prazo. O impasse chega ao Supremo Tribunal Federal (STF) nesta terça-feira (10/11). O ministro do STF Flávio Dino convocou, para as 14h, uma audiência pública com representantes de empresas e trabalhadores. Em análise estão pedidos de mais tempo apresentados por entidades do comércio e da indústria. A redução da jornada e o direito a duas folgas não serão rediscutidos. Vieira de Mello Filho admitiu a necessidade de regras específicas para aeronautas – como pilotos de avião e comissários de bordo –, trabalhadores da Petrobras – que cumprem escalas de 15 dias em alto mar e 15 de descanso – e profissionais – de saúde e forças de segurança, por exemplo – em escala 12x36. O magistrado destacou ainda o impacto da mudança para mulheres do comércio que acumulam emprego e tarefas domésticas e comparou a resistência atual às previsões de crise feitas quando surgiu o 13º salário. O governo federal também adiou o decreto que detalhará a aplicação das novas regras, prevista inicialmente para essa segunda-feira (9/11). A publicação é esperada após o retorno ao Brasil do presidente Luiz Inácio Lula da Silva (PT), que participa da COP31 na Turquia, prevista para a próxima segunda-feira (16/11). O portal O TEMPO utiliza cookies para armazenar ou recolher informações no seu navegador. A informação normalmente não o identifica diretamente, mas pode dar-lhe uma experiência web mais personalizada. Uma vez que respeitamos o seu direito à privacidade, pode optar por não permitir alguns tipos de cookies. Para mais informações, revise nossa Política de Privacidade. Cookies operacionais/técnicos: São usados para tornar a navegação no site possível, são essenciais e possibilitam a oferta de funcionalidades básicas. Eles ajudam a registrar como as pessoas usam o nosso site, para que possamos melhorá-lo no futuro. Por exemplo, eles nos dizem quais são as",
+  "numeros": [
+   {
+    "valor": "44 a 40",
+    "rotulo": "horas semanais máximas"
+   }
+  ],
+  "fonte": "O Tempo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Jovens"
+  ],
+  "dor": "temor de perda de renda e estabilidade no emprego",
+  "angulo": "Entender o novo cenário de trabalho pode ajudar você a buscar formas alternativas de renda no mercado financeiro, sem depender de escalas tradicionais.",
+  "gancho": "O *que muda para você* com a nova jornada",
+  "ideias": [
+   "Mudanças no trabalho e como se adaptar",
+   "Dinâmicas do mercado: a nova jornada",
+   "Futuro do trabalho: o que esperar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://www.otempo.com.br/politica/judiciario/2026/11/10/presidente-do-tst-defende-fim-imediato-da-escala-6x1-no-comercio",
+  "publicadoEm": "2026-11-10T12:57:59-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-05"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças nos vales: o que isso significa para você?",
+  "resumo": "Decisão judicial afetou novas regras sobre vale-refeição e alimentação, beneficiando algumas operadoras. Isso pode limitar onde os benefícios são aceitos.",
+  "fatos": [
+   "A Justiça suspendeu temporariamente novas regras do vale-refeição e vale-alimentação em 9 de novembro de 2026.",
+   "A liminar beneficia empresas associadas à ABBT, como Alelo e Ticket.",
+   "Operadoras podem voltar ao modelo fechado de pagamento, aceito apenas em estabelecimentos credenciados.",
+   "A interoperabilidade entre operadoras continua obrigatória, permitindo aceitação de diferentes cartões na mesma maquininha.",
+   "As empresas afetadas não podem ser multadas ou restringidas pelo governo enquanto a decisão estiver em vigor."
+  ],
+  "explicacao": [
+   "A suspensão das novas regras permitirá que algumas operadoras mantenham seus contratos atuais com os estabelecimentos.",
+   "Isso pode significar que os cartões dos beneficiários podem não ser aceitos em uma variedade tão ampla de locais quanto antes.",
+   "A regra de interoperabilidade ainda garante que, se um estabelecimento aceita um tipo de cartão, deve aceitar outros de diferentes operadoras na mesma estrutura.",
+   "A mudança pode dificultar a utilização dos vales em alguns locais, o que impacta o dia a dia de quem conta com esses benefícios."
+  ],
+  "materia": "PAT: novas regras são alvo de ações judiciais (boonchai wedmakawand/Getty Images) Publicado em 10 de novembro de 2026 às 13h41 . A Justiça suspendeu temporariamente regras que ampliavam a aceitação de cartões de vale-refeição e vale-alimentação em diferentes estabelecimentos. A decisão beneficia operadoras associadas à ABBT, permitindo que voltem ao modelo fechado de pagamento. A interoperabilidade entre operadoras permanece obrigatória. A Justiça suspendeu temporariamente regras que ampliavam a aceitação de cartões de vale-refeição e vale-alimentação em diferentes estabelecimentos. A decisão beneficia operadoras associadas à ABBT, permitindo que voltem ao modelo fechado de pagamento. A interoperabilidade entre operadoras permanece obrigatória. A Justiça Federal suspendeu, na última segunda-feira, 9 , parte das novas regras que ampliavam a aceitação dos cartões de vale-refeição (VR) e vale-alimentação (VA) no comércio. Com a decisão, algumas operadoras podem voltar a utilizar o modelo de pagamento fechado, no qual os cartões são aceitos apenas em estabelecimentos credenciados à própria rede. No entanto, isso não significa que os benefícios deixaram de funcionar em diferentes maquininhas, já que a regra de interoperabilidade continua em vigor. A decisão provisória foi concedida em uma ação movida pela Associação Brasileira das Empresas de Benefícios ao Trabalhador ( ABBT ) contra a União. Seus efeitos alcançam as empresas associadas à entidade, entre elas Alelo, Pluxee, Ticket e VR Benefícios . Para essas operadoras, ficam suspensas algumas exigências do decreto que reformulou o Programa de Alimentação do Trabalhador ( PAT ), incluindo a migração obrigatória para o sistema aberto. Vale ressaltar que a decisão não altera o valor recebido pelo trabalhador nem a finalidade dos cartões . O vale-refeição continua destinado à compra de refeições prontas, enquanto o vale-alimentação deve ser utilizado para adquirir alimentos. Se o trabalhador recebe o benefício por meio das operadoras Alelo, Pluxee, Ticket ou VR Benefícios, é provável que o cartão só passe em estabelecimentos que tenham contrato com a própria empresa. Isso acontece porque a liminar suspendeu, para as empresas associadas à ABBT , a obrigação de adotar o chamado arranjo aberto, que permite processar pagamentos em diferentes redes de maquininhas, conforme a bandeira do cartão. Na prática, a decisão pode limitar a aceitação dos benefícios em alguns pontos de venda. Isso não significa que cada cartão ficará restrito a uma maquininha específica. A interoperabilidade continua obrigatória: um estabelecimento credenciado para receber vale-refeição ou vale-alimentação de uma operadora também deve conseguir aceitar benefícios de outras empresas na mesma estrutura de pagamento. Essa exigência está prevista na Lei 14.442/2022 e não foi suspensa pela decisão judicial. A regra vale para estabelecimentos que já trabalham com esses benefícios, mas não obriga restaurantes, mercados e outros comércios a aceitar vale-refeição ou alimentação. Além da migração obrigatória para o arranjo aberto, a liminar suspendeu, para as associadas da ABBT , outras exigências do decreto federal: Com a suspensão , as condições comerciais dessas empresas voltam a seguir os contratos firmados com os estabelecimentos, até que haja uma decisão definitiva no processo. Não. A liminar beneficia as empresas associadas à ABBT . Operadoras que não fazem parte da entidade, como Flash e Swile, continuam sujeitas às exigências do decreto federal. A União ainda poderá recorrer da decisão. Enquanto isso, as regras suspensas não podem ser usadas pelo governo para abrir processos, aplicar multas ou restringir a atuação das empresas beneficiadas pela liminar. Associação Brasileira das Empresas de Benefícios ao Trabalhador, entidade que representa operadoras de benefícios como Alelo e Ticket. Exigência legal de que estabelecimentos que aceitam um tipo de benefício devem aceitar benefícios de outras operadoras na mesma estru",
+  "numeros": [
+   {
+    "valor": "9 de novembro de 2026",
+    "rotulo": "data da suspensão das novas regras"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Negócios",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "limitação no uso de benefícios de alimentação",
+  "angulo": "Entender essas mudanças é essencial para não ser pego de surpresa nas compras diárias com vale-refeição e vale-alimentação.",
+  "gancho": "O que muda nos *seus vales*?",
+  "ideias": [
+   "Vale-refeição: saiba como a liminar te afeta!",
+   "Novas regras do vale: o que esperar?",
+   "Entenda a suspensão das novas regras dos vales!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://exame.com/brasil/meu-vr-ainda-passa-em-qualquer-maquininha-o-que-vale-apos-a-liminar/",
+  "publicadoEm": "2026-11-10T10:41:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da jornada 6x1: impacto nas relações de trabalho",
+  "resumo": "A redução da jornada de trabalho sem alteração salarial pode impactar diretamente a rotina dos trabalhadores, especialmente em setores como o comércio. A mudança irá afetar a relação entre empresa e empregado.",
+  "fatos": [
+   "O presidente do TST, Luiz Philippe Vieira de Mello Filho, pediu o fim imediato da escala de 6x1 no Brasil.",
+   "A Emenda Constitucional 141 foi promulgada em outubro de 2026, prevendo duas folgas semanais.",
+   "As novas regras estabelecem a redução da jornada de 44 para 42 horas em dezembro de 2026 e para 40 horas em dezembro de 2027.",
+   "Entidades empresariais questionam a implementação da nova jornada no Supremo Tribunal Federal.",
+   "O ministro Flávio Dino agendou audiência de conciliação para discutir regras de transição."
+  ],
+  "explicacao": [
+   "A redução da jornada busca atender as necessidades de trabalhadores, especialmente mulheres no comércio, que lidam com responsabilidades em casa.",
+   "A implementação imediata da nova jornada pode gerar um impacto positivo na produtividade e ao mesmo tempo, ajudar a mitigar problemas de saúde relacionados ao estresse.",
+   "Empresários que não se adaptarem às novas regras poderão enfrentar dificuldades com a mudança das condições laborais."
+  ],
+  "materia": "Ministro defendeu início imediato da redução da jornada e disse que comércio pode adotar nova escala sem prazo adicional de adaptação O presidente do Tribunal Superior do Trabalho , Luiz Philippe Vieira de Mello Filho, que já se identificou como um dos magistrados “ vermelhos ” da Corte, defendeu na 2ª feira (9.nov.2026) o início imediato da redução da jornada de trabalho prevista no fim da escala 6 X 1 no Brasil. Em entrevista ao programa “Roda Viva” , da TV Cultura , afirmou que a redução da jornada pode começar pelos trabalhadores do comércio, sem necessidade de ampliar o prazo de adaptação. A classificação como “vermelho” foi usada pelo próprio ministro em maio de 2026, quando declarou que integrantes dessa corrente têm uma causa na defesa da Justiça do Trabalho. Na ocasião, afirmou: “Eu diria que não tem azul ou vermelho. Tem quem tem interesse e tem quem tem causa. Nós, vermelhos, temos causa. Não temos interesse. E que fique bem claro isso. […] Nós temos uma causa, e eles que se incomodem com a nossa causa, porque nós vamos estar lutando o tempo todo na defesa da nossa instituição” , disse. Ao defender a aplicação imediata das novas regras, na 2ª feira (9.nov), Vieira de Mello Filho disse que a mudança pode começar com a redução para 42 ou 40 horas semanais. “Não há nenhuma razão pra você não começar a aplicar isso. Isso já pode ser imediatamente, reduzir pra 42 ou pra 40” , declarou. O Congresso Nacional promulgou a Emenda Constitucional 141 em outubro de 2026, estabelecendo o fim da escala de 6 dias de trabalho para 1 de descanso. A mudança determina 2 folgas semanais, sem redução salarial, e redução gradual da jornada máxima de 44 para 42 horas em dezembro de 2026 e para 40 horas em dezembro de 2027. O decreto que regulamenta o fim da escala 6 X 1 estava previsto para ser publicado nesta 2ª feira (9.nov), mas foi adiado . A regulamentação ainda passa por ajustes e ficará para depois do retorno do presidente Luiz Inácio Lula da Silva (PT) ao Brasil. Ele embarcou para a Turquia, onde participará da COP31, e depois seguirá para as Filipinas. Volta ao Brasil em 16 de novembro. A implementação da nova jornada é questionada no Supremo Tribunal Federal por entidades empresariais, entre elas, a Confederação Nacional do Comércio e a Confederação Nacional da Indústria, que pedem mais tempo para adaptação. O ministro Flávio Dino , relator das ações, marcou uma audiência de conciliação para esta 3ª feira (10.nov), às 14h. A reunião tratará das regras de transição, sem rediscutir a redução da jornada e a ampliação das folgas aprovadas pelo Congresso. Vieira de Mello Filho considerou suficiente o prazo estipulado, mas defendeu regulamentação específica para categorias com jornadas diferenciadas, como aeronautas, trabalhadores da Petrobras e profissionais submetidos à escala 12 X 36. “Basta regulamentação, porque a regulamentação pode, por exemplo, ressalvar o caso das convenções” , afirmou. O presidente do TST também disse que a redução da jornada beneficiará especialmente mulheres que trabalham no comércio e acumulam responsabilidades domésticas. Segundo ele, a mudança pode aumentar a produtividade e diminuir afastamentos por problemas de saúde. Ao comentar as relações entre empregados e empregadores, Vieira de Mello Filho afirmou que a diferença de poder econômico impede negociações em condições de igualdade. “O contrato é absolutamente assimétrico. Um vende sua força de trabalho e o outro tem o poder econômico e define as condições. Então não há autonomia”, declarou. Para o ministro, a legislação trabalhista deve preservar garantias mínimas aos empregados, mesmo quando houver possibilidade de negociação individual ou coletiva. Vieira de Mello Filho também comparou as críticas à redução da jornada com a resistência à criação do 13º salário. “Quando foi instituído o 13º salário, foi dito: ‘Olha, vai quebrar tudo, não vai sobrar nada’. Eu pergunto: o comércio aguenta o dezembro sem o 13º salário?”, afirmou. Em 1º de maio de 2026, ",
+  "numeros": [
+   {
+    "valor": "44 para 40",
+    "rotulo": "horas semanais da jornada de trabalho"
+   },
+   {
+    "valor": "2",
+    "rotulo": "folgas semanais estabelecidas"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "perda de flexibilidade e dificuldade de adaptação",
+  "angulo": "Aprender sobre o mercado financeiro pode oferecer uma alternativa para depender menos das mudanças na legislação trabalhista.",
+  "gancho": "Desafios do *fim do 6x1* para o trabalho",
+  "ideias": [
+   "6x1: o que muda para você?",
+   "Como a nova jornada impacta o comércio?",
+   "Estratégias para se adaptar ao novo cenário de trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T14:20:47-03:00",
+  "url": "https://www.poder360.com.br/poder-justica/chefe-do-tst-vermelho-quer-fim-da-6-x-1-agora/",
+  "publicadoEm": "2026-11-10T14:14:20-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-03"
  },
  {
   "segmento": "trader",
