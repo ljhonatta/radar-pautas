@@ -1,13 +1,16 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-10T14:20:47-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-10T18:36:22-03:00",
+  "novas": 8,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Fim da jornada 6x1: impacto nas relações de trabalho; Mudanças nos vales: o que isso significa para você?; TST sugere fim da escala 6x1 no comércio.",
-  "falhas": [],
+  "mensagem": "8 pauta(s) nova(s): Desmistificando o fim da escala 6x1 para trabalhadores; Fim da escala 6x1: flexibilização em pauta; Flexibilização de folgas após escala 6x1.",
+  "falhas": [
+   "Agência Câmara (ConnectTimeout)"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-10T18:36:22-03:00",
    "2026-11-10T14:20:47-03:00",
    "2026-11-10T00:52:06-03:00",
    "2026-11-09T20:55:46-03:00",
@@ -18,19 +21,19 @@
    "2026-11-07T21:57:04-03:00",
    "2026-11-07T16:47:17-03:00",
    "2026-11-07T12:57:06-03:00",
-   "2026-11-06T22:23:00-03:00",
-   "2026-11-06T18:12:07-03:00"
+   "2026-11-06T22:23:00-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-10T14:20:47-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-10T18:36:22-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Desoneração da gasolina e etanol até dezembro de 2026; Crescimento do Pix e sua importância para negócios; Black Friday pode aumentar vendas em Ribeirão Preto.",
+  "mensagem": "7 pauta(s) nova(s): Mudanças na CBS: o que isso pode significar para o seu negócio?; PMEs priorizam margem, mas esquecem do cliente; Como a gestão adequada evita brigas familiares no patrimônio.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-10T18:36:22-03:00",
    "2026-11-10T14:20:47-03:00",
    "2026-11-10T00:52:06-03:00",
    "2026-11-09T20:55:46-03:00",
@@ -41,8 +44,7 @@
    "2026-11-07T21:57:04-03:00",
    "2026-11-07T16:47:17-03:00",
    "2026-11-07T12:57:06-03:00",
-   "2026-11-06T22:23:00-03:00",
-   "2026-11-06T18:12:07-03:00"
+   "2026-11-06T22:23:00-03:00"
   ]
  }
 }

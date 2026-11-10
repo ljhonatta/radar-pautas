@@ -1,6 +1,444 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "80% dos pequenos negócios adotam IA em marketing",
+  "resumo": "A pesquisa do Sebrae indica que a inteligência artificial (IA) é utilizada ou planejada por 80% dos pequenos negócios, com o intuito de melhorar gestão e vendas.",
+  "fatos": [
+   "80% dos pequenos negócios no Brasil utilizam ou planejam usar IA.",
+   "29% já usam IA regularmente, 22% já testaram.",
+   "A criação de imagens e vídeos é a aplicação mais comum, com 74% de uso.",
+   "65% utilizam a IA para produção de textos e conteúdos.",
+   "27% dos negócios adotam IA para otimização de campanhas publicitárias.",
+   "Micro e pequenas empresas diferem no uso de IA, principalmente em produção de textos e otimização de anúncios."
+  ],
+  "explicacao": [
+   "Os pequenos negócios percebem o potencial da IA para melhorar operações e vendas, especialmente com recursos limitados.",
+   "A adoção de IA pode aumentar a produtividade e aprimorar o atendimento ao cliente.",
+   "Apesar da adesão, muitos empreendedores ainda têm dúvidas sobre a estratégia de uso da tecnologia."
+  ],
+  "materia": "Foto: champpixs / Magnific (Freepik) Oito em cada dez pequenos negócios brasileiros já utilizaram inteligência artificial (IA) em atividades de marketing e comunicação ou pretendem adotar a tecnologia em breve. É o que aponta a 13ª edição da pesquisa Pulso dos Pequenos Negócios, realizada pelo Sebrae e divulgada nesta segunda-feira (9). De acordo com o levantamento, 29% dos empreendedores utilizam ferramentas de IA regularmente e outros 22% já fizeram testes. Além disso, 29% ainda não usam a tecnologia, mas planejam incorporá-la às atividades em breve. Somados, os grupos representam 80% dos pequenos negócios. Por outro lado, 14% afirmaram que não utilizam e não pretendem adotar essas ferramentas no momento, enquanto 6% disseram não saber o que são recursos de inteligência artificial. Como os pequenos negócios utilizam inteligência artificial Entre os empreendedores que já recorrem à IA em ações de marketing e comunicação, a criação de imagens e vídeos é a aplicação mais frequente, mencionada por 74% dos entrevistados. A produção de textos e conteúdos para e-mails, publicações em redes sociais e anúncios aparece em segundo lugar, com 65%. Já a otimização de campanhas publicitárias é utilizada por 27% dos negócios que adotam a tecnologia. Os resultados também mostram algumas diferenças entre microempreendedores individuais ( MEI ) e micro e pequenas empresas (MPE). Na criação de imagens e vídeos, por exemplo, o percentual é de 76% entre os MEIs e 72% nas MPEs. Na produção de textos, o cenário se inverte: 67% das micro e pequenas empresas utilizam IA para essa finalidade, ante 63% dos microempreendedores individuais. A diferença também aparece na otimização de campanhas de anúncios, atividade mencionada por 33% das MPEs e 21% dos MEIs. Uso da tecnologia ainda exige orientação Para o presidente do Sebrae, Décio Lima, os resultados indicam que os pequenos empreendedores reconhecem o potencial da inteligência artificial para apoiar as atividades dos negócios, especialmente diante da limitação de recursos financeiros e de pessoal. Segundo ele, a tecnologia pode contribuir para melhorar a gestão, aumentar a produtividade, reduzir custos, aprimorar o atendimento aos clientes e ampliar as vendas. O levantamento também aponta que parte dos empreendedores ainda tem dúvidas sobre como utilizar a IA de maneira estratégica, ética e segura. Para apoiar esse público, o Sebrae disponibiliza trilhas de conhecimento e cursos voltados à aplicação da tecnologia em diferentes áreas da empresa. Entre as opções divulgadas pela instituição estão capacitações sobre IA na prática para pequenos negócios, com duração de três horas, e cursos de seis horas sobre o uso da tecnologia na gestão financeira e de pessoas. Com informações da Agência Sebrae Oito em cada dez pequenos negócios brasileiros já utilizaram inteligência artificial (IA) em atividades de marketing e comunicação ou pretendem adotar a tecnologia em breve. É o que aponta a 13ª edição da pesquisa Pulso dos Pequenos Negócios, realizada pelo Sebrae e divulgada nesta segunda-feira (9). De acordo com o levantamento, 29% dos empreendedores utilizam ferramentas de IA regularmente e outros 22% já fizeram testes. Além disso, 29% ainda não usam a tecnologia, mas planejam incorporá-la às atividades em breve. Somados, os grupos representam 80% dos pequenos negócios. Por outro lado, 14% afirmaram que não utilizam e não pretendem adotar essas ferramentas no momento, enquanto 6% disseram não saber o que são recursos de inteligência artificial. Entre os empreendedores que já recorrem à IA em ações de marketing e comunicação, a criação de imagens e vídeos é a aplicação mais frequente, mencionada por 74% dos entrevistados. A produção de textos e conteúdos para e-mails, publicações em redes sociais e anúncios aparece em segundo lugar, com 65%. Já a otimização de campanhas publicitárias é utilizada por 27% dos negócios que adotam a tecnologia. Os resultados também mostram algumas diferenças entre microempreendedor",
+  "numeros": [
+   {
+    "valor": "80%",
+    "rotulo": "pequenos negócios que usam ou planejam usar IA"
+   },
+   {
+    "valor": "29%",
+    "rotulo": "empreendedores que usam IA regularmente"
+   },
+   {
+    "valor": "22%",
+    "rotulo": "empreendedores que já testaram IA"
+   },
+   {
+    "valor": "74%",
+    "rotulo": "uso de IA para criação de imagens e vídeos"
+   },
+   {
+    "valor": "65%",
+    "rotulo": "uso de IA para produção de textos"
+   }
+  ],
+  "fonte": "Portal Contabeis",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder competitividade e eficiência sem IA no marketing",
+  "angulo": "A adoção de IA nos negócios é uma tendência crescente e necessária, levando empresários a repensarem suas estratégias de marketing e presença digital.",
+  "gancho": "*80% dos pequenos negócios* já usam IA!",
+  "ideias": [
+   "Como a IA pode ajudar seu negócio?",
+   "IA no marketing: o que você precisa saber!",
+   "Sua empresa já está usando IA?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80747/ia-ja-e-usada-ou-esta-nos-planos-de-80-dos-pequenos-negocios/",
+  "publicadoEm": "2026-11-10T15:15:01-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Você está preparado para a revolução da IA nos negócios?",
+  "resumo": "A adoção de Inteligência Artificial deve começar com uma compreensão profunda das necessidades dos consumidores. As empresas precisam se preparar para essa transformação, indo além da simples implementação de ferramentas.",
+  "fatos": [
+   "Monica Magalhaes destaca que a IA promete ganhos de produtividade, mas o foco deve ser nos consumidores.",
+   "O erro comum é tratar a IA apenas como uma ferramenta para acelerar processos, sem resolver problemas reais.",
+   "A automação pode facilitar tarefas simples, mas também deve considerar a vulnerabilidade do consumidor que precisa de assistência humana.",
+   "Empresas estão adotando IA rapidamente por medo de ficar para trás, sem entender o problema que precisam resolver.",
+   "A preparação das pessoas para conviver com a tecnologia deve ser uma prioridade, não um efeito colateral."
+  ],
+  "explicacao": [
+   "A adoção de IA nas empresas está em alta, mas sem um entendimento claro das necessidades dos consumidores, os investimentos podem ser em vão.",
+   "Muitas empresas focam na eficiência operacional, deixando de lado a transformação cultural necessária para utilizar o potencial da IA.",
+   "A automação pode melhorar a experiência do consumidor se for feita com sensibilidade, mas pode também criar barreiras se ignorar a necessidade de atendimento humano."
+  ],
+  "materia": "A Inteligência Artificial avança nas empresas, automatiza processos e promete ganhos de produtividade. Mas, enquanto as organizações investem em novas tecnologias, uma questão permanece: quem está preparando as pessoas para acompanhar essa transformação? Para a cientista da computação e pesquisadora Monica Magalhaes , autora do livro ‘ 2075: Um olhar futurista sobre tecnologia, vida, trabalho e sociedade ‘, o desafio vai além da adoção de ferramentas. É preciso compreender como a tecnologia transforma comportamentos, relações de trabalho e experiências de consumo. Fundadora da Moovers , comunidade dedicada ao futurismo , e integrante do Conselho do Instituto Coca-Cola Brasil , Monica acompanha há mais de duas décadas os impactos das transformações tecnológicas sobre empresas e sociedade. Suas pesquisas incluem experiências de campo em ecossistemas de inovação na China e no Vale do Silício. Na avaliação da especialista, a corrida pela Inteligência Artificial pode levar empresas a priorizar eficiência operacional sem compreender os problemas que realmente precisam resolver para seus consumidores. A automação do atendimento, por exemplo, pode facilitar demandas simples, mas também ampliar a vulnerabilidade de quem necessita de assistência humana. Em entrevista à Consumidor Moderno , Monica analisa os riscos dessa transformação, questiona o destino dos ganhos de produtividade e aponta mudanças que poderão redefinir o consumo nas próximas décadas. A partir da perspectiva de 2075, ela também propõe uma reflexão sobre o presente: será que estamos investindo mais na atualização das máquinas do que na preparação das pessoas? Consumidor Moderno: Estamos superestimando o poder da Inteligência Artificial e subestimando a dificuldade humana de incorporá-la às empresas e à vida cotidiana? Monica Magalhaes: Existe um descompasso: a tecnologia avança num ritmo que exige aprender demais enquanto a gente continua vivendo e trabalhando. Isso cria a sensação de que a tecnologia está sempre à frente. Então talvez estejamos superestimando a rapidez com que o potencial da IA vira benefício real e subestimando o esforço humano e organizacional dessa transformação. Ter acesso à ferramenta não significa saber usá-la, mudar processos ou desenvolver confiança para delegar. A adaptação precisa ser parte do investimento, não um efeito colateral. CM: O que as empresas estão fazendo hoje com Inteligência Artificial que, daqui a alguns anos, poderá ser visto como um erro? Monica Magalhaes: O erro é tratar a IA só como ferramenta para fazer o mesmo mais rápido, buscando apenas eficiência. Isso limita a chance de criar novos produtos, serviços e experiências, e ainda deixa de preparar as pessoas para mudar o próprio jeito de trabalhar. No futuro, pode parecer que investimos na ferramenta sem investir na transformação cultural que permite usar seu potencial. CM: Existe uma corrida para adotar Inteligência Artificial antes mesmo de as empresas entenderem qual problema do consumidor precisam resolver? Monica Magalhaes: Sim, o medo de ficar para trás empurra empresas a adotar IA a qualquer custo . Nessa pressa de participar da transformação, corre-se o risco de perder de vista o problema do consumidor e a entrega real de valor. Existe um tempo de pesquisa, compreensão e experimentação para entender onde e como aplicar. Esse tempo não pode virar espera infinita, mas precisa ser intencional: conhecer o problema, testar aplicações e aprender com os resultados. Adotar IA deve ser consequência dessa busca por valor, não o ponto de partida. CM: Até que ponto a automação melhora a experiência do consumidor e em que momento ela começa a prejudicar essa relação? Monica Magalhaes: A automação precisa trazer um benefício claro para quem está do outro lado. Ela vira barreira quando a empresa pensa só em agilizar o próprio lado e não na situação de quem precisa de atendimento. Automatizar a emissão de uma segunda via ajuda, mas, num acidente de carro ou num sinistro, um bot com",
+  "numeros": [],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "O que sua empresa perde ao ignorar a preparação para a IA?",
+  "angulo": "Com a crescente importância da IA, as empresas precisam repensar como se adaptam a essa tecnologia e o suporte necessário para seus consumidores. Não basta apenas adotar ferramentas, mas também preparar pessoas.",
+  "gancho": "A sua *empresa está pronta para a IA*?",
+  "ideias": [
+   "Como a IA pode transformar seu negócio?",
+   "A automação está ajudando ou atrapalhando seus consumidores?",
+   "Preparar pessoas ou máquinas? O que é mais importante para o seu negócio?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://consumidormoderno.com.br/inteligencia-artificial-empresas-consumidores/",
+  "publicadoEm": "2026-11-10T15:29:03-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inflação desacelerou, mas alimentos continuam caros",
+  "resumo": "O IPCA-15 mostra que, embora a inflação geral tenha caído, os preços de alimentos aumentaram 1,01%. Isso pode impactar direto o orçamento das famílias.",
+  "fatos": [
+   "O IPCA-15 avançou apenas 0,32% em outubro, enquanto a alimentação no domicílio subiu 1,01%.",
+   "Os aumentos de tomate, cebola e arroz impactaram significativamente o orçamento familiar.",
+   "O índice de preços reflete despesas de famílias que ganham entre 1 a 40 salários mínimos.",
+   "As vendas reais do varejo caíram 3,3% em setembro em relação ao ano anterior.",
+   "Projeções indicam retração das vendas reais de 2,2% em outubro e 2,7% em novembro."
+  ],
+  "explicacao": [
+   "A desaceleração da inflação não alivia a alta constante dos alimentos, aumentando a preocupação com o orçamento das famílias.",
+   "Os aumentos significativos em produtos essenciais reduzem a disponibilidade de recursos para outras despesas.",
+   "As vendas no varejo refletem a pressão no consumo, com um crescimento nominal, mas queda real nas vendas."
+  ],
+  "materia": "A inflação brasileira deu sinais de desaceleração em outubro, mas o movimento não foi acompanhado pelos preços dos alimentos consumidos dentro de casa. Enquanto o Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) avançou 0,32%, a alimentação no domicílio registrou alta de 1,01%, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE) . O contraste aumenta a expectativa para a divulgação do IPCA de outubro, prevista para quinta-feira, 12 de novembro . O indicador mostrará se a pressão observada na prévia também apareceu na inflação oficial do mês, especialmente nos produtos que fazem parte das compras de supermercado. A divulgação ocorre em um período de planejamento das despesas de fim de ano. Para os consumidores, acompanhar os preços dos alimentos ajuda a avaliar quanto do orçamento continuará disponível para outras compras, incluindo presentes, viagens e promoções da Black Friday. O IPCA-15 desacelerou de 0,70% em setembro para 0,32% em outubro. No entanto, o grupo Alimentação e bebidas seguiu na direção contrária: passou de 0,40% para 0,88%. A alimentação no domicílio apresentou aceleração ainda maior, de 0,38% para 1,01%. O resultado indica que a redução do ritmo da inflação geral não significou, necessariamente, alívio para quem precisou abastecer a despensa. Entre os nove grupos pesquisados pelo IBGE, Alimentação e Bebidas apresentou o maior impacto sobre o índice de outubro, com contribuição de 0,19 ponto percentual. Isso significa que, dos 0,32% registrados pelo IPCA-15, uma parcela relevante veio dos gastos com alimentação. A diferença ajuda a explicar por que o consumidor pode perceber os preços subindo mesmo quando os indicadores econômicos apontam desaceleração da inflação. Os aumentos de alguns produtos básicos chamaram a atenção na prévia de outubro. O tomate registrou alta de 24,54%, seguido pela cebola, com 13,63%, pela batata-inglesa, com 10,96%, e pelo arroz, com 5,80%. Essas variações contribuíram para elevar o custo dos alimentos consumidos em casa. O tomate teve o maior impacto individual entre os produtos alimentícios, com contribuição de 0,06 ponto percentual para o IPCA-15. Nem todos os itens, porém, ficaram mais caros. A cenoura apresentou queda de 10,67%, enquanto o café moído recuou 1,16%. Os resultados mostram que a inflação dos alimentos não ocorre de maneira uniforme. Dependendo dos produtos comprados e de sua participação nas despesas domésticas, o impacto sobre cada família pode ser diferente. Para Maykon Douglas, analista econômico da ZIIN Investimentos , o comportamento dos alimentos exige atenção também nos próximos meses, diante dos riscos climáticos para a produção agrícola. “Alterações nas condições climáticas podem comprometer safras, afetar a oferta de determinados produtos e gerar pressões adicionais sobre os preços ao consumidor”, alerta. O IPCA mede a variação de preços de uma cesta de produtos e serviços consumidos por famílias com rendimentos de um a 40 salários mínimos nas áreas urbanas pesquisadas pelo IBGE. O indicador considera despesas com alimentação, habitação, transportes, saúde, educação, vestuário e outros grupos de consumo. Cada componente possui um peso específico, calculado a partir dos padrões de gastos das famílias. Por isso, uma alta expressiva no preço de determinado alimento não se traduz automaticamente em aumento equivalente da inflação geral. O contrário também acontece. Mesmo quando a inflação desacelera, produtos comprados frequentemente podem continuar subindo e pressionando o orçamento doméstico. Além disso, a inflação mede a velocidade de variação dos preços , e não o nível absoluto dos valores cobrados. Uma desaceleração significa que, em média, os preços aumentaram em ritmo menor, não que necessariamente ficaram mais baratos. O IPCA-15 é conhecido como prévia da inflação oficial, mas não corresponde a uma estimativa exata do resultado que será divulgado posteriormente. Os dois indicadores utilizam metodologia semelhante, porém possuem d",
+  "numeros": [
+   {
+    "valor": "1,01%",
+    "rotulo": "aumento na alimentação"
+   },
+   {
+    "valor": "3,3%",
+    "rotulo": "queda nas vendas reais em setembro"
+   },
+   {
+    "valor": "2,2%",
+    "rotulo": "previsão de queda para outubro"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Temor de não conseguir planejar despesas de fim de ano",
+  "angulo": "Entender a pressão inflacionária e adaptar estratégias de marketing é crucial para preservar o orçamento e atrair clientes.",
+  "gancho": "Por que o *custo* dos alimentos ainda sobe?",
+  "ideias": [
+   "Alimentos: alta nos preços e o impacto no bolso",
+   "Inflacao e vendas: como se adaptar?",
+   "Preparando o bolso para as compras de final de ano"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://consumidormoderno.com.br/inflacao-desacelera-supermercado-continua-caro/",
+  "publicadoEm": "2026-11-10T15:59:14-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday exige estratégia integrada para e-commerce em 2026",
+  "resumo": "Com previsão de movimentar R$ 13,3 bilhões, a Black Friday de 2026 pressiona as empresas a aprimorarem sua operação e comunicação. Preparação antecipada é essencial para garantir sucesso nesta data.",
+  "fatos": [
+   "A Black Friday de 2026 deve movimentar R$ 13,3 bilhões no comércio eletrônico.",
+   "A expectativa é um crescimento de 20,7% em relação ao faturamento de R$ 11,03 bilhões de 2025.",
+   "47% dos brasileiros pretendem consumir durante a Black Friday de 2026.",
+   "80% dos consumidores compram apenas se encontrarem preços inferiores às outras épocas.",
+   "48% dos consumidores já têm lista de compras pronta antes da temporada promocional.",
+   "44% começaram a pesquisar preços antecipadamente."
+  ],
+  "explicacao": [
+   "A movimentação expressiva da Black Friday exige que as empresas se planejem bem antes da data.",
+   "Isso inclui organização de estoques, sistemas logísticos e respostas rápidas aos consumidores.",
+   "Falhas na operação podem prejudicar a experiência do cliente e aumentar os custos operacionais.",
+   "A automação e integração de canais são essenciais para sustentar o aumento da demanda e manter a qualidade do atendimento.",
+   "As empresas precisam ver sua operação como um sistema integrado para garantir sucesso nas vendas."
+  ],
+  "materia": "10/11/2026 16h38 Atualizado 10/11/2026 16h38 A expectativa de movimentar R$ 13,3 bilhões no comércio eletrônico durante a Black Friday de 2026 tem levado empresas a antecipar o planejamento de vendas e a preparação de suas operações. Além de definir descontos e campanhas publicitárias, varejistas precisam organizar estoques, sistemas, logística e atendimento para lidar com o aumento das compras e das solicitações dos consumidores. A projeção é de um levantamento da Confi, por meio da solução de inteligência de mercado Neotrust, em parceria com o E-Commerce Brasil. O estudo estima que o faturamento do comércio eletrônico entre 26 e 29 de novembro cresça 20,7% em relação aos quatro dias do evento em 2025, quando alcançou R$ 11,03 bilhões. Os números reforçam a importância da data para o varejo, mas também evidenciam um desafio de gestão: garantir que a estrutura das empresas acompanhe a demanda gerada pelas campanhas. A preparação envolve desde a disponibilidade dos produtos até a capacidade de responder rapidamente a dúvidas, solucionar problemas de pedidos e manter os diferentes canais de comunicação funcionando. A jornada de compra também exige atenção. Pesquisa da Globo Ads para a Black Friday 2026 aponta que 47% dos brasileiros pretendem consumir durante a data. Entre os entrevistados, 80% afirmam que só compram na Black Friday quando encontram preços realmente inferiores aos praticados em outras épocas do ano. O levantamento também indica que a publicidade influencia as decisões de compra de parte dos consumidores. Outro estudo, publicado pelo Think with Google em agosto de 2026, mostra que 48% dos consumidores já têm a lista de compras pronta antes do início da temporada promocional e 44% começaram a pesquisar preços antecipadamente. Os dados indicam que parte da disputa comercial acontece antes de novembro, quando o consumidor começa a comparar produtos, condições e benefícios. A estratégia comercial precisa estar conectada à capacidade operacional. Uma campanha pode atrair tráfego e gerar pedidos, mas falhas no checkout, indisponibilidade de produtos, demora nas respostas ou dificuldades na entrega podem comprometer a experiência e aumentar o custo de atendimento. Segundo Luciano Bueno, CTO da Upp Teconologia, é uma das frentes utilizadas para preparar as operações. Ferramentas de automação, inteligência artificial e integração de canais podem ajudar a responder perguntas frequentes, direcionar solicitações e organizar o fluxo de atendimento. Para que esses recursos funcionem, porém, precisam estar conectados às informações e aos processos da empresa. Na avaliação de Bueno, o planejamento deve considerar a operação como um conjunto integrado, e não apenas a infraestrutura tecnológica. \"A preparação para a Black Friday precisa começar antes do aumento da demanda. É necessário identificar gargalos, testar os sistemas e definir como as equipes vão atuar quando o volume de contatos crescer. A tecnologia ajuda a automatizar tarefas e dar mais previsibilidade à operação, mas precisa estar integrada aos processos de negócio\", afirma. A empresa, sediada em Criciúma, Santa Catarina, atua com soluções de comunicação, automação e inteligência artificial para negócios. Nesse contexto, a integração entre canais como WhatsApp, sites e outras plataformas permite centralizar interações e reduzir a fragmentação das informações utilizadas pelas equipes. Segundo Bueno, outro aspecto importante é evitar que o ganho de escala prejudique a qualidade do relacionamento. \"Automatizar não significa deixar o consumidor sem suporte. O objetivo é resolver com agilidade as demandas recorrentes e permitir que os profissionais se concentrem nas situações que exigem análise e atendimento personalizado\", acrescenta. A preparação também depende do acompanhamento de indicadores operacionais. Tempo de resposta, taxa de resolução no primeiro contato, abandono de conversas, disponibilidade dos sistemas e cumprimento dos prazos de entrega ajudam a identificar",
+  "numeros": [
+   {
+    "valor": "13,3 bilhões",
+    "rotulo": "faturamento esperado na Black Friday 2026"
+   },
+   {
+    "valor": "20,7%",
+    "rotulo": "crescimento esperado em relação a 2025"
+   },
+   {
+    "valor": "47%",
+    "rotulo": "brasileiros que pretendem consumir na Black Friday"
+   },
+   {
+    "valor": "80%",
+    "rotulo": "consumidores que compram por preços menores"
+   },
+   {
+    "valor": "48%",
+    "rotulo": "consumidores com lista de compras pronta"
+   },
+   {
+    "valor": "44%",
+    "rotulo": "consumidores que pesquisam preços antes"
+   }
+  ],
+  "fonte": "Pequenas Empresas & Grandes Negócios",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Perda de vendas e insatisfação do cliente com falhas operacionais",
+  "angulo": "Preparar-se para a Black Friday de 2026 é vital para evitar perdas e garantir uma experiência satisfatória para o cliente.",
+  "gancho": "Você está *preparado para a Black Friday de 2026*?",
+  "ideias": [
+   "Como se preparar para a Black Friday",
+   "A importância da automação nas vendas",
+   "Estratégias para integrar canais de vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://revistapegn.globo.com/conteudo-de-marca/pressworks/noticia/2026/11/black-friday-deve-movimentar-r-133-bilhoes-no-ecommerce-e-pressiona-operacao-das-empresas-1.ghtml",
+  "publicadoEm": "2026-11-10T16:38:29-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a gestão adequada evita brigas familiares no patrimônio",
+  "resumo": "Hugh Harley, CEO da Aurum Wealth, utiliza sua experiência em disputas patrimoniais para ajudar famílias a evitar conflitos financeiros. Entenda a importância da gestão profissional neste contexto.",
+  "fatos": [
+   "Hugh Harley é CEO da Aurum Wealth, que está perto de atingir R$ 2 bilhões sob gestão.",
+   "Ele assessora 45 famílias, focando em evitar brigas societárias e organizar patrimônios.",
+   "Recentemente, a Aurum captou R$ 100 milhões apesar dos desafios do mercado pós-reeleição de Lula.",
+   "Harley sugere que famílias separem seus investimentos para facilitar decisões e aumentar liquidez.",
+   "A casa opta por crescimento orgânico em vez de aquisições, priorizando a cultura organizacional."
+  ],
+  "explicacao": [
+   "Hugh Harley tem uma trajetória marcada por conflitos patrimoniais em sua própria família, o que o motivou a desenvolver formas de ajudar outras famílias a evitar problemas similares.",
+   "A gestão de patrimônio vai além dos números, enfatizando relações familiares e comunicação.",
+   "Ele alerta para a importância de um atendimento personalizado e flexível, adaptando-se às necessidades específicas de cada cliente."
+  ],
+  "materia": "À frente da Aurum Wealth, prestes a atingir R$ 2 bilhões sob gestão, Hugh Harley transforma a vivência em uma das maiores disputas familiares do país em ativo estratégico para assessorar 45 famílias e desatar nós sucessórios Hugh Harley, CEO da Aurum Wealth & Multifamily Office Hugh Harley, CEO da Aurum Wealth & Multifamily Office e herdeiro da família fundadora da Pernambucanas, utiliza sua experiência em disputas familiares para ajudar clientes a gerenciar conflitos patrimoniais. Ele sugere que, quando as relações familiares se tornam tensas, os membros considerem separar seus investimentos para facilitar a tomada de decisões. A Aurum, que atende 45 famílias e busca crescer, enfrentou desafios após a reeleição de Lula, mas conseguiu captar R$ 100 milhões recentemente. Harley enfatiza a importância de um atendimento personalizado, utilizando advogados externos conforme a necessidade. Sua vivência na disputa pela herança da avó o ensinou sobre a importância da liquidez e da autonomia nas decisões financeiras, promovendo um ambiente mais harmonioso entre os familiares. Ele acredita que a gestão de patrimônio deve ir além dos números, focando nas relações e na comunicação entre os membros da família. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Hugh Harley, um dos herdeiros da família fundadora da Pernambucanas , aprendeu em casa o que acontece quando o patrimônio e as relações familiares ficam amarrados por tempo demais. Afinal, ele e sua família protagonizaram uma das disputas societárias mais longevas do Brasil. Agora, à frente do multifamily office Aurum Wealth, da qual é CEO e responsável por risco e compliance, ele quer desarmar essas armadilhas e entra nas conversas com clientes para falar sobre sucessão e organização do patrimônio. “Vocês estão pagando o Renato [Widmer, CIO]. Eu estou aqui de brinde”, diz Harley, em tom de brincadeira, ao NeoFeed . Desde 2019, quando Harley transformou o single family office na Aurum, o plano de negócios é entregar mais do que a gestão de investimento . Com cerca de 45 famílias na carteira, a casa está perto de atingir R$ 2 bilhões sob gestão e administração. O diferencial é a assessoria a clientes com o “conhecimento de causa” que o herdeiro da Pernambucanas viveu intensamente na própria família. Por isso, mais importante que o montante sob gestão e administração é o total de famílias atendidas. Harley vê potencial para dobrar, podendo chegar a 100. O limite, na avaliação dele, está no tempo disponível para acompanhar de perto o que acontece em cada família - internamente, os clientes são identificados por códigos. Se olhar para um deles e já não souber de quem se trata, diz Harley, será hora de suspender a captação. Acelerar com M&As não faz parte da estratégia da Aurum. Em meio à consolidação desse mercado - na primeira semana de novembro a Portofino MFO ultrapassou R$ 40 bilhões sob gestão com a incorporação dos cerca de R$ 5 bilhões em ativos da Est Gestão de Patrimônio -, Harley prefere o crescimento orgânico. “Não é algo que está no meu radar. E não é porque vejo com maus olhos ou bons olhos. Para mim, a questão da cultura é crucial”, diz Harley. “Um business de family office, normalmente, tem que casar muito a cultura. Porque a família não comprou um produto de prateleira, ela comprou um serviço em cima das pessoas que trabalham lá.” A estrutura da Aurum é enxuta e os serviços são contratados conforme as necessidades. Para conversas sobre questões patrimoniais e sucessórias, Harley prefere trabalhar com advogados externos, por exemplo, escolhidos conforme a especialidade exigida por cada caso. “Quero ter a liberdade de estar do lado do meu cliente fazendo as perguntas difíceis e chatas. Já passei por todas as situações, pode acreditar”, diz ele. Recentemente, ele ajudou um cliente com patrimônio inteiramente líquido em um ponto tributário que os advogados ainda não tinham levantado. Questionado sobre quanto precisava reservar para a sucessão",
+  "numeros": [
+   {
+    "valor": "45",
+    "rotulo": "famílias atendidas pela Aurum Wealth"
+   },
+   {
+    "valor": "R$ 2 bilhões",
+    "rotulo": "patrimônio sob gestão da Aurum"
+   },
+   {
+    "valor": "R$ 100 milhões",
+    "rotulo": "captados pela Aurum recentemente"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Atendimento",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de patrimônio e conflitos familiares",
+  "angulo": "A gestão de patrimônio profissional é essencial para evitar conflitos e maximizar a eficiência nas decisões familiares.",
+  "gancho": "Evite *brigas patrimoniais* com gestão profissional!",
+  "ideias": [
+   "5 dicas para uma gestão de patrimônio eficiente",
+   "Como evitar brigas familiares com investimentos",
+   "A importância da comunicação no patrimônio familiar"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://neofeed.com.br/wealth-management/a-licao-de-casa-do-herdeiro-da-pernambucanas-para-evitar-brigas-societarias/",
+  "publicadoEm": "2026-11-10T14:35:37-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "PMEs priorizam margem, mas esquecem do cliente",
+  "resumo": "Levantamento da Serasa Experian revela que 49,3% das PMEs focam na margem de lucro ao reajustar preços. Apenas 17,6% priorizam a retenção de clientes.",
+  "fatos": [
+   "49,3% das PMEs priorizam a margem de lucro ao reajustar preços.",
+   "A competitividade é a segunda prioridade com 22,1%.",
+   "17,6% se concentram em evitar a perda de clientes.",
+   "11% das PMEs não têm estratégia de precificação definida.",
+   "O Copom manteve a Selic em 13,75% em sua última reunião."
+  ],
+  "explicacao": [
+   "A pesquisa indica que muitas PMEs veem a preservação da margem como essencial em um cenário de altos custos e crédito escasso.",
+   "Sem uma estratégia robusta, as empresas agrupam preços baseadas na concorrência ou intuição, arriscando sua sustentabilidade.",
+   "Ao focar na margem, muitos empresários estão desconsiderando a experiência e a satisfação do cliente, o que pode resultar em perda a longo prazo."
+  ],
+  "materia": "Toda remarcação de preço é uma aposta. O empresário calcula quanto o custo subiu, olha a vitrine do concorrente e tenta adivinhar até onde o cliente aceita ir antes de virar as costas. Nas pequenas e médias empresas ( PMEs ), essa aposta no mercado brasileiro tem hoje um vencedor claro: a margem de lucro. Segundo levantamento da Serasa Experian divulgado no início de novembro, 49,3% das PMEs colocam a preservação da margem como principal prioridade ao reajustar preços. A competitividade vem bem atrás, com 22,1%, e evitar a perda de clientes aparece em terceiro, com 17,6%. Outros 11% admitem que simplesmente não trabalham com uma estratégia de precificação. Em um ambiente de crédito caro e caixa curto, o pequeno negócio decidiu proteger primeiro a própria sobrevivência. Já para o consumidor, resta saber quanto dessa conta vai cair no seu bolso. A resposta curta é que não sobra muita gordura para queimar. Para Julio Lopes , diretor de pequenas e médias empresas da Serasa Experian , “reajustar preços não é apenas uma decisão comercial simples”. Segundo ele, o empreendedor precisa pesar custos, margem, posicionamento e comportamento do cliente antes de definir um novo valor. O executivo aponta os dois lados do erro. Subir preço sem entender esses fatores pode custar competitividade. Manter a tabela defasada, por outro lado, corrói a rentabilidade aos poucos, quase sem que o dono perceba. A saída, na leitura da Serasa Experian, passa por conhecer os números da própria operação e decidir a partir deles. O recorte por tempo de vida das empresas traz um dado curioso. A fase em que a preocupação com a margem fica mais aguda é a dos 6 aos 10 anos de atuação, com 60,5%. Entre negócios de 21 a 30 anos, o índice é de 52,5%. Nas empresas de 1 a 5 anos, 48%. Na faixa de 11 a 20 anos, o percentual cai para 41,8%. Passada a fase de sobrevivência, podemos avaliar que o negócio entra num período de consolidação em que cada ponto percentual de margem financia expansão, equipe e estrutura. É também quando a empresa já tem histórico suficiente para saber exatamente onde o custo aperta. A relação com a saúde de crédito segue a mesma lógica. Entre as PMEs com Score PJ acima de 851, a faixa mais alta, 57,4% põem a margem em primeiro lugar. O índice é de 50% entre 672 e 850, de 49,3% entre 145 e 473, de 47,6% entre 474 e 671 e de 45,3% na faixa de 0 a 144. A preservação da margem lidera em todas elas, mas quem tem a casa mais arrumada parece também mais disciplinado na hora de defender o lucro. A preservação da margem é a prioridade número um em todas as regiões do país, mas com pesos bem diferentes. O Centro-Oeste, puxado pela economia do agronegócio, tem o maior índice: 57,1%. O Sul vem logo atrás, com 55,9%. Sudeste e Nordeste praticamente empatam, com 47,5% e 47,4%. A exceção é o Norte. Ali, 38,5% priorizam a margem, enquanto 34,6% dizem que a maior preocupação é não perder clientes. É o cenário mais equilibrado do país e sugere mercados em que a base de consumidores é mais restrita e cada cliente perdido pesa mais no faturamento. Um em cada dez pequenos e médios negócios afirma não ter estratégia de precificação . Na prática, isso costuma significar preço definido por imitação do concorrente, por intuição ou por um percentual fixo sobre o custo do produto, sem considerar o resto da operação. A Serasa Experian lembra que o preço precisa cobrir não só o custo direto do produto ou serviço, mas também aluguel, sistemas, transporte, marketing e mão de obra. Quando essas despesas ficam de fora da conta, a empresa pode vender mais e, mesmo assim, operar com margem insuficiente para se sustentar no longo prazo. Para apoiar esse cálculo, a empresa oferece gratuitamente uma planilha de precificação de serviços no seu portal de conteúdo para PMEs. O dado que mais chama a atenção para quem trabalha com experiência do cliente é o dos 17,6% (evitar a perda de clientes). Menos de um quinto das PMEs tem a retenção como prioridade ao remarcar preços. Num país em q",
+  "numeros": [
+   {
+    "valor": "49,3%",
+    "rotulo": "PMEs que priorizam margem ao ajustar preços"
+   },
+   {
+    "valor": "17,6%",
+    "rotulo": "PMEs que priorizam retenção de clientes"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários"
+  ],
+  "dor": "Perda de clientes e dificuldades financeiras",
+  "angulo": "Modificar preços sem entender o cliente pode prejudicar suas vendas e relacionamentos. Conhecer seu público e como se comporta é essencial para ajustar preços de forma eficaz.",
+  "gancho": "Descubra como *preços podem afetar seus clientes*",
+  "ideias": [
+   "Margem versus Cliente: O que é mais importante?",
+   "Como precificar seus produtos sem perder clientes",
+   "A importância de entender seu público na hora de reajustar preços"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://consumidormoderno.com.br/pme-cx-varejo-cm-precos/",
+  "publicadoEm": "2026-11-10T16:46:50-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças na CBS: o que isso pode significar para o seu negócio?",
+  "resumo": "O Congresso Nacional articula para reduzir a alíquota da Contribuição sobre Bens e Serviços (CBS) e adiar a reforma tributária. Isso pode impactar diretamente os custos e a competitividade das empresas.",
+  "fatos": [
+   "A alíquota da CBS foi aprovada pelo TCU em 11,3%, considerada alta por muitos setores.",
+   "O Congresso está buscando uma proposta de emenda à Constituição (PEC) para adiá a reforma tributária de 2024 para 2028.",
+   "Se não houver alteração até 15 de dezembro, a alíquota do TCU valerá.",
+   "A equipe econômica sugeriu um valor menor para a alíquota, e há pressão das entidades empresariais.",
+   "A discussão sobre a reforma tributária inclui preocupações sobre o aumento da carga tributária.",
+   "Atualmente, a proposta da PEC precisa de 171 assinaturas para tramitar no Congresso.",
+   "O Ministério da Fazenda confirmou que o cronograma para a reforma tributária permanece inalterado."
+  ],
+  "explicacao": [
+   "O movimento para reduzir a alíquota da CBS surge como resposta à pressão de diversos setores econômicos que consideram os valores elevados para a nova carga tributária.",
+   "Qualquer alteração proposta pelo Senado deverá ter fundamentação técnica sólida, já que a Constituição exige que a CBS reponha a arrecadação de tributos substituídos.",
+   "Essa questão se torna ainda mais crítica, considerando que uma decisão deve ser tomada rapidamente para evitar a implementação da alíquota estabelecida pelo TCU.",
+   "O adiamento da reforma tributária também é visto como um reflexo da falta de preparo por parte do governo atual para lidar com as novas regras.",
+   "Diante disso, empresários devem estar preparados para possíveis mudanças que impactarão os custos operacionais e a necessidade de ajustes em suas estratégias."
+  ],
+  "materia": "Com apoio de setores produtivos, parlamentares questionam cálculo do TCU para tentar reduzir o imposto e colhem assinaturas para PEC que joga a vigência do novo sistema para 2028. Por lei, reforma não pode aumentar carga tributária brasileira Após a aprovação de uma alíquota de 11,3% para a Contribuição sobre Bens e Serviços (CBS) pelo TCU, o Congresso Nacional iniciou um movimento para reduzir esse valor e articula uma PEC para adiar a reforma tributária, prevista para janeiro de 2024, para 2028. Entidades empresariais pressionam o Senado a rever a alíquota, e a equipe econômica do governo sugere um valor menor. O relator na CAE, senador Eduardo Braga, já expressou desacordo com a alíquota proposta. A advogada Bruna Brites destaca que o Senado pode alterar a alíquota, mas deve justificar tecnicamente a mudança. Além disso, a deputada Any Ortiz busca apoio para uma PEC que prorrogue o início da reforma, citando a falta de preparação do governo. O Ministério da Fazenda, por sua vez, reafirma que o cronograma da reforma permanece inalterado e que novas medidas para facilitar a transição serão anunciadas em breve. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Brasília - Duas semanas após o Tribunal de Contas da União (TCU) aprovar uma alíquota de referência de 11,3% para a Contribuição sobre Bens e Serviços (CBS), considerada alta por setores da economia, o Congresso Nacional já deflagra um forte movimento para reduzir esse valor e ainda articula uma proposta de emenda à Constituição (PEC) para estender os testes e tentar adiar para 2028 o começo da reforma tributária no Brasil, prevista para janeiro de 2027. Um dos novos impostos criados pelo novo sistema tributário brasileiro, a CBS substituirá PIS e Cofins. Mas tão logo o TCU fixou a alíquota que servirá de base para o novo tributo, entidades empresariais começaram a pedir para que o Senado reveja o valor. A equipe econômica do governo chegou a propor um valor menor. A Corte de Contas é um órgão consultivo e de controle, ligado ao Congresso. Logo, sua decisão apenas recomendou ao Senado o novo patamar da CBS, que por sua vez pode ser alterada pelos parlamentares. No entanto, se os senadores não aprovarem uma alíquota até 15 de dezembro, valerá o percentual definido pelo TCU. O presidente da Frente Parlamentar do Empreendedorismo (FPE), o deputado federal Joaquim Passarinho (PL-PA), projeta que o Congresso certamente deve propor uma alíquota menor. Nesse caso, no entanto, o governo precisa indicar quais subsídios ou renúncias fiscais pretende tirar. Passarinho lembra que, por princípio básico, a reforma tributária preconiza que a carga tributária do País não aumente a partir de 2027 com a criação dos novos tributos. Portanto, em sua visão, precisa haver um equilíbrio tributário, de tal modo que o novo regime não traga nem mais arrecadação para os Estados e nem mais impostos para as empresas. \"Colocamos um freio de arrumação de 26,5%. Esse teto não caiu. A reforma tributária é neutra. Não pode ter mais arrecadação para o Estado nem mais imposto para as empresas. E é isso que queremos retomar\", disse Passarinho ao NeoFeed . \"Se der mais [alíquota maior], governo tem que tirar subsídios de algum lugar, da cesta básica, de remédios ou de alguma coisa que a gente está dando de isenção nessa reforma. E não pode arrecadar mais\", complementou. A Comissão de Assuntos Econômicos do Senado (CAE), que precisa aprovar a alíquota da CBS, havia previsto uma primeira audiência pública sobre o assunto até quarta-feira, 11 de novembro, mas as reuniões do colegiado podem começar somente após a semana que vem. A CAE, no entanto, já recebeu o cálculo feito pelo TCU. O relator do assunto na CAE é o senador Eduardo Braga (MDB-AM), que já havia relatado a reforma tributária na Casa anteriormente. Na semana passada, ao ser escolhido para a função, Braga afirmou: \"Já não estou de acordo com essa alíquota.\" A advogada Bruna Brites, sócia do escritório Andrade Maia Ad",
+  "numeros": [
+   {
+    "valor": "11,3%",
+    "rotulo": "alíquota da CBS"
+   },
+   {
+    "valor": "2028",
+    "rotulo": "ano proposto para início da reforma tributária"
+   },
+   {
+    "valor": "171",
+    "rotulo": "assinaturas necessárias para PEC"
+   },
+   {
+    "valor": "15 de dezembro",
+    "rotulo": "prazo para decisão sobre a alíquota"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Aumento de custos e impactos nas vendas.",
+  "angulo": "Entender o impacto dessas mudanças é essencial para preparar sua empresa. Nossa assessoria pode ajudar na gestão e planejamento adequado para navegação em ambientes econômicos incertos.",
+  "gancho": "O *futuro da sua empresa* está em jogo!",
+  "ideias": [
+   "Como a nova alíquota da CBS afeta seu negócio?",
+   "Preparação para a reforma tributária: o que você precisa saber",
+   "Entenda a importância da assessoria em tempos de mudança"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://neofeed.com.br/poder/nem-113-nem-2027-congresso-articula-para-mudar-aliquota-da-cbs-e-adiar-a-reforma-tributaria/",
+  "publicadoEm": "2026-11-10T18:13:19-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-vpr-13"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Como o Brasil Mais Produtivo pode impactar seus negócios",
   "resumo": "O programa Brasil Mais Produtivo já atendeu 60 mil indústrias, ajudando a elevar a competitividade através de consultorias e tecnologias. Participar pode ser um diferencial para seu negócio.",
   "fatos": [
@@ -677,6 +1115,461 @@
   "publicadoEm": "2026-11-09T17:54:39-03:00",
   "data": "2026-11-09",
   "id": "2026-11-10-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Reforma tributária avança e gera incertezas no bolso do empreendedor",
+  "resumo": "Deputados confirmam que a reforma tributária não será adiada, com previsão para início em 2027. Essa mudança impacta diretamente empresários e profissionais autônomos em suas finanças.",
+  "fatos": [
+   "O deputado Joaquim Passarinho afirmou que não há conversa sobre adiamento da reforma tributária.",
+   "A previsão é que a nova tributação comece a valer em janeiro de 2027.",
+   "Participantes da reunião com o ministro Dario Durigan disseram que a prioridade é seguir com a reforma.",
+   "Cláudio Cajado mencionou compromisso do governo para avançar na implementação da CBS.",
+   "Antigos tributos PIS e Cofins serão substituídos pela Contribuição sobre Bens e Serviços."
+  ],
+  "explicacao": [
+   "A reforma tributária destina-se a simplificar a carga tributária do Brasil, mas traz impactos no custo para empresas e autônomos.",
+   "A implementação em 2027 gera um cenário de incertezas, pois tributários defendem adiamento devido a complicações operacionais.",
+   "Empreendedores precisam se preparar para mudanças que podem afetar seus custos e a forma como gerenciam seus negócios."
+  ],
+  "materia": "Auren (AURE3) reverte prejuízo e lucra no 3T26 com melhora na comercialização e ressarcimento de cortes Galípolo diz que nível dos juros de longo prazo também reflete credibilidade Após reunião com Durigan, deputados descartam possibilidade de adiamento da reforma tributária O deputado federal Joaquim Passarinho (PL-PA), presidente da Frente Parlamentar do Empreendedorismo (FPE), disse nesta terça-feira, 10, que não há nenhuma conversa sobre um adiamento da reforma tributária entre o Congresso e a equipe econômica do governo. Ele falou com a imprensa na saída de uma reunião de deputados com o ministro da Fazenda, Dario Durigan . “O presidente da Câmara e o presidente do Senado conversaram já com o ministro (Durigan). O presidente da Câmara me disse, hoje, que a ideia não é que haja adiamento”, afirmou Passarinho a jornalistas. A avaliação do deputado é que a reunião foi “muito boa” e que a prioridade é implementar a reforma tributária, reiterando que a possibilidade de adiamento “não passa pela cabeça” nem dos parlamentares, nem da equipe econômica. O deputado federal Cláudio Cajado (PP-BA), que também participou da reunião com o ministro da Fazenda, reafirmou aos jornalistas que o objetivo é seguir em frente com a reforma. “O ministro Dario Durigan foi extremamente objetivo em afirmar categoricamente que o governo vai avançar com a reforma tributária”, disse. Segundo Cajado, há um comprometimento por parte do presidente do Senado Federal, Davi Alcolumbre (União-AP), de votar a alíquota da Contribuição sobre Bens e Serviços (CBS), além de uma determinação do presidente da Câmara, Hugo Motta (Republicanos-PB) de avançar na votação da Medida Provisória que define a alíquota do Imposto Seletivo assim que for designado um relator para o projeto. “Nós saímos daqui muito satisfeitos. O comprometimento e o compromisso do ministro da Fazenda e do conjunto do governo é de efetivamente iniciar a implantação da nova tributação no País a partir de janeiro de 2027”, disse Cajado. A poucos meses do início da reforma tributária entrar em vigor, vários tributaristas passaram a defender o adiamento, para 2028, do período de testes do novo regime. Entre eles, o ex-diretor da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda, Daniel Loria, que, em entrevista exclusiva ao Broadcast (sistema de notícias em tempo real do Grupo Estado), avaliou que o ano eleitoral interferiu no cronograma de entregas do governo e ainda restam problemas operacionais que impedem as empresas de entenderem o real efeito econômico do novo regime fiscal. O início da implementação efetiva da CBS, que substituirá os tributos federais PIS e Cofins, está previsto para 2027. Receba gratuitamente as newsletters do Money Times IBOVESPA vira para alta, o plano FISCAL do governo LULA 4, SELIC em 13,75% e o balanço da PETROBRAS Usamos cookies para guardar estatísticas de visitas, personalizar anúncios e melhorar sua experiência de navegação. Ao continuar, você concorda com nossas políticas de cookies .",
+  "numeros": [
+   {
+    "valor": "2027",
+    "rotulo": "ano de implementação da nova tributação"
+   }
+  ],
+  "fonte": "Money Times",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "aumentos de impostos que podem impactar seus negócios",
+  "angulo": "Conhecer mais sobre o mercado financeiro pode ajudar a diversificar fontes de renda e mitigar riscos em cenários fiscais incertos.",
+  "gancho": "*Reforma tributária avança*, mas *custo para empresários* aumenta!",
+  "ideias": [
+   "Como a reforma tributária pode impactar seu negócio?",
+   "Prepare-se: mudanças nos impostos à vista!",
+   "Diversifique sua renda diante da nova tributação!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://www.moneytimes.com.br/apos-reuniao-com-durigan-deputados-descartam-possibilidade-de-adiamento-da-reforma-tributaria/",
+  "publicadoEm": "2026-11-10T18:25:55-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-16"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aumento do IVA pode afetar isenções fiscais",
+  "resumo": "Deputados discutem rever isenções fiscais se alíquota do novo IVA ultrapassar 26,5%. A mudança pode impactar empresas e consumidores devido à elevação de impostos.",
+  "fatos": [
+   "Reunião com o ministro da Fazenda, Dario Durigan, discutiu a alíquota do IVA.",
+   "Isenções fiscais poderão ser revisadas se a alíquota ultrapassar 26,5%. ",
+   "Atualmente, o TCU estima a alíquota da CBS em 11,35%, acima do esperado.",
+   "O novo sistema de cobrança de impostos tem início previsto para 1º de janeiro de 2027.",
+   "Empreendedores estão preocupados com a possibilidade de um imposto maior que 30%."
+  ],
+  "explicacao": [
+   "A reforma tributária busca simplificar a cobrança de impostos, mas há riscos para as isenções atuais.",
+   "Caso a alíquota do IVA suba, deputados afirmam que precisarão cancelar alguns benefícios fiscais para manter a arrecadação.",
+   "Isso pode significar um aumento nos custos para empresas e, consequentemente, para consumidores finais."
+  ],
+  "materia": "Os deputados que participam da regulamentação da reforma tributária admitem rever benefícios fiscais concedidos a determinados setores caso a alíquota de referência do novo Imposto sobre Valor Agregado (IVA) ultrapasse 26,5%. A possibilidade foi discutida nesta terça-feira (10), em reunião com o ministro da Fazenda, Dario Durigan, em Brasília. O percentual é o limite de referência previsto na legislação para o IVA Dual, formado pela Contribuição sobre Bens e Serviços (CBS), de competência federal, e pelo Imposto sobre Bens e Serviços (IBS), a ser administrado por estados e municípios. A preocupação dos parlamentares é que as exceções tributárias aprovadas durante a regulamentação elevem a alíquota geral do novo sistema. Há estimativas de que o percentual possa chegar a 30%. O presidente da Frente Parlamentar do Empreendedorismo, deputado Joaquim Passarinho (PL-PA), afirmou que, se a alíquota superar o limite, o Congresso terá de rever parte dos benefícios concedidos. \"Nós colocamos a trava, nós estamos trabalhando juntos com o governo para manter os 26,5%. Se isso não for possível, da mesma forma que nós trabalhamos para ter algumas isenções, nós vamos ter a responsabilidade de tirar algumas isenções para que a gente possa trazer a 26,5%, porque a lei assim manda”, disse o parlamentar, após a reunião. A discussão ganhou força após o Tribunal de Contas da União (TCU) divulgar, em 28 de outubro, uma estimativa de 11,35% para a alíquota da CBS . O percentual ficou acima dos 9,21% considerados anteriormente pelo Comitê Gestor do IBS. As reduções e isenções concedidas a determinados produtos e serviços diminuem a arrecadação potencial do novo sistema. Para preservar a receita prevista, uma alíquota maior pode ser necessária para os demais contribuintes. O deputado Augusto Coutinho (Republicanos-PE) também afirmou que os benefícios poderão ser revistos caso as projeções confirmem uma alíquota acima do limite. “Essa discussão de que vamos ter o maior imposto do mundo, que vai para 30%, é conversa. Se isso vier a chegar e ser apurado que vai passar dos 26,5%, o governo imediatamente manda o projeto de lei para a Câmara dos Deputados para rever benefícios que foram dados durante a reforma”, declarou. Apesar das discussões sobre a alíquota, os deputados afirmaram que não há negociação com o governo para adiar a implementação da reforma tributária. A Contribuição sobre Bens e Serviços (CBS), que substituirá PIS e Cofins, tem início previsto para 1º de janeiro de 2027. Passarinho disse que a possibilidade de adiamento não foi discutida na reunião e afirmou ter recebido a mesma sinalização da presidência da Câmara. “Não há nenhuma conversa. O presidente da Câmara e o presidente do Senado conversaram já com o ministro (Durigan). O presidente da Câmara me disse hoje: não é ideia nenhuma que a gente tenha adiamento”, afirmou. O deputado Cláudio Cajado (PP-BA) também reforçou que o governo pretende manter o cronograma. “O ministro Dario Durigan foi extremamente objetivo em afirmar categoricamente que o governo vai avançar com a reforma tributária”, disse. Segundo Cajado, o presidente do Senado, Davi Alcolumbre (União-AP), está comprometido com a votação da alíquota da CBS. Já o presidente da Câmara, Hugo Motta (Republicanos-PB), pretende avançar na análise da medida provisória que estabelece critérios para o Imposto Seletivo assim que for designado um relator. “Nós saímos daqui muito satisfeitos. O comprometimento e o compromisso do ministro da Fazenda e do conjunto do governo é de efetivamente iniciar a implantação da nova tributação no País a partir de janeiro de 2027”, afirmou Cajado. A manutenção do calendário ocorre em meio a pedidos de entidades empresariais e especialistas para ampliar o período de testes do novo sistema e adiar a cobrança efetiva da CBS para 2028. Entre os defensores da mudança está Bernard Appy, ex-secretário extraordinário da Reforma Tributária. Ele argumenta que as empresas precisam de mais tempo para se adaptar às ",
+  "numeros": [
+   {
+    "valor": "30%",
+    "rotulo": "possível nova alíquota do IVA"
+   },
+   {
+    "valor": "26,5%",
+    "rotulo": "alíquota limite para isenções"
+   },
+   {
+    "valor": "1º de janeiro de 2027",
+    "rotulo": "início da nova cobrança"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "aumento de impostos e custos operacionais",
+  "angulo": "Com mudanças no cenário tributário, aprender sobre o mercado financeiro pode ajudar a gerar renda sem depender de aumentos de impostos.",
+  "gancho": "Prepare-se para *novos impostos* em 2027",
+  "ideias": [
+   "Impactos do IVA em isenções fiscais",
+   "Entenda a reforma tributária e seus efeitos",
+   "Como se proteger de aumentos de impostos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/deputados-admitem-rever-isencoes-se-iva-superar-265",
+  "publicadoEm": "2026-11-10T18:20:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novo serviço do FGTS facilita comprovação financeira",
+  "resumo": "A Caixa permite que trabalhadores autorizem bancos a acessar informações do FGTS, tornando a comprovação de renda mais prática e segura, sem a necessidade de apresentar documentos físicos.",
+  "fatos": [
+   "A partir de 10 de outubro, trabalhadores podem autorizar instituições financeiras a consultar o extrato do FGTS.",
+   "O serviço visa simplificar a comprovação de renda e vínculo empregatício.",
+   "A autorização é gratuita e pode ser feita pelo aplicativo FGTS ou presencialmente na agência da Caixa.",
+   "A permissão é válida por 90 dias e pode ser cancelada a qualquer momento.",
+   "Instituições financeiras precisam ser habilitadas pela Caixa para acessar os dados."
+  ],
+  "explicacao": [
+   "A medida foi implementada pela Caixa Econômica Federal para facilitar o acesso a informações financeiras de forma mais segura.",
+   "Com essa autorização, trabalhadores evitam a necessidade de apresentar extratos impressos, evitando fraudes e inconsistências.",
+   "Os bancos poderão acessar o histórico de depósitos do FGTS, melhorando a avaliação de risco e inclusão financeira."
+  ],
+  "materia": "A Caixa Econômica Federal passou a permitir nesta terça-feira (10) que trabalhadores autorizem instituições financeiras a consultar informações do extrato do Fundo de Garantia do Tempo de Serviço (FGTS). O serviço pode ser usado para comprovar renda ou vínculo empregatício em operações financeiras . Com a novidade, o trabalhador não precisa mais baixar, imprimir e entregar o extrato do FGTS ao banco ou à instituição financeira. As informações são consultadas diretamente na base do fundo, desde que haja autorização expressa do titular da conta. Segundo a Caixa, a medida busca tornar a comprovação de renda e de vínculo de trabalho mais prática e segura , além de reduzir o risco de apresentação de documentos adulterados ou com informações inconsistentes. Entre as principais características do serviço estão: A autorização é gratuita e pode ser feita pelo aplicativo FGTS ou presencialmente, em uma agência da Caixa. O trabalhador pode escolher quais instituições financeiras poderão consultar os dados . A permissão tem validade de 90 dias e pode ser cancelada a qualquer momento. Com a autorização, as instituições habilitadas poderão acessar o histórico dos depósitos realizados nos últimos 12 meses. O acesso permite que os bancos verifiquem informações relacionadas ao vínculo de trabalho e à renda declarada pelo cliente, auxiliando na avaliação de risco e na prevenção de fraudes. O serviço permite consultar informações específicas da conta vinculada ao FGTS , mas não libera o acesso ao saldo total do trabalhador . Essa informação continua disponível exclusivamente para consulta do titular pelo aplicativo FGTS. Para utilizar a ferramenta, as instituições financeiras precisam primeiro ser habilitadas pela Caixa. A solicitação deve ser encaminhada por e-mail corporativo para o endereço cefge24@caixa.gov.br , acompanhada da documentação exigida no Manual Operacional. Depois da habilitação, a instituição passa a integrar a lista de agentes financeiros que podem ser autorizados pelos trabalhadores. De acordo com a Caixa, o compartilhamento de informações diretamente da base do FGTS também pode contribuir para a inclusão financeira. Com dados mais confiáveis sobre renda e vínculo empregatício, as instituições financeiras podem avaliar melhor o perfil dos clientes e oferecer serviços mais adequados às suas necessidades . O manual com as orientações para as instituições está disponível no site da Caixa, na seção de downloads, e no portal do FGTS, na área de destaques, em “Consulta Extrato FGTS”.",
+  "numeros": [
+   {
+    "valor": "12 meses",
+    "rotulo": "histórico de depósitos acessível"
+   },
+   {
+    "valor": "90 dias",
+    "rotulo": "validade da autorização"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "CLT"
+  ],
+  "dor": "dificuldade em comprovar renda para financiamentos",
+  "angulo": "Aprender sobre o mercado financeiro pode ajudar a diversificar a renda e evitar depender apenas de documentos tradicionais, adotando novas formas de comprovação.",
+  "gancho": "Facilite sua vida com *novas opções no FGTS*",
+  "ideias": [
+   "Como a nova regra do FGTS impacta sua renda?",
+   "Descubra como comprovar renda ficou mais fácil!",
+   "FGTS: agilidade na hora de conseguir crédito."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabalhador-podera-autorizar-bancos-consultar-extrato-do-fgts",
+  "publicadoEm": "2026-11-10T17:49:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Por que o cenário econômico exige alternativas ao salário?",
+  "resumo": "O aumento recente nas vendas do Magazine Luiza sinaliza uma possível recuperação, mas os juros elevados ainda podem apertar o bolso dos consumidores e empresários. Conhecer o mercado financeiro se torna essencial.",
+  "fatos": [
+   "As vendas brutas nas lojas físicas do Magazine Luiza cresceram 16% em outubro em relação ao ano anterior.",
+   "As vendas online próprias aumentaram 14% no mesmo período.",
+   "O resultado do tercer trimestre mostrou um Ebitda ajustado de R$ 710 milhões.",
+   "A margem bruta da empresa subiu para 31,6%, beneficiada pela maior venda de serviços.",
+   "O GMV total caiu 4% na comparação anual, totalizando R$ 14,6 bilhões."
+  ],
+  "explicacao": [
+   "Em um ambiente desafiador, a Magalu apresentou aumento nas vendas em outubro, sinalizando uma possível melhora no setor.",
+   "A melhora nas vendas está ligada à reorganização do setor após a recuperação judicial da Casas Bahia, que reduziu a pressão promocional.",
+   "No entanto, as altas taxas de juros ainda estão afetando a demanda por bens duráveis, complicando a recuperação sustentável dos lucros."
+  ],
+  "materia": "O resultado do terceiro trimestre do Magazine Luiza ( MGLU3 ) veio sem grandes surpresas para o mercado, mas trouxe um grande sinal positivo para a tese de investimento da companhia em vários trimestres: uma clara inflexão nas vendas em setembro e, principalmente, em outubro. Com isso, a reação das ações pós-balanço é bastante positiva, com os papéis fechando com ganhos de 11,64%, a R$ 6,52, nesta terça-feira (10). Depois de meses de pressão sobre o comércio eletrônico e consumo fraco, a varejista começou a mostrar aceleração simultânea nas lojas físicas e no canal online próprio (1P), movimento que pode marcar o início de uma retomada de crescimento. Os números do trimestre ainda refletiram um ambiente difícil para o varejo de bens duráveis. O GMV (volume bruto de mercadorias) total recuou 4% na comparação anual, para R$ 14,6 bilhões, enquanto a receita líquida caiu 1%, para R$ 8,9 bilhões. O Ebitda (lucro antes de juros, impostos, depreciações e amortizações) ajustado ficou praticamente estável em R$ 710 milhões, com margem de 7,9%, sustentado por controle de despesas e melhora da margem bruta. Leia mais: – Confira o calendário de resultados do 3º trimestre de 2026 da Bolsa brasileira – Temporada de balanços do 3T26 ganha destaque: veja ações e setores para ficar de olho O contraste entre os canais continuou sendo uma das principais marcas do trimestre. As lojas físicas seguiram ganhando participação de mercado, com crescimento de 10% nas vendas e vendas mesmas lojas (SSS) avançando 9,5%. Já o e-commerce permaneceu pressionado: o GMV online recuou 10%, com queda de 9% nas vendas próprias (1P) e de 12% no marketplace (3P). O que mudou a percepção do mercado foi a divulgação de dados preliminares de outubro. Segundo a companhia, as vendas brutas das lojas físicas aceleraram para alta de 16% na comparação anual, enquanto as vendas online próprias cresceram 14%. O desempenho representa uma melhora expressiva em relação ao período entre janeiro e agosto, quando as vendas físicas avançavam 8% e o canal 1P acumulava queda de 12%. Tanto a XP Investimentos quanto o Bradesco BBI apontaram os dados preliminares divulgados de outubro como o destaque. Para os analistas, a aceleração está ligada à reorganização do ambiente competitivo após a recuperação judicial do Grupo Casas Bahia ( BHIA3 ), que reduziu a pressão promocional no setor, além dos acordos fechados pelo Magalu para vender seu catálogo em plataformas como Amazon, Mercado Livre e Shopee. Leia também MGLU3: BofA eleva Magalu para compra após melhora das vendas e ganho de mercado O banco manteve preço-alvo de R$ 11 para a ação, o que representa potencial de valorização de cerca de 88% sobre o fechamento da véspera Na avaliação da administração, os bens duráveis apresentaram crescimento superior ao de outras categorias e permitiram ganho de cerca de 1,5 ponto percentual de participação de mercado em pouco mais de um mês. A empresa também destacou que as novas parcerias geram margens de contribuição superiores às vendas realizadas com forte uso de mídia paga. O Itaú BBA classificou o resultado como positivo justamente porque os ganhos de participação aceleraram no fim do trimestre. O banco afirmou que o crescimento virou a chave em setembro, após a reestruturação da Casas Bahia, e considera que parte desses ganhos pode ser estrutural, sustentando um ritmo mais forte de crescimento nos próximos trimestres. Ainda assim, reduziu estimativas para 2027 e 2028 devido ao cenário de juros elevados por mais tempo. A casa manteve recomendação outperform e preço-alvo de R$ 14,50. A rentabilidade, por sua vez, mostrou estabilidade mesmo em um cenário de vendas pressionadas. A margem bruta avançou para 31,6%, beneficiada pela maior participação de serviços e pela migração do crédito para a operação da MagaluPay. As despesas com vendas e administrativas permaneceram sob controle, permitindo compensar a fraqueza da receita. Por outro lado, alguns desafios continuam presentes, uma vez que as prov",
+  "numeros": [
+   {
+    "valor": "16%",
+    "rotulo": "crescimento das vendas físicas em outubro"
+   },
+   {
+    "valor": "14%",
+    "rotulo": "crescimento das vendas online em outubro"
+   },
+   {
+    "valor": "71 milhões",
+    "rotulo": "Ebitda ajustado no terceiro trimestre"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "dependência do salário e queda de rendimento",
+  "angulo": "A recuperação das vendas pode ser um sinal, mas lidar com as altas taxas de juros é um desafio para todos. Conhecer o mercado financeiro oferece novas oportunidades de renda.",
+  "gancho": "*Recuperação no varejo*, mas e seus ganhos?",
+  "ideias": [
+   "Como se adaptar em tempos de juros altos?",
+   "A importância de diversificar sua renda",
+   "Aprenda a investir e saia da rotina"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://www.infomoney.com.br/mercados/magalu-mglu3-ponto-de-inflexao-em-outubro-faz-acao-saltar-15-apos-balanco-mas-movimento-continua/",
+  "publicadoEm": "2026-11-10T18:20:49-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Nova jornada de trabalho: desafios e adaptações",
+  "resumo": "A implementação da nova jornada de trabalho gera preocupações entre empresas. Pedidos de adiamento já foram feitos, pois o prazo de adaptação é considerado curto.",
+  "fatos": [
+   "O fim da escala 6x1 foi aprovado pelo Congresso e já é lei.",
+   "Empresas pedem adiamento da nova jornada, prevista para começar em 16 de dezembro de 2023.",
+   "A Confederação Nacional do Comércio e a Confederação Nacional da Indústria defendem prazos maiores para adaptação.",
+   "CNC sugeriu adiamento para outubro de 2027, enquanto a CNI pediu prorrogação de um ano.",
+   "O novo regime permitirá uma jornada máxima de 40 horas semanais após 12 meses da mudança.",
+   "O ministro do Trabalho afirmou que o decreto não regulamentará setores específicos, mas permitirá adaptações.",
+   "A nova jornada pode causar desorganização devido à alta demanda no final do ano."
+  ],
+  "explicacao": [
+   "A nova jornada busca modernizar a legislação trabalhista, mas o prazo para adaptação e reestruturação dos turnos gerou resistência.",
+   "As entidades de classe argumentam que 60 dias são insuficientes para atender às necessidades da maioria das empresas.",
+   "Além disso, a mudança pode impactar o planejamento das contratações e a organização do trabalho durante o período natalino."
+  ],
+  "materia": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino realizou uma audiência na terça-feira, 10, com entidades da indústria e comércio que contestam o fim da escala 6x1 . No encontro, conforme obtido pelo O Globo , empresas pediram o adiamento do cronograma de implementação da redução da jornada. Em resposta, o ministro destacou que a audiência não irá \"conciliar\" a redução da jornada, reforçando que a mudança aprovada pelo Congresso é \"plenamente constitucional em sua finalidade\" e que seu mérito \"não está sujeito a transação\". Receba as principais notícias direto no WhatsApp! Inscreva-se no canal do Terra Dino explicou que o intuito é debater e diminuir a controvérsia. \"Nós precisamos avançar não só no Supremo. O Supremo não tem pretensão de substituir nem as partes, muito menos o governo, muito menos o Congresso\", disse, em sua fala de abertura. A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e a Confederação Nacional da Indústria (CNI) pediram o adiamento do ínicio da nova jornada, prevista para começar em 16 de dezembro deste ano. A CNC defendia que o cronograma vai gerar perdas e desorganização das empresas, porque passará a valer em período de maior demanda devido ao Natal. Na petição, pediu que a implantação da lei seja adiada para outubro de 2027, enquanto a CNI pediu a prorrogação por um ano. “A entidade sustenta que o prazo de apenas 60 dias previsto na emenda constitucional promulgada é insuficiente para mapear postos, contratar trabalhadores, reestruturar turnos e renegociar convenções coletivas”, disse a CNC, em nota, sem questionar a redução da carga de trabalho, nem os dias de descanso, mas o prazo para adaptação. O representante da Confederação Nacional da Indústria (CNI), Alexandre Vitório, ressaltou na audiência: \"Eu não posso, a partir da redução, contratar um punhado de mineiros. Eles precisam de treinos, precisam aprender protocolos, não dá para contratar de um dia para o outro essa reposição de mão de obra\". Já a CNC pediu a suspensão da redução da jornada para contratos de trabalhos celebrados e os acordos e convenções coletivas de trabalho vigentes antes de sua promulgação. Além disso, defende que a mudança não se aplique a micro e pequenas empresas. \"A emenda concede 60 dias para reorganizar as jornadas de dezenas de milhões de brasileiros, de milhares de empresas, e para negociar acordos coletivos de milhões de brasileiros. Os 60 dias são sufocantes para tantas atividades que precisam ser feitas pelos sindicatos e empresas\", afirmou advogada representante da CNC, Luciana Diniz, na audiência pública, conforme obtido pelo jornal. O fim da escala 6x1 já foi promulgado pelo Congresso, mas ainda é preciso que o governo federal apresente o decreto com as regras da implementação da nova jornada de trabalho. A previsão é de que o presidente Luiz Inácio Lula da Silva (PT) assine o decreto em uma solenidade quando retornar de sua agenda no exterior, na próxima segunda-feira, 16. A nova escala prevê cinco dias de trabalho e dois de folga, mas poderá ser adaptada a depender das convenções sindicais. Segundo a emenda constitucional, acordos coletivos poderão estabelecer regimes de compensação que garantam, em média, dois dias de repouso por semana no mês e ao menos uma folga a cada semana. Ou seja, é possível que trabalhadores de determinada categoria trabalhem na escala 6x1 em uma semana e em 4x3 em outra semana, contanto que, ao final do mês, ele tenha oito dias de folga no total e também respeite o mínimo de uma folga a cada semana. O projeto aprovado no Legislativo prevê que a primeira fase de implantação da medida se inicie em 16 de dezembro, quando as empresas precisarão reduzir a carga horária semanal de 44 horas para, no máximo, 42 horas, com dois dias de descanso remunerado. Doze meses depois, a jornada de trabalho passa a ser limitada a 40 horas semanais. O ministro do Trabalho, Luiz Marinho, disse, em coletiva na segunda-feira, 9, que o decreto não deve trazer uma lista de seto",
+  "numeros": [
+   {
+    "valor": "60 dias",
+    "rotulo": "prazo para adaptação"
+   },
+   {
+    "valor": "40 horas",
+    "rotulo": "nova jornada máxima semanal"
+   }
+  ],
+  "fonte": "Terra",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "dificuldades em adaptar equipes e processos de trabalho",
+  "angulo": "Com as novas exigências, investir em conhecimento do mercado financeiro pode ser um caminho para se livrar das amarras do emprego convencional.",
+  "gancho": "*Nova jornada pode gerar desorganização!*",
+  "ideias": [
+   "Como a nova jornada pode afetar sua empresa?",
+   "Entenda a mudança na carga horária de trabalho",
+   "Aperte o bolso: como se preparar para a nova lei trabalhista"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://www.terra.com.br/economia/escala-6x1-empresas-pedem-adiamento-da-implementacao-da-reducao-de-jornada-e-dino-reforca-que-medida-aprovada-e-plenamente-constitucional,e67daa46a05e40ef7faf26b608ac7f88w0olfjxs.html",
+  "publicadoEm": "2026-11-10T16:32:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Flexibilização de folgas após escala 6x1",
+  "resumo": "O STF deve decidir em breve se a distribuição das folgas poderá ser flexibilizada por negociação coletiva, afetando trabalhadores e empresas.",
+  "fatos": [
+   "O ministro Flávio Dino sinalizou que decisões sobre folgas podem ser flexibilizadas.",
+   "Uma audiência de conciliação sobre novas regras de jornada de trabalho ocorreu no dia 10/11.",
+   "Dino afirmou que a negociação coletiva pode alterar limites de descanso impostos pela emenda.",
+   "A Emenda Constitucional nº 141/2026 establece o fim gradual da escala 6×1.",
+   "A emenda permite diferentes regimes de descanso com acordos coletivos, mas com limites a serem respeitados."
+  ],
+  "explicacao": [
+   "A recente declaração do ministro indica que a rigidez das novas regras de folgas pode ser suavizada por meio de acordos entre trabalhadores e empregadores.",
+   "Isso permitirá que empresas ajustem a distribuição das folgas de acordo com suas necessidades e as particularidades de cada setor.",
+   "A discussão é importante, pois pode gerar maior flexibilidade e melhor organização do tempo de trabalho e descanso, afetando diretamente a rotina dos trabalhadores."
+  ],
+  "materia": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), sinalizou que deverá decidir, nos próximos dias, se os limites semanais e mensais para a concessão de folgas após o fim da escala 6×1 poderão ser flexibilizados por negociação coletiva.A declaração foi dada na tarde desta terça-feira (10/11), durante audiência de conciliação sobre a implementação das novas regras de redução da jornada de trabalho, questionadas por entidades empresariais.Dino afirmou que pretende esclarecer até que ponto empresas e trabalhadores poderão negociar a distribuição dos períodos de descanso previstos na emenda constitucional aprovada pelo Congresso.“Vamos, daqui a alguns dias, emitir uma decisão precisando o que foi requerido por ambas as partes. Ou seja, que o limitador mensal ou semanal pode ser flexibilizado mediante negociação coletiva. E isso é necessário porque a Emenda Constitucional induz a outra coisa, induz à rigidez”, afirmou o ministro.A discussão no Supremo envolve a possibilidade de flexibilizar a distribuição das folgas para atender às particularidades de determinadas atividades econômicas.O entendimento anunciado pelo ministro ainda não foi formalizado em decisão nos autos do processo.O que diz a emendaA Emenda Constitucional nº 141/2026, que estabeleceu o fim gradual da escala 6×1, permite regimes diferenciados de descanso por meio de acordos e convenções coletivas.O texto prevê, porém, que esses acordos assegurem, em média, dois dias de repouso semanal remunerado dentro do mês-calendário e pelo menos um dia de descanso a cada período máximo de uma semana de trabalho.São esses limites temporais que estão no centro da discussão conduzida por Dino. Embora a emenda permita a negociação de escalas diferenciadas, estabelece condições para a compensação dos períodos de descanso.A norma também prevê que uma lei poderá estabelecer regimes diferenciados de jornada e descanso para determinadas atividades, desde que respeitados os limites constitucionais.",
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "dias de repouso semanal na média do mês"
+   },
+   {
+    "valor": "1",
+    "rotulo": "dia de descanso a cada semana"
+   }
+  ],
+  "fonte": "Metrópoles",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "perda de flexibilidade na rotina de trabalho e folgas",
+  "angulo": "Entender as novas regras de trabalho é essencial; a mentoria pode ajudar a lucrar fora do sistema tradicional de emprego.",
+  "gancho": "Novas *flexibilizações nas folgas* impactam seu trabalho!",
+  "ideias": [
+   "Folgas flexíveis: o que muda para você?",
+   "Como a nova regra pode afetar seu dia a dia?",
+   "O que esperar das folgas após a escala 6x1?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://www.metropoles.com/colunas/manoela-alcantara/fim-da-escala-6x1-dino-sinaliza-flexibilizacao-das-regras-de-folga",
+  "publicadoEm": "2026-11-10T16:43:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: flexibilização em pauta",
+  "resumo": "O ministro Flávio Dino sinalizou que a flexibilização do fim da escala 6x1 pode acontecer, dependendo de acordo coletivo. Isso altera a forma de descanso dos trabalhadores.",
+  "fatos": [
+   "O STF deve decidir sobre a flexibilização das folgas da escala 6x1.",
+   "A proposta de emenda constitucional (PEC) prevê 8 folgas mensais, mas pode permitir apenas uma semanal.",
+   "Ministro do Trabalho, Luiz Marinho, confirmou que um decreto trará regulamentação sobre isso.",
+   "Prazo de 5 dias foi estipulado para apresentar propostas alternativas.",
+   "A redução da carga horária para 42 horas semanais acontecerá em dezembro, com novas regras."
+  ],
+  "explicacao": [
+   "A decisão do STF pode trazer uma nova dinâmica ao trabalho nas empresas, flexibilizando o descanso semanal em troca de acordos coletivos. Isso gera um impacto direto na rotina de quem trabalha em escalas.",
+   "Os trabalhadores poderão ter mais semanas com horários diferentes de trabalho, mas isso ainda dependerá do entendimento e acordo entre empregador e empregado.",
+   "Essa mudança busca atender tanto as necessidades empresariais quanto os direitos dos trabalhadores, numa tentativa de equilibrar a carga laboral."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O ministro do STF (Supremo Tribunal Federal) FlÃ¡vio Dino indicou nesta terÃ§a-feira (10) que deve proferir nos prÃ³ximos dias uma decisÃ£o permitindo que o direito a duas folgas semanais, previstas na PEC (Proposta de Emenda Ã ConstituiÃ§Ã£o) do fim da escala 6x1 , possa ser flexibilizado, contanto que previsto em acordo coletivo. Se chancelada, a decisÃ£o permitiria que o trabalhador tivesse apenas um descanso na semana em algum momento do mÃªs, desde que, ao fim dos 30 dias, ele tivesse somado oito folgas. Nesses casos, seria possÃ­vel, por exemplo, um trabalhador atuar na escala 6x1 em uma semana, e na 4x3, com trÃªs folgas, na outra âcontanto que o modelo esteja previsto no acordo coletivo. O ministro do Trabalho e Emprego, Luiz Marinho , jÃ¡ havia afirmado na Ãºltima semana que o decreto de regulamentaÃ§Ã£o do fim da escala 6x1 deve trazer esse aspecto. \"Provavelmente vamos, daqui alguns dias, emitir uma decisÃ£o precisando o que foi aqui dito por ambas as partes, ou seja, que o limitador mensal ou semanal pode ser flexibilizado mediante negociaÃ§Ã£o coletiva. E isso Ã© necessÃ¡rio porque a emenda constitucional induz a outra coisa, induz Ã rigidez\", afirmou Dino durante audiÃªncia. O ministro foi sorteado como relator de aÃ§Ã£o proposta pela CNC (ConfederaÃ§Ã£o Nacional do ComÃ©rcio de Bens, ServiÃ§os e Turismo) e pela CNI (ConfederaÃ§Ã£o Nacional da IndÃºstria ), que acionaram a Corte para questionar o prazo de 60 dias para reduzir a jornada de 44 para 42 horas semanais. Em resposta Ã aÃ§Ã£o, o ministro convocou a audiÃªncia realizada nesta terÃ§a, com o objetivo de reunir entidades empresariais, sindicatos e membros do governo para tratar da transiÃ§Ã£o. Na audiÃªncia, Dino estipulou um prazo de cinco dias para que todos os envolvidos apresentem propostas alternativas antes de a decisÃ£o ser debatida no plenÃ¡rio do STF. O texto aprovado no Congresso Nacional prevÃª implementaÃ§Ã£o em duas fases. Em dezembro, a carga horÃ¡ria dos trabalhadores cai de 44 para 42 horas semanais, e passa a ser exigido um novo acordo para distribuir a jornada de trabalho nos cinco dias da semana. A reduÃ§Ã£o completa para 40 horas semanais sÃ³ passa a valer a partir de dezembro de 2027. Entidades do comÃ©rcio pediram adiamento da reduÃ§Ã£o para 42 horas para dezembro de 2027, mas as associaÃ§Ãµes industriais querem derrubar a emenda constitucional. Na audiÃªncia, as centrais sindicais questionaram a premissa do empresariado, de que nÃ£o haveria prazo suficiente para implementar a nova jornada. Segundo parte dos sindicatos, existe um amplo contingente de trabalhadores que jÃ¡ estÃ£o prestes a fechar acordos coletivos que se encaixam na nova regra. Ã o caso do Sindicato dos ComerciÃ¡rios de SÃ£o Paulo. JÃ¡ as empresas alegam que o prazo reduzido pode gerar impacto maior no aumento do valor da hora de trabalho, na necessidade de horas extras e no aumento de custos com mÃ£o de obra. Na audiÃªncia, os representantes do empresariado criticaram o que dizem ser um prazo restrito para implementar a escala 5x2 e reduzir a carga de 44 para 42 horas semanais em dezembro. O ministro FlÃ¡vio Dino sinalizou a possibilidade de proferir uma decisÃ£o monocrÃ¡tica sobre a aÃ§Ã£o, que depois ainda seria submetida ao plenÃ¡rio. Ele descartou suspender a emenda, como pedia a CNI. \"Estou delimitando que Ã© possÃ­vel avanÃ§ar em uma decisÃ£o monocrÃ¡tica, eventualmente na prÃ³xima semana, que prepare apÃ³s a oitiva de todos, inclusive da Procuradoria-Gera",
+  "numeros": [
+   {
+    "valor": "42 horas",
+    "rotulo": "carga horária semanal a partir de dezembro"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "Medos sobre perda de direitos e folgas de descanso",
+  "angulo": "Entender como essa flexibilização pode afetar sua qualidade de vida e a necessidade de aprender sobre o mercado financeiro como alternativa.",
+  "gancho": "*Mudanças no trabalho*: você está preparado?",
+  "ideias": [
+   "Flexibilização no trabalho: riscos e benefícios",
+   "O que muda com o fim da escala 6x1?",
+   "Como acordos coletivos impactam sua rotina"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dino-indica-que-dara-aval-a-flexibilizacao-do-fim-da-escala-6x1-desde-que-prevista-em-acordo-coletivo.shtml",
+  "publicadoEm": "2026-11-10T17:19:00-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Desmistificando o fim da escala 6x1 para trabalhadores",
+  "resumo": "O fim da escala 6x1 pode gerar mudanças significativas nas relações de trabalho. Flexibilizações podem ocorrer, mas é essencial entender seus impactos nas negociações coletivas.",
+  "fatos": [
+   "O ministro Flávio Dino conduziu audiência sobre a nova jornada de trabalho após o fim da escala 6x1.",
+   "A nova emenda permitirá exceções e compensações mediante acordos coletivos.",
+   "A implementação da nova jornada será escalonada, começando em 16 de dezembro de 2023.",
+   "A jornada máxima de trabalho será reduzida para 40 horas semanais até 2027.",
+   "Dino propôs flexibilizar limites de compensação para facilitar negociações.",
+   "As contrapartidas dos trabalhadores nos setores afetados também serão discutidas.",
+   "O objetivo é promover acordos que garantam dois dias de repouso semanal dentro do mês."
+  ],
+  "explicacao": [
+   "A mudança na jornada de trabalho está sendo discutida em resposta às necessidades do mercado e à rigidez da nova emenda.",
+   "As negociações coletivas podem trazer uma nova forma de organização do trabalho, permitindo mais flexibilidade nas jornadas.",
+   "Se a negociação coletiva não ocorrer, as contrapartidas poderão ser revistas, o que levaria a incertezas nos empregos atuais.",
+   "Esse cenário exige que tanto empregadores quanto trabalhadores se adaptem às novas regras.",
+   "O debate sobre compensações e negociação coletiva é crucial para garantir um equilíbrio nas relações de trabalho."
+  ],
+  "materia": "Lula participa da promulgação da PEC do fim da 6x1 no Congresso Nacional Sessão solene ocorre a nove dias do segundo turno da eleição presidencial. Crédito: Estadão Em Brasília, o ministro Flávio Dino do STF conduziu uma audiência sobre a nova jornada de trabalho após o fim da escala 6x1. A emenda aprovada permite exceções e compensações mediante acordos coletivos. Dino propõe flexibilizar limites mensais ou semanais para facilitar negociações. A implementação será escalonada, começando em 16 de dezembro, com redução para 40h semanais até 2027. Dino enfatiza a necessidade de acordos e descarta redução imediata da jornada para 40h em dezembro. BRASÍLIA - O ministro Flávio Dino , do Supremo Tribunal Federal (STF) , disse que a audiência de conciliação sobre a implementação da nova jornada de trabalho após o fim da escala 6x1 deve avançar sobre as “contrapartidas” aos trabalhadores nos setores que não conseguirem cumprir as novas regras. A emenda aprovada pelo Congresso prevê exceções para regimes diferenciados e permite a compensação de horários mediante acordos coletivos. Após ouvir argumentos convergentes dos representantes das empresas e das entidades sindicais, Dino disse que vai proferir uma decisão para flexibilizar o limitador mensal ou semanal das compensações mediante negociação coletiva. “Isso é necessário porque a emenda induz à rigidez”, afirmou. O ministro afirmou que sua decisão irá no sentido de “eliminar amarras e ampliar possibilidades de negociação coletiva”. A emenda que acaba com a escala 6x1 estabelece que podem ser abertas exceções ao repouso semanal remunerado de dois dias. O texto diz que podem ser firmados acordos coletivos para estabelecer um regime compensatório que assegure dois dias de repouso semanal remunerado dentro do mês, garantido o gozo de pelo menos um dos dias dentro do período máximo de uma semana de trabalho. É esse o ponto que pode ser flexibilizado por decisão do ministro. Dino é relator de ações movidas por representantes da indústria e do comércio que buscam adiar a implementação da nova jornada de trabalho. Ele conduz audiência de conciliação sobre o tema nesta terça-feira, 10, com representantes das empresas, dos trabalhadores e do governo. A implementação da nova jornada será feita de forma escalonada, com a primeira etapa a partir de 16 de dezembro, ou seja, 60 dias após a promulgação da emenda constitucional. Em 16 de dezembro de 2027, o limite máximo semanal de trabalho cai para 40h. Leia mais ‘Para que o Supremo vai se meter?’, diz Marinho sobre ação que tenta adiar fim da escala 6x1 Fim da escala 6x1: o que esperar do decreto de regulamentação, segundo o ministro do Trabalho ‘Para que o Supremo vai se meter?’, diz Marinho sobre ação que tenta adiar fim da escala 6x1 Fim da escala 6x1: o que esperar do decreto de regulamentação, segundo o ministro do Trabalho O ministro disse que vai “deixar um tempo” para permitir a construção de acordos nacionais ou setoriais. “Não havendo, aí haverá uma decisão sobre a permanência ou não das contrapartidas vinculadas à jornada, na medida em que é razoável o argumento de que, se eram 44 horas e viraram 42h, é claro que isso pode, veja, pode demandar algum tipo de revisão”, ponderou. Ele ainda afirmou que “não é uma decisão imediata, mas é uma decisão daqui a alguns dias”. “Uma das teses centrais de ambas as ações (movidas no Supremo) é o receio justo de não haver tempo hábil para a negociação coletiva, ou de não haver ambiente apto para que certos aspectos sejam solucionados, por exemplo, quanto ao regime de transição nas 42 horas”, afirmou Dino ao abrir a audiência. Ele acrescentou que o Supremo “não tem pretensão de substituir nem as partes, muito menos o governo, muito menos o Congresso”. “Nós queremos, o máximo quanto possível, apenas diminuir a controvérsia”, reforçou. Dino também repetiu que o objetivo da audiência de conciliação não é discutir o mérito das ações, nem a “conveniência da política pública” adotada. “O objetivo da audiência",
+  "numeros": [
+   {
+    "valor": "40",
+    "rotulo": "horas semanais após implementação"
+   },
+   {
+    "valor": "16 de dezembro de 2023",
+    "rotulo": "início da implementação"
+   }
+  ],
+  "fonte": "Estadão Economia",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Jovens"
+  ],
+  "dor": "insegurança com mudanças nas regras de trabalho",
+  "angulo": "Entender como essas mudanças impactam o seu trabalho é essencial. Investir em conhecimento no mercado financeiro pode gerar novas possibilidades.",
+  "gancho": "A nova jornada de trabalho vai *impactar seu bolso*",
+  "ideias": [
+   "O futuro do trabalho: o que muda com o fim da 6x1?",
+   "Flexibilização de jornada: oportunidades ou riscos?",
+   "Como a nova jornada pode mexer com seu salário?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-10T18:36:22-03:00",
+  "url": "https://www.estadao.com.br/economia/dino-sinaliza-em-audiencia-que-pode-flexibilizar-fim-da-escala-6x1-mediante-negociacao-coletiva/",
+  "publicadoEm": "2026-11-10T18:07:43-03:00",
+  "data": "2026-11-10",
+  "id": "2026-11-10-trader-09"
  },
  {
   "segmento": "trader",
