@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-09T20:55:46-03:00",
+  "ultimaColeta": "2026-11-10T00:52:06-03:00",
   "novas": 2,
-  "atualizadas": 1,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "2 pauta(s) nova(s) e 1 atualizada(s): O que esperar do fim da escala 6x1?; O que muda com o fim da escala 6x1?.",
+  "mensagem": "2 pauta(s) nova(s): Fim da escalas 6x1 adiado, o impacto no bolso; Fim da escala 6x1: impacto no seu bolso.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-10T00:52:06-03:00",
    "2026-11-09T20:55:46-03:00",
    "2026-11-09T17:14:12-03:00",
    "2026-11-08T22:17:11-03:00",
@@ -18,19 +19,19 @@
    "2026-11-07T12:57:06-03:00",
    "2026-11-06T22:23:00-03:00",
    "2026-11-06T18:12:07-03:00",
-   "2026-11-06T13:59:02-03:00",
-   "2026-11-05T22:51:37-03:00"
+   "2026-11-06T13:59:02-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-09T20:55:46-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-10T00:52:06-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Mudanças na jornada de trabalho exigem planejamento estratégico; Nvidia perde valor após suspeita de espionagem e impacto no mercado; A nova IA da Meta e o impacto nos negócios.",
+  "mensagem": "6 pauta(s) nova(s): STF suspende ações sobre baniu de apostas; impacto é sentido; A Black Friday e o consumidor: onde estão as vendas?; Como a Black Friday 2026 pode impactar seu negócio.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-10T00:52:06-03:00",
    "2026-11-09T20:55:46-03:00",
    "2026-11-09T17:14:12-03:00",
    "2026-11-08T22:17:11-03:00",
@@ -41,8 +42,7 @@
    "2026-11-07T12:57:06-03:00",
    "2026-11-06T22:23:00-03:00",
    "2026-11-06T18:12:07-03:00",
-   "2026-11-06T13:59:02-03:00",
-   "2026-11-05T22:51:37-03:00"
+   "2026-11-06T13:59:02-03:00"
   ]
  }
 }
