@@ -1,6 +1,603 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "80% dos pequenos negócios e a IA em marketing",
+  "resumo": "A pesquisa do Sebrae revela que 80% dos pequenos negócios já usam ou planejam usar IA, evidenciando a importância dessa tecnologia para estratégias de marketing.",
+  "fatos": [
+   "50% dos pequenos negócios no Brasil já utilizam IA em marketing ou comunicação.",
+   "80% dos empreendedores consideram usar IA em breve.",
+   "Apenas 14% não usam nem pretendem usar a tecnologia.",
+   "30% dos que usam IA aplicam regularmente, enquanto 21% realizaram testes.",
+   "74% utilizam IA para criação de imagens e vídeos, 65% para produção de textos e conteúdos."
+  ],
+  "explicacao": [
+   "A pesquisa Pulso dos Pequenos Negócios do Sebrae mostra como a IA está se tornando essencial para pequenos empreendimentos.",
+   "As ferramentas de IA ajudam a compensar a falta de recursos e pessoal, aumentando a produtividade e a eficiência.",
+   "Os empreendedores veem a IA como uma aliada, mas muitos têm dúvidas sobre sua implementação, o que pode ocasionar erros.",
+   "O Sebrae está trabalhando em trilhas de conhecimento para auxiliar esses empresários a utilizarem a IA de forma eficaz e segura."
+  ],
+  "materia": "Aproximadamente 50% dos pequenos negócios no país já utilizaram recursos de Inteligência Artificial (IA) em suas estratégias de marketing ou comunicação. O percentual sobe para 80% quando se considera os empreendedores que ainda não usaram IA, mas pretendem fazê-lo em breve. É o que aponta a 13ª edição da pesquisa Pulso dos Pequenos Negócios realizada pelo Sebrae. De acordo com o levantamento, apenas 14% dos empreendedores não usam e não pretendem aplicar a tecnologia em suas rotinas enquanto 5% declaram que sequer conhecem o que são essas ferramentas. Entre os donos de pequenos negócios que já usam IA em ações de Marketing e Comunicação, quase 30% fazem uso regular e outros 21% já realizaram testes. Para esses adeptos da IA, a criação de imagens e vídeos lidera como aplicação mais usada (74%), seguida da produção de textos e conteúdos para e-mails, posts e anúncios (65%) e otimização de campanhas de anúncios (27%). Para o presidente nacional do Sebrae, Décio Lima, o resultado da Pesquisa Pulso indica que os microempreendedores individuais e as micro e pequenas empresas brasileiras já compreenderam que a Inteligência Artificial pode ser uma aliada na operação dos seus negócios, contribuindo para compensar a falta de recursos e de pessoal. A inovação tecnológica é um novo paradigma para os pequenos negócios. Nesse sentido, precisamos apoiar o desenvolvimento de políticas públicas que facilitem o acesso desses empreendedores. A IA pode proporcionar ganhos na gestão dos negócios e também contribuir para aumentar a produtividade, reduzir custos, melhorar o atendimento aos clientes e ampliar as vendas. Isso se reflete em mais empregos, renda, inclusão e oportunidades. Ele acrescenta que muitos empreendedores, como aponta a pesquisa, já enxergam o potencial da IA, mas têm dúvidas sobre como utilizá-la de forma estratégica, ética e sem riscos. “A falta de orientação pode gerar insegurança e abrir oportunidade para erros. Para apoiar os donos de pequenos negócios, o Sebrae desenvolveu trilhas de conhecimento que ajudam a evitar esses problemas e vão guiar o empreendedor com clareza”, acrescenta. Utiliza Inteligência Artificial para as atividades de marketing ou comunicação Para quais das seguintes atividades de Marketing ou Comunicação você utiliza ferramentas de IA?",
+  "numeros": [
+   {
+    "valor": "80",
+    "rotulo": "percentual de pequenos negócios que usam ou planejam usar IA"
+   }
+  ],
+  "fonte": "Agência Sebrae de Notícias",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "temor de não acompanhar a inovação e perder competitividade",
+  "angulo": "A crescente adoção da IA no marketing mostra que os empresários precisam se atualizar e adotar essas tecnologias para não ficarem para trás.",
+  "gancho": "novas oportunidades com a *Inteligência Artificial*",
+  "ideias": [
+   "Como a IA pode alavancar seu negócio?",
+   "Descubra os benefícios da IA para pequenos empreendedores",
+   "Seu negócio está pronto para adotar IA?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://ce.agenciasebrae.com.br/dados/oito-em-cada-10-pequenos-negocios-ja-usam-ou-planejam-usar-ia-para-marketing-e-comunicacao/",
+  "publicadoEm": "2026-11-11T10:03:00-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-vpr-07"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento da Shopee e Mercado Livre no varejo brasileiro",
+  "resumo": "O crescimento dos marketplaces como Shopee e Mercado Livre está se destacando, principalmente nas favelas. A presença dessas marcas revela novas oportunidades para empresários se adaptarem às tendências de compra.",
+  "fatos": [
+   "A Shopee viu um aumento na proporção de consumidores que compraram na plataforma, de 56,1% para 70,4% entre março de 2024 e maio de 2026.",
+   "A eficiência da Shopee em converter conhecimento da marca em compras é de 86,6%, o maior da categoria.",
+   "O Mercado Livre apresenta a menor diferença de intenção de compra entre gêneros, apenas 1,4 ponto percentual.",
+   "A eficiência do Mercado Livre na conversão de awareness em compra é de 81,3%, a segunda maior entre as analisadas.",
+   "Algumas marcas, como o AliExpress, registraram queda significativa na satisfação do cliente, caindo de 30,7 para 13,7 pontos no NPS."
+  ],
+  "explicacao": [
+   "O estudo da Nós analisou 11 marcas com mais de 19 mil entrevistas desde março de 2024, mostrando que os marketplaces estão se expandindo em áreas menos atendidas.",
+   "A análise destaca que a confiança entre consumidores variados é essencial para manter uma base de vendas estável, especialmente em épocas como a Black Friday.",
+   "Ainda que haja avanço nas vendas, a satisfação pode não acompanhar este crescimento, indicando a importância de um bom atendimento."
+  ],
+  "materia": "O avanço dos marketplaces nas favelas e periferias brasileiras tem dois destaques: a Shopee, que registra o maior crescimento de compras da categoria, e o Mercado Livre, que se diferencia pela presença equilibrada entre gêneros e faixas etárias. É o que revela a edição especial Brand Fans Black Friday do Tracking das Favelas, estudo da Nós – Novo Outdoor Social, baseado em mais de 19 mil entrevistas realizadas desde março de 2024. Entre as 11 marcas analisadas, a Shopee apresenta a trajetória mais acelerada. A proporção de consumidores que compraram na plataforma passou de 56,1% para 70,4% entre março de 2024 e maio de 2026, avanço de 14,3 pontos percentuais, o maior da categoria. A marca também registra a maior eficiência na conversão de awareness em compra, com índice de 86,6%. O Mercado Livre, por sua vez, apresenta a menor diferença entre homens e mulheres na intenção de compra de toda a categoria: apenas 1,4 ponto percentual. A plataforma também mantém presença estável entre diferentes faixas etárias e alcança a segunda maior eficiência na conversão de awareness em compra, com 81,3%. Segundo a análise da Nós, o desempenho indica que construir confiança entre diferentes perfis de consumidores contribui para manter uma base de vendas mais estável, mesmo em uma categoria marcada pela segmentação de públicos. O levantamento acompanha indicadores de compra, awareness, intenção, preferência e Net Promoter Score (NPS) ao longo de dez ondas trimestrais. Os resultados mostram que alcance e lealdade não necessariamente avançam juntos: awareness, compra, preferência e intenção apresentam correlações de 0,55 a 0,90 entre si, enquanto recomendação e NPS têm correlação de 0,99. Na comparação entre os dois grupos, a correlação fica entre 0,50 e 0,69, indicando que ser conhecido e escolhido pelos consumidores não significa, necessariamente, ser recomendado. A intenção de compra aparece como a métrica que melhor conecta alcance e lealdade. Perfil dos consumidores Enquanto Shopee e Shein apresentam maior concentração de compras entre mulheres, com diferenças de 19 e 26 pontos percentuais, respectivamente, plataformas como OLX, Centauro, Netshoes e AliExpress têm maior penetração entre o público masculino. A satisfação também varia conforme o perfil dos consumidores. Mulheres apresentam NPS superior ao dos homens na maioria das marcas, com a maior diferença observada nas Casas Bahia: 40,7 pontos entre o público feminino e 20,7 entre o masculino. A faixa etária também influencia a avaliação das plataformas. Consumidores com 35 anos ou mais apresentam NPS superior ao dos mais jovens em praticamente todas as marcas, com diferenças de até 27 pontos em favor do público mais velho em empresas do varejo tradicional. Alertas e oportunidades para a Black Friday Apesar do avanço nas compras, algumas marcas apresentam sinais de perda de satisfação. O AliExpress registra a maior queda de NPS entre as empresas analisadas, passando de 30,7 para 13,7 pontos, recuo de 17 pontos, enquanto o índice de compra permanece praticamente estável. A OLX apresenta o maior descolamento entre alcance e lealdade da categoria, com resíduo de -23,7 pontos na análise de tendência. Já as Casas Bahia perdem 8,6 pontos de NPS, apesar do leve avanço nas compras. Para essas marcas, ampliar as vendas durante a Black Friday não significa necessariamente conquistar recorrência, especialmente se houver problemas na experiência de entrega e atendimento. A Shein, por sua vez, alcança 55,5% de awareness, mas converte 28,1% desse indicador em compras, apontando espaço para melhorar a conversão de consumidores. No caso da Shopee, o crescimento das compras foi mais expressivo do que o avanço da intenção declarada. A diferença sugere que reforçar os investimentos em mídia nas proximidades da Black Friday pode ser tão relevante quanto antecipar as campanhas. Imagem: Envato O post Shopee avança nas favelas e Mercado Livre se destaca entre marketplaces na Black Friday apareceu primeiro em Me",
+  "numeros": [
+   {
+    "valor": "70,4%",
+    "rotulo": "crescimento das compras na Shopee"
+   },
+   {
+    "valor": "86,6%",
+    "rotulo": "eficiência da Shopee em conversão"
+   },
+   {
+    "valor": "1,4",
+    "rotulo": "diferença de intenção de compra entre gêneros no Mercado Livre"
+   },
+   {
+    "valor": "30,7 a 13,7",
+    "rotulo": "queda no NPS do AliExpress"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "perder clientes por falta de adaptação ao mercado",
+  "angulo": "Esta análise mostra como se adaptar e investir em marketing digital e estratégias de atendimento podem ser decisivas para aumentar suas vendas.",
+  "gancho": "Como *não ficar para trás* na Black Friday?",
+  "ideias": [
+   "A importância de entender o consumidor moderno",
+   "Como a Shopee está mudando o jogo",
+   "Estratégias de marketing para se destacar em datas especiais"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://mercadoeconsumo.com.br/11/11/2026/black-friday/shopee-avanca-nas-favelas-e-mercado-livre-se-destaca-entre-marketplaces-na-black-friday/",
+  "publicadoEm": "2026-11-11T12:50:33-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-vpr-06"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Transformação das buscas com IA no e-commerce",
+  "resumo": "A implementação da IA nas buscas está revolucionando o e-commerce. Prepare-se para as mudanças que ela traz para os negócios.",
+  "fatos": [
+   "A IA está impactando a forma como os consumidores fazem buscas online.",
+   "As mudanças trazem novas exigências para o e-commerce se adaptar.",
+   "É vital que os empresários estejam prontos para essa nova realidade."
+  ],
+  "explicacao": [
+   "A adoção da inteligência artificial está alterando significativamente o comportamento de busca dos consumidores.",
+   "Com essas tecnologias, a personalização e a relevância das pesquisas aumentam.",
+   "Os empresários precisam se adaptar a essas novas exigências para garantir a competitividade no mercado."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários"
+  ],
+  "dor": "perda de vendas por falta de inovação tecnológica",
+  "angulo": "A evolução das buscas exige que empresários repensem suas estratégias e apostem em automação para não ficarem para trás.",
+  "gancho": "Seu e-commerce está *preparado para mudanças*?",
+  "ideias": [
+   "Prepare seu e-commerce para a IA!",
+   "Como a IA está revolucionando as buscas",
+   "Desvende a nova era do e-commerce com IA"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "alta",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://www.ecommercebrasil.com.br/artigos/a-ia-esta-mudando-as-buscas-seu-e-commerce-esta-preparado",
+  "publicadoEm": "2026-11-11T11:00:00-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento do varejo baiano é oportunidade e alerta para empresários",
+  "resumo": "A Black Friday deste ano promete um faturamento de R$ 16,4 bilhões para o varejo da Bahia, com expectativa de crescimento de 5%. É vital para as empresas se adaptarem a essa nova realidade.",
+  "fatos": [
+   "O varejo baiano projeta R$ 16,4 bilhões em faturamento em novembro.",
+   "A expectativa de crescimento real é de 5% em relação a 2022.",
+   "A parcela de empresários com estoques acima do ideal subiu de 26% para 29%.",
+   "77% das famílias da Bahia estão endividadas.",
+   "Os preços de produtos como TVs e eletrodomésticos estão em alta, limitando descontos."
+  ],
+  "explicacao": [
+   "A mudança no comportamento do varejo, com promoções estendidas ao longo do mês, influencia os lucros.",
+   "Empresários devem queimar estoques para melhorar o fluxo de caixa e preparar para o Natal.",
+   "Embora as promoções sejam atraentes, a alta do endividamento familiar pode restringir o consumo."
+  ],
+  "materia": "O varejo da Bahia tem uma projeção de faturamento de R$ 16,4 bilhões em novembro com a Black Friday. O montante corresponde à projeção para o mês inteiro, o que reflete uma mudança no comportamento do mercado. A Black Friday deixou, em grande medida, de se concentrar em uma única sexta-feira. Muitas empresas passaram a adotar o conceito de Black November, estendendo as promoções ao longo de boa parte do mês. A expectativa é de crescimento real de 5% no varejo físico em relação a novembro do ano passado, quando a variação registrada foi de apenas 1%. Estoques elevados podem favorecer promoções Um dos principais fatores que podem favorecer o consumidor nesta Black Friday é o nível de estoques do comércio. De acordo com o ICEC – Índice de Confiança do Empresário do Comércio, pesquisa realizada pela Fecomércio BA, a parcela de empresários que avaliam seus estoques como acima do nível adequado aumentou de 26% para 29% em um ano. Esse avanço reflete o desempenho das vendas ao longo de 2026, que ficou abaixo das expectativas e das projeções dos empresários em diversos segmentos do varejo. Esse cenário indica a possibilidade de um movimento mais intenso de queima de estoques durante a Black Friday. Para os empresários, reduzir o volume de mercadorias acumuladas é uma estratégia importante não apenas para reforçar o fluxo de caixa, mas também para liberar espaço nos depósitos e nas prateleiras para a reposição de produtos destinados ao Natal, a principal data do varejo ao longo do ano. Para os consumidores, esse movimento pode representar descontos mais expressivos e condições de negociação mais favoráveis, especialmente em segmentos como eletrodomésticos, móveis e vestuário, que registraram desempenho mais fraco nas vendas ao longo do ano. Por outro lado, é preciso cautela. A PEIC – Pesquisa de Endividamento e Inadimplência do Consumidor, também da Fecomércio BA, aponta que cerca de 77% das famílias da região possuem algum tipo de dívida, um patamar ainda muito elevado. Esse cenário acende um alerta sobre a capacidade das famílias de assumirem novos compromissos financeiros no momento. O consultor econômico da Fecomércio BA, Guilherme Dietze analisa que ainda assim, a Black Friday segue como uma das oportunidades mais especiais do ano para o consumidor, com preços potencialmente mais acessíveis. “A recomendação é verificar o orçamento com antecedência, definir um limite de gasto e, sempre que possível, priorizar o parcelamento sem juros, de forma a diluir o impacto no dia a dia e aproveitar as promoções sem comprometer as finanças pessoais”, analisa o economista Guilherme Dietze. De acordo com levantamento da Fecomércio BA, realizado com base no IPCA, do IBGE, uma cesta composta por 15 grupos e itens habitualmente procurados durante a Black Friday registrou inflação acumulada de 3,30% em 12 meses na Região Metropolitana de Salvador. O resultado ficou abaixo da inflação geral da região, de 4,23%, mas superou a variação observada para a mesma cesta no ano anterior, quando havia sido de 2,79%. Os maiores aumentos de preços foram registrados nos segmentos de higiene pessoal (6,93%), TV, som e informática (6,85%) e produtos óticos (5,48%). Em seguida, aparecem joias e bijuterias (4,35%), mobiliário (3,16%) e comunicação (2,99%). O segmento de TV, som e informática merece destaque, pois passou de uma deflação de 2,83% em 2025 para uma alta de 6,85% em 2026. Esse movimento pode limitar a margem para descontos nessa categoria, uma das mais procuradas pelos consumidores durante a Black Friday. Também foram registradas elevações de preços nos segmentos de roupa masculina (2,66%), calçados e acessórios (2,18%), roupa feminina (1,59%) e leitura (1%). Na direção oposta, cinco grupos apresentaram queda de preços: utensílios e enfeites (-4,14%), eletrodomésticos e equipamentos (-2,60%), cama, mesa e banho (-2,07%), roupa infantil (-0,95%) e papelaria (-0,17%). Nesses segmentos, a combinação entre a redução de preços já observada e as ofertas da Blac",
+  "numeros": [
+   {
+    "valor": "5",
+    "rotulo": "crescimento projetado do varejo"
+   },
+   {
+    "valor": "77",
+    "rotulo": "% de famílias endividadas"
+   },
+   {
+    "valor": "3.30",
+    "rotulo": "% de inflação na cesta Black Friday"
+   }
+  ],
+  "fonte": "Bahia Econômica",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Ameaça de queda nas vendas devido aoendividamento dos consumidores.",
+  "angulo": "Entender o cenário atual e como sua empresa deve se preparar para aproveitar as oportunidades de vendas pode ser a diferença em um mês decisivo.",
+  "gancho": "*A Black Friday se estende, mas cuidado!*",
+  "ideias": [
+   "Prepare-se para a Black November",
+   "Como queimar estoque e aumentar vendas",
+   "Preços altos: o que isso significa para o consumidor?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://bahiaeconomica.com.br/economia-e-politica/varejo-baiano-projeta-crescimento-de-5-na-black-friday-211313",
+  "publicadoEm": "2026-11-11T10:56:11-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Whirlpool reduz promoções, e varejo sente os efeitos",
+  "resumo": "A Whirlpool, dona da Brastemp e Consul, anunciou menos promoções na Black Friday após prejuízo de US$ 249 milhões, impactando o varejo, especialmente no Brasil e México.",
+  "fatos": [
+   "A Whirlpool registrou um prejuízo de US$ 249 milhões no terceiro trimestre de 2026.",
+   "A empresa mencionou sua intenção de reduzir promoções na Black Friday, com foco em Brasil e México.",
+   "O anúncio se deu um dia após a divulgação de seus resultados financeiros.",
+   "As vendas na divisão latino-americana aumentaram 6,9% e chegaram a US$ 858 milhões.",
+   "O saldo negativo foi afetado por fatores como custos de reestruturação e a situação financeira da Casas Bahia, credora da Whirlpool."
+  ],
+  "explicacao": [
+   "A decisão de menos promoções reflete uma estratégia cautelosa após grandes prejuízos financeiros.",
+   "A recuperação judicial da Casas Bahia, um dos principais credores da Whirlpool, também impacta sua situação.",
+   "Com a demanda por eletrodomésticos em declínio, as empresas estão repensando suas abordagens comerciais."
+  ],
+  "materia": "O anúncio sobre as promoções ocorreu um dia depois da divulgação dos resultados financeiros do terceiro trimestre (Foto: Whirlpool/Divulgação) A Whirlpool , multinacional responsável pelas marcas Brastemp e Consul, pretende adotar uma postura mais cautelosa nas campanhas promocionais de Black Friday deste ano. A decisão foi anunciada após a companhia registrar prejuízo de US$ 249 milhões , mais de R$ 1 bilhão, no terceiro trimestre de 2026. A estratégia deve atingir principalmente os mercados do México e do Brasil. O posicionamento foi apresentado por Ludovic Beaufils , executivo responsável pelas operações da empresa na América Latina. Durante uma teleconferência, Beaufils afirmou que a companhia está reduzindo, em certa medida, as atividades promocionais em diferentes mercados. Ele destacou especialmente o México e, em menor proporção, o Brasil. O executivo, porém, não detalhou quais medidas serão adotadas nem como a mudança deve afetar as ofertas disponíveis aos consumidores durante a Black Friday. O anúncio sobre as promoções ocorreu um dia depois da divulgação dos resultados financeiros do terceiro trimestre. Entre os fatores que podem ter contribuído para o desempenho negativo estão os custos de reestruturação e dificuldades em diferentes mercados. A empresa enfrenta impactos relacionados ao fechamento de operações no México , à perda de valor de mercado da Whirlpool Índia e à demanda enfraquecida por eletrodomésticos na América do Norte. Na contramão desse cenário, a divisão latino-americana apresentou crescimento. As vendas na região avançaram 6,9%, alcançando US$ 858 milhões no período. O resultado da multinacional também foi afetado pela situação financeira da Casas Bahia . A varejista, que passou por um processo de recuperação judicial, foi mencionada no balanço da Whirlpool. A companhia figurava entre os principais credores da rede e informou um encargo de US$ 54 milhões relacionado à recuperação judicial. O impacto reforça a exposição da fabricante de eletrodomésticos às dificuldades enfrentadas pelo varejo brasileiro, em um momento no qual a empresa também busca reduzir despesas e rever suas estratégias comerciais. Embora opere fábricas nos Estados Unidos, México e Índia, a maior unidade de refrigeração da marca no planeta fica no Brasil. A mega fábrica está localizada em Joinville , no Norte de Santa Catarina, onde são fabricados itens da Brastemp, Consul e KitchenAid. Na cidade desde 1950 , apenas em 1971 a Whirlpool se instalou no atual Distrito Industrial. A mudança ocorreu com a construção da Fábrica 2. A unidade da maior cidade de Santa Catarina, localizada na Rua Dona Francisca, tem 90% de sua mão de obra dedicada à fabricação de refrigeradores frost free , aparelhos com tecnologia que impede o acúmulo de gelo. Apesar disso, a planta produz todo o tipo de produtos de refrigeração, como frigobar, freezer e cervejeira. Os produtos demoram cerca de duas horas para serem produzidos. Porém, um produto mais complexo pode levar até quatro horas para passar por toda a linha de produção. De acordo com a companhia, 90% das peças que compõem os produtos da Whirlpool são feitas internamente. Este site usa cookies para fornecer serviços e analisar o tráfego. Política de privacidade",
+  "numeros": [
+   {
+    "valor": "249 milhões",
+    "rotulo": "prejuízo da Whirlpool"
+   },
+   {
+    "valor": "6,9%",
+    "rotulo": "crescimento das vendas na América Latina"
+   },
+   {
+    "valor": "54 milhões",
+    "rotulo": "encargo relacionado à Casas Bahia"
+   }
+  ],
+  "fonte": "Gazeta de São Paulo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Prejuízos que podem afetar a competitividade no mercado.",
+  "angulo": "Essa cautela da Whirlpool demonstra como as marcas precisam de estratégias eficientes de marketing e presença digital para se manterem relevantes.",
+  "gancho": "Atenção! *Redução de promoções* impacta o mercado!",
+  "ideias": [
+   "O que a redução de promoções significa para você?",
+   "Como se preparar para a Black Friday em tempos difíceis.",
+   "Entenda as mudanças no varejo e o que fazer a seguir."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://www.gazetasp.com.br/economia/apos-prejuizo-bilionario-dona-da-brastemp-e-consul-anuncia-menos-promocoes-na-black-friday-no-brasil-e-aponta-crise-no-varejo/",
+  "publicadoEm": "2026-11-11T13:15:00-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "O impacto da proibição das bets no varejo",
+  "resumo": "Com a proibição das apostas no Brasil, o varejo pode sentir mudanças significativas no consumo, especialmente durante o fim de ano. O que isso significa para as vendas?",
+  "fatos": [
+   "Em 2025, os aportes nas casas de apostas somaram R$ 229,5 bilhões, superando o orçamento do Ministério da Educação.",
+   "Das apostas, cerca de R$ 144 bilhões foram retirados do comércio em três anos, impactando diretamente as vendas.",
+   "Para cada R$ 1 bilhão apostado, o faturamento do varejo caiu 0,7%.",
+   "Cerca de 270 mil famílias ficaram inadimplentes devido ao vício em apostas, afetando especialmente as de baixa renda.",
+   "Após a proibição das apostas, o varejo alimentar registrou um aumento de 5% no consumo nas três primeiras semanas."
+  ],
+  "explicacao": [
+   "A proibição das apostas é resultado de um debate intenso sobre os efeitos sociais e econômicos associados a esse setor.",
+   "Com a saída das bets do jogo, há uma expectativa de redirecionamento do dinheiro que antes era apostado, podendo beneficiar o varejo.",
+   "A proibição gira em um contexto de dificuldades econômicas, onde consumidores buscam alternativas para melhorar sua situação financeira."
+  ],
+  "materia": "Poucos temas foram tão controversos e despertaram tanto debate público sobre seus impactos, ao longo dos últimos anos, quanto a liberação das “apostas de quota fixa”, as chamadas bets, autorizada em dezembro de 2018 e regulamentada ao longo de 2023. Os números eram mesmo assombrosos e dignos de atenção. De acordo com dados do próprio governo federal, que controla a arrecadação associada às plataformas autorizadas e legalizadas para atuar no País, os aportes feitos nas casas de aposta em 2025 (dinheiro transferido pelos apostadores para suas contas) chegaram a R$ 229,5 bilhões, o que dá mais de R$ 19 bi por mês. A título de comparação, as despesas do próprio Ministério da Educação chegaram a cerca de R$ 222 bilhões no mesmo ano; pasta que é a quinta com maior alocação orçamentária da União. A tendência dos aportes era de rápido crescimento mensal dos volumes monetários, até a estabilização em patamares financeiramente muito elevados para um país com características econômicas como as nossas. Mas foi em 2026 que o assunto ganhou maior notoriedade e visibilidade junto à sociedade em geral. Na Copa do Mundo, evento de comoção nacional e de enorme audiência, se falava de bets a todo momento. As publicidades que normalizavam o hábito de apostar em plataformas de amplo destaque, como a Cazé TV, e em emissoras de TV aberta, bem como todo o envolvimento do setor com o futebol, foram alvo de debate intenso. Além disso, ainda que quantitativamente pequenos, os afastamentos de trabalhadores por ludopatia (vício em jogos) vêm crescendo aceleradamente, junto com inúmeros relatos de famílias de todas as classes sociais com membros que têm vício e compulsão, destroem o próprio patrimônio e precisam ser internados ou enfrentam graves desequilíbrios socioemocionais. Há ainda o volume de beneficiários do Bolsa Família que, por um tempo, usavam parte do benefício para tentar “melhorar de vida com o jogo do tigrinho”, ainda que não seja possível determinar quanto do dinheiro apostado teve origem no próprio benefício, além de diversas outras implicações potencialmente negativas associadas à liberação dessa categoria de serviços. O varejo vinha apontando, havia alguns meses, por meio de suas associações setoriais e de seus líderes, alguns dos reflexos decorrentes da rápida migração desses fluxos monetários de setores tradicionalmente ligados ao consumo, para as apostas. Em meio ao duro cenário econômico dos últimos anos (altas taxas de juros, renda média das famílias em tendência de estabilização ou piora, aumento do custo de vida etc.) e à inadimplência muito alta das famílias, percebia-se uma redução significativa da verba disponível e utilizada para o consumo de bens e serviços. O estudo da CNC (Confederação Nacional do Comércio), feito em abril deste ano, estimava que as bets teriam retirado do comércio cerca de R$ 144 bilhões em pouco mais de três anos, a partir de janeiro de 2023, e, que para cada R$ 1 bilhão apostado, o faturamento do varejo recuava 0,7%. O estudo apontava ainda que cerca de 270 mil famílias teriam ficado inadimplentes por causa das apostas, com efeito mais nocivo entre as famílias de baixa renda. Esse impacto de R$ 144 bilhões equivale ao faturamento de duas temporadas de Natal, a época mais importante do ano para o varejo. Mas, por enquanto e até a conclusão de todas as disputas judiciais em curso sobre ao tema, tudo isso é passado. Durante a acirrada campanha eleitoral e com a questão em altíssima evidência, o governo federal decidiu, no final de setembro, proibir integralmente as bets no Brasil. Sem entrar no mérito de qual volume de apostas passou a ser direcionado às plataformas não autorizadas -em verificações que fiz pessoalmente, posso afirmar que quem quiser apostar não terá dificuldades em achar sites ou pessoas que ainda oferecem amplo acesso a bets, cassinos online e afins em múltiplas plataformas sediadas fora do País -, o fato é que, depois de toda essa transformação, entraremos no período promocional mais impo",
+  "numeros": [
+   {
+    "valor": "144 bilhões",
+    "rotulo": "perda no comércio"
+   },
+   {
+    "valor": "5%",
+    "rotulo": "aumento do consumo alimentar"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "A falta de vendas pode atingir sua lucratividade.",
+  "angulo": "Essa situação destaca a importância de estratégias de marketing e consumo que podem ajudar na recuperação financeira do seu negócio.",
+  "gancho": "*Proibição das bets* e o impacto no varejo!",
+  "ideias": [
+   "Varejo em mudança: o que esperar?",
+   "Finanças e apostas: um novo começo?",
+   "Como a proibição das bets afetará seu negócio?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://mercadoeconsumo.com.br/11/11/2026/artigos/como-sera-o-primeiro-fim-de-ano-no-varejo-com-as-bets-proibidas/",
+  "publicadoEm": "2026-11-11T12:15:16-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "El Niño pode impactar inflação e suas vendas",
+  "resumo": "O fenômeno pode aumentar a inflação para até 6% em 2027, afetando os preços no comércio. Empresários devem estar atentos aos efeitos no custo dos alimentos.",
+  "fatos": [
+   "Economistas estimam que o El Niño pode adicionar até 1 ponto percentual ao IPCA de 2027.",
+   "A inflação pode estourar o teto da meta de 4,5%, chegando a 6% segundo projeções do Itaú Unibanco.",
+   "O preço de alimentos, especialmente tomate e milho, já está sendo impactado.",
+   "O Banco Central manteve a Selic em 13,75%, enfrentando novos desafios inflacionários.",
+   "A produção de soja pode cair, afetando os preços de ração e carne.",
+   "A pressão da inflação pode se espalhar para serviços, aumentando custos para empresários."
+  ],
+  "explicacao": [
+   "O El Niño trouxe incertezas que afetam a produção agrícola, especialmente de milho e soja, essenciais para alimentação.",
+   "A expectativa é de altos preços de alimentos, o que pode desencadear revisões nas estimativas de inflação.",
+   "Empresários do setor alimentício e varejista devem se preparar para uma possível alta nos preços, refletindo em seus negócios."
+  ],
+  "materia": "Economistas estimam que o fenômeno climático acrescente até 1 ponto percentual ao IPCA de 2027, mas só parte desse impacto está nas projeções atuais. O risco de novas revisões passa pelo agronegócio O El Niño pode ser a gota d’água para a inflação de 2027 estourar o teto da meta, de 4,5%. A mediana do Focus para o IPCA do ano que vem chegou a 4,90%, e o Banco Central elevou sua estimativa para 4,7%. Na ata do Copom, o BC citou os efeitos do fenômeno sobre a produção agrícola e a energia. Só parte do impacto está nas contas. Pesquisa da XP mostra que o mercado espera efeito de 0,5 ponto do El Niño no IPCA de 2027, mas apenas 72% disso foi incorporado. No ABC Brasil, o impacto pode chegar a 1 ponto, mas só metade entrou na projeção, de 5%. A principal dúvida é a safra de grãos. Um atraso no plantio da soja pode prejudicar o milho e encarecer as carnes. Por ora, a pressão está nos alimentos in natura, como tomate e batata, e no etanol. O fenômeno se soma a outros choques, como o fim da escala 6x1, o câmbio e os combustíveis. Para o BC, que manteve a Selic em 13,75%, o desafio é evitar que a alta se espalhe para outros preços. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed O agronegócio é o termômetro para o impacto do El Niño na inflação brasileira em 2027. O tomate já encareceu. A produtividade da segunda safra de milho (chamada de safrinha) vai mostrar qual é o custo da ração de aves e suínos, que podem afetar o preço da carne. E é justamente essa parte do choque climático que ainda divide os economistas. Para saber quanto tempo o El Niño deve pressionar a inflação brasileira, os economistas ouvidos pelo NeoFeed estão de olho em produtos que não estão na cesta do IPCA. No Banco ABC Brasil, esse efeito sobre os preços de 2027 pode chegar a um ponto percentual. O banco incorporou metade disso à sua projeção de 5%. Sem essa parcela, a estimativa ficaria em 4,5% - no limite superior da banda de tolerância da meta. “Entendo quando vejo as projeções de outras casas caminhando para 5,5%. Tem todo espaço para acontecer isso na planilha. Ainda não incorporei porque estou esperando mais essa parte da colheita”, diz Francisco Lima, economista do ABC Brasil. Em uma sondagem feita pela XP no início de novembro com cerca de 25 gestoras e economistas, a mediana do impacto esperado do El Niño sobre o IPCA de 2027 foi de 0,5 ponto percentual. Desse efeito, apenas 72% já havia sido incorporado às projeções. A própria XP elevou sua projeção para o IPCA de 2027 de 4,4% para 5,5%, em razão da mudança na jornada de trabalho, do petróleo alto, do câmbio mais depreciado e da reforma tributária. Do impacto do El Niño, a casa incorporou entre 0,20 e 0,25 ponto percentual (p.p.), valor que já estava nas contas anteriores. Segundo Basiliki Litvac, economista da XP, o cenário-base da casa prevê que a alta dos alimentos atinja o pico na virada do ano e seja devolvida ao longo do segundo semestre de 2027, à medida que o fenômeno caminhe para a neutralidade, a partir de abril ou maio. O que pode mudar esse quadro são os grãos. Se o plantio de soja e milho coincidir com condições climáticas ruins, a quebra de safra se espalharia por toda a cadeia, da ração às carnes, e tornaria a pressão mais persistente. “O que ainda tem uma incerteza maior é se vai pegar grãos ou não. Acho que isso é o mais importante”, diz Basiliki. A margem para absorver novas pressões é pequena. A mediana do Focus para o IPCA de 2027 chegou a 4,90% no boletim divulgado no começo desta semana. O Copom elevou sua projeção de 3,9% para 4,7% na ata da reunião em que manteve a taxa Selic em 13,75% e interrompeu o ciclo de cortes do juro básico da economia. Na ata, o comitê citou os efeitos do El Niño sobre a produtividade agrícola e a geração de energia entre os choques que ajudam a explicar a piora do quadro inflacionário. Em áreas do Centro-Oeste, o milho da segunda safra é semeado logo depois da colheita da soja. Se a colheita atrasar, sobra menos tempo ",
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "ponto percentual ao IPCA por El Niño"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "previsto para a inflação em 2027"
+   },
+   {
+    "valor": "13,75%",
+    "rotulo": "taxa Selic atual"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "aumento inesperado nos custos e preços",
+  "angulo": "A alta na inflação traz desafios que exigem planejamento e estratégias em marketing e vendas para os negócios.",
+  "gancho": "*El Niño* pode aumentar sua inflação!",
+  "ideias": [
+   "Como se preparar para a inflação crescente?",
+   "O impacto do El Niño nas suas vendas!",
+   "Estratégias para enfrentar a alta dos preços!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://neofeed.com.br/negocios/el-nino-pode-esquentar-a-inflacao-para-ate-6-e-travar-a-selic/",
+  "publicadoEm": "2026-11-11T12:10:48-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: mudanças que impactam seu bolso",
+  "resumo": "O STF deve decidir sobre as novas regras trabalhistas que modificam a jornada de trabalho. Entenda como isso pode afetar sua renda e ambiente de trabalho.",
+  "fatos": [
+   "Até 13 de outubro, o ministro Flávio Dino apresentará uma decisão sobre a escala 6x1.",
+   "A Emenda Constitucional 141/2026 estabelece uma jornada máxima de 40 horas semanais.",
+   "A implementação será em duas etapas: 42 horas em 16/12/2026 e 40 horas em 16/12/2027.",
+   "Empresas que não negociam coletivamente não poderão reduzir jornadas automaticamente para 40 horas.",
+   "147 mil cláusulas coletivas necessitam ser revisadas até 16 de dezembro.",
+   "Micro e pequenas empresas têm dificuldades em se adaptar às novas regras."
+  ],
+  "explicacao": [
+   "A nova emenda altera a jornada de trabalho, buscando adequar as leis trabalhistas à realidade atual.",
+   "Isso pode afetar diretamente o cotidiano de trabalhadores, demandando adaptações nas escalas e contratos.",
+   "Para quem depende única e exclusivamente de trabalho assalariado, essas mudanças podem trazer incertezas em relação à renda."
+  ],
+  "materia": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), pretende apresentar até sexta-feira (13) uma decisão sobre a implementação do fim da escala 6x1. O posicionamento deverá esclarecer pontos relacionados à redução da jornada de trabalho, às negociações coletivas e à compensação dos dias de descanso, após audiência de conciliação realizada nesta terça-feira (10), em Brasília. A decisão será posteriormente submetida à análise do Plenário da Corte. O ministro é relator de duas ações apresentadas pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e pela Confederação Nacional da Indústria (CNI), que questionam o prazo e as condições para implementação das novas regras trabalhistas. Durante o encontro com representantes de empregadores, trabalhadores, governo e Congresso Nacional, Dino afirmou que a análise não pretende modificar o que foi aprovado pelo Legislativo. O objetivo é esclarecer a aplicação da Emenda Constitucional 141/2026 e estabelecer condições para que empresas e trabalhadores consigam cumprir as novas disposições. Um dos pontos antecipados pelo ministro é que a ausência de acordo coletivo não provocará a redução automática da jornada de 44 para 40 horas semanais em dezembro. Nesse cenário, deverá ser observada a etapa intermediária de 42 horas, conforme o cronograma aprovado pelo Congresso. Como será a transição para o fim da escala 6x1? A Emenda Constitucional 141/2026 alterou a Constituição Federal para estabelecer jornada máxima de 40 horas semanais e dois dias de repouso semanal remunerado, sem redução salarial. A implementação ocorrerá gradualmente, conforme o calendário definido pelo Congresso Nacional. A primeira mudança está prevista para 16 de dezembro de 2026, quando o limite semanal de trabalho passará de 44 para 42 horas. Nesse momento, também começa a aplicação da previsão de dois dias de descanso remunerado por semana. A segunda etapa ocorrerá um ano depois, em dezembro de 2027, quando a jornada máxima será reduzida novamente, de 42 para 40 horas semanais. A alteração deverá alcançar os contratos de trabalho em vigor, sem redução dos salários nominais ou dos pisos salariais. A emenda também prevê a possibilidade de convenções e acordos coletivos estabelecerem regimes de compensação diferenciados, inclusive para determinadas atividades profissionais. Nessas situações, deverá ser assegurada, em média, a concessão de dois dias de descanso remunerado dentro do mês-calendário, com pelo menos um deles dentro de cada período máximo de uma semana de trabalho. Falta de negociação não antecipa jornada de 40 horas Durante a audiência, Dino esclareceu que a falta de negociação entre empregadores e trabalhadores não fará com que a jornada máxima passe diretamente de 44 para 40 horas semanais em 16 de dezembro. O ministro afirmou que, mesmo sem acordo coletivo, deverá ser respeitada a redução inicial para 42 horas semanais. A manifestação busca esclarecer uma das preocupações apresentadas pelas entidades empresariais, que apontaram dificuldades para concluir as negociações dentro do prazo previsto na emenda. A Constituição prevê a possibilidade de negociação coletiva para ajustar a distribuição da jornada diária ao novo limite semanal. Por isso, o relator pretende esclarecer como essa exigência deverá funcionar durante a transição, sem alterar as etapas de redução aprovadas pelo Congresso. Dino também afirmou que pretende avaliar mecanismos para ampliar as possibilidades de compensação das folgas por meio de convenções e acordos coletivos. A discussão envolve principalmente atividades com regimes diferenciados, como trabalhadores embarcados, cujas escalas nem sempre permitem a concessão dos descansos no mesmo intervalo semanal. CNC e CNI pedem mais prazo para empresas se adaptarem As ações apresentadas pela CNC e pela CNI questionam aspectos da implementação da nova jornada. As entidades alegam que o período previsto para adaptação é insuficiente diante das mudanças necessárias nas escala",
+  "numeros": [
+   {
+    "valor": "40 horas",
+    "rotulo": "jornada máxima após as mudanças"
+   },
+   {
+    "valor": "42 horas",
+    "rotulo": "jornada inicial a partir de 16/12/2026"
+   },
+   {
+    "valor": "147 mil",
+    "rotulo": "cláusulas coletivas a serem revisadas"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "temores com a nova carga de trabalho e renda",
+  "angulo": "Entender as novas regras pode abrir portas para novos aprendizados no mercado financeiro, ajudando na adaptação às mudanças econômicas.",
+  "gancho": "O *fim da escala 6x1* traz desafios e oportunidades",
+  "ideias": [
+   "O que muda com o fim da escala 6x1?",
+   "Prepare sua empresa para as novas regras!",
+   "Como as mudanças trabalhistas afetam seu bolso?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80773/fim-da-6x1-ministro-deve-decidir-sobre-transicao-ate-sexta-13/",
+  "publicadoEm": "2026-11-11T11:45:01-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Empresários pedem adiamento do fim da escala 6x1",
+  "resumo": "O ministro Flávio Dino negou o pedido de empresários para prorrogar o fim da escala 6x1 até outubro de 2027. Isso pode afetar muitos trabalhadores e empresários.",
+  "fatos": [
+   "Flávio Dino rejeitou a solicitação de empresários para adiar o fim da escala 6x1.",
+   "A decisão pode impactar tanto trabalhadores quanto empregadores em relação à gestão de horários.",
+   "Os empresários esperavam uma prorrogação até outubro de 2027."
+  ],
+  "explicacao": [
+   "A medida está relacionada à necessidade de flexibilização na carga horária dos trabalhadores.",
+   "Com o fim da escala 6x1, muitas empresas precisarão se adaptar às novas regras.",
+   "Essa mudança pode gerar tensão na relação entre empregados e empregadores, afetando a rotina de trabalho."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Alma Preta Jornalismo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "dificuldade com horários e produtividade",
+  "angulo": "A mudança no regime de trabalho revela a importância de diversificar fontes de renda e aprender sobre o mercado financeiro.",
+  "gancho": "O *fim da escala 6x1* é definitivo!",
+  "ideias": [
+   "Como o fim da escala 6x1 afeta seu negócio?",
+   "Mudanças no emprego: o que isso significa para você?",
+   "Entenda o impacto da decisão de Flávio Dino!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://almapreta.com.br/sessao/politica/flavio-dino-stf-empresarios-adiar-6x1/",
+  "publicadoEm": "2026-11-11T12:36:57-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 impacta trabalhadores e empresários",
+  "resumo": "A decisão de Flávio Dino sobre o fim da escala 6x1 será apresentada até amanhã. Essa mudança pode afetar a rotina de trabalho e a gestão de negócios.",
+  "fatos": [
+   "A decisão será anunciada até esta sexta-feira, 13.",
+   "A mudança afeta trabalhadores que atuam em escalas longas.",
+   "Empresários precisarão se adaptar a novas regras de jornada."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 está sendo discutido como uma forma de melhorar as condições de trabalho.",
+   "Com essa mudança, muitos trabalhadores terão uma jornada mais equilibrada, o que pode resultar em mais qualidade de vida.",
+   "Empresários terão que reestruturar suas operações para se adequar à nova regulamentação."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Jornal Contábil",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "trabalhar longas horas e ter pouco tempo livre",
+  "angulo": "A adaptação ao mercado financeiro pode proporcionar maior flexibilidade, permitindo que você aumente sua renda sem depender só do salário.",
+  "gancho": "E agora, *como fica a sua rotina de trabalho?*",
+  "ideias": [
+   "O impacto da nova jornada de trabalho",
+   "Como se adaptar às novas regras?",
+   "A importância de diversificar sua renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://jornalcontabil.com.br/noticia/fim-da-escala-6x1-decisao-de-flavio-dino-sera-apresentada-ate-sexta-13/amp/",
+  "publicadoEm": "2026-11-11T13:58:33-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: um novo desafio no trabalho",
+  "resumo": "Gilmar Mendes, do STF, defende a negociação coletiva para acabar com a escala 6x1, permitindo adaptações conforme as necessidades de cada setor. Isso pode impactar as relações trabalhistas.",
+  "fatos": [
+   "Gilmar Mendes, do STF, defendeu negociação coletiva para o fim da escala 6x1.",
+   "Ele destacou que a Emenda Constitucional 141 permite essas negociações.",
+   "O evento aconteceu no SindiMais 2026, em São Paulo.",
+   "Mendes acredita na importância de adequar as regras ao contexto de cada setor.",
+   "A ideia é que a autonomia coletiva seja a base para a reforma trabalhista."
+  ],
+  "explicacao": [
+   "A Emenda Constitucional 141 busca modernizar as relações de trabalho através da negociação coletiva.",
+   "Isso permite que sindicatos e empregadores ajustem a jornada de trabalho às particularidades de cada setor.",
+   "Com a mudança, questões relativas à jornada e folgas poderão ser discutidas diretamente, promovendo maior flexibilidade."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O ministro Gilmar Mendes , do STF (Supremo Tribunal Federal), defendeu a negociaÃ§Ã£o coletiva entre sindicatos de trabalhadores e empregadores para viabilizar o fim da escala 6x1 . Segundo ele, ao aprovar a emenda constitucional 141 , o Congresso Nacional escolheu este caminho para tratar das controvÃ©rsias que a reduÃ§Ã£o da jornada de trabalho decorrente da implantaÃ§Ã£o da escala 5x2 possa trazer a diferentes setores , e o Supremo deve referendar a escolha. A afirmaÃ§Ã£o foi feita na manhÃ£ desta quarta-feira (11), na abertura do SindiMais 2026, evento que reÃºne sindicatos, trabalhadores e empresas, em SÃ£o Paulo. \"Gostaria de destacar que a emenda apostou na negociaÃ§Ã£o coletiva\", disse. \"A resposta foi, sem renunciar Ã regra geral, confiar a sua adaptaÃ§Ã£o Ã autonomia coletiva. Isso impÃµe aos sindicatos e aos empregadores aqui presentes a responsabilidade de construir, nos prÃ³ximos meses, os instrumentos que farÃ£o a reforma funcionar. Funcionar conforme a realidade de cada setor.\" Conforme o ministro, questÃµes que forem levadas Ã JustiÃ§a serÃ£o resolvidas caso caibam ao JudiciÃ¡rio. Em entrevista ao fim do evento, confirmou que a negociaÃ§Ã£o coletiva serÃ¡ levada em conta pelo STF, jÃ¡ que a corte reafirmou o que trouxe a reforma trabalhista de 2017, de que o acordado vale mais do que o legislado, desde que nÃ£o fira a ConstituiÃ§Ã£o. \"HÃ¡ uma grande aposta naquilo que Ã© um valor de decisÃµes anteriores do Supremo Tribunal Federal, que Ã© o acordo e convenÃ§Ãµes coletivas. A ideia de que o acordado sobrepuja o legislado. Tudo isso me parece importante no arranjo, nesta nova construÃ§Ã£o\", disse. A newsletter sobre o mundo jurÃ­dico exclusiva para assinantes da Folha \"NÃ³s temos bastante convicÃ§Ã£o de que esse serÃ¡ o adequado encaminhamento e a prÃ³pria PEC tem enfatizado neste sentido. Acho que haverÃ¡ um bom encaminhamento. Claro, sem que necessÃ¡rio, haverÃ¡ intervenÃ§Ã£o da JustiÃ§a.\" Para o ministro, a mudanÃ§a na jornada representa um exemplo de como Legislativo, JudiciÃ¡rio e representantes dos trabalhadores e das empresas podem atuar de forma complementar para melhorar e atualizar as relaÃ§Ãµes de trabalho. Mendes reforÃ§ou que, enquanto o Congresso estabelece as regras, cabe ao Supremo garantir que as mudanÃ§as respeitem a ConstituiÃ§Ã£o e ofereÃ§am seguranÃ§a jurÃ­dica. O ministro elogiou as exceÃ§Ãµes da emenda constitucional 141 que permitem que as folgas sejam distribuÃ­das ao longo do mÃªs-calendÃ¡rio, e disse que a previsÃ£o de legislaÃ§Ã£o especÃ­fica para subsidiar micro e pequenas empresas tambÃ©m Ã© um destaque. Para ele, a previsÃ£o de negociaÃ§Ã£o coletiva Ã© importante porque uma regra uniforme poderia produzir efeitos diferentes em atividades com caracterÃ­sticas muito distintas. Sem considerar essas particularidades, a reduÃ§Ã£o da jornada poderia elevar custos, afetar a produtividade e atÃ© comprometer postos de trabalho. \"Uma fÃ³rmula uniforme para setores profundamente heterogÃªneos cobraria um preÃ§o em custos, produtividade e emprego\", afirmou. AlÃ©m da reduÃ§Ã£o da jornada, o ministro tratou ainda de aÃ§Ãµes que o STF deve julgar e que afetam o mundo do trabalho, como a uberizaÃ§Ã£o e a pejotizaÃ§Ã£o, esta Ãºltima sob sua relatoria. No caso da pejotizaÃ§Ã£o, ele disse que a audiÃªncia pÃºblica realizada no ano passado ajudou a entender que nÃ£o existe sÃ³ um tipo de pejotizaÃ§Ã£o, mas vÃ¡rios caminhos. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o ",
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "emenda constitucional"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "Incerteza sobre a estabilidade do emprego e da renda.",
+  "angulo": "A flexibilidade nas negociações pode aliviar as pressões financeiras, mas exige conhecimento do mercado de trabalho.",
+  "gancho": "*Negociações coletivas* podem mudar seu trabalho!",
+  "ideias": [
+   "Fim da escala 6x1: O que muda?",
+   "Como negociar sua jornada?",
+   "O impacto da nova emenda em sua profissão"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "congresso",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-11T14:30:04-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gilmar-mendes-defende-negociacao-coletiva-para-viabilizar-fim-da-escala-6x1.shtml",
+  "publicadoEm": "2026-11-11T12:23:00-03:00",
+  "data": "2026-11-11",
+  "id": "2026-11-11-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Como o digital molda o varejo de calçados",
   "resumo": "O avanço digital transforma o varejo de calçados, exigindo evolução na estrutura de vendas e operação. Conheça os impactos e como sua empresa pode se adaptar.",
   "fatos": [
