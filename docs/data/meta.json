@@ -1,38 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-10T18:36:22-03:00",
-  "novas": 8,
+  "ultimaColeta": "2026-11-10T22:32:29-03:00",
+  "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): Desmistificando o fim da escala 6x1 para trabalhadores; Fim da escala 6x1: flexibilização em pauta; Flexibilização de folgas após escala 6x1.",
-  "falhas": [
-   "Agência Câmara (ConnectTimeout)"
-  ],
-  "manual": false,
-  "historico": [
-   "2026-11-10T18:36:22-03:00",
-   "2026-11-10T14:20:47-03:00",
-   "2026-11-10T00:52:06-03:00",
-   "2026-11-09T20:55:46-03:00",
-   "2026-11-09T17:14:12-03:00",
-   "2026-11-08T22:17:11-03:00",
-   "2026-11-08T17:05:26-03:00",
-   "2026-11-08T13:24:39-03:00",
-   "2026-11-07T21:57:04-03:00",
-   "2026-11-07T16:47:17-03:00",
-   "2026-11-07T12:57:06-03:00",
-   "2026-11-06T22:23:00-03:00"
-  ]
- },
- "vpr": {
-  "ultimaColeta": "2026-11-10T18:36:22-03:00",
-  "novas": 7,
-  "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Mudanças na CBS: o que isso pode significar para o seu negócio?; PMEs priorizam margem, mas esquecem do cliente; Como a gestão adequada evita brigas familiares no patrimônio.",
+  "mensagem": "5 pauta(s) nova(s): Fim da escala 6x1: impacto no bolso e nas empresas; A mudança da escala 6x1 impacta seu bolso; Mudança na jornada de trabalho: fim da escala 6x1.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-10T22:32:29-03:00",
    "2026-11-10T18:36:22-03:00",
    "2026-11-10T14:20:47-03:00",
    "2026-11-10T00:52:06-03:00",
@@ -43,8 +19,30 @@
    "2026-11-08T13:24:39-03:00",
    "2026-11-07T21:57:04-03:00",
    "2026-11-07T16:47:17-03:00",
-   "2026-11-07T12:57:06-03:00",
-   "2026-11-06T22:23:00-03:00"
+   "2026-11-07T12:57:06-03:00"
+  ]
+ },
+ "vpr": {
+  "ultimaColeta": "2026-11-10T22:32:29-03:00",
+  "novas": 4,
+  "atualizadas": 0,
+  "status": "ok",
+  "mensagem": "4 pauta(s) nova(s): Gemini 4 Carbon: potencializando sua equipe com IA; Amazon lança Alexa+ para navegadores no Brasil; A seletividade do consumidor pode afetar seus negócios.",
+  "falhas": [],
+  "manual": false,
+  "historico": [
+   "2026-11-10T22:32:29-03:00",
+   "2026-11-10T18:36:22-03:00",
+   "2026-11-10T14:20:47-03:00",
+   "2026-11-10T00:52:06-03:00",
+   "2026-11-09T20:55:46-03:00",
+   "2026-11-09T17:14:12-03:00",
+   "2026-11-08T22:17:11-03:00",
+   "2026-11-08T17:05:26-03:00",
+   "2026-11-08T13:24:39-03:00",
+   "2026-11-07T21:57:04-03:00",
+   "2026-11-07T16:47:17-03:00",
+   "2026-11-07T12:57:06-03:00"
   ]
  }
 }
