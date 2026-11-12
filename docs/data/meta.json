@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-11T19:24:59-03:00",
+  "ultimaColeta": "2026-11-11T23:34:39-03:00",
   "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Governo propõe retirar R$ 10,5 bi em subsídios do diesel; Governo propõe ajustes que podem afetar sua renda; Ajuste fiscal impacta seu bolso até 2027.",
+  "mensagem": "6 pauta(s) nova(s): Ajuste Fiscal: Implicações para seu bolso; Aumento de impostos pode pressionar sua renda; Ajuste fiscal e impacto nos supersalários do funcionalismo.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-11T23:34:39-03:00",
    "2026-11-11T19:24:59-03:00",
    "2026-11-11T14:30:04-03:00",
    "2026-11-10T22:32:29-03:00",
@@ -18,19 +19,19 @@
    "2026-11-09T17:14:12-03:00",
    "2026-11-08T22:17:11-03:00",
    "2026-11-08T17:05:26-03:00",
-   "2026-11-08T13:24:39-03:00",
-   "2026-11-07T21:57:04-03:00"
+   "2026-11-08T13:24:39-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-11T19:24:59-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-11-11T23:34:39-03:00",
+  "novas": 8,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Reforma Tributária: prazo para pequenas empresas se adequar é ampliado; Queda de 4% no varejo: o que fazer?; Shopee registra alta de 90% nas vendas mês da Black Friday.",
+  "mensagem": "8 pauta(s) nova(s): Cuidado com o *monopólio da Meta* no WhatsApp; Como a multa da Meta pode impactar seu negócio; Mudanças nas escalas de trabalho: entenda os impactos.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-11T23:34:39-03:00",
    "2026-11-11T19:24:59-03:00",
    "2026-11-11T14:30:04-03:00",
    "2026-11-10T22:32:29-03:00",
@@ -41,8 +42,7 @@
    "2026-11-09T17:14:12-03:00",
    "2026-11-08T22:17:11-03:00",
    "2026-11-08T17:05:26-03:00",
-   "2026-11-08T13:24:39-03:00",
-   "2026-11-07T21:57:04-03:00"
+   "2026-11-08T13:24:39-03:00"
   ]
  }
 }
