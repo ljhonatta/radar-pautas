@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-11T23:34:39-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-12T14:46:13-03:00",
+  "novas": 3,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Ajuste Fiscal: Implicações para seu bolso; Aumento de impostos pode pressionar sua renda; Ajuste fiscal e impacto nos supersalários do funcionalismo.",
+  "mensagem": "3 pauta(s) nova(s): Fim da escala 6x1 gera novas possibilidades de trabalho; Fim da escala 6x1: novidades para empresas em 2026; Fim da escala 6x1: mudanças que impactam seu bolso.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-12T14:46:13-03:00",
    "2026-11-11T23:34:39-03:00",
    "2026-11-11T19:24:59-03:00",
    "2026-11-11T14:30:04-03:00",
@@ -18,19 +19,19 @@
    "2026-11-09T20:55:46-03:00",
    "2026-11-09T17:14:12-03:00",
    "2026-11-08T22:17:11-03:00",
-   "2026-11-08T17:05:26-03:00",
-   "2026-11-08T13:24:39-03:00"
+   "2026-11-08T17:05:26-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-11T23:34:39-03:00",
-  "novas": 8,
+  "ultimaColeta": "2026-11-12T14:46:13-03:00",
+  "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): Cuidado com o *monopólio da Meta* no WhatsApp; Como a multa da Meta pode impactar seu negócio; Mudanças nas escalas de trabalho: entenda os impactos.",
+  "mensagem": "5 pauta(s) nova(s): Entenda como a inflação impacta seu negócio hoje; Black Friday 2026: R$ 11,5 bilhões no varejo!; Como a Black Friday pode impactar seu negócio.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-12T14:46:13-03:00",
    "2026-11-11T23:34:39-03:00",
    "2026-11-11T19:24:59-03:00",
    "2026-11-11T14:30:04-03:00",
@@ -41,8 +42,7 @@
    "2026-11-09T20:55:46-03:00",
    "2026-11-09T17:14:12-03:00",
    "2026-11-08T22:17:11-03:00",
-   "2026-11-08T17:05:26-03:00",
-   "2026-11-08T13:24:39-03:00"
+   "2026-11-08T17:05:26-03:00"
   ]
  }
 }
