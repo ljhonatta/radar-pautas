@@ -1,6 +1,461 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Confiança: a chave para vendas no varejo hoje",
+  "resumo": "Flavia Vagen, da HOPE, destaca a importância da confiança na experiência do cliente, revelando novas exigências para marcas no ambiente digital e físico.",
+  "fatos": [
+   "A experiência do cliente mudou: agora é medida também pela confiança e coerência.",
+   "Consumidores esperam constância de marca em todos os canais, aumentando a exigência por relação de valor.",
+   "A HOPE utiliza tecnologia para garantir uma experiência coerente entre loja física e digital.",
+   "Marcas que ignoram a experiência do cliente podem ver sua credibilidade e vendas afetadas.",
+   "A personalização, orientada por dados, deve ser equilibrada com a percepção do cliente sobre privacidade."
+  ],
+  "explicacao": [
+   "A mudança no comportamento do consumidor exige que as empresas revisem suas estratégias de comunicação e marketing.",
+   "Construir uma relação de confiança é agora essencial para garantir a recorrência nas compras, não apenas transações pontuais.",
+   "As marcas devem coletar feedbacks e alinhar suas operações para atender a essa exigência, garantindo um alinhamento entre performance interna e percepção do cliente."
+  ],
+  "materia": "A régua da experiência do cliente mudou de lugar. Se por anos o sucesso de uma marca era medido pela velocidade da conversão, ou seja, o clique, a compra, o checkout mais curto, o consumidor atual cobra agora algo mais difícil de entregar: coerência e confiança. O consumidor transita entre loja física e digital, entre WhatsApp e e-commerce, entre atendimento humano e automatizado, e espera encontrar a mesma marca em todos esses pontos. Mais maduro e menos impulsivo, esse consumidor não busca apenas preço, ou velocidade, ele busca relações de valor e recorrência, e pune qualquer ruído entre o que a marca promete e o que efetivamente entrega. Essa cobrança expôs um desalinhamento dentro das próprias empresas durante muito tempo e que fere um valor muito disputado hoje em qualquer setor: a confiança . Enquanto o consumidor avalia sua jornada como um todo, muitas organizações ainda medem a confiança por indicadores fragmentados de eficiência operacional, sem capturar a percepção real de quem está do outro lado. Fechar essa lacuna entre o que a operação mede e o que o cliente sente, tornou-se o campo de disputa atual em CX. Não é mais sobre ter o funil mais rápido, mas sobre construir uma jornada, clique a clique, a percepção de que a marca é a mesma em qualquer canal, em qualquer momento. “O desafio é entender que cada canal tem uma função diferente dentro dessa jornada, mas todos precisam carregar a mesma essência de marca”, afirma Flavia Vagen , diretora de Marketing, HOPE. Para entender a fundo essa visão conversamos sobre esse e outros desafios com a executiva. CM – Flavia, a HOPE opera fortemente com venda direta e relacionamento próximo com seus clientes. Como vocês garantem que essa proximidade – que é um diferencial de marca – se mantenha coerente à medida que a jornada se torna mais digital e multicanal hoje? Flavia Vagen – Acreditamos que a tecnologia deve ampliar a proximidade, e não substituí-la. Na HOPE, trabalhamos para que o cliente tenha uma experiência consistente em todos os pontos de contato, seja na loja física, no digital ou nas redes sociais. O desafio é entender que cada canal tem uma função diferente dentro dessa jornada, mas todos precisam carregar a mesma essência de marca . Hoje, usamos dados e tecnologia para compreender melhor os comportamentos e interesses das nossas clientes, mas sempre com o cuidado de manter uma comunicação relevante, humana e coerente com o momento de cada uma. CM – Você concorda que existe hoje um desalinhamento entre os indicadores internos de performance e a percepção real do cliente sobre a experiência com as marcas? Como a HOPE supera esse desafio e mede essa percepção para além dos indicadores tradicionais? Sim. Um bom resultado de venda, por exemplo, não necessariamente significa que tivemos uma boa experiência. Por isso, olhamos para os números como parte de uma leitura mais ampla, combinando indicadores de negócio com os sinais que recebemos diretamente das nossas clientes. Feedbacks, comportamento de recompra, interação nos canais digitais e percepção sobre produtos e serviços ajudam a entender o que os números, sozinhos, não mostram. Para nós, medir a experiência é também acompanhar se a cliente escolhe voltar e se a marca continua fazendo sentido para ela ao longo do tempo. CM – Em um mercado onde o consumidor está mais maduro e menos impulsivo, como é transformar confiança em recorrência de compra, e não apenas em uma venda pontual? A recorrência é consequência de uma relação construída de forma consistente. Não basta conquistar o cliente uma vez; é preciso entregar qualidade, relevância e uma experiência que faça sentido em diferentes momentos da vida. É justamente essa visão que está por trás do conceito “HOPE Todo Dia”, é ampliar a presença da marca para além de uma ocasião específica e acompanhar a mulher em diferentes momentos da sua rotina. Quando existe identificação e confiança, a compra deixa de ser apenas uma transação e passa a fazer parte da relação que a ",
+  "numeros": [],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Atendimento",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "perder clientes por falta de confiança na marca",
+  "angulo": "Em um cenário onde a confiança importa, entender a jornada do cliente se torna crucial para o sucesso da sua empresa.",
+  "gancho": "Como *a confiança transforma vendas*",
+  "ideias": [
+   "A jornada do cliente: mais que uma venda",
+   "Confiança: o novo objetivo do marketing",
+   "Construindo relações sólidas com o cliente"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://consumidormoderno.com.br/hope-confianca-de-marca-cx-cm-entrevista/",
+  "publicadoEm": "2026-11-13T13:51:27-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA na Black Friday: oportunidades e riscos para empresas",
+  "resumo": "Inteligência Artificial transforma a experiência de compra, mas traz desafios ao varejo e à privacidade dos dados. empresários devem se adaptar para não perderem vendas.",
+  "fatos": [
+   "A Black Friday de 2026 está marcada para 27 de novembro.",
+   "53% dos compradores online brasileiros utilizaram IA na compra mais recente.",
+   "A pesquisa ouviu 5.841 consumidores e 1.185 comerciantes em março de 2026.",
+   "O Brasil supera a média internacional de 47% e EUA com 46%.",
+   "65% dos consumidores consideram a aceitação do meio de pagamento um fator importante."
+  ],
+  "explicacao": [
+   "A crescente adoção de IA no comércio altera a maneira como os consumidores pesquisam e compram produtos. As empresas precisam garantir informações precisas e atualizadas em seus canais, evitando discrepâncias que podem levar à frustração do cliente.",
+   "Com o uso de assistentes de IA, a transparência nas ofertas se torna crucial, pois informações incompletas podem prejudicar a experiência de compra. As companhias devem se adaptar às novas expectativas dos consumidores, que desejam praticidade e segurança nas transações.",
+   "A integração entre plataformas de e-commerce e sistemas de pagamento se torna vital, exigindo que as empresas testem a jornada do cliente. Tudo isso no contexto da LGPD, que protege os dados pessoais dos consumidores e impõe responsabilidades às empresas."
+  ],
+  "materia": "A Black Friday de 2026, marcada para 27 de novembro , chega em meio a mudanças na maneira como os consumidores pesquisam e escolhem produtos. Presente há décadas nos sistemas de recomendação do comércio eletrônico, a Inteligência Artificial (IA) agora assume funções que vão muito além de sugerir ofertas. Antes, os algoritmos indicavam produtos com base no histórico de compras e navegação. Hoje, assistentes de IA conseguem responder a perguntas, comparar preços e características e ajudar o consumidor a decidir. Algumas ferramentas já permitem automatizar etapas da compra. Essa evolução promete mais praticidade, mas também levanta questões sobre privacidade, transparência das ofertas e segurança dos dados pessoais. O Global Digital Shopping Index 2026 , elaborado pela PYMNTS Intelligence , por encomenda da Visa Acceptance Solutions , revela que 53% dos compradores online brasileiros utilizaram Inteligência Artificial em alguma etapa da compra mais recente. O estudo ouviu 5.841 consumidores e 1.185 comerciantes no Brasil, nos Estados Unidos e nos Emirados Árabes Unidos, em março de 2026. Na comparação internacional, o Brasil supera a média dos três países, de 47%, e os Estados Unidos, com 46%. Entretanto, fica atrás dos Emirados Árabes Unidos, onde 72% dos compradores online recorreram à tecnologia. Os resultados mostram que a IA já participa da jornada de consumo, embora sua adoção varie entre os mercados. Para as empresas, o avanço representa um desafio: garantir informações confiáveis, integrar sistemas e respeitar as regras de proteção de dados pessoais. Para o consumidor, surgem outras questões. Até que ponto os algoritmos ajudam a encontrar a melhor oferta? E quando a personalização deixa de ser uma facilidade e passa a influenciar suas escolhas de maneira pouco transparente? Na Black Friday de 2026, a busca pelas melhores ofertas ganha novos caminhos . Em vez de consultar diferentes lojas, o consumidor pode recorrer a assistentes de IA para comparar modelos, preços, características e condições de entrega. Essa mudança também transforma a concorrência , já que as empresas precisam garantir que seus produtos sejam encontrados e compreendidos pelos sistemas responsáveis pelas recomendações. Para Kenneth Corrêa, estrategista de tecnologias emergentes e IA, autor do livro Organizações Cognitivas e professor da Fundação Getulio Vargas (FGV) , o desafio ultrapassa a apresentação dos produtos. “A transformação exige que as empresas preparem tanto a apresentação de seus produtos quanto a estrutura tecnológica que sustenta a operação. As marcas precisam conquistar espaço nas recomendações dos assistentes de IA e transformar essa visibilidade em vendas, com atenção à integração entre canais e à capacidade de acompanhar os resultados comerciais.” Na prática, informações incompletas podem prejudicar a experiência de compra. Um assistente que encontra preços desatualizados, por exemplo, pode recomendar uma oferta que já não está disponível. O mesmo problema ocorre com estoques, prazos de entrega e características técnicas. Por isso, o varejo precisa manter informações consistentes em seus diferentes canais. Além disso, as descrições devem responder às necessidades dos compradores . Quem procura um celular para fotografar à noite, por exemplo, precisa de informações que permitam comparar desempenho, preço e funcionalidades. A preparação das lojas também precisa alcançar a etapa de pagamento. Afinal, encontrar uma promoção não significa necessariamente conseguir concluir a compra nas condições anunciadas. Segundo a pesquisa da PYMNTS Intelligence, 65% dos consumidores consideram a aceitação do meio de pagamento preferido um fator que influencia a escolha da loja. O levantamento também aponta uma diferença entre a procura e a oferta de benefícios nos três países pesquisados. Enquanto 67% dos consumidores utilizam ou desejam utilizar cupons digitais, 58% dos comerciantes oferecem esse recurso. Para Eduardo de Barros, CEO da IDK Brasil e esp",
+  "numeros": [
+   {
+    "valor": "53",
+    "rotulo": "percentual de compradores brasileiros usando IA"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "Perda de vendas devido a informações desatualizadas",
+  "angulo": "A transformação digital exige que as empresas se adequem às novas expectativas dos consumidores, sob risco de perderem vendas. Conheça nossas soluções para otimizar sua presença online.",
+  "gancho": "IA pode ser *sua aliada ou uma armadilha*!",
+  "ideias": [
+   "Como a IA mudou as compras online",
+   "Desafios da IA para o varejo",
+   "O que é preciso para se adaptar à Black Friday"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://consumidormoderno.com.br/black-friday-inteligencia-artificial/",
+  "publicadoEm": "2026-11-13T17:36:07-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças no foodservice: sua empresa está preparada?",
+  "resumo": "A evolução do comportamento do consumidor impacta diretamente o setor de foodservice. Adaptar-se às novas tendências é crucial para o sucesso dos restaurantes brasileiros.",
+  "fatos": [
+   "O uso de Inteligência Artificial no Brasil alcançou 75% em 2025, ajudando na gestão de restaurantes.",
+   "A previsão é de que o delivery cresça 10,7% em 2025 comparado a 2024.",
+   "74% dos consumidores pedem delivery durante eventos culturais e esportivos.",
+   "Pedidos por pratos eram impulsionados por tendências virais, como um aumento de 2.300% em solicitações de morango do amor.",
+   "36% dos restaurantes notaram aumento na demanda por opções premium do dia a dia."
+  ],
+  "explicacao": [
+   "A crescente adesão da Inteligência Artificial permite que restaurantes automatizem processos, melhorem a gestão de estoque e atendam às demandas de forma mais ágil.",
+   "Eventos culturais tornam-se oportunidades de vendas, exigindo que os restaurantes adaptem seus cardápios e estratégias.",
+   "O consumidor busca experiências mais sofisticadas e diversificadas, o que exige inovação no cardápio e apresentação dos pratos.",
+   "As redes sociais potencializam a demanda por pratos que se tornam virais, criando uma necessidade de monitoramento constante.",
+   "Essas transformações exigem que os empresários se adecuem para se manter competitivos."
+  ],
+  "materia": "A palavra umami na cultura japonesa serve para descrever o “quinto sabor”, junto com doce, salgado, azedo e amargo. Um sabor “saboroso”, encorpado, associado a alimentos ricos em glutamato e outros aminoácidos. Essa é uma das tendências apontadas pelo estudo do iFood , em parceria com a WGSN , que projeta algumas transformações pontuais no setor do foodservice nos próximos anos no Brasil. Segundo Rafael Araujo , head de Consultoria para a América Latina na WGSN , tendências só ganham valor quando conectadas a grandes mudanças de comportamento. Por isso ele afirma que o cruzamento entre a visão de futuro da WGSN com a escala e os dados do ecossistema iFood é assertivo nesse sentido. “O estudo consegue mostrar não apenas para onde o foodservice está caminhando, mas como essas transformações já aparecem nas escolhas dos consumidores e na operação dos restaurantes brasileiros”, pontua Rafael. A seguir, você confere as 5 tendências para o foodservice no Brasil, segundo a WGSN. A Inteligência Artificial passa a atuar como uma camada operacional de inteligência, e não apenas como ferramenta de comunicação ou marketing. O uso de IA no dia a dia alcançou 75% dos brasileiros em 2025, ante 54% em 2024, criando um ambiente mais favorável para aplicações que apoiem a gestão de estoque, a previsão de demanda, a redução de desperdícios e a automação do atendimento. No foodservice, esse caminho aponta para operações capazes de tomar decisões com mais agilidade e, no futuro, para cozinhas cada vez mais autônomas, conectando sistemas, equipamentos e dados em tempo real. Com o delivery total crescendo 10,7% em 2025 na comparação com 2024, incorporar IA à operação pode ajudar restaurantes a ganhar escala, antecipar picos, ajustar compras e concentrar a equipe em atividades de maior valor para o consumidor. O umami nos últimos anos mostrou que brasileiro está buscando sabores mais profundos, contrastantes e construídos em camadas. Para 72% dos usuários do iFood, o paladar ficou mais complexo nos últimos anos . Entre os perfis que despertam interesse ou curiosidade, aparecem os defumados (38,2%), o agridoce (35,9%) e o picante (23,7%). Essa tendência amplia o espaço para ingredientes fermentados, técnicas asiáticas e combinações agridoce e defumadas em categorias que vão muito além da alta gastronomia. Contudo, essa complexidade precisa chegar bem ao destino: 65% dos restaurantes parceiros já modificaram receitas pensando exclusivamente no transporte. Testar molhos, texturas, embalagens e finalizações torna-se uma oportunidade para entregar uma experiência mais marcante sem perder a consistência entre a cozinha e a casa do cliente. O calendário cultural e esportivo passou a funcionar como gatilho de demanda. 74% dos consumidores já pediram delivery durante eventos culturais, esportivos ou datas comemorativas. Entre eles, 48% fizeram pedidos durante jogos de futebol, 30% em datas comemorativas e no Ano Novo, 24% em finais de novelas ou séries, 21% durante o BBB e 19% em shows ou festivais. Para os restaurantes, acompanhar o que o público está assistindo e comentando ajuda a criar cardápios temáticos, ofertas com timing preciso e novas ocasiões de consumo. Nas redes sociais, a velocidade é ainda maior. Os pedidos de morango do amor cresceram 2.300% em 2025, enquanto os de bolo pudim avançaram 128% em 2026. U seja, um viral pode gerar até 35% de aumento nos pedidos do aplicativo em um único mês , e 35% dos usuários dizem que a curiosidade pelo sabor os leva a experimentar comidas que viralizam. O movimento exige monitoramento, capacidade de resposta e cuidado com a operação, mas oferece aos restaurantes uma forma de transformar conversa cultural em descoberta, teste e venda. O premium deixa de significar apenas uma ocasião excepcional . Essa é uma outra tendência mapeada pelo estudo que impacta diretamente os negócios em food servisse. Para 36% dos restaurantes parceiros, cresceu a procura por opções mais sofisticadas no dia a dia. Entre os consumidor",
+  "numeros": [
+   {
+    "valor": "75",
+    "rotulo": "uso de IA no Brasil em 2025"
+   },
+   {
+    "valor": "10.7",
+    "rotulo": "crescimento do delivery em 2025"
+   },
+   {
+    "valor": "74",
+    "rotulo": "consumidores que pedem delivery em eventos"
+   },
+   {
+    "valor": "2,300",
+    "rotulo": "crescimento de pedidos de morango do amor"
+   },
+   {
+    "valor": "36",
+    "rotulo": "restaurantes que notaram demanda premium"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Varejo",
+  "publico": [
+   "Restaurantes",
+   "Comércio local"
+  ],
+  "dor": "Temor de não acompanhar as novas preferências dos consumidores.",
+  "angulo": "Compreender essas tendências é fundamental para adaptar suas estratégias. Conheça como o marketing digital e a automação podem ajudar sua empresa a se destacar.",
+  "gancho": "revele *as novas demandas do consumidor*",
+  "ideias": [
+   "5 tendências que todo restaurante deve conhecer",
+   "Como adaptar seu cardápio às novas preferências?",
+   "Trazendo o premium para o dia a dia dos clientes"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://consumidormoderno.com.br/foodservice-brasil-tendencias-cx-cm/",
+  "publicadoEm": "2026-11-13T18:28:50-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Shopee bate recorde em vendas e empresários devem agir",
+  "resumo": "A Shopee superou vendas da Black Friday de 2025, sendo mais de 95% realizadas por comerciantes locais. É crucial que empresários se adaptem a essa nova realidade de mercado.",
+  "fatos": [
+   "A Shopee registrou um recorde de vendas durante o evento 11.11, maior que a Black Friday de 2025.",
+   "95% das vendas vieram de comerciantes locais, incluindo pequenos empreendedores e grandes marcas.",
+   "Os consumidores utilizaram R$ 25 milhões em cupons durante o 11.11 de 2026.",
+   "As categorias de Casa e Eletrodomésticos representaram um terço do faturamento.",
+   "O Pix foi o meio de pagamento mais utilizado, com 52% dos pedidos, enquanto o cartão de crédito cresceu 121%.",
+   "A modalidade de entrega rápida, 'Turbo', registrou o maior volume de pedidos da sua história.",
+   "Os pedidos pelo serviço de Fulfillment da Shopee mais que triplicaram em relação à Black Friday do ano anterior."
+  ],
+  "explicacao": [
+   "O crescimento das vendas no 11.11 demonstra a eficácia das plataformas de e-commerce na geração de negócios.",
+   "Com consumidores se voltando para compras online, empresários devem fortalecer sua presença digital.",
+   "A relevância dos cupons e métodos de pagamento flexíveis, como o Pix, impacta diretamente na conversão de vendas."
+  ],
+  "materia": "A Shopee registrou recorde de vendas no Brasil durante o evento 11.11 e mais que dobrou o volume na comparação com a Black Friday de 2025. Mais de 95% das vendas foram realizadas por comerciantes locais, de pequenos empreendedores a grandes marcas. A plataforma também alcançou seu maior número de usuários ativos. “Fizemos do 11.11 de 2026 um dia histórico e, assim, concluímos a primeira etapa da nossa temporada de compras junto aos nossos vendedores e consumidores, que aproveitaram, apenas neste dia, R$ 25 milhões em cupons de desconto, 50 vezes mais do que disponibilizamos na primeira edição”, afirma Felipe Piringer, diretor de Marketing da Shopee. As categorias de Casa e Eletrodomésticos responderam por um terço do faturamento total da data. Os segmentos com maior crescimento foram pneus e rodas, esporte e fitness, cuidados com a casa e móveis. Já os itens mais vendidos em quantidade foram panetones, ventiladores, sabão em pó e fraldas. Na categoria de tecnologia, consoles de videogame, TVs e smartphones lideraram as vendas. Já ar-condicionado e geladeiras de quatro portas se destacaram pelo maior valor vendido. Em beleza, os produtos para cuidados com os cabelos, como tratamentos, escovas secadoras e chapinhas, além de itens de skincare, tiveram destaque. Entrega rápida O Turbo, modalidade de entrega em até quatro horas na Grande São Paulo, também registrou o maior volume de pedidos de sua história durante o 11.11. Itens de reposição lideraram a procura, com destaque para o segmento pet. Quatro dos cinco produtos mais pedidos foram rações e areias higiênicas para cães e gatos, seguidos por cerveja. Já as vendas pelo Fulfillment, serviço de armazenamento e envio de produtos da Shopee, mais que triplicaram em relação à Black Friday do ano passado. Meios de pagamento O Pix continuou como principal meio de pagamento, utilizado em 52% dos pedidos. O cartão de crédito, porém, registrou o maior crescimento. Os pedidos pagos nessa modalidade mais que dobraram (+121%) em relação à Black Friday de 2025, enquanto sua participação avançou de 32% para 37%. Imagem: Divulgação O post Shopee supera Black Friday de 2025 e bate recorde de vendas no 11.11 apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "95%",
+    "rotulo": "vendas de comerciantes locais"
+   },
+   {
+    "valor": "52%",
+    "rotulo": "pedidos pagos com Pix"
+   },
+   {
+    "valor": "121%",
+    "rotulo": "crescimento de pedidos com cartão de crédito"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "baixo conhecimento sobre o e-commerce pode levar à perda de vendas",
+  "angulo": "Com o crescimento do e-commerce, é vital que empresários atualizem suas estratégias digitais para não ficarem para trás.",
+  "gancho": "Descubra como *superar seus concorrentes*!",
+  "ideias": [
+   "5 dicas para se destacar no e-commerce",
+   "Por que o e-commerce é essencial hoje?",
+   "Varejo em alta: como crescer suas vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://mercadoeconsumo.com.br/13/11/2026/ecommerce/shopee-supera-black-friday-de-2025-e-bate-recorde-de-vendas-no-11-11/",
+  "publicadoEm": "2026-11-13T17:55:43-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Nova campanha de whisky traz Sabrina Carpenter ao jazz",
+  "resumo": "Damien Chazelle cria uma campanha publicitária que celebra o jazz com Sabrina Carpenter, chamando a atenção para a combinação de música e bebida.",
+  "fatos": [
+   "A nova campanha de Johnnie Walker é dirigida por Damien Chazelle, conhecido por 'La La Land'.",
+   "Sabrina Carpenter é a protagonista, apresentada como uma personagem da Nouvelle Vague.",
+   "A campanha inclui a criação de três drinks inspirados na artista, como o Go Go Highball.",
+   "Uma edição limitada de Johnnie Walker Black Label foi lançada, inspirada no álbum 'Man's Best Friend'.",
+   "A embalagem do whisky apresenta detalhes como patas de cachorro e é colorida de azul."
+  ],
+  "explicacao": [
+   "A campanha usa referências dos anos 60 e técnicas de câmera solta, criando uma estética diferente dos comerciais tradicionais de destilados.",
+   "A abordagem busca engajar o público jovem, utilizando cultura pop e música para criar uma conexão emocional com a marca.",
+   "A iniciativa está alinhada com a estratégia da Johnnie Walker de associar sua imagem a artistas e momentos culturais significativos."
+  ],
+  "materia": "Sabrina Carpenter entra num bar. Pede um drink. Circula pela festa. Pisca para a câmera. Some no meio da multidão e deixa o próprio cameraman procurando por ela. Não acontece muito mais do que isso no novo filme da Johnnie Walker . E essa é boa parte da graça. Dirigida por Damien Chazelle, de La La Land , Whiplash e Babylon , a campanha pega emprestados códigos da Nouvelle Vague francesa para transformar Sabrina Carpenter numa personagem que parece ter escapado de algum filme dos anos 1960 e entrado num bar de jazz com um copo de whisky na mão. A referência não é uma reprodução rigorosa de Godard ou Truffaut. O filme é colorido, polido e claramente publicitário. O que Chazelle captura é outra coisa: câmera solta, sensação de improviso, música ao vivo, quebra da quarta parede e uma narrativa mais interessada na presença da personagem do que em contar uma história com começo, meio e fim. O comercial acompanha a cantora enquanto ela atravessa um bar cheio, pede seu Go Go Highball e circula pela festa. A câmera se move de maneira deliberadamente pouco comportada. Vai e volta pelo espaço, perde Sabrina de vista, reencontra a cantora entre outras pessoas e reage à sua presença quase como outro convidado da noite. Em determinado momento, ela olha diretamente para a lente. É um pequeno rompimento daquilo que normalmente se espera de uma publicidade de destilado, categoria acostumada a copos perfeitamente iluminados, líquidos caindo em câmera lenta e protagonistas excessivamente conscientes da própria elegância. O filme é o novo capítulo de uma parceria de longo prazo entre a cantora e a Johnnie Walker. A colaboração inclui uma edição limitada de Johnnie Walker Black Label inspirada no álbum Man’s Best Friend , com azul associado à identidade visual de Sabrina e pequenos detalhes de patas de cachorro na embalagem. Há também três drinks criados a partir do universo da artista: Go Go Highball , Short N’ Sour e Man(hattan)’s Best Friend . O Go Go Highball que aparece no filme mistura Black Label, ginger ale e suco de cereja azeda. A embalagem limitada está chegando inicialmente a mercados da Europa, Austrália e América do Norte, com expansão prevista para outros países. Para a Johnnie Walker, Sabrina também faz parte de uma estratégia mais ampla de aproximação com música e cultura pop. No Brasil, a marca vem usando Keep Walking para contar trajetórias de artistas como Alaíde Costa, Paulinho da Costa e, mais recentemente, Ney Matogrosso . Aberto a membros do B9. Crie sua conta grátis para participar. Fundador do B9, host do Braincast e Cinemático. Escreve sobre mídia, publicidade e cultura digital há mais de 20 anos (geralmente tentando entender o hype antes que ele vire PowerPoint).",
+  "numeros": [
+   {
+    "valor": "3 drinks",
+    "rotulo": "criados para a campanha"
+   }
+  ],
+  "fonte": "B9",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "a perda de conexão com o público jovem e contemporâneo",
+  "angulo": "A inovação nas campanhas publicitárias mostra como o marketing pode atrair um novo público. Considerar a criação de um site ou gestão de redes pode fazer a diferença no seu negócio.",
+  "gancho": "Sabrina Carpenter em *nova campanha intrigante*",
+  "ideias": [
+   "A arte de inovar no marketing",
+   "Como uma marca se reinventa?",
+   "Tendências de marketing que fazem a diferença"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://www.b9.com.br/johnnie-walker-sabrina-carpenter-damien-chazelle-nouvelle-vague/",
+  "publicadoEm": "2026-11-13T18:18:54-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Vendas do comércio mostram *estabilidade* em setembro",
+  "resumo": "As vendas do comércio varejista tiveram uma variação de apenas 0,2% em setembro. Isso indica um panorama de estabilidade, após um recuo maior no trimestre anterior.",
+  "fatos": [
+   "As vendas variaram 0,2% de agosto para setembro.",
+   "O setor teve um recuo de -0,3% no terceiro trimestre em relação ao segundo.",
+   "No acumulado de 12 meses, o comércio cresceu 1,7%.",
+   "O comércio está 1% abaixo do maior ponto alcançado em março de 2026.",
+   "Cinco dos oito grupos pesquisados apresentaram variação positiva em setembro."
+  ],
+  "explicacao": [
+   "A estabilidade nas vendas é precedida de um período de quedas, revelando um cenário de incerteza.",
+   "Um resultado próximo de zero indica que mudanças significativas nas vendas estão dificultadas.",
+   "Embora algumas categorias tenham apresentado crescimento, o ambiente macroeconômico ainda causa preocupação para os empresários."
+  ],
+  "materia": "As vendas no comércio varejista variaram 0,2% na passagem de agosto para setembro . O desempenho faz com que o setor mostre recuo de -0,3% no terceiro trimestre, comparado ao segundo. No acumulado de 12 meses, o setor avança 1,7%. Os dados fazem parte da Pesquisa Mensal de Comércio (PMC), divulgada nesta sexta-feira, 13, pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Apesar de o resultado de agosto para setembro ter ficado no campo positivo, o gerente da pesquisa, Cristiano Santos, sinaliza que o desempenho deve ser visto como “estabilidade”. A média móvel trimestral, indicador que mostra a tendência de comportamento, revela que o período de três meses terminado em setembro variou -0,1% na comparação com o trimestre móvel até agosto. “Qualquer variação que esteja entre -0,5% e +0,5% é um resultado muito próximo de zero para ser interpretado como crescimento ou queda. Portanto, nesses últimos dois meses vemos um cenário de estabilidade, mas precedida de queda”. Ele lembra que a atual estabilidade foi precedida de queda. “A gente teve um crescimento concentrado no primeiro trimestre e, depois disso, queda ou estabilidade. Veja o comportamento do comércio ao longo de 2026, na comparação entre meses imediatamente seguidos: Janeiro: 0,5% Fevereiro: 0,7% Março: 0,5% Abril: -1,1% Maio: 0,2% Junho: 0,3% Julho: -0,8% Agosto: 0,2% Setembro: 0,2% No nível atual, o comércio se encontra 1% abaixo do maior ponto já alcançado, de março de 2026. Para Santos, há “acumulação do volume de vendas em um nível elevado”. Atividades Dos oito grupos de atividades pesquisados pelo IBGE, cinco apresentaram variação positiva em setembro na comparação com agosto: Equipamentos e material para escritório, informática e comunicação: 7,6% Combustíveis e lubrificantes: 2,8% Tecidos, vestuário e calçados: 2,5% Artigos farmacêuticos, médicos, ortopédicos e de perfumaria: 1,0% Livros, jornais, revistas e papelaria: 0,8%. Móveis e eletrodomésticos: -2,6% Hiper, supermercados, produtos alimentícios, bebidas e fumo: -0,5% Outros artigos de uso pessoal e doméstico: -0,3%. Atacado No comércio varejista ampliado, que inclui atividades de atacado ─ veículos, motos, partes e peças; material de construção; e produtos alimentícios, bebidas e fumo ─ o indicador variou positivamente 0,2% de agosto para setembro e marcou avanço de 1,3% no acumulado de 12 meses. Conjuntura da economia A Pesquisa Mensal de Comércio é a terceira de três levantamentos conjunturais divulgados mensalmente pelo IBGE. Nos últimos dias, o instituto revelou que o País apresentou recuo de 0,8% na indústria, na passagem de agosto para setembro, acumulando variação positiva de 0,2% em 12 meses. Já o setor de serviços, o que mais emprega no País, oscilou -0,1% em setembro e sobiu 1,9% ao longo de um ano. Com informações de Agência Brasil Imagem: Agência Brasil O post Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "0,2%",
+    "rotulo": "variação das vendas de agosto para setembro"
+   },
+   {
+    "valor": "-0,3%",
+    "rotulo": "recuo no terceiro trimestre"
+   },
+   {
+    "valor": "1,7%",
+    "rotulo": "crescimento acumulado em 12 meses"
+   },
+   {
+    "valor": "1%",
+    "rotulo": "abaixo do maior ponto alcançado"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "receio de queda nas vendas e clientes perdidos",
+  "angulo": "Diante da estabilidade nas vendas, uma gestão estratégica das redes sociais e tráfego pago pode ser fundamental para capturar novos clientes e aumentar as vendas.",
+  "gancho": "Vendas em *estabilidade* requerem uma nova abordagem",
+  "ideias": [
+   "Como gerenciar vendas em tempos de estabilidade",
+   "5 dicas para impulsionar seu comércio digital",
+   "A importância do marketing nas quedas de vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://mercadoeconsumo.com.br/13/11/2026/noticias-varejo/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade/",
+  "publicadoEm": "2026-11-13T11:18:48-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A nova lei tributária e seus desafios operacionais",
+  "resumo": "A Reforma Tributária e o split payment trazem mudanças significativas no setor de pagamentos. Empresas devem se adaptar rapidamente para evitar prejuízos financeiros.",
+  "fatos": [
+   "O split payment, parte da Reforma Tributária, retira impostos do caixa antes da operação.",
+   "A implementação do split payment está prevista para o segundo semestre de 2027.",
+   "A nova norma pode impactar o fluxo de caixa das empresas, exigindo adaptações.",
+   "Responsáveis alertam que o tempo de adaptação é menor que o necessário para adequação.",
+   "As empresas devem se preparar agora, pois os problemas podem surgir antes da implementação da nova regra."
+  ],
+  "explicacao": [
+   "A Reforma Tributária é uma mudança que visa melhorar a arrecadação de impostos, afetando diversas operações comerciais.",
+   "O split payment busca permitir que impostos sejam retidos de forma automática na transação, evitando surpresas futuras.",
+   "A adaptação a essas novas regras requer planejamento e gestão eficiente das finanças, principalmente em restaurantes e e-commerce."
+  ],
+  "materia": "Veja nossas notícias com mais destaque nas suas buscas. Veja nossas notícias com mais destaque nas suas buscas. Existe uma “premissa” que todo brasileiro segue quando uma nova regra ou lei é criada no país: que ela não vai pegar, vai ser contestada, ou vai ser adiada. Mas esse cálculo já não faz mais sentido. “Tem muita gente cuja reação é: será que cola mesmo? Será que alguém vai contestar?”, disse Giancarlo Grecco, CEO da bandeira Elo . “[Mas o movimento tem que ser] Vamos para a próxima página já. Vamos entender como vai ser a implementação e, obviamente, os custos e os riscos envolvidos”, pontuou. O executivo participou de painel sobre regulação durante o Zoop Summit 2026 , em São Paulo. E o argumento aqui não é uma questão moral. Mas sim operacional. Duas mudanças que estão redesenhando o setor de pagamentos no Brasil, por exemplo — a reforma tributária e a Resolução 522 do Banco Central — têm em comum o fato de que o trabalho de adaptação leva mais tempo do que o prazo que sobra depois que a regra fica clara. E, no caso da reforma, a regra vai chegar antes do mecanismo que a faz funcionar. O split payment ilustra bem isso. Ele virou o símbolo do que as empresas temem na reforma tributária: o imposto retido na origem, o dinheiro que sai do caixa e vai para o governo antes mesmo de entrar na operação. Mas e se a perspectiva fosse outra? “O problema vem não do split, mas sim do CVP, o crédito vinculado ao pagamento”, disse Cristiane Coelho, diretora-presidente da Confederação Nacional das Instituições Financeiras, a Fin, que subiu ao palco vindo de uma transmissão da Receita Federal exatamente para dar updates sobre a reforma. “O split vem melhorar o problema”, acrescentou. A mecânica é esta. Na reforma, o crédito tributário só existe se o tributo tiver sido efetivamente pago. “Se em janeiro você fez uma compra de um outro business esperando ter o crédito, você não vai ter, porque obviamente o seu fornecedor não pagou o tributo”, explicou a especialista. O split resolveria isso automaticamente, separando o imposto no momento da transação. Mas o split não entra em janeiro. A previsão é para o segundo semestre de 2027 . “Esse é o calendário que a gente tem hoje nas nossas diretrizes”, disse Cristiane. “Eu tenho colocado o desafio para ver se a gente consegue antecipar, mas é muito otimismo da minha parte”, ponderou. Oficialmente, não há data anunciada. O que não foi adiado é a reforma. Segundo ela, na transmissão da Receita com participação do Ministério da Fazenda, CNC, Fecomercio e Sebrae, a data de janeiro foi mantida. Sobraria um intervalo de pelo menos seis meses em que a regra nova vale sem a ferramenta que a sustenta. A solução apresentada pelo governo para atravessá-lo é uma apuração provisória : a empresa mapeia os créditos que espera ter dos fornecedores, paga apenas a diferença e acerta depois. “Se o seu fornecedor não pagar, lá na frente você terá que rever na apuração definitiva e pagar a mais”, disse Cristiane. Mas isso ainda carece de uma nova lei para entrar em prática. Ou seja, a ponte entre janeiro e o split existe hoje como intenção declarada, não como norma. Assim, quem estiver esperando o quadro ficar nítido para começar a se mexer vai esperar até depois de o problema ter começado. Do lado de quem vai operar tudo isso, o alerta foi mais concreto: a mudança não é tributária, é sistêmica. “A gente está começando a desenhar como é que o restaurante vai entender que ele vendeu 100 reais e recebeu só 80, e como ele reconcilia isso com o que cai no banco e com a nota fiscal”, disse Thomas Barth, COO da Zoop e do iFood Pago . “Mexe em todos os sistemas da empresa”, afirmou. Daí o conselho de não esperar a obrigatoriedade. “Não é uma coisa simples de trinta dias. A gente está nessa jornada há quase um ano”, afirmou. “Quando ela vier, talvez você tenha um espaço muito curto e precise parar a empresa para fazer tudo de uma vez”, alertou. Segundo ele, a Zoop é uma das três únicas empresas do país homologadas para op",
+  "numeros": [
+   {
+    "valor": "2027",
+    "rotulo": "data prevista para o split payment"
+   },
+   {
+    "valor": "6 meses",
+    "rotulo": "intervalo sem a nova ferramenta após a regra"
+   }
+  ],
+  "fonte": "Startups",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "perda de controle financeiro e aumento de custos operacionais",
+  "angulo": "Essa nova legislação pode impactar diretamente a saúde financeira da sua empresa, tornando essencial ter uma estratégia de marketing definida e uma presença online forte.",
+  "gancho": "O *que ninguém vê* pode te custar caro!",
+  "ideias": [
+   "Entenda o split payment e evite prejuízos!",
+   "Reforma Tributária: como se preparar?",
+   "As mudanças que podem impactar seu negócio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://startups.com.br/branded-content/apostar-que-a-lei-nao-vai-pegar-ficou-caro/",
+  "publicadoEm": "2026-11-13T17:00:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência Artificial na Black Friday: aliada ou armadilha?",
+  "resumo": "A IA transforma as compras na Black Friday, mas traz desafios para o varejo e questões de privacidade. Entenda o que isso significa para sua empresa.",
+  "fatos": [
+   "A Black Friday de 2026 será em 27 de novembro.",
+   "53% dos compradores online brasileiros usaram IA na última compra.",
+   "O Brasil supera a média internacional de 47% e os EUA com 46%.",
+   "As empresas devem garantir informações confiáveis e respeitar a LGPD.",
+   "65% dos consumidores consideram a aceitação do pagamento um fator decisivo na escolha da loja."
+  ],
+  "explicacao": [
+   "O uso de IA nas compras online está em ascensão, mudando como os consumidores pesquisam produtos.",
+   "As empresas precisam integrar seus sistemas e garantir dados consistentes para não perder clientes por informações erradas.",
+   "Compreender as necessidades do consumidor é crucial para competir efetivamente neste novo cenário."
+  ],
+  "materia": "A Black Friday de 2026, marcada para 27 de novembro , chega em meio a mudanças na maneira como os consumidores pesquisam e escolhem produtos. Presente há décadas nos sistemas de recomendação do comércio eletrônico, a Inteligência Artificial (IA) agora assume funções que vão muito além de sugerir ofertas. Antes, os algoritmos indicavam produtos com base no histórico de compras e navegação. Hoje, assistentes de IA conseguem responder a perguntas, comparar preços e características e ajudar o consumidor a decidir. Algumas ferramentas já permitem automatizar etapas da compra. Essa evolução promete mais praticidade, mas também levanta questões sobre privacidade, transparência das ofertas e segurança dos dados pessoais. O Global Digital Shopping Index 2026 , elaborado pela PYMNTS Intelligence , por encomenda da Visa Acceptance Solutions , revela que 53% dos compradores online brasileiros utilizaram Inteligência Artificial em alguma etapa da compra mais recente. O estudo ouviu 5.841 consumidores e 1.185 comerciantes no Brasil, nos Estados Unidos e nos Emirados Árabes Unidos, em março de 2026. Na comparação internacional, o Brasil supera a média dos três países, de 47%, e os Estados Unidos, com 46%. Entretanto, fica atrás dos Emirados Árabes Unidos, onde 72% dos compradores online recorreram à tecnologia. Os resultados mostram que a IA já participa da jornada de consumo, embora sua adoção varie entre os mercados. Para as empresas, o avanço representa um desafio: garantir informações confiáveis, integrar sistemas e respeitar as regras de proteção de dados pessoais. Para o consumidor, surgem outras questões. Até que ponto os algoritmos ajudam a encontrar a melhor oferta? E quando a personalização deixa de ser uma facilidade e passa a influenciar suas escolhas de maneira pouco transparente? Na Black Friday de 2026, a busca pelas melhores ofertas ganha novos caminhos . Em vez de consultar diferentes lojas, o consumidor pode recorrer a assistentes de IA para comparar modelos, preços, características e condições de entrega. Essa mudança também transforma a concorrência , já que as empresas precisam garantir que seus produtos sejam encontrados e compreendidos pelos sistemas responsáveis pelas recomendações. Para Kenneth Corrêa, estrategista de tecnologias emergentes e IA, autor do livro Organizações Cognitivas e professor da Fundação Getulio Vargas (FGV) , o desafio ultrapassa a apresentação dos produtos. “A transformação exige que as empresas preparem tanto a apresentação de seus produtos quanto a estrutura tecnológica que sustenta a operação. As marcas precisam conquistar espaço nas recomendações dos assistentes de IA e transformar essa visibilidade em vendas, com atenção à integração entre canais e à capacidade de acompanhar os resultados comerciais.” Na prática, informações incompletas podem prejudicar a experiência de compra. Um assistente que encontra preços desatualizados, por exemplo, pode recomendar uma oferta que já não está disponível. O mesmo problema ocorre com estoques, prazos de entrega e características técnicas. Por isso, o varejo precisa manter informações consistentes em seus diferentes canais. Além disso, as descrições devem responder às necessidades dos compradores . Quem procura um celular para fotografar à noite, por exemplo, precisa de informações que permitam comparar desempenho, preço e funcionalidades. A preparação das lojas também precisa alcançar a etapa de pagamento. Afinal, encontrar uma promoção não significa necessariamente conseguir concluir a compra nas condições anunciadas. Segundo a pesquisa da PYMNTS Intelligence, 65% dos consumidores consideram a aceitação do meio de pagamento preferido um fator que influencia a escolha da loja. O levantamento também aponta uma diferença entre a procura e a oferta de benefícios nos três países pesquisados. Enquanto 67% dos consumidores utilizam ou desejam utilizar cupons digitais, 58% dos comerciantes oferecem esse recurso. Para Eduardo de Barros, CEO da IDK Brasil e esp",
+  "numeros": [
+   {
+    "valor": "65",
+    "rotulo": "percentual de consumidores que consideram pagamento um fator decisivo"
+   },
+   {
+    "valor": "53",
+    "rotulo": "percentual de brasileiros que usaram IA"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Profissionais liberais",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas por falta de visibilidade e informações precisas",
+  "angulo": "Entender as demandas da nova era digital é vital; conheça como um bom planejamento e assessoria podem ajudar.",
+  "gancho": "*IA e Black Friday*: o que você precisa saber",
+  "ideias": [
+   "Por que a IA é essencial na Black Friday?",
+   "Como garantir que sua loja se destaque?",
+   "Os riscos da IA que todo empresário deve conhecer"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://consumidormoderno.com.br/black-friday-inteligencia-artificial/",
+  "publicadoEm": "2026-11-13T17:36:07-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-09"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Urgência no mercado revela necessidade de marketing eficiente",
   "resumo": "Mudanças no cenário econômico exigem pronto ajuste nas estratégias de marketing. Empresários devem se atentar à necessidade de se adaptar às novas realidades do mercado.",
   "fatos": [
@@ -446,6 +901,421 @@
   "publicadoEm": "2026-11-13T13:20:44-03:00",
   "data": "2026-11-13",
   "id": "2026-11-13-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: Impacto no trabalho e no bolso",
+  "resumo": "A Câmara contesta decisões sobre a nova jornada de trabalho, que pode afetar salários e regras de descanso. Mudanças em vigor têm implicações diretas para trabalhadores e empresas.",
+  "fatos": [
+   "A Câmara dos Deputados questiona decisões do ministro Flávio Dino no STF sobre a nova jornada de trabalho.",
+   "O calendário para redução de 44 para 40 horas semanais sem redução salarial já foi aprovado.",
+   "A transição começa em 16 de dezembro, quando o limite semanal cairá para 42 horas.",
+   "A jornada de 40 horas está prevista para outubro de 2027.",
+   "Dino autorizou a distribuição das 42 horas sem a necessidade de acordo coletivo, contestada pela Câmara."
+  ],
+  "explicacao": [
+   "A decisão sobre a jornada foi resultado de anos de debates no Congresso e busca garantir direitos trabalhistas e uma transição suave.",
+   "A Câmara defende que a alteração de prazos para a adaptação de contratos e compensação de horários fere a legislação aprovada.",
+   "Mudanças no calendário podem gerar confusão e insegurança tanto para trabalhadores quanto para empresários."
+  ],
+  "materia": "Câmara contesta ajustes de Dino nas regras de transição para o fim da escala 6x1 (Bruno Spada/Câmara dos Deputados/Agência Câmara) Publicado em 13 de novembro de 2026 às 16h49 . Última atualização em 13 de novembro de 2026 às 16h53 . A Câmara dos Deputados contestou decisões do ministro Flávio Dino no STF sobre a reforma da jornada de trabalho. A Casa defende que o Congresso tem competência exclusiva para definir o calendário de transição e questiona ajustes autorizados por Dino. O caso está em análise no plenário virtual do STF. A Câmara dos Deputados contestou decisões do ministro Flávio Dino no STF sobre a reforma da jornada de trabalho. A Casa defende que o Congresso tem competência exclusiva para definir o calendário de transição e questiona ajustes autorizados por Dino. O caso está em análise no plenário virtual do STF. A Câmara dos Deputados pediu ao Supremo Tribunal Federal (STF) que preserve o calendário definido pelo Congresso para a redução da jornada de trabalho e o fim da escala 6x1 . Na manifestação, a Casa contesta ajustes autorizados pelo ministro Flávio Dino por entender que eles alteram escolhas feitas pelos parlamentares na aprovação da emenda constitucional. A decisão está sob análise do plenário virtual do STF e, até o momento, recebeu dois votos pela manutenção. Embora Dino tenha preservado as datas de implementação da reforma, a Advocacia da Câmara questiona medidas relacionadas à compensação de horários, à adaptação de contratos públicos e às exceções às regras de jornada. A manifestação integra as ações apresentadas pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e pela Confederação Nacional da Indústria (CNI) contra dispositivos da emenda promulgada em outubro deste ano. O texto aprovado pelo Congresso estabelece a passagem de 44 para 40 horas semanais, sem redução salarial , e assegura dois dias de descanso remunerado por semana. A transição começa em 16 de dezembro, quando o limite semanal cai para 42 horas e passa a valer o direito aos dois dias de repouso. A jornada de 40 horas está prevista para outubro de 2027. Ao conceder parte das medidas cautelares solicitadas pelas entidades empresariais na quinta-feira, Dino manteve esse cronograma, mas autorizou mecanismos de adaptação. Entre eles está a distribuição das 42 horas semanais em jornadas de até 8 horas e 24 minutos por dia, sem a necessidade de acordo coletivo. Para a Câmara, essa autorização afasta uma exigência aprovada pelo Legislativo. A Casa sustenta que a Constituição prevê a participação dos sindicatos na compensação de horários e que a decisão modifica essa condição. Outro ponto contestado é a redução de um ano para 180 dias do prazo de adaptação dos contratos com a administração pública que envolvam mão de obra. Segundo a Advocacia da Câmara, o período definido na emenda considera as etapas administrativas e a disponibilidade de recursos orçamentários necessárias à revisão dos valores desses contratos. Na avaliação da Casa, a mudança determinada pelo ministro substitui uma decisão do Congresso sem demonstrar violação às cláusulas pétreas da Constituição. “A fixação judicial de prazo diverso do previsto no texto constitucional substitui a ponderação do Congresso Nacional por outra, em matéria que a própria Emenda já havia disciplinado com mecanismos de antecipação”, afirma a manifestação. A Câmara argumenta que o cronograma resultou de anos de debate e lembra que propostas de transição mais longa foram analisadas e rejeitadas durante a tramitação. “O calendário que as Requerentes pretendem substituir não é fruto de descuido do constituinte derivado, mas de escolha consciente, debatida e reiterada pelas duas Casas”, diz o documento. A manifestação também pede que o STF reveja o afastamento temporário de restrições à compensação dos dias de descanso e a ordem para que o Congresso regulamente, em 180 dias, regimes diferenciados de jornada e medidas de adaptação para microempresas e empresas de pequeno porte. A Cas",
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso por semana"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas semanais após a transição"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Aposentados"
+  ],
+  "dor": "precarização das condições trabalhistas e redução de rendimentos",
+  "angulo": "Entender as novas regras do mercado de trabalho é crucial para garantir segurança financeira e liberdade, tornando o aprendizado em finanças uma alternativa viável às amarras salariais.",
+  "gancho": "A nova jornada e *seus impactos* no seu bolso",
+  "ideias": [
+   "Como a nova jornada de trabalho altera sua vida?",
+   "O que você precisa saber sobre a reforma da jornada",
+   "Mudanças que podem afetar seu salário e direitos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://exame.com/brasil/escala-6x1-camara-defende-calendario-do-congresso-e-contesta-ajustes-de-dino-no-stf/",
+  "publicadoEm": "2026-11-13T13:49:33-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho afetarão seu bolso",
+  "resumo": "A discussão sobre a escala 6x1 e a jornada de trabalho pode impactar a forma como os trabalhadores lidam com sua renda. Conheça os possíveis efeitos dessa mudança.",
+  "fatos": [
+   "A Advocacia da Câmara contestou decisão do ministro Flávio Dino sobre a emenda que reduz jornada de trabalho de 44 para 42 horas semanais.",
+   "A emenda garante dois dias de folga semanais remuneradas a partir de 16 de dezembro.",
+   "Dino autorizou jornadas de até 8h24sem pagamento de horas extras e afastou limites para compensação de folgas.",
+   "O STF deve decidir se mantém esses pontos até a próxima segunda-feira, 16.",
+   "A emenda foi aprovada com amplo consenso no Congresso, o que reforça sua legitimidade."
+  ],
+  "explicacao": [
+   "A discussão sobre a mudança nas regras de trabalho reflete a busca por maior flexibilidade nas jornadas, o que pode agradar tanto trabalhadores quanto empresários.",
+   "Ao permitir aumento de horas sem horas extras, os empregadores têm mais liberdade administrativa, mas os funcionários precisam estar atentos à compensação das folgas.",
+   "Se aprovada, essa mudança pode afetar como os profissionais gerenciam suas finanças e buscam renda extra."
+  ],
+  "materia": "Entenda o que é a PEC do fim da escala 6x1 Guia do Adulto Premium explica o que você precisa saber sobre a PEC que foi aprovada e segue no Senado. Crédito: Roteiro: Larissa Burchard/Edição: Laís Nagayama/Videomaker: Felipe Pedro (Felps) Produção: Sara Helen A Advocacia da Câmara dos Deputados contestou a decisão do ministro Flávio Dino, do STF, sobre a emenda que altera a jornada de trabalho de 44 para 42 horas semanais. A Câmara defende a autonomia do Congresso para legislar sobre o tema e critica a tentativa do STF de legislar. A emenda prevê dois dias de folga semanais, mas Dino autorizou jornadas de até 8h24 sem horas extras. A Advocacia pede que o STF mantenha limites para compensação de folgas e respeite a separação de poderes. BRASÍLIA - A Advocacia da Câmara dos Deputados contestou pontos da decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), no âmbito das ações diretas de inconstitucionalidade movidas por confederações contra a emenda constitucional que acaba com a escala de trabalho 6x1 . Em manifestação, o órgão pede que o plenário da Corte não referende seis pontos da liminar . A manifestação foi protocolada durante o julgamento realizado no plenário virtual do STF, que deve ser concluído até o fim da manhã da próxima segunda-feira, 16. Nesta quinta-feira, 12, Dino manteve a transição prevista na emenda constitucional , segundo a qual a jornada de trabalho deve ser reduzida de 44 para 42 horas semanais a partir de 16 de dezembro , quando o trabalhador também passa a ter direito a duas folgas semanais remuneradas. No entanto, o ministro autorizou jornadas de até 8h24 sem pagamento de horas extras, afastou limites semanal e mensal para a compensação dos dias de descanso e fez apelos ao Congresso para regulamentar jornadas diferenciadas e votar, em até 180 dias, projetos para ajudar na adaptação de micro e pequenas empresas. Nesta sexta-feira, 13, os ministros Alexandre de Moraes e Cármen Lúcia acompanharam o relator. Com isso, o placar está 3 a 0 . Na manifestação, a Advocacia da Câmara dos Deputados pede que os ministros da Corte não referendem seis pontos da cautelar: Na manifestação, a Advocacia da Câmara dos Deputados argumenta que a emenda promulgada pelo Congresso teve amplo consenso. Segundo o texto, “poucas alterações constitucionais obtiveram adesão tão expressiva e tão transversal às diversas correntes políticas representadas no Parlamento”. O órgão defende a separação de funções estatais, que “exige que o exercício da soberania se dê de forma compartilhada por meio de funções legislativas, executivas e judiciais, vinculadas organicamente a poderes correlatos, sem que haja qualquer preponderância ou dominância de uma sobre outra”. O trecho remete a uma das principais críticas de parlamentares ao Supremo, que seria a tentativa de legislar sem ter atribuições para isso. Leia mais 6x1: Dino atende pleito de setores ao flexibilizar prazo para folgas e fortalece negociação sindical Fim da escala 6x1: veja perguntas e respostas sobre o que Dino definiu e o que continua valendo 6x1: Dino atende pleito de setores ao flexibilizar prazo para folgas e fortalece negociação sindical Fim da escala 6x1: veja perguntas e respostas sobre o que Dino definiu e o que continua valendo A Advocacia da Câmara ressalta que o Congresso tem autonomia para alterar a Constituição e, por isso, as regras sobre jornada de trabalho e repouso semanal remunerado previstas na emenda promulgadas são legítimas, uma vez que respeitam os limites constitucionais. O órgão defende que sejam mantidas as travas semanal e mensal para compensação das folgas remuneradas. “Pela primeira vez, a Constituição passou a admitir, de forma expressa, que o segundo dia de repouso seja distribuído ao longo do mês-calendário, inclusive para trabalhadores sujeitos a regimes diferenciados, desde que preservado o gozo de ao menos um dia em cada semana”, escreve. A emenda promulgada pelo Congresso prevê que acordos e convenções coletivas poderão estabele",
+  "numeros": [
+   {
+    "valor": "42",
+    "rotulo": "horas semanais após a emenda"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de folga semanais garantidos"
+   }
+  ],
+  "fonte": "Estadão Economia",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "Insegurança sobre a estabilidade da renda mensal",
+  "angulo": "A depender apenas do salário pode ser um risco. Aprender sobre mercado financeiro pode oferecer novas oportunidades de renda.",
+  "gancho": "Jornada de trabalho: *mudanças que impactam seu bolso*",
+  "ideias": [
+   "Como a nova jornada de trabalho pode afetar seu salário?",
+   "Folgas remuneradas: o que você precisa saber",
+   "A emenda do trabalho e suas implicações financeiras"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://www.estadao.com.br/economia/6x1-camara-contesta-parte-da-decisao-de-dino-e-pede-que-stf-nao-referende-flexibilizacao-de-folgas/",
+  "publicadoEm": "2026-11-13T17:19:51-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "A nova jornada de trabalho e seus impactos",
+  "resumo": "O STF mantém a transição da jornada 6x1 e flexibiliza regras, mudando a forma de trabalho por setor. Entenda como isso pode afetar sua rotina profissional e buscar alternativas de renda.",
+  "fatos": [
+   "O STF autorizou a transição da jornada de trabalho 6x1 a partir de 16 de dezembro de 2026.",
+   "As 42 horas semanais podem ser distribuídas em cinco dias, com jornadas de até 8h24, sem pagamento de horas extras.",
+   "Um período de 90 dias foi estabelecido para negociações de revisão de acordos coletivos.",
+   "Em 16 de dezembro de 2027, a jornada deve ser reduzida para 40 horas semanais.",
+   "Setores específicos poderão negociar jornadas diferenciadas, respeitando os direitos ao descanso semanal."
+  ],
+  "explicacao": [
+   "A decisão do STF visa facilitar a adaptação das empresas às novas jornadas de trabalho.",
+   "Sem acordos coletivos até 15 de dezembro, regras de 42 horas serão aplicadas até 15 de dezembro de 2027.",
+   "Pequenos negócios terão tratamento favorecido e poderão negociar condições específicas de trabalho."
+  ],
+  "materia": "Foto: Agência Senado from Brasilia, Brazil / Wikimedia Commons · CC BY 2.0 O ministro Flávio Dino, do Supremo Tribunal Federal (STF), concedeu uma liminar nesta quinta-feira (12) que mantém o início da transição para o fim da escala 6x1 em 16 de dezembro de 2026, mas flexibiliza algumas regras para a adaptação das empresas. A decisão permite que, na ausência de acordo ou convenção coletiva até 15 de dezembro, as 42 horas semanais sejam distribuídas em cinco dias de trabalho, com jornadas de até 8 horas e 24 minutos, sem pagamento de hora extra pelos 24 minutos excedentes à oitava hora diária. A autorização vale durante a etapa intermediária da mudança, até 15 de dezembro de 2027. Nesse período, a jornada semanal será de 42 horas, com dois dias de repouso remunerado. A redução para 40 horas semanais está prevista para começar em 16 de dezembro de 2027. A liminar foi concedida no âmbito de ações apresentadas pela Confederação Nacional da Indústria (CNI) e pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), que questionaram o prazo de adaptação previsto na Emenda Constitucional 141/2026. As entidades alegavam que o período de 60 dias seria insuficiente para reorganizar jornadas e negociar convenções coletivas. Dino rejeitou o pedido de adiamento da entrada em vigor das novas regras, mas estabeleceu alternativas para situações em que as negociações coletivas não sejam concluídas a tempo. Acordos coletivos terão prazo para revisão A decisão também estabelece um período de 90 dias, contado a partir de 16 de dezembro, para que sindicatos e empregadores negociem a eventual revisão de contrapartidas previstas em acordos e convenções coletivas que estejam em vigor. As cláusulas incompatíveis com a nova regra de jornada e descanso deixam de produzir efeitos com a entrada em vigor da emenda. As demais disposições dos instrumentos coletivos permanecem válidas até o término de sua vigência. Se não houver novo acordo ao fim dos 90 dias, as contrapartidas anteriormente negociadas não poderão ser extintas ou modificadas unilateralmente pelo empregador apenas por causa da ausência de renegociação. Compensação das folgas poderá ser flexibilizada Outro ponto da liminar trata da compensação dos dois dias de descanso remunerado. A decisão afasta as limitações temporais semanal e mensal previstas na emenda, permitindo que acordos e convenções coletivas estabeleçam prazos diferentes para a utilização das folgas. A flexibilização considera atividades com características operacionais específicas, como comércio e serviços em períodos de alta demanda, agricultura, turismo, hotelaria e trabalhos realizados em embarcações e plataformas marítimas. A condição é preservar integralmente o direito aos dois repousos semanais remunerados. Nos primeiros 90 dias de aplicação da emenda, caso não haja negociação coletiva sobre a compensação, os ministérios competentes poderão editar uma portaria conjunta com regras subsidiárias para o período de adaptação. Congresso deverá regulamentar situações específicas Flávio Dino também fez um apelo ao Congresso Nacional para que, no prazo de 180 dias, discipline os regimes diferenciados de trabalho e estabeleça regras específicas para a implementação da mudança por microempresas e empresas de pequeno porte. A decisão reconhece que alguns setores possuem jornadas diferenciadas previstas em lei, como profissionais de telemarketing e jornalistas. Para esses casos, o ministro defendeu a criação de normas que considerem as particularidades das atividades, sem retirar os direitos assegurados pela emenda. Em relação aos pequenos negócios, Dino apontou a necessidade de tratamento favorecido durante a adaptação, mas ressaltou que eventual diferenciação não poderá eliminar ou reduzir o direito à jornada semanal estabelecida e aos dois repousos remunerados. A liminar tem eficácia imediata, mas ainda será submetida à análise do plenário do STF nesta sexta-feira (13). Com informações da Exame O ministro Flávio Dino, d",
+  "numeros": [
+   {
+    "valor": "42",
+    "rotulo": "horas semanais permitidas inicialmente"
+   },
+   {
+    "valor": "90",
+    "rotulo": "dias para negociação coletiva"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de repouso semanal"
+   },
+   {
+    "valor": "180",
+    "rotulo": "dias para regulamentação no Congresso"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "perda de controle sobre a rotina de trabalho",
+  "angulo": "Aprender sobre o mercado financeiro pode se tornar uma alternativa viável para diversificar sua renda e se adaptar a mudanças na jornada de trabalho.",
+  "gancho": "Você está preparado para *novas jornadas de trabalho*?",
+  "ideias": [
+   "O futuro do trabalho: o que muda para você?",
+   "Jornada de trabalho: aproveite novas oportunidades!",
+   "Fim da escala 6x1: como se adaptar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80872/fim-da-6x1-stf-permite-jornada-de-8h24-na-transicao/",
+  "publicadoEm": "2026-11-13T15:30:01-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 pode impactar sua renda",
+  "resumo": "O STF mantêm a transição para a nova jornada de trabalho que reduz horas e aumenta dias de folga. Isso pode afetar seu salário e horários.",
+  "fatos": [
+   "O STF tem 4 votos para manter o fim da escala 6x1 em 16 de dezembro de 2026.",
+   "A nova jornada estipula a redução de 44 para 42 horas semanais e 2 dias de repouso remunerado.",
+   "Flávio Dino rejeitou pedidos de adiamento da implementação feitos por entidades como a CNC e a CNI.",
+   "A segunda etapa da mudança será em 16 de dezembro de 2027, reduzindo o limite para 40 horas semanais.",
+   "Os demais ministros devem votar até 16 de novembro de 2026 para atingir a maioria necessária."
+  ],
+  "explicacao": [
+   "A decisão do STF pode alterar a rotina de trabalho de muitos profissionais, impactando diretamente na sua renda.",
+   "Com a redução das horas trabalhadas e aumento dos dias de descanso, haverá mudanças no planejamento financeiro das pessoas.",
+   "Se a nova jornada for implementada, pode resultar em novos contratos de trabalho e renegociações de salários."
+  ],
+  "materia": "Moraes, Cármen e Gilmar já referendaram a decisão de Dino que preserva o calendário de transição para a nova jornada de trabalho O Supremo Tribunal Federal tem nesta 6ª feira (13.nov.2026) 4 votos para manter em 16 de dezembro o início da transição para a nova jornada de trabalho determinada com o fim da escala 6 X 1 . Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes acompanharam no plenário virtual o ministro Flávio Dino, que rejeitou na 5ª feira (12.nov) pedidos de entidades para adiar o começo da implementação. São necessários mais 2 votos para atingir maioria. Os outros 6 ministros devem depositar seus votos no sistema do Supremo até 2ª feira (16.nov). Se for mantido o calendário, a escala 6 X 1 acaba em 16 de dezembro deste ano, com a redução de 44 para 42 horas semanais de trabalho e um 2º dia de repouso remunerado. Já a 2ª etapa da mudança começará em 16 de dezembro de 2027, quando o limite de trabalho será definitivamente reduzido para 40 horas semanais, conforme a emenda constitucional promulgada pelo Congresso. O ministro Flávio Dino rejeitou os pedidos da CNC (Confederação Nacional do Comércio de Bens, Serviços e Turismo) e da CNI (Confederação Nacional das Indústrias) para adiar o início da implementação da nova jornada. Argumentou que não identificou violações constitucionais que justifiquem um adiamento. As entidades pedem que o Supremo suspenda esse calendário e estabeleça um período de transição de 12 meses para a 1ª etapa e de mais 12 meses para abaixar o limite até 40 horas semanais, como proposto pela emenda. Na decisão, Dino retirou as chamadas travas temporais impostas pela emenda constitucional às folgas remuneradas. Ele decidiu que esses repousos podem ser determinados por meio de acordo ou convenção coletiva, desde que preservados, na média do mês, os 2 dias de descanso semanais e ao menos uma folga por semana. “Para que não paire nenhuma dúvida, em hipótese alguma, será afastada a incidência da norma constitucional que assegura, após 16 de dezembro de 2026, o direito a 42 horas semanais e 2 (dois) repousos semanais remunerados” , escreveu. a) Para receber as informações solicitadas, você nos autoriza a usar o seu nome, endereço de e-mail e/ou telefone e assuntos de interesse (a depender da opção assinalada e do interesse indicado). Independentemente da sua escolha, note que o Poder360 poderá lhe contatar para assuntos regulares. b) Caso não deseje oferecer o seu consentimento para as divulgações do Poder360, é possível seguir sem receber as informações assinaladas acima. Você poderá, a qualquer momento, se descadastrar de nossos contatos ou revogar o consentimento dado abaixo pelos nossos canais de atendimento. c) O Poder360 garantirá o exercício de quaisquer direitos e prerrogativas de proteção de dados pessoais em conformidade com a Lei 13.709/2018. Mais informações, leia nossa Política de Privacidade . O Poder360 enviou um e-mail para você confirmar a inscrição. Clique no link enviado para o seu e-mail para concluir o cadastro. Não chegou ainda? Dê uma olhada na caixa de spam se a mensagem não tiver aparecido em alguns minutos.",
+  "numeros": [
+   {
+    "valor": "4",
+    "rotulo": "votos no STF"
+   },
+   {
+    "valor": "42",
+    "rotulo": "horas semanais após transição"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de repouso remunerado"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "precariedade da renda e instabilidade nos empregos",
+  "angulo": "A transição para a nova jornada de trabalho traz mudanças que podem abrir oportunidades financeiras, mas exige adaptação.",
+  "gancho": "*Mudanças no trabalho* e o impacto na sua renda",
+  "ideias": [
+   "Como a nova jornada afeta seu bolso?",
+   "Entenda a mudança nas horas trabalhadas",
+   "O que significa o fim da escala 6x1?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://www.poder360.com.br/poder-justica/stf-tem-3-votos-para-manter-o-fim-da-escala-6-x-1-em-dezembro/",
+  "publicadoEm": "2026-11-13T17:08:18-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Indústrias em crise: *confiança despenca* em novembro",
+  "resumo": "A confiança dos empresários industriais registrou queda significativa, atingindo o menor nível desde maio de 2020. Isso impacta diretamente decisões sobre produção e emprego no setor.",
+  "fatos": [
+   "A confiança dos empresários industriais caiu de 46,2 para 40,2 pontos em novembro.",
+   "O Índice de Confiança do Empresário Industrial (Icei) atingiu seu menor nível desde maio de 2020.",
+   "Este resultado representa a terceira maior queda mensal desde 2010.",
+   "O setor está 23 meses abaixo da linha de 50 pontos, indicando pessimismo.",
+   "O Índice de Expectativas caiu de 49,3 para 41,5 pontos, indicando piora nas perspectivas econômicas."
+  ],
+  "explicacao": [
+   "A queda na confiança dos empresários industriais reflete a insatisfação com a economia brasileira.",
+   "Esse pessimismo afeta decisões sobre contratações, produção e investimentos, o que pode aumentar o desemprego.",
+   "Indústrias estão repensando suas operações, o que gerará impacto na renda de muitos profissionais."
+  ],
+  "materia": "A confiança dos empresários industriais caiu seis pontos em novembro, passando de 46,2 para 40,2 pontos, segundo levantamento divulgado pela Confederação Nacional da Indústria (CNI) nesta sexta-feira (13). O Índice de Confiança do Empresário Industrial (Icei) chegou ao menor nível desde maio de 2020, quando marcou 34,7 pontos. Esta foi a terceira maior queda mensal desde o início da série histórica, em 2010. Com o resultado, o setor completa 23 meses abaixo da linha divisória de 50 pontos que separa o otimismo do pessimismo. Segundo Marcelo Azevedo, gerente de Análise Econômica da CNI, a falta de confiança já afeta decisões de contratação, produção e investimento, com possíveis reflexos sobre emprego, renda e crescimento econômico. O Índice de Condições Atuais recuou 2,3 pontos, para 37,7 pontos, o menor resultado desde julho de 2020. A avaliação negativa atingiu tanto a economia brasileira quanto o desempenho das próprias empresas. O Índice de Expectativas caiu 7,8 pontos, passando de 49,3 para 41,5. A retração foi puxada principalmente pela piora das perspectivas para a economia brasileira. O indicador de expectativas para as empresas ficou abaixo de 50 pontos pela primeira vez em mais de seis anos. A marca indica que os industriais também passaram a demonstrar pessimismo em relação ao desempenho dos negócios nos próximos seis meses. A pesquisa da CNI ouviu 1.104 empresas entre 3 e 9 de novembro de 2026 em todo o país. Participaram 463 pequenas, 407 médias e 234 grandes indústrias.",
+  "numeros": [
+   {
+    "valor": "6 pontos",
+    "rotulo": "queda na confiança dos empresários"
+   },
+   {
+    "valor": "23 meses",
+    "rotulo": "período em pessimismo"
+   },
+   {
+    "valor": "1.104 empresas",
+    "rotulo": "ouvidas na pesquisa para o Icei"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "tomar decisões em um cenário de incertezas econômicas",
+  "angulo": "Aprender a operar no mercado financeiro pode ser a saída para quem teme a instabilidade do emprego tradicional.",
+  "gancho": "Indústrias em *crise de confiança*!",
+  "ideias": [
+   "Confiança da indústria: o que significa para você?",
+   "Como a crise industrial afeta seu emprego?",
+   "O que fazer em tempos de incertezas econômicas?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020",
+  "publicadoEm": "2026-11-13T17:29:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novo pacote fiscal impacta seu bolso e negócios",
+  "resumo": "Aprovado o texto-base do novo pacote fiscal, que promete consequências para as contas públicas a partir de 2027. Essa mudança pode afetar o custo de vida e a estrutura empresarial no Brasil.",
+  "fatos": [
+   "O Senado aprovou o texto-base do PLP 299/2026 com 45 votos a favor e 31 contrários.",
+   "Medidas do pacote podem gerar um impacto positivo de R$ 45,1 a R$ 56,1 bilhões nas contas de 2027.",
+   "Quatro pontos do pacote ainda precisam ser votados na próxima terça-feira (17).",
+   "Entre as propostas estão redução de benefícios tributários e bloqueio de gastos para atingir a meta fiscal.",
+   "A proposta também limita o crescimento dos gastos públicos a 2% acima da inflação em certas circunstâncias."
+  ],
+  "explicacao": [
+   "O novo pacote fiscal surge da necessidade do governo de melhorar suas contas e conter a dívida pública.",
+   "As medidas têm como alvo o aumento da arrecadação e a contenção de despesas, mas a eficácia a longo prazo é discutível.",
+   "As mudanças podem ter impacto direto em setores que dependem de benefícios fiscais e do fluxo de caixa do governo."
+  ],
+  "materia": "O novo pacote fiscal proposto pelo governo dominou o noticiário nos últimos dias e promete ter impacto direto nas contas públicas a partir de 2027. Na quinta-feira (12), o Senado Federal aprovou o texto-base do projeto de lei complementar (PLP) 299/2026 , que reúne uma série de medidas para melhorar o resultado fiscal do próximo ano. Segundo estimativas do Executivo apresentadas aos senadores, as medidas podem gerar um impacto positivo de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027. O indicador corresponde à diferença entre as receitas e as despesas do governo, sem considerar os juros da dívida pública. A proposta foi aprovada por 45 votos a favor e 31 contrários, após negociações entre o governo e os parlamentares que levaram a mudanças no texto original. A votação, porém, ainda não foi concluída: quatro pontos ficaram pendentes e devem ser analisados na próxima terça-feira (17). Além disso, o projeto ainda precisa passar pela Câmara dos Deputados antes de seguir para sanção presidencial. Mas, afinal, o que está previsto no pacote fiscal, de onde deve vir essa economia e como o mercado recebeu as medidas? Entenda os principais pontos da proposta e o que pode mudar nas contas do governo. Governo corre contra o tempo para aprovar ajuste fiscal A apresentação do pacote ocorre em meio à pressão do mercado financeiro por medidas capazes de conter o avanço da dívida pública e melhorar a perspectiva das contas do governo. Após meses de discussões, o Executivo apresentou sua proposta ao Congresso na quarta-feira (11), por meio de um projeto do senador Jaques Wagner (PT-BA), líder do governo no Senado. O texto foi aprovado no dia seguinte, após negociações com os parlamentares e pedido de urgência. Entenda o que está em jogo: O que o governo propôs: permitir que o Executivo bloqueie mais gastos para atingir a meta fiscal, reduzir benefícios tributários para aumentar a arrecadação, limitar o uso de créditos que as empresas têm com a Receita Federal para pagar impostos e adiar parte dos repasses aos estados, deixando mais dinheiro disponível no caixa da União em 2027. A proposta também prevê limitar temporariamente o crescimento dos gastos públicos a 2% acima da inflação, em determinadas situações. O que mudou no Senado: o relator, Eduardo Braga (MDB-AM), acolheu 21 das 74 emendas apresentadas, integral ou parcialmente. Entre as alterações estão a proteção de recursos destinados à segurança, saúde e educação do Distrito Federal, a preservação de benefícios tributários na compra de veículos por pessoas com deficiência ou autismo e a possibilidade de destinar parte do dinheiro economizado com bloqueios de gastos para investimentos no ano seguinte. O que ainda falta votar: quatro pontos serão analisados separadamente na terça-feira (17). Entre eles estão a proposta de adiar pagamentos aos estados, as restrições ao uso de créditos tributários pelas empresas, medidas para controlar o crescimento de despesas obrigatórias, como aposentadorias, e uma proposta alternativa que altera as regras fiscais. Depois disso, o projeto seguirá para a Câmara dos Deputados, onde também precisará ser aprovado. Se houver alterações, o texto poderá voltar ao Senado. A pressa do governo tem nome A pressa do governo para aprovar as medidas ainda em 2026 também tem uma explicação política. Na avaliação de Christopher Garman, diretor-executivo para as Américas da consultoria Eurasia Group, o Executivo tenta aproveitar a composição atual do Congresso antes da chegada dos parlamentares eleitos para a próxima legislatura. \"O senso de urgência deles não é tanto de dar uma resposta ao mercado imediatamente, é para aproveitar uma janela do Congresso mais favorável antes que um Congresso mais conservador venha assumir em 2027\", afirmou Garman durante o Fórum de Investimentos do Bradesco Asset. Segundo a análise da consultoria, a nova composição do Senado tende a representar um obstáculo maior para medidas que envolvam aumento de arrecadação, embora pos",
+  "numeros": [
+   {
+    "valor": "45 a 31",
+    "rotulo": "votos no Senado"
+   },
+   {
+    "valor": "R$ 45,1 a R$ 56,1 bilhões",
+    "rotulo": "impacto positivo previsto em 2027"
+   }
+  ],
+  "fonte": "Seu Dinheiro",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento de impostos e custo de vida",
+  "angulo": "Aprender sobre o mercado financeiro pode ajudar a contornar os efeitos do aumento de impostos e oferecer novas fontes de renda sem depender apenas do emprego.",
+  "gancho": "*Pacote fiscal* e seus efeitos no seu bolso",
+  "ideias": [
+   "Como o novo pacote fiscal pode afetar sua renda?",
+   "Impactos do ajuste fiscal nas pequenas empresas",
+   "Prepare-se: o que muda com o novo pacote fiscal?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://www.seudinheiro.com/2026/economia/governo-corre-para-aprovar-pacote-fiscal-e-ganhar-folego-nas-contas-de-2027-o-que-esta-em-jogo-jcav/",
+  "publicadoEm": "2026-11-13T18:25:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "13º salário pode injetar R$ 399,1 bilhões até 2026",
+  "resumo": "Estudo aponta que 99,7 milhões de brasileiros serão beneficiados com um rendimento médio de R$ 3.720,00 até 2026, impactando positivamente a economia.",
+  "fatos": [
+   "O 13º salário pode injetar R$ 399,1 bilhões na economia brasileira até dezembro de 2026.",
+   "Beneficiará cerca de 99,7 milhões de brasileiros com rendimento adicional médio de R$ 3.720,00.",
+   "62,5 milhões de trabalhadores ativos receberão R$ 287,4 bilhões, com média de R$ 4.599,66.",
+   "Aposentados e pensionistas deverão receber aproximadamente R$ 111,6 bilhões, equivalente a 28% do total.",
+   "O Sudeste concentra 47,8% do 13º salário, seguido pelo Nordeste (16,8%) e Sul (16,5%)."
+  ],
+  "explicacao": [
+   "O pagamento do 13º salário é uma compensação que ocorre anualmente e é esperado que tenha um grande impacto na economia.",
+   "Os recursos surgem principalmente no final do ano, permitindo que muitos brasileiros consigam acelerar a compra de bens e serviços.",
+   "Para quem depende apenas do salário, o 13º pode aliviar a pressão financeira, mas não resolve a dependência de um único rendimento."
+  ],
+  "materia": "O pagamento do 13º salário tem potencial para injetar R$ 399,1 bilhões na economia brasileira até dezembro de 2026. O montante corresponde a aproximadamente 2,9% do PIB (Produto Interno Bruto) do país e deve alcançar cerca de 99,7 milhões de brasileiros, com um rendimento adicional médio estimado em R$ 3.720,00. As projeções fazem parte de levantamento divulgado nesta 6ª feira (13.nov.2026) pelo Dieese (Departamento Intersindical de Estatística e Estudos Socioeconômicos). Leia a íntegra do estudo (PDF – 395 kB). A estimativa considera trabalhadores do mercado formal –incluindo empregados domésticos com carteira assinada–, beneficiários da Previdência Social e aposentados e pensionistas dos regimes próprios da União, dos Estados e dos municípios. [shortcode-newsletter] O cálculo não contempla autônomos, trabalhadores sem carteira assinada ou outras inserções que eventualmente recebam abonos de fim de ano, devido à ausência de dados disponíveis. Além disso, o estudo considera o volume total projetado para o ano, sem descontar parcelas antecipadas por acordos coletivos ou cronogramas do INSS (Instituto Nacional do Seguro Social), embora a maior parte dos recursos para os trabalhadores ativos se concentre no fim do ano. QUEM RECEBE Do total de R$ 399,1 bilhões previstos, a maior fatia será destinada aos trabalhadores ativos do mercado formal: mercado formal: são 62,5 milhões de trabalhadores (62,7% do total de beneficiários), que receberão cerca de R$ 287,4 bilhões (72,0% dos recursos), com valor médio de R$ 4.599,66. Nesse grupo estão incluídos 1,3 milhão de empregados domésticos com carteira assinada, que ficarão com R$ 2,55 bilhões (média de R$ 1.997,90); aposentados e pensionistas: receberão aproximadamente R$ 111,6 bilhões (28,0% do total). Somente no Regime Geral, são 36 milhões de beneficiários, que somam R$ 70,8 bilhões (média de R$ 1.963,93). Outros R$ 12,6 bilhões vão para 1,1 milhão de aposentados e pensionistas da União (média de R$ 11.117,79), R$ 20,9 bilhões para os regimes próprios dos estados e R$ 7,5 bilhões para os dos municípios. SETORES DA ECONOMIA Entre os 61,2 milhões de assalariados formais dos setores público e privado (excluindo domésticos), que somam R$ 284,9 bilhões em 13º salário com média de R$ 4.654,00, a distribuição por segmento ocorre da seguinte forma: serviços (incluindo administração pública): concentra 66,8% do montante (R$ 190,4 bilhões) e apresenta a maior média salarial do benefício, de R$ 5.271,00; indústria: fica com 15,6% dos recursos (R$ 44,5 bilhões), com valor médio de R$ 4.603,00; comércio: representa 11,8% do total (R$ 33,5 bilhões) e registra média de R$ 3.165,00; construção civil: responde por 3,7% (R$ 10,6 bilhões), com média de R$ 3.554,81; agropecuária: soma 2,1% dos recursos (R$ 5,9 bilhões) e média de R$ 3.167,00. DISTRIBUIÇÃO REGIONAL participação por região: o Sudeste concentra 47,8% do 13º salário do país, seguido por Nordeste (16,8%), Sul (16,5%), Centro-Oeste (10,2%) e Norte (5,5%). Os 3,1% restantes correspondem aos aposentados e pensionistas da União, espalhados por todo o território nacional; médias por Estado: o Distrito Federal registra o maior valor médio do benefício, estimado em R$ 7.069,00, enquanto as menores médias ocorrem no Maranhão (R$ 2.883,00) e no Piauí (R$ 2.901,00); impacto em São Paulo: o Estado responde sozinho por cerca de R$ 112,7 bilhões –o equivalente a 28,2% do total nacional, 59,1% dos recursos do Sudeste e 2,6% do PIB paulista; beneficiários paulistas: no Estado, 25 milhões de pessoas receberão o benefício, com valor médio de R$ 4.232,00. Desse montante, R$ 86,5 bilhões vão para trabalhadores formais (incluindo domésticos) e R$ 26,2 bilhões para aposentados e pensionistas do INSS e dos regimes próprios estadual e municipais.",
+  "numeros": [
+   {
+    "valor": "399,1 bilhões",
+    "rotulo": "injeção na economia"
+   },
+   {
+    "valor": "99,7 milhões",
+    "rotulo": "brasileiros beneficiados"
+   },
+   {
+    "valor": "3.720",
+    "rotulo": "rendimento médio"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Aposentados",
+   "Autônomos"
+  ],
+  "dor": "dependência de um único salário e renda",
+  "angulo": "Aprender sobre o mercado financeiro pode ajudar a diversificar suas fontes de renda e diminuir a ansiedade com as oscilações do 13º salário.",
+  "gancho": "Influxo de *R$ 399,1 bilhões* até 2026!",
+  "ideias": [
+   "Como o 13º salário impacta sua renda?",
+   "Aumente sua renda além do 13º!",
+   "Riqueza extra com conhecimento financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T18:45:56-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/pagamento-do-13o-salario-pode-injetar-r-3991-bi-na-economia/",
+  "publicadoEm": "2026-11-13T18:45:35-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-07"
  },
  {
   "segmento": "trader",
