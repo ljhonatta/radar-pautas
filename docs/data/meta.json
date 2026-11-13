@@ -1,38 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-12T23:13:07-03:00",
-  "novas": 4,
-  "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Novo cenário para jornada de trabalho deixa empresários apreensivos; Nova escala de trabalho impacta diretamente no bolso; Fim da escala 6x1 traz novas oportunidades para trabalhadores.",
-  "falhas": [
-   "Agência Câmara (ConnectTimeout)"
-  ],
-  "manual": false,
-  "historico": [
-   "2026-11-12T23:13:07-03:00",
-   "2026-11-12T18:59:36-03:00",
-   "2026-11-12T14:46:13-03:00",
-   "2026-11-11T23:34:39-03:00",
-   "2026-11-11T19:24:59-03:00",
-   "2026-11-11T14:30:04-03:00",
-   "2026-11-10T22:32:29-03:00",
-   "2026-11-10T18:36:22-03:00",
-   "2026-11-10T14:20:47-03:00",
-   "2026-11-10T00:52:06-03:00",
-   "2026-11-09T20:55:46-03:00",
-   "2026-11-09T17:14:12-03:00"
-  ]
- },
- "vpr": {
-  "ultimaColeta": "2026-11-12T23:13:07-03:00",
+  "ultimaColeta": "2026-11-13T14:24:22-03:00",
   "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Mudança no consumo de álcool impacta mercado e estratégias; Supermercados no Paraná têm aumento nas vendas após restrições; E-commerce: Black Friday deve movimentar R$ 14,75 bi.",
+  "mensagem": "6 pauta(s) nova(s): Fim da escala 6x1: impacto na rotina de trabalho; Fim da escala 6x1: mudanças no trabalho no Brasil; Mudanças no horário dos supermercados e seus impactos financeiros.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-13T14:24:22-03:00",
    "2026-11-12T23:13:07-03:00",
    "2026-11-12T18:59:36-03:00",
    "2026-11-12T14:46:13-03:00",
@@ -43,8 +19,30 @@
    "2026-11-10T18:36:22-03:00",
    "2026-11-10T14:20:47-03:00",
    "2026-11-10T00:52:06-03:00",
-   "2026-11-09T20:55:46-03:00",
-   "2026-11-09T17:14:12-03:00"
+   "2026-11-09T20:55:46-03:00"
+  ]
+ },
+ "vpr": {
+  "ultimaColeta": "2026-11-13T14:24:22-03:00",
+  "novas": 8,
+  "atualizadas": 0,
+  "status": "ok",
+  "mensagem": "8 pauta(s) nova(s): Shopee bate recordes e dobra vendas em comparação à Black Friday; 66% dos consumidores vão antecipar compras de Natal; Empreendedorismo feminino: urgentemente precisando de marketing.",
+  "falhas": [],
+  "manual": false,
+  "historico": [
+   "2026-11-13T14:24:22-03:00",
+   "2026-11-12T23:13:07-03:00",
+   "2026-11-12T18:59:36-03:00",
+   "2026-11-12T14:46:13-03:00",
+   "2026-11-11T23:34:39-03:00",
+   "2026-11-11T19:24:59-03:00",
+   "2026-11-11T14:30:04-03:00",
+   "2026-11-10T22:32:29-03:00",
+   "2026-11-10T18:36:22-03:00",
+   "2026-11-10T14:20:47-03:00",
+   "2026-11-10T00:52:06-03:00",
+   "2026-11-09T20:55:46-03:00"
   ]
  }
 }
