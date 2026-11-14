@@ -1,6 +1,373 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Site seguro é essencial para vendas e confiança do cliente",
+  "resumo": "Pesquisa revela que IAs podem errar e indicar sites de risco, afetando as compras. Empresários precisam estar atentos aos canais de venda para garantir a segurança dos consumidores.",
+  "fatos": [
+   "Uma pesquisa da Podqi indicou que 9% das respostas de IAs mostraram sites de risco para compras.",
+   "O ChatGPT teve um desempenho melhor, alertando sobre sites de risco em 24% dos casos.",
+   "O Gemini apresentou o menor índice com somente 4% de sites arriscados nas respostas.",
+   "Sites de marcas menores têm até metade da frequência de indicação de riscos.",
+   "A pesquisa envolveu 151 marcas e 6.795 respostas dos bots testados."
+  ],
+  "explicacao": [
+   "A pesquisa destaca a vulnerabilidade na indicação de sites seguros pelas IAs, colocando em risco o consumidor.",
+   "Como muitos clientes usam esses canais para decidir suas compras, o impacto nas vendas pode ser significativo.",
+   "Empresários devem garantir que suas lojas sejam reconhecidas como seguras e confiáveis, a fim de evitar prejuízos."
+  ],
+  "materia": "13/11/2026 15h30 Atualizado 13/11/2026 15h30 Os chatbots de inteligência artificial têm sido cada vez mais utilizados por consumidores na hora das compras. Contudo, uma pesquisa conduzida pela empresa de proteção de propriedade intelectual Podqi, com dados da empresa de busca por IA Gauge, constatou que eles podem direcionar os usuários para sites fraudulentos e outros sites de risco. Neste trabalho, a Podqi fez cinco perguntas sobre 151 marcas aos bots ChatGPT (OpenAI), Gemini (Google) e Perplexity: “Quais são os melhores sites para comprar [marca]?”; “Onde posso comprar produtos [marca]; “Onde posso encontrar [marca] online?”; “Além do site da [marca], onde mais posso comprar?”, e “A [marca] realiza envios internacionais? Quais são os sites regionais da empresa”. Foram produzidas 6.795 respostas, e a empresa de proteção de propriedade intelectual analisou todos os sites mencionados nelas. Os resultados revelaram que 9% das respostas das IAs indicaram ao comprador um site de risco,. Esse tipo de site é considerado assim se parecer se passar por uma marca, oferecer produtos suspeitos de serem falsificados ou se estiver inativo (sem nenhuma opção de compra disponível). Outro dado coletado foi que a frequência com que os mecanismos de busca recomendavam um site de risco em vez de alertar sobre ele foi de 6,3 vezes. Reportagem do The Verge destaca que o Gemini foi o mecanismo que menos exibiu sites de risco, mencionando ou indicando em apenas 4% das respostas. Na segunda posição ficou o ChatGPT, com 8%, e, em último lugar, o Perplexity, com 15%. Além disso, o ChatGPT teve o melhor desempenho ao oferecer avisos sobre cada site de risco que identificou, fazendo isso em 24% dos casos. A Podqi observou que marcas menores parecem estar especialmente em risco. As consultas relacionadas a elas apresentavam sites de risco nas respostas com cerca de metade da frequência. A empresa também verificou que certos comandos pareciam acionar sites de risco com mais frequência do que outros. Por exemplo, isso acontecia quando o bot era questionado sobre sites de marcas regionais em comparação com outras categorias de comandos. Os mecanismos de IA testados também listavam, ocasionalmente, sites regionais falsos para marcas que não possuíam nenhum. Em respostas à pesquisa da Podqi, OpenAI, Google e Perplexity responderam o seguinte ao The Verge: “Nosso objetivo com o ChatGPT é conectar pessoas a locais confiáveis ​​para compras. Continuamos a aprimorar nossas medidas de segurança para que sites potencialmente enganosos tenham menos probabilidade de aparecer em resultados relacionados a compras. Agradecemos aos pesquisadores que compartilham exemplos que nos mostram onde podemos melhorar a experiência.” “Levamos a qualidade da informação a sério e ficamos felizes em ver que o Gemini teve o melhor desempenho entre os produtos testados. Trabalhamos continuamente para testar e aprimorar nossos modelos e somos transparentes quanto ao fato de que o Gemini é uma IA e pode cometer erros; por isso, exibimos links para as fontes junto com as respostas para ajudar as pessoas a verificar as informações.” \"A Perplexity é consistentemente a IA mais precisa em benchmarks de pesquisa confiáveis, e tem sido assim há quatro anos. Nunca afirmamos ser 100% precisas, mas afirmamos ser a única empresa incansavelmente focada nisso.\" Jesse Dwyer, diretor de Comunicação da Perplexity Passageiro afetado por atraso ou cancelamento deve ser reacomodado em outro voo, receber o reembolso integral da passagem em até sete dias ou optar pela remarcação da data da viagem sem qualquer custo Estados Unidos suspenderam todas as decolagens por 'circunstâncias extraordinárias'; sobre os voos que partem daqui para lá, a agência recomendou aos passageiros que busquem as companhias aéreas para verificar a situação do voo ou eventuais alterações. Animação do Flightradar24 mostra a movimentação do tráfego aéreo nas duas horas seguintes à paralisação nacional determinada pela agência americana",
+  "numeros": [
+   {
+    "valor": "9%",
+    "rotulo": "respostas indicando sites de risco"
+   },
+   {
+    "valor": "24%",
+    "rotulo": "alertas de risco do ChatGPT"
+   },
+   {
+    "valor": "6.795",
+    "rotulo": "respostas analisadas"
+   }
+  ],
+  "fonte": "Época Negócios",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "perder vendas devido à desconfiança do consumidor",
+  "angulo": "A pesquisa ressalta a importância de um site confiável e gestão eficiente de canais de venda para proteger sua marca e consumidores.",
+  "gancho": "evite que *seus clientes comprem em sites falsos*!",
+  "ideias": [
+   "A importância de um site seguro",
+   "Como a IA pode afetar suas vendas",
+   "Garanta a confiança do consumidor online"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://epocanegocios.globo.com/inteligencia-artificial/noticia/2026/11/ia-pode-indicar-lojas-falsas-ao-ajudar-consumidor-a-comprar-mostra-teste.ghtml",
+  "publicadoEm": "2026-11-13T15:30:19-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-22"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Novas regras do SAC exigem adaptações urgentes das fintechs",
+  "resumo": "As novas regulamentações do SAC, em vigor desde 2 de novembro, impõem desafios significativos para fintechs de pequeno porte, que precisam adaptar seus modelos de atendimento para sobreviver.",
+  "fatos": [
+   "As novas regras do SAC entraram em vigor em 2 de novembro.",
+   "Foi estabelecida a obrigatoriedade de atendimento humano por 12 horas diárias.",
+   "Os menus eletrônicos devem ter no máximo cinco níveis antes de direcionar para um atendente.",
+   "Fintechs pequenas, que dependem da automação total, enfrentam maiores desafios financeiros.",
+   "Grandes instituições também precisarão modernizar seus sistemas legados para se adaptar às mudanças."
+  ],
+  "explicacao": [
+   "As novas regras do SAC foram criadas para assegurar um atendimento mais humano e eficiente aos consumidores.",
+   "As fintechs de pequeno porte, que costumam operar com automação integral, terão que reestruturar suas operações para atender as exigências.",
+   "Com custos adicionais, muitas podem encontrar dificuldades financeiras para manter a viabilidade do negócio.",
+   "Instituições maiores também devem se adaptar, mas possuem mais recursos para enfrentar essas mudanças."
+  ],
+  "materia": "As novas regras para o SAC (Serviço de Atendimento ao Cliente), em vigor desde 2 de novembro, podem comprometer a viabilidade de fintechs de pequeno porte que ainda não alcançaram escala suficiente para absorver os custos de manutenção de uma estrutura de atendimento humano. Embora também exijam adaptações operacionais e tecnológicas de bancos e instituições financeiras de maior porte, as mudanças tendem a representar um desafio mais significativo para empresas que construíram seus modelos de negócio com base na automação integral do atendimento. A avaliação é de Gustavo Hoffmann, diretor de contas estratégicas da Blip, em conversa com Mobile Time. “As mudanças trazem uma necessidade de eficiência operacional para as empresas muito forte”, resume Hoffmann. Segundo ele, os principais pontos da nova regulamentação impactam todo o setor financeiro e exigem adequações tanto na operação quanto na infraestrutura tecnológica das empresas. Entre os pontos que mais devem exigir mudanças estão a obrigatoriedade de disponibilizar atendimento humano por 12 horas diárias, todos os dias da semana, e a limitação a cinco níveis de opções nos menus eletrônicos antes do direcionamento do consumidor para um atendente. O impacto tende a ser mais significativo entre as fintechs de menor porte, especialmente aquelas que oferecem atendimento 100% automatizado e ainda não atingiram escala suficiente para diluir os custos de uma estrutura com operadores humanos. Para essas empresas, a adequação pode exigir uma reestruturação do modelo de negócio ou até mesmo uma revisão de sua viabilidade econômica. “Vamos precisar acompanhar esse movimento”, avalia o executivo da Blip, que acredita que algumas fintechs não terão fôlego financeiro para sustentar os novos custos de atendimento. Como exemplo de empresas potencialmente afetadas, ele cita negócios que oferecem produtos financeiros integráveis aos sistemas de bancos, como aqueles que disponibilizam crédito por meio de agentes responsáveis pela oferta e intermediação das operações. Embora tenham maior capacidade financeira e tecnológica para absorver as mudanças, fintechs de maior porte, bancos digitais e instituições financeiras tradicionais também precisarão rever suas operações. No caso das grandes instituições, o desafio está principalmente na modernização de sistemas legados e de tecnologias de atendimento que não foram atualizadas. “Aqui não tem nada de muito novo para elas. Mas a gente sabe que algumas dessas grandes empresas ainda não estão maduras do ponto de vista de capacidade tecnológica”, afirma Hoffmann. Segundo o executivo, algumas instituições ainda utilizam sistemas antigos, soluções de contatos inteligentes e chatbots que podem dificultar a adaptação às novas exigências. Mesmo as empresas que já investiram em automação e inteligência artificial precisarão ajustar suas ferramentas para identificar corretamente quando o consumidor deseja falar com uma pessoa e realizar a transferência para o atendimento humano no momento adequado. Hoffmann reforça que o peso das mudanças dependerá do nível de investimento necessário e da situação financeira de cada empresa. Para as menores, a combinação desses fatores pode comprometer a continuidade do negócio, sobretudo quando o modelo original depende da automação integral para alcançar escala. O decreto 13.135/2026 , que regulamenta o atendimento ao consumidor em serviços digitais, estabelece que as empresas devem disponibilizar atendimento humano entre 8h e 20h todos os dias da semana, incluindo sábados, domingos e feriados. Os canais eletrônicos, por sua vez, devem funcionar 24h/7. O atendimento humano deverá estar disponível tanto por telefone quanto nos canais eletrônicos, como chats, aplicativos e serviços de mensagens, exceto nos períodos em que o serviço não estiver disponível para uso ou contratação, conforme regulamentação setorial. O tempo de espera não pode ultrapassar 20 segundos para 80% das chamadas. Para os demais atendimentos, o limite é d",
+  "numeros": [
+   {
+    "valor": "12 horas",
+    "rotulo": "atendimento humano exigido"
+   },
+   {
+    "valor": "5 níveis",
+    "rotulo": "máximo de opções nos menus"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Atendimento",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Fintechs com risco de inviabilidade devido a novos custos",
+  "angulo": "Entender como as novas regras impactam seu negócio é essencial. A gestão eficiente das adaptações é fundamental para a sobrevivência no mercado atual.",
+  "gancho": "Prepare-se para as *novas regras do SAC*",
+  "ideias": [
+   "Atendimento humano: sua fintech está pronta?",
+   "Como se adaptar às novas regulamentações do SAC?",
+   "O impacto das novas regras do SAC em seu negócio"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/13/11/2026/novas-regras-sac-fintech/",
+  "publicadoEm": "2026-11-13T16:51:38-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-21"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "E-commerce cresce 25% e se destaca em vendas",
+  "resumo": "O e-commerce no Brasil cresceu 25% e já representa 2,1% do faturamento. A maior parte dos consumidores busca promocoes online, indicando uma mudança nas estratégias de compra.",
+  "fatos": [
+   "O e-commerce de FMCG cresceu 25% até junho de 2026, somando R$ 26 bilhões.",
+   "Esse canal ganhou 0,4 p.p. de participação, agora respondendo por 2,1% do faturamento da cesta.",
+   "74,6% dos lares não se sentem confortáveis financeiramente e 72% não têm reserva.",
+   "Em média, 32,1% dos compradores de atacarejos e supermercados também compram online.",
+   "69% dos compradores do e-commerce já consideram o canal parte de sua rotina."
+  ],
+  "explicacao": [
+   "O crescimento do e-commerce reflete mudanças nos hábitos de consumo, com mais pessoas buscando preços competitivos online.",
+   "Durante um período de orçamento apertado, os consumidores priorizam promoções e custo final das compras.",
+   "Essa mudança exige que empresas se adaptem, focando em ter presença online e estratégias de marketing digital eficazes."
+  ],
+  "materia": "O e-commerce registrou o maior crescimento entre os canais do varejo de FMCG (bens de consumo de giro rápido) no Brasil no período analisado pelo estudo “Do Clique à Comodidade: Presente e o Futuro do E-commerce”, da NielsenIQ. No ano móvel encerrado em junho de 2026, as vendas online de FMCG somaram R$ 26 bilhões, alta de 25% em valor. O canal ganhou 0,4 p.p. de participação e já responde por 2,1% do faturamento da cesta. Na sequência aparecem hipermercados (+9,8%), supermercados pequenos (+9,3%) e farma cadeia (+8,7%). Atacarejos e autosserviços independentes, os dois maiores canais em faturamento, cresceram 3,8% e 3,2%, respectivamente. Os bares registraram queda de 3,1%. A penetração do e-commerce para todas as categorias passou de 19,6% para 29,6% dos lares em dois anos, respondendo por 95% do crescimento das compras online no mesmo período. “Os dados mostram aumento da participação do e-commerce na jornada de compra dos consumidores. O canal ampliou sua presença nos lares brasileiros e passou a ser utilizado com maior frequência para diferentes ocasiões de compra”, afirmou o líder de insights para a indústria da NielsenIQ, Gabriel Fagundes. O crescimento acontece em um cenário de orçamento comprimido. Segundo a NielsenIQ, 74,6% dos lares não se sentem confortáveis com a situação financeira e 72% não têm reserva. Nesse contexto, os padrões de compra observados indicam maior atenção ao custo final das compras. Em média, 32,1% dos compradores de atacarejos, supermercados e farmácias e perfumarias também compram pela internet, alta de 10,1 p.p. na comparação do ano móvel de 2026 com 2024. Para 69% dos compradores do e-commerce, o canal já faz parte da rotina. Aproveitar promoções é o principal objetivo de compra online, citado por 77,4% dos respondentes. Em seguida vêm reposição rápida (48,2%) e itens difíceis de encontrar (42,1%). Ao todo, 68% das motivações para escolher o canal estão ligadas ao custo final: promoções (26%), frete grátis (23%) e preços menores (19%). Já 84% dizem perceber preços mais vantajosos no e-commerce do que no varejo físico.",
+  "numeros": [
+   {
+    "valor": "25",
+    "rotulo": "crescimento do e-commerce"
+   },
+   {
+    "valor": "26 bilhões",
+    "rotulo": "vendas online em R$"
+   },
+   {
+    "valor": "69",
+    "rotulo": "porcentagem de compradores que usam o e-commerce"
+   }
+  ],
+  "fonte": "ABC da Comunicação",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas para concorrentes mais digitais",
+  "angulo": "A crescente transição para o e-commerce aponta que as empresas que não investirem em presença online correm o risco de ficar para trás no mercado competitivo atual.",
+  "gancho": "E-commerce em alta: *saiba como acompanhar*",
+  "ideias": [
+   "O impacto do e-commerce no seu negócio",
+   "Por que investir em marketing digital agora",
+   "Dicas para melhorar sua presença online"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://www.abcdacomunicacao.com.br/e-commerce-cresce-25-e-lidera-o-crescimento-entre-os-canais-de-fmcg-no-brasil-diz-nielseniq/",
+  "publicadoEm": "2026-11-13T15:44:43-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-20"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento das vendas no Ceará na Black Friday",
+  "resumo": "Vendas da Black Friday no Ceará podem crescer quase três vezes a média do país, mas mercado enfrenta desafios de desempenho.",
+  "fatos": [
+   "As vendas da Black Friday no Ceará devem crescer 4,9% em 2026, superando a média nacional de 1,8%.",
+   "O comércio cearense deve movimentar R$ 230,3 milhões na Black Friday.",
+   "Apesar do crescimento previsto, o Ceará registrou queda de 2% nas vendas em setembro.",
+   "A pesquisa do IBGE mostrou que o varejo nacional ficou estável, com variação de 0,2%.",
+   "O Ceará criou 5.156 empregos formais em setembro, incluindo 703 no comércio.",
+   "Em Fortaleza, 46,1% dos consumidores planejam comprar na Black Friday, um aumento em relação a 2025."
+  ],
+  "explicacao": [
+   "A expectativa de crescimento das vendas no Ceará ocorre em um contexto de queda no volume de vendas.",
+   "Embora o cenário seja desafiador, o aumento na intenção de compra entre os consumidores pode impulsionar as vendas.",
+   "O foco nos produtos mais necessários e a antecipação de compras para o Natal indicam um comportamento de consumo estratégico."
+  ],
+  "materia": "As vendas da Black Friday no Ceará devem crescer 4,9% em termos reais em 2026, quase três vezes a expansão de 1,8% projetada para o Brasil. Segundo a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) , o comércio cearense deve movimentar R$ 230,3 milhões na campanha de 27 de novembro. A previsão estadual supera a média brasileira em 3,1 pontos percentuais, enquanto o país enfrenta uma desaceleração. A CNC estima faturamento nacional de R$ 11,52 bilhões, mas o crescimento previsto é inferior aos 3,2% registrados em 2025. Apesar da pre visão favorável, o comércio cearense chega ao período de preparação para a Black Friday após registrar queda de 2% no volume de vendas em setembro , na comparação com agosto. O resultado foi o pior entre os 27 estados, segundo a Pesquisa Mensal de Comércio (PMC) , divulgada nesta sexta-feira (13/11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE) . No mesmo período, o varejo nacional ficou estável, com variação de 0,2%. Rio de Janeiro (-1,6%) e Amapá (-1,4%) também apresentaram retrações expressivas. A queda cearense ocorreu dois meses antes da campanha para a qual a CNC prevê crescimento superior ao nacional. A pesquisa do IBGE mede a variação mensal do comércio, enquanto a projeção das vendas da Black Friday no Ceará considera a comparação com a campanha do ano anterior. Apesar do recuo nas vendas do varejo , o Ceará criou 5.156 empregos formais em setembro . Isso, segundo o Novo Cadastro Geral de Empregados e Desempregados (Novo Caged) . Todos os cinco grandes setores econômicos tiveram saldo positivo, com 703 vagas abertas no comércio . Além disso, a intenção de compra , é outro fator positivo este ano. Na capital, pesquisa do Instituto de Pesquisa e Desenvolvimento do Ceará (IPDC), da Federação do Comércio de Bens, Serviços e Turismo do Estado do Ceará (Fecomércio Ceará), identificou que 46,1% dos consumidores pretendem comprar na Black Friday , ante 43% em 2025. A diferença anual, portanto, está dentro da margem de erro de 3,2 pontos percentuais. Entre os consumidores de Fortaleza que planejam comprar, 68,2% procuram produtos necessários a preços menores e 32,9% pretendem antecipar presentes de Natal. Os resultados acrescentam informações sobre as decisões de consumo que poderão compor as vendas da Black Friday no Ceará. Na projeção da CNC , móveis e eletrodomésticos devem movimentar R$ 45,91 milhões , seguidos por hipermercados e supermercados, com R$ 45,34 milhões. A diferença entre as duas categorias é de apenas R$ 570 mil. Juntos, esses segmentos representam 39,6% do faturamento estadual previsto . Vestuário e acessórios aparecem em terceiro lugar, com R$ 21,19 milhões, elevando a participação conjunta das três atividades para aproximadamente 48,8%. A concentração do faturamento em supermercados e bens duráveis também encontra correspondência nas preferências de compra pesquisadas em Fortaleza . Eletrodomésticos lideram a lista, citados por 37,5% dos consumidores que pretendem aproveitar as promoções. Portanto, o resultado desses segmentos terá peso importante na capacidade do varejo cearense de alcançar os R$ 230,3 milhões projetados para 27 de novembro.",
+  "numeros": [
+   {
+    "valor": "4,9%",
+    "rotulo": "crescimento previsto das vendas no Ceará"
+   },
+   {
+    "valor": "R$ 230,3 milhões",
+    "rotulo": "movimentação prevista do comércio cearense"
+   },
+   {
+    "valor": "2%",
+    "rotulo": "queda nas vendas de setembro"
+   },
+   {
+    "valor": "5.156",
+    "rotulo": "empregos criados no Ceará em setembro"
+   }
+  ],
+  "fonte": "Economic News Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Temor de não acompanhar o crescimento do e-commerce",
+  "angulo": "A alta expectativa para as vendas na Black Friday destaca a necessidade de um planejamento eficaz e gestão de marketing, indicando a importância de ter um site otimizado e presença nas redes sociais.",
+  "gancho": "Prepare-se para o *crescimento das vendas*!",
+  "ideias": [
+   "Como o Ceará se destaca na Black Friday?",
+   "Preparando seu negócio para a Black Friday.",
+   "Importância do planejamento para as vendas no varejo."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://economicnewsbrasil.com.br/2026/11/13/vendas-black-friday-no-ceara-crescimento/",
+  "publicadoEm": "2026-11-13T16:19:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Financiamento climático: novos caminhos para pequenos negócios",
+  "resumo": "O Sebrae amplia o acesso ao crédito verde, beneficiando 24 milhões de pequenos negócios. A plataforma Empreender Clima oferece suporte e inteligência artificial para superar barreiras financeiras.",
+  "fatos": [
+   "A plataforma Empreender Clima pode alcançar 24 milhões de pequenos negócios no Brasil.",
+   "A iniciativa foi apresentada na COP31, em Antalya, Turquia, no dia 13.",
+   "Desde 2025, a plataforma registrou 2,7 mil acessos e 748 usuários.",
+   "Ela possui 206 inscrições em formações e 13 pré-enquadramentos para financiamento.",
+   "O próximo objetivo é ampliar o acesso para negócios tradicionais na indústria e comércio, com previsão de consolidação até fevereiro de 2028."
+  ],
+  "explicacao": [
+   "O acesso ao financiamento climático é uma das principais dificuldades enfrentadas por pequenos negócios, motivando a criação da plataforma Empreender Clima.",
+   "A proposta é transformar compromissos climáticos em reais oportunidades de crescimento, através de capacitação e crédito.",
+   "A plataforma oferece suporte, como inteligência artificial, para identificar oportunidades de financiamento e projetos sustentáveis.",
+   "Na prática, isso pode ajudar os empreendimentos a reduzir custos e aumentar a eficiência, contribuindo eficazmente para a sua sustentabilidade.",
+   "Empresários e empreendedores se beneficiarão com mais acesso a informações relevantes sobre recursos disponíveis."
+  ],
+  "materia": "O acesso ao financiamento climático, um dos principais desafios dos pequenos negócios, ganha novo impulso com a expansão da plataforma Empreender Clima. A iniciativa do Sebrae tem potencial para alcançar cerca de 24 milhões de empreendimentos brasileiros, combinando inteligência artificial, assistência técnica e novas oportunidades de crédito verde. Os avanços da plataforma foram apresentados nesta sexta-feira (13), durante a COP31, em Antalya, na Turquia. Conheça a plataforma A iniciativa foi destaque do painel “Da COP ao Território: como o financiamento climático chega aos Pequenos Negócios”, com a participação da diretora de Administração e Finanças do Sebrae, Margarete Coelho. Desenvolvida em parceria com o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte (MEMP) e a Organização de Estados Ibero-Americanos (OEI), com apoio do BNDES, a plataforma busca transformar compromissos climáticos em oportunidades concretas para quem empreende. Para Margarete Coelho, a iniciativa contribui para reduzir as barreiras que dificultam o acesso dos pequenos negócios ao crédito. “O empreendedor de um pequeno negócio senta à mesa com uma enorme desvantagem. Além de não ter as ferramentas necessárias, também é visto como alguém que talvez não tenha capacidade para assumir aquela responsabilidade”, afirmou. Desde o lançamento na COP30, em 2025, a plataforma Empreender Clima registrou 2,7 mil acessos, 748 usuários cadastrados, 206 inscrições em formações e 13 pré-enquadramentos para financiamento . Para a diretora de Administração e Finanças do Sebrae, os primeiros resultados demonstram o potencial da iniciativa para mobilizar os pequenos negócios. “Esses indicadores mostram que há interesse, e também capacidade de mobilização na plataforma”, destacou. O próximo passo é ampliar esse alcance e transformar a participação dos empreendedores em capacitação, desenvolvimento dos negócios e acesso efetivo ao crédito. A nova fase representa uma mudança de escala. Inicialmente voltado a cerca de 2 mil empreendedores que desenvolvem soluções climáticas, o programa pretende ampliar seu alcance para negócios tradicionais da indústria, do comércio e dos serviços. A proposta é ajudar essas empresas a reduzir custos, aumentar a produtividade, utilizar recursos naturais de forma mais eficiente e se adaptar às mudanças climáticas. Margarete Coelho destacou o papel do Sebrae no acesso ao crédito pelos pequenos empreendedores | Foto: Divulgação Inteligência artificial e novas oportunidades de financiamento Uma das principais novidades é o Empreender Clima IA, assistente digital que ajudará os empreendedores a identificar oportunidades sustentáveis, estruturar projetos e encontrar linhas de financiamento adequadas às suas necessidades. Complementar ao atendimento do Sebrae, a ferramenta poderá orientar desde a redução de gastos com energia e água até a adoção de medidas de adaptação climática. A expansão também prevê a integração de bancos, cooperativas de crédito, agências de fomento e fundos de investimento à plataforma, diversificando as alternativas de financiamento para além do Fundo Clima, do BNDES. Estão previstas ainda novas trilhas de capacitação, incluindo conteúdos sobre bioeconomia. Segundo levantamento encomendado pelo projeto, 46% dos negócios de impacto climático apontam o financiamento como sua principal necessidade. Com previsão de consolidação até fevereiro de 2028, a iniciativa busca preparar os empreendedores para acessar recursos e transformar práticas sustentáveis em oportunidades de crescimento. Equipe da Plaspop Design Circular | Foto: Divulgação Soluções brasileiras ganham espaço na COP31 Três empreendimentos apoiados pelo Sebrae, na primeira fase da plataforma, participaram da COP31 com soluções que combinam inovação, sustentabilidade e geração de renda. A Bioassu, do Maranhão; a Plaspop Design Circular, de Minas Gerais; e a Tekohá, do Pará, foram selecionadas entre 20 negócios atendidos pelo programa de assist",
+  "numeros": [
+   {
+    "valor": "24 milhões",
+    "rotulo": "pequenos negócios beneficiados"
+   },
+   {
+    "valor": "2,7 mil",
+    "rotulo": "acessos registrados"
+   },
+   {
+    "valor": "748",
+    "rotulo": "usuários cadastrados"
+   },
+   {
+    "valor": "206",
+    "rotulo": "inscrições em formações"
+   },
+   {
+    "valor": "13",
+    "rotulo": "pré-enquadramentos para financiamento"
+   }
+  ],
+  "fonte": "Agência Sebrae",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Dificuldade em acessar capital para sustentabilidade dos negócios",
+  "angulo": "A necessidade da digitalização e serviço de marketing se torna evidente para os empresários que desejam se adaptar às oportunidades e inovações oferecidas pela nova plataforma.",
+  "gancho": "*Financiamento climático* é a solução que você precisava!",
+  "ideias": [
+   "A transformação verde dos pequenos negócios",
+   "Impulsione suas vendas com crédito sustentável",
+   "A nova era do financiamento para pequenos empreendimentos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/sebrae-amplia-acesso-ao-financiamento-climatico-com-potencial-de-alcancar-24-milhoes-de-pequenos-negocios/",
+  "publicadoEm": "2026-11-13T15:26:46-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a vacância em queda afeta seus investimentos em imóveis?",
+  "resumo": "Com a vacância de escritórios em queda em São Paulo, os fundos imobiliários ainda enfrentam grandes descontos na bolsa. Entenda como isso impacta suas decisões de negócios.",
+  "fatos": [
+   "A vacância dos prédios de alto padrão em São Paulo caiu de 16% para 13,8% em um ano até setembro.",
+   "Os aluguéis subiram 16,3%, chegando a R$ 141,20 por metro quadrado.",
+   "Os fundos imobiliários do setor negociam, em média, 38,7% abaixo do valor patrimonial.",
+   "Seis dos sete FIIs analisados têm recomendação de compra, sendo JSRE11 e PVBI11 os preferidos, com alto potencial de valorização.",
+   "Os preços-alvo das cotas foram revisados pelo BTG Pactual, indicando uma redução significativa em comparação com os valores de janeiro."
+  ],
+  "explicacao": [
+   "Embora a vacância esteja em queda, o desconto nos preços dos FIIs reflete a cautela do mercado frente a questões macroeconômicas como juros altos e inflação.",
+   "O aumento no aluguel de escritórios sinaliza uma recuperação, mas ainda não se traduz em valorização dos fundos.",
+   "Os empresários devem considerar esses fatores ao planejar seus investimentos e a gestão de suas propriedades, especialmente no cenário atual."
+  ],
+  "materia": "Com a menor vacância histórica em São Paulo, BTG Pactual analisa os FIIs de lajes corporativas, revisa modelos e vê potencial de compra pelo desconto dos papéis em bolsa. De sete analisados, somente um tem recomendação neutra Vacância dos prédios de alto padrão em São Paulo caiu de 16% para 13,8% em 12 meses, encerrados em setembro Os escritórios de alto padrão de São Paulo vivem o melhor momento em anos, mas os fundos imobiliários donos desses prédios seguem com um dos maiores descontos da história. E o BTG Pactual vê aí uma oportunidade. Em relatório obtido pelo NeoFeed, o banco mostra que os sete FIIs de lajes corporativas sob sua cobertura negociam, em média, 38,7% abaixo do valor patrimonial. Enquanto isso, a vacância caiu de 16% para 13,8% em um ano e o aluguel pedido subiu 16,3%. Seis dos sete fundos têm recomendação de compra. JSRE11 e PVBI11 lideram o potencial de alta, de 29% e 25%. Ainda assim, os preços justos ficaram bem abaixo dos que o banco divulgava em janeiro, após a revisão dos modelos. O desconto, porém, não deve sumir. “Não vejo os fundos voltando a negociar pelo valor patrimonial tão cedo”, diz Caio Nabuco, analista do BTG. Para ele, o principal risco está no macro: juros altos por mais tempo, inflação acima da meta e cenário fiscal. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Os escritórios de alto padrão de São Paulo vivem o seu melhor momento histórico , com vacância em queda e aluguéis subindo. Na bolsa de valores, porém, os fundos imobiliários ( FIIs ) donos desses prédios seguem negociando com grandes descontos. E é justamente aí que o BTG Pactual enxerga uma oportunidade. Em relatório obtido em primeira mão pelo NeoFeed , o banco mostra que os sete FIIs de lajes corporativas sob sua cobertura negociam, em média, com desconto de 38,7% em relação ao valor patrimonial. Ponderado pelo valor de mercado dos fundos, o segmento está a 0,64 vez o patrimônio, ante uma média histórica de 0,82 vez. É o segmento mais descontado entre os fundos imobiliários cobertos pelo banco. “Esse nível de desconto é um dos maiores da série histórica. Se olhar para o histórico, o cenário mostra preços bastante estressados”, diz Caio Nabuco , analista responsável pela cobertura de fundos imobiliários do BTG Pactual/Empiricus. “Olhando para o futuro, acho que o ponto de entrada é favorável.” Segundo dados da consultoria Buildings compilados pelo BTG, a vacância dos prédios de alto padrão em São Paulo caiu de 16% para 13,8% entre o terceiro trimestre de 2025 e o mesmo período deste ano, mesmo com a entrada de 175 mil metros quadrados de novos espaços no estoque . No mesmo intervalo, o preço médio pedido pelo aluguel subiu 16,3%, para R$ 141,20 por metro quadrado. Do lado da oferta, a construção de novos prédios está em um dos menores patamares da história, o que limita a chegada de novos espaços nos próximos anos. E ainda há espaço para os aluguéis subirem. Em termos nominais, o valor atual está próximo do registrado em 2013. Corrigido pela inflação, equivale a menos da metade do que se cobrava na época. “Temos visto uma absorção razoável, mesmo com esses preços atualizados. Regiões como Pinheiros, Paulista e Chucri Zaidan têm apresentado renovações em valores superiores aos dos últimos anos”, diz Nabuco. Ele cita uma renovação recente no Diamond Tower, na região da Chucri Zaidan, a R$ 160 por metro quadrado, o maior valor da história do prédio. Para o analista, esse movimento deve chegar gradualmente ao bolso dos cotistas, à medida que os contratos forem renovados e reajustados. Isso não significa, porém, que o desconto vá desaparecer. “Não vejo os fundos voltando a negociar pelo valor patrimonial tão cedo. A visibilidade para esse cenário é baixa”, afirma Nabuco. “Nenhum dos fundos chega a esse patamar nos nossos modelos, mas qualquer faixa no meio do caminho é mais provável.” Dos sete fundos analisados, seis têm recomendação de compra. A exceção é o REC Renda Imobiliária (RECT11), com r",
+  "numeros": [
+   {
+    "valor": "38,7%",
+    "rotulo": "desconto médio dos FIIs em relação ao valor patrimonial"
+   },
+   {
+    "valor": "16,3%",
+    "rotulo": "alta nos preços de aluguel"
+   },
+   {
+    "valor": "13,8%",
+    "rotulo": "vacância atual em São Paulo"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Receio de perder oportunidades de investimento",
+  "angulo": "A flutuação no mercado imobiliário demanda um forte entendimento da gestão de ativos e marketing digital para captar oportunidades e otimizar resultados.",
+  "gancho": "*Vacância em queda* pode ser bom sinal!",
+  "ideias": [
+   "Vacância em queda: Oportunidade ou risco?",
+   "Fundos imobiliários: O que você precisa saber?",
+   "Como o mercado imobiliário influencia seus negócios?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://neofeed.com.br/negocios/vacancia-em-queda-aluguel-em-alta-o-que-pode-mexer-com-os-fundos-imobiliarios-de-escritorios/",
+  "publicadoEm": "2026-11-13T18:00:57-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-vpr-17"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Confiança: a chave para vendas no varejo hoje",
   "resumo": "Flavia Vagen, da HOPE, destaca a importância da confiança na experiência do cliente, revelando novas exigências para marcas no ambiente digital e físico.",
   "fatos": [
@@ -901,6 +1268,202 @@
   "publicadoEm": "2026-11-13T13:20:44-03:00",
   "data": "2026-11-13",
   "id": "2026-11-13-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Governo encerra subsídio ao diesel importado",
+  "resumo": "O governo decidiu não renovar o subsídio de R$ 1,40 ao diesel importado, encerrando um benefício que visava mitigar os impactos da alta dos combustíveis internacionais. A decisão pode pressionar os custos no país.",
+  "fatos": [
+   "O subsídio de R$ 1,40 por litro ao diesel importado não será renovado após um mês em vigor.",
+   "Essa decisão foi anunciada pelo Ministério da Fazenda na sexta-feira, dia 13.",
+   "A Portaria 3.082, que determinava o subsídio, venceu no dia 13 de outubro.",
+   "O diesel importado é responsável por mais de 25% do consumo nacional.",
+   "A subvenção de R$ 2,12 ao óleo diesel rodoviário continua em vigor, prorrogada até 27 de outubro.",
+   "A pressão dos preços internacionais sobre o mercado brasileiro motivou a criação do subsídio que está sendo encerrado.",
+   "A retirada de até R$ 10,5 bilhões em subvenções ao diesel está no centro de um pacote de ajuste fiscal.",
+   "O projeto precisa ser aprovado pela Câmara após já ter passado pelo Senado."
+  ],
+  "explicacao": [
+   "O fim do subsídio ao diesel importado pode levar a um aumento dos preços do combustível, uma vez que a subvenção anterior visava amenizar a pressão dos custos internacionais.",
+   "Esse cenário é preocupante, principalmente para os empresários e autônomos que dependem do diesel para transporte e logística.",
+   "Embora o subsídio ao diesel rodoviário permaneça, a perda do benefício para o diesel importado pode desestabilizar ainda mais a economia diante de um cenário já complicado de alta nos combustíveis.",
+   "Além disso, a retirada das subvenções influenciará o planejamento fiscal do governo e poderá impactar outras áreas da economia também.",
+   "Aprender a operar no mercado financeiro pode ser uma alternativa para quem deseja minimizar os impactos dessas mudanças no seu orçamento."
+  ],
+  "materia": "Após um mês em vigor, a subvenção de R$ 1,40 por litro ao diesel importado não será renovada, informou na noite desta sexta-feira (13) o Ministério da Fazenda. O benefício chegou ao fim após o vencimento da Portaria 3.082 do Ministério da Fazenda , de 13 de outubro. A decisão não altera a subvenção de R$ 2,12 por litro destinada ao óleo diesel rodoviário, que continua valendo. A medida de R$ 1,40 havia sido criada para reduzir os efeitos da alta dos preços internacionais dos combustíveis sobre o mercado brasileiro. Segundo a Fazenda, a possibilidade de reavaliar o benefício não está descartada e dependerá da evolução dos preços do petróleo. As medidas têm valores e regras diferentes. Por isso, o fim de uma delas não significa o encerramento de todo o programa de apoio ao diesel. A subvenção é um pagamento feito pelo governo a produtores ou importadores para reduzir os custos de comercialização do combustível. O objetivo é diminuir a pressão dos preços internacionais sobre o mercado interno. O benefício de R$ 1,40 foi anunciado há um mês, em meio à alta do petróleo provocada pelas tensões e pelo conflito no Oriente Médio . A medida tinha validade inicial de 30 dias. O diesel importado é relevante para o abastecimento brasileiro: mais de 25% do consumo nacional depende de compras externas, segundo o governo. Quando o preço internacional sobe, o custo de importação também aumenta. A subvenção busca compensar parte dessa diferença e evitar que toda a pressão chegue ao preço do combustível no Brasil. A subvenção de R$ 2,12 por litro foi prorrogada em 27 de outubro por mais 30 dias . O benefício é destinado a produtores e importadores de óleo diesel A de uso rodoviário. Esse combustível é o diesel puro, antes da mistura obrigatória com biodiesel. Existem dois tipos de diesel no mercado brasileiro. O diesel A é comercializado pelas refinarias e importadores. O diesel B é vendido nos postos, após a adição de biodiesel. Os subsídios ao diesel estão no centro do debate sobre as contas públicas. O pacote de ajuste fiscal, cujo texto-base foi aprovado pelo Senado na quinta-feira (12) , propõe a retirada de até R$ 10,5 bilhões de subvenções ao diesel do cálculo da meta fiscal de 2026 . Depois da votação no Senado, o projeto de lei complementar precisa passar pela Câmara. A mudança, se aprovada, não elimina os gastos nem representa economia para os cofres públicos. Ela apenas permite que esse valor seja desconsiderado na verificação do cumprimento da meta de resultado primário.",
+  "numeros": [
+   {
+    "valor": "R$ 1,40",
+    "rotulo": "subsídio ao diesel importado"
+   },
+   {
+    "valor": "R$ 2,12",
+    "rotulo": "subsídio ao diesel rodoviário"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "consumo de diesel importado"
+   },
+   {
+    "valor": "R$ 10,5 bilhões",
+    "rotulo": "subvenções ao diesel no ajuste fiscal"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "Autônomos",
+   "CLT"
+  ],
+  "dor": "aumento nos custos e na pressão financeira",
+  "angulo": "Com o fim do subsídio ao diesel importado, o impacto no custo de vida pode ser pesado. Conheça como o mercado financeiro pode ser uma alternativa para gerar renda.",
+  "gancho": "Fim do *subsídio ao diesel* e seus impactos",
+  "ideias": [
+   "O que significa o fim do subsidiado?",
+   "Como o diesel afeta seu bolso?",
+   "Alternativas para contornar aumentos no custo de vida"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado",
+  "publicadoEm": "2026-11-13T19:54:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-16"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Retirada da subvenção pode aumentar custo de vida",
+  "resumo": "Governo decidiu retirar subvenção de R$ 1,40 no diesel importado, válido até 13 de outubro. Medida pode acarretar aumento nos preços de combustíveis e produtos, impactando o bolso de todos.",
+  "fatos": [
+   "O governo retirou a subvenção extra de R$ 1,40 por litro de diesel importado.",
+   "A medida foi anunciada pelo Ministério da Fazenda em 13 de outubro.",
+   "A subvenção não será renovada após terminar o período de 30 dias.",
+   "O governo já prorrogou a desoneração de tributos sobre gasolina e etanol até 9 de dezembro.",
+   "O impacto total das ações de desoneração é estimado em R$ 3,57 bilhões.",
+   "Os preços altos do petróleo devem influenciar as decisões futuras sobre subsídios."
+  ],
+  "explicacao": [
+   "A retirada da subvenção reflete a necessidade do governo de ajustar políticas frente à alta dos preços do petróleo.",
+   "Essa decisão pode elevar os preços dos combustíveis e, consequentemente, impactar o custo de vida e de produção.",
+   "Para autônomos e pequenos empresários, esse aumento pode significar repasses de custos e redução da margem de lucro."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O governo de Luiz InÃ¡cio Lula da Silva (PT) decidiu retirar a subvenÃ§Ã£o extra de R$ 1,40 por litro de diesel importado. O benefÃ­cio tinha validade por 30 dias desde 13 de outubro, e o MinistÃ©rio da Fazenda informou nesta sexta-feira (13) que ele nÃ£o serÃ¡ renovado. \"A portaria que trata da subvenÃ§Ã£o de R$ 1,40 ao diesel importado venceu e nÃ£o serÃ¡ renovada, sem prejuÃ­zos de reavaliaÃ§Ãµes futuras conforme necessÃ¡rio, a partir da evoluÃ§Ã£o dos preÃ§os de petrÃ³leo \", informou a pasta. No fim do mÃªs passado, o Executivo jÃ¡ havia renovado por mais 30 dias a subvenÃ§Ã£o de R$ 2,12 paga por litro de diesel comercializado no paÃ­s. JÃ¡ no inÃ­cio desta semana, a Fazenda prorrogou por mais 30 dias a desoneraÃ§Ã£o de tributos federais sobre a gasolina e o etanol , bem como a subvenÃ§Ã£o adicional para os produtores de etanol. A medida constou em decreto assinado pelo presidente e terÃ¡ validade atÃ© 9 de dezembro. O impacto conjunto das aÃ§Ãµes Ã© estimado em R$ 3,57 bilhÃµes. A expectativa do governo Ã© compensar esse valor com receitas extraordinÃ¡rias ligadas Ã alta dos preÃ§os do petrÃ³leo, como os ganhos maiores com royalties e tributos sobre o setor, alÃ©m do Imposto sobre ExportaÃ§Ã£o de petrÃ³leo, prorrogado atÃ© 31 de dezembro deste ano. A desoneraÃ§Ã£o foi anunciada pelo governo em 9 de outubro, a 16 dias do segundo turno das eleiÃ§Ãµes, e representou uma correÃ§Ã£o de rota apÃ³s o Executivo ensaiar a retirada gradual dos benefÃ­cios aos combustÃ­veis. A decisÃ£o de retomar os incentivos foi tomada apÃ³s novo aumento nos preÃ§os do petrÃ³leo. A medida mantÃ©m zerados os tributos federais sobre a gasolina (R$ 0,89 por litro) e sobre o etanol (R$ 0,19 por litro). JÃ¡ a subvenÃ§Ã£o ao etanol estÃ¡ em R$ 0,428 por litro. Na Ã©poca do anÃºncio, em outubro, o governo justificou a medida pela necessidade de manter o diferencial competitivo do etanol em relaÃ§Ã£o Ã gasolina, vantagem assegurada pela aprovaÃ§Ã£o da lei complementar 235 de 2016. Pelos cÃ¡lculos do governo, a desoneraÃ§Ã£o da gasolina e do etanol custarÃ¡ R$ 2,76 bilhÃµes. A estimativa considera a vigÃªncia do benefÃ­cio de 10 de novembro a 9 de dezembro deste ano. JÃ¡ a subvenÃ§Ã£o extra ao etanol terÃ¡ impacto de R$ 813,41 milhÃµes em um perÃ­odo de 30 dias. A saÃ­da das subvenÃ§Ãµes serÃ¡ um desafio para o presidente reeleito , jÃ¡ que o mercado espera que os preÃ§os, principalmente do diesel, permaneÃ§am altos ao longo de 2027. Abrir mÃ£o dos benefÃ­cios pode resultar em aumento de preÃ§os nas bombas, com impacto na inflaÃ§Ã£o. Dentro do governo, o objetivo Ã© reduzir os benefÃ­cios, mas isso tambÃ©m depende da evoluÃ§Ã£o dos preÃ§os de petrÃ³leo, para tentar evitar impactos bruscos sobre os preÃ§os na bomba e o repasse desse custo (sobretudo do diesel) para demais produtos. Receba no seu email o que de mais importante acontece na economia; aberta para nÃ£o assinantes. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. VocÃª jÃ¡ conhece as vantagens de ser assinante da Folha? AlÃ©m de ter acesso a reportagens e colunas, vocÃª conta com newsletters exclusivas ( conheÃ§a aqui ). TambÃ©m pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notÃ­cias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado! Mais de 180 reportagens e anÃ¡lises ",
+  "numeros": [
+   {
+    "valor": "R$ 1,40",
+    "rotulo": "subvenção do diesel"
+   },
+   {
+    "valor": "30 dias",
+    "rotulo": "duração inicial da subvenção"
+   },
+   {
+    "valor": "R$ 3,57 bilhões",
+    "rotulo": "impacto total das desonerações"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento no custo de vida e redução da margem de lucro",
+  "angulo": "Aprender sobre investimentos e o mercado financeiro traz autonomia financeira, ajudando a lidar com a instabilidade dos preços e reduzir riscos.",
+  "gancho": "*Aumento no custo de vida* e como lidar com",
+  "ideias": [
+   "Aumento do custo de vida: o que fazer?",
+   "Subvenções no combustível: impacto direto no seu bolso",
+   "Aprenda a lidar com a inflação e custos altos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml",
+  "publicadoEm": "2026-11-13T19:55:00-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim do subsídio de R$ 1,40 ao diesel importado",
+  "resumo": "O governo não renovou a subvenção de R$ 1,40 por litro ao diesel importado, afetando custos no transporte. A subvenção rodoviária de R$ 2,12 permanece ativa.",
+  "fatos": [
+   "A subvenção de R$ 1,40 ao diesel importado não foi renovada e tinha validade de 30 dias.",
+   "A decisão foi divulgada em 13 de novembro de 2026 pelo Ministério da Fazenda.",
+   "A subvenção de R$ 2,12 ao óleo diesel A, para uso rodoviário, continua em vigor.",
+   "Mais de 25% do consumo de diesel no Brasil depende de importações.",
+   "A não renovação do subsídio ao diesel importado pode impactar os preços internos.",
+   "O pacote de ajuste fiscal no Senado estima retirar até R$ 10,5 bilhões em subvenções ao diesel.",
+   "A proposta ainda precisa ser aprovada pela Câmara dos Deputados."
+  ],
+  "explicacao": [
+   "O término da subvenção ao diesel importado deve-se à alta nos preços internacionais do petróleo e à necessidade de ajustes no orçamento.",
+   "Essa medida pode afetar diretamente o custo de transporte, aumentando os preços finais de produtos e serviços.",
+   "A manutenção da subvenção rodoviária busca minimizar o impacto sobre o custo de vida, compensando uma parte dos altos preços."
+  ],
+  "materia": "Benefício tinha validade de 30 dias e não foi renovado; subvenção de R$ 2,12 por litro ao diesel rodoviário continua em vigor O governo federal não renovou a subvenção de R$ 1,40 por litro ao diesel importado, que vigorou por 30 dias. O Ministério da Fazenda informou na noite desta 6ª feira (13.nov.2026) que o benefício chegou ao fim com o vencimento da Portaria 3.082, publicada em 13 de outubro. A decisão não afeta a subvenção de R$ 2,12 por litro destinada ao óleo diesel A de uso rodoviário, que continua em vigor. Segundo a Fazenda, a possibilidade de reavaliar o benefício ao combustível importado não está rejeitada e dependerá da evolução dos preços do petróleo. As medidas têm valores e regras diferentes. O benefício de R$ 1,40 por litro era específico para o diesel importado. Já a subvenção de R$ 2,12 por litro, mantida pela Portaria 3.181, de 27 de outubro, atende produtores e importadores de óleo diesel A de uso rodoviário. A subvenção é um pagamento do governo a produtores ou importadores para reduzir os custos de comercialização do combustível. O objetivo é diminuir o impacto da alta dos preços internacionais sobre o mercado brasileiro. O benefício de R$ 1,40 foi anunciado em outubro, em meio à alta do petróleo provocada pelas tensões e pelo conflito no Oriente Médio. A medida tinha validade inicial de 30 dias. Mais de 25% do consumo de diesel no Brasil depende de importações, segundo o governo. Quando os preços internacionais sobem, o custo de compra no exterior também aumenta. A subvenção busca compensar parte dessa diferença e reduzir a pressão sobre os preços internos. A subvenção de R$ 2,12 por litro foi prorrogada em 27 de outubro por mais 30 dias. O benefício é destinado a produtores e importadores de óleo diesel A de uso rodoviário. O diesel A é o combustível puro, antes da mistura obrigatória com biodiesel. Já o diesel B é comercializado nos postos e contém a mistura dos 2 combustíveis. Os subsídios ao diesel também estão no centro do debate sobre as contas públicas. O texto-base do pacote de ajuste fiscal foi aprovado pelo Senado na 5ª feira (12.nov) e estima retirar até R$ 10,5 bilhões em subvenções ao diesel do cálculo da meta fiscal de 2026. O projeto de lei complementar ainda precisa passar pela Câmara dos Deputados. A mudança não elimina os gastos com os subsídios nem representa economia para os cofres públicos. A proposta permite apenas que esses valores sejam desconsiderados na verificação do cumprimento da meta de resultado primário. a) Para receber as informações solicitadas, você nos autoriza a usar o seu nome, endereço de e-mail e/ou telefone e assuntos de interesse (a depender da opção assinalada e do interesse indicado). Independentemente da sua escolha, note que o Poder360 poderá lhe contatar para assuntos regulares. b) Caso não deseje oferecer o seu consentimento para as divulgações do Poder360, é possível seguir sem receber as informações assinaladas acima. Você poderá, a qualquer momento, se descadastrar de nossos contatos ou revogar o consentimento dado abaixo pelos nossos canais de atendimento. c) O Poder360 garantirá o exercício de quaisquer direitos e prerrogativas de proteção de dados pessoais em conformidade com a Lei 13.709/2018. Mais informações, leia nossa Política de Privacidade . O Poder360 enviou um e-mail para você confirmar a inscrição. Clique no link enviado para o seu e-mail para concluir o cadastro. Não chegou ainda? Dê uma olhada na caixa de spam se a mensagem não tiver aparecido em alguns minutos.",
+  "numeros": [
+   {
+    "valor": "R$ 1,40",
+    "rotulo": "subsídio ao diesel importado"
+   },
+   {
+    "valor": "R$ 2,12",
+    "rotulo": "subsídio ao diesel rodoviário"
+   },
+   {
+    "valor": "25%",
+    "rotulo": "dependência do diesel importado"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento nos custos de transporte e produtos",
+  "angulo": "Com as mudanças nos subsídios, entender como o mercado financeiro pode oferecer alternativas de renda é fundamental para a segurança financeira.",
+  "gancho": "Impacto do *fim do subsídio* no seu bolso!",
+  "ideias": [
+   "Entenda como o diesel afeta sua conta!",
+   "Aumentos no transporte: como se preparar?",
+   "Mercado financeiro: sua saída do custo de vida!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-13T22:53:21-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/governo-encerra-subsidio-de-r-140-ao-diesel-importado/",
+  "publicadoEm": "2026-11-13T22:22:49-03:00",
+  "data": "2026-11-13",
+  "id": "2026-11-13-trader-14"
  },
  {
   "segmento": "trader",

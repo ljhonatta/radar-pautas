@@ -1,28 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-13T18:45:56-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-13T22:53:21-03:00",
+  "novas": 3,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): 13º salário pode injetar R$ 399,1 bilhões até 2026; Novo pacote fiscal impacta seu bolso e negócios; Indústrias em crise: *confiança despenca* em novembro.",
-  "falhas": [
-   "Google Notícias 'escala 6x1' (HTTPError)",
-   "Google Notícias 'Receita Federal' (HTTPError)",
-   "Google Notícias 'imposto de renda' (HTTPError)",
-   "Google Notícias 'INSS aposentadoria' (HTTPError)",
-   "Google Notícias 'salário mínimo' (HTTPError)",
-   "Google Notícias 'desemprego IBGE' (HTTPError)",
-   "Google Notícias 'inflação IPCA' (HTTPError)",
-   "Google Notícias 'Copom Selic juros' (HTTPError)",
-   "Google Notícias 'MEI Simples Nacional' (HTTPError)",
-   "Google Notícias 'Câmara aprova projeto trabalhador' (HTTPError)",
-   "Google Notícias 'Senado aprova empresas' (HTTPError)",
-   "Google Notícias 'custo de vida' (HTTPError)",
-   "Google Notícias 'CLT direitos trabalhistas' (HTTPError)",
-   "Google Notícias 'reforma tributária empresas' (HTTPError)"
-  ],
+  "mensagem": "3 pauta(s) nova(s): Fim do subsídio de R$ 1,40 ao diesel importado; Retirada da subvenção pode aumentar custo de vida; Governo encerra subsídio ao diesel importado.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-13T22:53:21-03:00",
    "2026-11-13T18:45:56-03:00",
    "2026-11-13T14:24:22-03:00",
    "2026-11-12T23:13:07-03:00",
@@ -33,32 +19,19 @@
    "2026-11-11T14:30:04-03:00",
    "2026-11-10T22:32:29-03:00",
    "2026-11-10T18:36:22-03:00",
-   "2026-11-10T14:20:47-03:00",
-   "2026-11-10T00:52:06-03:00"
+   "2026-11-10T14:20:47-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-13T18:45:56-03:00",
-  "novas": 8,
+  "ultimaColeta": "2026-11-13T22:53:21-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): Inteligência Artificial na Black Friday: aliada ou armadilha?; A nova lei tributária e seus desafios operacionais; Vendas do comércio mostram *estabilidade* em setembro.",
-  "falhas": [
-   "Google Notícias 'Instagram novidade empresas' (HTTPError)",
-   "Google Notícias 'WhatsApp Business' (HTTPError)",
-   "Google Notícias 'Meta anúncios' (HTTPError)",
-   "Google Notícias 'Google anúncios pequenas empresas' (HTTPError)",
-   "Google Notícias 'TikTok Shop' (HTTPError)",
-   "Google Notícias 'inteligência artificial pequenas empresas' (HTTPError)",
-   "Google Notícias 'varejo vendas pesquisa' (HTTPError)",
-   "Google Notícias 'e-commerce Brasil' (HTTPError)",
-   "Google Notícias 'Black Friday varejo' (HTTPError)",
-   "Google Notícias 'Sebrae pequenos negócios' (HTTPError)",
-   "Google Notícias 'comportamento do consumidor pesquisa' (HTTPError)",
-   "Google Notícias 'PEGN empreendedor' (HTTPError)"
-  ],
+  "mensagem": "6 pauta(s) nova(s): Como a vacância em queda afeta seus investimentos em imóveis?; Financiamento climático: novos caminhos para pequenos negócios; Crescimento das vendas no Ceará na Black Friday.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-13T22:53:21-03:00",
    "2026-11-13T18:45:56-03:00",
    "2026-11-13T14:24:22-03:00",
    "2026-11-12T23:13:07-03:00",
@@ -69,8 +42,7 @@
    "2026-11-11T14:30:04-03:00",
    "2026-11-10T22:32:29-03:00",
    "2026-11-10T18:36:22-03:00",
-   "2026-11-10T14:20:47-03:00",
-   "2026-11-10T00:52:06-03:00"
+   "2026-11-10T14:20:47-03:00"
   ]
  }
 }
