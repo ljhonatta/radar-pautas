@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-14T13:11:56-03:00",
-  "novas": 7,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-11-14T17:17:19-03:00",
+  "novas": 0,
+  "atualizadas": 3,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Medidas fiscais podem impactar o seu bolso; Novos impostos podem impactar seu bolso diretamente; Taxação de dividendos pode afetar seu bolso.",
+  "mensagem": "0 pauta(s) nova(s) e 3 atualizada(s)",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-14T17:17:19-03:00",
    "2026-11-14T13:11:56-03:00",
    "2026-11-13T22:53:21-03:00",
    "2026-11-13T18:45:56-03:00",
@@ -18,19 +19,19 @@
    "2026-11-11T23:34:39-03:00",
    "2026-11-11T19:24:59-03:00",
    "2026-11-11T14:30:04-03:00",
-   "2026-11-10T22:32:29-03:00",
-   "2026-11-10T18:36:22-03:00"
+   "2026-11-10T22:32:29-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-14T13:11:56-03:00",
+  "ultimaColeta": "2026-11-14T17:17:19-03:00",
   "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Hubble pode cair, empresas precisam agir; Varejo baiano enfrenta queda consecutiva nas vendas; Varejo no RN registra queda de vendas sem precedentes.",
+  "mensagem": "7 pauta(s) nova(s): Multa da Meta mostra riscos de privacidade para negócios; Multa da Meta destaca riscos na gestão de dados pessoais; IA: o novo motor de competitividade para empresas brasileiras.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-14T17:17:19-03:00",
    "2026-11-14T13:11:56-03:00",
    "2026-11-13T22:53:21-03:00",
    "2026-11-13T18:45:56-03:00",
@@ -41,8 +42,7 @@
    "2026-11-11T23:34:39-03:00",
    "2026-11-11T19:24:59-03:00",
    "2026-11-11T14:30:04-03:00",
-   "2026-11-10T22:32:29-03:00",
-   "2026-11-10T18:36:22-03:00"
+   "2026-11-10T22:32:29-03:00"
   ]
  }
 }
