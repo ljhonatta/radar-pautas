@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-14T17:17:19-03:00",
-  "novas": 0,
-  "atualizadas": 3,
+  "ultimaColeta": "2026-11-14T22:24:09-03:00",
+  "novas": 4,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "0 pauta(s) nova(s) e 3 atualizada(s)",
+  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1: impacto no mercado de trabalho; Mudança na jornada de trabalho: como isso afeta seu bolso?; Protestos na França refletem aumento do custo de vida.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-14T22:24:09-03:00",
    "2026-11-14T17:17:19-03:00",
    "2026-11-14T13:11:56-03:00",
    "2026-11-13T22:53:21-03:00",
@@ -18,19 +19,19 @@
    "2026-11-12T14:46:13-03:00",
    "2026-11-11T23:34:39-03:00",
    "2026-11-11T19:24:59-03:00",
-   "2026-11-11T14:30:04-03:00",
-   "2026-11-10T22:32:29-03:00"
+   "2026-11-11T14:30:04-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-14T17:17:19-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-14T22:24:09-03:00",
+  "novas": 8,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Multa da Meta mostra riscos de privacidade para negócios; Multa da Meta destaca riscos na gestão de dados pessoais; IA: o novo motor de competitividade para empresas brasileiras.",
+  "mensagem": "8 pauta(s) nova(s): Multa de 805 milhões de euros contra Meta na Itália; Meta multada em R$ 4,9 bi afeta negócios; Itália impõe multa de 805 milhões à Meta por dados.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-14T22:24:09-03:00",
    "2026-11-14T17:17:19-03:00",
    "2026-11-14T13:11:56-03:00",
    "2026-11-13T22:53:21-03:00",
@@ -41,8 +42,7 @@
    "2026-11-12T14:46:13-03:00",
    "2026-11-11T23:34:39-03:00",
    "2026-11-11T19:24:59-03:00",
-   "2026-11-11T14:30:04-03:00",
-   "2026-11-10T22:32:29-03:00"
+   "2026-11-11T14:30:04-03:00"
   ]
  }
 }
