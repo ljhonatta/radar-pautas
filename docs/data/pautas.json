@@ -1,6 +1,276 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Segurança das redes móveis em risco com ataques cibernéticos",
+  "resumo": "Hackers sequestram redes móveis, comprometendo a segurança de ligações e mensagens. Medidas urgentes são necessárias para proteger empresas e consumidores.",
+  "fatos": [
+   "O grupo 'SilentAir' interceptou chamadas e mensagens de texto de redes móveis.",
+   "Os ataques afetaram principalmente Taiwan, mas se espalharam para outros países asiáticos.",
+   "Os criminosos usaram vulnerabilidades conhecidas em protocolos como SS7 e Diameter.",
+   "Os ataques visavam políticos e autoridades governamentais, coletando dados detalhados dos assinantes.",
+   "A Enea identificou que as operadoras precisam adotar defesas integradas para combater esse tipo de invasão."
+  ],
+  "explicacao": [
+   "O ataque ocorreu devido a falhas de segurança em protocolos de comunicação das operadoras de celular.",
+   "Os invasores redirecionaram chamadas e mensagens para roubar informações dos usuários.",
+   "A vulnerabilidade envolve a confiança nos sistemas de comunicação, permitindo o acesso a dados sensíveis."
+  ],
+  "materia": "A segurança das redes de telefonia móvel sofreu um golpe significativo com a descoberta de uma nova ação de ataques cibernéticos em nível estatal. A empresa de software para telecomunicações e cibersegurança Enea revelou, nesta quarta-feira (11), que um grupo desconhecido, batizado de “SilentAir”, sequestrou nós de redes móveis para interpretar chamadas telefônicas e mensagens de texto . Os alvos principais da campanha ficam em Taiwan, porém a operação atingiu outros países e figuras de destaque político. A investigação detalha que o coletivo usou vulnerabilidades em protocolos de sinalização conhecidos como SS7 e Diameter. Os ataques ocorreram a partir de nós de redes que foram comprometidos dentro de operadoras de celular. Com essa invasão, os criminosos redirecionaram ligações e mensagens de texto das vítimas para coletar dados detalhados dos assinantes. A atuação dos invasores chamou atenção pela precisão e pelas escolha dos alvos. Segundo o relatório técnico produzido pela Enea, o foco principal recai sobre assinantes em Taiwan, embora operadoras em pelo menos seis países asiáticos tenham sido usadas como base para atingir mais de uma dezena de territórios . Políticos e autoridades governamentais estiveram entre as pessoas monitoradas. Os pesquisadores relataram monitorar essas ações desde o início do ano passado, embora tenham encontrado vestígios de que os ataques começaram anteriormente. As empresas de telefonia utilizam uma rede global chamada IPX para permitir que os celulares funcionem em roaming e troquem dados. O grupo SilentAir aproveitou a confiança embutida nesse sistemas para injetar comandos maliciosos diretamente nas entranhas das operadoras afetadas. A empresa de segurança explicou que os invasores modificaram a localização cadastrada das vítimas pra conseguir interceptar os códigos de autenticação de dois fatores. Essa ação permitiu que os criminosos tentassem invadir outras contas on-line associadas aos números visados. Os especialistas também descobriram que a campanha utilizou mensagens de textos que não aparecem no celular do destinatário para confirmar se o desvio de chamadas funcionava corretamente. “A observação na atividade em interfaces globais de sinalização permitiu identificar elementos de rede suspeitos em operadoras de pelo menos 6 países asiáticos”, identificou a equipe da Enea, em análise técnica , cujos detalhes completos estão disponíveis na publicação da empresa sobre o rastreamento da SlientAir. Além da SilentAir, o relatório aborda a persistência de outro grupo conhecido: o Liminal Panda, que tem laços apontados com operações ligadas à China. A Enea detectou que esse coletivo explorou ativamente o protocolo GTP, usado para o tráfico de dados móveis, a partir do programa malicioso GTPDoor. A descoberta marcou a primeira vez que a exploração desse tipo de protocolo foi detalhada publicamente com dados de detecção em operadora reais. O software malicioso permitiu que os invasores mantivessem túneis de comunicação ocultos para extrair informações de dentro das redes móveis afetadas na Ásia, na África e na América Latina. Os pesquisadores da empresa de segurança reforçam que as operadoras precisam adotar defesas integradas que olhem para todos os protocolos ao mesmo tempo, em vez de focar apenas em proteções isoladas: Os defensores precisam de segurança abrangente nas bordas das redes, com sistemas que compartilhem informações entre firewalls de diferentes protocolos para destacar ameaças que passam despercebidos Siga o TecMundo no X , Instagram , Facebook e YouTube e assine a nossa newsletter para receber as principais notícias e análises diretamente no seu e-mail. Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história Galaxy S26: até quanto vale a pena pagar na Black Friday? One UI 9.5: confira 6 novidades do sistema encontradas até agora Contador confessa uso de I",
+  "numeros": [
+   {
+    "valor": "6",
+    "rotulo": "países asiáticos afetados"
+   },
+   {
+    "valor": "mais de uma dezena",
+    "rotulo": "territórios comprometidos"
+   }
+  ],
+  "fonte": "TecMundo",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de dados e confiança do cliente em serviços digitais",
+  "angulo": "Como esse ataque destaca a necessidade de proteger dados e a reputação da empresa, oferecendo serviços de segurança digital e marketing.",
+  "gancho": "Proteja-se: *ataques cibernéticos em alta*!",
+  "ideias": [
+   "Você está seguro? Entenda os riscos cibernéticos.",
+   "Como proteger seus dados em tempos de ataques?",
+   "A importância da segurança digital para o seu negócio."
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/novo-ataque-cibernetico-sequestra-redes-moveis-para-enganar-vitima-via-mensagens/",
+  "publicadoEm": "2026-11-15T15:00:00-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a expansão exige gestão e acompanha o crescimento empresarial",
+  "resumo": "Estudo revela que 89,7% das empresas enfrentam ineficiências de gestão com o crescimento. O planejamento e a estruturação adequados se tornam essenciais para sustentar essa evolução.",
+  "fatos": [
+   "89,7% dos clientes da Human Up reportaram ineficiências em suas gestões.",
+   "34,5% estavam buscando estruturar-se para crescimento acelerado.",
+   "55,2% almejavam sustentar crescimento e preparar processos de sucessão.",
+   "10% estavam passando por aquisição ou troca de CEO.",
+   "Um dos clientes da Human Up teve um crescimento de 50% após reestruturação."
+  ],
+  "explicacao": [
+   "O crescimento acelerado das empresas pode revelar ineficiências que antes não eram perceptíveis, como centralização de decisões e falta de clareza nos papéis.",
+   "Com a expansão, é essencial estruturar melhor a gestão para garantir que a empresa se mantenha competitiva.",
+   "Problemas como a sobrecarga de liderança e baixa autonomia das equipes podem resultar em baixos índices de rendimento.",
+   "Alinhamento entre estrutura, metas e gestão é vital para o sucesso nos novos contextos empresariais."
+  ],
+  "materia": "89,7% dos clientes da Human Up apresentaram ineficiências, com reflexos em saúde do negócio, falta de governança, desorganização estrutural, baixa performance e questões relacionais O crescimento acelerado de uma empresa pode fazer com que estruturas de gestão que antes funcionavam em uma operação menor deixem de acompanhar a evolução do negócio. Segundo dados da Human Up, empresa focada em resolver desafios organizacionais de companhias em crescimento, 89,7% de seus clientes atendidos chegaram à consultoria com desafios relacionados à estruturação da gestão. A sócia da companhia, Júlia Arruda, aponta que com mais pessoas, processos e decisões, problemas como centralização no CEO, falta de clareza sobre responsabilidades e lentidão nas decisões podem se tornar mais evidentes. 34,5% desses clientes estavam em um contexto de estruturação para crescimento acelerado, 55,2% buscavam estruturar a empresa para sustentar crescimento e preparar processos de sucessão e outros 10% passavam por aquisição ou troca de CEO. Em dados levantados pela empresa , 89,7% dos clientes apresentaram ou apresentam ineficiências relacionadas ao sistema de gestão. Apesar de terem diferentes origens, os cenários mostram um ponto em comum: a estrutura que sustentava a empresa até o momento deixa de ser suficiente para a nova fase do negócio. Para a Human Up, as dores identificadas se concentram em cinco dimensões: saúde do negócio, falta de governança, desorganização estrutural, baixa performance do time e questões relacionais. Na prática, esses problemas aparecem em situações como faturamento abaixo do potencial, gastos ineficientes, decisões centralizadas no CEO, liderança sobrecarregada, falta de clareza sobre papéis e processos, baixa autonomia das equipes, dificuldade de retenção e conflitos entre áreas. “Essas dores aparecem de forma muito consistente no nosso mapeamento de clientes, mas cada empresa com um fator diferente. Algumas precisavam crescer, outras precisavam sustentar o crescimento, ou recuperar eficiência e profissionalizar a gestão. O que fazemos, na prática, é transformar uma empresa que cresceu de forma orgânica em uma organização capaz de ser gerida de forma intencional”, afirma Júlia. Em cases acompanhados pela companhia, os efeitos dessas mudanças de gestão também aparecem em indicadores financeiros e de pessoas. Um dos clientes obteve um crescimento de 50%, outro com aumento de margem em um resultado de 15% e nas reduções de turnover e custos resultando em uma economia de aproximadamente R$80 mil e aumentando 9% do engajamento da empresa em seis meses. “Existem situações em que um indicador piora para depois passar pela melhora, então não olhamos para os indicadores isoladamente. Nosso objetivo além de ter menos turnover, o que é comum entre nossos cases, é ter uma estrutura, pessoas e um sistema de gestão que seja adequado para o momento e a estratégia do negócio”, diz Manuella González, fundadora da Human Up. Segundo as especialistas, os primeiros avanços de uma reestruturação se encontram na qualidade das decisões, na clareza das responsabilidades, na redução de problemas e na autonomia das equipes. A partir dessas mudanças, resultados como redução de turnover, ganho de eficiência e melhoria de margem passam a se tornar mais consistentes. Neste cenário, a Human Up traz que a proposta é de atuar além dos indicadores que trazem resultados ao negócio, conectando uma estrutura de design organizacional, metas e incentivos, rituais de gestão e liderança, sem olhar apenas para indicadores isolados é o que traz resultado ao negócio. Para empresas em expansão, a integração destes elementos permite que o crescimento seja acompanhado da melhor forma por uma gestão capaz de sustentar a nova dimensão do negócio. Em Blumenau, vouchers inspirados no Reino do Garcia integram ações de um grupo com 30 empresas de Pesquisa da Confederação Nacional de Dirigentes Lojistas e do SPC Brasil revela que entraves estruturais seguem limitando Pesquisa da C",
+  "numeros": [
+   {
+    "valor": "50",
+    "rotulo": "crescimento percentual obtido por cliente após reestruturação"
+   },
+   {
+    "valor": "80 mil",
+    "rotulo": "economia em custos alcançada por um cliente"
+   },
+   {
+    "valor": "9",
+    "rotulo": "porcentagem de aumento no engajamento em seis meses"
+   }
+  ],
+  "fonte": "Confederação Nacional de Dirigentes Lojistas",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "estruturas de gestão ineficientes que limitam o crescimento",
+  "angulo": "Com a complexidade crescente, seu negócio precisa de suporte estruturado e eficaz para não perder oportunidades. Entender as nuances da gestão pode ser o diferencial que você busca.",
+  "gancho": "*Ineficiências* podem estar travando seu crescimento!",
+  "ideias": [
+   "Sustentando o crescimento: a importância da gestão",
+   "Ineficiências em gestão: um alerta para seu negócio!",
+   "Reestruturação: o caminho para um crescimento eficaz"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://cndl.org.br/varejosa/expansao-de-negocios-aumenta-pressao-por-estruturas-de-gestao-mais-eficientes/",
+  "publicadoEm": "2026-11-15T16:19:05-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Fraudes no e-commerce caem, mas ainda são preocupantes",
+  "resumo": "Tentativas de fraude recuaram 6,86% em outubro, mas cuidado é necessário nas compras online. 53% dos consumidores já desconfiaram de sites falsos.",
+  "fatos": [
+   "Em outubro, tentativas de fraude no e-commerce caíram 6,86% em relação a setembro.",
+   "A taxa de tentativas de fraude diminuiu de 1,42% para 1,33%.",
+   "O valor das transações suspeitas caiu 14,33%, reduzindo o ticket médio de R$ 802,96 para R$ 738,55.",
+   "A pesquisa indica que 53% dos consumidores temem sites falsos durante a Black Friday.",
+   "86% dos entrevistados já desistiram de promoções por medo de fraudes."
+  ],
+  "explicacao": [
+   "A queda nas fraudes pode ser uma tática dos golpistas para evitar suspeitas antes da Black Friday.",
+   "Os consumidores devem ficar atentos à legitimidade das ofertas e à reputação das lojas online.",
+   "A preocupação com fraudes já afeta o comportamento de compra e pode impactar as vendas do e-commerce."
+  ],
+  "materia": "Depois de três meses seguidos de alta, as tentativas de fraude no comércio eletrônico brasileiro recuaram em 6,86% em outubro, em relação a setembro, segundo o Índice de Fraude da Equifax BoaVista, que analisou cerca de 45 milhões de transações digitais no período. A taxa de tentativas também diminuiu: foi de 1,42% para 1,33%, uma queda de 6,34%. O valor das transações suspeitas seguiu o mesmo caminho e encolheu 14,33%, o que fez o ticket médio cair de R$ 802,96 para R$ 738,55. A poucas semanas da Black Friday , período de maior movimento no e-commerce, o recuo pode não ser sinal de que o perigo passou. “Essa redução pode estar relacionada a uma estratégia dos fraudadores. Depois de movimentar as contas laranja e confirmar que estão ativas, eles diminuem suas ações para evitar suspeitas antes das grandes promoções”, afirma Márcio Souza, superintendente de Operações de ID&Fraud da Equifax BoaVista. Durante a Black Friday, os consumidores precisam ir além da comparação de preços e condições de pagamento, verificando a legitimidade das ofertas e a reputação das lojas para evitar golpes em sites e anúncios. O receio de golpes já interfere diretamente no comportamento de compra. Segundo o levantamento “Raio-X da Black Friday”, realizado pela Serasa Experian em setembro de 2026, com 1.480 entrevistados, 53% apontam os sites falsos como sua principal preocupação. Os golpes envolvendo Pix aparecem em seguida, mencionados por 42%, enquanto 32% demonstram preocupação com anúncios fraudulentos nas redes sociais. O impacto também aparece na conversão. De acordo com a pesquisa, 86% dos entrevistados afirmam já ter desistido de aproveitar uma promoção por medo de fraudes. O risco não é apenas uma percepção dos consumidores. Segundo o Mapa da Fraude da Serasa Experian, o e-commerce brasileiro registrou 29.689 tentativas de fraude entre 27 e 30 de novembro de 2025. As ações identificadas evitaram um prejuízo estimado em R$ 30,7 milhões. Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "6,86%",
+    "rotulo": "queda nas tentativas de fraude"
+   },
+   {
+    "valor": "53%",
+    "rotulo": "consumidores preocupados com sites falsos"
+   },
+   {
+    "valor": "86%",
+    "rotulo": "desistências por medo de fraudes"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "perda de vendas devido ao medo de fraudes",
+  "angulo": "Entender essas fraudes é crucial para proteger seu negócio e desenvolver estratégias de marketing eficazes.",
+  "gancho": "*Atenção com fraudes* nas compras online!",
+  "ideias": [
+   "Como proteger seu e-commerce de fraudes?",
+   "Dicas para consumidores evitarem golpes online",
+   "A importância de ter um site seguro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://mercadoeconsumo.com.br/15/11/2026/ecommerce/tentativa-de-fraudes-no-e-commerce-recuam-as-vesperas-da-black-friday/",
+  "publicadoEm": "2026-11-15T15:20:53-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Desafios do varejo na Black Friday 2026",
+  "resumo": "A Black Friday 2026 exigirá preparo das empresas para equilibrar promoções e eficiência. O sucesso depende de uma estratégia bem planejada e operacional.",
+  "fatos": [
+   "A Black Friday 2026 está prevista para impulsionar o e-commerce no Brasil.",
+   "As empresas precisarão se preparar operacionalmente para o aumento nas vendas.",
+   "Promoções agressivas poderão impactar diretamente na rentabilidade.",
+   "O equilíbrio entre ofertas e eficiência operacional é crucial.",
+   "A competição será acirrada entre os varejistas durante este período."
+  ],
+  "explicacao": [
+   "O cenário da Black Friday exige que as empresas se adaptem às demandas do consumidor.",
+   "Promoções podem trazer vendas, mas precisam ser sustentáveis financeiramente.",
+   "Empresas que não se prepararem perderão espaço para concorrentes mais eficientes."
+  ],
+  "materia": "Início – Black Friday 2026 desafia varejo a equilibrar promoções agressivas e eficiência operacional. A Black Friday 2026 promete impulsionar o e-commerce brasileiro, exigindo das empresas preparo operacional para acompanhar o aumento das vendas. #Linkezine 🛒 O post Black Friday 2026 desafia varejo a equilibrar promoções agressivas e eficiência operacional apareceu primeiro em Linkezine. Continua em: Black Friday 2026 desafia varejo a equilibrar promoções agressivas e eficiência operacional Compartilhe isso: Envie um link por e-mail para um amigo(abre em nova janela) E-mail Imprimir(abre em nova janela) Imprimir Tweet Compartilhar no Tumblr Compartilhar no Reddit(abre em nova janela) Reddit Compartilhar no Telegram(abre em nova janela) Telegram Compartilhar no WhatsApp(abre em nova janela) WhatsApp Compartilhar no Threads(abre em nova janela) Threads Compartilhar no Mastodon(abre em nova janela) Mastodon Compartilhar no Nextdoor(abre em nova janela) Nextdoor Compartilhar no Bluesky(abre em nova janela) Bluesky Curtir Carregando... Relacionado Deixe um comentário Este site utiliza o Akismet para reduzir spam. Saiba como seus dados em comentários são processados .",
+  "numeros": [],
+  "fonte": "DISCUTINDO CONTEMPORANEIDADES",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perda de vendas devido à falta de planejamento.",
+  "angulo": "Neste cenário, a gestão eficiente de marketing é essencial para não perder vendas e manter a operação saudável.",
+  "gancho": "Equilibrando *promoções e operações* na Black Friday",
+  "ideias": [
+   "Como se preparar para a Black Friday?",
+   "Promoções: Venda ou perda?",
+   "Estratégias de sucesso para o e-commerce"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://professorrafaelporcari.com/2026/11/15/black-friday-2026-desafia-varejo-a-equilibrar-promocoes-agressivas-e-eficiencia-operacional/",
+  "publicadoEm": "2026-11-15T15:00:00-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Pequenas empresas e a importância de ter um site",
+  "resumo": "Pequenas empresas estão investindo em presença digital. Criadores de sites ajudam a otimizar vendas e fortalecer a marca no meio digital.",
+  "fatos": [
+   "Empresas estão buscando formas de se destacar online.",
+   "A presença digital é crucial para competir no mercado atual.",
+   "Criadores de sites facilitam o acesso a mais consumidores."
+  ],
+  "explicacao": [
+   "A crescente adesão ao digital é uma resposta às demandas do consumidor moderno, que busca conveniência e acesso rápido à informação. Ter um site próprio permite que empresas pequenas ganhem visibilidade e credibilidade, melhorando suas vendas e relacionamento com o cliente. Com a competição acirrada, não estar online pode significar perdas significativas."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Capital News",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder oportunidades de vendas sem uma boa presença online",
+  "angulo": "A necessidade de um site bem estruturado se mostra essencial em um mercado competitivo, levando empresários a entenderem as vantagens de ter um suporte profissional.",
+  "gancho": "Você *sabe a importância de ter um site?*",
+  "ideias": [
+   "Como um site pode transformar seu negócio",
+   "Atraia mais clientes com um site profissional",
+   "Importância da presença digital para pequenos negócios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://www.capitalnews.com.br/colunistas/fronteira-do-negocio/como-pequenas-empresas-fortalecem-a-presenca-digital-com-um-criador-de-sites/450035",
+  "publicadoEm": "2026-11-15T15:46:00-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-vpr-08"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Como a economia do bem-estar impacta seus negócios hoje",
   "resumo": "A busca por saúde e bem-estar transformou a economia global, alcançando US$ 7,5 trilhões em 2025. Empresários precisam se adaptar a essa nova realidade para não ficarem defasados.",
   "fatos": [
@@ -398,6 +668,244 @@
   "publicadoEm": "2026-11-15T12:17:17-03:00",
   "data": "2026-11-15",
   "id": "2026-11-15-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aposentadoria do INSS: novas regras em 2027",
+  "resumo": "As mudanças na aposentadoria do INSS em 2027 vão exigir mais tempo e idade. Fique atento às novas regras se você está perto de se aposentar.",
+  "fatos": [
+   "Em 2027, a idade mínima progressiva aumentará seis meses para mulheres e homens.",
+   "As mulheres precisarão ter 60 anos e os homens, 65 anos para se aposentar.",
+   "A regra dos pontos exigirá 94 pontos para mulheres e 104 para homens.",
+   "Trabalhadores que cumprirem os requisitos até dezembro de 2026 preservarão o direito.",
+   "Professores terão regras específicas e requisitos diferenciados."
+  ],
+  "explicacao": [
+   "As mudanças são parte do calendário da Emenda Constitucional nº 103, aprovada em 2019.",
+   "Essas alterações não configuram uma nova reforma, mas aumentos progressivos nas exigências.",
+   "Importante que os segurados verifiquem seu histórico de contribuições antecipadamente para não perder direitos."
+  ],
+  "materia": "A aposentadoria do INSS terá novas exigências em 2027. Veja as mudanças na idade mínima, na regra dos pontos e quem ainda pode se aposentar. Quem está perto de se aposentar precisa ficar atento às mudanças previstas para janeiro de 2027. Duas regras de transição do Instituto Nacional do Seguro Social (INSS) ficarão mais exigentes: a idade mínima progressiva aumentará seis meses, enquanto a pontuação necessária para solicitar o benefício subirá um ponto. As alterações não representam uma nova reforma da Previdência. Elas fazem parte do calendário estabelecido pela Emenda Constitucional nº 103, aprovada em 2019, que determinou o aumento gradual dos requisitos para determinados segurados. Na prática, a mudança pode fazer diferença para trabalhadores que estão próximos de completar o tempo necessário para pedir a aposentadoria. Por isso, conferir o histórico de contribuições e simular o benefício antes da virada do ano pode ajudar a identificar a regra mais vantajosa. As principais alterações atingem quem já contribuía para a Previdência antes de 13 de novembro de 2019 e ainda não conseguiu cumprir todos os requisitos para se aposentar. Na regra da idade mínima progressiva, a exigência aumenta seis meses em relação a 2026. Já na regra dos pontos, o segurado precisará alcançar uma pontuação maior, calculada pela soma da idade com o tempo de contribuição. Na regra dos pontos, não basta alcançar a soma exigida. Também é obrigatório cumprir o tempo mínimo de contribuição correspondente ao sexo do segurado. A regra dos pontos considera a soma da idade do trabalhador com o período de contribuição ao INSS. Em 2027, as mulheres precisarão alcançar 94 pontos e comprovar pelo menos 30 anos de contribuição. Para os homens, serão necessários 104 pontos e, no mínimo, 35 anos de contribuição. Um exemplo ajuda a entender: uma mulher com 60 anos de idade e 34 anos de contribuição soma 94 pontos. Se cumprir os demais critérios, poderá utilizar essa regra. No caso de um homem com 65 anos e 39 anos de contribuição, a soma chega a 104 pontos, também atingindo a pontuação exigida para 2027. A pontuação aumenta gradualmente porque a reforma estabeleceu um acréscimo de um ponto por ano, até alcançar o limite de 100 pontos para mulheres e 105 para homens. Outra mudança importante ocorre na regra da idade mínima progressiva. Em 2027, as mulheres precisarão ter pelo menos 60 anos, enquanto os homens deverão completar 65 anos. Além da idade, continua sendo necessário comprovar 30 anos de contribuição para mulheres e 35 anos para homens. Para os homens, 2027 representa o último aumento dessa regra, que chega ao limite de 65 anos. Para as mulheres, a exigência continuará subindo seis meses por ano até atingir 62 anos, em 2031. O trabalhador que completar todos os requisitos de uma regra de aposentadoria até 31 de dezembro de 2026 poderá ter o direito preservado, mesmo que apresente o pedido ao INSS em 2027. Isso ocorre porque o direito é considerado a partir do momento em que as condições legais são preenchidas, e não necessariamente na data em que o segurado protocola a solicitação. Na regra da idade mínima progressiva, por exemplo, um homem que completar 64 anos e seis meses até o fim de 2026, com pelo menos 35 anos de contribuição, poderá utilizar os critérios deste ano. Para as mulheres, a referência é completar 59 anos e seis meses até 31 de dezembro, além de comprovar 30 anos de contribuição. Atenção: a idade, isoladamente, não garante o benefício. O trabalhador precisa cumprir todos os requisitos da modalidade escolhida. Os professores da educação básica possuem regras de aposentadoria diferenciadas, desde que comprovem o tempo de efetivo exercício em funções de magistério na educação infantil, no ensino fundamental ou no ensino médio. Na regra da idade mínima progressiva, a exigência em 2027 será de 55 anos para mulheres e 60 anos para homens. O tempo mínimo de contribuição em atividade de magistério permanece em 25 anos para professoras e 30 anos par",
+  "numeros": [
+   {
+    "valor": "94 para mulheres e 104 para homens",
+    "rotulo": "pontos necessários em 2027"
+   },
+   {
+    "valor": "6 meses",
+    "rotulo": "aumento na idade mínima"
+   }
+  ],
+  "fonte": "Agência GBC",
+  "categoria": "Previdência",
+  "publico": [
+   "Aposentados",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "o que muitos perdem ao não se informar a tempo",
+  "angulo": "Entender as novas regras é crucial para quem se aproxima da aposentadoria, pois pode impactar suas finanças futuras.",
+  "gancho": "As *novas regras da aposentadoria* podem mudar tudo!",
+  "ideias": [
+   "Mudanças na aposentadoria: o que esperar?",
+   "Aposentadoria em 2027: você está preparado?",
+   "Novas exigências do INSS: o que saber?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://agenciagbc.com/2026/11/15/aposentadoria-do-inss-muda-em-2027-veja-as-novas-regras-e-quem-ainda-pode-se-aposentar-em-2026/",
+  "publicadoEm": "2026-11-15T15:44:20-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na aposentadoria do INSS impactam seu futuro financeiro",
+  "resumo": "As novas regras de transição da aposentadoria do INSS, em 2027, aumentam idades mínimas e pontos, afetando todos os trabalhadores que contribuíam antes de 2019. Entenda como isso pode impactar sua renda.",
+  "fatos": [
+   "A partir de janeiro de 2027, a idade mínima para aposentadoria será de 60 anos para mulheres e 65 anos para homens.",
+   "A regra dos pontos exigirá 94 pontos para mulheres e 104 pontos para homens em 2027.",
+   "As alterações seguem o calendário da Reforma da Previdência, aprovada em 2019.",
+   "As novas regras valem para todos que contribuíam para o INSS antes da reforma.",
+   "A contribuição reduzida de MEIs só garante aposentadoria por idade, se não completarem alíquota de 20%."
+  ],
+  "explicacao": [
+   "As mudanças nas regras de aposentadoria ocorrerão devido à reforma previdenciária de 2019, que aumentou gradualmente as exigências.",
+   "Os trabalhadores têm que se adaptar a essas novas idades mínimas e tabelas de pontos, exigindo planejamento financeiro.",
+   "Profissionais que não acompanharem essas exigências podem enfrentar dificuldades financeiras na aposentadoria."
+  ],
+  "materia": "As regras de transição para a aposentadoria pelo INSS (Instituto Nacional do Seguro Social) terão novos requisitos a partir de janeiro de 2027. A idade mínima progressiva passará a exigir 60 anos para mulheres e 65 anos para homens, enquanto a regra dos pontos subirá para 94 pontos entre as seguradas e 104 entre os segurados. As alterações seguem o calendário estabelecido pela Reforma da Previdência, aprovada em 2019. As mudanças são destinadas aos trabalhadores que já contribuíam para o INSS antes da entrada em vigor da reforma, em 13 de novembro de 2019, mas ainda não haviam preenchido os requisitos para solicitar o benefício. A legislação estabeleceu aumentos graduais nas exigências de algumas modalidades de aposentadoria, com mudanças previstas até os próximos anos. Quem é afetado pelas mudanças As regras de transição valem para todos os segurados do INSS que já contribuíam antes da reforma, independentemente da forma de contribuição. Isso inclui trabalhadores com carteira assinada (CLT), autônomos e profissionais que atuam como pessoa jurídica (PJ) e recolhem como contribuintes individuais, além dos microempreendedores individuais (MEIs). No caso dos MEIs e de quem contribui pelo plano simplificado, porém, há uma ressalva. A contribuição reduzida, de 5% ou 11% do salário mínimo, dá direito apenas à aposentadoria por idade. Para usar as regras por tempo de contribuição, como a idade mínima progressiva e a regra dos pontos, é preciso complementar o recolhimento até a alíquota de 20%. Idade mínima progressiva Uma das regras de transição prevê o aumento de seis meses na idade mínima exigida a cada ano, até atingir os limites estabelecidos pela reforma. Em 2027, as mulheres precisarão ter 60 anos de idade e pelo menos 30 anos de contribuição. Para os homens, serão exigidos 65 anos de idade e 35 anos de contribuição. Na comparação com 2026, a idade mínima aumenta seis meses para ambos os grupos. Neste ano, são exigidos 59 anos e seis meses para mulheres e 64 anos e seis meses para homens. Para os homens, 2027 marca o alcance do limite de 65 anos nessa modalidade. Entre as mulheres, a progressão continuará até chegar aos 62 anos em 2031. Regra dos pontos também muda Outra modalidade de transição considera a soma da idade do trabalhador com o tempo de contribuição ao INSS. A pontuação mínima exigida aumenta um ponto por ano. Em 2027, serão necessários 94 pontos para mulheres e 104 para homens. Além de alcançar a pontuação, os segurados precisam cumprir o tempo mínimo de contribuição de cada categoria: 30 anos para mulheres e 35 anos para homens. Em 2026, a exigência é de 93 pontos para mulheres e 103 para homens. A escalada termina em 2028 para os homens, ao atingir 105 pontos, e em 2033 para as mulheres, com 100 pontos. Quais regras permanecem iguais? Nem todas as modalidades de aposentadoria terão alterações em 2027. As regras dos pedágios de 50% e 100% mantêm os critérios estabelecidos pela Reforma da Previdência. No pedágio de 50%, o trabalhador precisa cumprir um período adicional equivalente à metade do tempo que faltava, em 13 de novembro de 2019, para atingir o tempo mínimo de contribuição. Essa modalidade é destinada a quem estava a menos de dois anos de completar o período exigido na ocasião. Já o pedágio de 100% determina que o segurado contribua pelo dobro do tempo que faltava para atingir o mínimo necessário na data da reforma. A modalidade também exige idade mínima de 57 anos para mulheres e 60 anos para homens. A aposentadoria por idade também mantém os requisitos gerais de 62 anos para mulheres e 65 anos para homens, além de pelo menos 15 anos de contribuição para ambos, no caso de quem já era filiado ao INSS antes da reforma. Homens que começaram a contribuir depois de novembro de 2019 precisam de 20 anos de contribuição. Como consultar quanto falta para se aposentar? O INSS disponibiliza o serviço de simulação de aposentadoria pelo site e aplicativo Meu INSS. A ferramenta utiliza os dados registrados na base do ",
+  "numeros": [
+   {
+    "valor": "60 a 65",
+    "rotulo": "idade mínima em 2027"
+   },
+   {
+    "valor": "94 a 104",
+    "rotulo": "pontos necessários em 2027"
+   }
+  ],
+  "fonte": "CNN Brasil",
+  "categoria": "Previdência",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "incerteza sobre como garantir estabilidade na aposentadoria",
+  "angulo": "Com as novas regras, muitos podem perceber que depender apenas do INSS pode não ser o suficiente, levando a buscar alternativas financeiras.",
+  "gancho": "*Mudanças na aposentadoria podem afetar seu financeiro*",
+  "ideias": [
+   "Suas contas vão mudar com a nova aposentadoria?",
+   "Prepare-se para as novas regras previdenciárias!",
+   "Como garantir sua renda na aposentadoria?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/clt-pj-mei-e-autonomos-o-que-muda-na-aposentadoria-do-inss-em-2027/",
+  "publicadoEm": "2026-11-15T12:03:12-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Inclusão no trabalho: seu retorno pode levar tempo",
+  "resumo": "Iniciativa do Programa Nacional de Inclusão Produtiva capacitará 3 mil profissionais para eliminar barreiras enfrentadas por pessoas com deficiência. A inclusão é vital, mas leva tempo para ser implementada efetivamente.",
+  "fatos": [
+   "O programa oferece formação gratuita a 3 mil profissionais nos próximos três anos.",
+   "2,7 mil vagas são destinadas a agentes públicos de diferentes esferas.",
+   "As inscrições para a primeira turma são gratuitas e vão até 23 de dezembro de 2026.",
+   "A capacitação terá 120 horas de formação certificada, com início em 12 de janeiro de 2027.",
+   "O programa visa melhorar o acesso de mais de 14 milhões de pessoas com deficiência no Brasil."
+  ],
+  "explicacao": [
+   "A iniciativa busca capacitar servidores públicos para enfrentar as barreiras que limitam a inclusão de pessoas com deficiência.",
+   "Além do cumprimento de leis, a formação pretende oferecer soluções práticas para melhorar o atendimento e a acessibilidade.",
+   "Isso vai transformar a inclusão em uma prática contínua na gestão pública, trazendo benefícios a longo prazo."
+  ],
+  "materia": "O Programa Nacional de Inclusão Produtiva para Agentes Públicos vai oferecer formação gratuita e certificada a 3 mil profissionais. O objetivo é preparar órgãos públicos para identificar e eliminar barreiras enfrentadas por pessoas com deficiência no acesso a serviços, oportunidades de trabalho e participação social. A iniciativa foi lançada em Brasília na última sexta-feira (13) pelo Banco do Brasil (BB), o Tesouro Nacional e a empresa Inclusi lançaram. O programa terá duração de três anos, com mil participantes por edição. Do total de vagas, 2,7 mil serão destinadas a agentes das administrações federal, estaduais, distrital e municipais. Outras 300 serão reservadas a profissionais do Banco do Brasil, que poderão aplicar o conhecimento em ações de diversidade e inclusão socioprodutiva da instituição. Segundo o BB, a proposta é fazer com que a inclusão vá além do cumprimento de leis. A formação pretende ajudar servidores a melhorar o atendimento à população, adaptar processos internos, tornar ambientes mais acessíveis e ampliar as oportunidades para pessoas com deficiência. Segundo o Censo 2022 do Instituto Brasileiro de Geografia e Estatística (IBGE), o Brasil tem mais de 14 milhões de pessoas com deficiência . As barreiras enfrentadas por essa população não se limitam à entrada no mercado de trabalho. Elas também podem estar presentes em serviços públicos, processos de atendimento, comunicação, ambientes físicos e decisões administrativas. A ideia do programa é capacitar quem atua diretamente na gestão pública para reconhecer esses obstáculos e desenvolver soluções que possam ser aplicadas no cotidiano das instituições. O financiamento da iniciativa está relacionado à Portaria nº 808/2023, do Ministério da Fazenda . A norma determina que bancos responsáveis por operações de crédito com garantia da União a estados e municípios invistam parte dos recursos em melhorias na gestão pública, incluindo a capacitação gratuita de servidores. Cada participante receberá uma licença individual do Hub Inclusi-On, plataforma digital desenvolvida pela Inclusi. Ao longo dos três anos, serão disponibilizadas 3 mil licenças. O curso terá 120 horas de formação certificada, divididas em seis jornadas de aprendizagem. O conteúdo será oferecido por meio de: A formação abordará temas relacionados aos direitos das pessoas com deficiência e à construção de ambientes e serviços mais inclusivos. O objetivo é relacionar o conteúdo teórico aos desafios enfrentados pelos participantes em suas instituições. Assim, o aprendizado deverá resultar em mudanças concretas nos processos e serviços públicos. Para receber a certificação, cada participante deverá cumprir dois requisitos: As experiências serão reunidas no Banco Nacional de Boas Práticas. O espaço vai organizar informações sobre os problemas identificados, as soluções adotadas, os resultados e os aprendizados, permitindo que outras instituições conheçam e aproveitem as iniciativas. As inscrições para a primeira turma são gratuitas e ficam abertas até 23 de dezembro de 2026, pela página oficial do programa . As aulas começam em 12 de janeiro de 2027. O acompanhamento da iniciativa também considerará indicadores como participação nas atividades, conclusão dos conteúdos, certificações emitidas, práticas implementadas e distribuição dos participantes pelo país. Cada parceiro terá responsabilidades específicas na execução do programa: A expectativa dos organizadores é que a capacitação ajude a transformar a inclusão de pessoas com deficiência em uma prática permanente da gestão pública, com soluções que possam ser compartilhadas e reproduzidas em diferentes regiões do país.",
+  "numeros": [
+   {
+    "valor": "3 mil",
+    "rotulo": "profissionais capacitados pelo programa"
+   },
+   {
+    "valor": "14 milhões",
+    "rotulo": "pessoas com deficiência no Brasil"
+   },
+   {
+    "valor": "120 horas",
+    "rotulo": "duração do curso"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "falta de oportunidades de trabalho inclusivas.",
+  "angulo": "Com o avanço da inclusão, pessoas capacitadas poderão buscar novas maneiras de gerar renda, sem depender das condições tradicionais do mercado.",
+  "gancho": "Descubra como *a inclusão pode mudar seu trabalho*",
+  "ideias": [
+   "Como a inclusão aumenta oportunidades de emprego",
+   "A importância da diversidade no mercado de trabalho",
+   "Capacitação: o passo essencial para um trabalho inclusivo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/curso-capacita-servidores-para-inclusao-de-pessoas-com-deficiencia",
+  "publicadoEm": "2026-11-15T15:00:00-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Concorrência internacional pressiona o varejo brasileiro",
+  "resumo": "As compras do exterior crescendo 63% ampliam a competição e afetam preços e margens do varejo nacional. A adaptação é essencial para a sobrevivência dos negócios locais.",
+  "fatos": [
+   "Em outubro de 2026, foram aproximadamente 26 milhões de encomendas internacionais, gerando R$ 2,7 bilhões.",
+   "As compras aumentaram 63% em volume e 59% em valor em relação ao mesmo mês de 2025.",
+   "A mudança na taxação do Imposto de Importação, que não se aplica a compras até US$ 50, ocorreu em maio de 2026.",
+   "Empresas brasileiras de moda enfrentam forte competição de plataformas como Shein e Shopee.",
+   "61% dos consumidores digitais realizaram compras internacionais nos últimos 12 meses.",
+   "A diferença de preços entre Shein e varejistas nacionais aumentou de 34% para 44% em dois meses."
+  ],
+  "explicacao": [
+   "As compras internacionais cresceram devido à isenção de impostos para produtos abaixo de US$ 50.",
+   "Essa situação aumenta a competição e pressiona as margens de lucro das empresas brasileiras.",
+   "Os varejistas precisam se adaptar, focando em logística, atendimento e diferenciação de produtos.",
+   "Além das vendas, a concorrência impacta decisões sobre gestão de estoques e estratégias comerciais.",
+   "O cenário atual exige atenção redobrada para manter a competitividade diante de plataformas estrangeiras."
+  ],
+  "materia": "Foto: RDNE Stock project / Pexels As compras internacionais continuam avançando no Brasil e ampliam a concorrência enfrentada pelo varejo nacional. Em outubro de 2026, foram registradas aproximadamente 26 milhões de declarações de encomendas vindas do exterior, movimentando R$ 2,7 bilhões. Na comparação com o mesmo mês de 2025, o volume cresceu 63% e o valor aumentou 59%, segundo dados da Receita Federal. O movimento ocorre cinco meses após o fim da cobrança do Imposto de Importação sobre compras de até US$ 50 realizadas em plataformas certificadas pelo Programa Remessa Conforme. A mudança favoreceu a retomada das encomendas internacionais e intensificou a disputa por consumidores entre empresas brasileiras e marketplaces estrangeiros. O avanço preocupa especialmente segmentos que concorrem diretamente com produtos importados de baixo custo, como vestuário, calçados e acessórios. Análises de instituições financeiras citadas pela Bloomberg Línea apontam que redes brasileiras de moda estão entre as mais expostas à concorrência de plataformas como Shein e Shopee. Concorrência pressiona preços e margens A diferença de preços é um dos principais desafios para o varejo nacional. Segundo levantamento do BTG Pactual citado pela Bloomberg Línea, a distância entre os preços praticados pela Shein e a cesta média de produtos das varejistas de moda listadas na bolsa passou de 34% em junho para 44% em agosto de 2026. Com produtos estrangeiros oferecidos a preços menores, empresas brasileiras precisam avaliar como manter a competitividade sem comprometer suas margens de lucro. A pressão pode atingir tanto as vendas quanto as decisões sobre estoques, investimentos e estratégias comerciais. A concorrência também não se limita ao preço. Prazo de entrega, variedade de produtos, experiência de compra e facilidade de pagamento influenciam a escolha do consumidor. Por isso, empresas nacionais precisam considerar esses fatores para manter clientes e disputar espaço no comércio eletrônico. Pesquisa da Confederação Nacional de Dirigentes Lojistas (CNDL) e do SPC Brasil, divulgada em agosto, mostrou que 61% dos consumidores digitais fizeram ao menos uma compra internacional nos 12 meses anteriores. O levantamento estimou que 81,2 milhões de brasileiros compraram produtos de fora do país. O preço mais baixo foi apontado como um dos principais motivos para essa escolha. Quais setores podem sentir mais os efeitos? O varejo de moda aparece entre os segmentos mais expostos, especialmente pela concorrência em roupas, calçados e acessórios. Empresas que trabalham com produtos de menor valor agregado e disputam consumidores sensíveis a preço podem enfrentar maior dificuldade para competir com plataformas internacionais. O impacto, porém, não é igual para todo o comércio eletrônico. Avaliações de mercado citadas pela Bloomberg Línea indicam que empresas com atuação concentrada em outras faixas de preço ou categorias podem ter exposição menor à concorrência direta das importações de baixo custo. Além das empresas varejistas, a expansão das compras internacionais pode repercutir sobre fornecedores, fabricantes nacionais, logística e empregos ligados à cadeia de produção e comercialização. Entidades do setor já manifestaram preocupação com a diferença nas condições tributárias e competitivas entre empresas brasileiras e plataformas estrangeiras. O que as empresas podem fazer para se adaptar? Diante desse cenário, os negócios precisam acompanhar custos e margens com atenção, revisar estratégias de preços e identificar quais produtos estão mais expostos à concorrência internacional. Investimentos em logística, disponibilidade de estoque , atendimento e rapidez na entrega também podem ajudar a diferenciar a operação nacional. A oferta de produtos com características próprias, qualidade percebida e serviços associados é outra alternativa para reduzir a dependência da disputa exclusivamente por preço. A expansão das compras internacionais também reforça a importância d",
+  "numeros": [
+   {
+    "valor": "26 milhões",
+    "rotulo": "encomendas internacionais em outubro"
+   },
+   {
+    "valor": "R$ 2,7 bilhões",
+    "rotulo": "valor movimentado em encomendas"
+   },
+   {
+    "valor": "63%",
+    "rotulo": "crescimento nas encomendas em relação a 2025"
+   },
+   {
+    "valor": "61%",
+    "rotulo": "consumidores digitais que compraram internacionalmente"
+   }
+  ],
+  "fonte": "Contábeis",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "dificuldade em manter a margem de lucro",
+  "angulo": "O aumento da concorrência internacional exige que você conheça o mercado financeiro para adaptação e novas estratégias de renda, longe da dependência do salário.",
+  "gancho": "*Concorrência internacional* ameaça varejo nacional",
+  "ideias": [
+   "Como se adaptar às compras internacionais?",
+   "O que a concorrência externa muda para o seu negócio?",
+   "Estratégias para sobreviver no varejo em tempos de globalização"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-15T17:42:02-03:00",
+  "url": "https://www.contabeis.com.br/noticias/80877/compras-internacionais-pressionam-varejo-brasileiro/",
+  "publicadoEm": "2026-11-15T12:00:01-03:00",
+  "data": "2026-11-15",
+  "id": "2026-11-15-trader-06"
  },
  {
   "segmento": "trader",

@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-15T13:40:23-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-11-15T17:42:02-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Mudança na Escala 6x1 e suas Consequências; Fim da escala 6x1: novos desafios para o mercado de trabalho; Fim da escala 6x1 pode impactar seu bolso.",
+  "mensagem": "4 pauta(s) nova(s): Concorrência internacional pressiona o varejo brasileiro; Inclusão no trabalho: seu retorno pode levar tempo; Mudanças na aposentadoria do INSS impactam seu futuro financeiro.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-15T17:42:02-03:00",
    "2026-11-15T13:40:23-03:00",
    "2026-11-14T22:24:09-03:00",
    "2026-11-14T17:17:19-03:00",
@@ -18,21 +19,21 @@
    "2026-11-12T23:13:07-03:00",
    "2026-11-12T18:59:36-03:00",
    "2026-11-12T14:46:13-03:00",
-   "2026-11-11T23:34:39-03:00",
-   "2026-11-11T19:24:59-03:00"
+   "2026-11-11T23:34:39-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-15T13:40:23-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-15T17:42:02-03:00",
+  "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Carros elétricos: impacto de impostos e concorrência em 2027; Caos nas operações: impacto das tecnologias falhas nos negócios; Falha da Microsoft e os riscos da concentração digital.",
+  "mensagem": "5 pauta(s) nova(s): Pequenas empresas e a importância de ter um site; Desafios do varejo na Black Friday 2026; Fraudes no e-commerce caem, mas ainda são preocupantes.",
   "falhas": [
    "Meio & Mensagem (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-11-15T17:42:02-03:00",
    "2026-11-15T13:40:23-03:00",
    "2026-11-14T22:24:09-03:00",
    "2026-11-14T17:17:19-03:00",
@@ -43,8 +44,7 @@
    "2026-11-12T23:13:07-03:00",
    "2026-11-12T18:59:36-03:00",
    "2026-11-12T14:46:13-03:00",
-   "2026-11-11T23:34:39-03:00",
-   "2026-11-11T19:24:59-03:00"
+   "2026-11-11T23:34:39-03:00"
   ]
  }
 }
