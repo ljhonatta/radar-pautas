@@ -1,42 +1,17 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-16T16:54:21-03:00",
-  "novas": 12,
-  "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "12 pauta(s) nova(s): Fim do subsídio ao diesel impacta tarifas e preços; Incertezas fiscais pressionam o bolso dos brasileiros; Fim da escala 6x1 altera jornada de trabalho.",
-  "falhas": [
-   "Google Notícias 'INSS aposentadoria' (HTTPError)",
-   "Google Notícias 'Copom Selic juros' (HTTPError)",
-   "Google Notícias 'custo de vida' (HTTPError)"
-  ],
-  "manual": false,
-  "historico": [
-   "2026-11-16T16:54:21-03:00",
-   "2026-11-16T08:34:34-03:00",
-   "2026-11-15T22:27:32-03:00",
-   "2026-11-15T17:42:02-03:00",
-   "2026-11-15T13:40:23-03:00",
-   "2026-11-14T22:24:09-03:00",
-   "2026-11-14T17:17:19-03:00",
-   "2026-11-14T13:11:56-03:00",
-   "2026-11-13T22:53:21-03:00",
-   "2026-11-13T18:45:56-03:00",
-   "2026-11-13T14:24:22-03:00",
-   "2026-11-12T23:13:07-03:00"
-  ]
- },
- "vpr": {
-  "ultimaColeta": "2026-11-16T16:54:21-03:00",
+  "ultimaColeta": "2026-11-16T20:56:18-03:00",
   "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Desaceleração econômica e inflação: o impacto nos negócios; Vendas fracas no varejo: a hora de agir é agora!; A importância da experiência na Black Friday para suas vendas.",
+  "mensagem": "5 pauta(s) nova(s): Regulação das big techs pode beneficiar sua renda; Concorrência nas big techs pode poupar até R$ 50 bilhões; Mudança nas regras de aposentadoria para 2027.",
   "falhas": [
-   "Google Notícias 'TikTok Shop' (HTTPError)"
+   "Google Notícias 'escala 6x1' (HTTPError)",
+   "Google Notícias 'Receita Federal' (HTTPError)"
   ],
   "manual": false,
   "historico": [
+   "2026-11-16T20:56:18-03:00",
    "2026-11-16T16:54:21-03:00",
    "2026-11-16T08:34:34-03:00",
    "2026-11-15T22:27:32-03:00",
@@ -47,8 +22,30 @@
    "2026-11-14T13:11:56-03:00",
    "2026-11-13T22:53:21-03:00",
    "2026-11-13T18:45:56-03:00",
-   "2026-11-13T14:24:22-03:00",
-   "2026-11-12T23:13:07-03:00"
+   "2026-11-13T14:24:22-03:00"
+  ]
+ },
+ "vpr": {
+  "ultimaColeta": "2026-11-16T20:56:18-03:00",
+  "novas": 10,
+  "atualizadas": 0,
+  "status": "ok",
+  "mensagem": "10 pauta(s) nova(s): Nova norma dos EUA pode impactar negócios brasileiros; A economia circular e o futuro dos negócios no Brasil; Crescimento de marcas próprias impacta varejo brasileiro.",
+  "falhas": [],
+  "manual": false,
+  "historico": [
+   "2026-11-16T20:56:18-03:00",
+   "2026-11-16T16:54:21-03:00",
+   "2026-11-16T08:34:34-03:00",
+   "2026-11-15T22:27:32-03:00",
+   "2026-11-15T17:42:02-03:00",
+   "2026-11-15T13:40:23-03:00",
+   "2026-11-14T22:24:09-03:00",
+   "2026-11-14T17:17:19-03:00",
+   "2026-11-14T13:11:56-03:00",
+   "2026-11-13T22:53:21-03:00",
+   "2026-11-13T18:45:56-03:00",
+   "2026-11-13T14:24:22-03:00"
   ]
  }
 }

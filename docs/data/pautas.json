@@ -1,6 +1,554 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Nova opção de pagamento pode impulsionar vendas",
+  "resumo": "A PlayStation Store agora aceita pagamentos via PIX, facilitando a aquisição de jogos. Essa mudança atende a uma demanda dos jogadores brasileiros e traz mais segurança nas transações.",
+  "fatos": [
+   "Jogadores do PlayStation podem agora pagar via PIX na PS Store pela web.",
+   "A nova forma de pagamento começou a ser disponibilizada gradualmente desde o dia 12.",
+   "Antes, a loja aceitava apenas cartão de crédito/débito e saldo da carteira.",
+   "A opção de pagamento via PIX é uma das mais pedidas pelos usuários.",
+   "Com PIX, jogadores sem cartão podem evitar a compra de gift cards com valores superiores.",
+   "Pagamentos via PIX também oferecem maior segurança, pois não exigem dados do cartão."
+  ],
+  "explicacao": [
+   "A implementação do pagamento via PIX na PS Store surge como uma resposta ao desejo dos usuários brasileiros.",
+   "Essa mudança permite que jogadores adquiram jogos de maneira mais simples e segura.",
+   "A nova modalidade atende principalmente aqueles que não têm cartão de crédito, facilitando o acesso ao conteúdo digital.",
+   "Com isso, as vendas podem aumentar, impulsionando o comércio na plataforma."
+  ],
+  "materia": "Jogadores do PlayStation no Brasil agora podem adquirir jogos via Pix pela PS Store na Web . Um usuário relatou o surgimento da nova opção de pagamento na última quinta-feira (12) no subreddit r/playstationbrasil. A Sony aparentemente está disponibilizando o Pix de maneira gradual para os jogadores que acessarem a PS Store por algum navegador. O meio de pagamento nunca esteve disponível na loja, nem via app ou consoles. Atualmente, a loja do PlayStation aceita pagamentos com cartão de crédito/débito e saldo da carteira (gift cards) . Neste último caso, agora também é possível selecionar quanto do saldo será usado na compra de softwares e pagar a diferença com outro método. O pagamento via Pix é um dos recursos mais pedidos entre os jogadores do PlayStation, em especial para aqueles que não possuem um cartão e acabam recorrendo aos gift cards. Nesses casos, muitas vezes é necessário adquirir um cartão-presente de valor maior do que o usuário deseja de fato. Outro benefício do pagamento via Pix é a segurança . Com a opção, caso a conta de algum jogador seja invadida de alguma forma, o invasor não terá acesso a dados do cartão, por exemplo. Nova exigência muda a forma como compramos jogos no PlayStation Em junho, uma nova exigência do PlayStation vai mudar como você compra jogos no Brasil . A Sony passou a exigir verificação de idade para que contas de adultos comprem jogos digitais. Com a decisão, a empresa japonesa cumpre o Estatuto da Criança e do Adolescente Digital no Brasil.",
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "nova forma de pagamento"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "perda de vendas e clientes por falta de opções de pagamento",
+  "angulo": "A nova opção de pagamento pode ser uma oportunidade para negócios se adaptarem às demandas do consumidor e potencializarem suas vendas online.",
+  "gancho": "Agora ficou mais fácil pagar na loja *PlayStation*!",
+  "ideias": [
+   "Como o Pix transforma a compra de jogos?",
+   "Aumente suas vendas com novas formas de pagamento!",
+   "Segurança nas compras: descubra o impacto do Pix!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://canaltech.com.br/games/playstation-store-ganha-opcao-de-pagamento-via-pix/",
+  "publicadoEm": "2026-11-16T16:16:00-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Impacto do Pix no mercado e no atendimento ao cliente",
+  "resumo": "O Pix revolucionou a experiência do consumidor, alterando as expectativas em relação ao tempo de pagamento. Em 2027, deve ultrapassar US$ 200 bilhões em transações, destacando a importância de adaptação das empresas.",
+  "fatos": [
+   "O Pix deve superar US$ 200 bilhões em transações em 2027.",
+   "Em 2026, o volume de compras online deverá alcançar US$ 203,4 bilhões.",
+   "Pix respondeu por 48% do volume do e-commerce brasileiro em 2027.",
+   "Até outubro de 2026, já eram 76 bilhões de operações realizadas.",
+   "Empresas que adicionam o Pix ao checkout podem ver aumento de até 37% em pagamentos."
+  ],
+  "explicacao": [
+   "A introdução do Pix pelo Banco Central em 2020 transformou a forma de pagamento no Brasil, priorizando agilidade e reduzindo custos para o consumidor.",
+   "Com a expectativa de agilidade, os consumidores passaram a exigir essa experiência em todas as lojas online.",
+   "Isso significa que, para empresas, é crucial se adaptar a essa nova realidade e incorporar práticas e tecnologias que atendam essa demanda por rapidez."
+  ],
+  "materia": "Por muito tempo ouvimos que o principal termômetro da boa experiência do cliente com uma marca é o tempo. Um valor intangível que, diante do avanço da tecnologia, passou a figurar na régua do Customer Experience como um ativo real. Hoje, quanto tempo o consumidor ainda aceita esperar? Quase nada. A agilidade tecnológica exigiu das empresas que dias e horas se transformassem em minutos e segundos. Uma relação cada vez mais automática. Nessa jornada, uma tecnologia específica pode ser considerada o ponto de virada desse avanço: o Pix . Em 16 de novembro de 2020, o Banco Central colocou em operação um sistema que prometia algo que, até então, soava como contradição no mercado financeiro brasileiro: transferir dinheiro na hora, a qualquer hora, sem custo para a pessoa física. Seis anos depois, a promessa virou infraestrutura e ganhou a preferência do consumidor. E infraestrutura, quando funciona, desaparece da vista. Ninguém pensa no Pix ao pagar o café. Pensa apenas no dia em que ele não está disponível. O aniversário de seis anos do Pix (16/11) chega com um número simbólico no horizonte. O sistema deve bater um novo recorde em 2027 e se tornar o primeiro meio de pagamento do Brasil a superar a marca de US$ 200 bilhões em transações no e-commerce em um único ano . A estimativa é que o volume movimentado nas compras online passe de US$ 177,2 bilhões em 2026 para US$ 203,4 bilhões no ano que vem, alta de 15%. Os números fazem parte de uma nova análise do EBANX com base em dados da Payments and Commerce Market Intelligence (PCMI). O crescimento esperado amplia a liderança do Pix como o meio de pagamento mais usado pelos brasileiros nas compras online. No mesmo período, o volume transacionado com cartões de crédito no e-commerce deve chegar a US$ 178,8 bilhões, 6% a mais do que os US$ 168,7 bilhões deste ano. Em 2027, o Pix passará a responder por 48% do volume do e-commerce brasileiro , dois pontos percentuais acima da participação atual. Os cartões de crédito, por sua vez, devem cair de 44% para 42% do total movimentado. A Beyond Borders 2026, estudo anual do EBANX, já havia projetado que o Pix chegaria a 50% do volume do e-commerce em 2028, previsão mantida na nova análise. O tamanho do Pix já não cabe nas comparações habituais. Em 2025, o sistema somou quase 80 bilhões de transações, alta de 25,7% sobre o ano anterior, e movimentou mais de R$ 35 trilhões, avanço de 33,8%, segundo o Banco Central. Em 2026, até outubro, já eram 76 bilhões de operações, 17,6% a mais que no mesmo período do ano passado. No último dia 6 de novembro, o sistema bateu o recorde diário de 319,7 milhões de transações. Mais revelador que o volume, porém, é a mudança de natureza. No primeiro ano, 85% das operações aconteciam entre pessoas. O “me passa um Pix” virou o novo dinheiro. Em outubro de 2026, as transações de pessoas físicas para empresas já respondiam por 45% do total, e as operações entre empresas concentravam 52% do valor movimentado no sistema. O Pix deixou de ser o primo gratuito da TED para ocupar o lugar de destaque na relação financeira do brasileiro com meios de pagamento. A mediana das transações mostra onde ele se instalou: R$ 50 entre pessoas e R$ 25 de pessoas para empresas, em 2025. É o cafezinho, o pão, o conserto do chuveiro, o estacionamento etc. Com base nas Estatísticas de Pagamentos de Varejo e de Cartões do BC, o Pix concentrou 55,2% de todas as transações do país no primeiro semestre de 2026, embora ainda ocupe o segundo lugar em volume financeiro, com 28,1%, atrás da TED. O território que pertencia ao dinheiro em espécie virou Pix, e o Pix virou inclusão bancária. Segundo o Relatório de Cidadania Financeira do BC, o sistema foi o vetor central para elevar a 96,4% a parcela de adultos com conta bancária no país. O BC contabilizava, em outubro, 154 milhões de usuários pessoas físicas, o equivalente a 89% da população adulta, e 14 milhões de empresas ativas, com penetração acima de 80% em todas as regiões do país. O crescimento m",
+  "numeros": [
+   {
+    "valor": "200 bilhões",
+    "rotulo": "transações do Pix em 2027"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Medo de perder vendas por falta de agilidade nos pagamentos",
+  "angulo": "Com a exigência de experiências rápidas dos consumidores, o marketing digital se torna essencial. Saiba como adequar seus canais de vendas.",
+  "gancho": "O *Pix transformou* a experiência do cliente",
+  "ideias": [
+   "Transformação digital e o Pix",
+   "Por que seu negócio precisa do Pix",
+   "O impacto do Pix nas vendas online"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://consumidormoderno.com.br/pix-seis-anos-cx-cm/",
+  "publicadoEm": "2026-11-16T17:22:00-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Expansão do Mania de Churrasco: uma oportunidade crescente",
+  "resumo": "A rede Mania de Churrasco planeja expandir sua presença no Brasil até 2027, abrindo novos restaurantes e lojas box. A análise de mercado está no cerne dessa estratégia.",
+  "fatos": [
+   "O Mania de Churrasco planeja abrir novos restaurantes e lojas box em 2027.",
+   "A expansão será nas regiões Sudeste, Sul, Centro-Oeste e Nordeste.",
+   "Atualmente, a rede possui 115 unidades em operação e uma em implantação.",
+   "Fatores como renda e fluxo de pessoas são considerados na escolha dos locais.",
+   "Cerca de 95% dos colaboradores são em seu primeiro emprego, com capacitação contínua."
+  ],
+  "explicacao": [
+   "A expansão do Mania de Churrasco foi planejada para fortalecer sua presença em regiões onde já atua e explorar novas localidades.",
+   "A operação em blocos e a escolha cuidadosa de locais visam maximizar o potencial de cada nova unidade.",
+   "Com um foco em capacitação, os colaboradores são preparados para oferecer um atendimento de qualidade, alinhando os interesses da marca com o desenvolvimento pessoal."
+  ],
+  "materia": "O Mania de Churrasco! vai acelerar a abertura de restaurantes casuais e lojas box em 2027. O plano prevê consolidar a presença da marca nas regiões Sudeste, Sul, Centro-Oeste e Nordeste, unindo mercados onde a rede já atua com a expansão para novas localidades. “Nosso plano para 2027 é crescer de forma consistente, respeitando as particularidades de cada mercado e buscando oportunidades que façam sentido para o negócio e para os nossos franqueados. Queremos fortalecer nossa presença onde já atuamos e avançar em regiões com potencial para receber a marca”, afirma Filliphe Camelo, diretor do Mania de Churrasco!. A escolha dos pontos comerciais e dos formatos de operação leva em conta fatores como densidade populacional, renda, fluxo de pessoas e veículos e hábitos de consumo fora do lar. A análise ajuda a avaliar o potencial de cada região e definir o modelo mais adequado. Enquanto o restaurante casual é voltado a refeições completas, as unidades box são instaladas em locais de grande circulação, como praças de alimentação e centros comerciais. A expansão segue uma lógica em espiral, com prioridade para o fortalecimento da presença regional antes da entrada em novas praças. O modelo permite aproveitar o conhecimento dos mercados em que a rede já atua e identificar oportunidades em cidades próximas e em outras regiões do País. Atualmente, a rede tem 115 unidades em operação e uma em implantação. Programas de capacitação A rede investe na capacitação dos próprios funcionários, muitos deles em seu primeiro emprego. Cerca de 95% dos colaboradores atuam nas operações das lojas. “Nossa empresa é, acima de tudo, uma plataforma de desenvolvimento. Nossa missão é que todo colaborador saia daqui melhor do que entrou, com mais repertório, mais disciplina, mais conhecimento e valores sólidos que levará para a vida”, afirma Thiago Camelo de Souza, sócio e diretor da área de Gente da marca. Entre as iniciativas de capacitação e reconhecimento está o programa “Mania de Reconhecer”, que concede pontos aos funcionários conforme o desempenho. A pontuação pode ser trocada por prêmios, viagens e experiências. A rede mantém ainda o Programa de Liderança em Foco, treinamentos presenciais e on-line, encontros de gerentes e franqueados e uma convenção anual. Imagem: Divulgação O post Mania de Churrasco prepara expansão da rede no Brasil com restaurantes e lojas box em 2027 apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "115",
+    "rotulo": "unidades em operação"
+   },
+   {
+    "valor": "95%",
+    "rotulo": "colaboradores em primeiro emprego"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Restaurantes"
+  ],
+  "dor": "perda de oportunidades se não se adaptar às mudanças de mercado",
+  "angulo": "A expansão da rede revela a necessidade de um marketing robusto, enfatizando como as empresas que não se adaptam ficam para trás. Conheça nossa assessoria para impulsionar seu negócio.",
+  "gancho": "A *oportunidade de crescer* está chegando!",
+  "ideias": [
+   "Por que sua empresa precisa se expandir agora?",
+   "Como o Mania de Churrasco analisa o mercado?",
+   "Cuidado com a concorrência: você está preparado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://mercadoeconsumo.com.br/16/11/2026/foodservice/mania-de-churrasco-prepara-expansao-da-rede-no-brasil-com-restaurantes-e-lojas-box-em-2027/",
+  "publicadoEm": "2026-11-16T17:50:18-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ri Happy aposta em marketplaces para melhorar vendas",
+  "resumo": "O Grupo Ri Happy entra na Shopee, visando fortalecer sua presença digital e otimizar vendas. A mudança acontece em um período crítico para o varejo, como Black Friday e Natal.",
+  "fatos": [
+   "O Grupo Ri Happy agora faz parte da seção de Lojas Oficiais da Shopee.",
+   "Essa iniciativa integra uma estratégia de transformação operacional da nova gestão da empresa.",
+   "A loja oficial na Shopee melhora o acesso aos produtos infantis e entrega em todo o Brasil.",
+   "A entrada na Shopee acontece às vésperas da Black Friday e do Natal, períodos cruciais para vendas.",
+   "A Ri Happy possui mais de 35 anos de tradição no mercado.",
+   "A parceria permitirá a exploração de formatos interativos, como Shopee Live e Shopee Vídeo.",
+   "Essa é a primeira ação de uma estratégia mais ampla de atuação em marketplaces."
+  ],
+  "explicacao": [
+   "A Ri Happy está se adaptando às mudanças nos hábitos de compra dos consumidores brasileiros.",
+   "A entrada em marketplaces como a Shopee visa aumentar os pontos de contato com os clientes e oferecer uma jornada de compra mais integrada.",
+   "O foco está na transformação digital para consolidar a presença da marca e otimizar o atendimento às famílias brasileiras."
+  ],
+  "materia": "O Grupo Ri Happy estreia na seção de Lojas Oficiais da Shopee, espaço dedicado a grandes marcas, e passa a atuar em marketplaces. A iniciativa integra a estratégia de transformação operacional conduzida pela nova gestão , que tem entre as prioridades a otimização dos canais físicos e digitais, a melhoria da experiência de compra e o fortalecimento de parcerias. Com produtos de diferentes categorias do universo infantil e entregas para todo o Brasil, a loja oficial amplia o acesso ao portfólio da Ri Happy em um momento estratégico para o varejo, às vésperas da Black Friday e do Natal, principal período de vendas do setor de brinquedos. A entrada na plataforma combina a presença de uma marca com mais de 35 anos de história à audiência e à estrutura da Shopee. A parceria permite à companhia alcançar consumidores em diferentes regiões e complementar sua atuação nas lojas físicas e no e-commerce próprio. O movimento acompanha a mudança nos hábitos de compra das famílias brasileiras, que transitam entre diferentes canais. Ao diversificar os pontos de contato com os consumidores, a Ri Happy busca oferecer uma jornada de compra mais conveniente e integrada, além de avançar na eficiência da operação digital. “Estamos conduzindo uma transformação que coloca o cliente e as parcerias no centro das nossas decisões. A chegada à Shopee materializa essa estratégia ao ampliar nossa presença digital, fortalecer nossos canais de venda e criar novas oportunidades de conexão com as famílias brasileiras”, afirma Carlos Fernandes, COO do Grupo Ri Happy. Ele complementa: “Queremos combinar a tradição e a força da Ri Happy com modelos de operação cada vez mais eficientes, competitivos e alinhados à forma como as pessoas compram hoje. Essa parceria é um passo importante nessa direção.” A parceria também abre espaço para iniciativas de relacionamento e engajamento por meio do ecossistema de social commerce da Shopee, que inclui Shopee Live, Shopee Vídeo e Programa de Criadores. A Ri Happy poderá explorar formatos interativos de apresentação de produtos e ampliar a visibilidade de seu portfólio. “A chegada da Ri Happy, uma empresa tão presente no imaginário brasileiro, reafirma o papel da Shopee como parceira estratégica dos vendedores da plataforma. Esse movimento reforça a Shopee como o principal destino de compras para milhões de brasileiros, conectando o público às suas marcas favoritas”, afirma Felipe Lima, diretor de Desenvolvimento de Negócios e Operações Fulfillment da Shopee. A entrada na Shopee é o primeiro movimento de uma estratégia mais ampla de atuação em marketplaces, que deverá ter novos desdobramentos nos próximos meses. A iniciativa faz parte dos esforços do Grupo Ri Happy para fortalecer sua competitividade e preparar a companhia para um novo ciclo de desenvolvimento. Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "35",
+    "rotulo": "anos de tradição da Ri Happy"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de vendas e clientes sem presença digital adequada",
+  "angulo": "Esse movimento de grandes marcas para marketplaces mostra a crescente necessidade dos empresários em modernizar suas operações e canais de venda, um aspecto que a VPR Vision Prime pode ajudar a otimizar.",
+  "gancho": "*Marketplace* é a nova tendência!",
+  "ideias": [
+   "Como a Ri Happy se adapta ao e-commerce?",
+   "Marketplace: a nova fronteira do varejo",
+   "O que os empresários podem aprender com a Ri Happy?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://mercadoeconsumo.com.br/16/11/2026/ecommerce/ri-happy-estreia-na-shopee-e-amplia-presenca-em-marketplaces/",
+  "publicadoEm": "2026-11-16T18:10:41-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Regulação pode trazer economia significativa para empresas",
+  "resumo": "A regulação das grandes empresas de tecnologia pode gerar uma redução de custos de até R$ 50 bilhões por ano, segundo a Fazenda. Isso impacta diretamente as vendas e a competitividade no mercado.",
+  "fatos": [
+   "A Fazenda projeta uma redução de custos de até R$ 50 bilhões ao ano.",
+   "Essa regulação tem como alvo as grandes companhias de tecnologia.",
+   "A medida pode beneficiar empresas menores, melhorando a competitividade."
+  ],
+  "explicacao": [
+   "A regulação das big techs é uma resposta a pressões por mais competição no mercado. Com menos custos operacionais, empresas podem destinar mais recursos a inovação e marketing. Isso muda o cenário para empresários, que precisam estar preparados para responder a um ambiente mais competitivo."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Jornal de Brasília",
+  "categoria": "Concorrência",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Receio de não conseguir competir no mercado",
+  "angulo": "Entender como a regulação pode afetar seus custos é essencial para ajustar sua estratégia de marketing e vendas.",
+  "gancho": "Economia de *R$ 50 bilhões* no mercado!",
+  "ideias": [
+   "Como a regulação pode beneficiar seu negócio",
+   "Cinco dicas para se preparar para o novo cenário",
+   "A importância da inovação em tempos de mudança"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://www.google.com/search?q=Regula%C3%A7%C3%A3o+concorrencial+das+big+techs+pode+reduzir+custos+em+at%C3%A9+R%24+50+bi+ao+ano%2C+projeta+Fazenda+Jornal+de+Bras%C3%ADlia",
+  "urlBusca": true,
+  "publicadoEm": "2026-11-16T18:30:42-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday demanda planejamento e controle financeiro eficiente",
+  "resumo": "A Black Friday continua relevante, mas consumidores estão mais criteriosos, exigindo que o varejo ofereça valor em suas promoções. O controle financeiro se torna essencial para evitar perdas.",
+  "fatos": [
+   "69% dos consumidores acompanham as ofertas da Black Friday.",
+   "Apenas 22% consideram a data muito superior a outras promoções.",
+   "55% apontam descontos como estímulo à compra e 53% citam frete grátis.",
+   "Em novembro de 2025, a última semana do mês concentrou 31% da movimentação financeira.",
+   "O volume de transações na Black Friday ficou 149% acima da média do mês."
+  ],
+  "explicacao": [
+   "A relevância da Black Friday permanece, mas com consumidores mais exigentes, o varejo precisa demonstrar valor além de descontos.",
+   "As promoções são acompanhadas por uma jornada de compra que se inicia antes da data e envolve múltiplos canais.",
+   "O planejamento financeiro é crucial, pois a alta concentração de transações pode gerar divergências que precisam ser monitoradas."
+  ],
+  "materia": "A Black Friday segue relevante para o varejo brasileiro , mas encontra consumidores mais criteriosos e uma operação pressionada pela concentração de transações. Pesquisa da TOTVS encomendada à Opinion Box mostra que 69% acompanham as ofertas ou consideram a data uma das principais oportunidades de compra do ano. Ainda assim, apenas 22% a consideram muito superior a outras promoções, enquanto 38% ainda não decidiram se irão comprar. Preço e condições comerciais seguem determinantes nessa decisão: 55% apontam descontos como estímulo à compra, 53% citam frete grátis e 37%, parcelamento sem juros. Por outro lado, entre os que não pretendem comprar, 33% não acreditam que os descontos sejam vantajosos e 26% desconfiam dos preços e das promoções. Nesse cenário, além de oferecer condições competitivas, o varejo precisa garantir controle financeiro para acompanhar as transações e evitar perdas. “A Black Friday não perdeu relevância, mas deixou de competir sozinha. O varejo precisa demonstrar valor, e não apenas anunciar desconto. Isso exige integrar preço, frete, formas de pagamento, reputação e experiência ao longo de toda a jornada”, afirma Elói Assis, diretor-executivo para Varejo e Distribuição da TOTVS . Jornada de compra começa antes da data e passa por diferentes canais A preparação antecipada também amplia o período de atenção dos varejistas. Segundo a pesquisa, 41% dos consumidores começam a se organizar para as compras com pelo menos um mês de antecedência, enquanto 51% já chegam à Black Friday com uma ideia prévia do que pretendem comprar, embora ainda possam escolher marcas e modelos durante as promoções. A jornada de compra também não acontece necessariamente em um único ambiente. Os marketplaces lideram a descoberta de produtos e ofertas (45%), a pesquisa (43%) e a finalização das compras (38%). As redes sociais aparecem em segundo lugar na descoberta, com 35%, mas são utilizadas por apenas 5% para concluir a compra. Já os sites e aplicativos próprios de lojas e marcas são citados por 26% na descoberta, 29% na pesquisa e 21% na finalização. Para o varejo, essa dinâmica exige consistência entre os canais e acompanhamento das operações em diferentes pontos de contato com o consumidor. A multiplicidade de canais e condições comerciais também reforça a importância de manter as informações de vendas e pagamentos integradas. Pico de transações exige atenção ao controle financeiro Esse cenário aumenta a importância do planejamento operacional e financeiro dos varejistas. Os dados da Equals by TOTVS mostram que, em novembro de 2025, a última semana do mês concentrou 31% da movimentação financeira e 25,4% das operações, que somaram 79,8 milhões de transações. No dia da Black Friday, o volume de transações ficou 149% acima da média diária do mês. Mesmo com a distribuição das promoções ao longo de novembro, a semana da Black Friday ainda concentra uma parcela expressiva do movimento financeiro. Para 2026, a recomendação é preparar integrações e indicadores para identificar divergências durante o pico, sem deixar a conferência apenas para o fechamento. Meios de pagamento exigem acompanhamento específico Na preparação para a Black Friday, o varejista precisa considerar que cada modalidade de pagamento impacta o fluxo financeiro da operação de uma maneira. Parcelamentos, crédito à vista e Pix têm características diferentes de processamento e recebimento, o que exige atenção aos valores transacionados, às taxas cobradas e aos prazos de repasse. A orientação da TOTVS é acompanhar esses indicadores de forma integrada, verificando se os valores registrados nas vendas correspondem aos montantes que serão efetivamente recebidos. Também é importante conferir as condições negociadas com adquirentes e instituições financeiras, identificar divergências e monitorar os recebíveis ao longo da campanha. “A quantidade de vendas, sozinha, não traduz a pressão sobre o financeiro. Uma modalidade pode ter menos operações e concentrar valores maiores ou r",
+  "numeros": [
+   {
+    "valor": "79,8 milhões",
+    "rotulo": "transações em novembro de 2025"
+   },
+   {
+    "valor": "149%",
+    "rotulo": "aumento do volume de transações na Black Friday"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "Perda de vendas e controle financeiro pode afetar o negócio.",
+  "angulo": "Entender essa dinâmica é crucial e pode levar a investir em automação e tecnologia para uma gestão mais integrada e eficiente.",
+  "gancho": "Controle financeiro é *essencial* na Black Friday!",
+  "ideias": [
+   "Planejamento para Black Friday: Dicas essenciais!",
+   "Como otimizar vendas nesta Black Friday?",
+   "A importância do controle financeiro no varejo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://mercadoeconsumo.com.br/16/11/2026/black-friday/black-friday-exige-controle-financeiro-e-planejamento-do-varejo-diante-de-consumidor-mais-criterioso/",
+  "publicadoEm": "2026-11-16T16:07:02-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Recessão pode impactar varejo em 2027; veja como se preparar",
+  "resumo": "Alexandre Birman alerta sobre a recessão e sugere estratégias para o varejo enfrentar o cenário. Focar no básico e na experiência emocional pode ser fundamental para atrair consumidores.",
+  "fatos": [
+   "Alexandre Birman prevê um 2027 complexo para o varejo no Brasil.",
+   "Expectativa de juros altos e possibilidade de recessão impactam o setor.",
+   "Arezzo irá focar em seu core business: fabricação e venda de sapatos.",
+   "Mudança na abordagem do consumo: estimular a economia emocional.",
+   "Birman acredita que a agilidade nas decisões será essencial para a competitividade."
+  ],
+  "explicacao": [
+   "O alerta de Birman se baseia no cenário econômico atual que pode afetar as vendas.",
+   "A estratégia é concentrar esforços nas atividades principais, garantindo a relevância no mercado.",
+   "Transformar a experiência de compra em algo emocionante deve atrair consumidores mesmo com orçamentos limitados."
+  ],
+  "materia": "Executivo defende foco no negócio principal e aposta no consumo por emoção para enfrentar um cenário de juros altos Alexandre Birman não espera um 2027 fácil para o varejo brasileiro. Em meio a juros elevados, acredita na possibilidade de recessão, mas diz que a Arezzo tem condições de atravessar mais um período de turbulência. Após a separação do Azzas 2154, a estratégia passa por uma volta ao básico, com foco no negócio principal - a fabricação e venda de sapatos -, e por uma mudança na forma de atrair consumidores. Em entrevista ao NeoFeed , durante o NeoConference 2026 , o CEO afirmou que a companhia pretende concentrar seus esforços nas atividades que sustentaram sua trajetória de crescimento. “O ano vai ser um ano complexo, vai ser um ano de juros altos, de uma economia talvez recessiva. Então, o foco é absoluto no nosso core business, que nos trouxe até aqui”, contou. Segundo Birman, a agilidade na tomada de decisões será uma das principais vantagens competitivas para atravessar esse período. Além disso, entende que o varejo precisará transformar a maneira como estimula o consumo, apostando cada vez mais na chamada economia emocional. “Você tem que trazer a cliente pela novidade de uma forma muito mais forte, mais intensa. Uma opção de criar produtos que ela não pensou em ter, porque a compra planejada, a compra estruturada, ela vai diminuir muito”, afirmou ele. Pela sua estratégia, a experiência de compra deverá incorporar elementos de entretenimento e novidade, capazes de despertar o desejo do consumidor mesmo em um ambiente de orçamento pressionado.",
+  "numeros": [],
+  "fonte": "NeoFeed",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas e clientes em um cenário de recessão",
+  "angulo": "Essa análise mostra a importância de se adaptar a mudanças, e a VPR Vision Prime pode ajudar na gestão e planejamento para navegar nesses desafios.",
+  "gancho": "Prepare sua empresa para a *recessão de 2027*",
+  "ideias": [
+   "Como o varejo pode se adaptar à recessão.",
+   "Estratégias emocionais para aumentar suas vendas.",
+   "A importância do core business em tempos desafiadores."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://neofeed.com.br/videos/neoconference2026-videos/birman-ve-risco-de-recessao-em-2027-e-aposta-no-basico-para-fazer-a-arezzo-crescer/",
+  "publicadoEm": "2026-11-16T17:40:32-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento de marcas próprias impacta varejo brasileiro",
+  "resumo": "Marcas próprias ganham espaço nos supermercados, com alta de 36% no ano. Regionalmente, Sudeste lidera as vendas enquanto o Nordeste enfrenta desafios por preferências locais.",
+  "fatos": [
+   "Produtos de marca própria cresceram 36% de janeiro a setembro de 2023.",
+   "Em setembro, a participação desses produtos no faturamento foi de 28%, em relação a setembro de 2022.",
+   "No Sudeste, marcas próprias representam 5% das vendas da cesta básica.",
+   "No Nordeste, essa participação é de apenas 0,8%.",
+   "Marcas próprias no Sudeste atingem 17,6% nas vendas de feijão e 17% em papel higiênico.",
+   "No Nordeste, esses números são 2,8% e 3,3%, respectivamente."
+  ],
+  "explicacao": [
+   "O crescimento das marcas próprias ocorre em um cenário de inflação e busca por economia.",
+   "Regiões brasileiras apresentam padrões de consumo diferentes, impactando o desempenho das marcas próprias.",
+   "No Sudeste, a presença de marcas com preços acessíveis é maior, especialmente em itens básicos.",
+   "Em contrapartida, o Nordeste valoriza marcas regionais, resultando em menor participação das marcas próprias."
+  ],
+  "materia": "Em tempos de orçamento apertado, os produtos de marca própria ganham espaço como alternativa para consumidores que buscam economizar nas compras do supermercado. A participação desses produtos no faturamento dos supermercados cresceu 28% em setembro, em relação ao mesmo período de 2025. De janeiro a setembro, a alta acumulada foi de 36%. A expansão, no entanto, ocorre de maneira diferente entre as regiões e os segmentos de produtos. Enquanto no Sudeste os produtos de marca própria respondem por 5% das vendas da cesta básica, no Nordeste a participação é de apenas 0,8%. A diferença aparece em categorias como feijão e papel higiênico e reflete também as particularidades do consumo em cada mercado. No Nordeste, marcas regionais de feijão, arroz, café e farinha têm forte presença nas compras dos consumidores. A preferência por esses produtos, muitos deles ligados aos hábitos locais, ajuda a explicar por que as marcas próprias ainda têm menor participação nas categorias básicas da alimentação. Na região, elas encontram mais espaço em ovos, produtos de limpeza e mercearia. No Sudeste, a presença é maior justamente nos itens básicos. O feijão de marca própria, por exemplo, representa 17,6% das vendas da categoria, contra 2,8% no Nordeste. Em papel higiênico, a diferença também é expressiva: 17% ante 3,3%. A distância entre as regiões é menor quando considerados os produtos embalados em geral. Nesse grupo, as marcas próprias representam 3,8% das vendas no Sudeste e 3% no Nordeste. Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "36",
+    "rotulo": "crescimento das marcas próprias no ano"
+   },
+   {
+    "valor": "28",
+    "rotulo": "crescimento em setembro"
+   },
+   {
+    "valor": "5",
+    "rotulo": "participação no Sudeste"
+   },
+   {
+    "valor": "0,8",
+    "rotulo": "participação no Nordeste"
+   },
+   {
+    "valor": "17,6",
+    "rotulo": "feijão no Sudeste"
+   },
+   {
+    "valor": "2,8",
+    "rotulo": "feijão no Nordeste"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "receio de perder vendas para marcas próprias populares",
+  "angulo": "Entender a mudança no comportamento do consumidor ajuda a adaptar sua estratégia e maximizar vendas no seu segmento.",
+  "gancho": "Crescimento das *marcas próprias* no Brasil",
+  "ideias": [
+   "Como sua marca pode competir com marcas próprias?",
+   "Mudanças no consumo: aprenda a se adaptar!",
+   "O impacto das marcas próprias nas suas vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://mercadoeconsumo.com.br/16/11/2026/supermercados/marcas-proprias-avancam-em-categorias-basicas-e-crescem-36-nos-supermercados/",
+  "publicadoEm": "2026-11-16T16:33:49-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "A economia circular e o futuro dos negócios no Brasil",
+  "resumo": "A economia circular movimenta até R$ 90,7 bilhões no Brasil, oferecendo novas oportunidades e desafios para empresas. Entender este mercado é crucial para a sobrevivência no cenário econômico atual.",
+  "fatos": [
+   "A economia circular movimenta entre R$ 31 bilhões e R$ 90,7 bilhões no Brasil, segundo a CNI.",
+   "80,8% dos recursos vão para gestão de resíduos, enquanto apenas 7,7% se destinam ao design sustentável.",
+   "Apenas 13% dos brasileiros conhecem o conceito de economia circular.",
+   "As operações financeiras analisadas ocorreram entre 2020 e 2025.",
+   "A meta global é elevar o uso circular de materiais para 15% até 2035."
+  ],
+  "explicacao": [
+   "A economia circular visa manter produtos em uso pelo máximo de tempo possível, oferecendo uma alternativa ao modelo linear de produção.",
+   "Apesar do seu potencial, muitos ainda desconhecem suas oportunidades, o que limita o crescimento deste mercado.",
+   "Empresas que adotam práticas circulares podem reduzir custos e melhorar sua eficiência, mas precisam de planejamento e conhecimento para se adaptar."
+  ],
+  "materia": "A economia circular movimenta entre R$ 31 bilhões e R$ 90,7 bilhões no Brasil, segundo levantamento inédito da Confederação Nacional da Indústria ( CNI ). Apresentado na 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31), em Antália, na Turquia, o estudo Financiamento para a Economia Circular na Indústria Brasileira, mostra que o país tem um mercado de finanças sustentáveis estimado em R$ 884 bilhões. Segundo a CNI, os recursos destinados diretamente à circularidade representam entre 3,5% e 10,3% desse total. O percentual é superior à média mundial, de aproximadamente 2%. Apesar do volume de investimentos, a pesquisa identifica um desequilíbrio na distribuição dos recursos. A maior parte do dinheiro está concentrada em iniciativas de reciclagem, gestão de resíduos e recuperação de materiais, enquanto projetos voltados à prevenção do desperdício, ao desenvolvimento de produtos sustentáveis e ao reaproveitamento de insumos recebem uma parcela menor. O que é economia circular? Diferentemente do modelo tradicional de produção e consumo, conhecido como economia linear, a economia circular busca manter materiais e produtos em uso pelo maior tempo possível. Na economia linear, o modelo é baseado na extração de recursos naturais, fabricação, consumo e descarte. A economia circular propõe reduzir a extração de matérias-primas, evitar a geração de resíduos e aproveitar melhor os recursos naturais em todas as etapas da cadeia produtiva. Na prática, o modelo envolve iniciativas como: Design sustentável: desenvolver produtos que usem menos matéria-prima e sejam mais duráveis; Reutilização: dar novas aplicações a produtos e materiais que ainda podem ser aproveitados; Reparo: recuperar equipamentos e produtos para prolongar sua vida útil; Reciclagem: transformar resíduos em matéria-prima para novos processos produtivos; Eficiência de insumos: reduzir o desperdício de água, energia e materiais durante a fabricação. O sistema pretende fazer com que os recursos permaneçam circulando na economia, reduzindo impactos ambientais e os custos da atividade industrial. Recursos concentrados De acordo com o levantamento da CNI, 80,8% dos recursos identificados para a economia circular são destinados exclusivamente à gestão de resíduos, reciclagem e recuperação de materiais no fim da vida útil dos produtos. As etapas anteriores à geração de resíduos, que envolvem mudanças no desenvolvimento e na fabricação dos produtos, recebem uma parcela significativamente menor dos investimentos. O estudo identificou a seguinte distribuição: 80,8%: gestão de resíduos, reciclagem e recuperação de materiais; 11,5%: reutilização, reparo e extensão da vida útil de produtos e ativos; 7,7%: design sustentável, prevenção de resíduos e eficiência no uso de insumos. Segundo os números, embora a reciclagem seja importante, a economia circular depende de mudanças em toda a cadeia produtiva, desde a concepção dos produtos até sua destinação final. Como financiar a circularidade Em nota, o superintendente de Meio Ambiente e Sustentabilidade da CNI, Davi Bomtempo, destacou que a economia circular representa uma oportunidade para reduzir custos operacionais e emissões de gases de efeito estufa na indústria de transformação. Segundo ele, as empresas interessadas em financiar projetos sustentáveis podem recorrer a diferentes instrumentos, como linhas de crédito de bancos públicos e privados, emissão de títulos verdes no mercado de capitais e participação em editais e chamadas públicas de fomento. Entre as modalidades identificadas pela pesquisa, estão: Empréstimos verdes (Green Loans): representam 27,9% das operações mapeadas; Capital de risco (Equity/VC/PE): corresponde a 20,9%; Financiamento combinado (Blended Finance): responde por 16,3%. Desafios para avançar O levantamento também aponta fatores que dificultam a ampliação dos investimentos em economia circular. Para Bomtempo, um dos problemas é a dificuldade de identificar e classificar essas iniciativas dentro do me",
+  "numeros": [
+   {
+    "valor": "31 a 90,7 bilhões",
+    "rotulo": "movimentação da economia circular no Brasil"
+   },
+   {
+    "valor": "80,8%",
+    "rotulo": "recursos destinados à gestão de resíduos"
+   },
+   {
+    "valor": "13%",
+    "rotulo": "brasileiros que conhecem economia circular"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perder oportunidades em um mercado em transformação",
+  "angulo": "Com a economia circular em expansão, empresários precisam se adaptar e planejar para não ficar para trás. O conhecimento e a assessoria especializada podem ajudar nesse processo.",
+  "gancho": "Descubra como a *economia circular* impacta seu negócio",
+  "ideias": [
+   "O que é economia circular?",
+   "Impactos da economia circular na sua empresa",
+   "Como se beneficiar da economia circular?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://mercadoeconsumo.com.br/16/11/2026/sustentabilidade/economia-circular-movimenta-ate-r-907-bilhoes-no-brasil/",
+  "publicadoEm": "2026-11-16T18:36:08-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Nova norma dos EUA pode impactar negócios brasileiros",
+  "resumo": "A recente norma dos EUA restringe a exportação de chips de IA, afetando diretamente empresas brasileiras que dependem dessa tecnologia para suas operações. Isso levanta preocupações sobre a concorrência e a continuidade dos negócios.",
+  "fatos": [
+   "O governo americano anunciou uma norma que restringe exportações de chips de IA para data centers fora dos EUA, incluindo o Brasil.",
+   "Esta norma foi divulgada em 16 de novembro pelo Bureau de Indústria e Segurança (BIS).",
+   "Empresas brasileiras precisarão de autorização específica do governo dos EUA para importar esses chips.",
+   "A norma visa impedir que empresas chinesas utilizem data centers em países como o Brasil para acessar tecnologias sensíveis.",
+   "O Brasil abriga grandes projetos de data centers, como o da ByteDance, que investirá mais de R$ 200 bilhões no Ceará até o fim de 2025."
+  ],
+  "explicacao": [
+   "A medida surge em um contexto de crescente tensão entre os EUA e a China em relação ao controle de tecnologias avançadas.",
+   "Embora a importação de chips não esteja proibida, as empresas brasileiras enfrentarão um processo burocrático mais rigoroso.",
+   "Isso pode atrasar projetos que dependem de tecnologia de IA e aumentar os custos operacionais para as empresas locais."
+  ],
+  "materia": "Após queda de Jensen Huang na Nvidia por envolvimento com uma suposta espiã chinesa, Washington aperta o cerco sobre exportações de semicondutores e coloca o Brasil em lista de restrição A norma não proíbe a importação dos chips americanos de IA nessas localidades, mas traz barreiras adicionais nesse processo O governo dos Estados Unidos anunciou uma norma provisória que restringe a exportação de chips avançados de inteligência artificial para data centers fora do país, incluindo o Brasil na lista de restrições, que também abrange Indonésia, Malásia, Singapura e Tailândia. O Bureau de Indústria e Segurança (BIS) afirmou que a norma visa evitar que tecnologias sensíveis sejam acessadas por meio de acordos de computação remota. Embora a importação de chips não seja proibida, as empresas precisarão de autorização do governo americano para cada caso. A medida busca impedir que empresas chinesas utilizem data centers em países como o Brasil, onde grandes projetos, como o da ByteDance, estão em andamento. A norma surge em um contexto de crescente pressão sobre o controle das exportações de tecnologia, especialmente após a destituição do CEO da Nvidia, Jensen Huang, em meio a um escândalo envolvendo espionagem. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed O governo dos Estados Unidos anunciou uma norma provisória que restringe a exportação de chips avançados de inteligência artificial (IA) produzidos em solo americano para data centers instalados fora do país. E o Brasil é um dos países incluídos nessa relação. As novas regras foram divulgadas nesta segunda-feira, 16 de novembro pelo Bureau de Indústria e Segurança (BIS) dos Estados Unidos, órgão vinculado ao Departamento de Comércio Americano. Além do Brasil, a lista conta ainda com Indonésia, Malásia, Singapura e Tailândia. “A norma visa a garantir que as restrições existentes ao acesso a tecnologias americanas sensíveis não possam ser contornadas por meio de acordos de computação remota que envolvam centros de dados em países terceiros”, afirmou, em nota, o BIS. Segundo o BIS, as novas regras foram desenvolvidas sob a coordenação do Departamento do Tesouro e do Conselho de Segurança Nacional, e buscam garantir que o acesso a tecnologias americanas sensíveis não possa ser contornado por meio do acesso remoto a data centers localizados nesses cinco mercados. A norma não proíbe a importação dos chips americanos de IA nessas localidades, mas traz barreiras adicionais nesse processo. As empresas precisarão obter uma autorização do governo americano, que irá analisar caso a caso esses pedidos. Segundo o BIS, o texto prevê, porém, uma exceção para chips cujo uso será destinado a empresas com sede nos Estados Unidos ou com controladores que também se encaixem nessa categoria, desde que os requisitos de informações sejam atendidos. Na prática, o principal objetivo dessa medida é evitar que empresas chinesas contratem ou invistam nesses data centers para treinarem modelos de IA com chips que hoje estão restritos em seu país. Nesse sentido, o Brasil se torna um alvo por abrigar grandes projetos de data centers de companhias chinesas. Esse é o caso da ByteDance, dona do TikTok, que, no fim de 2025, anunciou um aporte de mais de R$ 200 bilhões num centro de dados no Ceará, sua primeira estrutura desse porte na América Latina. O novo arcabouço ganha mais força no contexto recente da destituição de Jensen Huang como CEO da Nvidia . A empresa americana é o principal nome quando o tema são os chips de inteligência artificial e viu seu valor de mercado ser turbinado por essa onda nos últimos anos. A saída de Jensen Huang, que também é um dos fundadores da Nvidia , aconteceu após ele admitir que manteve um caso extraconjugal com Alice Huang, ex-executiva da Megaspeed, de Singapura, e apontada como uma espiã chinesa. Após o relacionamento vir à tona, o Departamento de Comércio dos EUA e outras autoridades do país passaram a ser alvo de uma pressão crescente sobr",
+  "numeros": [
+   {
+    "valor": "R$ 200 bilhões",
+    "rotulo": "investimento da ByteDance em data center no Ceará"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Comércio local"
+  ],
+  "dor": "aumento de custos e dificuldades na importação de tecnologia",
+  "angulo": "Com a nova norma, empresas que dependem de tecnologia de IA precisam reavaliar seus planos e estratégias, tornando essencial contar com uma agência de marketing que ajude a navegar nesse cenário.",
+  "gancho": "*Nova norma dos EUA* afeta empresas brasileiras",
+  "ideias": [
+   "Como a nova norma dos EUA impacta seu negócio?",
+   "Desafios da importação de tecnologia com a nova norma",
+   "O que empresários precisam saber sobre chips de IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://neofeed.com.br/negocios/o-brasil-virou-o-novo-campo-de-batalha-da-guerra-dos-chips-entre-eua-e-china/",
+  "publicadoEm": "2026-11-16T19:15:25-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-vpr-10"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Black Friday e a importância de estratégias digitais eficazes",
   "resumo": "A Black Friday se tornou um mês de disputa estratégica, exigindo que as empresas inovem em suas ofertas. Prepare-se para captar a atenção do consumidor com a VPR Vision Prime.",
   "fatos": [
@@ -506,6 +1054,271 @@
   "publicadoEm": "2026-11-16T03:02:32-03:00",
   "data": "2026-11-16",
   "id": "2026-11-16-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Gasto público deve crescer abaixo de 2% anualmente",
+  "resumo": "O novo pacote fiscal busca controlar o gasto público sem impactar a política do salário mínimo, afetando diretamente o poder de compra dos cidadãos.",
+  "fatos": [
+   "O governo propõe que os gastos cresçam abaixo de 2% ao ano.",
+   "A política do salário mínimo não deve ser afetada por esse pacote.",
+   "Essa medida pode impactar o orçamento de muitas famílias.",
+   "O controle dos gastos vem em um momento de inflação alta.",
+   "Consulta popular e discussões estão sendo promovidas sobre o tema."
+  ],
+  "explicacao": [
+   "A proposta de limitar o crescimento dos gastos públicos se dá em meio a pressões fiscais.",
+   "O objetivo é garantir que o controle não prejudique o poder aquisitivo dos trabalhadores.",
+   "Na prática, isso pode significar restrição em serviços e benefícios, afetando a vida cotidiana.",
+   "O desafio será equilibrar a saúde fiscal com as necessidades sociais e o poder de compra."
+  ],
+  "materia": "Jornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine Entrar",
+  "numeros": [
+   {
+    "valor": "2%",
+    "rotulo": "crescimento máximo dos gastos"
+   }
+  ],
+  "fonte": "Estadão",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de poder de compra e benefícios sociais",
+  "angulo": "Entender o mercado financeiro pode ser a chave para diversificar sua renda sem depender de ajustes como esse.",
+  "gancho": "*Crescimento de gastos* abaixo de 2%",
+  "ideias": [
+   "Gastos públicos e seu impacto no dia a dia",
+   "Como se proteger das mudanças fiscais",
+   "O futuro do salário mínimo em tempos de crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://www.estadao.com.br/em-alta/economia/pacote-fiscal-quer-gasto-crescendo-abaixo-de-2-mas-sem-afetar-politica-do-salario-minimo-entenda/",
+  "publicadoEm": "2026-11-16T18:31:03-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-trader-23"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Senado limita créditos fiscais e impacta empresas",
+  "resumo": "A aprovação no Senado de um limite aos créditos fiscais pode afetar diretamente a saúde financeira das empresas. Isso gera preocupações sobre a margem de lucro e os custos operacionais.",
+  "fatos": [
+   "O Senado aprovou um projeto que estabelece um limite para créditos fiscais.",
+   "Essa mudança pode impactar o caixa das empresas.",
+   "As empresas precisam se preparar para uma redução na margem de lucro."
+  ],
+  "explicacao": [
+   "A limitação nos créditos fiscais surge como uma nova medida para aumentar a arrecadação do governo.",
+   "Para as empresas, isso significa menos recursos disponíveis para investir e operar.",
+   "Empresas com margens de lucro já apertadas enfrentarão ainda mais dificuldades financeiras."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Tribuna do Paraná",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "menores margens de lucro e mais despesas.",
+  "angulo": "Com as mudanças fiscais, o conhecimento em investimentos se torna essencial para diversificar fontes de renda e proteger o bolso.",
+  "gancho": "Senado aprova *limite de créditos fiscais*!",
+  "ideias": [
+   "Créditos fiscais: o que significa para sua empresa?",
+   "Preparação para a nova realidade fiscal!",
+   "Descubra como enfrentar mudanças no mercado financeiro!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://www.google.com/search?q=Senado+aprova+limite+a+cr%C3%A9ditos+fiscais+e+impacta+caixa+das+empresas+Tribuna+do+Paran%C3%A1",
+  "urlBusca": true,
+  "publicadoEm": "2026-11-16T18:07:00-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-trader-22"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudança nas regras de aposentadoria para 2027",
+  "resumo": "O INSS anuncia novas exigências para aposentadorias que afetam CLT, MEIs e autônomos. Entenda o que muda e como se preparar para essas mudanças.",
+  "fatos": [
+   "As novas regras de aposentadoria serão implementadas em 2027.",
+   "As mudanças impactarão trabalhadores sob regime CLT, microempreendedores individuais (MEIs) e autônomos.",
+   "Será necessário adaptar-se às novas exigências para garantir o acesso à aposentadoria no futuro."
+  ],
+  "explicacao": [
+   "As mudanças nas regras de aposentadoria foram anunciadas para garantir a sustentabilidade do sistema previdenciário.",
+   "Os trabalhadores precisarão estar atentos às novas exigências para não comprometer sua aposentadoria.",
+   "Este é um indicativo da importância de diversificar fontes de renda, já que depender apenas do salário e da aposentadoria pode ser arriscado."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Hora News",
+  "categoria": "Previdência",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perder acredibilidade na aposentadoria futura",
+  "angulo": "Com essas novas regras, é essencial aprender sobre o mercado financeiro para garantir uma renda que complemente a aposentadoria.",
+  "gancho": "Prepare-se para as *novas regras de aposentadoria*",
+  "ideias": [
+   "O que muda na aposentadoria em 2027?",
+   "Como as novas regras afetam o seu futuro?",
+   "A importância de diversificar sua renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://www.google.com/search?q=INSS+muda+regras+para+aposentadoria+em+2027%3B+veja+o+que+ser%C3%A1+exigido+de+CLT%2C+MEIs+e+aut%C3%B4nomos+Hora+News",
+  "urlBusca": true,
+  "publicadoEm": "2026-11-16T20:42:23-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-trader-21"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Concorrência nas big techs pode poupar até R$ 50 bilhões",
+  "resumo": "O projeto de lei que regulamenta plataformas digitais pode resultar em redução de custos de até R$ 50,6 bilhões, impactando diversos setores da economia. O Ministério da Fazenda destaca a importância da concorrência para redução",
+  "fatos": [
+   "O projeto de lei prevê impactos de R$ 15,3 bilhões a R$ 50,6 bilhões em preços.",
+   "Setores como varejo, turismo, software e delivery serão os mais afetados.",
+   "O projeto está na Câmara dos Deputados e pode ser votado nas próximas semanas.",
+   "A proposta foi apresentada em 2025 e precisa passar pelo Senado.",
+   "O estudo parte da premissa de que maior concorrência reduz custos e preços."
+  ],
+  "explicacao": [
+   "O projeto visa regular grandes empresas de tecnologia, semelhante ao modelo da União Europeia.",
+   "A maior concorrência pode resultar em preços mais baixos, beneficiando consumidores e pequenos empresários.",
+   "Isso inclui redução em taxas de plataformas de pagamento e serviços digitais.",
+   "Autoridades esperam que a proposta seja aprovada antes do novo mandato legislativo, que pode ser menos favorável a essas mudanças."
+  ],
+  "materia": "BrasÃ­lia O MinistÃ©rio da Fazenda estima que o projeto de lei que cria regras concorrenciais para plataformas digitais e big techs possa ter um impacto de entre R$ 15,3 bilhÃµes e R$ 50,6 bilhÃµes em reduÃ§Ã£o de preÃ§os para diversos setores econÃ´micos do Brasil, caso aprovado. A estimativa consta em nota tÃ©cnica elaborada pela pasta e Ã qual a Folha teve acesso. O documento considera tanto \"efeitos diretos sobre os preÃ§os\", como \"a reduÃ§Ã£o de custos em serviÃ§os como meios de pagamentos digitais, computaÃ§Ã£o em nuvem, IA, lojas de aplicativos, publicidade digital, sistemas operacionais mÃ³veis e delivery\". O estudo projeta ainda que os setores mais impactados seriam \"usuÃ¡rios dessas infraestruturas, incluindo varejo, turismo, software, mÃ­dia, streaming, alimentaÃ§Ã£o, logÃ­stica, serviÃ§os profissionais e pequenas empresas intensivas em canais digitais de distribuiÃ§Ã£o, publicidade, comunicaÃ§Ã£o e processamento de pagamentos\". Na CÃ¢mara dos Deputados , hÃ¡ a expectativa de que o projeto possa ser votado nas prÃ³ximas semanas. O relatÃ³rio foi apresentado pelo deputado Aliel Machado (PV-PR) em julho e aguarda para entrar na pauta da Casa. O texto ainda precisa passar pelo Senado Federal. A proposta foi apresentada em 2025 por iniciativa do governo de Luiz InÃ¡cio Lula da Silva (PT). Parlamentares favorÃ¡veis tentam aprovÃ¡-la ainda neste ano, jÃ¡ que a prÃ³xima Legislatura, a partir de 2027, tem uma tendÃªncia a ser mais protetiva aos interesses das big techs. O projeto permite ao Cade (Conselho Administrativo de Defesa EconÃ´mica) regular e fiscalizar as grandes empresas de tecnologia , em modelo semelhante ao realizado na UniÃ£o Europeia , e cria uma superintendÃªncia para tratar desse assunto. O projeto visa quebrar o monopÃ³lio de empresas consideradas como sistÃªmicas e mira, por exemplo, Google , Meta (dona do Facebook , Instagram e WhatsApp ), Microsoft , Uber , iFood , 99 e Amazon , entre outras. Estudo do MinistÃ©rio da Fazenda parte da premissa bÃ¡sica de que uma maior concorrÃªncia tende a baixar preÃ§os e custos, por exemplo, com taxas de plataformas de pagamento ou valor de serviÃ§os âtanto aqueles diretamente utilizados pelo consumidor final, como tambÃ©m por interfaces que fazem parte da estrutura de outros setores da economia, como lojas de varejo. A estimativa, elaborada pela Secretaria de Reformas EconÃ´micas, parte do faturamento anual das plataformas digitais em 2025, calculado em R$ 410 bilhÃµes, ou 3,2% do PIB (Produto Interno Bruto) do Brasil. A partir de um repositÃ³rio de estudos cientÃ­ficos reunido pela equipe do ministÃ©rio em 2024, foram selecionados 13 desses setores cujas evidÃªncias apontam para uma maior propensÃ£o a riscos concorrenciais. A seleÃ§Ã£o representa um faturamento anual de R$ 153,3 bilhÃµes em 2025, de acordo com os cÃ¡lculos da pasta. Para cada um deles, foram reunidos estudos cientÃ­ficos sobre o comportamento de seus respectivos mercados e, a partir disso, foi projetado qual seria a faixa de reduÃ§Ã£o de preÃ§os. E assim a pasta chegou Ã estimativa de um benefÃ­cio entre 10% e 33%, ou entre R$ 15,3 bilhÃµes e R$ 50,6 bilhÃµes por ano. Nesse escopo estÃ£o incluÃ­dos plataformas de pagamento, transportes de pessoas, lojas de aplicativos digitais, licenÃ§as de aparelhos de celular, licenÃ§as de computador, plataformas de buscas, redes sociais, publicidade digital, aplicativos de mensagens, gerenciamento de nuvem, delivery de restaurantes, navegadores da internet e plataformas de inteligÃªncia artificial . O estudo considera o valor um cÃ¡lculo conservador, uma vez que ele leva em conta apenas o \"efeito direto da reduÃ§Ã£o de preÃ§os\". O estudo \"nÃ£o incorpora os possÃ­veis ganhos adicionais\", nem \"benefÃ­cios potencialmente relevantes associados ao aumento da qualidade, da variedade, da inovaÃ§Ã£o, do acesso aos mercados e da contestabilidade dos ecossistemas digitais\". \"Essa estimativa corresponde exclusivamente ao efeito direto da reduÃ§Ã£o de preÃ§os\", diz o estud",
+  "numeros": [
+   {
+    "valor": "R$ 410 bilhões",
+    "rotulo": "faturamento das plataformas digitais em 2025"
+   },
+   {
+    "valor": "R$ 153,3 bilhões",
+    "rotulo": "faturamento dos setores afetados em 2025"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "custos elevados comprometem margem de lucro e competitividade",
+  "angulo": "Entender como a concorrência pode afetar seus custos é essencial para empresários que buscam se diferenciar no mercado.",
+  "gancho": "*Redução de custos* com regulação das big techs",
+  "ideias": [
+   "Como a concorrência pode mudar seu negócio?",
+   "Impactos da regulação das big techs na sua empresa",
+   "Economize com a nova lei de concorrência!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/regulacao-concorrencial-das-big-techs-pode-reduzir-custos-em-ate-r-50-bi-ao-ano-projeta-fazenda.shtml",
+  "publicadoEm": "2026-11-16T18:03:00-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-trader-20"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Regulação das big techs pode beneficiar sua renda",
+  "resumo": "O governo estima que a regulação das grandes plataformas digitais pode gerar até R$ 50,6 bilhões em benefícios econômicos, impactando positivamente os consumidores e empresas.",
+  "fatos": [
+   "Estudo do Ministério da Fazenda estima ganhos entre R$ 15,3 bilhões a R$ 50,6 bilhões por ano.",
+   "O PL 4.675, que regula big techs, está em tramitação na Câmara dos Deputados.",
+   "Os benefícios representam de 0,1% a 0,4% do PIB, equivalente a R$ 70 a R$ 240 por habitante anualmente.",
+   "O projeto pretende ampliar o papel do Cade na fiscalização de grandes empresas de tecnologia.",
+   "Reduções de preços entre 10% a 33% são consideradas em mercados de alta concentração.",
+   "A proposta poderá impactar companhias com faturamento acima de R$ 50 bilhões no mundo ou R$ 5 bilhões no Brasil."
+  ],
+  "explicacao": [
+   "A regulação busca aumentar a concorrência e, assim, reduzir custos para consumidores e empresas. Essa redução pode significar um alívio no orçamento de muitos brasileiros.",
+   "A medida pretende combater práticas que dificultam a entrada de novos concorrentes nas plataformas digitais, criando um cenário mais justo no mercado.",
+   "Independentemente das promessas, o sucesso dessa iniciativa vai depender da implementação efetiva das regras e das dinâmicas de cada mercado afetado."
+  ],
+  "materia": "Estudo estima ganhos anuais com redução de preços e maior concorrência digital; proposta amplia atuação do Cade O Ministério da Fazenda estima que a ampliação da concorrência entre plataformas digitais pode render de R$ 15,3 bilhões a R$ 50,6 bilhões por ano em benefícios econômicos para consumidores e empresas brasileiras. Os valores constam de uma nota técnica da Secretaria de Reformas Econômicas, divulgada em novembro de 2026, sobre os possíveis impactos do projeto de lei 4.675 de 2025 , que regula as bigtechs e amplia a atuação do Cade (Conselho Administrativo de Defesa Econômica) sobre grandes empresas de tecnologia. Leia a íntegra (PDF – 250 kB). Segundo o levantamento, os benefícios estimados equivalem de 0,1% a 0,4% do PIB (Produto Interno Bruto), ou de R$ 70 a R$ 240 por habitante ao ano. Os valores consideram possíveis reduções de preços e comissões cobrados pelas plataformas , mas não incluem ganhos adicionais com inovação, produtividade ou melhoria dos serviços. O estudo analisou 20 segmentos digitais, como comércio eletrônico, publicidade, meios de pagamento, computação em nuvem e inteligência artificial. Juntos, tiveram faturamento estimado em R$ 410 bilhões no Brasil em 2025, valor equivalente a cerca de 3,2% do PIB. Para calcular os benefícios, a Fazenda considerou cenários de redução de preços de 10% a 33% em mercados com maior risco de concentração econômica. As estimativas não representam resultados garantidos com a aprovação do projeto. “O estudo demonstra o quão grande será esse ganho para a sociedade” , afirmou o secretário de Reformas Econômicas, Regis Dudena. Apresentado pelo governo federal em 2025, o PL 4.675 propõe ampliar os instrumentos do Cade para fiscalizar grandes plataformas digitais e combater práticas que dificultem a entrada de concorrentes. A proposta permite a aplicação de obrigações específicas a grupos econômicos com faturamento anual superior a R$ 50 bilhões no mundo ou R$ 5 bilhões no Brasil. Para isso, o Cade também deverá identificar características que indiquem influência relevante sobre o funcionamento dos mercados digitais. O enquadramento nos limites de faturamento não implica aplicação automática das regras. Cada caso deverá passar por análise individualizada, com possibilidade de participação das empresas envolvidas. O objetivo é reduzir barreiras à concorrência e ampliar as opções disponíveis aos consumidores, sem estabelecer controle direto sobre preços. O texto tramita em regime de urgência na Câmara dos Deputados, sob relatoria do deputado Aliel Machado (PV-PR), e aguarda inclusão na pauta do Plenário. A análise da Fazenda utiliza pesquisas econômicas e experiências internacionais para estimar os possíveis efeitos da regulação. Segundo o levantamento, medidas adotadas em outros países estiveram associadas a reduções nominais de 10% a 33% nas comissões de lojas de aplicativos. O anexo metodológico apresenta cenários alternativos. Na hipótese mais restritiva, que considera uma base menor de atividades afetadas, os benefícios estimados caem para R$ 8 bilhões a R$ 26,5 bilhões por ano. Leia a íntegra (PDF – 584 kB). O documento também reconhece riscos regulatórios, como custos de adaptação e possíveis atrasos no lançamento de produtos, que não foram integralmente quantificados. A Fazenda sustenta que os benefícios potenciais superam os custos diretos de adequação das empresas, mas ressalta que os resultados dependem da implementação das medidas e das condições de cada mercado. a) Para receber as informações solicitadas, você nos autoriza a usar o seu nome, endereço de e-mail e/ou telefone e assuntos de interesse (a depender da opção assinalada e do interesse indicado). Independentemente da sua escolha, note que o Poder360 poderá lhe contatar para assuntos regulares. b) Caso não deseje oferecer o seu consentimento para as divulgações do Poder360, é possível seguir sem receber as informações assinaladas acima. Você poderá, a qualquer momento, se descadastrar de nossos contatos o",
+  "numeros": [
+   {
+    "valor": "15,3 a 50,6 bilhões",
+    "rotulo": "ganhos anuais estimados"
+   },
+   {
+    "valor": "10 a 33%",
+    "rotulo": "redução de preços estimada"
+   },
+   {
+    "valor": "70 a 240",
+    "rotulo": "benefício por habitante"
+   }
+  ],
+  "fonte": "Poder360",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de poder de compra e aumento do custo de vida",
+  "angulo": "Aprender sobre o mercado financeiro é crucial, especialmente em tempos de mudança. Essa regulação pode abrir novas portas de renda para você.",
+  "gancho": "Você sabia que *as big techs podem gerar benefícios*?",
+  "ideias": [
+   "Como as big techs impactam seu bolso?",
+   "Conheça o PL 4.675 e os seus benefícios",
+   "Entenda a regulação das big techs no Brasil"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-16T20:56:18-03:00",
+  "url": "https://www.poder360.com.br/poder-economia/regulacao-das-big-techs-pode-render-ate-r-506-bi-diz-fazenda/",
+  "publicadoEm": "2026-11-16T20:29:42-03:00",
+  "data": "2026-11-16",
+  "id": "2026-11-16-trader-19"
  },
  {
   "segmento": "trader",
