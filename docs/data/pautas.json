@@ -1,6 +1,479 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "WhatsApp: a nova era do atendimento e vendas",
+  "resumo": "WhatsApp evolui como canal de vendas, integrando IA para um atendimento contínuo e eficiente. Mudanças na operação são necessárias para acompanhar essa transformação.",
+  "fatos": [
+   "Durante o Summit Plataformas, foi discutido o avanço do WhatsApp em atendimento e vendas.",
+   "Bárbara Oliveira, da OmniChat, ressaltou a nova lógica de operação com a IA.",
+   "Automação deve manter a continuidade da conversa na jornada do cliente.",
+   "Agentes de IA precisam ter papéis claros e saber quando acionar atendimento humano.",
+   "É necessário acompanhar métricas e ajustar processos para alinhar automação ao objetivo do negócio."
+  ],
+  "explicacao": [
+   "O WhatsApp já não é mais só um canal de atendimento, mas uma ferramenta que apoia todo o relacionamento com o cliente, incluindo vendas.",
+   "A introdução da inteligência artificial permite uma experiência mais fluida, porém exige um gerenciamento eficiente da comunicação.",
+   "Com a automação, o objetivo é evitar que o consumidor enfrente interrupções na jornada de compra."
+  ],
+  "materia": "O WhatsApp deixou de ocupar apenas uma função de atendimento e passou a participar de uma jornada mais ampla, que envolve relacionamento, suporte e venda. Durante o Summit Plataformas, Bárbara Oliveira, Senior Sales Engineer da OmniChat , discutiu como esse avanço exige uma nova lógica de operação, especialmente com a entrada de agentes de inteligência artificial (IA). O ponto de partida é simples: a próxima decisão de compra não espera necessariamente um atendente disponível. Nesse cenário, a automação precisa sustentar a conversa sem criar rupturas entre diferentes momentos da jornada. Para Bárbara, o papel da IA não é responder qualquer coisa, mas atuar com foco e contexto . Isso passa por uma base de conhecimento tratada como fonte de verdade e por agentes com habilidades específicas para situações específicas. Cada agente precisa ter um papel claro, saber quando agir e em que momento deve acionar outro fluxo ou uma pessoa. Essa definição ajuda a evitar respostas genéricas e reduz o risco de uma automação que parece inteligente, mas perde o contexto da conversa. A comunicação entre humanos e agentes de IA também depende de memória, instruções e critérios bem definidos. O contexto certo precisa chegar ao agente certo, no momento certo. Na prática, isso significa estruturar uma jornada em que diferentes especialistas trabalham de forma coordenada nos bastidores, enquanto o consumidor percebe uma conversa contínua. Esse modelo também exige acompanhamento constante. Métricas, ajustes e guardrails precisam ser revisados ao longo do tempo para garantir que a automação continue alinhada ao objetivo do negócio e à experiência esperada pelo cliente. A discussão reforça que o avanço da IA no atendimento não está apenas em responder mais rápido, mas em organizar melhor quem responde, com qual informação e em qual etapa da jornada.",
+  "numeros": [],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Atendimento",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "o medo de perder vendas e clientes insatisfeitos",
+  "angulo": "Compreender esse novo cenário de atendimento pode levar seu negócio a explorar serviços que melhoram a experiência do cliente e aumentam vendas.",
+  "gancho": "*WhatsApp* revoluciona atendimento e vendas",
+  "ideias": [
+   "WhatsApp: o futuro do atendimento!",
+   "Como a IA transforma o atendimento no WhatsApp?",
+   "Venda mais: otimize seu atendimento no WhatsApp!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://www.ecommercebrasil.com.br/noticias/whatsapp-avanca-como-canal-continuo-de-atendimento-e-vendas",
+  "publicadoEm": "2026-11-17T16:34:05-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-vpr-23"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday: mudança no comportamento de compra exige ação",
+  "resumo": "A Black Friday de 2026 deve envolver 23,5 milhões de consumidores, evidenciando a necessidade de integração online e off-line. Estratégias de marketing adequadas são essenciais para atender a essa demanda crescente.",
+  "fatos": [
+   "A Black Friday de 2026 deve movimentar cerca de 23,5 milhões de brasileiros, com 86,4% apresentando perfil de comprador online.",
+   "71% dos consumidores preferem sites ou marketplaces para comparar preços.",
+   "80% optam por aplicativos de marcas quando há promoções exclusivas.",
+   "GMV dos aplicativos na Black Friday de 2025 foi de R$ 316 milhões, com crescimento de 258% em relação ao ano anterior.",
+   "Mais de 1 milhão de pedidos foram realizados, com ticket médio de R$ 592,67 e taxa média de conversão de 3,7%."
+  ],
+  "explicacao": [
+   "Aumentos nas vendas e mudanças no comportamento de consumo destacam a necessidade de uma experiência de compra integrada.",
+   "Os consumidores buscam comparar preços e ofertas antes de decidir suas compras.",
+   "A integração entre lojas físicas, sites e aplicativos é crucial para garantir informações corretas e melhorar a satisfação do cliente."
+  ],
+  "materia": "A Black Friday deve movimentar cerca de 23,5 milhões de brasileiros em 2026, segundo levantamento da Serasa Experian. Desse público, 86,4% têm perfil de comprador online, índice 91% superior ao observado na população brasileira. O cenário reforça a mudança no comportamento de consumo, com maior busca por preços, comparação de ofertas e utilização de diferentes canais antes da decisão de compra. LEIA TAMBÉM Black Friday eleva em até 30% as vendas de marcas próprias nos supermercados Como os supermercados usam Inteligência Artificial para aumentar vendas e lucro De acordo com o Kobe App Commerce Report 2026, estudo baseado em 8,9 mil respostas, 71% dos consumidores preferem sites ou marketplaces para comparar preços, enquanto 51% utilizam esses canais para pesquisar marcas e 43% para consultar avaliações. Já os aplicativos próprios ganham espaço quando oferecem benefícios exclusivos: 80% dos entrevistados afirmam preferir comprar pelo aplicativo de uma marca quando há promoções exclusivas. As ofertas também são importantes para atrair consumidores aos canais digitais. Segundo a pesquisa, 76% dos entrevistados baixaram seu último aplicativo motivados por uma promoção. Para Fabio Barboza Filho, CEO e cofundador da Kobe, o varejo precisa garantir uma experiência integrada, com informações de preços, estoque e condições comerciais alinhadas entre os diferentes canais. O desempenho dos aplicativos na Black Friday de 2025 reforça esse potencial. Em análise de mais de 100 aplicativos ativos em sua plataforma, a Kobe identificou GMV de R$ 316 milhões durante a data, crescimento de 258% em relação ao ano anterior. Foram mais de 1 milhão de pedidos, com ticket médio de R$ 592,67 e taxa média de conversão de 3,7%. Receba as notícias da SuperVarejo pelo Whatsapp Para a empresa, a Black Friday intensifica um comportamento que se mantém ao longo do ano: a pesquisa e comparação antes da compra. Nesse cenário, a integração entre lojas físicas, sites, marketplaces, aplicativos e redes sociais se torna importante para evitar divergências de informações e melhorar a experiência do consumidor. A Black Friday deve movimentar cerca de 23,5 milhões de brasileiros em 2026, segundo levantamento da Serasa Experian. Desse público, 86,4% têm perfil de comprador online, índice 91% superior ao observado na população brasileira. O cenário reforça a mudança no comportamento de consumo, com maior busca por preços, comparação de ofertas e utilização de diferentes canais antes da decisão de compra. Black Friday eleva em até 30% as vendas de marcas próprias nos supermercados Como os supermercados usam Inteligência Artificial para aumentar vendas e lucro De acordo com o Kobe App Commerce Report 2026, estudo baseado em 8,9 mil respostas, 71% dos consumidores preferem sites ou marketplaces para comparar preços, enquanto 51% utilizam esses canais para pesquisar marcas e 43% para consultar avaliações. Já os aplicativos próprios ganham espaço quando oferecem benefícios exclusivos: 80% dos entrevistados afirmam preferir comprar pelo aplicativo de uma marca quando há promoções exclusivas. As ofertas também são importantes para atrair consumidores aos canais digitais. Segundo a pesquisa, 76% dos entrevistados baixaram seu último aplicativo motivados por uma promoção. Para Fabio Barboza Filho, CEO e cofundador da Kobe, o varejo precisa garantir uma experiência integrada, com informações de preços, estoque e condições comerciais alinhadas entre os diferentes canais. O desempenho dos aplicativos na Black Friday de 2025 reforça esse potencial. Em análise de mais de 100 aplicativos ativos em sua plataforma, a Kobe identificou GMV de R$ 316 milhões durante a data, crescimento de 258% em relação ao ano anterior. Foram mais de 1 milhão de pedidos, com ticket médio de R$ 592,67 e taxa média de conversão de 3,7%. Para a empresa, a Black Friday intensifica um comportamento que se mantém ao longo do ano: a pesquisa e comparação antes da compra. Nesse cenário, a integração entre lojas ",
+  "numeros": [
+   {
+    "valor": "258",
+    "rotulo": "crescimento do GMV dos aplicativos"
+   },
+   {
+    "valor": "23,5 milhões",
+    "rotulo": "compradores na Black Friday"
+   },
+   {
+    "valor": "86,4%",
+    "rotulo": "perfil de comprador online"
+   }
+  ],
+  "fonte": "SuperVarejo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas se o cliente não encontrar sua marca",
+  "angulo": "As mudanças no comportamento de compra exigem estratégias eficazes em marketing digital e integração de canais, destacando a necessidade de um site bem estruturado e gestão de tráfego pago.",
+  "gancho": "A *Black Friday* vem aí: você está preparado?",
+  "ideias": [
+   "Mudanças de consumo na Black Friday",
+   "Como seu negócio pode se preparar",
+   "A importância da integração nas vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://www.supervarejo.com.br/varejo/black-friday-pode-acelerar-mudancas-no-comportamento-de-compra-do-consumidor",
+  "publicadoEm": "2026-11-17T17:06:57-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-vpr-22"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "TikTok Shop cresce e impacta o e-commerce brasileiro",
+  "resumo": "Com 22% de adesão, o TikTok Shop é a terceira plataforma de e-commerce mais citada. Empresários precisam se adaptar a essas novas demandas.",
+  "fatos": [
+   "TikTok Shop é a terceira plataforma de compras online, com 22% de adesão.",
+   "A Shopee lidera com 79%, seguida pelo Mercado Livre com 41%.",
+   "A pesquisa foi realizada pela Worldpanel by Numerator com 1.804 entrevistados.",
+   "Os consumidores relataram uma média de 3,7 compras online nos últimos 30 dias.",
+   "28% dos compradores frequentes fizeram cinco ou mais compras, representando 55% do total."
+  ],
+  "explicacao": [
+   "O crescimento do TikTok Shop indica que os consumidores estão diversificando suas opções de compra.",
+   "Empresas estabelecidas precisam considerar essas novas plataformas para não perder vendas.",
+   "O aumento do uso do TikTok para compras sugere uma mudança no comportamento do consumidor."
+  ],
+  "materia": "O TikTok Shop aparece como a terceira plataforma mais citada por compradores online às vésperas da Black Friday. Na pesquisa da Worldpanel by Numerator, 22% dos entrevistados afirmaram ter comprado pelo aplicativo nos últimos 30 dias. O índice coloca a rede atrás apenas da Shopee , com 79%, e do Mercado Livre, com 41%. A plataforma supera a Shein, citada por 20% dos compradores, e a Amazon, por 16%. Os resultados refletem apenas as respostas dos participantes da pesquisa e não podem ser generalizados para a população brasileira. A pesquisa mostra ainda que os participantes compram em diferentes plataformas. Em média, cada consumidor on-line citou 2,2 plataformas utilizadas nos últimos 30 dias. “Os participantes relataram compras em mais de uma plataforma, mostrando que diferentes empresas fazem parte da rotina de um mesmo consumidor. Nesse grupo, o TikTok Shop aparece entre as três opções mais citadas, ao lado de plataformas já consolidadas no comércio eletrônico”, analisa Daniel Horai, diretor da Worldpanel by Numerator. Compradores frequentes lideram pedidos online O levantamento também mostra a frequência de compras entre os participantes. Dos 1.804 entrevistados que souberam informar quantas compras on-line fizeram nos últimos 30 dias, a média foi de 3,7 no período. Os consumidores que fizeram cinco compras ou mais representaram 28% desse grupo, mas responderam por 55% do total de compras declaradas. O percentual se refere à quantidade de pedidos, não aos valores gastos, e mostra a participação dos compradores mais frequentes no volume registrado pela pesquisa. Imagem: Envato O post TikTok Shop já é opção de compra para 22% dos consumidores e entra no top 3 do e-commerce apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "22",
+    "rotulo": "percentual de adesão ao TikTok Shop"
+   },
+   {
+    "valor": "3,7",
+    "rotulo": "média de compras online nos últimos 30 dias"
+   },
+   {
+    "valor": "28",
+    "rotulo": "percentual de compradores que fizeram 5 compras ou mais"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas para novas plataformas de e-commerce",
+  "angulo": "A crescente adesão ao TikTok Shop ressalta a importância do marketing digital e a gestão de plataformas para se manter competitivo.",
+  "gancho": "Você já considerou o potencial do *TikTok para vendas?*",
+  "ideias": [
+   "Como o TikTok está mudando o e-commerce",
+   "Preparado para a Black Friday? Veja o TikTok Shop!",
+   "A nova era das compras online: TikTok em destaque"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://mercadoeconsumo.com.br/17/11/2026/ecommerce/tiktok-shop-ja-e-opcao-de-compra-para-22-dos-consumidores-e-entra-no-top-3-do-e-commerce/",
+  "publicadoEm": "2026-11-17T16:45:32-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-vpr-21"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças na jornada de trabalho e seus impactos no varejo",
+  "resumo": "A partir de 16 de dezembro, o varejo se reorganiza com a redução da jornada de trabalho, o que traz desafios para atender à demanda do Natal. Prepare-se para as mudanças.",
+  "fatos": [
+   "A nova jornada de trabalho começa em 16 de dezembro, reduzindo a carga semanal de 44 para 42 horas.",
+   "Estabelecimentos precisam reorganizar equipes para manter o atendimento durante a alta demanda de fim de ano.",
+   "Os custos com contratações podem aumentar de 28% a 58% devido a encargos e benefícios adicionais.",
+   "A Emenda Constitucional 141/2026 prevê duas etapas: a primeira em 2026, e a segunda em 2027, chegando a 40 horas semanais.",
+   "Empresas que não se adaptarem correm o risco de filas maiores e atendimento deficiente durante o período de festas."
+  ],
+  "explicacao": [
+   "As novas regras de jornada foram estabelecidas para melhorar a qualidade de vida do trabalhador, mas implicam reestruturação para as empresas.",
+   "Essa transição acontece em um período crítico para o varejo, que historicamente apresenta aumento de demanda no Natal.",
+   "As empresas precisam planejar suas equipes e horários para evitar impactos na experiência do consumidor e custos adicionais.",
+   "Desafios como contratação e manutenção de qualidade de atendimento devem ser considerados para evitar prejuízos."
+  ],
+  "materia": "Imagine entrar em um supermercado às vésperas do Natal e encontrar filas maiores nos caixas. Ou chegar a uma loja, procurar um vendedor e descobrir que a equipe está reduzida. Para quem compra, a preocupação é conseguir atendimento. Para quem trabalha, o desafio é conciliar a demanda de fim de ano com uma nova jornada. Esse cenário não é inevitável, mas ajuda a dimensionar a mudança que se aproxima. Faltam 29 dias para o início da transição que estabelece o fim da escala 6×1 no Brasil. A partir de 16 de dezembro, a jornada máxima semanal cairá de 44 para 42 horas , com dois dias de descanso remunerado e sem redução salarial. A mudança chega justamente quando supermercados, lojas, restaurantes e outros estabelecimentos enfrentam um dos períodos mais movimentados do ano. Por isso, seus efeitos ultrapassam as relações trabalhistas. A forma como as empresas reorganizarem equipes e horários também poderá influenciar a experiência de milhões de consumidores. Além disso, a transição envolve custos de contratação, horas extras, negociação coletiva e riscos jurídicos. Enquanto os trabalhadores se preparam para uma nova rotina, as empresas precisam encontrar maneiras de manter a qualidade dos serviços com menos horas disponíveis. A Emenda Constitucional 141/2026 , promulgada em 16 de outubro, estabelece duas etapas para a redução da jornada. A primeira começa em 16 de dezembro de 2026, com limite de 42 horas semanais. A segunda está prevista para 16 de dezembro de 2027, quando o teto chegará a 40 horas. A nova regra também assegura dois dias de repouso semanal remunerado, preferencialmente aos domingos. Entretanto, isso não significa que todos os empregados terão folgas aos sábados e domingos, nem que os descansos ocorrerão necessariamente em dias consecutivos. A redução da jornada não poderá provocar diminuição dos salários. Por outro lado, trabalhadores que já cumprem jornadas de até 40 horas não terão direito a uma redução proporcional automática. A principal mudança para o consumidor poderá aparecer na organização dos serviços . Estabelecimentos que funcionam sete dias por semana precisarão redistribuir os horários de atendimento para garantir os novos períodos de descanso dos trabalhadores. Isso não significa que as lojas terão de fechar dois dias por semana. A exigência recai sobre a jornada dos empregados, e não sobre os dias de funcionamento dos estabelecimentos. Para Daniel Santos, gerente Trabalhista Outsourcing da Confirp , o desafio será adequar as equipes sem comprometer a continuidade das operações. “O levantamento deve identificar quantos funcionários são necessários por turno, quais períodos concentram maior demanda e onde a redução das horas pode comprometer o atendimento ou a produção. Também é importante calcular o custo de eventuais contratações, incluindo encargos, benefícios, treinamento e despesas de gestão”, afirma. Na prática, supermercados, farmácias, restaurantes e hotéis poderão manter suas operações mediante reorganização de turnos, contratação de profissionais ou ajustes internos. Entretanto, empresas que não dimensionarem corretamente suas equipes poderão enfrentar dificuldades para atender à demanda. Filas maiores, demora no atendimento e menor disponibilidade de funcionários são riscos operacionais , não consequências inevitáveis da nova legislação. Outro ponto envolve os preços. A eventual elevação dos custos trabalhistas poderá pressionar as despesas de algumas empresas. Contudo, não há elementos suficientes para afirmar que esses valores serão automaticamente repassados aos consumidores. Isso dependerá de fatores como concorrência, produtividade, margens e estratégias comerciais. O calendário representa um desafio adicional para o comércio. A mudança ocorrerá apenas nove dias antes do Natal , quando muitas empresas já terão contratado trabalhadores temporários e organizado as escalas de dezembro. A Associação Brasileira do Trabalho Temporário (Asserttem) projeta mais de 500 mil contratos no quarto tri",
+  "numeros": [
+   {
+    "valor": "500000",
+    "rotulo": "contratos temporários previstos para 2026"
+   },
+   {
+    "valor": "28% a 58%",
+    "rotulo": "aumento de custos nas contratações"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de vendas e clientes em períodos críticos",
+  "angulo": "Com essas mudanças, é essencial que as empresas tenham um site eficaz e gestão competente das redes sociais para manter a comunicação e atendimento ao cliente.",
+  "gancho": "Prepare seu negócio para o *novo modelo de trabalho*",
+  "ideias": [
+   "O que muda com a nova jornada de trabalho?",
+   "Prepare-se para o Natal: ajuste sua equipe!",
+   "Atenção empresários: como a redução da jornada afeta seu negócio?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://consumidormoderno.com.br/fim-escala-6x1-29-dias/",
+  "publicadoEm": "2026-11-17T16:53:35-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-vpr-20"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Inteligência Artificial: Oportunidade ou Desafio para o Varejo?",
+  "resumo": "A adoção da Inteligência Artificial no varejo requer revisões de processos e controles. Com a urgência de resultados, como garantir segurança e eficiência nas aplicações?",
+  "fatos": [
+   "O evento 'Quando os Líderes se Encontram' aconteceu em 10 de outubro, discutindo IA no varejo.",
+   "Executivos do varejo e tecnologia debateram a transformação de experimentos em resultados.",
+   "50% das empresas de varejo reinvestem economias em inovações como IA.",
+   "47% direcionam recursos para modernização, conectando pequenas aplicações e aprendizado.",
+   "Avançar na IA exige revisão de processos e controles adequados aos riscos."
+  ],
+  "explicacao": [
+   "A transformação digital está pressionando o varejo a adotar a Inteligência Artificial rapidamente.",
+   "Embora a urgência para resultados seja alta, é essencial não comprometer a segurança.",
+   "Empresas precisam rever seus processos para utilizar IA de forma eficiente e segura.",
+   "As decisões devem considerar o impacto da IA nas operações, segurança e custos.",
+   "O desafio é fazer com que experiências com IA gerem valor real e urgente para os negócios."
+  ],
+  "materia": "A adoção da Inteligência Artificial no varejo não precisa esperar que as empresas concluam grandes projetos de organização de dados. O caminho passa por começar com aplicações de impacto mensurável, não necessariamente em todas as áreas de uma só vez, testar soluções em ambientes controlados e estabelecer mecanismos de segurança proporcionais aos riscos de cada operação. Essas foram algumas das conclusões após mais uma edição do Quando os Líderes se Encontram, realizada na terça-feira, 10, pela Gouvêa Consulting e Gouvêa Experience, com oferecimento da Kyndryl em parceria com a Google Cloud e a SAP. O evento reuniu executivos do varejo, da indústria e de empresas de tecnologia em dois painéis que discutiram como transformar a experimentação com IA em resultados para o negócio e, ao mesmo tempo, evitar que a expansão das aplicações comprometa a segurança, os custos e a confiabilidade das decisões. Como sair da experimentação e gerar resultado No painel “Da experimentação ao impacto: IA, aplicações e a modernização do varejo”, os participantes defenderam que a escolha dos projetos deve partir das necessidades da operação. O debate envolveu aplicações para aumentar vendas, melhorar margens, reduzir rupturas de estoque e acelerar processos, mas também a dificuldade de transformar ganhos individuais de produtividade em resultados para toda a empresa. Para Ricardo Nastri, vice-presidente de Consultoria da Kyndryl Brasil, a adoção da IA pode combinar iniciativas de resultado mais imediato com projetos de transformação de maior alcance. “O projeto de eficiência ajuda, às vezes, a financiar o projeto de transformação”, afirmou. Essa dinâmica também aparece no Estudo de Modernização 2026 da Kyndryl : entre as empresas de varejo, 50% afirmam reinvestir economias obtidas com a otimização dos custos de nuvem em novas iniciativas de inovação, como IA e novas aplicações, e 47% direcionam esses recursos para outros projetos de modernização. Segundo o executivo, as aplicações menores também contribuem para o aprendizado das equipes e para a criação das condições necessárias à expansão da tecnologia. Ellen Bremm, vice-presidente de Varejo da SAP Brasil, destacou a importância de estabelecer critérios para os investimentos. “Os projetos deveriam ser escolhidos ou priorizados de acordo com o KPI que é relevante para o varejo”, afirmou. A revisão dos processos também apareceu como condição para ampliar os resultados. Rafael Sbampato, diretor de Digital e TI da Riachuelo, chamou a atenção para o fato de que acelerar uma tarefa não significa necessariamente acelerar toda a operação. “Se eu fizesse a peça em 30 segundos e esperasse três meses, eu teria esperado três meses”, exemplificou, ao abordar os desafios do desenvolvimento de produtos. Na MBRF, Marcelo Suárez, diretor de Trade Marketing, Vendas Digitais e Experiência do Cliente, defendeu que o potencial da tecnologia deve ser avaliado também pela capacidade de gerar receita. “Eu prefiro que os 3.500 vendedores que a gente tem vendam mais”, disse, ao comentar a utilização de dados para aprimorar as decisões comerciais. O debate contou ainda com Gutemberg Almeida, industry advisor do Google Cloud, que abordou a importância de estruturar os dados, integrar sistemas e estabelecer controles para que as ferramentas possam atuar nos processos corporativos. Como ampliar a IA sem aumentar os riscos O segundo eixo do encontro tratou de um desafio que ganha relevância à medida que as ferramentas deixam de apenas fornecer informações e passam a executar ações dentro das empresas. No painel “Inovar com confiança: como escalar a IA sem ampliar os riscos?”, os participantes discutiram como conciliar a velocidade exigida pelas áreas de negócios com a proteção dos dados, a gestão dos custos e o monitoramento das decisões automatizadas. Roberto Wajnsztok, sócio-diretor da Gouvêa Consulting, destacou a urgência que caracteriza o setor. “O varejista quer aplicar amanhã, porque precisa bater a meta amanhã”, afirmou",
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "das empresas reinvestem em inovações"
+   },
+   {
+    "valor": "47%",
+    "rotulo": "redirecionam recursos para modernização"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Perder competitividade e eficiência no mercado atual",
+  "angulo": "O cenário atual mostra que investir em IA é essencial para não ficar para trás e garantir eficiência nos negócios.",
+  "gancho": "Inteligência Artificial: *como não ficar para trás*?",
+  "ideias": [
+   "A importância da IA para o varejo",
+   "Como implementar IA sem riscos",
+   "Revisando processos para resultados com IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://mercadoeconsumo.com.br/17/11/2026/noticias/ia-muda-o-ritmo-do-varejo-e-exige-revisao-de-processos-e-controles/",
+  "publicadoEm": "2026-11-17T15:30:25-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crédito em alta, mas sinais de desaceleração aparecem",
+  "resumo": "A busca por crédito pelas empresas brasileiras cresce, mas apresenta desaceleração, especialmente no comércio e na indústria. Atenção é necessária para entender essa tendência.",
+  "fatos": [
+   "A demanda das empresas por crédito cresceu 9,9% em 12 meses até setembro.",
+   "Os micro e pequenos negócios lideraram com alta de 10%.",
+   "Grandes empresas tiveram aumento de 8,3%, enquanto médias aumentaram 5%.",
+   "Em setembro, a alta foi de 0,6% em relação ao mesmo mês do ano passado.",
+   "O comércio e a indústria apresentaram contrações de -1,4% e -3,4%, respectivamente."
+  ],
+  "explicacao": [
+   "Embora a demanda por crédito tenha mostrado crescimento, a desaceleração é um sinal de alerta para os empresários.",
+   "O ambiente de juros altos torna o mercado mais restritivo, dificultando o acesso a recursos.",
+   "As empresas, especialmente no comércio e indústria, precisam se adaptar a essas mudanças para otimizar suas finanças e operações."
+  ],
+  "materia": "A demanda das empresas por crédito começa a dar sinais de arrefecimento, após ter exibido resiliência às restrições provocadas pelo alto nível dos juros. A busca das companhias brasileiras por recursos financeiros cresceu 9,9% no acumulado de 12 meses até setembro, mostra levantamento da Serasa Experian. O movimento foi liderado pelos micro e pequenos negócios (MPEs), com alta de 10%, seguidos de grandes empresas (+8,3%) e médias (+5%). No recorte apenas de setembro, o indicador avançou 0,6% ante igual mês do ano passado. O resultado representa uma forte desaceleração após o avanço de 5,3% em agosto e de 17,6% em julho. “O crescimento também ficou menos disseminado, concentrado em serviços e agropecuária, enquanto comércio e indústria recuaram”, afirma a economista-chefe da Serasa Experian, Camila Abdelmalack. “No entanto, como o indicador apresenta volatilidade e ainda acumula alta de 9,9% em 12 meses, é necessário acompanhar os próximos resultados antes de afirmar uma tendência de desaceleração”, pondera. Entre setores, Serviços liderou a expansão nos 12 meses até setembro, com alta de 15,5%, enquanto Agronegócio subiu 15,1%, Indústria aumentou 6,9% e Comércio teve incremento de 5,6%. No confronto mensal, por outro lado, comércio (-1,4%) e indústria (-3,4%) registraram contração. “A procura por crédito reflete as necessidades de gestão financeira das empresas, mas encontra um mercado mais restritivo, no qual os credores reduzem a exposição ao risco e reforçam os critérios de concessão diante da inadimplência elevada”, ressalta Abdelmalack. Com informação do Estadão de Conteúdo (André Marinho). Imagem: Envato Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "9,9%",
+    "rotulo": "crescimento da demanda por crédito"
+   },
+   {
+    "valor": "10%",
+    "rotulo": "crescimento dos micro e pequenos negócios"
+   },
+   {
+    "valor": "5,6%",
+    "rotulo": "crescimento do comércio em 12 meses"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "desafios na obtenção de crédito e gestão financeira",
+  "angulo": "A desaceleração no crédito mostra a importância de um planejamento financeiro e a necessidade de estratégias de marketing para compensar a redução nas vendas.",
+  "gancho": "*Demanda por crédito* segue alta, mas sinais de mudança",
+  "ideias": [
+   "Cuidado com o crédito: sinais de desaceleração",
+   "Como adaptar seu negócio às mudanças econômicas",
+   "O que a queda nas vendas significa para você?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://mercadoeconsumo.com.br/17/11/2026/economia/serasa-demanda-das-empresas-por-credito-segue-em-alta-mas-da-sinais-de-desaceleracao/",
+  "publicadoEm": "2026-11-17T15:34:06-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crédito de R$ 22,6 bilhões para empresas afetadas",
+  "resumo": "O Senado aprovou R$ 22,6 bilhões em crédito para ajudar empresas impactadas pelas tarifas dos EUA. O texto seguirá para sanção e tem prazos curtos.",
+  "fatos": [
+   "O Senado aprovou um projeto com linhas de crédito totalizando R$ 22,6 bilhões.",
+   "Os créditos têm juros subsidiados destinados a empresas afetadas por tarifas dos EUA.",
+   "Os recursos virão do Tesouro Nacional (R$ 13,5 bilhões) e do BNDES (R$ 9,1 bilhões).",
+   "O BNDES inicialmente tinha R$ 5 bilhões, mas ampliou para R$ 9,1 bilhões.",
+   "R$ 8,8 bilhões serão para exportadores afetados por tarifas dos EUA e R$ 6,8 bilhões para exportadores atuando no Golfo Pérsico."
+  ],
+  "explicacao": [
+   "A aprovação deste crédito visa apoiar empresas que enfrentam dificuldades devido a barreiras comerciais e tarifas impostas internacionalmente.",
+   "As linhas de crédito subsidiadas permitirão melhor fluxo de capital para as empresas, mitigando instantaneamente os efeitos negativos nas vendas.",
+   "Para o empresário, isso significa uma oportunidade de se reerguer ou mesmo se destacar em um cenário desafiador.",
+   "Essa movimentação do governo se insere no contexto mais amplo de estabilidade econômica e fortalecimento do comércio exterior.",
+   "A sanção e implementação dessas medidas devem ser acompanhadas de perto, pois podem impactar diferentes setores."
+  ],
+  "materia": "O Senado aprovou nesta terça-feira, 17, o projeto resultante da Medida Provisória (MP) 1.379/2026, para criar linhas de crédito no total de R$ 22,6 bilhões, com juros subsidiados, para empresas afetadas pela sobretaxação dos Estados Unidos a produtos brasileiros. O texto segue para sanção. A MP tem validade até a quarta-feira, 18. O texto permite a combinação dos recursos da União com recursos próprios do Banco Nacional de Desenvolvimento Econômico e Social (BNDES). Pelo previsto, R$ 13,5 bilhões vêm do Tesouro Nacional e R$ 9,1 bilhões, do BNDES . A proposta reforça o Plano Brasil Soberano, criado para apoiar empresas afetadas por barreiras comerciais internacionais, tarifas e instabilidades geopolíticas. A ampliação dos recursos deve beneficiar exportadores de produtos industriais, agropecuários, florestais, pesqueiros, aquícolas e minerais, além de seus fornecedores. Inicialmente, o BNDES previa dispor de R$ 5 bilhões. Em setembro, no entanto, o banco ampliou sua participação no Plano Brasil Soberano 3 para R$ 9,1 bilhões. Com os recursos adicionais, o orçamento final do plano de apoio passou dos R$ 18,5 bilhões estimados inicialmente para R$ 22,6 bilhões. Do total de recursos, R$ 8,8 bilhões serão destinados a exportadores e fornecedores afetados pela aplicação de tarifas comerciais pelos Estados Unidos. Outros R$ 6,8 bilhões serão destinados aos beneficiários exportadores e seus fornecedores que exportam para países do Golfo Pérsico, região afetada pelo conflito no Oriente Médio. Os R$ 7 bilhões restantes serão distribuídos da seguinte forma: R$ 1 bilhão para empresas atuantes em setores industriais relevantes ao comércio exterior brasileiro; R$ 4 bilhões para empresas atuantes em atividades relacionadas à fabricação de adubos e fertilizantes ou de intermediários para fertilizantes; R$ 2 bilhões para empresas atuantes em atividades industriais e tecnológicas na cadeia de minerais críticos e estratégicos. Com informações de Estadão Conteúdo (Naomi Matsui) Imagem: Envato Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "22,6 bilhões",
+    "rotulo": "crédito aprovado"
+   },
+   {
+    "valor": "13,5 bilhões",
+    "rotulo": "recursos do Tesouro Nacional"
+   },
+   {
+    "valor": "9,1 bilhões",
+    "rotulo": "recursos do BNDES"
+   },
+   {
+    "valor": "5 bilhões",
+    "rotulo": "recursos iniciais do BNDES"
+   },
+   {
+    "valor": "8,8 bilhões",
+    "rotulo": "para exportadores afetados pelos EUA"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Comércio local"
+  ],
+  "dor": "Temo que a barreira fiscal reduza vendas e crescimento.",
+  "angulo": "É crucial que empresários busquem estratégias de marketing adequadas, como gestão de redes e tráfego pago, para otimizar a visibilidade e potencializar as vendas nesse novo cenário.",
+  "gancho": "Receba *R$ 22,6 bilhões* em crédito!",
+  "ideias": [
+   "Impacto das tarifas nos negócios: como se proteger",
+   "Como usar o crédito aprovado para crescimento",
+   "Oportunidades para empresas com a MP 1.379"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://mercadoeconsumo.com.br/17/11/2026/economia/senado-aprova-r-226-bilhoes-em-credito-para-empresas-afetadas-pelo-tarifaco-dos-eua/",
+  "publicadoEm": "2026-11-17T17:59:30-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "TikTok Shop traz ação offline para Black Friday em SP",
+  "resumo": "O TikTok Shop promove ações de mídia offline em São Paulo, impactando marcas na Black Friday. A campanha inclui descontos e parceria com influenciadores para impulsionar vendas.",
+  "fatos": [
+   "O TikTok Shop realiza ações de mídia offline em São Paulo para a Black Friday.",
+   "As marcas participantes do \"Super Dia da Marca\" terão exposição em locais como Metrô e elevadores.",
+   "As ofertas incluem descontos de até 70% e cupons de até R$ 200.",
+   "O calendário promocional vai até o início de dezembro, com uma etapa específica de 4 a 9 de dezembro.",
+   "Essa campanha integra 25 marcas de diversos segmentos, como moda, tecnologia e alimentação."
+  ],
+  "explicacao": [
+   "As ações do TikTok Shop buscam aumentar visibilidade e vendas durante a Black Friday.",
+   "O modelo de discovery commerce permite que usuários descubram produtos através de conteúdo e compras integradas.",
+   "Com a participação de influenciadores, espera-se impulsionar as vendas e engajamento dos consumidores."
+  ],
+  "materia": "O TikTok Shop chegou à Black Friday com ações de mídia offline em São Paulo. As marcas que aderiram aos pacotes do “Super Dia da Marca”, dentro da Campanha PI da plataforma, terão exposição em mídia out-of-home da Eletromidia, em locais como elevadores, Metrô e abrigos de ônibus, além de anúncios no aplicativo da Uber. As ofertas incluem ainda descontos de até 70%, cupons de até R$ 200 para usuários, frete grátis e parcelamento em até 12 vezes sem juros, conforme as condições de cada produto. O calendário promocional segue até o início de dezembro, com a etapa 12.12 prevista para o período de 4 a 9 de dezembro. As Campanhas PI são uma das principais ferramentas para impulsionar vendas no TikTok Shop. Voltadas a momentos importantes, como a estreia de uma marca na plataforma, lançamentos de produtos e grandes promoções, elas concentram ações de venda com participação de criadores de conteúdo, transmissões ao vivo e entretenimento. Elas são divididas em três formatos: Super Dia da Marca: reúne influenciadores, entretenimento e comércio eletrônico em uma ação de vendas de grande escala. Lançamentos: voltadas à divulgação de novos produtos, com foco em visibilidade e conversão. Inauguração: marca a entrada de grandes marcas na plataforma, com ações para ampliar o alcance desde a estreia. As ativações do “Super Dia da Marca” integram a campanha de Black Friday do TikTok Shop, que reúne 25 marcas dos segmentos de moda, beleza, tecnologia, casa, higiene, eletrodomésticos, limpeza e alimentação. A campanha segue o modelo de discovery commerce do TikTok Shop, em que os usuários descobrem produtos por meio de vídeos, transmissões ao vivo (LIVEs) e conteúdos de criadores e podem concluir a compra sem sair do aplicativo . Estudo realizado pelo TikTok Shop em parceria com a NielsenIQ mostra que 74% dos consumidores que compram on-line aprovam a integração entre entretenimento e compras. Além disso, 91% consideram as LIVEs úteis para esclarecer dúvidas e conhecer produtos, enquanto 82% avaliam que a plataforma oferece entregas rápidas. Imagem: Envato O post TikTok Shop leva marcas do aplicativo para mídia offline em São Paulo no esquenta da Black Friday apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "74%",
+    "rotulo": "consumidores que aprovam a integração entre entretenimento e compras"
+   },
+   {
+    "valor": "91%",
+    "rotulo": "consumidores que consideram as LIVEs úteis"
+   },
+   {
+    "valor": "82%",
+    "rotulo": "consumidores que avaliam entregas rápidas"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de vendas em um período crucial do ano",
+  "angulo": "Empresas precisam se adaptar a novas formas de venda e marketing, como o uso de influenciadores e integração online-offline, para não ficarem à margem das grandes oportunidades.",
+  "gancho": "Atraia clientes com *mídia offline e influenciadores*",
+  "ideias": [
+   "Descontos que podem mudar seu negócio.",
+   "Influenciadores: a nova força de vendas.",
+   "A nova era do varejo: como se adaptar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://mercadoeconsumo.com.br/17/11/2026/ecommerce/tiktok-shop-leva-marcas-do-aplicativo-para-midia-offline-em-sao-paulo-no-esquenta-da-black-friday/",
+  "publicadoEm": "2026-11-17T18:37:39-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-vpr-16"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Como evitar erros críticos na Black Friday?",
   "resumo": "A Black Friday se aproxima e erros na operação podem comprometer vendas. Prepare sua empresa para atender as expectativas do consumidor e evitar perdas financeiras.",
   "fatos": [
@@ -830,6 +1303,242 @@
   "publicadoEm": "2026-11-16T22:23:50-03:00",
   "data": "2026-11-16",
   "id": "2026-11-17-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "A importância de diversificar sua renda hoje",
+  "resumo": "Depender apenas do salário é arriscado. Aprender a operar no mercado financeiro traz autonomia e pode ajudar a enfrentar os altos custos de vida.",
+  "fatos": [
+   "A alta de custos impacta a vida de todos, principalmente de quem depende de salário fixo.",
+   "O cenário econômico atual exige adaptação para aumentar a renda.",
+   "O fim da escala 6x1 evidenciou a insegurança de muitos trabalhadores.",
+   "Muitos profissionais enfrentam dificuldades com impostos e encargos variáveis.",
+   "Empresários estão vendo suas margens de lucro sendo apertadas.",
+   "A busca por novas fontes de renda se tornou essencial na economia atual."
+  ],
+  "explicacao": [
+   "O aumento do custo de vida e a instabilidade do emprego têm levado muitas pessoas a repensar suas fontes de renda.",
+   "O mercado financeiro, ao contrário do salário fixo, oferece a possibilidade de ganhos sem as amarras de horário e escala.",
+   "Aprender a operar pode ser um diferencial para garantir uma renda adicional ou até principal.",
+   "O dia a dia de muitos está se tornando cada vez mais apertado, e ter várias fontes de renda é uma solução viável."
+  ],
+  "materia": "A repórter da Agência Brasil, Isabela Vieira, é finalista no Prêmio Papagaio de Comunicação Animal 2026, promovido pelo Fórum Nacional de Proteção e Defesa Animal (Fórum Animal). A reportagem Mascote da Copa de 2014, tatu-bola deve ganhar novo plano de proteção concorre na categoria Políticas públicas de proteção animal. Os finalistas foram divulgados nesta terça-feira (17). Ao todo, foram selecionados 67 trabalhos de jornalistas, pesquisadores, artistas e criadores de conteúdo de diferentes regiões do Brasil. A premiação conta com 14 categorias e reconhece produções que abordam desde a defesa de cães e gatos até questões relacionadas a animais silvestres, aquáticos e criados para consumo, além de políticas públicas, experimentação animal, entretenimento e manifestações artísticas Os vencedores serão conhecidos na cerimônia de entrega dos troféus, em São Paulo, no dia 23 de novembro. \"É gratificante ter o trabalho reconhecido por iniciativas como o Prêmio Papagaio. Demonstra a capacidade da Agência Brasil abordar questões de relevância nacional, em diálogo com a comunidade científica, e de contribuir para o debate sobre a proteção dos animais e do meio ambiente\", diz Isabela Vieira. A diretora de Jornalismo da EBC , Myrian Pereira, destaca que a indicação ao prêmio é o reconhecimento do trabalho executado pela empresa. \"A indicação é um reconhecimento importante à qualidade da nossa apuração e reforça o compromisso da EBC e da Agência Brasil com um jornalismo público que vai além do factual. O trabalho da Isabela traduz perfeitamente essa missão ao buscar um ângulo original na cobertura da Copa do Mundo para dar visibilidade a uma espécie ameaçada, qualificar o debate ambiental e cobrar políticas públicas efetivas de conservação\", diz a diretora. A reportagem foi feita como parte da cobertura da Copa do Mundo de Futebol, mostrando a importância da criação de planos de nacionais e de unidades de conservação para a proteção dos animais silvestres. A jornalista da Empresa Brasil de Comunicação (EBC ) afirma que a matéria é um alerta sobre a situação do tatu-bola ( Tolypeutes tricinctus ), que ainda não está livre da ameaça de extinção, e se propunha a chamar atenção para as ameaças ao animal. \"O avanço da atividade humana, seja por meio do desmatamento, da instalação de empreendimentos energéticos, da agropecuária ou da construção de estradas têm reduzido o habitat desse animal tão importante, inclusive, para a regeneração do próprio meio ambiente\", afirma Isabela Vieira. Na natureza, o tatu-bola tem o papel de regenerar a terra, revolvendo nutrientes, e de servir de alimento para animais maiores, como as onças. Ele também faz o controle de pragas ao comer formigas, cupins e outros insetos menores. Isabela Vieira é jornalista da EBC desde 2007. Cobre política, economia, meio ambiente e direitos humanos. É mestra em Comunicação pela Universidade Federal do Rio de Janeiro (UFRJ) e integra a Comissão de Jornalistas pela Igualdade Racial do Sindicato dos Jornalistas Profissionais do Município do Rio de Janeiro (SJPMRJ).",
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "aumento da inflação no ano passado"
+   }
+  ],
+  "fonte": "Agência Brasil Últimas",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "A insegurança financeira causada pela dependência do salário",
+  "angulo": "Aprender sobre o mercado financeiro pode ser a chave para a liberdade financeira, permitindo um estilo de vida sem amarras.",
+  "gancho": "A *liberdade financeira* é possível!",
+  "ideias": [
+   "Descubra como aumentar sua renda",
+   "O mercado financeiro como alternativa",
+   "Desmistificando o mundo do day trade"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/reporter-da-agencia-brasil-e-finalista-em-premio-de-protecao-animal",
+  "publicadoEm": "2026-11-17T19:40:00-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Nova escala 5x2 pode impactar sua rotina",
+  "resumo": "O decreto que regulamenta a escala 5x2 será assinado, garantindo jornada de trabalho com mais dias de descanso a partir de dezembro. Entenda como isso pode afetar sua vida financeira.",
+  "fatos": [
+   "O presidente Lula assinará o decreto em 19 de outubro, às 9h.",
+   "A nova escala entra em vigor a partir de 16 de dezembro.",
+   "O fim da escala 6x1 foi aprovado, garantindo dois dias de descanso remunerado.",
+   "A jornada de trabalho será reduzida de 44 para 40 horas semanais.",
+   "A transição para a nova medida terá duração de 14 meses.",
+   "73% dos brasileiros apoiam o fim da escala 6x1, segundo pesquisa."
+  ],
+  "explicacao": [
+   "O decreto visa regularizar a nova jornada de trabalho, facilitando a adaptação entre empregadores e empregados.",
+   "Com a nova escala, os trabalhadores terão um melhor equilíbrio entre vida pessoal e profissional, o que pode estimular outras fontes de renda.",
+   "A redução nas horas de trabalho pode gerar mais tempo livre, permitindo atividade em áreas como estudos ou o mercado financeiro."
+  ],
+  "materia": "O presidente Luiz Inácio Lula da Silva assinará o decreto de regulamentação da escala de trabalho 5x2 na próxima quinta-feira (19), às 9h. O decreto vai fixar o início do cumprimento da nova escala a partir de 16 de dezembro. A informação foi dada à imprensa pelo ministro do Trabalho, Luiz Marinho, na tarde desta terça-feira (17). Segundo o ministro, Lula fez sugestões de ajustes no decreto, mas não detalhou. O objetivo é evitar interpretações distorcidas, mexendo com as expectativas de empregados e empregadores. A assinatura do decreto se dará em evento aberto à imprensa, no Palácio do Planalto. “O Executivo soltará o decreto na quinta, que ajuda a balizar o entendimento de trabalhadores e enpregadores para de fato consolidar o processo de negociações que eles precisam fazer para 16 de dezembro ser implantado em todo o Brasil”, disse Marinho. A fala de Marinho também sinaliza ao Supremo Tribunal Federal (STF), já que há ações correndo na Corte, sob relatoria de Flávio Dino. Hoje, o ministro decidiu que as ações que tratam das regras de transição para o início da escala de trabalho 5x2 serão julgadas de forma definitiva , ou seja, diretamente no mérito. Em uma decisão histórica, o Senado Federal aprovou no mês passado o fim da escala 6x1 de trabalho. Com isso, o trabalhador passa a ter dois dias por semana de descanso remunerado, em jornada máxima de 5 dias de trabalho por 2 de descanso, sem redução salarial. Além disso, a atual jornada de trabalho passa de 44 para 40 horas semanais terá uma regra de transição de 14 meses. A medida foi aprovada com votos da base governista e da oposição. O texto já havia sido aprovado pela Câmara dos Deputados. O fim da escala foi celebrado por entidades representativas dos trabalhadores. Para a categoria, a nova jornada permitirá ao trabalhador ter mais contato com a família e poder se dedicar a outras atividades e estudo. Uma pesquisa realizada em fevereiro deste ano pela Nexus mostrou que 73% dos brasileiros apoiam o fim da escala 6x1.",
+  "numeros": [
+   {
+    "valor": "73",
+    "rotulo": "percentual de apoio ao fim da escala 6x1"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas na nova jornada semanal"
+   },
+   {
+    "valor": "14",
+    "rotulo": "meses de transição até a nova escala"
+   }
+  ],
+  "fonte": "Agência Brasil Política",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Jovens"
+  ],
+  "dor": "preocupação com diminuição de horas e renda",
+  "angulo": "Ao entender as mudanças nas jornadas de trabalho, você pode se inspirar a buscar novas oportunidades no mercado financeiro",
+  "gancho": "Prepare-se para a nova *jornada de trabalho*",
+  "ideias": [
+   "Como a nova jornada 5x2 pode mudar sua vida?",
+   "Escala 5x2: oportunidades no mercado financeiro",
+   "Entenda o impacto do fim da escala 6x1"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/decreto-que-regulamenta-escala-5x2-sera-assinado-quinta-feira",
+  "publicadoEm": "2026-11-17T18:54:00-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 pode impactar sua rotina",
+  "resumo": "O governo está preparando um novo decreto para regulamentar a jornada de trabalho 6x1, alterando descansos e horas extras no setor. Isso pode modificar suas finanças pessoais e rotina.",
+  "fatos": [
+   "O presidente Lula deve assinar um decreto que regulamenta o fim da escala 6x1 na quinta-feira, 19 de outubro.",
+   "O ministro do Trabalho, Luiz Marinho, confirmou que ajustes foram feitos nesse decreto.",
+   "As novas regras podem incluir um aumento no valor das horas extras.",
+   "Pela decisão do ministro Flávio Dino, a nova jornada de trabalho começará em 16 de dezembro.",
+   "Trabalhadores poderão ter acordos coletivos que flexibilizam a nova escala de trabalho."
+  ],
+  "explicacao": [
+   "O novo decreto visa adaptar a jornada de trabalho, possibilitando que as regras sejam ajustadas conforme acordos coletivos.",
+   "As mudanças incluem a possibilidade de os trabalhadores terem apenas um dia de descanso por semana em determinados meses.",
+   "Isso representa um ajuste significativo para muitos profissionais que dependem de uma rotina estável e de horas extras.",
+   "Com a nova legislação, será crucial para os trabalhadores e empregadores entenderem as novas dinâmicas laborais e como isso afeta suas finanças."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O ministro do Trabalho, Luiz Marinho , afirmou nesta terÃ§a-feira (17) que o presidente Luiz InÃ¡cio Lula da Silva (PT) fez ajustes no decreto que regulamenta o fim da escala 6x1 e deve assinÃ¡-lo nesta quinta-feira (19). A declaraÃ§Ã£o foi dada apÃ³s reuniÃ£o entre ele e o ministro da Secretaria-Geral, Guilherme Boulos, com Lula, na residÃªncia oficial do presidente, o PalÃ¡cio da Alvorada. O ministro nÃ£o detalhou as alteraÃ§Ãµes do presidente, mas disse que o decreto pode vir acompanhado de uma ou mais portarias adicionais. Como mostrou a Folha , o decreto do MinistÃ©rio do Trabalho e Emprego deve fixar um cÃ¡lculo que vai elevar o valor das horas extras . De acordo com ele, a previsÃ£o Ã© de que haja uma cerimÃ´nia no PalÃ¡cio do Planalto, por volta das 9h. O evento deve ser feito em cerimÃ´nia fechada, mas hÃ¡ possbilidade de que entidades trabalhistas e imprensa tenham acesso. \"Essa semana nÃ³s atendemos, em mais de 70 reuniÃµes, setores da economia. SÃ³ essa semana MinistÃ©rio de Trabalho, uma forÃ§a tarefa que nÃ³s estamos atendendo todo mundo que que nos procura para ir esclarecendo, explicando as pessoas, ir assimilando o processo de de aperfeiÃ§oamento do que passarÃ¡ essa medida\", disse Marinho. O ministro nÃ£o respondeu se haverÃ¡ alguma alteraÃ§Ã£o no decreto na parte relativa Ã decisÃ£o da semana passada do ministro FlÃ¡vio Dino, relator de aÃ§Ã£o sobre o fim da jornada 6x1 no STF (Supremo Tribunal Federal), que manteve o perÃ­odo de transiÃ§Ã£o previsto na PEC aprovada pelo Congresso. Pela decisÃ£o de Dino, a data de inÃ­cio da nova regra para a jornada de trabalho permanece em 16 de dezembro. A decisÃ£o segue para avaliaÃ§Ã£o do plenÃ¡rio da corte. A decisÃ£o tambÃ©m prevÃª que as regras da nova escala de trabalho possam ser flexibilizadas, contanto que isso esteja previsto em acordo coletivo. Nesse caso, o trabalhador poderia ter apenas um descanso na semana em algum momento do mÃªs, desde que, ao fim dos 30 dias, ele tivesse somado oito folgas. Seria possÃ­vel, por exemplo, um trabalhador atuar na escala 6x1 em uma semana, e na 4x3, com trÃªs folgas, na outra âcontanto que o modelo esteja previsto no acordo coletivo. Dino foi sorteado como relator de aÃ§Ã£o proposta pela CNC (ConfederaÃ§Ã£o Nacional do ComÃ©rcio de Bens, ServiÃ§os e Turismo) e pela CNI (ConfederaÃ§Ã£o Nacional da IndÃºstria ), que acionaram a Corte para questionar o prazo de 60 dias para reduzir a jornada de 44 para 42 horas semanais. VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. VocÃª jÃ¡ conhece as vantagens de ser assinante da Folha? AlÃ©m de ter acesso a reportagens e colunas, vocÃª conta com newsletters exclusivas ( conheÃ§a aqui ). TambÃ©m pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notÃ­cias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado! Mais de 180 reportagens e anÃ¡lises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder pÃºblico, veicula notÃ­cias proveitosas e inspiradoras, faz contraponto Ã intolerÃ¢ncia das redes sociais e traÃ§a uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteÃºdo? De 2Âª a 6Âª pela manhÃ£, receba o boletim gratuito com notÃ­cias e anÃ¡lises de economia Ponto mais sensÃ­v",
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "dia de descanso por semana"
+   },
+   {
+    "valor": "8",
+    "rotulo": "total de folgas no mês"
+   },
+   {
+    "valor": "16 de dezembro",
+    "rotulo": "início da nova jornada"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "riscos de redução de renda e instabilidade",
+  "angulo": "Com a nova regulamentação da jornada, é vital diversificar fontes de renda. Conhecer o mercado financeiro pode ajudar a lidar com incertezas e melhorar sua segurança financeira.",
+  "gancho": "*Novo decreto* transforma rotina de trabalho",
+  "ideias": [
+   "Como o fim da escala 6x1 afeta você?",
+   "Novo decreto: seus direitos e dificuldades",
+   "Como lidar com a instabilidade no emprego?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-fez-ajustes-e-vai-assinar-decreto-que-regulamenta-6x1-na-quinta-feira-19-diz-ministro-do-trabalho.shtml",
+  "publicadoEm": "2026-11-17T17:11:00-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e os novos direitos dos trabalhadores",
+  "resumo": "O presidente Lula assinará um decreto que regulamenta o fim da escala 6x1, trazendo mudanças significativas na jornada de trabalho e nos direitos dos trabalhadores. Isso impacta a rotina profissional e pode influenciar o mercado",
+  "fatos": [
+   "O decreto de regulamentação será assinado em 19 de outubro pelo presidente Lula.",
+   "A primeira etapa da emenda entra em vigor em 16 de dezembro, reduzindo a jornada de 44 para 42 horas semanais.",
+   "Trabalhadores terão direito a dois dias de descanso remunerado por semana.",
+   "Após um ano, a jornada será reduzida para 40 horas semanais, sem aumento ou redução de salário.",
+   "A decisão do STF permitiu que acordos coletivos definam como serão as folgas, sem prazos fixos."
+  ],
+  "explicacao": [
+   "Essas mudanças na escala de trabalho visam proporcionar maior equilíbrio entre vida profissional e pessoal, permitindo mais dias de descanso.",
+   "As empresas terão que se adaptar a novas regras de jornada, com impactos diretos na gestão de equipes.",
+   "Para profissionais que dependem de salários fixos, a flexibilidade poderá criar novas oportunidades de renda, permitindo que busquem alternativas, como o aprendizado no mercado financeiro."
+  ],
+  "materia": "Lula participa da promulgação da PEC do fim da 6x1 no Congresso Nacional Sessão solene ocorre a nove dias do segundo turno da eleição presidencial. Crédito: Estadão BRASÍLIA - O ministro do Trabalho, Luiz Marinho , disse nesta terça-feira, 17, que o presidente Luiz Inácio Lula da Silva (PT) vai assinar na próxima quinta-feira, 19, o decreto de regulamentação do fim da escala 6x1 . Marinho afirmou que o presidente pediu ajustes, mas evitou comentar qualquer tipo de detalhe sobre o texto. A fala foi dada a jornalistas na portaria do Palácio da Alvorada, de onde Lula despacha nesta terça-feira, após voltar de viagem à Turquia, às Filipinas e à Espanha. Marinho limitou-se a dizer que o decreto “vai consolidar o debate feito com o povo brasileiro” e que Lula fez alguns ajustes. Participaram da reunião, além de Lula e Marinho, o ministro da Secretaria Geral da Presidência, Guilherme Boulos. O decreto vai orientar as empresas sobre como interpretar a nova emenda constitucional . “Qual o comando da PEC? Tem dois comandos aqui importantes. São coisas distintas, inclusive. A redução da jornada para 40 horas semanais em duas etapas. Sem redução do salário e sem aumento do salário. Ele tem de ser, desse ponto de vista, neutro. Agregado com a mudança de escala”, disse Marinho ao Estadão no início do mês. A primeira etapa da emenda constitucional entra em vigor em 16 de dezembro, quando os trabalhadores passam a ter direito a dois dias de descanso remunerado por semana. Além disso, a jornada de trabalho cai de 44 horas para 42 horas semanais. Doze meses depois, a jornada terá nova redução, para 40 horas semanais. Leia mais Dino dá 14 dias para manifestações antes de liberar julgamento sobre fim da escala 6x1 Fim da escala 6x1: veja perguntas e respostas sobre o que Dino definiu e o que continua valendo Dino dá 14 dias para manifestações antes de liberar julgamento sobre fim da escala 6x1 Fim da escala 6x1: veja perguntas e respostas sobre o que Dino definiu e o que continua valendo Em decisão liminar na semana passada, o ministro do Supremo Tribunal Federal (STF) Flávio Dino manteve o início da transição do fim da escala 6x1 para 16 de dezembro, mas flexibilizou as folgas previstas pela PEC , tirando as travas temporais sobre quando o trabalhador poderá usufruir do descanso. A decisão precisa ser referendada pelo plenário do Supremo. A emenda promulgada pelo Congresso prevê que acordos e convenções coletivas poderão estabelecer regimes de compensação que assegurem, na média, dois dias de repouso por semana - oito dias de repouso por mês - e ao menos uma folga por semana, preferencialmente aos domingos. A decisão de Dino, na prática, desconsidera os prazos para usufruto das folgas, deixando a definição a cargo de acordo ou convenção coletiva. Nesta terça-feira, 18, Dino decidiu que o julgamento da liminar deve ser feito em conjunto com a análise do mérito sobre o tema. Para isso, ele pediu manifestações de entidades, do Congresso, da Advocacia-Geral da União (AGU) e da Procuradoria-Geral da República (PGR). Ao todo, os órgãos terão 14 dias para se manifestar (até o início de dezembro) , mas o prazo ainda pode ser prorrogado. Sem acordo, Senado adia votação do ajuste fiscal em meio a risco de desidratar impacto de R$ 56 bi TOTVS aposta em IA para integrar marketing, vendas e atendimento Arminio Fraga: ‘Ainda existe uma visão muito atrasada de crescimento a qualquer custo’; assista As lojas com aluguel mais caro de SP: por que a Avenida Paulista desbancou a Oscar Freire Governo Lula descarta medidas de socorro ao Banco do Brasil e vê capacidade de recuperação gradual",
+  "numeros": [
+   {
+    "valor": "40",
+    "rotulo": "horas de jornada semanal após mudança"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso por semana"
+   }
+  ],
+  "fonte": "Estadão Economia",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de estabilidade e aumento da carga horária de trabalho",
+  "angulo": "Com as mudanças na jornada de trabalho, compreender o mercado financeiro se torna essencial para conquistar mais liberdade e renda sem a dependência de vínculos empregatícios tradicionais.",
+  "gancho": "*Mudanças na escala de trabalho* impactam sua renda!",
+  "ideias": [
+   "Você sabe como o fim da escala 6x1 pode impactar sua rotina?",
+   "Entenda as novas regras de jornada e suas implicações!",
+   "Aprenda a diversificar suas fontes de renda com as mudanças no mercado!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-17T20:16:24-03:00",
+  "url": "https://www.estadao.com.br/economia/fim-da-escala-6x1-lula-assinara-decreto-de-regulamentacao-na-quinta-feira-diz-marinho/",
+  "publicadoEm": "2026-11-17T19:14:55-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-17-trader-08"
  },
  {
   "segmento": "trader",
