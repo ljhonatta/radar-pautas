@@ -1,6 +1,573 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Varejo brasileiro: baixo crescimento até 2027",
+  "resumo": "O varejo deve encerrar 2026 com crescimento mínimo, impactando vendas e estoques. É essencial adaptar estratégias de marketing.",
+  "fatos": [
+   "Projeção do Ibevar indica que o varejo encerrará 2026 com baixo dinamismo.",
+   "O volume de vendas no varejo restrito deve crescer apenas 0,15% em novembro.",
+   "Em dezembro, a expectativa é de um crescimento de apenas 0,02%.",
+   "Em janeiro de 2027, o varejo deve permanecer estável.",
+   "O crescimento acumulado em 12 meses deve cair de 1,36% em novembro para 1,08% em janeiro.",
+   "O varejo ampliado deve recuar de 1,06% para 0,86% no mesmo período.",
+   "Materiais de construção devem ter uma queda acumulada de 1,76% em novembro."
+  ],
+  "explicacao": [
+   "A projeção de vendas mostra um mercado que enfrenta dificuldades, especialmente em bens duráveis.",
+   "Segmentos essenciais como saúde estão sustentando o varejo, enquanto o crédito e juros afetam as vendas.",
+   "É crucial que os empresários reajam a essa tendência, ajustando estoques e promoções.",
+   "O cenário aponta para a necessidade de um planejamento mais estratégico no marketing.",
+   "Empresários devem se preparar para explorar novas soluções digitais para otimizar suas vendas."
+  ],
+  "materia": "Portal Revista Anamaco Online - onde, quando e como o leitor precisa! O varejo brasileiro deve encerrar 2026 com baixo dinamismo e entrar em 2027 praticamente sem crescimento. É o que aponta a nova Projeção de Vendas do Varejo do Instituto Brasileiro de Executivos de Varejo & Mercado de Consumo ( Ibevar ) - FIA Business School . No varejo restrito, o volume de vendas deve avançar apenas 0,15% em novembro, na comparação com outubro, 0,02% em dezembro e permanecer estável em janeiro de 2027. Com esse desempenho, o crescimento acumulado em 12 meses deve perder força, passando de 1,36% em novembro para 1,08% em janeiro. No varejo ampliado , que inclui veículos e material de construção , a desaceleração também deve continuar, com a variação acumulada em 12 meses recuando de 1,06% para 0,86% no mesmo período. Para o material de construção, a expectativa é de queda acumulada em 12 meses de 1,76% em novembro e 1,83% em janeiro. Claudio Felisoni , presidente do Ibevar e professor da FIA Business School, explica que os resultados indicam um varejo sustentado, principalmente, pelos segmentos essenciais e de saúde, enquanto os bens duráveis enfrentam maior dificuldade. “A projeção sugere um varejo que se sustenta no consumo essencial e de saúde e perde fôlego nos bens duráveis, setores mais sensíveis a crédito e juros. Para o comércio, o recado é de cautela com estoques e promoções de fim de ano nos segmentos de maior tíquete”, analisa.",
+  "numeros": [
+   {
+    "valor": "0,15%",
+    "rotulo": "crescimento em novembro"
+   },
+   {
+    "valor": "0,02%",
+    "rotulo": "crescimento em dezembro"
+   },
+   {
+    "valor": "1,36%",
+    "rotulo": "crescimento acumulado em novembro"
+   },
+   {
+    "valor": "1,08%",
+    "rotulo": "crescimento acumulado em janeiro"
+   }
+  ],
+  "fonte": "Revista Anamaco",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "receio de perdas com vendas em queda",
+  "angulo": "Diante da baixa nas vendas, empresários precisam explorar alternativas como tráfego pago e gestão digital para não perder espaço.",
+  "gancho": "Modelo de *comércio em declínio* exige mudança",
+  "ideias": [
+   "Varejo: como lidar com a queda das vendas?",
+   "Projeções do Ibevar: o que esperar para 2027?",
+   "Estratégias de marketing para tempos desafiadores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://www.revistaanamaco.com.br/varejo-deve-encerrar-2026-em-ritmo-lento-",
+  "publicadoEm": "2026-11-17T22:31:42-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-vpr-05"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Restrições dos EUA a chips podem atrasar a tecnologia no Brasil",
+  "resumo": "As novas restrições dos EUA à exportação de chips avançados podem dificultar a adoção de tecnologia no Brasil, afetando diretamente as empresas que buscam inovação.",
+  "fatos": [
+   "Os EUA ampliaram restrições à exportação de chips avançados, incluindo o Brasil nas novas exigências.",
+   "Luís Gonçalves, CEO da Dell Technologies América Latina, alerta sobre os riscos dessas novas regras.",
+   "As restrições podem causar dificuldades no acesso a equipamentos e aumentar a burocracia.",
+   "Um impacto na velocidade de adoção de tecnologias pode ser esperado no Brasil.",
+   "Gonçalves permanece otimista sobre o mercado brasileiro, apesar das incertezas regulatórias."
+  ],
+  "explicacao": [
+   "As novas restrições dos EUA visam limitar a exportação de tecnologias avançadas, o que pode atrasar o Brasil em sua corrida pela inteligência artificial.",
+   "Essas leis geram não apenas problemas de acesso a equipamentos, mas também atrasos em investimentos devido à burocracia aumentada.",
+   "As empresas que dependem de inovação precisam se adaptar a esse novo cenário regulatório para não perder competitividade no mercado."
+  ],
+  "materia": "Luis Gonçalves afirma que novas exigências americanas podem reduzir a velocidade de adoção de tecnologias no País, mas ressalta que ainda é cedo para medir os impactos <span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span> A decisão dos Estados Unidos de ampliar as restrições à exportação de chips avançados , incluindo o Brasil entre os países sujeitos a novas exigências, pode colocar um obstáculo na corrida brasileira pela inteligência artificial . Embora avalie ser cedo para dimensionar as consequências das novas regras, Luís Gonçalves, CEO da Dell Technologies para a América Latina, diz que o risco não está apenas na eventual dificuldade de acesso aos equipamentos, mas também na burocracia que pode atrasar investimentos e projetos de tecnologia. “Qualquer proibição ou resistência, ou até uma burocracia adicional, pode impactar na escalabilidade ou mesmo na velocidade de adoção”, afirmou Gonçalves, em entrevista ao NeoFeed durante o Zoox Data Revolution 2026 , prevendo a desaceleração de um mercado que vinha avançando rapidamente. Apesar das incertezas regulatórias, Gonçalves mantém uma visão otimista sobre o mercado brasileiro. A Dell está presente no País desde 1999 e, segundo o executivo, segue comprometida com a expansão de suas operações locais. “O Brasil não pode ser desprezado porque é um país que tem muita escala”, afirmou o executivo. Gonçalves ainda avalia que o Brasil já demonstra preocupação com a chamada IA soberana, conceito que envolve o controle sobre dados estratégicos e a infraestrutura tecnológica. Segundo ele, proteger informações confidenciais dos cidadãos e garantir a segurança nacional passaram a ser questões centrais para os governos. O desafio brasileiro, no entanto, é a escala. “O Brasil é grande. É muito diferente de países pequenos, que parecem ser muito ágeis e realmente o são, porque o tamanho da encrenca também é menor.” Executivo defende foco no negócio principal e aposta no consumo por emoção para enfrentar um cenário de juros altos Laércio Cosentino defende incentivos tributários e um plano de longo prazo para ampliar a competitividade tecnológica do país A administradora de shopping centers tem negociado participações minoritárias para reduzir a alavancagem e seguir investindo em reformas. O CFO Armando d’Almeida Neto explica as prioridades da companhia No quinto e último episódio do documentário da NeoFeed Produções , executivos discutem o futuro dos investimentos e o papel dos consultores em um setor cada vez mais digital Chieko Aoki, presidente da Blue Tree Hotels, afirma que mudanças na jornada de trabalho exigem reorganização das equipes em um setor que funciona 24 horas por dia",
+  "numeros": [],
+  "fonte": "NeoFeed",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Comércio local"
+  ],
+  "dor": "perder competitividade e inovação devido à burocracia",
+  "angulo": "Com as restrições de chips, o empresário precisa estar atento à importância de investir em tecnologia para não ficar para trás, e isso envolve ter um site e realizar gestão eficiente das redes.",
+  "gancho": "A *tecnologia do Brasil* pode ser afetada!",
+  "ideias": [
+   "Como as leis dos EUA impactam seu negócio?",
+   "Inteligência artificial: o que vem por aí?",
+   "Acelere sua inovação apesar das dificuldades."
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://neofeed.com.br/zdr-by-neofeed/restricoes-dos-eua-a-chips-podem-frear-avanco-tecnologico-no-brasil-diz-ceo-da-dell-para-america-latina/",
+  "publicadoEm": "2026-11-17T17:00:29-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-vpr-04"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como o ajuste fiscal impacta seu negócio hoje",
+  "resumo": "O recente pacote fiscal do governo gerou reações negativas no mercado, com impacto direto nas finanças das empresas. Entenda as consequências e a necessidade de se adaptar a esse novo cenário.",
+  "fatos": [
+   "O pacote de ajuste fiscal é considerado tímido e insuficiente por economistas.",
+   "A volatilidade da bolsa e do câmbio aumenta a desconfiança dos investidores.",
+   "O superávit primário projetado é bem abaixo do necessário: 0,5% em 2027.",
+   "A falta de apoio político interno está contribuindo para a instabilidade econômica.",
+   "Riscos de recessão e aumento da inflação são previstos, afetando o consumo."
+  ],
+  "explicacao": [
+   "O pacote de ajuste fiscal anunciado pelo governo visa conter gastos, mas sua aceitação política é incerta.",
+   "A desconfiança do mercado pode afetar a captação de investimento e a confiança nas finanças das empresas.",
+   "Sem um ajuste mais robusto, a relação dívida/PIB seguirá crescendo, impactando a economia nacional."
+  ],
+  "materia": "Volatilidade da bolsa e do câmbio confirma que o mercado está reagindo menos ao conteúdo das medidas e mais à constatação de que o governo não entendeu a dimensão da crise sem um processo de ajuste Para economistas, Pacote Moretti é tímido e insuficiente para conter volatilidade do mercado O pacote de ajuste fiscal apresentado pelo governo Lula gerou reações negativas no mercado financeiro, que, embora reconheça a intenção de contenção de gastos, expressa preocupações sobre a aprovação política e a eficácia das medidas. A volatilidade do dólar, da bolsa e dos juros reflete a desconfiança dos investidores quanto à credibilidade do governo em implementar o ajuste necessário. Economistas apontam que o pacote é tímido e insuficiente para estabilizar a relação dívida/PIB, com um superávit primário projetado muito abaixo do necessário. A falta de apoio interno no Partido dos Trabalhadores e a demora na escolha de um novo ministro da Economia também contribuem para a instabilidade. Para recuperar a credibilidade, sugere-se um ajuste fiscal mais robusto e transparência nas ações do governo. A situação atual é considerada vulnerável, com riscos de recessão e aumento da inflação. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Embora o governo Lula tenha colocado na mesa um pacote de ajuste fiscal após a eleição para sinalizar um compromisso de contenção nos gastos públicos, a reação negativa do mercado financeiro desde que as medidas foram anunciadas pelo ministro Bruno Moretti, do Planejamento, expôs uma contradição: o que seria uma tentativa de acalmar os ânimos e reforçar a confiança dos investidores acabou produzindo mais instabilidade. O mercado financeiro até reconheceu o pacote como um passo na direção do ajuste das contas públicas, mas reagiu negativamente por considerar que ainda existem incertezas relevantes sobre sua aprovação política e eficácia fiscal, o que resultou em queda da bolsa, valorização do dólar e abertura da curva de juros. A volatilidade desses três indicadores – o dólar chegou a atingir o pior nível desde abril de 2025; o índice Ibovespa recuou em meio à percepção de que o plano pode não produzir o ajuste esperado nas contas públicas, enquanto a alta dos juros futuros passou a embutir maior probabilidade de manutenção ou elevação dos juros pelo Banco Central – sugere que a principal preocupação do mercado não está restrita ao conteúdo das medidas. Apesar de o pacote ter sido apresentado com impacto estimado entre R$ 50 bilhões e R$ 60 bilhões em 2027, incluindo contenção de despesas, revisão de benefícios tributários e mecanismos adicionais de controle fiscal, investidores demonstraram preocupação com resistências políticas e alterações no texto durante a votação no Congresso Nacional e, em especial, a credibilidade da execução das medidas, sobretudo dos gatilhos de contenção de gastos. Para José Márcio Camargo , economista-chefe da Genial Investimentos, a volatilidade atual ainda é reflexo da eleição presidencial, marcada por promessas dos dois candidatos. Segundo ele, o mercado claramente esperava a vitória de Flávio Bolsonaro , que, durante a campanha, propôs algum tipo de ajuste fiscal, algo com que o presidente Lula sempre evitou se comprometer. “O histórico de todos os governos do PT é de aumento da relação dívida/PIB, que no último mandato de Lula deu um salto, passando de pouco mais de 70% para 83% do PIB”, diz Camargo. Segundo ele, o Plano Moretti endereçou a questão da relação dívida/PIB de forma muito tímida. Pelas contas do economista, seria necessário um superávit primário de 3,5% a 4% para reduzir a dívida, mas a proposta do governo prevê 0,5% de superávit do PIB em 2027, 0,75% em 2028 e 0,1% em 2029, “Ou seja, a dívida/PIB não vai estabilizar nunca, o que leva os investidores a concluir que essa trajetória deve seguir sem ajuste - e quando duvidam de que a questão fiscal será levada em conta, retiram recursos do Brasil, como está ocorrendo hoje, pressionando ",
+  "numeros": [
+   {
+    "valor": "50 a 60 bilhões",
+    "rotulo": "impacto estimado do pacote até 2027"
+   },
+   {
+    "valor": "0,5%",
+    "rotulo": "superávit primário previsto para 2027"
+   },
+   {
+    "valor": "3 a 4%",
+    "rotulo": "ajuste fiscal necessário estimado por economistas"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Indústria"
+  ],
+  "dor": "Incertezas que afetam as vendas e o futuro empresarial",
+  "angulo": "Com as flutuações do mercado, um planejamento adequado e a gestão de mídias sociais se tornam essenciais para manter a competitividade e estabilidade.",
+  "gancho": "*Ajuste fiscal* e seu efeito inesperado no mercado",
+  "ideias": [
+   "Ajuste fiscal: como isso impacta sua empresa?",
+   "Vendas em tempos de incerteza: o que fazer?",
+   "Sua estratégia de marketing está pronta para mudanças?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "queda",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://neofeed.com.br/economia/por-que-o-remedio-fiscal-do-governo-piorou-a-febre-do-mercado/",
+  "publicadoEm": "2026-11-17T18:30:22-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-vpr-03"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ataques de IA são ameaça real para empresas hoje",
+  "resumo": "Cibercriminosos usam IA para automatizar golpes, tornando empresas vulneráveis a ataques sofisticados. Empresários devem se preparar para esse novo cenário.",
+  "fatos": [
+   "Relatório do Google alerta que ataques cibernéticos automatizados se tornarão comuns em até três meses.",
+   "Mais de 170 organizações, incluindo grandes nomes como Salesforce e HSBC, já foram atacadas.",
+   "Estima-se que ataques totalmente autônomos e sofisticados surgirão em seis meses.",
+   "Organizações públicas no Brasil, como o Tesouro Nacional, sofreram invasões expondo dados pessoais.",
+   "Um golpe internacional recente resultou na fraude de R$ 2 bilhões utilizando chamadas de vídeo falsas."
+  ],
+  "explicacao": [
+   "Os cibercriminosos agora utilizam ferramentas de IA originalmente criadas para defesa em ataques.",
+   "Isso diminui a necessidade de intervenção humana, aumentando a frequência de ataques.",
+   "As empresas e instituições precisam atualizar suas defesas, pois a pressão sobre as equipes de cibersegurança está crescia."
+  ],
+  "materia": "De 1946 ao Data Center do TikTok no Ceará: a evolução da infraestrutura tech no mundo e no Brasil! Dos porões do ENIAC em 1946 aos megaprojetos com usinas nucleares e instalações no Brasil: conheça a história completa dos Data Centers!. Já não é surpresa que cibercriminosos estão utilizando ferramentas de IA para lançar campanhas de golpes, mas um futuro próximo reserva ataques cibernéticos totalmente automatizados pelas inteligências artificiais. A projeção vem de um relatório do Google Threat Intelligence Group (GTIG) e de alertas do FBI para ataques inteligentes em larga escala. O levantamento do Google destaca o abuso sistemático de frameworks de testes de invasão de código aberto, como CAIRN, ARTEX, CyberStrikeAI e HexStrike AI. Essas ferramentas foram originalmente criadas para defesa, mas agora permitem que invasores executem ataques adaptativos sem intervenção humana. Isso vai quase na linha de funcionamento dos agentes de IA , mas pautados no submundo do crime. Em um dos casos citados, um sistema chamado “exploit_agent” foi utilizado para automatizar invasões a sites de mídia e educação francesas . Em outra frente, hackers supostamente norte-coreanos manipularam configurações do aplicativo Claude Code para distribuir um malware chamado SOMBERMEME contra empresas de criptomoedas da América do Norte e Europa. Um cenário como esse gerou um alerta máximo na divisão de inteligência do Google. Os especialistas da empresa estimam que, em até três meses, ataques autônomos de baixa complexidade, com pouca ou nenhuma interação humana, se tornarão bem mais comuns em todo o mundo. Ao olhar para o horizonte, o perigo é ainda mais assustador. Para os próximos seis meses, a previsão é do surgimento de ameaças bem maiores, totalmente autônomas e altamente sofisticadas. Como consequência, as equipes de cibersegurança terão menos tempo para aplicar correções de software, e isso deve gerar uma grande sobrecarga nesse setor. Por mais que os especialistas citem a expansão dessas ameaças de maneira gradativa, empresas e instituições brasileiras e de diversos países se tornaram alvos fáceis . Ontem, segunda-feira (16), foi reportado que mais de 170 organizações foram utilizadas para distribuir códigos maliciosos para roubar dados pessoais e credenciais. Companhias como Salesforce, IKEA, HSBC, Zoom, BBC e CNN são algumas das afetadas. De uma maneira similar, a sofisticação orquestrada por essas novas tecnologias pode ser vista em esquemas complexos de engenharia, como os bastidores da “Operação Cloudfire” , que envolveu um golpe do Google Agenda recentemente. Criminosos usaram uma arquitetura dividida em três pilares para contornar as defesas da companhia. No espectro nacional, o impacto da aceleração criminosa já é sentido em larga escala. Organizações públicas como o Tesouro Nacional e a Caixa Vida e Previdência foram invadidas, expondo dados de milhões de brasileiros. Em um dos casos, até mesmo sistemas da Polícia Civil de São Paulo foram atacados . Por falar em cibercrime, um esquema de golpes usou chamadas de vídeo falsas para roubar mais de R$ 2 bilhões em uma grande fraude internacional. Não esqueça de continuar ligado no TecMundo para acompanhar outros artigos como esse e não perder as principais informações da indústria de games e tecnologia. /Com informações de Bleeping Computer Pornô gerado por IA: entenda os perigos por trás do DeepNude OpenAI anuncia GPT-6.2 Astra e Sol mais capazes e eficientes no consumo de tokens Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história De aluno de curso gratuito a caçador de falhas: brasileiro encontra brecha em software global Guia de Cursos: como está o mercado de administração no cenário brasileiro?",
+  "numeros": [
+   {
+    "valor": "R$ 2 bilhões",
+    "rotulo": "fraude internacional reportada"
+   },
+   {
+    "valor": "170",
+    "rotulo": "organizações atacadas"
+   }
+  ],
+  "fonte": "TecMundo",
+  "categoria": "Concorrência",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "temor de ser alvo de ataques cibernéticos",
+  "angulo": "O crescente uso de IA em ataques cibernéticos revela a necessidade de fortalecer a segurança digital, e a experiência de uma agência de marketing pode ajudar a proteger sua presença online.",
+  "gancho": "*Ataques automatizados* são novas ameaças!",
+  "ideias": [
+   "A nova era dos ciberataques",
+   "Como proteger seu negócio da IA criminosa",
+   "IA: uma ameaça para empresas e consumidores"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/ataques-automatizados-por-ia-devem-ganhar-forca-nos-proximos-meses-diz-google/",
+  "publicadoEm": "2026-11-17T21:00:00-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-vpr-02"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como a nova lei pode impactar seu negócio digital",
+  "resumo": "A proposta de regular as big techs pode afetar concorrência e visibilidade online. Empresários precisam se preparar.",
+  "fatos": [
+   "Câmara dos Deputados adiou a votação do PL 4675/2025 que regula plataformas digitais.",
+   "O projeto visa instituir a Superintendência de Mercados Digitais dentro do Cade.",
+   "Big techs com faturamento global acima de R$ 50 bilhões e R$ 5 bilhões no Brasil serão alvo da nova fiscalização.",
+   "O Governo Federal deseja aprovar o PL ainda este ano.",
+   "A proposta tem gerado preocupações sobre moderação de conteúdo e liberdade de expressão.",
+   "Debates acontecem em meio a um contexto de intensa concorrência no mercado digital."
+  ],
+  "explicacao": [
+   "O adiamento da votação reflete a necessidade de mais discussão sobre as implicações da nova lei.",
+   "A criação da Superintendência de Mercados Digitais pode alterar como plataformas operam no Brasil.",
+   "Empresas grandes e pequenas precisam entender que a regulamentação pode modificar o ambiente competitivo e a visibilidade de seus produtos."
+  ],
+  "materia": "A Câmara dos Deputados adiou nesta terça-feira, 17, a discussão e a votação do PL 4675/2025 , que altera a Lei de Defesa da Concorrência para instituir a Superintendência de Mercados Digitais dentro da estrutura do Cade (Conselho Administrativo de Defesa Econômica). O texto também pretende estabelecer como serão identificadas as grandes empresas com importância estratégica nos mercados digitais e definir obrigações especiais para essas plataformas. O relator do projeto de lei é de Aliel Machado (PV-PR). Essa nova unidade especializada terá a atribuição de conduzir processos administrativos voltados à identificação e designação de agentes econômicos de relevância sistêmica, compreendendo grandes plataformas tecnológicas que exercem forte influência e poder de mercado, as big techs. Caberá à Superintendência de Mercados Digitais determinar quais são as plataformas digitais que vão se enquadrar nesta fiscalização. No entanto, o PL estabelece critérios de faturamento – R$ 50 bilhões no âmbito mundial e R$ 5 bilhões no Brasil – e características estruturais para enquadrar essas empresas, permitindo a determinação de obrigações especiais focadas em: O texto normativo também detalha o rito processual que envolve etapas de instrução, realização de audiências públicas, emissão de relatórios de conformidade e a fiscalização rigorosa do cumprimento das diretrizes estabelecidas pelo Tribunal. O Governo Federal quer aprovar o PL ainda este ano. O texto foi discutido na reunião de líderes da Câmara dos Deputados na semana passada e havia a expectativa de votação para esta semana. No entanto, o presidente da Casa, Hugo Motta (Republicanos-PB) adiou o processo e, nesta quarta-feira, 18, viaja para a Argentina, adiando o PL que regula as big techs, mas também a votação do pacote fiscal. Alguns deputados pediram mais tempo para analisar o projeto de lei e entender se se trata de um texto que pretende moderar conteúdo e limitar a liberdade de expressão dos usuários. Trata-se, no entanto, de uma proposta de cunho econômico das grandes empresas de tecnologia e a influência desse poder sobre a concorrência. Vale lembrar que parte da discussão sobre o conteúdo foi tratada em dois momentos: – na alteração do artigo 19 do Marco Civil da Internet ( MCI ), que foi classificado como parcialmente inconstitucional; E, em uma terceira proposta, a discussão sobre moderação de conteúdo e responsabilização das plataformas também estava fortemente presente no PL das Fake News , que acabou sendo deixado de lado pelo Congresso. Deputado Gilberto Nascimento (Pode-SP). Crédito: reprodução de vídeo No entanto, deputados da oposição trataram o tema como se fosse possível criar uma gerência de monitoramento de ideias e de conteúdo dentro das plataformas digitais. O deputado Gilberto Nascimento (Pode-SP) manifestou-se preocupado: “Na minha forma de ver, ele [o PL] acaba criando uma condição para que o Cade possa criar uma gerência para monitorar as redes sociais. Inicialmente fala-se em produtos, porém, a minha preocupação é que isso venha a desaguar nas posições pessoais das pessoas, ou naquilo que as pessoas pensam, ou na livre manifestação das pessoas. Vejo como, infelizmente, uma lei da mordaça, porque hoje fala-se o seguinte: ‘olha, o Cade então vai criar uma gerência e nesta gerência cria-se um sensor. É nada mais do que um sensor’”, disse o deputado. “Eu quero um país em que não tenhamos controle nenhum do algoritmo. O algoritmo não pode ser controlado. E o PL na realidade vai controlar os algoritmos. Quero que os deputados fiquem bem atentos a isso porque vamos ter uma censura de algoritmos”, disse. Deputado Otoni de Paula (PSD-RJ). Crédito: reprodução de vídeo Logo em seguida, o deputado da base Otoni de Paula (PSD-RJ) esclareceu: “PL não tem nada a ver com censura, não tem nada a ver com liberdade de expressão. É importante que a gente diga isso, porque este PL propõe criar regras de concorrência justa, exigindo transparência de grandes plataformas. Mas sabe ",
+  "numeros": [
+   {
+    "valor": "R$ 50 bilhões",
+    "rotulo": "faturamento global das big techs"
+   },
+   {
+    "valor": "R$ 5 bilhões",
+    "rotulo": "faturamento das big techs no Brasil"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Concorrência",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Perda de competividade e visibilidade no mercado digital",
+  "angulo": "Com a proximidade da regulamentação, a gestão digital e o planejamento se tornam fundamentais para o sucesso nos negócios.",
+  "gancho": "Entenda como *regulamentações podem afetar suas vendas*",
+  "ideias": [
+   "PL das big techs: o que esperar?",
+   "Como se preparar para novas regras digitais",
+   "Impactos da nova lei no e-commerce"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/17/11/2026/camara-deputados-adia-pl/",
+  "publicadoEm": "2026-11-17T22:06:45-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Desenrola 3.0: alívio para quem tem dívidas",
+  "resumo": "Com a criação do Programa Desenrola 3.0, a possibilidade de quitar dívidas com descontos de até 90% traz novos caminhos financeiros. Saiba como isso pode afetar seu bolso.",
+  "fatos": [
+   "Foi instalada a Comissão Mista da Medida Provisória 1.393/2026 para o Programa Desenrola 3.0.",
+   "O programa destinará R$ 15 bilhões para compra de dívidas.",
+   "Serão concedidos descontos de pelo menos 90% na quitação das dívidas.",
+   "O deputado Jonas Donizette (PSB-SP) presidirá a comissão.",
+   "O senador Cid Gomes (PSB-CE) atuará como relator do programa."
+  ],
+  "explicacao": [
+   "A medida surge como uma solução para facilitar a renegociação de dívidas pendentes de pessoas físicas com instituições financeiras e prestadores de serviços.",
+   "Com a União comprando essas dívidas com consideráveis descontos, os beneficiados conseguem quitar suas pendências e retomar seu planejamento financeiro.",
+   "Esse alívio pode fazer diferença significativa no orçamento de muitos brasileiros, que enfrentam dificuldades crescentes em tempos de instabilidade econômica."
+  ],
+  "materia": "Compartilhe este conteúdo no Whatsapp Compartilhe este conteúdo no Facebook Compartilhe este conteúdo no X Compartilhe este conteúdo no Telegram Compartilhe este conteúdo no Linkedin Foi instalada nesta terça-feira (17) a Comissão Mista da Medida Provisória que criou o Programa Desenrola 3.0 ( MPV 1.393/2026 ), para facilitar a quitação de dívidas de pessoas físicas com bancos, órgãos públicos, comércios e prestadores de serviços em geral. Serão destinados R$ 15 bilhões para que a União compre dívidas com pelo menos 90% de desconto e as renegocie, repassando o desconto recebido. O deputado Jonas Donizette (PSB-SP) foi eleito presidente da comissão, e o senador Cid Gomes (PSB-CE) foi designado relator. MAIS NOTÍCIAS SOBRE: Renegociação de dívidas Quer receber notificações do portal Senado Notícias?",
+  "numeros": [
+   {
+    "valor": "90%",
+    "rotulo": "desconto na quitação de dívidas"
+   },
+   {
+    "valor": "R$ 15 bilhões",
+    "rotulo": "recursos destinados ao programa"
+   }
+  ],
+  "fonte": "Agência Senado",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "endividamento e dificuldade para pagar contas",
+  "angulo": "Entender essa iniciativa pode ser um primeiro passo para sair das dívidas e explorar novos caminhos financeiros de forma mais independente.",
+  "gancho": "Descubra como *quitar suas dívidas* pode ser viável",
+  "ideias": [
+   "Desenrola 3.0: sua chance de sair do vermelho",
+   "Dívidas? Conheça o novo programa do governo",
+   "Como o Desenrola 3.0 pode te ajudar financeiramente"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://www12.senado.leg.br/noticias/audios/2026/11/instalada-comissao-mista-da-medida-provisoria-que-criou-o-desenrola-3.0",
+  "publicadoEm": "2026-11-17T18:06:11-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-trader-05"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "56% dos brasileiros podem mudar de carreira em breve",
+  "resumo": "Pesquisa indica que profissionais sentem necessidade de adaptação às novas demandas do mercado, especialmente com a IA em ascensão. O desenvolvimento de habilidades é prioridade.",
+  "fatos": [
+   "56% dos trabalhadores acreditam em mudanças significativas de carreira nos próximos anos.",
+   "69% utilizam ferramentas de inteligência artificial diariamente ou semanalmente.",
+   "31% dos trabalhadores na zona crítica têm acesso às ferramentas necessárias para o sucesso.",
+   "85% dos da zona saudável afirmam ter as ferramentas para trabalhar bem.",
+   "34% dos trabalhadores estão na 'zona saudável', alta de 5 pontos em relação a 2025."
+  ],
+  "explicacao": [
+   "As mudanças no mercado de trabalho exigem novas competências, com a inteligência artificial se tornando parte da rotina profissional.",
+   "Profissionais estão priorizando a adaptação e o desenvolvimento de habilidades que possam ser utilizadas em várias funções.",
+   "A relação dos brasileiros com o trabalho tem melhorado, mas muitos ainda se sentem inseguros quanto ao futuro."
+  ],
+  "materia": "Apesar de melhora na relação com o trabalho, brasileiros ainda veem riscos no futuro profissional; pesquisa da HP mostra avanço no uso de inteligência artificial e na busca por novas competências A inteligência artificial (IA) já faz parte da rotina de trabalho de boa parte dos brasileiros, mas a velocidade das mudanças também traz uma preocupação: será que as competências de hoje serão suficientes para continuar no mercado amanhã? A dúvida não é isolada. Segundo a quarta edição do Work Relationship Index (WRI) , estudo da HP sobre a relação das pessoas com o trabalho, 56% dos trabalhadores do conhecimento acreditam que podem precisar mudar significativamente de carreira nos próximos anos diante das transformações tecnológicas e das novas habilidades exigidas pelas empresas. O levantamento, divulgado nesta terça-feira (17), também mostra que a inteligência artificial ganhou espaço no dia a dia profissional. Atualmente, 69% dos trabalhadores do conhecimento brasileiros utilizam ferramentas de IA fornecidas pelas empresas diariamente ou semanalmente. Em 2025, eram 56%. Considerando apenas o uso diário, o percentual saltou de 30% para 41%. Com as mudanças no mercado de trabalho, os profissionais também parecem estar repensando a maneira como constroem suas trajetórias. Entre os trabalhadores brasileiros pesquisados, 61% dizem priorizar o desenvolvimento de competências que possam ser aproveitadas em diferentes funções, em vez de seguir simplesmente um caminho tradicional de carreira. Para Ricardo Kamel, diretor-geral da HP Brasil, o desafio das empresas agora é ir além de oferecer novas tecnologias e preparar suas equipes para acompanhar as transformações. “A discussão sobre IA precisa avançar da adoção para a adaptação. A tecnologia já está integrada à rotina de muitos profissionais e continuará transformando funções, processos e modelos de negócio\", diz Kamel, em nota. \"O diferencial das organizações será a capacidade de preparar as pessoas para essa evolução. Quando combinamos tecnologia adequada, desenvolvimento contínuo e liderança clara, criamos um ambiente em que inovação pode significar mais confiança e oportunidade, e não apenas mais mudança.” O desenvolvimento profissional aparece como um fator importante para quem tenta lidar com as incertezas sobre o futuro. Entre os trabalhadores do conhecimento, 79% da Geração Z, 79% dos Millennials e 81% da Geração X afirmam se sentir mais seguros quando suas empresas investem em seu desenvolvimento. A oferta de oportunidades de capacitação também ajuda a diminuir a ansiedade em relação aos impactos da inteligência artificial. Essa é a percepção de 69% dos profissionais da Geração Z, 66% dos Millennials e 67% da Geração X. Mas não é só o treinamento que faz diferença. A confiança na empresa e em suas lideranças é o principal fator associado à qualidade da relação com o trabalho no Brasil, respondendo por 35% da influência sobre o índice WRI. Na sequência aparecem o acesso à tecnologia e às ferramentas adequadas, com 21%, e o investimento no desenvolvimento dos funcionários, com 20%. A diferença entre quem tem uma experiência profissional mais positiva e quem está em uma situação mais delicada também aparece no acesso à infraestrutura. Entre os trabalhadores na chamada “zona saudável”, 85% afirmam que suas empresas oferecem as ferramentas necessárias para que tenham sucesso no trabalho. Na “zona crítica”, o percentual cai para 31%. A disponibilidade de dispositivos e acessórios que funcionem de maneira integrada segue a mesma tendência: 77% dos profissionais na zona saudável dizem ter acesso a esse conjunto de ferramentas, ante 32% daqueles na zona crítica. Quando perguntados sobre quais tecnologias poderiam ajudá-los a fazer seu melhor trabalho, os brasileiros apontaram dispositivos mais rápidos e confiáveis como prioridade, com 52% das respostas. Em seguida aparecem ferramentas de IA adaptadas à função de cada profissional (47%), tecnologias que ajudem a pensar de forma mais estra",
+  "numeros": [
+   {
+    "valor": "69%",
+    "rotulo": "uso de IA pelos trabalhadores"
+   },
+   {
+    "valor": "34%",
+    "rotulo": "trabalhadores na 'zona saudável'"
+   },
+   {
+    "valor": "56%",
+    "rotulo": "trabalhadores que usam IA regularmente"
+   }
+  ],
+  "fonte": "Seu Dinheiro",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Jovens"
+  ],
+  "dor": "temor de estagnação e perda de oportunidades profissionais",
+  "angulo": "Aprender sobre o mercado financeiro pode ser a chave para não depender apenas do salário fixo, explorando novas formas de renda.",
+  "gancho": "Mudanças no trabalho *afetando sua carreira*",
+  "ideias": [
+   "A importância de se adaptar ao futuro do trabalho",
+   "Investindo em novas habilidades para seu futuro",
+   "Como a inteligência artificial muda o mercado de trabalho"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://www.seudinheiro.com/2026/carreiras/56-dos-profissionais-acreditam-que-podem-precisar-mudar-de-carreira-nos-proximos-anos-aponta-hp-cbcb/",
+  "publicadoEm": "2026-11-17T19:02:00-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-trader-04"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 e seus impactos no trabalho",
+  "resumo": "O presidente Lula assinou um decreto que acaba com a escala 6x1, afetando muitos trabalhadores. Isso pode mudar as relações de trabalho e as condições de renda dos profissionais.",
+  "fatos": [
+   "O presidente Lula anunciou a assinatura do decreto sobre o fim da escala 6x1.",
+   "A mudança pode afetar diversos trabalhadores e suas condições laborais.",
+   "O decreto será oficialmente implementado na próxima quinta-feira."
+  ],
+  "explicacao": [
+   "A decisão de acabar com a escala 6x1 visa melhorar as condições de trabalho e pode impactar a renda de profissionais que dependem desse modelo.",
+   "Trabalhadores que atuam sob esse regime podem ter mais flexibilidade em suas jornadas, embora isso também possa gerar incertezas.",
+   "Com a nova regulamentação, as relações de trabalho podem ser mais justas, mas é essencial que os profissionais se adaptem."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "UOL Notícias",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "precariedade nas condições de trabalho e renda",
+  "angulo": "Entender as mudanças trabalhistas é vital para quem busca fugir das amarras de um salário fixo e aprender a gerar renda de forma autônoma.",
+  "gancho": "Mudanças na *escala 6x1* e o futuro do trabalho",
+  "ideias": [
+   "Desvendando o fim da escala 6x1",
+   "Como o novo decreto impacta sua renda",
+   "Trabalho flexível: o que mudar com a nova lei?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/17/lula-assina-decreto-sobre-fim-da-escala-6x1-na-quinta-feira.ghtm",
+  "publicadoEm": "2026-11-17T20:23:16-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-trader-03"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "O que muda com o fim da escala 6x1?",
+  "resumo": "A Emenda 141 acaba com a escala 6x1, garantindo descanso e jornada reduzida. Vamos entender como isso impacta seu salário e rotina de trabalho.",
+  "fatos": [
+   "A Emenda Constitucional 141 foi promulgada em 16 de outubro de 2026.",
+   "A jornada máxima de trabalho cai de 44 para 42 horas em 16 de dezembro de 2026.",
+   "Em 16 de dezembro de 2027, a jornada será reduzida para 40 horas semanais.",
+   "Os trabalhadores terão direito a dois dias de descanso por semana, iniciando em 16 de dezembro de 2026.",
+   "A emenda proíbe a redução salarial, incluindo nos pisos."
+  ],
+  "explicacao": [
+   "A Emenda 141 visa modernizar a legislação trabalhista ao eliminar a escala 6x1 e garantir mais qualidade de vida aos trabalhadores.",
+   "A transição para a nova jornada de trabalho foi estabelecida para garantir a adaptação gradual das empresas.",
+   "Com a nova regra, trabalhadores que antes enfrentavam jornadas longas terão mais tempo livre, sem perder parte do salário.",
+   "Isso gera um impacto positivo no bolso e pode incentivar a busca por novas habilidades no mercado financeiro."
+  ],
+  "materia": "A Emenda Constitucional 141, promulgada em 16 de outubro de 2026, acaba com a escala 6x1 e garante dois dias de descanso por semana. A jornada máxima cai de 44 para 42 horas em 16 de dezembro e para 40 horas em 16 de dezembro de 2027, sem redução de salário. A liminar do ministro Flávio Dino, do STF, manteve esse calendário e abriu regras provisórias para a transição. Como já informou A Crítica, Dino liberou em 12 de novembro a jornada de 8h24 sem hora extra sobre os 24 minutos e, em 17 de novembro, levou o caso ao plenário. Reunimos abaixo as dúvidas mais comuns de trabalhadores e empresas, com base no texto oficial da emenda, na decisão do STF relatada pela imprensa e na CLT. O que ainda não está definido aparece como pendência. Resumo Resumo em 6 linhas O essencial da Emenda 141 para trabalhadores e empresas JornadaCai de 44 para 42 horas em 16/12/2026 e para 40 horas em 16/12/2027, sem redução de salário. DescansoDois dias de repouso semanal remunerado, um deles preferencialmente aos domingos, a partir de 16/12/2026. PrazosEmenda promulgada em 16/10/2026; liminar do STF de 12/11 manteve o calendário. SalárioA emenda proíbe redução salarial, inclusive nos pisos. O valor da hora deve ser ajustado por decreto. Quem é alcançadoEmpregados em geral. Servidores estatutários ficam fora; há exceção para diploma superior com salário alto (art. 8º). Depende de acordoDistribuição das horas, compensação das folgas e revisão de cláusulas coletivas ficam com sindicatos e empresas. Linha do tempoDataO que aconteceu ou acontece16/10/2026Congresso promulga a EC 141 (Agência Senado)12/11/2026Ministro Flávio Dino concede liminar: mantém o calendário e admite jornada de 8h24 sem adicional de hora extra sobre os 24 minutos (g1)17/11/2026Dino leva as ações ao julgamento definitivo no plenário, sem data (A Crítica)16/12/2026Jornada máxima de 42 horas e dois dias de repouso semanal16/12/2027Jornada máxima de 40 horas semanais Divisor e valor da hora: exemploExemplo ilustrativo para salário mensal de R$ 2.200, mantido sem alteração. Os divisores de 210 e 200 são os que, segundo a imprensa, o decreto do governo deve adotar; ainda não foram oficializados.Jornada semanalDivisorValor da hora44 horas (até 15/12/2026)220R$ 10,0042 horas (16/12/2026)210R$ 10,4840 horas (16/12/2027)200R$ 11,00Cálculo: 2.200 ÷ 220 = 10,00; 2.200 ÷ 210 = 10,476, arredondado para 10,48; 2.200 ÷ 200 = 11,00. Perguntas e respostas Consulta 28 perguntas e respostas sobre o fim da escala 6x1 Toque no tema para abrir; dentro dele, toque na pergunta Visão geral1. O que é a Emenda Constitucional 141?É a mudança na Constituição promulgada pelo Congresso em 16 de outubro de 2026. Ela altera o art. 7º da Constituição para reduzir a jornada semanal máxima de 44 para 40 horas, em duas etapas, e para garantir dois dias de repouso semanal remunerado, sem redução de salário. O texto da emenda está no site do Planalto.2. A escala 6x1 acabou?Ainda não na prática. A emenda está em vigor desde a publicação, mas o direito aos dois dias de repouso semanal só passa a valer 2 meses depois, em 16 de dezembro de 2026 (art. 10 da emenda). Até lá, as regras atuais seguem valendo.3. Quem é alcançado pela mudança?Os empregados em geral. A Agência Senado informou, com base em levantamento do Ministério do Trabalho, que cerca de 14,9 milhões de trabalhadores cumprem hoje a escala 6x1. A emenda não altera a jornada dos servidores públicos estatutários (União, estados, Distrito Federal e municípios), segundo a mesma reportagem. Prazos4. Quando começa a jornada de 42 horas e a folga dupla?Em 16 de dezembro de 2026. O art. 6º, inciso I, da emenda fixa 2 meses após a publicação (16 de outubro), e o art. 10 vincula o segundo repouso ao mesmo prazo.5. E as 40 horas semanais?Em 16 de dezembro de 2027, um ano depois da etapa anterior (art. 6º, inciso II, da emenda). O limite diário de 8 horas continua previsto no inciso XIII do art. 7º.6. Por que algumas notícias falam em 15 de dezembro?Porque 15 de dezembro de 202",
+  "numeros": [
+   {
+    "valor": "14,9 milhões",
+    "rotulo": "trabalhadores na escala 6x1"
+   }
+  ],
+  "fonte": "A Crítica de Campo Grande",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "temor de perda de renda e estabilidade no emprego",
+  "angulo": "Aprender sobre o mercado financeiro pode ser a chave para diversificar sua renda e não depender apenas do salário mensal.",
+  "gancho": "A *nova era* do trabalho sem escala",
+  "ideias": [
+   "Como a Emenda 141 afeta seu trabalho?",
+   "Trabalhadores: preparem-se para a mudança!",
+   "Aumente sua renda aprendendo sobre finanças!"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://acritica.net/economia/fim-da-escala-6x1-perguntas-respostas-emenda-141-prazos-salario/",
+  "publicadoEm": "2026-11-17T23:36:00-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-trader-02"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 pode mudar sua rotina de trabalho",
+  "resumo": "O presidente Lula assina decreto que regulamenta fim da escala 6x1, introduzindo jornada de 42 horas e duas folgas. Medida traz impacto significativo no mercado de trabalho.",
+  "fatos": [
+   "Lula assinará o decreto na quinta-feira, dia 19.",
+   "A nova jornada será de 42 horas semanais e contará com duas folgas remuneradas.",
+   "A transição inicia em 16 de dezembro.",
+   "Mais de 70 reuniões foram realizadas com setores da economia para discutir a medida.",
+   "O ministro do STF, Flávio Dino, levará a questão ao plenário para julgamento.",
+   "O objetivo é evitar confusões e promover clareza nas mudanças propostas.",
+   "O governo busca diálogo com todos os segmentos da sociedade."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1, que impõe jornadas longas de trabalho, foi uma decisão do governo para melhorar as condições laborais.",
+   "Com a nova regulamentação, os trabalhadores poderão ter mais tempo livre, o que pode impactar sua produtividade e qualidade de vida.",
+   "A implementação ocorrerá em dezembro, e as mudanças visam atender tanto trabalhadores quanto empregadores, por meio de negociações coletivas.",
+   "Essa transição pode indicar uma nova era de trabalho com mais flexibilidade, ideal para quem busca crescer financeiramente."
+  ],
+  "materia": "Lula vai assinar decreto que regulamenta o fim da escala 6x1 na quinta-feira (Marcelo Camargo/Agência Brasil) Publicado em 17 de novembro de 2026 às 21h05 . O presidente Lula deve assinar na quinta-feira o decreto que regulamenta o fim da escala 6x1, mudando a jornada de trabalho para 42 horas semanais com duas folgas remuneradas. O ministro do Trabalho confirmou a data e mencionou ajustes feitos no texto, mas sem detalhes. O ministro do STF, Flávio Dino, enviou ao plenário do STF o julgamento final sobre a constitucionalidade da emenda que altera a jornada de trabalho. O presidente Lula deve assinar na quinta-feira o decreto que regulamenta o fim da escala 6x1, mudando a jornada de trabalho para 42 horas semanais com duas folgas remuneradas. O ministro do Trabalho confirmou a data e mencionou ajustes feitos no texto, mas sem detalhes. O ministro do STF, Flávio Dino, enviou ao plenário do STF o julgamento final sobre a constitucionalidade da emenda que altera a jornada de trabalho. O presidente Luiz Inácio Lula da Silva (PT) vai assinar na quinta-feira, 19, o decreto que regulamenta o fim da escala 6x1 . A data foi confirmada nesta terça-feira, 17, pelo ministro do Trabalho, Luiz Marinho. Segundo o ministro, Lula pediu ajustes no texto, mas ele não quis detalhar o que foi alterado. Marinho disse apenas que o decreto “vai consolidar o debate feito com o povo brasileiro”. “O presidente fez algumas sugestões... nós não vamos dizer. Se a gente adiantar conteúdo do decreto, ele começa a impactar para lá e para cá sem o pessoal compreender exatamente o que nós vamos divulgar. Cautela para evitar qualquer confusão, para evitar fake news”, disse. O ministro falou com jornalistas na portaria do Palácio da Alvorada, onde Lula despachou após voltar de viagem à Turquia, às Filipinas e à Espanha. Participou da reunião, além de Marinho, o ministro da Secretaria-Geral da Presidência, Guilherme Boulos. Marinho também afirmou que o governo vem dialogando com o setor produtivo. “Estamos conversando, essa semana nós atendemos mais de 70 reuniões de setores da economia para ir esclarecendo, explicando para as pessoas, ir assimilando o processo de aperfeiçoamento do que passará essa medida. É uma medida que trará forte impacto no mercado de trabalho. Então é preciso que tenha toda disposição das nossas possibilidades para atender todos os segmentos.” A transição para a jornada de 42 horas semanais, com duas folgas remuneradas, tem início em 16 de dezembro. No mesmo dia, o ministro do Supremo Tribunal Federal (STF) Flávio Dino , relator das ações que contestam o fim da jornada 6x1, levouao plenário da Corte o julgamento do mérito da emenda constitucional, ou seja, a decisão definitiva sobre o tema. A medida veio depois que o Senado e a Câmara contestaram a liminar concedida por ele para o cumprimento da nova jornada 5x2. Para o relator, cabe aos poderes políticos buscar um diálogo mais amplo sobre a questão. Ele avaliou que o mais adequado é o STF fazer a análise definitiva, evitando a repetição de atos processuais. Dino deu cinco dias para que o Legislativo e as entidades inscritas como assessoras da causa complementem suas manifestações. A Procuradoria-Geral da República e a Advocacia-Geral da União têm dois dias para se pronunciar sobre o mérito. Terminados os prazos, será pedida a inclusão das ações na pauta do tribunal. O ministro reforçou que as medidas cautelares continuam em vigor até o julgamento presencial pelo plenário. A liminar já vinha sendo analisada no plenário virtual, mas um pedido de destaque do ministro Luiz Fux levou o caso para a discussão presencial. Na semana passada, Dino definiu ajustes para a implantação de dois dias de descanso semanal remunerado e da jornada de 42 horas semanais a partir de 16 de dezembro. A decisão reforçou o papel das negociações coletivas entre trabalhadores e empregadores para ajustar a compensação da jornada. Hugo Motta diz que projeto será prioridade assim que chegar à Casa, mas evita cravar prazo",
+  "numeros": [
+   {
+    "valor": "42",
+    "rotulo": "horas semanais de trabalho"
+   },
+   {
+    "valor": "2",
+    "rotulo": "folgas remuneradas"
+   },
+   {
+    "valor": "70",
+    "rotulo": "reuniões com setores da economia"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "medo de perder estabilidade financeira com novas regras",
+  "angulo": "Com essa mudança, aprender a operar no mercado financeiro se torna essencial para garantir uma renda extra e fugir da dependência de salários fixos.",
+  "gancho": "O *fim da escala 6x1* e suas consequências",
+  "ideias": [
+   "Nova jornada de trabalho: como isso afeta você?",
+   "O que muda com o fim da escala 6x1?",
+   "Trabalhando menos e ganhando mais: é possível?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T00:11:57-03:00",
+  "url": "https://exame.com/brasil/lula-deve-assinar-na-quinta-decreto-que-regulamenta-fim-da-escala-6x1-diz-marinho/",
+  "publicadoEm": "2026-11-17T18:05:54-03:00",
+  "data": "2026-11-17",
+  "id": "2026-11-18-trader-01"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "WhatsApp: a nova era do atendimento e vendas",
   "resumo": "WhatsApp evolui como canal de vendas, integrando IA para um atendimento contínuo e eficiente. Mudanças na operação são necessárias para acompanhar essa transformação.",
   "fatos": [
@@ -17753,57 +18320,6 @@
  },
  {
   "segmento": "vpr",
-  "titulo": "Criptoativos: o que a normalização do Nubank significa?",
-  "resumo": "O Nubank normalizou suas operações em criptoativos. Entenda como isso pode impactar sua empresa e a importância do marketing digital nesse cenário.",
-  "fatos": [
-   "Nubank normalizou os saques e depósitos em sua plataforma de criptomoedas na sexta-feira, 6, às 22h.",
-   "A normalização ocorreu após instabilidade em um fornecedor externo de dados.",
-   "131 milhões de clientes no Brasil, México e Colômbia fazem parte da base de usuários do Nubank.",
-   "Nubank é recomendada na lista Brands to Watch 2026 pela Interbrand.",
-   "A lista inclui marcas reconhecidas, como Revolut e Anthropic."
-  ],
-  "explicacao": [
-   "A normalização das operações do Nubank vem em um momento de turbulência no setor de criptoativos, onde outras empresas enfrentam problemas.",
-   "A instabilidade no fornecedor externo não afetou a segurança dos ativos e informações dos clientes do Nubank.",
-   "Com um número crescente de clientes, a confiança na plataforma é crucial para o seu sucesso no setor."
-  ],
-  "materia": "O Nubank informou a normalização das operações de saques e depósitos na sua plataforma de criptomoedas desde esta sexta-feira, 6, às 22h. Em nota, o banco digital disse que “a instabilidade em um fornecedor externo de dados não afetou sua infraestrutura, e os ativos e as informações dos clientes permaneceram protegidos”. A instituição não informou qual é a prestadora de serviços que passa por instabilidade, mas o problema ocorreu em meio a uma sequência de turbulências em empresas de criptoativos que foram vítimas de ataques cibernéticos. O Mercado Pago também havia anunciado ontem que havia suspendido serviços relacionados a moedas digitais. Banco pode entrar em ranking global de marcas valiosas Com 131 milhões de clientes no Brasil, no México e na Colômbia, a Nubank está entre as dez marcas que a Interbrand recomenda acompanhar nos próximos anos. A empresa brasileira aparece na lista Brands to Watch 2026, que reúne companhias com potencial para entrar no ranking das marcas valiosas do mundo . A seleção inclui o banco digital britânico Revolut, a empresa de Inteligência Artificial Anthropic, responsável pelo Claude, e marcas de moda, cosméticos e bem-estar, como Loewe, Aesop, Arc’teryx, ON, Rimowa, Oura e Skims. A lista inclui ainda a On e a Arc’teryx, marcas de artigos esportivos que buscam alcançar novos públicos sem perder a reputação ligada ao desempenho de seus produtos. A Oura, conhecida pelos anéis inteligentes que acompanham indicadores como sono e recuperação, também está entre as selecionadas. Com informações de Estadão Conteúdo (Wilian Miron) Imagem: Shutterstock O post Nubank normaliza operações em plataforma de criptomoedas apareceu primeiro em Mercado&Consumo .",
-  "numeros": [
-   {
-    "valor": "131 milhões",
-    "rotulo": "clientes do Nubank"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Consumo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "perder clientes devido à falta de inovação e segurança",
-  "angulo": "A normalização mostra a relevância do marketing digital para manter a confiança no e-commerce, e como o Nubank pode servir de exemplo.",
-  "gancho": "A *normalização de criptoativos* e seu impacto nos negócios",
-  "ideias": [
-   "O que a normalização de criptoativos significa?",
-   "Como o mercado digital responde às tempestades econômicas?",
-   "A importância da segurança no e-commerce atual"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-08T17:05:26-03:00",
-  "url": "https://mercadoeconsumo.com.br/07/11/2026/economia/nubank-normaliza-operacoes-em-plataforma-de-criptomoedas/",
-  "publicadoEm": "2026-11-07T17:58:35-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-08-vpr-09"
- },
- {
-  "segmento": "vpr",
   "titulo": "Entenda como o comportamento do consumidor muda em 2026",
   "resumo": "Um estudo recente aponta que 44% dos brasileiros planejam gastar acima de R$ 1.000 na Black Friday de 2026, mudando a forma como o varejo deve se preparar para atender essa demanda.",
   "fatos": [
@@ -18040,53 +18556,6 @@
   "publicadoEm": "2026-11-08T10:02:18-03:00",
   "data": "2026-11-08",
   "id": "2026-11-08-vpr-05"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Vivamomento escolhe Brasil para operação internacional",
-  "resumo": "A Vivamomento, plataforma de comércio interativo, inicia suas operações no Brasil após meses de estudo, vislumbrando o potencial do e-commerce no país.",
-  "fatos": [
-   "A Vivamomento é uma plataforma malai está iniciando suas operações no Brasil.",
-   "O país foi escolhido após sete meses de estudos sobre consumo eletrônico.",
-   "São Paulo será a base para as operações da plataforma no Brasil.",
-   "O comércio digital brasileiro é impulsionado por compras online e redes sociais.",
-   "A plataforma visa desenvolver um ecossistema de parcerias com marcas e prestadores de serviço."
-  ],
-  "explicacao": [
-   "A decisão da Vivamomento de escolher o Brasil se baseou na análise do potencial do comércio eletrônico no país.",
-   "Esse estudo incluiu o comportamento do consumidor e a popularidade das compras digitais.",
-   "O foco da Vivamomento é criar um relacionamento além da venda, desenvolvendo experiências interativas e de gamificação.",
-   "Essas iniciativas visam aumentar o engajamento e a conexão com os consumidores locais."
-  ],
-  "materia": "A Vivamomento, plataforma internacional de lifestyle e comércio interativo, inicia sua operação no Brasil, escolhido como primeiro mercado de atuação da companhia. Com sede na Malásia e investidores majoritariamente malaios e chineses, a empresa definiu o País após sete meses de estudos sobre o potencial do comércio eletrônico brasileiro, o comportamento dos consumidores e as oportunidades de negócios digitais. A escolha considera a relevância do Brasil no mercado de consumo digital da América Latina, impulsionado pela popularização das compras online, dos pagamentos instantâneos, das redes sociais e dos aplicativos de relacionamento entre consumidores e marcas. São Paulo foi definida como base das operações brasileiras. A Vivamomento chega ao País com uma proposta de ampliar a relação entre consumidores e plataformas digitais para além das transações comerciais. Seu modelo de Comércio Interativo combina compras online, experiências digitais, gamificação, pontos, benefícios, participação em comunidades e oportunidades de cocriação com marcas. Entre as funcionalidades em desenvolvimento está o Viva Flash, marketplace que reunirá pontos, cupons, vouchers, programas de benefícios e atividades interativas. A gamificação também integra a estratégia, com mecanismos de atividades, acúmulo de pontos, progressão em programas de membros e experiências promocionais, conforme as regras de cada iniciativa. Estratégia de expansão no Brasil A decisão de iniciar as operações pelo Brasil foi resultado de uma análise conduzida durante sete meses pelos investidores da companhia. Nesse período, foram avaliados fatores como o crescimento do e-commerce, a digitalização dos hábitos de consumo e a familiaridade dos brasileiros com redes sociais e aplicativos. A empresa pretende utilizar a operação brasileira para desenvolver e aprimorar seu modelo de negócios, considerando o comportamento dos consumidores locais e as oportunidades de colaboração com empresas nacionais. Outro pilar da estratégia é a construção de um ecossistema de parcerias com marcas, fornecedores e prestadores de serviços. A proposta é desenvolver iniciativas de marketing interativo, benefícios, testes de produtos, campanhas promocionais e projetos de cocriação. Para a Vivamomento, o relacionamento com o consumidor deve ir além da conversão de vendas, incorporando indicadores como frequência de participação, engajamento, feedback e recorrência. A companhia está estruturando sua operação local em São Paulo, com equipes dedicadas às áreas administrativa, de marketing, operações e relacionamento com usuários, além do desenvolvimento de parcerias comerciais e de sua estrutura logística. Nos próximos meses, os esforços estarão concentrados no aprimoramento da plataforma, no fortalecimento da operação brasileira e na ampliação das oportunidades de relacionamento com consumidores e marcas. Imagem: Divulgação O post Plataforma malaia Vivamomento escolhe Brasil como primeiro mercado de operação internacional apareceu primeiro em Mercado&Consumo .",
-  "numeros": [],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Leis e economia",
-  "publico": [
-   "Comércio local",
-   "Prestadores de serviço",
-   "Empresários"
-  ],
-  "dor": "pode perder oportunidades de interação com o consumidor",
-  "angulo": "A chegada da Vivamomento mostra a importância de se adaptar à nova dinâmica do comércio eletrônico, levando você a considerar a gestão de sua presença digital.",
-  "gancho": "Brasil atrai *novas plataformas de e-commerce*",
-  "ideias": [
-   "Como o Brasil se tornou o alvo de e-commerce?",
-   "O que a Vivamomento traz de novo?",
-   "Engajamento no e-commerce: o que fazer?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-08T13:24:39-03:00",
-  "url": "https://mercadoeconsumo.com.br/07/11/2026/ecommerce/plataforma-malaia-vivamomento-escolhe-brasil-como-primeiro-mercado-de-operacao-internacional/",
-  "publicadoEm": "2026-11-07T14:43:04-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-08-vpr-04"
  },
  {
   "segmento": "vpr",
@@ -18888,1298 +19357,5 @@
   "publicadoEm": "2026-11-08T12:45:15-03:00",
   "data": "2026-11-08",
   "id": "2026-11-08-trader-01"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Marcas próprias nas farmácias: uma tendência de mercado",
-  "resumo": "O crescimento das marcas próprias no varejo farmacêutico destaca a importância de se adaptar às novas demandas do consumidor. As farmácias buscam maior rentabilidade e exclusividade para se destacar.",
-  "fatos": [
-   "O mercado de marcas próprias no varejo farmacêutico passou de R$ 3,4 bilhões para R$ 6,6 bilhões em 4 anos.",
-   "A Intercron, que gerencia marcas próprias, projetou vendas de R$ 1 bilhão até 2028.",
-   "No primeiro semestre de 2026, o segmento de marcas próprias cresceu 19,1%.",
-   "As marcas próprias representam cerca de 7,3% das vendas nas redes atendidas pela Intercron.",
-   "Em 2025, a Intercron completou 470 projetos de desenvolvimento de produtos e prevê 400 para 2026."
-  ],
-  "explicacao": [
-   "O crescimento das marcas próprias reflete uma mudança nas estratégias das farmácias, que buscam exclusividade e alternativas de preço para os clientes.",
-   "As redes que adotam essa estratégia conseguem reduzir a dependência de marcas tradicionais e ampliam sua margem de lucro.",
-   "Esse cenário exige que as farmácias estejam atentas às necessidades do consumidor para se manterem competitivas.",
-   "Além dos produtos tradicionais, as marcas próprias agora abrangem nutrição esportiva e cuidados para animais, diversificando a oferta.",
-   "As farmácias que não se adaptarem a essas mudanças podem perder relevância no mercado."
-  ],
-  "materia": "O mercado de marcas próprias no varejo farmacêutico praticamente dobrou de tamanho em quatro anos, passando de R$ 3,4 bilhões para R$ 6,6 bilhões em faturamento, segundo dados da IQVIA . O avanço reflete a busca das redes de farmácias por produtos exclusivos, maior rentabilidade e alternativas de preço para o consumidor. Nesse cenário, a Intercron, responsável pelo desenvolvimento e pela gestão de marcas próprias para redes associadas à Aliança Estratégica de Negócios, mais de 1,1 mil lojas, encerrou 2025 com cerca de R$ 700 milhões em vendas, crescimento superior a 15% na comparação anual. A projeção da empresa é alcançar R$ 1 bilhão até 2028. A expansão ocorre em um momento de maior presença das marcas próprias no consumo. No primeiro semestre de 2026, o segmento registrou crescimento de 19,1%, de acordo com dados da NielsenIQ citados pela Intercron. No varejo farmacêutico, a estratégia permite que redes regionais ofereçam produtos exclusivos e reduzam a dependência de marcas tradicionais. O desenvolvimento compartilhado também amplia a escala de negociação com fabricantes, uma vantagem competitiva em um setor marcado pela presença de grandes grupos. Atualmente, a Intercron atende 13 redes, que somam mais de 1.400 lojas, e administra um portfólio de 1.300 produtos desenvolvidos em parceria com cerca de 60 fornecedores. Segundo a companhia, as marcas exclusivas representam aproximadamente 7,3% das vendas das redes atendidas. Em determinadas categorias, os produtos apresentam preços até 20% inferiores aos das marcas líderes. “As marcas próprias deixaram de ser apenas uma alternativa econômica e passaram a contribuir para a construção de valor e fidelização das redes”, afirma Pamella Dias, diretora executiva da Intercron. A ampliação das categorias também acompanha mudanças no consumo. Além de produtos tradicionais de higiene e cuidados pessoais, as marcas próprias avançam em segmentos como suplementos, nutrição esportiva, cuidados geriátricos e produtos para animais de estimação. Em 2025, a Intercron concluiu 470 projetos de desenvolvimento ou reformulação de produtos. Para 2026, a previsão é de outros 400 projetos, acompanhando a estratégia de diversificação das redes farmacêuticas. Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
-  "numeros": [
-   {
-    "valor": "R$ 1 bilhão",
-    "rotulo": "vendas projetadas pela Intercron até 2028"
-   },
-   {
-    "valor": "R$ 6,6 bilhões",
-    "rotulo": "faturamento atual do mercado de marcas próprias"
-   },
-   {
-    "valor": "19,1%",
-    "rotulo": "crescimento do segmento no primeiro semestre de 2026"
-   },
-   {
-    "valor": "7,3%",
-    "rotulo": "vendas de marcas próprias nas redes atendidas"
-   },
-   {
-    "valor": "470",
-    "rotulo": "projetos de desenvolvimento em 2025"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Indústria"
-  ],
-  "dor": "perda de espaço para marcas próprias e concorrentes",
-  "angulo": "A crescente competitividade no varejo farmacêutico revela a importância de um site bem estruturado e gestão eficaz das redes sociais para captar e fidelizar clientes.",
-  "gancho": "Você está preparado para as *marcas próprias*?",
-  "ideias": [
-   "O crescimento das marcas próprias e o futuro do varejo",
-   "Como as farmácias podem se destacar com marcas exclusivas",
-   "Marcas próprias: a nova tendência no mercado farmacêutico"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T21:57:04-03:00",
-  "url": "https://mercadoeconsumo.com.br/07/11/2026/noticias/marcas-proprias-avancam-nas-farmacias-intercron-projeta-r-1-bilhao-em-vendas-ate-2028/",
-  "publicadoEm": "2026-11-07T15:00:54-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-13"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Cuidados com ar condicionado e saúde respiratória",
-  "resumo": "O uso de ar-condicionado pode agravar a rinite se não for mantido adequadamente. Conheça os cuidados necessários para garantir um ambiente saudável e confortável.",
-  "fatos": [
-   "O uso frequente do ar-condicionado pode provocar ressecamento das vias respiratórias.",
-   "Mudanças bruscas de temperatura agravam o quadro de pessoas com rinite.",
-   "Filtros sujos podem espalhar poeira e micro-organismos, intensificando sintomas alérgicos.",
-   "A limpeza dos filtros deve ser feita a cada 15 dias ou uma vez por mês.",
-   "A manutenção precisa ser realizada pelo consumidor e recomenda-se uma limpeza completa anualmente."
-  ],
-  "explicacao": [
-   "O uso de ar-condicionado precisa de cuidados específicos, especialmente para quem já sofre de condições respiratórias.",
-   "A falta de limpeza e manutenção dos filtros pode resultar em infecções recorrentes por agravar a irritação nasal.",
-   "A configuração do aparelho também deve considerar a sensibilidade de cada usuário para evitar resfriamento excessivo."
-  ],
-  "materia": "Pra quem sofre com o calor, o ar-condicionado é um grande aliado. Mas precisa ter cuidado, porque ele pode se transformar em um problema para quem sofre com rinite. Mas será que dormir com o ar-condicionado ligado realmente piora o quadro? E como aproveitar o aparelho sem prejudicar a saúde respiratória? Primeiro, vale entender que o uso frequente do aparelho pode provocar ressecamento das vias respiratórias, mudanças bruscas de temperatura e até espalhar partículas que agravam os sintomas alérgicos. A situação fica ainda pior quando a limpeza e a manutenção dos filtros são deixadas de lado. De acordo com Alexandre Camilotti Gasperin, médico otorrinolaringologista e professor de Otorrinolaringologia da Escola de Medicina e Ciências da Vida da Pontifícia Universidade Católica do Paraná (PUCPR), o ar-condicionado pode agravar os sintomas da rinite por diferentes motivos. Um deles é o ressecamento do ar, que prejudica a hidratação natural da mucosa nasal e pode provocar irritação e desconforto. As mudanças bruscas de temperatura também funcionam como um fator de agressão para as vias respiratórias. Segundo Gasperin, o problema não está somente na temperatura escolhida ou no tempo de uso do equipamento. A falta de manutenção também merece atenção. O aparelho sem limpeza adequada ainda pode espalhar poeira, fungos e outros micro-organismos pelo ambiente. Essas partículas podem irritar as vias respiratórias, intensificar os sintomas e até contribuir para infecções recorrentes. Ar-condicionado sujo pode provocar crises de rinite? Ar-condicionado sujo pode provocar crises de rinite , por que os filtros acumulam poeira e outras impurezas ao longo do tempo. Quando a limpeza não é feita corretamente, o equipamento pode favorecer a circulação desses agentes no ambiente. O problema é especialmente relevante para pessoas que já apresentam sensibilidade respiratória. A exposição frequente a partículas e micro-organismos pode agravar a irritação nasal e desencadear sintomas. Por isso, limpar os filtros e realizar a manutenção periódica do aparelho são cuidados importantes. A frequência da higienização deve seguir as orientações do fabricante, já que varia conforme o modelo e as condições de uso. Boas práticas para usar o ar-condicionado e evitar desconfortos A limpeza dos filtros é um dos principais cuidados para preservar a qualidade do ar dentro de casa. Clarissa Lettieri, gerente de produto da divisão de ar-condicionado da Samsung Brasil , recomenda higienizar as peças a cada 15 dias ou, no mínimo, uma vez por mês. O procedimento pode ser feito pelo próprio consumidor, com água morna e detergente neutro, mas os filtros precisam secar completamente à sombra antes de serem reinstalados: Outro ponto é evitar o resfriamento excessivo e o fluxo de ar diretamente sobre o rosto. A porta-voz destaca que não existe uma temperatura única adequada para todas as pessoas, já que o conforto depende das condições do ambiente e da sensibilidade de cada usuário. Durante a noite, recursos de climatização também podem ajustar o funcionamento do aparelho conforme o período de sono. \"A configuração deve considerar as condições do ambiente e a sensibilidade de cada usuário, evitando o resfriamento excessivo\", afirma. A umidade também merece atenção, especialmente para quem sente ressecamento nasal e irritação na garganta. A marca destaca que o Modo Dry Comfort utiliza sensores de temperatura e umidade para controlar essas condições, enquanto o WindFree distribui o ar por microfuros, sem direcionar uma rajada diretamente às pessoas. Quer saber se o ar-condicionado sem vento da Samsung funciona mesmo? Veja como é na prática . Clarissa ressalta que a manutenção continua indispensável: \"Recomendamos ainda uma limpeza mais completa ao menos uma vez ao ano\". Cada pessoa pode reagir de uma maneira diferente. Por isso, vale observar como o organismo responde ao uso do ar-condicionado e procurar orientação médica quando necessário. Agora que já sabe os cuidados que prec",
-  "numeros": [
-   {
-    "valor": "a cada 15 dias",
-    "rotulo": "recomendação para limpeza dos filtros"
-   },
-   {
-    "valor": "uma vez ao ano",
-    "rotulo": "limpeza completa recomendada"
-   }
-  ],
-  "fonte": "Canaltech",
-  "categoria": "Leis e economia",
-  "publico": [
-   "Profissionais liberais",
-   "Restaurantes",
-   "Prestadores de serviço"
-  ],
-  "dor": "perda de conforto e agravamento de problemas respiratórios",
-  "angulo": "Entender a importância da manutenção dos equipamentos é fundamental para evitar perdas de rendimento e desconfortos, fazendo com que você procure serviços de assessoria em gerenciamento.",
-  "gancho": "*Ar-condicionado*: cuidado com sua saúde respiratória!",
-  "ideias": [
-   "Importância da manutenção do ar-condicionado",
-   "Como o ar-condicionado pode afetar sua saúde",
-   "Dicas para um uso seguro do ar-condicionado"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T21:57:04-03:00",
-  "url": "https://canaltech.com.br/eletro/a-rinite-esta-atacando-saiba-se-seu-ar-condicionado-e-o-vilao/",
-  "publicadoEm": "2026-11-07T19:30:00-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-12"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Varejo brasileiro e queda no faturamento de novembro",
-  "resumo": "Apesar da Black Friday, varejo deve faturar R$ 296,8 bilhões, uma queda de 2,5% em relação ao ano anterior. O cenário exige estratégias eficazes para atrair consumidores.",
-  "fatos": [
-   "O varejo brasileiro deve movimentar R$ 296,8 bilhões em novembro de 2026.",
-   "Essa expectativa representa uma queda de 2,5% em relação a 2025, que registrou R$ 304,4 bilhões.",
-   "A projeção é do IEMI – Inteligência de Mercado, que analisa o varejo restrito.",
-   "Mesmo com a Black Friday, que ocorre em 27 de novembro, as vendas totais devem ser inferiores.",
-   "O mês deve representar 8,7% do faturamento anual do varejo em 2026."
-  ],
-  "explicacao": [
-   "A expectativa de queda no faturamento reflete um ambiente de maior cautela dos consumidores devido aos altos juros.",
-   "Os varejistas precisam estar atentos aos preços, condições de pagamento e à apresentação das ofertas para garantir vendas.",
-   "Cenários de crédito caro indicam que os consumidores pesquisarão mais antes de realizar compras, afetando as estratégias de vendas de empresas."
-  ],
-  "materia": "O comércio brasileiro se prepara para uma das datas mais importantes do calendário de vendas, mas os números indicam que nem mesmo a Black Friday será suficiente para garantir um novembro melhor que o do ano passado. A expectativa é de que o varejo movimente R$ 296,8 bilhões em novembro de 2026 , uma queda de 2,5% em relação ao mesmo mês de 2025. A projeção é do IEMI – Inteligência de Mercado, que estima um faturamento inferior aos R$ 304,4 bilhões registrados em novembro do ano passado. A diferença chega a R$ 7,6 bilhões, mesmo com as campanhas promocionais que já começaram a disputar a atenção dos consumidores. O levantamento considera o chamado varejo restrito, que reúne atividades como supermercados, lojas de roupas e calçados, farmácias, móveis e eletrodomésticos. O valor previsto corresponde ao mês inteiro , e não apenas às vendas da Black Friday, marcada para 27 de novembro. Brasil segue no topo do ranking mundial de juros reais, chega a 9,49% e supera Turquia e Argentina em levantamento com 40 países Governo Lula vai liberar vales do Gás do Povo para 3,1 milhões de famílias em 10 de novembro com mais de R$ 337 milhões Concessionária vai pagar R$ 29,6 mil a motorista que bateu em anta na MT-338, mas a Justiça deixou de fora o estepe e a multimídia furtados do carro no acostamento, e o motivo vale para quem pega estrada com pedágio Projeto quer transformar até 2 horas de almoço em jornada paga no Brasil, mas estudo aponta custo até 33% maior por hora trabalhada A estimativa também considera valores nominais, sem descontar os efeitos da inflação. Portanto, a redução de 2,5% no faturamento não significa, necessariamente, que a quantidade de produtos comercializados cairá na mesma proporção. A Black Friday transformou novembro em um período estratégico para o varejo. O movimento já não se concentra exclusivamente na última sexta-feira do mês, pois muitas empresas antecipam descontos e distribuem campanhas por várias semanas. Ainda assim, o levantamento do IEMI indica que novembro deverá representar 8,7% do faturamento anual do varejo em 2026 . Em 2025, essa participação foi de 9%, enquanto em 2024 chegou a 9,1%. A redução mostra que o mês promocional deve perder espaço relativo nas receitas do setor, apesar de continuar movimentando centenas de bilhões de reais. Para o ano inteiro, a consultoria trabalha com uma previsão de R$ 3,43 trilhões em faturamento , crescimento nominal de 0,9% na comparação com 2025. O contraste indica que a retração prevista para novembro não significa, por si só, queda no faturamento acumulado do ano. Os números se referem ao varejo restrito, classificação que não inclui segmentos como veículos, motocicletas e materiais de construção. Essa delimitação é importante porque o desempenho desses mercados pode seguir trajetórias diferentes. Marcelo Prado, diretor do IEMI, avalia que a edição de 2026 da Black Friday ocorre em um ambiente de maior cautela por parte dos consumidores. Para os comerciantes, a combinação exige atenção aos preços, às condições de pagamento e à forma como as ofertas são apresentadas. Na prática, o cenário coloca os varejistas diante de um consumidor que tende a pesquisar antes de gastar. Um desconto anunciado na vitrine ou no aplicativo pode não ser suficiente para garantir a venda se o preço final, o frete ou o parcelamento não forem competitivos. O desafio também envolve o planejamento das campanhas. Antecipar promoções pode ajudar a atrair clientes, mas exige cuidado para não comprometer as margens de lucro nem apenas transferir para o começo de novembro compras que ocorreriam no fim do mês. Em um ambiente de crédito caro, as condições de pagamento ganham importância. Para o consumidor, um produto anunciado com desconto pode acabar custando mais quando os juros do parcelamento são considerados. Para os lojistas, oferecer condições atraentes também envolve custos. O resultado depende do equilíbrio entre preço, volume de vendas, estoques e despesas necessárias para realizar ca",
-  "numeros": [
-   {
-    "valor": "296,8 bilhões",
-    "rotulo": "faturamento esperado em novembro de 2026"
-   },
-   {
-    "valor": "2,5%",
-    "rotulo": "queda em relação a november de 2025"
-   },
-   {
-    "valor": "8,7%",
-    "rotulo": "participação do faturamento anual em novembro de 2026"
-   }
-  ],
-  "fonte": "CPG Click Petróleo e Gás",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local"
-  ],
-  "dor": "vendas caindo e consumidores hesitantes",
-  "angulo": "Com a expectativa de queda nas vendas, os empresários precisam de gestão de marketing eficaz para se adaptar e se destacar.",
-  "gancho": "Sua venda caiu? *Hora de repensar estratégias!*",
-  "ideias": [
-   "Como a Black Friday pode impactar suas vendas?",
-   "Dicas para se destacar no varejo em novembro",
-   "Prepare-se para a Black Friday com estratégia"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T21:57:04-03:00",
-  "url": "https://clickpetroleoegas.com.br/mesmo-com-a-black-friday-varejo-brasileiro-deve-faturar-r-2968-bilhoes-em-novembro-queda-de-25-ante-2025-asaf04/",
-  "publicadoEm": "2026-11-07T17:00:00-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-11"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Ciberataques podem impactar suas vendas na Black Friday",
-  "resumo": "Ciberataques durante a Black Friday podem comprometer tanto as vendas quanto a segurança de dados. Prepare-se agora para não perder vendas importantes.",
-  "fatos": [
-   "A expectativa é que o comércio eletrônico brasileiro movimente R$ 13,3 bilhões durante a Black Friday de 2026, alta de 20,7% em relação a 2025.",
-   "62% dos consumidores afirmam que sites lentos os fazem buscar outras opções.",
-   "Um ataque cibernético pode interromper pagamentos e comprometer a operação da loja virtual.",
-   "As empresas devem implementar medidas de segurança e gestão de riscos para prevenir golpes, especialmente durante campanhas de alta demanda.",
-   "Cibercriminosos usam inteligência artificial para tornar golpes mais sofisticados, aumentando os riscos para os varejistas."
-  ],
-  "explicacao": [
-   "A Black Friday é um período crítico que concentra grande demanda em poucos dias, aumentando a pressão sobre sistemas tecnológicos.",
-   "Ciberataques representam uma ameaça real, podendo resultar em perdas financeiras enormes e danos à reputação da marca.",
-   "As empresas precisam estar preparadas para a demanda, com infraestrutura eficiente e medidas de segurança para proteger clientes e dados."
-  ],
-  "materia": "Trump oferece cargo de porta-voz da Casa Branca a Dana White, presidente do UFC Trump manda investigar democratas por suposta extorsão após derrota nas eleições Diretor de estratégia da Meta, Dave Wehner deixa empresa para assumir cargo de CFO na startup de IA Fireworks Por que as perspectivas para ações do setor de saúde são incertas diante da nova composição do Congresso nos EUA Risco de escalada no Irã segue alto apesar da vitória democrata nas eleições de meio de mandato dos EUA, dizem analistas Publicado 07/11/2026 • 17:15 | Atualizado há 5 horas Entre a escolha do produto e o pagamento, a Black Friday põe à prova a capacidade tecnológica do varejo. Um site que trava, um estoque que não atualiza ou uma transação que não conclui podem desperdiçar em segundos o investimento feito para levar o cliente até a loja, e os ciberataques ampliam esse risco. A pressão sobre os sistemas aumenta com a expectativa de vendas. A projeção da Confi, por meio da Neotrust, em parceria com o E-Commerce Brasil, é que o comércio eletrônico brasileiro movimente R$ 13,3 bilhões de quinta-feira (26) a domingo (29), alta de 20,7% sobre o mesmo período de 2025. Leia também: Quais setores da economia podem ganhar ou perder com a mudança no Congresso dos EUA? Além disso, a experiência digital pesa na decisão de compra. A pesquisa Abandono de Carrinho 2026, do Opinion Box, mostra que 62% dos entrevistados afirmam que sites demorados os levam a buscar outra opção. Preparar a operação para a demanda também exige medir o custo de atender cada venda. Se as despesas com tecnologia crescerem sem controle durante a campanha, parte do faturamento adicional é consumida pela própria operação. Para a Zadara, o primeiro passo é avaliar a capacidade tecnológica, identificar gargalos e dar previsibilidade aos custos em diferentes cenários de demanda. “Isso exige capacidade para suportar picos de demanda, segurança nas transações e controle dos custos, preservando a experiência do cliente e a rentabilidade do negócio”, afirma Dirval Junior, diretor comercial da Zadara. Por sua vez, um ataque durante a campanha pode interromper pagamentos, tirar a loja virtual do ar e comprometer a integração entre lojas, estoques e centros de distribuição. Além das vendas perdidas, o varejista fica sujeito a exposição de dados, custos de recuperação e danos à reputação. Segundo Guilherme Marcial, diretor de marketing e vendas da Teletex, uma arquitetura que combine segmentação de redes, controle de acessos, inteligência de ameaças (CTI) e monitoramento contínuo por um Centro de Operações de Segurança (SOC) ajuda a antecipar riscos e conter ataques antes que atinjam toda a operação. A iTProtect acrescenta que o monitoramento em tempo real, com SOC/MDR em alerta contínuo e apoio de inteligência artificial, identifica padrões anômalos e bloqueia ameaças à medida que surgem. Para Willy Andersen, diretor técnico da empresa, é preciso definir antes quem recebe os alertas, quem autoriza medidas de contenção e quais serviços devem ser preservados. “Durante o pico, a demora para tomar uma decisão pode ampliar o impacto de um incidente”, diz. Siga o Times | CNBC no Google e receba as principais notícias do Brasil e do Mundo. Já a gestão das informações sobre produtos, clientes e pedidos precisa funcionar entre diferentes sistemas, mesmo com o aumento simultâneo de consultas e transações. Na avaliação da Everpure, a preparação deve considerar tanto os sistemas que registram as compras quanto as aplicações que analisam esses dados durante a campanha. “A Black Friday concentra a demanda mensal ou anual em apenas alguns dias, exercendo uma pressão significativa sobre a capacidade de gerenciamento de dados dos varejistas”, afirma Cláudio Tancredi, country manager da Everpure no Brasil. Na área de pagamentos, a Futurex lembra que o varejo convive com ambientes que reúnem diversas chaves criptográficas, e cada uma precisa ser criada, distribuída, armazenada, trocada e controlada com segurança. Segund",
-  "numeros": [
-   {
-    "valor": "13,3 bilhões",
-    "rotulo": "previsão de movimentação do e-commerce"
-   },
-   {
-    "valor": "62%",
-    "rotulo": "de consumidores que buscam alternativas por lentidão"
-   }
-  ],
-  "fonte": "Times Brasil | CNBC",
-  "categoria": "Leis e economia",
-  "publico": [
-   "Comércio local",
-   "Indústria",
-   "Prestadores de serviço"
-  ],
-  "dor": "vendas perdidas e reputação danificada",
-  "angulo": "A preparação para a Black Friday, com um site otimizado e segurança cibernética, é crucial para não perder vendas e clientes nesta data movimentada.",
-  "gancho": "A sua loja está *preparada para a Black Friday?*",
-  "ideias": [
-   "5 dicas para proteger sua loja online",
-   "Como evitar perdas na Black Friday",
-   "Preparativos para aumentar suas vendas em 2026"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T21:57:04-03:00",
-  "url": "https://timesbrasil.com.br/empresas-e-negocios/ciberataques-black-friday-ecommerce-13-bilhoes-seguranca-infraestrutura/",
-  "publicadoEm": "2026-11-07T17:15:00-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-10"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Mudanças nos benefícios VR e VA exigem adaptações no varejo",
-  "resumo": "A partir de 7 de novembro, cartões de vale-refeição e vale-alimentação terão maior aceitação em maquininhas. Isso impacta a forma como o comércio deve se preparar para receber esses pagamentos.",
-  "fatos": [
-   "As mudanças começam a valer em 7 de novembro de 2023.",
-   "Implementação da interoperabilidade permitirá uso de cartões de diferentes operadoras em qualquer maquininha habilitada.",
-   "Estabelecimentos precisam aceitar o cartão utilizado para realizar a transação.",
-   "Sistema atual enfrenta desafios operacionais e integração das empresas ainda está em andamento.",
-   "Regras também limitam taxas cobradas dos estabelecimentos e reduzem prazo para repasse das vendas."
-  ],
-  "explicacao": [
-   "A medida visa aumentar a aceitação dos benefícios em diversos estabelecimentos, como restaurantes e supermercados.",
-   "Embora a interoperabilidade comece em novembro, desafios operacionais podem atrasar a implementação.",
-   "Com mais estabelecimentos aceitando diferentes operadoras, o consumidor tem mais liberdade na escolha dos locais de compra."
-  ],
-  "materia": "Os cartões de vale-refeição (VR) e vale-alimentação (VA) terão mudanças a partir deste sábado, 7. A principal delas é a implementação da interoperabilidade, que prevê a aceitação de cartões de diferentes operadoras em qualquer maquininha habilitada para processar esse tipo de pagamento, desde que o estabelecimento também aceite o cartão utilizado. A transição começou em maio e vai até novembro, quando a assinatura do decreto que atualizou o Programa de Alimentação do Trabalhador (PAT) completa um ano. Na prática, a medida pretende ampliar as opções de uso dos benefícios em restaurantes, supermercados e outros estabelecimentos que trabalham com alimentação. Cartões de empresas como Alelo, Ticket, VR Benefícios, Pluxee, Flash e Swile estão entre os abrangidos pelas mudanças, conforme o enquadramento no PAT. As novas regras também estabelecem limites para as taxas cobradas dos estabelecimentos comerciais e reduzem o prazo para o repasse dos valores das vendas. O objetivo do governo é estimular a concorrência no setor e facilitar a aceitação dos benefícios pelo comércio. Apesar da previsão de implementação em novembro, a interoperabilidade enfrenta desafios operacionais. A Associação Brasileira de Bares e Restaurantes (Abrasel) afirma que os sistemas das empresas ainda não estão totalmente integrados e aponta dificuldades para o funcionamento da medida no prazo previsto. Além disso, parte das regras é alvo de questionamentos judiciais por operadoras do setor. A partir de 7 de novembro, está prevista a entrada em vigor integral da interoperabilidade entre os cartões de vale-refeição e vale-alimentação. Isso significa que cartões de diferentes operadoras deverão funcionar em qualquer maquininha habilitada para receber esse tipo de pagamento, sem depender de contratos ou equipamentos específicos para cada bandeira. A mudança não obriga todos os estabelecimentos a aceitar os benefícios. A regra vale para os comércios habilitados a processar essas transações. A proposta é ampliar a rede de aceitação dos cartões. Assim, o trabalhador poderá utilizar o benefício em diferentes estabelecimentos que aceitem a modalidade correspondente, independentemente da operadora responsável pelo cartão. A aceitação dependerá da habilitação do estabelecimento e do funcionamento da integração entre os sistemas de pagamento. Com informações de Agência Brasil Imagem: Agência Brasil Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
-  "numeros": [
-   {
-    "valor": "7 de novembro",
-    "rotulo": "Data de implementação das mudanças"
-   }
-  ],
-  "fonte": "Mercado & Consumo",
-  "categoria": "Varejo",
-  "publico": [
-   "Comércio local",
-   "Restaurantes"
-  ],
-  "dor": "Perda de vendas se o estabelecimento não se adaptar",
-  "angulo": "Com a adaptação às novas regras, o empresário pode garantir que seu negócio não perca clientes devido à falta de opções de pagamento.",
-  "gancho": "Prepare-se para a *nova era dos cartões de benefícios*",
-  "ideias": [
-   "Como a interoperabilidade pode aumentar suas vendas?",
-   "Adapte sua maquininha para não perder clientes",
-   "Entenda as implicações das novas regras de pagamento"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "funil",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T16:47:17-03:00",
-  "url": "https://mercadoeconsumo.com.br/07/11/2026/foodservice/vr-e-va-podem-ser-aceitos-em-mais-maquininhas-a-partir-deste-sabado/",
-  "publicadoEm": "2026-11-07T09:52:54-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-07"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Pequenos e médios varejistas também podem brilhar online",
-  "resumo": "O e-commerce no Brasil cresce, oferecendo novas oportunidades para pequenos e médios varejistas. A adoção de tecnologia é crucial para a competitividade e o sucesso destes negócios.",
-  "fatos": [
-   "O comércio eletrônico brasileiro alcançou um novo nível de maturidade.",
-   "Pequenos e médios varejistas ampliam sua participação na economia digital.",
-   "O crescimento do mercado aumenta as exigências sobre as empresas.",
-   "Tecnologias como automação e IA estão se tornando mais acessíveis.",
-   "Marketplace oferece infraestrutura e acesso a novos consumidores."
-  ],
-  "explicacao": [
-   "Com o avanço do e-commerce, empresas de pequeno porte estão conquistando novas oportunidades de vendas nacionais que antes eram limitadas.",
-   "A competição aumentou, e o consumidor espera serviços de qualidade, o que exige que essas empresas se adaptem.",
-   "O uso inteligente de tecnologia e dados é fundamental para tomadas de decisões eficazes e para elevar a competitividade."
-  ],
-  "materia": "Os marketplaces também merecem destaque nessa transformação O comércio eletrônico brasileiro alcançou um nível de maturidade que permite olhar para o crescimento do setor sob uma perspectiva mais ampla. A expansão das vendas online, a diversificação dos canais e o avanço das tecnologias digitais não representam apenas oportunidades para grandes empresas. São transformações que também vêm ampliando a participação de pequenos e médios varejistas na economia digital, permitindo que negócios de diferentes portes e regiões conquistem novos consumidores e desenvolvam modelos de operação cada vez mais competitivos. Esse movimento é particularmente importante em um país com as dimensões e a diversidade econômica e cultural do Brasil. Durante muito tempo, a capacidade de alcançar consumidores fora de uma determinada região esteve condicionada à abertura de unidades físicas, à construção de estruturas de distribuição e à disponibilidade de capital para expansão. O comércio digital modificou parte dessa dinâmica. Hoje, uma empresa de menor porte pode comercializar seus produtos nacionalmente, acessar plataformas de venda, utilizar soluções de pagamento e contratar serviços logísticos que antes estavam concentrados em operações de maior escala. Isso não significa, naturalmente, que as diferenças competitivas tenham desaparecido. O crescimento do mercado também elevou o nível de exigência sobre as empresas. O consumidor espera entregas eficientes, atendimento ágil, preços competitivos e experiências de compra consistentes, independentemente do tamanho do varejista. Para os pequenos e médios negócios, acompanhar essa evolução exige planejamento, conhecimento e capacidade de adaptação. A tecnologia tem desempenhado um papel importante nesse processo. Ferramentas de automação, inteligência artificial, gestão de estoques e análise de dados estão se tornando mais acessíveis, permitindo que empresas menores aprimorem processos e tomem decisões com maior precisão. Entretanto, o acesso às soluções, isoladamente, não garante resultados. É necessário compreender quais tecnologias fazem sentido para cada operação, preparar equipes e desenvolver uma gestão orientada por indicadores de desempenho e rentabilidade. Os marketplaces também merecem destaque nessa transformação. Ao oferecer infraestrutura tecnológica, meios de pagamento e acesso a uma base ampliada de consumidores, essas plataformas reduziram algumas das barreiras de entrada no comércio eletrônico. Para muitos empreendedores, representam uma oportunidade concreta de iniciar ou expandir suas operações digitais. O desafio está em utilizar esses canais de maneira estratégica, construindo uma presença comercial diversificada e fortalecendo, paralelamente, a identidade da marca e o relacionamento com os clientes. Outro aspecto fundamental é reconhecer que o desenvolvimento do e-commerce brasileiro não acontece de maneira uniforme. Cada região apresenta características próprias de consumo, infraestrutura, logística e dinâmica empresarial. Fortalecer os ecossistemas locais, estimular a troca de conhecimento e aproximar empresas de diferentes portes são iniciativas essenciais para ampliar a competitividade e permitir que as oportunidades da economia digital alcancem um número cada vez maior de empreendedores. Nesse contexto, a capacitação profissional assume uma importância tão grande quanto o investimento em tecnologia. A evolução do comércio eletrônico exige conhecimentos que vão da gestão financeira ao marketing digital, passando pela experiência do consumidor, pela logística e pelo uso inteligente de dados. Quanto maior a capacidade de transformar essas competências em decisões práticas, maiores são as possibilidades de crescimento sustentável. O Brasil tem uma oportunidade relevante de consolidar um comércio digital que combine escala, inovação e diversidade empresarial. Os pequenos e médios varejistas não são apenas beneficiários dessa transformação. São protagonistas de um mercado que se dese",
-  "numeros": [],
-  "fonte": "Confederação Nacional de Dirigentes Lojistas",
-  "categoria": "Varejo",
-  "publico": [
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais"
-  ],
-  "dor": "Perda de vendas para concorrentes mais digitais.",
-  "angulo": "Nesse cenário, ajuda profissional para gestão de e-commerce é essencial; sua empresa precisa se adaptar e usar as ferramentas certas para se destacar.",
-  "gancho": "A *tecnologia é chave* para o varejo digital!",
-  "ideias": [
-   "Como pequenos negócios podem lucrar online",
-   "5 dicas para potencializar seu e-commerce",
-   "A importância da tecnologia no varejo"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T16:47:17-03:00",
-  "url": "https://cndl.org.br/varejosa/o-crescimento-do-e-commerce-brasileiro-passa-pelo-fortalecimento-dos-pequenos-e-medios-varejistas/",
-  "publicadoEm": "2026-11-07T14:03:51-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-06"
- },
- {
-  "segmento": "vpr",
-  "titulo": "E-commerce brasileiro: Shopee lidera com crescimento de 28%",
-  "resumo": "A Shopee alcançou US$ 38 bilhões em GMV no segundo trimestre, consolidando-se como líder no e-commerce brasileiro. A concorrência é intensa entre as plataformas.",
-  "fatos": [
-   "A Shopee registrou um volume bruto de mercadorias de US$ 38,3 bilhões no segundo trimestre de 2026, alta de 28,4% em relação ao ano anterior.",
-   "O total de pedidos processados pela Shopee chegou a 4,2 bilhões, aumento de 27,5% na comparação anual.",
-   "A receita do núcleo de marketplace cresceu 65,6%, atingindo US$ 4,3 bilhões.",
-   "As despesas de vendas e marketing da Shopee somaram US$ 1,26 bilhão, alta de 56,6% na comparação anual.",
-   "O Brasil é visto como o principal mercado de atuação da Shopee na América Latina."
-  ],
-  "explicacao": [
-   "O crescimento expressivo da Shopee evidencia a aceleração do e-commerce no Brasil, onde a competição por participação de mercado se intensifica.",
-   "Esse aumento nas vendas pode ser atrativo para empresários, que devem considerar estratégias eficazes de marketing e presença online.",
-   "Com a concorrência de plataformas como Mercado Livre e Amazon, investir em marketing digital se torna essencial para se destacar no mercado."
-  ],
-  "materia": "Ameaças falsas de bomba contra voos desafiam autoridades da Europa e cada desvio pode custar até US$ 250 mil a uma companhia aérea Trump diz que EUA fizeram “ataques menores” ao Irã enquanto mísseis atingem a ilha de Qeshm Microsoft planeja reduzir parcerias com empresas de neocloud em meio a sinais de desaceleração nos investimentos em infraestrutura de IA Suspeito de espionagem da OpenAI se declara inocente Trump anuncia Stephen Miller como substituto de Susie Wiles no cargo de chefe de gabinete da Casa Branca Publicado 11/08/2026 • 21:34 | Atualizado há 3 meses Compras online podem render passagens aéreas; entenda a nova parceria da Shopee A Shopee registrou recorde de volume bruto de mercadorias (GMV) no segundo trimestre de 2026, segundo balanço divulgado pela Sea Limited nesta terça-feira (11). A plataforma somou US$ 38,3 bilhões em GMV no período, alta de 28,4% em relação ao mesmo intervalo do ano anterior. Ainda de acordo com a companhia, o total de pedidos brutos processados pela Shopee chegou a 4,2 bilhões no trimestre, aumento de 27,5% na comparação anual. A receita da unidade, apurada segundo os critérios contábeis GAAP, somou US$ 5,6 bilhões, alta de 48,2%. Segundo a Sea Limited, a Shopee ocupa posição de liderança no comércio eletrônico brasileiro, mercado descrito pela companhia como estratégico dentro da expansão internacional do grupo para fora do Sudeste Asiático. O documento não detalhou métricas ou números específicos de operação no país, mas situa o Brasil como a principal frente de atuação da Shopee na América Latina. Dentro desse total, a receita do núcleo de marketplace, formada principalmente por taxas de transação e publicidade, cresceu 65,6% e atingiu US$ 4,3 bilhões, segundo o balanço. Já a receita de serviços de valor agregado, ligada à logística, recuou 9,0%, para US$ 676,4 milhões, efeito atribuído pela empresa a subsídios de frete concedidos a usuários. O lucro antes de juros, impostos, depreciação e amortização (Ebitda) ajustado da Shopee somou US$ 255,4 milhões, alta de 12,2% ante o mesmo trimestre de 2025. Diante desse desempenho, o presidente do conselho e principal executivo da controladora, Sea Limited, Forrest Li, afirmou em comunicado que a companhia está otimista quanto à meta de atingir US$ 1 bilhão em Ebitda ajustado da Shopee no ano completo de 2026. Ao lado da liderança declarada pela empresa, o mercado brasileiro de comércio eletrônico segue marcado por concorrência acirrada. Plataformas como Mercado Livre, Amazon e Shein disputam participação em categorias como moda, eletrônicos e itens de baixo valor, área em que a Shopee construiu parte relevante de sua base de usuários no país. Siga o Times | CNBC no Google e receba as principais notícias do Brasil e do Mundo. Enquanto isso, a companhia mantém investimentos em logística e marketing para sustentar a operação local. As despesas globais de vendas e marketing da Shopee somaram US$ 1,26 bilhão no trimestre, alta de 56,6% na comparação anual, segundo o balanço. Além da Shopee, a Sea Limited também divulgou os resultados da Monee, braço de serviços financeiros do grupo. A receita da unidade somou US$ 1,4 bilhão no trimestre, alta de 58,9%, impulsionada pela expansão da carteira de crédito a consumidores e pequenas e médias empresas. Segundo a companhia, o saldo de empréstimos em aberto da Monee chegou a US$ 11,1 bilhões em 30 de junho, crescimento de 62,5% em relação ao mesmo período do ano anterior. Desse total, US$ 10,0 bilhões ficam registrados no balanço da empresa e US$ 1,1 bilhão correspondem a operações repassadas a outras instituições financeiras. Apesar da expansão da carteira, o índice de empréstimos em atraso superior a 90 dias permaneceu estável em 1,0%, na comparação trimestral, segundo dados divulgados pela Sea Limited. Por fim, a divisão de jogos digitais do grupo, a Garena, registrou reservas de US$ 763,5 milhões no trimestre, alta de 15,5%. A receita GAAP da unidade somou US$ 746,6 milhões, crescimento de 33,5%, segun",
-  "numeros": [
-   {
-    "valor": "28,4%",
-    "rotulo": "crescimento no GMV da Shopee"
-   },
-   {
-    "valor": "4,2 bilhões",
-    "rotulo": "pedidos processados"
-   },
-   {
-    "valor": "1,26 bilhão",
-    "rotulo": "despesas de marketing"
-   }
-  ],
-  "fonte": "Times Brasil | CNBC",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais"
-  ],
-  "dor": "perda de competitividade em um mercado crescente",
-  "angulo": "O crescimento da Shopee reforça a importância de um site otimizado e gestão de redes sociais para se destacar no e-commerce.",
-  "gancho": "*Shopee cresce 28%*: o que isso significa para o",
-  "ideias": [
-   "Como o e-commerce pode impulsionar suas vendas",
-   "Estratégias para competir no e-commerce brasileiro",
-   "A importância do marketing digital no varejo atual"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "alta",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T16:47:17-03:00",
-  "url": "https://timesbrasil.com.br/empresas-e-negocios/e-commerce/shopee-recorde-gmv-segundo-trimestre-2026/",
-  "publicadoEm": "2026-11-07T11:22:37-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-05"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Black Friday 2026: R$ 14,5 bilhões em vendas!",
-  "resumo": "A Black Friday de 2026 pode movimentar R$ 14,5 bilhões, com consumidores cada vez mais atentos às condições de pagamento e preços.",
-  "fatos": [
-   "A Black Friday de 2026 deve movimentar R$ 14,5 bilhões, alta de 8,4%.",
-   "Serão cerca de 18,3 milhões de pedidos, com tíquete médio projetado de R$ 791.",
-   "86% dos consumidores pretendem comprar nessa edição da Black Friday.",
-   "Desconto no Pix é atraente para 36% dos consumidores, enquanto 34% preferem parcelamento sem juros.",
-   "56% dos consumidores começarão a pesquisa por produtos mais de 30 dias antes da data."
-  ],
-  "explicacao": [
-   "A Black Friday de 2026 mostra um consumidor mais consciente e atento às condições de pagamento.",
-   "A pesquisa revela uma jornada de compra mais longa, com 56% dos consumidores iniciando suas buscas com antecedência.",
-   "Além disso, 86% dos entrevistados planejam usar ferramentas de inteligência artificial para comparar preços e promoções, aumentando a competitividade."
-  ],
-  "materia": "Pesquisa de Black Friday da Stefanini Marketing aponta crescimento de 8,4% nas vendas e 18,3 milhões de pedidos; desconto no Pix aparece à frente do parcelamento sem juros entre os incentivos à compra A Black Friday de 2026 deve movimentar R$ 14,5 bilhões, alta de 8,4% em relação ao ano passado, segundo projeções da pesquisa promovida pela W3haus, Gauge e Ecglobal, empresas da Stefanini Marketing. O avanço deve ser acompanhado por um aumento no número de compras, que pode chegar a 18,3 milhões de pedidos. O tíquete médio projetado é de R$ 791. A expectativa de consumo também permanece elevada: 86% dos entrevistados afirmam que pretendem comprar nesta edição. Os dados mostram, porém, que a disposição para consumir vem acompanhada de maior atenção às condições encontradas pelo consumidor ao longo da jornada, do preço à forma de pagamento. “ Temos uma Black Friday com forte intenção de compra, mas também com um consumidor que pesquisa, compara e avalia com mais cuidado as condições antes de decidir. Nesse cenário, não é apenas o desconto que importa. A forma como esse consumidor consegue pagar também entra nessa equação, seja pela economia imediata, seja pela possibilidade de distribuir o gasto ao longo do tempo ”, afirma Aline Liston, Head de PMEs da Getnet. Desconto no Pix aparece à frente do parcelamento sem juros Entre as condições capazes de estimular a compra, o desconto no Pix foi citado por 36% dos consumidores, enquanto o parcelamento sem juros foi mencionado por 34%. O resultado reforça a convivência de duas demandas na Black Friday: de um lado, consumidores atraídos pela possibilidade de economizar no pagamento à vista; de outro, aqueles que buscam flexibilidade para organizar o orçamento. O levantamento mostra ainda que, não encontrar a opção desejada é o quinto principal motivo apontado para o abandono do carrinho. “ Preço continua sendo um elemento central da Black Friday, mas o consumidor olha para a compra como um todo. Um desconto no Pix pode ser decisivo para quem prioriza economia, enquanto o crédito e o parcelamento atendem quem precisa de maior flexibilidade. Para o varejo, o ponto importante é não criar uma barreira na etapa final para um consumidor que já demonstrou intenção de comprar ”, avalia Aline. Cartão de crédito e Pix permanecem entre os meios de pagamento preferidos pelos consumidores. O estudo também traz um retrato do Pix parcelado: 36% dos entrevistados dizem conhecer a modalidade e já tê-la utilizado, enquanto outros 36% afirmam conhecê-la, mas não pretendem usá-la nesta Black Friday. Consumidor começa a se preparar antes da Black Friday A decisão de compra também começa bem antes da data oficial. Segundo a pesquisa, 56% dos consumidores pretendem iniciar a busca por produtos com mais de 30 dias de antecedência, indicando uma jornada mais longa de pesquisa e comparação de ofertas. A tecnologia também passa a ocupar espaço nesse processo. O levantamento aponta que 86% dos entrevistados pretendem utilizar ferramentas de inteligência artificial durante as compras de Black Friday, incluindo atividades como comparação de preços, busca por promoções e avaliação da confiabilidade das lojas. Para o varejo, o cenário é de uma Black Friday que começa antes da data oficial e envolve consumidores mais informados e com mais recursos para comparar ofertas. Nesse contexto, preço, desconto, conveniência e condições de pagamento passam a fazer parte de uma mesma decisão de compra. A Getnet é a fintech líder em soluções de pagamento na América Latina e na Península Ibérica. A empresa oferece soluções multicanais robustas e flexíveis que se adaptam às necessidades dos clientes, integrando-se de forma fluida aos ecossistemas existentes e entregando tecnologias proprietárias e avançadas. O portfólio de serviços inclui gateway de pagamento, soluções de pagamento em loja e e-commerce, processamento de transações, prevenção avançada de fraudes, serviços financeiros e soluções de valor agregado desenvolvidas para setor",
-  "numeros": [
-   {
-    "valor": "14,5 bilhões",
-    "rotulo": "vendas projetadas"
-   },
-   {
-    "valor": "8,4%",
-    "rotulo": "crescimento em relação ao ano passado"
-   },
-   {
-    "valor": "18,3 milhões",
-    "rotulo": "número de pedidos esperados"
-   },
-   {
-    "valor": "791",
-    "rotulo": "tíquete médio"
-   }
-  ],
-  "fonte": "Jornal do comércio do ceará",
-  "categoria": "Varejo",
-  "publico": [
-   "Comércio local",
-   "Empresários",
-   "Prestadores de serviço"
-  ],
-  "dor": "Medo de perder clientes por falta de estratégia de vendas.",
-  "angulo": "Neste cenário, empresários precisam investir em marketing digital e automação para se destacar na Black Friday.",
-  "gancho": "*Descontos e condições de pagamento importam!*",
-  "ideias": [
-   "Como se preparar para a Black Friday?",
-   "O impacto das condições de pagamento nas vendas.",
-   "A importância da pesquisa para as vendas de Black Friday."
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T12:57:06-03:00",
-  "url": "https://jcce.com.br/black-friday-2026-deve-movimentar-r-145-bilhoes-com-consumidor-mais-atento-a-preco-e-condicoes-de-pagamento/",
-  "publicadoEm": "2026-11-07T03:10:01-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-04"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Black Friday traz oportunidades, mas cuidado com dívidas!",
-  "resumo": "A Black Friday promete elevar as vendas, mas as preocupações com dívidas e juros continuam. Empresários devem se preparar para o impacto nas finanças.",
-  "fatos": [
-   "A Black Friday é esperada para impulsionar as vendas do varejo.",
-   "Dívidas e altos juros são preocupações constantes para os consumidores.",
-   "Empresários precisam estar atentos ao comportamento do consumidor nesta data."
-  ],
-  "explicacao": [
-   "A expectativa de aumento nas vendas é boa, mas muitos consumidores enfrentam dificuldades financeiras.",
-   "Isso pode impactar no volume das vendas e na forma como os negócios se planejam.",
-   "Empresários devem preparar estratégias de marketing para captar clientes e minimizar riscos."
-  ],
-  "materia": "",
-  "numeros": [],
-  "fonte": "O Popular",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local"
-  ],
-  "dor": "vendas podem não compensar dívidas e juros altos",
-  "angulo": "A Black Friday é uma oportunidade, mas sem planejamento e marketing, riscos aumentam. Conheça nosso trabalho na criação de estratégias eficientes.",
-  "gancho": "Black Friday: *oportunidades e riscos*",
-  "ideias": [
-   "Prepare-se para a Black Friday!",
-   "Como a dívida pode afetar suas vendas?",
-   "Estratégias para a Black Friday"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T12:57:06-03:00",
-  "url": "https://opopular.com.br/economia/black-friday-deve-elevar-vendas-mas-dividas-e-juros-preocupam-1.3477843",
-  "publicadoEm": "2026-11-07T04:36:59-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-03"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Empresas precisam se adaptar ao atendimento digital eficaz",
-  "resumo": "A nova plataforma ClickMassa Conversas, lançada no Fórum Negócios, concentra atendimento e vendas em um só lugar, mostrando a necessidade de empresas se modernizarem para sobreviver no mercado competitivo.",
-  "fatos": [
-   "A ClickMassa Conversas foi lançada pela Vectax no 11º Fórum Negócios em Natal nos dias 5 e 6 de novembro de 2026.",
-   "A plataforma utiliza inteligência artificial para concentrar atendimento, vendas e campanhas em uma única interface.",
-   "Os atendentes com IA funcionam 24 horas e podem encaminhar questões a profissionais humanos conforme necessário.",
-   "A ClickMassa já possui mais de 8 mil clientes e mais de 200 unidades licenciadas em todo o Brasil.",
-   "Cristiano Fernandes, empresário de clínicas em Pernambuco, destacou a importância de um atendimento rápido e eficiente para manter clientes em um mercado competitivo."
-  ],
-  "explicacao": [
-   "A necessidade de atendimento digital eficiente cresce em um mercado competitivo, onde consumidores esperam respostas rápidas.",
-   "Plataformas como a ClickMassa ajudam empresas a gerenciar melhor o relacionamento com clientes em várias redes sociais.",
-   "Essas ferramentas promovem uma integração de canais e automatizam processos, economizando tempo e recursos.",
-   "O foco em IA também permite que negócios aumentem suas vendas e monitorem resultados de forma eficaz."
-  ],
-  "materia": "Empresas que atendem clientes por WhatsApp, Instagram, Messenger e Telegram ganham uma plataforma para reunir essas conversas em um só lugar. Trata-se da nova ClickMassa Conversas, CRM com inteligência artificial lançado em primeira mão pela startup potiguar Vectax no 11º Fórum Negócios 2026, realizado nos dias 5 e 6 de novembro, em Natal. Com a interface renovada, a ferramenta concentra atendimento, vendas, campanhas, automação e inteligência artificial. Ela permite distribuir os atendimentos entre equipes, acompanhar negociações em funis de vendas, organizar agendas e monitorar resultados. Os atendentes com IA funcionam 24 horas, qualificam contatos, marcam compromissos e passam a conversa a um profissional humano quando necessário. Leia mais: FIERN promove oficina sobre uso prático de inteligência artificial nas empresas na terça-feira 22 A plataforma também se conecta, pelo protocolo MCP, a ferramentas de inteligência artificial como ChatGPT e Claude. Parceira oficial da Meta , usa a API oficial do WhatsApp Business e traz recursos para acompanhar o desempenho de campanhas e anúncios, além de relatórios de vendas e produtividade. Leia mais: Assistente Estela, da Prefeitura do Natal, recebe prêmio de inteligência artificial A Vectax tem estande no evento, onde empresários podem conhecer e testar a ferramenta. A empresa também quer se aproximar de potenciais parceiros comerciais, principalmente empresas de tecnologia interessadas em representar a solução e integrá-la aos seus negócios. Entre os visitantes, o empresário Cristiano Fernandes, de um grupo de clínicas do interior de Pernambuco, disse ter se surpreendido com a rapidez e a funcionalidade da tecnologia. Ele não usava nenhum sistema de atendimento ao cliente. “Em um mercado cada vez mais competitivo, o empresário sabe que atender com rapidez, eficiência e qualidade deixou de ser um diferencial e se tornou uma necessidade para conquistar e manter clientes. Já vinha pesquisando a respeito deste tipo de serviço e me encantei com a experiência da Click”, afirmou. Sócio da Vectax/ClickMassa, André Luz conta que a empresa expõe no Fórum Negócios há cinco edições e vê no evento uma chance de apresentar soluções, fortalecer relacionamentos e abrir novas frentes de negócios. “O Fórum Negócios é um ambiente que conecta quem empreende, investe e busca inovação. Ao longo dessas cinco participações, o evento tem sido um importante trampolim para apresentar a ClickMassa como outros produtos da Vectax ao mercado, conquistar clientes e estabelecer parcerias. Escolhemos esse palco para lançar nossa nova plataforma porque acreditamos na força desse encontro e na oportunidade de mostrar de perto o que estamos construindo”, afirmou. Também sócio, Wanderley Cunha diz que a nova versão é uma evolução da experiência dos clientes e amplia as possibilidades de uso da tecnologia pelas empresas. “Nosso objetivo foi desenvolver uma plataforma ainda mais moderna, dinâmica e rápida, que reúna em um só lugar tudo o que uma empresa precisa para atender, vender e acompanhar seus resultados. A inteligência artificial amplia essas possibilidades, mas sem perder de vista o atendimento humano quando ele é necessário. Queremos que o empreendedor tenha mais controle da operação e consiga transformar suas conversas em oportunidades reais de negócio”, explicou. Com atuação em todo o Brasil e no mercado internacional, a ClickMassa tem mais de 8 mil clientes e mais de 200 unidades licenciadas, e segue ampliando suas parcerias estratégicas. A Vectax tem outra novidade no evento: a TiKat, ticketeira do grupo, participa pela primeira vez e cuida de todo o credenciamento deste ano e da recepção dos participantes. Segundo a empresa, a atuação leva a tecnologia à experiência do público desde a chegada ao encontro. Leia mais: Copom mantém Selic em 13,75% e interrompe cortes; veja o efeito no seu bolso O Grupo Vectax cria soluções de tecnologia para a gestão do relacionamento entre empresas e clientes, em canais como",
-  "numeros": [
-   {
-    "valor": "8000",
-    "rotulo": "clientes da ClickMassa"
-   },
-   {
-    "valor": "200",
-    "rotulo": "unidades licenciadas"
-   }
-  ],
-  "fonte": "Agora RN",
-  "categoria": "Atendimento",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço",
-   "Profissionais liberais",
-   "Indústria"
-  ],
-  "dor": "Perda de clientes por falta de agilidade no atendimento",
-  "angulo": "A adaptação às novas tecnologias é crucial para empresários que desejam manter seus clientes e melhorar as vendas.",
-  "gancho": "*Atendimento digital* é vital para seu negócio!",
-  "ideias": [
-   "Como a IA pode transformar seu atendimento",
-   "A importância do atendimento rápido para os clientes",
-   "ClickMassa: a solução para seu negócio"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "celular",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T12:57:06-03:00",
-  "url": "https://agorarn.com.br/economia/clickmassa-conversas-crm-forum-negocios-2026/",
-  "publicadoEm": "2026-11-07T12:00:17-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-02"
- },
- {
-  "segmento": "vpr",
-  "titulo": "Black Friday 2026: Varejo e inteligência artificial",
-  "resumo": "A Black Friday de 2026 pode transformar o varejo com a atuação de agentes de IA, exigindo nova abordagem das marcas para se destacarem. A adaptação é essencial para continuar competitivo.",
-  "fatos": [
-   "A Black Friday de 2026 será um teste para o varejo na era de agentes de inteligência artificial.",
-   "Agentes de IA podem pesquisar, comparar e, até, realizar compras automatizadas.",
-   "O preço ainda é relevante, mas fatores como disponibilidade e confiabilidade também influenciam a escolha.",
-   "Marcas precisam apresentar dados claros para serem consideradas nas comparações dos agentes de IA.",
-   "A Black Friday deste ano é um momento interessante para observar essa transformação no comportamento do consumidor."
-  ],
-  "explicacao": [
-   "A evolução dos agentes de IA muda a dinâmica das compras, criando novos desafios para o varejo.",
-   "As marcas precisam garantir que seus produtos estejam aptos a serem avaliados por tecnologias.",
-   "A concorrência não se resume mais ao preço, mas envolve experiência e confiabilidade."
-  ],
-  "materia": "Para o varejista, isso exige rever como apresenta seus produtos, organiza suas ofertas e define os diferenciais de cada canal Durante anos, o varejo disputou a atenção do consumidor. Investiu em campanhas, vitrines digitais, influenciadores, anúncios personalizados e mecanismos para reduzir cada clique entre o interesse e a compra. Agora, uma nova mudança começa a colocar essa lógica em xeque: e se o próximo cliente a pesquisar, comparar e escolher um produto não for o consumidor, mas um agente de inteligência artificial atuando em nome dele? Essa é uma das questões que tornam a Black Friday de 2026 especialmente relevante. Com a evolução dos agentes de IA, a tecnologia começa a ir além de recomendar produtos e responder perguntas. Ela pode assumir tarefas, cruzar critérios de escolha e, conforme as permissões concedidas pelo usuário, avançar na execução de compras. É uma transformação que ainda está em construção, mas que merece atenção desde já. Se antes a missão das marcas era conquistar espaço na tela e convencer o consumidor a clicar, o desafio passa a incluir outra etapa: ser considerada uma boa escolha por sistemas que avaliam informações e alternativas com base nos objetivos de quem compra. Imagine alguém que delega a um agente a busca por uma televisão com determinadas características, dentro de um orçamento e com entrega até uma data específica. Em vez de navegar por dezenas de lojas, esse consumidor pode receber uma seleção de opções que atendam aos critérios estabelecidos. Em experiências mais avançadas, poderá autorizar o próprio agente a concluir a compra. Nesse cenário, preço continua importante, mas não atua sozinho. Disponibilidade, prazo de entrega, características do produto, política de troca e confiabilidade das informações também podem influenciar a seleção. A marca que não apresentar dados claros e consistentes corre o risco de sequer entrar na lista de alternativas. Isso não significa que a publicidade, a experiência nas lojas ou a construção de marca perderão relevância. Significa que o varejo poderá precisar trabalhar em duas frentes: conquistar a preferência das pessoas e garantir que seus produtos sejam encontrados e avaliados adequadamente pelas tecnologias que elas utilizam. A mudança também levanta uma questão estratégica: como gerar diferenciação quando parte da jornada se torna automatizada e a comparação entre ofertas fica mais simples? Se a competição se resumir ao menor preço, a pressão sobre as margens tende a aumentar. Experiência, conveniência, confiança e serviços terão papel importante para sustentar a preferência. A Black Friday deste ano oferece um ambiente particularmente interessante para observar essa transformação. Com tantas ofertas e condições comerciais concentradas em um curto período, comparar alternativas é uma tarefa que pode se beneficiar da atuação de agentes inteligentes. Ao mesmo tempo, promoções com regras complexas, estoques limitados e informações divergentes representam obstáculos para decisões automatizadas. Para o varejista, isso exige rever como apresenta seus produtos, organiza suas ofertas e define os diferenciais de cada canal. Também será necessário estabelecer limites para compras automatizadas, proteger os dados dos clientes e garantir transparência sobre preços, condições e autorizações. Não se trata de presumir que todos os consumidores comprarão por meio de agentes já nesta Black Friday. O ponto é reconhecer que a jornada de compra está se expandindo e que as empresas precisam acompanhar essa evolução antes que ela se torne determinante para a competição. A próxima fronteira do varejo não será apenas disputar quem aparece primeiro na busca, mas entender como participar de decisões cada vez mais mediadas por inteligência artificial. A Black Friday de 2026 pode ser o primeiro grande teste dessa mudança: não porque os agentes vão substituir os consumidores, mas porque começam a mudar a forma como eles descobrem, comparam e escolhem o que comprar. *Elói Assi",
-  "numeros": [
-   {
-    "valor": "2026",
-    "rotulo": "Ano da Black Friday que testará o varejo"
-   }
-  ],
-  "fonte": "Confederação Nacional de Dirigentes Lojistas",
-  "categoria": "Varejo",
-  "publico": [
-   "Empresários",
-   "Comércio local",
-   "Prestadores de serviço"
-  ],
-  "dor": "Perder competitividade na nova era do varejo digital",
-  "angulo": "A adaptação ao uso de IA nas vendas é crucial para se destacar diante de consumidores que usarão agentes tecnológicos na Black Friday.",
-  "gancho": "Prepare-se para *a Black Friday do futuro*",
-  "ideias": [
-   "Nova era do varejo: como se adaptar?",
-   "Agentes de IA vão mudar suas vendas!",
-   "Você está pronto para a Black Friday de 2026?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "loja",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T12:57:06-03:00",
-  "url": "https://cndl.org.br/varejosa/black-friday-2026-o-primeiro-grande-teste-do-varejo-na-era-dos-agentes-de-ia/",
-  "publicadoEm": "2026-11-07T12:14:06-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-vpr-01"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 impacta funcionários e empresas",
-  "resumo": "O governo anunciou que um decreto regulamentando o fim da escala 6x1 será publicado na próxima segunda-feira. Essa mudança pode gerar impactos significativos no mercado de trabalho.",
-  "fatos": [
-   "O decreto que regulamenta o fim da escala 6x1 deve ser divulgado na próxima segunda-feira.",
-   "A mudança afeta empregados e empregadores, principalmente nas áreas de serviços.",
-   "A nova regulamentação pode flexibilizar a jornada de trabalho.",
-   "Funcionários podem esperar mudanças na carga horária e nos direitos trabalhistas.",
-   "Empresas também podem precisar se adaptar à nova legislação com custos adicionais."
-  ],
-  "explicacao": [
-   "Essa decisão do governo busca modernizar a legislação trabalhista e responder às novas dinâmicas do mercado.",
-   "O fim da escala 6x1 pode proporcionar mais liberdade na gestão de horários dos empregados.",
-   "Para os trabalhadores, isso pode significar melhores condições ou a redução de horas semanais, dependendo da implementação.",
-   "As empresas terão de se adaptar, o que pode gerar custos e um novo cenário de contratação.",
-   "Essa alteração na legislação mostra a necessidade de investimento em novas habilidades, como a atuação no mercado financeiro."
-  ],
-  "materia": "Jornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine Entrar",
-  "numeros": [],
-  "fonte": "Estadão",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Empresários",
-   "Autônomos"
-  ],
-  "dor": "medo de perda de benefícios e renda estável",
-  "angulo": "O fim da escala 6x1 pode gerar insegurança financeira, mas também abre oportunidades para investir no mercado financeiro e garantir novas fontes de renda.",
-  "gancho": "Mudanças no trabalho: *o que esperar do novo decreto*?",
-  "ideias": [
-   "Fim da escala 6x1: o que muda?",
-   "Como o novo decreto pode impactar sua renda?",
-   "Prepare-se: novas leis e o mercado financeiro"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T21:57:04-03:00",
-  "url": "https://www.estadao.com.br/em-alta/economia/marinho-diz-que-decreto-que-regulamenta-fim-da-escala-6x1-deve-sair-na-proxima-segunda-feira/",
-  "publicadoEm": "2026-11-07T18:31:48-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-12"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1 e impactos no varejo",
-  "resumo": "Com o debate sobre a extinção da escala 6x1, o varejo enfrenta desafios operacionais e financeiros. Empresários precisam se preparar para as mudanças que devem afetar suas margens e contratações.",
-  "fatos": [
-   "A FecomercioSP fará um debate sobre a extinção da jornada 6x1 em 9 de novembro de 2026.",
-   "A medida pode afetar diretamente 1,8 milhão de empresários do setor terciário em São Paulo.",
-   "Esses empresários representam cerca de 10% do PIB do Brasil e sustentam aproximadamente 10 milhões de empregos formais.",
-   "Mudanças nas jornadas devem aumentar custos operacionais e afetar a rentabilidade das operações comerciais.",
-   "A entidade patronal argumenta que essa alteração pode levar à retração das contratações e fechamento de estabelecimentos menores."
-  ],
-  "explicacao": [
-   "A extinção da escala de trabalho 6x1 é uma proposta que impacta a estrutura de jornada de vários setores, especialmente o varejo.",
-   "Com a diminuição das horas trabalhadas, as empresas precisarão de mais colaboradores para manter o mesmo nível de atendimento ao público.",
-   "Falta de planejamento para essa mudança pode gerar passivos trabalhistas e comprometer a competitividade das empresas.",
-   "As empresas que não se adaptarem a essa nova realidade poderão encontrar dificuldades financeiras e operacionais no futuro.",
-   "Por outro lado, a digitalização e a automação podem ajudar as empresas a manter a eficiência diante dessas mudanças."
-  ],
-  "materia": "A FecomercioSP programou para a próxima segunda-feira, 9 de novembro de 2026 , às 17h, uma transmissão virtual voltada a orientar empresários do setor terciário sobre os desdobramentos operacionais e jurídicos decorrentes das propostas de extinção da jornada de trabalho sob escala de seis dias de atividade por um de descanso. O encontro técnico visa elucidar os impactos imediatos sobre contratações, arranjos de turnos e margens financeiras em um período crítico de demanda no mercado brasileiro. Segundo informações divulgadas pela entidade patronal paulista, o debate ocorre no limiar das campanhas de Black Friday e do período de compras de fim de ano, momentos em que o comércio varejista e as redes de serviços tradicionalmente expandem seus quadros temporários e operam com horários estendidos. A instituição sustenta que a alteração do modelo de trabalho em vigor exige planejamento preventivo das lideranças corporativas para mitigar passivos trabalhistas e evitar rupturas no atendimento presencial e logístico. Conforme a entidade, a reorganização das jornadas demanda uma avaliação que ultrapassa a mera diminuição das horas trabalhadas, alcançando decisões sobre a viabilidade econômica do negócio, cálculo de horas extraordinárias e readequação de escalas. A entidade argumenta que as empresas necessitam de segurança jurídica e de previsibilidade orçamentária para absorver as novas diretrizes sem comprometer a competitividade e o nível de emprego formal. O debate em torno da escala de trabalho incide de maneira profunda sobre a estrutura do setor de comércio de bens, serviços e turismo no estado de São Paulo, polo que concentra expressiva fatia da atividade econômica nacional. A Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo reúne a representação de 1,8 milhão de empresários , contingente responsável por aproximadamente 10% do Produto Interno Bruto (PIB) do Brasil e pela sustentação de cerca de 10 milhões de postos de trabalho formais. A entidade pontua que as características intrínsecas ao varejo e ao setor de hospitalidade dependem de funcionamento ininterrupto ou de jornadas dilatadas durante os finais de semana, período no qual se concentra parcela substancial do faturamento das lojas físicas, restaurantes e empreendimentos turísticos. Por essa razão, a imposição de limites mais rígidos ou a vedação do formato 6×1 impõe desafios de cobertura de postos que afetam diretamente a rentabilidade média das operações de pequeno, médio e grande porte. Adicionalmente, o contexto macroeconômico de 2026 reflete margens de lucro comprimidas por custos operacionais contínuos, encargos sobre a folha de pagamento e oscilações no consumo das famílias. Nesse ambiente, a entidade argumenta que modificações nas regras de jornada sem a devida modulação setorial e sem suporte em instrumentos de flexibilização podem induzir retração nas contratações e potencializar o fechamento de estabelecimentos com menor capacidade de caixa. A análise técnica formulada pela federação indica que a redução compulsória da jornada acarreta um dilema logístico para gestores de operações e de Recursos Humanos (RH) . De acordo com o material técnico do evento, a redução das horas semanais sem a correspondente contrapartida na produtividade horária implica a necessidade de admitir mais colaboradores para manter o mesmo volume de atendimento ao público consumidor. Especialistas escalados para o painel pretendem destrinchar esses aspectos financeiros. Entre os participantes confirmados estão Kelly Carvalho , assessora econômica da entidade; Marisa Salgado , partner na consultoria de liderança executiva Signium Brasil; e Rodrigo Chagas Soares , advogado, docente de Direito do Trabalho e Sindical no Insper e integrante do Conselho de Emprego e Relações de Trabalho da entidade. A programação visa contrastar a doutrina trabalhista com a prática diária de gestão de pessoas no ambiente corporativo. O evento pretende esclarecer diretrizes práticas sobre: ",
-  "numeros": [
-   {
-    "valor": "10 milhões",
-    "rotulo": "postos de trabalho sustentados"
-   },
-   {
-    "valor": "10%",
-    "rotulo": "do PIB brasileiro"
-   },
-   {
-    "valor": "1,8 milhão",
-    "rotulo": "de empresários afetados"
-   }
-  ],
-  "fonte": "Brasil Inovador",
-  "categoria": "Negócios",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Autônomos"
-  ],
-  "dor": "temor de aumento de custos e menores margens de lucro",
-  "angulo": "Com as mudanças na jornada de trabalho, o aprendizado sobre o mercado financeiro pode ser a chave para aumentar sua renda, sem depender exclusivamente do que seu negócio tradicional pode oferecer.",
-  "gancho": "*Mudança de jornada*, maior desafio para o varejo!",
-  "ideias": [
-   "Como o fim da escala 6x1 impacta seu negócio?",
-   "Prepare sua empresa para novas jornadas de trabalho",
-   "Aumentando sua renda: aprenda a investir"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T21:57:04-03:00",
-  "url": "https://brasilinovador.com.br/fecomerciosp-debate-impactos-do-fim-da-escala-6x1-sobre-custos-e-operacoes-no-varejo/",
-  "publicadoEm": "2026-11-07T18:45:14-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-11"
- },
- {
-  "segmento": "trader",
-  "titulo": "Prazo curto para fim da escala 6x1 preocupa empresários",
-  "resumo": "Fecomércio-DF e CNC pedem ao STF mais tempo para adaptação ao fim da escala 6x1. Alterações podem impactar o comércio no período de Natal.",
-  "fatos": [
-   "Fecomércio-DF e CNC acionaram o STF para adiar o fim da escala 6x1.",
-   "O prazo atual é de 60 dias, mas requerem adiamento para outubro de 2027.",
-   "A primeira etapa prevê duas folgas semanais e redução de jornada para 42 horas.",
-   "Mudanças coincidem com períodos movimentados como Black Friday e Natal.",
-   "Mudança para 40 horas semanais poderia ser adiada para o fim de 2028.",
-   "A ação está em análise no STF e não tem prazo definido para julgamento."
-  ],
-  "explicacao": [
-   "O fim da escala 6x1, que permite folgas apenas a cada seis dias, gera preocupações em setores que dependem de contratações temporárias.",
-   "Os empresários argumentam que o prazo dado é insuficiente para renegociar contratos e ajustar a mão de obra.",
-   "A alteração proposta pode impactar diretamente a rotina de trabalho e a capacidade de atendimento em épocas movimentadas do comércio."
-  ],
-  "materia": "Adicione como fonte preferencial no Google A Fecomércio-DF, em conjunto com a Confederação Nacional do Comércio, acionou o STF Supremo Tribunal Federal) para pedir mais prazo para que as empresas se adaptem ao fim da escala 6x1. A entidade considera insuficientes os 60 dias concedidos à iniciativa privada e propõe adiar de 16 de dezembro de 2026 para outubro de 2027 a primeira etapa da mudança, que prevê duas folgas semanais e a redução da jornada de 44 para 42 horas. Os empresários argumentam que o prazo é curto para reorganizar as escalas de trabalho, rever contratos e negociar convenções coletivas com os sindicatos. A preocupação aumenta porque a mudança está prevista para entrar em vigor em um período de grande movimento no comércio, entre a Black Friday e o Natal. Caso o pedido seja aceito, a redução seguinte, de 42 para 40 horas semanais, ficaria para o fim de 2028. A ação ainda está em análise no STF e não tem prazo para julgamento. Grupo terá 120 dias para apresentar estudos e propostas sobre infraestrutura de recarga, descarte e reciclagem de baterias Mudança permite que cartões de diferentes empresas sejam aceitos em uma rede mais ampla de estabelecimentos Imunização protege contra 20 tipos da bactéria pneumococo, que pode causar infecções como otite, meningite e pneumonia Evento busca aproximar empresários, produtores e fornecedores, além de apresentar ao público a diversidade da produção local Mais de 5 milhões de candidatos fazem o primeiro dia do exame neste domingo (8); prova começa às 13h30 Segundo representante do setor de combustíveis, redução de apenas R$ 0,19 chegou às bombas e durou poucas semanas Mais de 800 tipos de produtos podem ser destinados a escolas e instituições públicas do DF e da União Iniciativa retomou as visitas guiadas ao estádio e vai receber grupos de alunos todas as quintas-feiras até o fim do ano letivo Leilão será totalmente on-line, com abertura oficial às 9h do dia 27 de novembro, pelo site da VIP Leilões Propostas sobre monitoramento de agressores e sucessão temporária no Executivo estão em discussão na Casa Parlamentares articulam uma solução legislativa para impedir que nova regra afete os recursos do fundo Preços das diárias aumentam até 923% com expectativa de visitantes na capital Forças de segurança unem-se em ação coordenada contra criminosos com mandados em aberto Proposta de R$ 80 bilhões inclui investimentos em saúde, educação e obras; mudanças podem afetar repasses Utilizamos cookies e tecnologia para aprimorar sua experiência de navegação de acordo com o Aviso de Privacidade .",
-  "numeros": [
-   {
-    "valor": "60 dias",
-    "rotulo": "prazo atual para adaptação"
-   },
-   {
-    "valor": "2027",
-    "rotulo": "nova proposta para implementação"
-   },
-   {
-    "valor": "44 para 42 horas",
-    "rotulo": "redução de jornada"
-   }
-  ],
-  "fonte": "R7",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Empresários",
-   "CLT"
-  ],
-  "dor": "preocupação com mudanças que afetam a contratação",
-  "angulo": "Aprender a lidar com o mercado financeiro pode ser uma alternativa para empresários e profissionais que se sentem pressionados pelas mudanças nas leis trabalhistas.",
-  "gancho": "Adaptação trabalhista: *mais um desafio para o comércio*",
-  "ideias": [
-   "Fim da escala 6x1: O que muda para empresários?",
-   "Como a nova lei pode impactar seu negócio?",
-   "Adaptações na jornada: Desafios e soluções possíveis."
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T21:57:04-03:00",
-  "url": "https://www.r7.com/brasilia/df-record/video/comercio-aciona-stf-para-adiar-fim-da-escala-6x1-e-evitar-mudancas-as-vesperas-do-natal-07112026/",
-  "publicadoEm": "2026-11-07T16:47:57-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-10"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1: mudanças e desafios para pequenas empresas",
-  "resumo": "O governo irá regulamentar o fim da escala 6x1 até 2026, exigindo adaptação nas micro e pequenas empresas e controle de produtividade. Mudanças afetam jornada e custos operacionais.",
-  "fatos": [
-   "Um decreto deverá ser publicado em 9 de novembro de 2026, reduzindo a jornada máxima para 40 horas semanais.",
-   "As mudanças incluem a obrigatoriedade de, no mínimo, oito folgas mensais para trabalhadores contratados sob CLT.",
-   "Após dois meses da publicação, a carga semanal será reduzida para 42 horas e, um ano depois, para 40 horas.",
-   "Profissionais autônomos e microempreendedores que não têm empregados não serão afetados pela mudança.",
-   "Micro e pequenas empresas que dependem de colaboradores formais enfrentarão desafios em atender a nova carga horária sem aumentar custos."
-  ],
-  "explicacao": [
-   "A mudança na legislação busca melhorar as condições trabalhistas, limitando a jornada de trabalho e promovendo mais folgas.",
-   "Para as micro e pequenas empresas, isso significa que terão que repensar suas escalas e fluxos de atendimento para manter a produtividade.",
-   "É crucial que os empresários façam análises financeiras para evitar passivos trabalhistas e garantir operações contínuas."
-  ],
-  "materia": "O governo federal planeja publicar em 9 de novembro de 2026 o decreto que regulamentará o término da escala de trabalho 6×1 no território nacional, fixando a jornada máxima em 40 horas semanais , segundo levantamento e orientações divulgados pela Contabilizei . O texto normativo deve instituir a obrigatoriedade de ao menos oito folgas mensais para profissionais contratados sob a Consolidação das Leis do Trabalho (CLT), estabelecendo mecanismos para eventuais adequações setoriais intermediadas por negociações coletivas. A mudança estrutural transfere para o centro da gestão das micro e pequenas empresas a necessidade de redimensionar escalas, revisar rotinas de atendimento e recalcular o custo operacional da mão de obra sem comprometer a rentabilidade. A transição estabelecida pelo Executivo federal prevê um cronograma em duas etapas para diluir as pressões sobre o caixa das organizações. Dois meses após a publicação oficial da norma, a carga semanal máxima recuará para 42 horas semanais , atingindo o patamar definitivo de 40 horas semanais um ano e dois meses após esse primeiro marco regulatório. Diante dessa determinação, a empresa de contabilidade destaca que a reformulação não atinge de forma uniforme todas as configurações societárias, exigindo diagnósticos individualizados sobre vínculos contratuais e modelos de atendimento. A aplicação dos novos limites de jornada restringe-se estritamente aos contratos regidos pelas normas trabalhistas da CLT, não alcançando profissionais autônomos, prestadores de serviços constituídos como pessoa jurídica (PJ) ou Microempreendedores Individuais (MEIs) que operam sem quadro de funcionários. De acordo com as análises do sócio-diretor de contabilidade e relações institucionais da Contabilizei, Charles Gularte, a legislação incide sobre o vínculo empregatício formal, mantendo a autonomia daqueles que gerenciam a própria atividade sem subordinados diretos. Para o universo de trabalhadores por conta própria, a flexibilidade operacional permanece inalterada, cabendo ao próprio empreendedor a definição do tempo dedicado à prestação dos serviços. No entanto, quando a estrutura do negócio envolve empregados registrados, a obrigatoriedade de cumprimento dos limites semanais passa a vigorar plenamente. A diferenciação exige atenção preventiva para evitar passivos trabalhistas decorrentes de interpretações errôneas sobre a natureza das relações de trabalho e a prestação contínua de serviços. Empresas que dependem de colaboradores formais enfrentam o desafio imediato de manter os níveis de atendimento e entrega sem recorrer automaticamente ao aumento de preços ou à contratação imediata de novos funcionários. A recomendação técnica prioritária da assessoria contábil é mapear detalhadamente o fluxo de demandas ao longo dos dias da semana antes de tomar qualquer decisão de investimento em folha de pagamento. O segmento de microempreendedores individuais que possui um funcionário contratado — limite máximo autorizado pela legislação vigente dessa categoria — figura entre as estruturas mais pressionadas pelo fim da escala 6×1. O colaborador registrado, que anteriormente podia cumprir até 44 horas semanais , precisará ter sua carga reduzida para 40 horas, distribuídas em cinco dias de atividade, sem que haja redução em sua remuneração nominal mensal. Em estabelecimentos que operam seis dias por semana, como padarias, salões de beleza, oficinas e comércio varejista de bairro, a redução gera uma lacuna de cobertura que não pode ser suprida pelo mesmo funcionário sem o pagamento de horas suplementares ou infração às novas regras de descanso. Conforme aponta Gularte, caberá ao proprietário cobrir a escala presencialmente, encurtar o horário diário de funcionamento do estabelecimento ou avaliar a viabilidade contábil e fiscal de desenquadrar do regime de MEI para se transformar em Microempresa (ME), viabilizando contratações adicionais. A transição de regime tributário, entretanto, envolve custos previdenciári",
-  "numeros": [
-   {
-    "valor": "40 horas",
-    "rotulo": "nova jornada semanal máxima"
-   },
-   {
-    "valor": "8 folgas",
-    "rotulo": "mínimo de folgas mensais"
-   },
-   {
-    "valor": "10%",
-    "rotulo": "acréscimo no valor da hora trabalhada"
-   }
-  ],
-  "fonte": "Brasil Inovador",
-  "categoria": "Trabalho",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Autônomos"
-  ],
-  "dor": "Perda de controle sobre custos e produtividade.",
-  "angulo": "Aprender sobre o mercado financeiro se torna essencial para minimizar impactos de mudanças na legislação, garantindo maior liberdade financeira.",
-  "gancho": "A nova regra pode *afetar seu negócio*!",
-  "ideias": [
-   "Adapte sua empresa ao fim da escala 6x1",
-   "Como a nova legislação impacta seus custos?",
-   "Desvendando o fim da jornada 6x1 na prática"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T21:57:04-03:00",
-  "url": "https://brasilinovador.com.br/fim-da-escala-6x1-exige-reorganizacao-operacional-e-controle-de-produtividade-em-micro-e-pequenas-empresas/",
-  "publicadoEm": "2026-11-07T16:55:04-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-09"
- },
- {
-  "segmento": "trader",
-  "titulo": "Mudanças do Prospera MEI que impactam seu bolso",
-  "resumo": "O programa Prospera MEI traz novidades que beneficiarão 1,3 milhão de microempreendedores no Rio, como aumento do limite de faturamento e contratação de mais funcionários, além de perdão de dívidas.",
-  "fatos": [
-   "Anunciado em 13 de outubro e sancionado em 21, o Prospera MEI atenderá 1,3 milhão de MEIs no Rio.",
-   "O limite de faturamento do MEI será elevado de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028.",
-   "Os MEIs poderão contratar até dois funcionários a partir de janeiro de 2027.",
-   "A remissão de dívidas da União pode beneficiar 3,6 milhões de MEIs, totalizando cerca de R$ 12,6 bilhões.",
-   "O programa inclui um edital do Desenrola 3.0, visando oferecer descontos de pelo menos 90% em dívidas privadas."
-  ],
-  "explicacao": [
-   "As novas regras do Prospera MEI estão focadas em aliviar as dificuldades enfrentadas pelos empreendedores, ampliando oportunidades de crescimento.",
-   "Com o aumento no teto de faturamento e a possibilidade de mais contratações, os microempreendedores podem expandir sem a preocupação de migrar para outra categoria.",
-   "A remissão de dívidas facilita a regularização financeira, enquanto o acesso a contratos com a administração pública cria novas fontes de receita.",
-   "Medidas como o Pix MEI prometem injetar recursos importantes nos pequenos negócios, possibilitando investimentos sem juros.",
-   "Essas mudanças visam fortalecer a categoria e impulsionar a economia local através do incentivo a negócios pequenos e familiares."
-  ],
-  "materia": "O Prospera MEI reúne medidas voltadas a diferentes dificuldades enfrentadas pelos empreendedores — Foto: Divulgação Perdão de dívidas com a União, possibilidade de contratar mais um funcionário e o aumento do limite de faturamento estão entre as mudanças que podem alterar a rotina de milhões de microempreendedores individuais — os MEIs — em todo o país a partir do novo programa do Governo Federal. No estado do Rio, onde há aproximadamente 1,3 milhão de profissionais formalizados nessa categoria, o pacote de medidas “Prospera MEI” reúne medidas que vão desde o alívio de pendências financeiras até novas oportunidades de investimento e contratação. Anunciado pelo governo federal em 13 de outubro e sancionado pelo presidente Lula (PT) no dia 21, o conjunto de medidas busca reduzir o endividamento, facilitar o crescimento dos pequenos negócios. Os microempreendedores fluminenses estão distribuídos por diferentes atividades econômicas. De acordo com o Sebrae Rio, o setor de serviços concentra 52,15% dos MEIs do estado, seguido pelo comércio (18,81%), indústria (17,64%), turismo (6,70%), economia criativa (4,41%) e agropecuária (0,29%). Embora algumas mudanças já estejam previstas em lei, outras ainda dependem da regulamentação e da divulgação de regras específicas. Para entender como as novidades podem chegar à rotina dos pequenos negócios, o Tempo Real procurou o Sebrae, que explicou os principais pontos do programa e as condições para ter acesso aos benefícios. O Prospera MEI reúne medidas voltadas a diferentes dificuldades enfrentadas pelos empreendedores. Além de aliviar dívidas acumuladas, o pacote também amplia a capacidade de faturamento e contratação, abre novas possibilidades de negócios com o poder público e prevê recursos para investimentos na atividade. De acordo com o Sebrae, uma das principais mudanças é a ampliação do limite de receita bruta anual permitido para permanecer na categoria. Atualmente, o teto é de R$ 81 mil. Com a nova regra, o valor passará a R$ 110 mil em 2027 e chegará a R$ 140 mil a partir de 2028. Para quem abrir um MEI ao longo do ano, o limite será calculado proporcionalmente ao período de atividade. “Em 2027, a referência será de R$ 9.166,67 por mês de funcionamento. A partir de 2028, o valor mensal será de R$ 11.666,67. O novo teto passa a valer em 1º de janeiro de 2027”, destacou o Sebrae. Outra alteração importante está na capacidade de contratação. A partir de 1º de janeiro de 2027, o microempreendedor individual poderá manter até dois empregados. A legislação também permite a contratação de um substituto temporário quando um dos funcionários estiver afastado por motivo previsto em lei. A possibilidade pode ajudar negócios que precisam ampliar a equipe, mas ainda não têm estrutura para migrar para outra categoria empresarial. Além disso, o pacote também amplia o acesso dos MEIs a contratos com a administração pública. A partir de 2027, haverá contratações exclusivas para a categoria, com limite de R$ 32.746,06 por serviço. As oportunidades serão divulgadas pelo Contrata+Brasil, plataforma que conecta pequenos empreendedores a órgãos públicos e envia avisos de vagas pelo WhatsApp. O teto das licitações exclusivas para microempresas e empresas de pequeno porte também será ampliado, passando de R$ 80 mil para R$ 130.984,20, considerando os valores de referência de 2026. Uma das medidas que mais despertaram dúvidas entre os empreendedores é a remissão integral das dívidas tributárias federais. O benefício contempla débitos de titularidade da União existentes até 13 de outubro de 2026, inscritos ou não na Dívida Ativa. A medida pode alcançar cerca de 3,6 milhões de MEIs, com pendências que somam aproximadamente R$ 12,6 bilhões. O perdão inclui o valor principal das contribuições abrangidas pela lei, além de multas, juros e encargos. No entanto, não se aplica a dívidas estaduais e municipais, como débitos de ICMS e ISS. De acordo com as regras, não será necessário fazer um pedido individual para obt",
-  "numeros": [
-   {
-    "valor": "1,3 milhão",
-    "rotulo": "MEIs no Rio"
-   },
-   {
-    "valor": "R$ 110 mil",
-    "rotulo": "novo limite de faturamento em 2027"
-   },
-   {
-    "valor": "2",
-    "rotulo": "funcionários a serem contratados"
-   },
-   {
-    "valor": "R$ 12,6 bilhões",
-    "rotulo": "dívidas a serem perdoadas"
-   },
-   {
-    "valor": "90%",
-    "rotulo": "desconto em dívidas privadas"
-   }
-  ],
-  "fonte": "Tempo Real",
-  "categoria": "Negócios",
-  "publico": [
-   "Autônomos",
-   "Profissionais liberais",
-   "Empresários"
-  ],
-  "dor": "dependência de salário pode dificultar o crescimento",
-  "angulo": "Aprender sobre o mercado financeiro será essencial para quem deseja ampliar seus negócios além das limitações salariais e busca novas fontes de renda.",
-  "gancho": "Descubra como *virar o jogo* com o Prospera MEI",
-  "ideias": [
-   "Entenda o Prospera MEI em detalhes",
-   "Como o Prospera MEI pode ajudar seu negócio",
-   "Mudanças para MEIs: O que você precisa saber"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T16:47:17-03:00",
-  "url": "https://temporealrj.com/prospera-mei-rio-novo-programa-governo-federal/",
-  "publicadoEm": "2026-11-07T15:00:39-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-08"
- },
- {
-  "segmento": "trader",
-  "titulo": "Aumento do custo de vida gera protestos em Paris",
-  "resumo": "Milhares de pessoas estão se mobilizando em Paris contra o aumento do custo de vida, evidenciando as dificuldades financeiras enfrentadas pela população.",
-  "fatos": [
-   "Manifestantes se reuniram nas ruas de Paris para protestar.",
-   "O aumento do custo de vida motivou os protestos.",
-   "Os eventos de protesto mostram a insatisfação popular.",
-   "Demonstram a pressão que a população sofre devido à economia.",
-   "Atos como esse refletem uma luta por melhores condições financeiras."
-  ],
-  "explicacao": [
-   "Os protestos em Paris surgem como uma reação ao crescente custo de vida que afeta todos os cidadãos.",
-   "Com o aumento de preços, as famílias e trabalhadores estão lutando para manter seu padrão de vida.",
-   "Esses movimentos popularizam a ideia de que depender uniquement de um salário não é suficiente para garantir a segurança financeira."
-  ],
-  "materia": "Vídeos Imagens mostram aparato policial após tiroteio mortal no centro de Cracóvia Vídeos Milhares voltam a sair às ruas de Paris para manifestar contra o aumento do custo de vida Vídeos Farioli e a chegada de Paulo Fonseca ao Sporting: «É um treinador que aprecio e respeito» Vídeos «Perdemos 3 biliões de dólares»: Trump culpa democratas por queda dos mercados Vídeos Marco Silva: «Circati não se mete em caminhos apertados» Vídeos Marco Silva 'defende' Trubin: «Tomou a decisão acertada» Vídeos Marco Silva e a renovação de Prestianni: «Os adeptos têm de estar descansados» Vídeos Marco Silva contrataria Paulo Fonseca... jogador? «De certeza que não!»",
-  "numeros": [],
-  "fonte": "Record",
-  "categoria": "Custo de vida",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos",
-   "Aposentados"
-  ],
-  "dor": "aumento de preços está pressionando o orçamento mensal",
-  "angulo": "Entender o cenário do custo de vida pode levar você a considerar novas fontes de renda, como o mercado financeiro.",
-  "gancho": "*Custo de vida* provoca ondas de protesto em Paris",
-  "ideias": [
-   "Por que o custo de vida afeta seus investimentos?",
-   "As consequências do aumento de preços para o seu bolso.",
-   "Como os brasileiros reagem ao custo de vida em alta?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T16:47:17-03:00",
-  "url": "https://www.record.pt/multimedia/videos/detalhe/milhares-voltam-a-sair-as-ruas-de-paris-para-manifestar-contra-o-aumento-do-custo-de-vida?ref=Capas_Ultimas",
-  "publicadoEm": "2026-11-07T16:12:42-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-07"
- },
- {
-  "segmento": "trader",
-  "titulo": "Mudança na escala de trabalho dos aeroviários gera controvérsia",
-  "resumo": "A proposta de escala 5x2 das empresas aéreas não agradou aos aeroviários, que temem a perda de direitos. Negociações seguem em andamento enquanto a nova lei se aproxima.",
-  "fatos": [
-   "Empresas aéreas propuseram escala 5x2, que permite semanas de até seis dias de trabalho.",
-   "Sindicato Nacional dos Aeroviários (SNA) critica proposta, ressaltando a necessidade de duas folgas por semana.",
-   "A nova jornada entra em vigor em 16 de dezembro de 2026, sem redução de salário.",
-   "A Abesata estima aumento de 23,9% nos custos operacionais com o novo regime.",
-   "Um impactos anuais de R$ 1,2 bilhão para empresas, considerando 45 mil trabalhadores."
-  ],
-  "explicacao": [
-   "A proposta das empresas busca flexibilizar horários, mas é vista como uma ameaça aos direitos adquiridos dos trabalhadores.",
-   "A nova lei, que extinguiu a escala 6x1, exige que as empresas adaptem suas práticas aos novos parâmetros.",
-   "Para os trabalhadores, a luta por uma jornada justa se intensifica, com o SNA lutando para garantir o 5x2.",
-   "As negociações ainda estão em andamento, com a próxima reunião marcada para 12 de novembro.",
-   "A urgência das mudanças é alta, especialmente com a alta temporada se aproximando."
-  ],
-  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. A primeira proposta enviada pelas empresas do setor aÃ©reo para o acordo coletivo que definirÃ¡ como serÃ£o os expedientes dos aeroviÃ¡rios (pessoal de solo, como mecÃ¢nicos de aeronaves e atendentes de call center) sob a escala 5x2 nÃ£o agradou aos representantes da categoria. O principal ponto de discordÃ¢ncia entre os dois sindicatos estÃ¡ relacionado Ã s folgas previstas na emenda constitucional que alterou as regras de jornada dos trabalhadores brasileiros e instituiu o fim da escala 6x1. De acordo com o SNA, o sindicato patronal propÃ´s permitir semanas com atÃ© seis dias seguidos de trabalho (como na escala 6x1 ), desde que a mÃ©dia do mÃªs seja de duas folgas por semana. Na prÃ¡tica, em algumas semanas, o trabalhador poderia ter apenas um dia de repouso, e a outra folga seria compensada em outra semana do mÃªs. \"Todos os sindicatos estÃ£o dispostos a negociar, mas mantendo alguns parÃ¢metros mÃ­nimos. A 5x2 nÃ£o tem negociaÃ§Ã£o. Foi uma luta dos trabalhadores; abrir mÃ£o de cumprir a escala 5x2 nÃ£o faz sentido\", diz Ãlvaro QuintÃ£o, advogado do SNA (Sindicato Nacional dos AeroviÃ¡rios), Ã reportagem. A Azul , a Gol e a Abear (AssociaÃ§Ã£o Brasileira das Empresas AÃ©reas) disseram que nÃ£o vÃ£o comentar o tema. A Latam afirmou que se manifestaria por meio do SNEA (Sindicato Nacional das Empresas AeroviÃ¡rias). O SNEA disse em nota Ã Folha que \"mantÃ©m negociaÃ§Ã£o com os doze sindicatos que representam os trabalhadores do setor aÃ©reo desde o inÃ­cio de outubro\". \"As negociaÃ§Ãµes consideram tambÃ©m a nova lei que estabeleceu a escala de trabalho em regime 5x2 e propostas para minimizar os impactos sobre a conectividade aÃ©rea do paÃ­s e a oferta de voos para a populaÃ§Ã£o, principalmente durante a alta temporada e as fÃ©rias escolares. Novas reuniÃµes estÃ£o previstas para os prÃ³ximos dias em busca de um consenso\", afirmou a entidade. QuintÃ£o afirma que ainda hÃ¡ negociaÃ§Ã£o pela frente neste mÃªs. A prÃ³xima reuniÃ£o estÃ¡ marcada para o dia 12 de novembro. A data-base do acordo Ã© 1Âº de dezembro. Na Ãºltima negociaÃ§Ã£o, de 2025, um impasse entre os sindicatos resultou em um dissÃ­dio coletivo no TST (Tribunal Superior do Trabalho), e o acordo foi homologado pelo tribunal somente em fevereiro deste ano. A convenÃ§Ã£o determinou que a duraÃ§Ã£o mÃ¡xima do trabalho do aeroviÃ¡rio deveria ser de 42 horas semanais. Pelo acordo, as empresas deveriam se esforÃ§ar para que os aeroviÃ¡rios em regime de escala de revezamento trabalhem em um modelo 5x1. Na escala 5x1, os aeroviÃ¡rios trabalham cinco dias consecutivos e folgam um, o que reduz o tempo contÃ­nuo de trabalho em comparaÃ§Ã£o ao modelo mais comum atÃ© entÃ£o (a escala 6x1). O desafio agora Ã© conseguir as duas folgas na semana, segundo QuintÃ£o. O advogado afirma que a proposta inicial das empresas discutida na atual campanha salarial inclui trocar o limite de seis horas diÃ¡rias por 36 horas semanais, com dias de atÃ© 8 horas e sem hora extra a partir da sexta hora de trabalho. Dessa forma, o tempo do trabalhador no aeroporto pode passar de nove horas, jÃ¡ que o expediente somaria-se Ã hora de intervalo, de acordo com a entidade. Segundo o SNA, as empresas tambÃ©m propÃµem permitir alteraÃ§Ã£o na escala por necessidade operacional, sem antecedÃªncia mÃ­nima de aviso, com cumprimento obrigatÃ³rio e sem pagamento adicional. Isso ocorreria, por exemplo, se algum funcionÃ¡rio faltasse. Hoje, a escala Ã© comunicada com cinco dias de antecedÃªncia e, se a empr",
-  "numeros": [
-   {
-    "valor": "23,9%",
-    "rotulo": "aumento nos custos das empresas"
-   },
-   {
-    "valor": "R$ 1,2 bilhão",
-    "rotulo": "impacto anual estimado"
-   },
-   {
-    "valor": "45 mil",
-    "rotulo": "número de trabalhadores afetados"
-   }
-  ],
-  "fonte": "Folha Mercado",
-  "categoria": "Trabalho",
-  "publico": [
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos"
-  ],
-  "dor": "Apostar em um modelo de trabalho instável",
-  "angulo": "Entender o mercado financeiro pode ser uma estratégia para enfrentar instabilidades como essa na carreira e na renda.",
-  "gancho": "Aquilo que você *não* sabe pode te afetar!",
-  "ideias": [
-   "Como a nova jornada afeta o seu bolso?",
-   "Trabalhadores em luta: a importância da escala 5x2",
-   "Negociações em aberto: o que muda para os aeroviários?"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T16:47:17-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/proposta-do-setor-aereo-com-possibilidade-de-semana-de-6-dias-desagrada-aos-aeroviarios.shtml",
-  "publicadoEm": "2026-11-07T12:00:00-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-06"
- },
- {
-  "segmento": "trader",
-  "titulo": "Fim da escala 6x1: impactos para o seu bolso",
-  "resumo": "A proposta de emenda à Constituição visa acabar com a jornada 6x1, promovendo a escala 5x2. Isso pode gerar mudanças significativas no cotidiano de trabalhadores e empresários.",
-  "fatos": [
-   "A PEC que propõe o fim da escala 6x1 foi debatida por mais de 6,7 anos.",
-   "Com a aprovação, a jornada de trabalho será reduzida de 44 para 42 horas semanais em até 60 dias após a promulgação.",
-   "Após um ano, a carga horária será reduzida para 40 horas semanais, sempre mantendo dois dias de folga.",
-   "Não haverá redução salarial com a nova jornada.",
-   "O contrato de trabalho deve ser respeitado, garantindo que as funções do trabalhador não ultrapassem os limites legais."
-  ],
-  "explicacao": [
-   "A PEC surge em um contexto de atualização das leis trabalhistas, visando melhorar a qualidade de vida dos trabalhadores.",
-   "Os trabalhadores terão mais tempo para lazer e família, crucial para a saúde mental.",
-   "Empresas poderão adaptar suas rotinas com o auxílio da tecnologia, melhorando a eficiência.",
-   "No entanto, serão necessários cuidados com a relação entre patrões e empregados, para evitar conflitos.",
-   "A mediação e o acompanhamento jurídico serão essenciais para uma transição tranquila."
-  ],
-  "materia": "📲 Siga o A10+ no Instagram , Facebook e Twitter . O convidado do A10Cast deste sábado (7) é o advogado trabalhista Dr. Carlos Júnior, que explica a proposta de emenda à Constituição (PEC) que prevê o fim da jornada de trabalho 6x1 , modelo que garante apenas um dia de folga semanal aos trabalhadores. Durante a entrevista, o advogado explica como funcionarão as mudanças, os impactos para empregados e empregadores, as possíveis consequências econômicas e a aplicação das novas regras. Carlos Júnior esclarece o significado do termo PEC e afirma que uma emenda constitucional funciona como uma atualização da Constituição Federal, que serve de base para as demais leis do país, incluindo as estaduais e municipais. Ele também explica que, quando aprovada, a emenda passa a integrar o texto da Constituição Federal. O advogado reforça que a discussão sobre a redução da jornada de trabalho não é recente e ganhou força por volta de 2020, durante a pandemia. “Já tem mais de 6,7 anos que há uma discussão sobre a aprovação dessa PEC. Faz tempo que o tema é debatido. Houve amplas discussões, audiências públicas e conversas com associações, representantes dos trabalhadores e sindicatos. Todos participaram. Até porque, quando a gente fala de uma emenda, quando você vai incorporar uma lei ao texto constitucional, tem que ter muita responsabilidade, porque é um texto que vai reger todas as leis do Brasil”, aponta Dr. Carlos. O advogado Dr. Carlos Júnior explica as mudanças previstas com a aprovação da proposta, que prevê a redução da jornada de trabalho e a adoção da escala 5x2. De acordo com Carlos Júnior, a implementação ocorrerá em etapas. A primeira está prevista para começar 60 dias após a promulgação, com a redução da carga horária de 44 para 42 horas semanais, mantendo os dois dias de folga. Após um ano, a jornada será reduzida de 42 para 40 horas semanais, também com dois dias de descanso. Segundo a proposta apresentada na entrevista, ambas as medidas devem ser aplicadas sem redução salarial. “Inicialmente, serão 42 horas, cinco dias por semana. Inclusive, vai passar um pouco das oito horas diárias. E, daqui a um ano, daqui a 12 meses, será aplicada a sua integralidade: serão 40 horas semanais, normalmente, cinco dias por semana e dois dias de folga. E ali é o limite. Não quer dizer que você não possa trabalhar mais. Você pode trabalhar mais, evidentemente, se tiver suas horas extras garantidas”, afirma. O advogado também relembra que os dias de descanso não precisam necessariamente ocorrer aos finais de semana e podem ser distribuídos durante a semana, mediante acordo com o empregador. Carlos Júnior reforça a importância do contrato na relação entre trabalhador e empregador, que deve estabelecer as condições de funcionamento da medida, além de respeitar os limites das funções exercidas pelo trabalhador. “Se o que a pessoa for realizar, a função que for realizar, for uma atividade lícita, também pode ser colocado. O que não pode é ultrapassar o limite que foi estabelecido no texto constitucional. Isso é importante”, destaca o advogado. “As pessoas precisam estar com seus filhos no final de semana. As pessoas precisam estar com sua família, desfrutando ali de um momento de lazer, de descanso. E, quando o trabalhador chega em casa, sai do trabalho meio-dia, no sábado, pega uma condução e chega em casa às cinco da tarde, em São Paulo, por exemplo, a pessoa chega muito cansada”, ressalta Carlos Júnior ao falar sobre a importância de garantir o cuidado com a saúde dos trabalhadores. O advogado também fala sobre os possíveis impactos econômicos que a redução da jornada de trabalho pode trazer para o setor empresarial. Apesar dos desafios, ele acredita que a tecnologia pode auxiliar as empresas na adaptação às novas regras. Para ele, as inovações tecnológicas permitem uma comunicação mais rápida entre empregadores e funcionários, além de facilitar o relacionamento dos trabalhadores com os clientes, inclusive em atividades de venda de produtos. “An",
-  "numeros": [
-   {
-    "valor": "6,7 anos",
-    "rotulo": "tempo de discussão da PEC"
-   },
-   {
-    "valor": "44 para 40",
-    "rotulo": "horas semanais de carga horária após mudanças"
-   }
-  ],
-  "fonte": "A10+",
-  "categoria": "Trabalho",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos"
-  ],
-  "dor": "medo da carga excessiva de trabalho ou instabilidade no emprego",
-  "angulo": "Com as mudanças na jornada de trabalho, aprender sobre o mercado financeiro pode ser a chave para gerar renda extra e garantir sua segurança financeira sem amarras.",
-  "gancho": "Descubra como *suas horas podem valer mais*!",
-  "ideias": [
-   "Impactos da PEC na sua vida profissional",
-   "A nova jornada de trabalho e seus benefícios",
-   "Como a tecnologia pode facilitar sua adaptação ao novo modelo"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T16:47:17-03:00",
-  "url": "https://a10mais.com/blogs/a10cast/no-a10cast-advogado-fala-sobre-o-fim-da-escala-6x1-e-os-impactos-para-trabalhadores-e-empresas-assista-47450.html",
-  "publicadoEm": "2026-11-07T14:03:02-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-05"
- },
- {
-  "segmento": "trader",
-  "titulo": "Escala 6x1: mudanças no trabalho",
-  "resumo": "Um decreto sobre a escala 6x1 está previsto para ser divulgado no dia 9. Essa alteração impacta diretamente trabalhadores e empresários, gerando incertezas e novas adaptações no mercado.",
-  "fatos": [
-   "Um novo decreto sobre a escala 6x1 poderá ser publicado em breve.",
-   "As mudanças propostas do decreto afetarão diretamente tanto empregados quanto empregadores.",
-   "O anúncio está previsto para ocorrer no dia 9."
-  ],
-  "explicacao": [
-   "Aproximando-se da data prevista para o decreto, muitos trabalhadores começam a se preocupar com as mudanças nas escalas de trabalho.",
-   "Empresários precisam rever seus planos para atender às novas diretrizes que poderão ser anunciadas.",
-   "Essas incertezas geram um clima de instabilidade que pode impactar a produtividade e a renda das famílias."
-  ],
-  "materia": "",
-  "numeros": [],
-  "fonte": "Jornal O Fluminense",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Empresários",
-   "Autônomos"
-  ],
-  "dor": "temor de como o trabalho vai mudar",
-  "angulo": "Com as mudanças nas escalas de trabalho, a dependência de um salário fixo se torna arriscada. Aprender a operar no mercado financeiro pode oferecer novas oportunidades de renda.",
-  "gancho": "Mudanças na *escala 6x1* chegam em breve",
-  "ideias": [
-   "O que muda com a nova escala?",
-   "Como a *escala 6x1* impacta seu bolso?",
-   "A nova rotina de trabalho e suas implicações"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "calendario",
-  "potencial": 3,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T12:57:06-03:00",
-  "url": "https://ofluminense.com.br/fim-escala-6x1-decreto-previsto-9-novembro/",
-  "publicadoEm": "2026-11-07T11:03:00-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-04"
- },
- {
-  "segmento": "trader",
-  "titulo": "A nova jornada de trabalho no setor aéreo",
-  "resumo": "A proposta de jornada de trabalho de até seis dias seguidos desagrada aeroviários. A categoria luta para preservar a escala 5x2, garantindo folgas adequadas para os trabalhadores.",
-  "fatos": [
-   "O sindicato patronal propôs semanas de até seis dias de trabalho com duas folgas mensais.",
-   "A negociação final deve ocorrer até 1º de dezembro, quando a nova jornada entra em vigor.",
-   "A Abesata estima um aumento de 23,9% nos custos do setor com o fim da escala 6x1.",
-   "Esse aumento representa um impacto de R$ 1,2 bilhão anuais para as empresas aéreas.",
-   "A próxima reunião entre sindicatos e empresas será no dia 12 de novembro.",
-   "As empresas também querem alterar a escala de trabalho sem aviso prévio e sem remuneração extra."
-  ],
-  "explicacao": [
-   "As recentes alterações na legislação trabalhista visam diminuir a carga horária dos trabalhadores, mas geram controvérsias no setor aéreo.",
-   "Apesar da intenção de preservar direitos, os trabalhadores temem perder folgas essenciais com a nova proposta.",
-   "A negociação envolve não apenas a carga horária, mas também o modo como as escalas são definidas e comunicadas aos trabalhadores."
-  ],
-  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. A primeira proposta enviada pelas empresas do setor aÃ©reo para o acordo coletivo que definirÃ¡ como serÃ£o os expedientes dos aeroviÃ¡rios (pessoal de solo, como mecÃ¢nicos de aeronaves e atendentes de call center) sob a escala 5x2 nÃ£o agradou aos representantes da categoria. O principal ponto de discordÃ¢ncia entre os dois sindicatos estÃ¡ relacionado Ã s folgas previstas na emenda constitucional que alterou as regras de jornada dos trabalhadores brasileiros e instituiu o fim da escala 6x1. De acordo com o SNA, o sindicato patronal propÃ´s permitir semanas com atÃ© seis dias seguidos de trabalho (como na escala 6x1 ), desde que a mÃ©dia do mÃªs seja de duas folgas por semana. Na prÃ¡tica, em algumas semanas, o trabalhador poderia ter apenas um dia de repouso, e a outra folga seria compensada em outra semana do mÃªs. \"Todos os sindicatos estÃ£o dispostos a negociar, mas mantendo alguns parÃ¢metros mÃ­nimos. A 5x2 nÃ£o tem negociaÃ§Ã£o. Foi uma luta dos trabalhadores; abrir mÃ£o de cumprir a escala 5x2 nÃ£o faz sentido\", diz Ãlvaro QuintÃ£o, advogado do SNA (Sindicato Nacional dos AeroviÃ¡rios), Ã reportagem. A Azul , a Gol e a Abear (AssociaÃ§Ã£o Brasileira das Empresas AÃ©reas) disseram que nÃ£o vÃ£o comentar o tema. A Latam afirmou que se manifestaria por meio do SNEA (Sindicato Nacional das Empresas AeroviÃ¡rias). A Folha procurou o SNEA por email na terÃ§a-feira (3) e na quarta-feira (4), mas nÃ£o obteve resposta. QuintÃ£o afirma que ainda hÃ¡ negociaÃ§Ã£o pela frente neste mÃªs. A prÃ³xima reuniÃ£o estÃ¡ marcada para o dia 12 de novembro. A data-base do acordo Ã© 1Âº de dezembro. Na Ãºltima negociaÃ§Ã£o, de 2025, um impasse entre os sindicatos resultou em um dissÃ­dio coletivo no TST (Tribunal Superior do Trabalho), e o acordo foi homologado pelo tribunal somente em fevereiro deste ano. A convenÃ§Ã£o determinou que a duraÃ§Ã£o mÃ¡xima do trabalho do aeroviÃ¡rio deveria ser de 42 horas semanais. Pelo acordo, as empresas deveriam se esforÃ§ar para que os aeroviÃ¡rios em regime de escala de revezamento trabalhem em um modelo 5x1. Na escala 5x1, os aeroviÃ¡rios trabalham cinco dias consecutivos e folgam um, o que reduz o tempo contÃ­nuo de trabalho em comparaÃ§Ã£o ao modelo mais comum atÃ© entÃ£o (a escala 6x1). O desafio agora Ã© conseguir as duas folgas na semana, segundo QuintÃ£o. O advogado afirma que a proposta inicial das empresas discutida na atual campanha salarial inclui trocar o limite de seis horas diÃ¡rias por 36 horas semanais, com dias de atÃ© 8 horas e sem hora extra a partir da sexta hora de trabalho. Dessa forma, o tempo do trabalhador no aeroporto pode passar de nove horas, jÃ¡ que o expediente somaria-se Ã hora de intervalo, de acordo com a entidade. Segundo o SNA, as empresas tambÃ©m propÃµem permitir alteraÃ§Ã£o na escala por necessidade operacional, sem antecedÃªncia mÃ­nima de aviso, com cumprimento obrigatÃ³rio e sem pagamento adicional. Isso ocorreria, por exemplo, se algum funcionÃ¡rio faltasse. Hoje, a escala Ã© comunicada com cinco dias de antecedÃªncia e, se a empresa descumprir a regra, o empregado nÃ£o Ã© obrigado a seguir a escala alterada, diz o sindicato. A Abesata (AssociaÃ§Ã£o Brasileira das Empresas de ServiÃ§os Auxiliares ao Transporte AÃ©reo) divulgou nesta semana uma carta ao mercado em que estima um aumento de 23,9% nos custos das empresas do setor com o fim da escala 6x1. A entidade disse Ã Folha que a elevaÃ§Ã£o dos custos representaria um impacto anual de R$ 1,2 bilhÃ£o para ",
-  "numeros": [
-   {
-    "valor": "1,2 bilhões",
-    "rotulo": "impacto anual para empresas com nova jornada"
-   },
-   {
-    "valor": "23,9%",
-    "rotulo": "aumento de custos estimado pelo setor"
-   },
-   {
-    "valor": "42 horas",
-    "rotulo": "duração máxima de trabalho semanal permitida"
-   }
-  ],
-  "fonte": "Folha de S.Paulo",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "CLT",
-   "Autônomos",
-   "Profissionais liberais"
-  ],
-  "dor": "insegurança sobre o futuro dos direitos trabalhistas",
-  "angulo": "Em tempos de incerteza no mercado de trabalho, entender as novas regras do setor aéreo pode ajudar a se adaptar e buscar outras fontes de renda, como o mercado financeiro.",
-  "gancho": "*Nova jornada de trabalho* no setor aéreo gera polêmica",
-  "ideias": [
-   "Entenda suas novas possibilidades de trabalho",
-   "Como lidar com mudanças na legislação",
-   "Domine suas finanças em tempos de incerteza"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "funil",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T12:57:06-03:00",
-  "url": "https://www1.folha.uol.com.br/mercado/2026/11/proposta-do-setor-aereo-com-possibilidade-de-semana-de-6-dias-desagrada-aos-aeroviarios.shtml",
-  "publicadoEm": "2026-11-07T12:00:00-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-03"
- },
- {
-  "segmento": "trader",
-  "titulo": "Mudanças nos cartões de VR e VA impactam o seu bolso",
-  "resumo": "A partir deste sábado (7), cartões de vale-refeição e vale-alimentação de diferentes operadoras poderão ser usados nos mesmos estabelecimentos. Essa medida amplia as opções de consumo e está prevista em um decreto do governo.",
-  "fatos": [
-   "Desde 7 de novembro de 2026, novos cartões de VR e VA de diferentes operadoras deverão ser aceitos nas mesmas maquininhas.",
-   "O Ministério do Trabalho decidiu que a mudança não terá prorrogação, apesar de contestações do setor.",
-   "Empresas que descumprirem a regra podem enfrentar multas entre R$ 5.000 e R$ 50.000.",
-   "A expectativa é que a economia por trabalhador chegue a R$ 225 por ano.",
-   "Estabelecimentos que aceitam uma bandeira poderão receber também cartões de outras operadoras, aumentando opções principalmente em áreas menos centrais."
-  ],
-  "explicacao": [
-   "A mudança foi implementada para aumentar a competitividade no setor de alimentação, permitindo mais liberdade ao consumidor na escolha de onde gastar seus benefícios.",
-   "Com a nova regra, trabalhadores não estarão mais limitados a usar seus cartões apenas em restaurantes específicos.",
-   "Isso poderá aliviar a pressão financeira em áreas com menor oferta de estabelecimentos, oferecendo mais opções e melhor atendimento às necessidades locais."
-  ],
-  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. A partir deste sÃ¡bado (7), cartÃµes de vale-refeiÃ§Ã£o (VR) e vale-alimentaÃ§Ã£o (VA) de diferentes operadoras deverÃ£o ser aceitos nas mesmas maquininhas habilitadas para benefÃ­cios . A mudanÃ§a encerra a exclusividade entre empresas de benefÃ­cios e estabelecimentos comerciais. A implementaÃ§Ã£o Ã© contestada por empresas e entidades do setor, que afirmam que os sistemas ainda nÃ£o estÃ£o preparados para a integraÃ§Ã£o. O MinistÃ©rio do Trabalho e Emprego descarta prorrogar o prazo e afirma que a obrigaÃ§Ã£o deve ser cumprida. Nesta sexta-feira (6), por exemplo, a JustiÃ§a rejeitou os pedidos da Alelo para suspender as regras ou obter mais tempo para se adaptar. A empresa havia solicitado, entre outras medidas, um prazo adicional de 30 meses para abrir seu arranjo de pagamentos. A juÃ­za Marilaine Almeida Santos entendeu que o decreto estÃ¡ dentro da competÃªncia regulatÃ³ria do governo. A Alelo nÃ£o comentou a decisÃ£o. A interoperabilidade Ã© a Ãºltima etapa do cronograma de implementaÃ§Ã£o das novas regras do PAT (Programa de AlimentaÃ§Ã£o do Trabalhador) . Desde fevereiro, jÃ¡ estÃ£o em vigor limites para as taxas cobradas dos estabelecimentos, reduÃ§Ã£o do prazo de repasse dos pagamentos e proibiÃ§Ã£o de cobranÃ§as adicionais, como taxas de adesÃ£o e anuidade. O governo estima que o conjunto das mudanÃ§as possa gerar economia mÃ©dia de R$ 225 por trabalhador ao ano, segundo cÃ¡lculo do MinistÃ©rio da Fazenda divulgado em novembro de 2025. Receba no seu email o que de mais importante acontece na economia; aberta para nÃ£o assinantes. A ABBT (AssociaÃ§Ã£o Brasileira das Empresas de BenefÃ­cios ao Trabalhador) afirma que faltam definiÃ§Ãµes tÃ©cnicas e diÃ¡logo para viabilizar a mudanÃ§a . A Abipag (AssociaÃ§Ã£o Brasileira de InstituiÃ§Ãµes de Pagamentos) diz que os arranjos abertos, necessÃ¡rios para a interoperabilidade, ainda nÃ£o foram implementados por facilitadores de pagamento. A Abrasel (AssociaÃ§Ã£o Brasileira de Bares e Restaurantes) apoia a abertura do mercado, mas afirma que os sistemas nÃ£o estÃ£o integrados. JÃ¡ a FederaÃ§Ã£o de HotÃ©is, Restaurantes e Bares do Estado de SÃ£o Paulo (Fhoresp) critica a possibilidade de adiamento das regras. O MinistÃ©rio do Trabalho afirma que a ausÃªncia de uma regulamentaÃ§Ã£o complementar mais detalhada nÃ£o elimina a obrigaÃ§Ã£o de cumprir o decreto. A responsabilidade pela implementaÃ§Ã£o Ã© das empresas que participam dos sistemas de pagamento, e nÃ£o do governo. O descumprimento das regras pode resultar em multas de R$ 5.000 a R$ 50 mil, com possibilidade de dobrar em caso de reincidÃªncia ou obstruÃ§Ã£o Ã fiscalizaÃ§Ã£o. As empresas tambÃ©m podem perder o registro no PAT e os incentivos fiscais associados ao programa. Ã a possibilidade de cartÃµes de diferentes empresas funcionarem nas mesmas redes de pagamento. Hoje, algumas operadoras trabalham com redes prÃ³prias de estabelecimentos credenciados, o que limita os locais em que cada cartÃ£o pode ser utilizado. Com a mudanÃ§a, um restaurante que aceita determinada bandeira poderÃ¡ receber tambÃ©m cartÃµes de outras operadoras, desde que sua maquininha esteja habilitada para benefÃ­cios de alimentaÃ§Ã£o. A principal mudanÃ§a Ã© a ampliaÃ§Ã£o dos locais em que serÃ¡ possÃ­vel usar o benefÃ­cio. Um trabalhador que recebe VR de uma operadora, por exemplo, poderÃ¡ pagar a refeiÃ§Ã£o em um restaurante credenciado por outra empresa. A expectativa Ã© ampliar as opÃ§Ãµes principalmente em bairros afastados dos grandes ce",
-  "numeros": [
-   {
-    "valor": "R$ 225",
-    "rotulo": "economia estimada por trabalhador"
-   },
-   {
-    "valor": "R$ 5.000 a R$ 50.000",
-    "rotulo": "multas por descumprimento das regras"
-   }
-  ],
-  "fonte": "Folha Mercado",
-  "categoria": "Custo de vida",
-  "publico": [
-   "Autônomos",
-   "Profissionais liberais",
-   "CLT",
-   "Aposentados",
-   "Empresários"
-  ],
-  "dor": "perda de opções e aumento de custos com alimentação",
-  "angulo": "Conhecer as novas regras do mercado financeiro pode proporcionar alternativas de renda e diminuir a dependência de salários fixos.",
-  "gancho": "Descubra como *mudar suas opções* de consumo pode ajudar",
-  "ideias": [
-   "Cartões VR/VA: O que mudou?",
-   "Como a nova regra afeta suas compras diárias?",
-   "Explore mais lugares com seus cartões!"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels"
-  ],
-  "cena": "loja",
-  "potencial": 4,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T12:57:06-03:00",
-  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/cartoes-de-vr-e-va-devem-ser-aceitos-em-mais-restaurantes-a-partir-deste-sabado-7-entenda.shtml",
-  "publicadoEm": "2026-11-07T04:00:00-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-02"
- },
- {
-  "segmento": "trader",
-  "titulo": "Indústria questiona fim da escala 6x1 no STF",
-  "resumo": "A CNI entrou com ação no STF contra o fim da escala 6x1 e busca limitar a atuação da Justiça do Trabalho. Mudanças impactam diretamente a rotina de trabalhadores e empresas.",
-  "fatos": [
-   "A CNI solicita ao STF que limite a competência da Justiça do Trabalho sobre a nova escala 5x2.",
-   "A partir de 16 de dezembro, a jornada de trabalho será reduzida de 44 para 42 horas semanais.",
-   "Entidades do comércio pedem adiamento da nova escala para dezembro de 2027.",
-   "O ministro Flávio Dino marcou audiência de conciliação para o dia 10.",
-   "A CNI argumenta que decisões trabalhistas geram insegurança jurídica e desorganização da economia."
-  ],
-  "explicacao": [
-   "A mudança na carga horária tem como objetivo oferecer descanso adequado aos trabalhadores, mas a CNI alega que isso pode afetar a estrutura das empresas.",
-   "Com a nova norma, haverá a necessidade de adaptação rápida por parte dos negócios, que precisarão reorganizar suas operações.",
-   "A ação no STF reflete a resistência da indústria frente a mudanças que consideram prejudiciais e inseguras para a economia."
-  ],
-  "materia": "S ÃO PAULO, SP (FOLHAPRESS) - A CNI (Confederação Nacional da Indústria) entrou com uma nova ação no STF (Superior Tribunal Federal) contra o fim da escala 6x1. Desta vez, a confederação pede ao Supremo que limite a competência da Justiça do Trabalho e do MPT (Ministério Público do Trabalho) nos processos e fiscalizações que envolvam a implantação da nova escala 5x2 e da jornada reduzida de trabalho. A partir de 16 de dezembro, empresas de todo o país deverão reduzir a carga horária de 44 horas semanais para 42 horas e implantar a escala 5x2, com dois dias de descanso semanal remunerado. A indústria e o comércio (CNC) foram ao STF cada uma com ADIs (Ações Diretas de Inconstitucionalidade) questionando o fim da escala 6x1. Entidades do comércio pediram adiamento para dezembro de 2027, mas as companhias industriais querem derrubar a emenda constitucional. Desta vez, além da ADI, a CNI entrou com uma ADPF (Arguição de Descumprimento de Preceito Fundamental). A entidade argumenta que o Judiciário trabalhista e o MPT têm invadido indevidamente a competência federal ao julgar temas regulatórios, ambientais, sanitários e administrativos no mundo do trabalho. O setor diz ainda que decisões de tribunais trabalhistas têm gerado insegurança jurídica, desorganizando a economia, o que violaria cláusulas pétreas do juiz natural e da separação de poderes. Para impedir que seja alvo de sanções caso mantenha a escala 6x1, pede uma liminar ao Supremo. A CNC também fez pedido de liminar para adiar a implantação da escala 5x2, o que foi negado pelo ministro Flávio Dino, sorteado relator da ação. Ele marcou para terça-feira (10), audiência de conciliação entre empresários do comércio, centrais sindicais e a AGU (Advocacia-Geral da União), que representa o governo federal em ações na Justiça. Para Dino, derrubar normas de uma emenda constitucional ou mesmo uma emenda aprovada pelo parlamento requer provas robustas de inconstitucionalidade, o que não é o caso. Segundo ele, é preciso chegar a um consenso para que a redução da jornada seja feita. Na ação, a CNI diz que \"a proteção ao meio ambiente laboral não pode ser utilizada como fundamento para ampliar indistintamente a competência da Justiça do Trabalho sobre matérias de regulação federal\". \"É necessário respeitar a distribuição constitucional de atribuições entre os diferentes ramos do Ministério Público, do Judiciário e da administração pública\", segundo o diretor Jurídico da confederação, Alexandre Vitorino. \"A Constituição estabeleceu competências específicas para a Justiça Federal, a Justiça do Trabalho e os diferentes ramos do Ministério Público. A preservação desses limites é fundamental para garantir o juiz natural, a segurança jurídica e o respeito às atribuições dos órgãos responsáveis pela regulação federal\", diz. A ADPF questiona o artigo 643 da CLT (Consolidação das Leis do Trabalho), que é anterior à Constituição de 1988, para impedir que sua interpretação seja utilizada como fundamento para atribuir à Justiça do Trabalho competência sobre a validade de atos e normas da administração pública. O órgão se movimenta antes mesmo que o governo federal, por meio do Ministério do Trabalho e Emprego, publique normativa a respeito da implantação da escala 5x2 e da redução da jornada para setores considerados especiais. Leia Também: Lula diz que energia elétrica 'do povo' não poderá ser usada para data center STF derruba idade mínima na aposentadoria especial; entenda a decisão Bancos Pix fora do ar? Instabilidade afeta instituições financeiras Indústria entra com ação no STF contra fim da escala 6x1, e quer limitar Justiça do Trabalho Pix caiu? Usuários relatam dificuldades para realizar transferências Renner retira projeções de crescimento de receita até 2030 citando desafios no varejo Lula diz que energia elétrica 'do povo' não poderá ser usada para data center Dólar vai a R$ 5,511, maior valor do ano, após dados de emprego nos EUA, enquanto Bolsa avança Exportações brasileiras para os EUA",
-  "numeros": [],
-  "fonte": "Notícias ao Minuto Brasil",
-  "categoria": "Emprego e renda",
-  "publico": [
-   "Empresários",
-   "CLT",
-   "Profissionais liberais",
-   "Autônomos"
-  ],
-  "dor": "Aumento da carga de trabalho e insegurança jurídica.",
-  "angulo": "Com as mudanças nas escalas, o aprendizado sobre o mercado financeiro pode oferecer alternativas de renda sem depender apenas de salários fixos.",
-  "gancho": "*Mudanças no trabalho* afetam sua renda?",
-  "ideias": [
-   "Entenda as mudanças nas escalas de trabalho",
-   "Como a nova lei impacta a sua renda?",
-   "Alternativas à dependência do salário fixo"
-  ],
-  "formatos": [
-   "Carrossel",
-   "Reels",
-   "Stories"
-  ],
-  "cena": "calendario",
-  "potencial": 5,
-  "status": "nova",
-  "coletadoEm": "2026-11-07T12:57:06-03:00",
-  "url": "https://www.noticiasaominuto.com.br/economia/2427225/industria-entra-com-acao-no-stf-contra-fim-da-escala-6x1-e-quer-limitar-justica-do-trabalho",
-  "publicadoEm": "2026-11-07T09:36:00-03:00",
-  "data": "2026-11-07",
-  "id": "2026-11-07-trader-01"
  }
 ]
