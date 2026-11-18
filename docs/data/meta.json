@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-18T15:27:45-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-18T19:48:38-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Tributação de investimentos isentos pode voltar; Fim da escala 6x1 afeta o comércio em MT; Reforma tributária pode aliviar impostos em 2027.",
+  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1 e seu impacto no bolso; Fim da escala 6x1 gera mudanças urgentes no RH; Mudança na escala de trabalho pode impactar seu bolso.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-18T19:48:38-03:00",
    "2026-11-18T15:27:45-03:00",
    "2026-11-18T00:11:57-03:00",
    "2026-11-17T20:16:24-03:00",
@@ -18,21 +19,19 @@
    "2026-11-16T08:34:34-03:00",
    "2026-11-15T22:27:32-03:00",
    "2026-11-15T17:42:02-03:00",
-   "2026-11-15T13:40:23-03:00",
-   "2026-11-14T22:24:09-03:00"
+   "2026-11-15T13:40:23-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-18T15:27:45-03:00",
+  "ultimaColeta": "2026-11-18T19:48:38-03:00",
   "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Nova taxação das big techs pode impactar negócios; Mudanças no consumo: 11.11 e Black Friday se complementam; Tecnologia no varejo: resultados financeiros em foco.",
-  "falhas": [
-   "Consumidor Moderno (RuntimeError)"
-  ],
+  "mensagem": "6 pauta(s) nova(s): Fraudes contábeis podem afetar muito seus negócios; Como o varejo perde oportunidades na Black Friday; Impactos da Dívida no Varejo: O Consumidor Paulistano em Apuros.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-18T19:48:38-03:00",
    "2026-11-18T15:27:45-03:00",
    "2026-11-18T00:11:57-03:00",
    "2026-11-17T20:16:24-03:00",
@@ -43,8 +42,7 @@
    "2026-11-16T08:34:34-03:00",
    "2026-11-15T22:27:32-03:00",
    "2026-11-15T17:42:02-03:00",
-   "2026-11-15T13:40:23-03:00",
-   "2026-11-14T22:24:09-03:00"
+   "2026-11-15T13:40:23-03:00"
   ]
  }
 }
