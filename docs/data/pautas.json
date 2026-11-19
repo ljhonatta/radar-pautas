@@ -1,6 +1,353 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Novo app da Meta transforma como compramos e vendemos online",
+  "resumo": "A Meta lançou Achados, um app que centraliza compras e vendas de produtos novos e usados, potencializando oportunidades no mercado. Entenda essa mudança.",
+  "fatos": [
+   "O aplicativo Achados foi lançado em 17/11/2026 pela Meta no Brasil.",
+   "Ele reúne anúncios do Facebook Marketplace, grupos do Facebook e ofertas do Instagram.",
+   "O usuário pode buscar produtos por categoria, preço e distância.",
+   "Vendedores recebem sugestões de IA para criar anúncios eficazes.",
+   "Os compradores podem consultar avaliações de vendedores antes de negociar."
+  ],
+  "explicacao": [
+   "O Achados simplifica a experiência de compra e venda, reunindo diferentes plataformas em um só lugar.",
+   "Com informações e recomendações, ele facilita para os vendedores a criação de anúncios.",
+   "A utilização da IA garante que os anúncios sejam mais atraentes e informativos.",
+   "Os usuários têm mais segurança com as ferramentas que identificam e removem golpes.",
+   "Isso representa uma nova dinâmica no e-commerce, exigindo adaptação dos empresários."
+  ],
+  "materia": "18/11/2026 18h30 • Atualizado 5 horas atrás A Meta lançou nesta terça-feira (17) o Achados, aplicativo de compra e venda de produtos novos e usados no Brasil. A novidade reúne em um só ambiente os anúncios do Facebook Marketplace e dos grupos do Facebook, além de ofertas do Instagram. De roupas e acessórios a móveis para a casa, o usuário encontra produtos sem precisar pesquisar separadamente em cada rede social. Além dos filtros de busca por categoria, preço e distância, o aplicativo conta com recursos para encontrar boas ofertas: Informações, análises e recomendações que valem dinheiro O comprador entra em contato com o anunciante pelo próprio aplicativo ou pelo WhatsApp. As duas partes negociam o preço e acertam diretamente as condições de pagamento e retirada do produto. Já quem tem algum item para vender conta com recursos de inteligência artificial (IA) na elaboração do anúncio. A ferramenta sugere informações como título, descrição, categoria, preço e estado de conservação do produto. Após revisar as sugestões e fazer os ajustes necessários, o vendedor publica a oferta, que aparece automaticamente no Achados e no Facebook Marketplace. Antes de iniciar uma negociação, o comprador consegue consultar as avaliações do vendedor e seu histórico de atividade comercial no Marketplace. Também tem acesso às informações públicas dos perfis do anunciante nas redes sociais. Segundo a Meta, o aplicativo utiliza ferramentas automáticas para identificar e remover golpes. Os usuários também têm a opção de denunciar vendedores ou anúncios suspeitos. Veja como baixar e quais são os requisitos de acesso:",
+  "numeros": [
+   {
+    "valor": "1",
+    "rotulo": "novo aplicativo lançado"
+   }
+  ],
+  "fonte": "InfoMoney",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "o que você perde se não acompanhar as inovações",
+  "angulo": "A chegada do Achados requer que os empresários revisitem suas estratégias de vendas online, podendo perder espaço no mercado se não se adaptarem.",
+  "gancho": "Descubra a *nova forma de comprar e vender*",
+  "ideias": [
+   "Como o Achados pode impulsionar suas vendas?",
+   "Vendedores, estão prontos para o novo app da Meta?",
+   "Confira como se destacar no Achados!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://www.infomoney.com.br/consumo/meta-achados-app-produtos-novos-e-usados/",
+  "publicadoEm": "2026-11-18T18:30:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-vpr-23"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Novo backup do WhatsApp: fique atento às mudanças",
+  "resumo": "O WhatsApp testa um backup em nuvem gratuito de 2 GB, disponível para alguns usuários. Planos pagos prometem maior capacidade. Saiba como isso impacta seus dados e o uso do app.",
+  "fatos": [
+   "O WhatsApp iniciou testes de um backup nativo com 2 GB gratuitos para alguns usuários do Android.",
+   "Usuários poderão optar por planos pagos para mais capacidade, como o WhatsApp Plus com 100 GB.",
+   "O serviço ainda não é oficial e não há previsão para lançamento completo.",
+   "A criptografia de ponta a ponta será obrigatória para o novo serviço.",
+   "Atualmente, os backups são feitos via Google Drive no Android e iCloud no iOS."
+  ],
+  "explicacao": [
+   "O novo recurso de backup visa facilitar a recuperação de conversas e arquivos para os usuários do WhatsApp.",
+   "Com o backup nativo, os usuários têm mais controle sobre seus dados e podem optar por um armazenamento separado do Google Drive.",
+   "A introdução de planos pagos demonstra a tendência de monetização de serviços populares, afetando a maneira como usuários e empresas lidam com armazenamento de dados."
+  ],
+  "materia": "WhatsApp começa a testar backup nas nuvens com 2 GB grátis (imagem: Vitor Pádua/Tecnoblog) Resumo IA O WhatsApp iniciou os testes do backup nativo de mensagens com 2 GB gratuitos para alguns usuários do Android. O novo serviço de backup do WhatsApp permite que os usuários tenham uma cópia de suas mensagens e arquivos, facilitando a recuperação de conteúdo em caso de troca de celular ou reinstalação do aplicativo. Os usuários que precisarem de mais capacidade de armazenamento poderão optar por planos pagos, como o WhatsApp Plus com 100 GB ou o Meta One com até 4 TB. Gerado com IA e revisado pela redação Talvez você se lembre de que, em julho, surgiram indícios de que o WhatsApp teria um serviço próprio de backup nas nuvens , com armazenamento gratuito de 2 GB e planos pagos que oferecem mais capacidade. Esse serviço ainda não é oficial, mas começou a ser liberado para alguns usuários. A novidade serve para que você possa ter uma cópia de mensagens e arquivos trocados por meio do serviço. Com isso, você poderá recuperar esse conteúdo caso troque de celular ou tenha reinstalado o aplicativo, por exemplo. Hoje, a única plataforma de backup oficial do WhatsApp no Android é o Google Drive. No iOS, o usuário deve recorrer ao iCloud. Ambos os serviços oferecem capacidades de armazenamento gratuitas (15 GB e 5 GB, respectivamente), mas, dependendo do tamanho do backup, esses espaços podem não ser suficientes ou restringir o armazenamento de outros arquivos. Como funciona o backup nativo do WhatsApp? De acordo com o WABetaInfo , o recurso foi encontrado na versão beta do WhatsApp 2.26.46.4 para Android, mas está sendo liberado somente para alguns usuários neste momento. Ainda não há novidades para o ecossistema da Apple. Os contemplados se deparam com uma tela que permite escolher entre o armazenamento gratuito no WhatsApp (com 2 GB de espaço, relembrando) ou continuar com o Google Drive. É possível alternar entre essas opções a qualquer momento, mas não usar ambas ao mesmo tempo. Backup nativo no WhatsApp para Android (imagem: reprodução/WABetaInfo) Caso opte pelo backup nativo do WhatsApp, o usuário terá que manter a criptografia de ponta a ponta ativada, pois essa proteção é obrigatória no novo serviço. Por conta disso, os dados armazenados são protegidos por uma passkey (chave de acesso) ou por uma chave criptográfica de 64 dígitos. Com efeito, nem o WhatsApp nem a Meta poderão acessar os arquivos armazenados ali. Quem precisar de mais espaço poderá assinar um plano do WhatsApp Plus, que oferece 100 GB de capacidade. O preço dessa opção ainda não foi revelado, porém. Segundo o WABetaInfo , alguns usuários que precisarem de ainda mais espaço poderão recorrer a uma assinatura do Meta One, com planos de até 4 TB. Quando o backup do WhatsApp será lançado para todos os usuários? A Meta ainda não deu uma previsão de lançamento oficial para o serviço de backup nativo do WhatsApp. Mas, se fosse para apostar, eu jogaria as minhas fichas em algo para o primeiro semestre de 2027. WhatsApp começa a testar backup nas nuvens com 2 GB grátis",
+  "numeros": [
+   {
+    "valor": "2 GB",
+    "rotulo": "armazenamento gratuito do backup"
+   },
+   {
+    "valor": "100 GB",
+    "rotulo": "armazenamento do WhatsApp Plus"
+   },
+   {
+    "valor": "4 TB",
+    "rotulo": "plano do Meta One"
+   }
+  ],
+  "fonte": "Tecnoblog",
+  "categoria": "Redes sociais",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de dados e dificuldades na comunicação",
+  "angulo": "Entenda como as mudanças no WhatsApp podem impactar seu negócio e a necessidade de gerenciamento de dados.",
+  "gancho": "Conheça o *novo backup do WhatsApp*",
+  "ideias": [
+   "Como o novo backup do WhatsApp pode ajudar seu negócio",
+   "WhatsApp e a transformação dos dados em nuvem",
+   "Já conhece as novidades de backup do WhatsApp?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://tecnoblog.net/noticias/whatsapp-comeca-a-testar-backup-nas-nuvens-com-2-gb-gratis/",
+  "publicadoEm": "2026-11-18T15:08:54-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-vpr-22"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ações da Anthropic estreiam e revolucionam o mercado",
+  "resumo": "A Anthropic estreará na Nasdaq com expectativas de superar a SpaceX, alavancando negócios com seu sucesso financeiro e contratos futuros.",
+  "fatos": [
+   "A Anthropic fará sua estreia na Nasdaq em 19 de outubro.",
+   "A oferta básica terá 825 milhões de ações, entre US$ 70 e US$ 78 cada.",
+   "Se o preço for US$ 78, a oferta totalizará US$ 64,4 bilhões.",
+   "A colocação privada pode somar US$ 26 bilhões, sem direito a voto.",
+   "A expectativa é que a empresa atinja um valor de mercado de US$ 1,4 trilhão.",
+   "Em outubro, a companhia faturou quase US$ 17 bilhões, alta de 46%.",
+   "A Anthropic possui contratos até 2045, indicando tendência de crescimento."
+  ],
+  "explicacao": [
+   "A estreia da Anthropic na Nasdaq marca um evento significativo para o mercado de tecnologia e IA.",
+   "Com um IPO superior ao da SpaceX, isso pode valorizar ainda mais a percepção sobre empresas de IA.",
+   "Esse crescimento reflete a demanda crescente por soluções de inteligência artificial no mercado."
+  ],
+  "materia": "A Anthropic estreará na bolsa de valores dos Estados Unidos nesta quinta-feira, 19. As ações da empresa serão listadas na Nasdaq, compondo o índice Nasdaq-100 , com altas expectativas. A oferta básica terá 825 milhões de papéis, com preço entre US$ 70 e US$ 78. Caso a precificação fique no topo da faixa indicativa, ou seja, em US$ 78 por ação, a oferta chegará a US$ 64,4 bilhões. Já a colocação privada chegaria a US$ 26 bilhões, com a compra de papéis — mas sem direito a voto — da Alphabet, AMD, Broadcom, Micron, Microsoft, Nvidia e TSMC. Como resultado, a oferta-base totalizaria US$ 90,4 bilhões. Mesmo desconsiderando o lote suplementar, o valor já superaria os US$ 75 bilhões captados pela SpaceX em seu IPO. A Anthropic tem a expectativa de que o início das negociações eleve seu valor de mercado a US$ 1,4 trilhão. Em outubro, a Anthropic faturou quase US$ 17 bilhões no terceiro trimestre fiscal, aumento de 46% em relação ao registrado no período anterior. A tendência é de crescimento, já que a companhia tem diversos contratos até 2045. Receba gratuitamente a newsletter do Mobile Time e fique bem informado sobre tecnologia móvel e negócios. Cadastre-se aqui! As ilustrações das matérias são produzidas por Mobile Time com IA As principais notícias da indústria móvel, de segunda a sexta, no seu email. Para mais informações sobre a coleta e uso dos dados no Mobile Time, consulte nossa Política de Privacidade",
+  "numeros": [
+   {
+    "valor": "64,4 bilhões",
+    "rotulo": "oferta total em US$ se preço for US$ 78"
+   },
+   {
+    "valor": "1,4 trilhões",
+    "rotulo": "valor de mercado esperado da Anthropic"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Indústria"
+  ],
+  "dor": "perda de oportunidades em um mercado em rápida transformação",
+  "angulo": "Com a ascensão da IA, empresários precisam investir em tecnologia para não ficar para trás.",
+  "gancho": "*A Anthropic muda o jogo da IA!*",
+  "ideias": [
+   "Por que a intuição no mercado é fundamental?",
+   "Como a IA pode alavancar seu negócio?",
+   "O futuro da tecnologia e como você pode se preparar."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/18/11/2026/anthropic-estreia-em-bol/",
+  "publicadoEm": "2026-11-18T19:59:39-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-vpr-21"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ajuste fiscal de R$ 60 bilhões impacta empresas hoje",
+  "resumo": "O governo tenta manter o pacote fiscal, mas enfrenta muitas pressões. Isso pode impactar tributos e, consequentemente, as vendas das empresas.",
+  "fatos": [
+   "O governo propõe um ajuste fiscal de até R$ 60 bilhões para 2027.",
+   "A medida visa acabar com o uso cruzado de créditos tributários, aumentando a arrecadação em até R$ 18,3 bilhões.",
+   "A proposta enfrenta resistência de governadores e do setor empresarial.",
+   "A votação dos destaques do pacote foi adiada por falta de votos.",
+   "O governo abriu mão de limitar repasses da Lei Kandir devido a pressões estaduais."
+  ],
+  "explicacao": [
+   "O pacote fiscal é uma tentativa do governo de equilibrar as contas públicas, mas sua preservação está em risco pela pressão de diferentes setores.",
+   "Mudanças propostas podem aumentar tributos e afetar o caixa das empresas, impactando o consumo e as vendas.",
+   "Sem um marketing eficaz, empresas poderão ter dificuldades em se adaptar e se destacar neste cenário econômico instável."
+  ],
+  "materia": "Governo tenta negociar, mas enfrenta resistência no Senado para aprovar pacote fiscal de R$ 60 bilhões, com pressões de opositores e até do PT. Risco é que a proposta seja enfraquecida por modificações na Câmara O ministro do Planejamento, Bruno Moretti, vem sendo o principal defensor dentro do governo do plano fiscal Após a aprovação do texto-base do projeto de ajuste fiscal no Senado, o governo enfrenta pressões de governadores, empresas e oposição para preservar seu pacote fiscal. A proposta, que visa um ajuste de até R$ 60 bilhões em 2027, pode ser enfraquecida se sofrer muitas modificações na Câmara. O principal ponto de discórdia é o fim do uso cruzado de créditos tributários, que poderia aumentar a arrecadação em até R$ 18,3 bilhões, mas enfrenta resistência do setor empresarial. O governo tenta negociar concessões, mas não houve acordo. A votação dos destaques foi adiada devido à falta de votos. O Executivo já abriu mão de limitar repasses da Lei Kandir, após pressão dos governadores. Tanto a oposição quanto o PT questionam partes do pacote, com o PT preocupado com possíveis impactos em despesas sociais. Por outro lado, o ministro do Planejamento busca garantir que o pacote não afete direitos sociais, enquanto a pressão sobre o governo diminui. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Brasília - Após o Senado aprovar na semana passada o texto-base do projeto de lei complementar que propõe um ajuste de até R$ 60 bilhões nas contas públicas em 2027 , o governo se vê acuado agora em várias frentes para tentar garantir que o seu pacote fiscal seja preservado na íntegra. E mesmo que o plano saia ileso do crivo dos senadores, terá pela frente uma nova onda contrária na Câmara. A expectativa ainda é que a proposta passe no Congresso, mas diante das dificuldades que foram surgindo, caso o texto seja muito modificado, o plano da equipe econômica pode ser enfraquecido. E essa conta de impacto fiscal, sofrer um baque e diminuir de tamanho – mesmo sem modificações, o relator do projeto, senador Eduardo Braga (MDB-AM), já previa um resultado primário com as medidas fiscais um pouco menor do que o estimado pelo governo, de no máximo R$ 54 bilhões. Na quarta-feira, 18 de novembro, os senadores farão uma nova tentativa, à tarde, de votar os quatro destaques que faltaram da proposta. Na prática, esses destaques revelam as pressões contrárias que só aumentaram nos últimos dias, vindas de todos os lados: governadores, empresas, oposição - e até do próprio PT. Mas até agora, ainda não há um acordo para votação e as resistências permanecem, disseram fontes ao NeoFeed que participam diretamente das negociações. O principal ponto da discórdia, disse um senador ao NeoFeed , continua sendo o fim do uso cruzado de créditos tributários acumulados pelas empresas para abater no pagamento de outros impostos. Usar um crédito de PIS e Cofins para compensar no Imposto de Renda ou devido, por exemplo. Medida que aumentaria a arrecadação do governo em R$ 12,8 bilhões a R$ 18,3 bilhões, nas contas da equipe econômica. A medida, no entanto, conta com forte resistência do meio empresarial , que conseguiu mobilizar a oposição a seu favor na briga e não abre mão de tentar retirar esse item do texto encaminhado pelo governo. Entidades de classe dedicaram o dia hoje a fazer uma articulação \"corpo a corpo\" com os senadores, na tentativa de manter as compensações com tributos. Já a intenção do governo era convencer os senadores opositores a abrirem mão dessa ofensiva e em troca ceder em outras questões: redução dos repasses feitos pela União aos Estados em decorrência das isenções tributárias sobre as exportações de commodities (Lei Kandir); e estipular um teto para compensações previdenciárias. Contudo, não houve acordo ontem. \"É muito lobby em cima dos parlamentares\", avalia uma fonte da base aliada no Senado. O NeoFeed apurou que presidente do Senado, Davi Alcolumbre (União-AP) ligou para diversos senadores na tentat",
+  "numeros": [
+   {
+    "valor": "60 bilhões",
+    "rotulo": "ajuste fiscal proposto"
+   },
+   {
+    "valor": "18,3 bilhões",
+    "rotulo": "aumento na arrecadação previsto"
+   },
+   {
+    "valor": "1 bilhão",
+    "rotulo": "limite de compensações proposto pela Lei Kandir"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "temor de perda de vendas e rentabilidade",
+  "angulo": "Com as mudanças fiscais, as empresas precisam se reestruturar e investir em estratégias de marketing para não perder espaço no mercado.",
+  "gancho": "Você está preparado para as *mudanças fiscais*?",
+  "ideias": [
+   "O impacto do ajuste fiscal nas empresas",
+   "Como se preparar para as novas regras tributárias",
+   "A importância do marketing em tempos de mudança econômica"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://neofeed.com.br/poder/acuado-por-empresas-governadores-oposicao-e-ate-pela-esquerda-governo-tenta-preservar-pacote-fiscal/",
+  "publicadoEm": "2026-11-18T16:05:12-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-vpr-20"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA da Decolar supera 400 lojas no Brasil e exterior",
+  "resumo": "A assistente de inteligência artificial Sofia já é responsável por mais de 8% das vendas da Decolar, superando o desempenho de 400 lojas físicas do grupo na América Latina. A tecnologia está transformando a compra",
+  "fatos": [
+   "A IA Sofia, da Decolar, iniciou suas operações em 2024 e já responde por mais de 8% das vendas da companhia.",
+   "A primeira venda concluída por Sofia ocorreu em setembro de 2026, com pagamento via Pix.",
+   "Sofia realiza transações diretamente pelo chat, marcando uma nova fase no comércio agêntico.",
+   "A CEO Rafaela Rezende destacou a transformação da forma como os consumidores compram viagens.",
+   "O cenário de juros elevados demanda que as empresas busquem alternativas para estimular vendas."
+  ],
+  "explicacao": [
+   "A implementação da IA visa reduzir a fricção na compra de passagens e hotéis, útil em tempos de juros altos.",
+   "Os consumidores estão se tornando mais cautelosos com seus gastos, levando as empresas a se adaptarem.",
+   "Apesar do crescimento da IA, muitos consumidores ainda preferem atendimento humano, especialmente em situações pós-venda."
+  ],
+  "materia": "Sofia passou a concluir compras com Pix em 2026 e já responde por mais de 8% das vendas da companhia, segundo a CEO Rafaela Rezende A Sofia, assistente de inteligência artificial da Decolar , já vende mais do que as 400 lojas físicas do grupo na América Latina juntas e responde por mais de 8% das vendas da companhia, segundo Rafaela Rezende, CEO da empresa. Lançada em 2024 para ajudar consumidores a planejar viagens, a Sofia passou a realizar transações diretamente pelo chat em 2026, marcando a entrada da Decolar no comércio agêntico . Em setembro, a companhia anunciou a primeira venda concluída pela ferramenta , com pagamento via Pix. Durante o Zoox Data Revolution 2026 , realizado em São Paulo, Rafaela afirmou, em entrevista ao NeoFeed , que a inteligência artificial está mudando a maneira como os consumidores compram viagens. “Aquela jornada padrão de comprar uma passagem ou numa agência, ou numa companhia aérea ou até um hotel está ficando de lado”, disse. Reduzir as fricções na hora de comprar também é uma estratégia para lidar com o cenário ainda desafiador por causa dos juros elevados. Com o crédito mais caro, o consumidor tende a avaliar com mais cuidado o peso das passagens e hospedagens no orçamento, enquanto as empresas precisam encontrar alternativas para estimular as vendas sem comprometer as margens. Apesar do avanço quanto ao comércio agêntico, Rafaela reconhece que a confiança dos consumidores na inteligência artificial ainda encontra limites. Segundo ela, a resistência aparece principalmente no pós-venda, quando o cliente precisa alterar uma passagem ou resolver algum problema com a reserva. “Ele ainda prefere falar com uma pessoa, com o humano, para garantir que deu tudo certo”, afirmou, por isso a companhia ainda mantém a participação humana para lidar com demandas que exigem maior segurança e acompanhamento. Executivo defende foco no negócio principal e aposta no consumo por emoção para enfrentar um cenário de juros altos Laércio Cosentino defende incentivos tributários e um plano de longo prazo para ampliar a competitividade tecnológica do país A administradora de shopping centers tem negociado participações minoritárias para reduzir a alavancagem e seguir investindo em reformas. O CFO Armando d’Almeida Neto explica as prioridades da companhia No quinto e último episódio do documentário da NeoFeed Produções , executivos discutem o futuro dos investimentos e o papel dos consultores em um setor cada vez mais digital Chieko Aoki, presidente da Blue Tree Hotels, afirma que mudanças na jornada de trabalho exigem reorganização das equipes em um setor que funciona 24 horas por dia",
+  "numeros": [
+   {
+    "valor": "8",
+    "rotulo": "percentual das vendas da Decolar"
+   },
+   {
+    "valor": "400",
+    "rotulo": "número de lojas físicas da Decolar"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de vendas para concorrentes mais tecnologicamente avançados",
+  "angulo": "Este caso evidencia a importância de adotar tecnologias modernas em sua empresa para não ficar para trás no mercado.",
+  "gancho": "*Transformação salgada*: IA batendo loja física!",
+  "ideias": [
+   "Como a IA está mudando o mercado?",
+   "Vendas online: a nova realidade para empresas.",
+   "Você já investiu em IA para seu negócio?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://neofeed.com.br/zdr-by-neofeed/ia-da-decolar-ja-vende-mais-do-que-400-lojas-fisicas-do-grupo-juntas/",
+  "publicadoEm": "2026-11-18T15:50:30-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "GTA 6 e o alerta dos provedores de internet",
+  "resumo": "O lançamento de GTA 6, previsto para 19/11, já provoca picos de tráfego no Brasil, levantando preocupações sobre a infraestrutura de internet. Provedores estão se preparando para a demanda.",
+  "fatos": [
+   "GTA 6 será lançado em 19/11 e o pré-download já causou picos de tráfego.",
+   "Provedores como Vivo e TIM monitoram a demanda e se preparam para o aumento no tráfego.",
+   "No Reino Unido, 2,8 milhões de adultos pretendem jogar GTA 6 na estreia.",
+   "Vivo declarou que utiliza ferramentas de monitoramento em tempo real para sua rede.",
+   "Nichos da internet, como streaming, ainda dominam o tráfego diário, mas eventos de jogos impactam.",
+   "A BT no Reino Unido registrou o segundo maior pico de tráfego por causa do pré-download.",
+   "Evento GTA VI: The Festival será realizado em Miami, unindo vários artistas."
+  ],
+  "explicacao": [
+   "O lançamento de GTA 6 gera expectativa alta e pode causar aumento significativo no tráfego de internet.",
+   "As operadoras estão se preparando para atender a demanda variada, evitando sobrecargas na rede.",
+   "Embora o foco principal seja jogos, o tráfego gerado por eles impacta a infraestrutura geral da internet.",
+   "Este evento mostra a importância da infraestrutura digital adaptável para suportar picos de utilização.",
+   "Empresas que não se adaptarem a essas mudanças poderão enfrentar problemas no atendimento ao cliente."
+  ],
+  "materia": "GTA 6 será liberado para todos em 19/11 (imagem: divulgação) Resumo IA O lançamento de Grand Theft Auto 6 provocou picos de tráfego de internet no exterior, especialmente durante o pré-download do jogo. No Brasil, provedores brasileiros de internet, como a Vivo e a TIM, estão monitorando a demanda e se preparando para o aumento do tráfego de dados. O jogo será lançado nos PlayStation 5 e Xbox Series X/S a partir da 0h desta quinta-feira (19/11). Gerado com IA e revisado pela redação O lançamento de Grand Theft Auto 6 deve aumentar a pressão sobre a infraestrutura de internet em diferentes países. Com 212 GB, o jogo já provocou picos expressivos de tráfego durante o pré-download , iniciado na semana passada. No Brasil, provedores ouvidos pelo Tecnoblog se preparam para o aumento da demanda com a estreia. Ao contrário do que parece, GTA 6 ainda não foi oficialmente liberado no país. A estreia está marcada para 0h desta quinta-feira (19/11), nos PlayStation 5 e Xbox Series X/S . No entanto, além de jornalistas com acesso antecipado, alguns jogadores conseguiram acessar o título no Xbox ao mudar a região do console para a Nova Zelândia, aproveitando a diferença de fuso horário. A prática é permitida pela Microsoft. O jogo também acompanha conteúdos de serviço para os fãs. A lista de códigos do GTA 6 reúne 61 trapaças. Vivo e TIM aguardam demanda de rede Vivo e TIM oferecem planos de internet residenciais (arte: Vitor Pádua/Tecnoblog) A Vivo informou ao Tecnoblog que monitora o tráfego e “está preparada para as variações de demanda associadas” a GTA 6 . Segundo a operadora, há “ferramentas de monitoramento em tempo real e equipes especializadas para acompanhar o desempenho da sua rede”. Já a TIM nos informou que acompanha a “evolução do tráfego em sua rede e está preparada para atender a aumentos pontuais de demanda associados a grandes lançamentos digitais, como o GTA 6 “. De acordo com a companhia, a infraestrutura “vem sendo continuamente modernizada para acompanhar o crescimento acelerado do consumo de dados”. Já o NIC.br, entidade que atua na infraestrutura da internet no Brasil , afirmou ao Tecnoblog que ainda não há dados suficientes para estimar o impacto de GTA 6 no tráfego nacional. Contudo, a organização ressalta que, no dia a dia, o streaming de vídeo responde pelo maior volume de dados, à frente do tráfego gerado por empresas de games. Reino Unido registrou pico de tráfego No Reino Unido, operadoras esperam uma procura excepcional por conexão à internet a partir do lançamento. Segundo uma pesquisa da Uswitch, cerca de 2,8 milhões de adultos no país pretendem jogar GTA 6 na estreia. A BT, uma das maiores empresas de telecomunicações britânicas, registrou o segundo maior pico de tráfego de banda larga de sua história durante o pré-download do jogo, em 10/11. O único evento que superou a marca foi a partida entre Arsenal e Atlético de Madrid pela semifinal da Champions League, em 5 de maio. GTA 6 tem impacto global A dimensão do lançamento acompanha a expectativa em torno da franquia. GTA 6 chega 13 anos depois de Grand Theft Auto V , lançado em 2013 e responsável por mais de 230 milhões de cópias vendidas. Além do jogo, a Rockstar anunciou o Grand Theft Auto VI: The Festival , evento marcado para 21/11, no espaço Mana Wynwood, em Miami. O festival terá dois palcos e reunirá artistas ligados ao game e à trilha sonora, como Travis Scott e Justice. A cidade também terá uma celebração dentro da NBA. Nesta quarta-feira (18/11), o Miami Heat enfrenta o Milwaukee Bucks em uma partida temática inspirada em Vice City, cidade fictícia baseada em Miami que serve de cenário para o novo jogo. No Brasil, a mobilização em torno do lançamento também inclui uma transmissão ao vivo organizada pela TIM, com criadores de conteúdo jogando GTA 6 na loja conceito da operadora, em São Paulo, a partir da meia-noite. A trama de GTA 6 acompanha Lucia Caminos, primeira protagonista feminina jogável da franquia, e Jason Duval. A história se passa no",
+  "numeros": [
+   {
+    "valor": "2,8 milhões",
+    "rotulo": "jogadores esperados na estreia no Reino Unido"
+   },
+   {
+    "valor": "212 GB",
+    "rotulo": "tamanho do jogo GTA 6"
+   }
+  ],
+  "fonte": "Tecnoblog",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de conexão e clientes insatisfeitos",
+  "angulo": "A demanda crescente por jogos digitais evidencia a importância de um bom planejamento em marketing digital para adequar serviços que atendam essa nova realidade.",
+  "gancho": "alerta: *impacto do GTA 6 na internet*",
+  "ideias": [
+   "Como o crescimento de jogos afeta sua empresa?",
+   "O que o mercado digital pode aprender com GTA 6?",
+   "Preparação digital: o que sua empresa precisa antes de grandes lançamentos?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://tecnoblog.net/noticias/gta-6-pressiona-provedores-brasileiros-de-internet/",
+  "publicadoEm": "2026-11-18T17:52:22-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-vpr-18"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Anitta fará parte do Grand Theft Auto VI",
   "resumo": "A Anitta se juntará ao elenco do GTA VI, em um papel de médica, e terá música na trilha sonora. O jogo já é um sucesso de vendas antes do lançamento.",
   "fatos": [
@@ -957,6 +1304,232 @@
   "publicadoEm": "2026-11-17T22:06:45-03:00",
   "data": "2026-11-17",
   "id": "2026-11-18-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Nova lei visa organizar fios e evitar acidentes",
+  "resumo": "O Senado aprovou regras para o compartilhamento de postes, buscando acabar com a desordem de fios e melhorar a segurança pública. Empresas terão limites de custo e prazos para adequação.",
+  "fatos": [
+   "O Senado aprovou o Projeto de Lei 3.220/2019 em 18 de outubro.",
+   "A nova lei busca reduzir riscos de acidentes e regular o aluguel de postes entre distribuidoras de energia e telecomunicações.",
+   "A Aneel e Anatel definirão limites para o aluguel, sendo que para áreas rurais será a metade do valor urbano.",
+   "Contratos acima dos novos valores terão 18 meses para se adequar.",
+   "As empresas terão 180 dias para regularizar cabos sem contrato, sem multas nesse período.",
+   "A fiscalização será feita por prefeituras, que poderão firmar convênios com as agências reguladoras.",
+   "Empresas que não corrigirem irregularidades poderão perder suas autorizações."
+  ],
+  "explicacao": [
+   "A nova legislação foi criada para resolver o problema do acúmulo de fios, que representa riscos à segurança pública nas cidades.",
+   "As empresas de telecomunicações enfrentarão custos mais limites e prazos para regularizar suas infraestruturas.",
+   "A participação das prefeituras na fiscalização aumenta a responsabilidade das operadoras na manutenção e organização dos fios."
+  ],
+  "materia": "O Senado Federal aprovou, nesta quarta-feira (18), um projeto de lei que estabelece novas regras para o compartilhamento de postes entre distribuidoras de energia elétrica e empresas de telecomunicações. A medida busca acabar com o emaranhado de fios nas ruas das cidades brasileiras, reduzir os riscos de acidentes e estabelecer limites para os valores cobrados pelo aluguel da infraestrutura utilizada pelas operadoras de internet e telefonia. O Projeto de Lei 3.220/2019, de autoria do senador Weverton (PDT-MA), foi aprovado com parecer do senador Esperidião Amin (PP-SC) e segue para sanção presidencial. Uma das principais mudanças é a criação de um teto para o aluguel dos postes. A Agência Nacional de Energia Elétrica (Aneel) e a Agência Nacional de Telecomunicações (Anatel) terão prazos para definir os valores máximos cobrados das operadoras. Nas áreas rurais, o limite será equivalente à metade do valor estabelecido para as áreas urbanas. Os contratos que estiverem acima dos valores permitidos terão prazo de 18 meses para se adequar às novas regras. O projeto também determina que as empresas de telecomunicações terão 180 dias para regularizar cabos instalados sem contrato, sem aplicação de multa nesse período. Os fios que representarem risco à segurança da população deverão ser retirados imediatamente. A regularização de toda a infraestrutura deverá ser concluída em até cinco anos, com possibilidade de prorrogação por igual período em situações complexas. Outra novidade é a participação das prefeituras na fiscalização dos postes. Os municípios poderão firmar convênios com a Aneel e a Anatel para identificar irregularidades e definir áreas prioritárias para a retirada de fios abandonados ou instalados de maneira inadequada. A proposta prevê ainda punições para empresas que ocuparem postes irregularmente e não corrigirem as infrações após notificação, incluindo a possibilidade de perda da autorização ou concessão. O relator Esperidião Amin destacou que a falta de organização dos cabos representa um problema de segurança pública e pode provocar acidentes graves, inclusive mortes. A nova legislação, caso sancionada, terá impacto também nos municípios do Ceará, onde o acúmulo de fios de energia, internet e telefonia nos postes é motivo de preocupação para moradores e autoridades.",
+  "numeros": [
+   {
+    "valor": "180 dias",
+    "rotulo": "prazo para regularização de cabos sem contrato"
+   },
+   {
+    "valor": "18 meses",
+    "rotulo": "prazo para adequação dos contratos acima do limite"
+   },
+   {
+    "valor": "5 anos",
+    "rotulo": "prazo para regularização da infraestrutura, podendo ser prorrogado"
+   }
+  ],
+  "fonte": "Ceará Agora",
+  "categoria": "Leis",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "Empresários"
+  ],
+  "dor": "aumento de custos operacionais e complexidade no negócio",
+  "angulo": "Aprender sobre anotações e estratégias financeiras pode ajudar a mitigar os impactos de mudanças regulatórias e a organizar seus próprios gastos operacionais.",
+  "gancho": "Nova legislação para *fim do emaranhado de fios*",
+  "ideias": [
+   "Como a nova lei impacta seus negócios?",
+   "Entenda as mudanças nos custos de telecomunicações",
+   "A importância da organização na infraestrutura urbana"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://cearaagora.com.br/senado-aprova-lei-para-acabar-com-emaranhado-de-fios-nos-postes-e-estabelece-regras-para-empresas-de-energia-e-internet/",
+  "publicadoEm": "2026-11-18T22:09:37-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-trader-20"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Custo de vida e despesas com automóveis em alta",
+  "resumo": "Os proprietários de veículos precisam se atentar ao crescimento das despesas automotivas, que impactam diretamente no orçamento familiar.",
+  "fatos": [
+   "O aumento do custo de vida também está afetando os gastos com automóveis.",
+   "Proprietários precisam rever suas despesas para evitar surpresas no orçamento.",
+   "A situação exige atenção redobrada para não comprometer a saúde financeira."
+  ],
+  "explicacao": [
+   "O impacto do custo de vida nas despesas automotivas mostra como os gastos se acumulam.",
+   "Com preços em alta, é essencial que os proprietários façam um planejamento financeiro cuidadoso.",
+   "Reduzir gastos ou encontrar alternativas pode ajudar a manter o equilíbrio nas finanças."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Nativa News",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "o que o alto custo de vida gera no seu bolso",
+  "angulo": "Entender a dinâmica das despesas automotivas é fundamental para buscar alternativas financeiras, como aprender sobre o mercado e diversificar sua renda.",
+  "gancho": "*Custo de vida em alta* e como isso impacta",
+  "ideias": [
+   "Como o aumento no custo de vida afeta seu carro?",
+   "Despesas automotivas: o que fazer agora?",
+   "Cuidado! Custos com veículos estão subindo!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://nativanews.com.br/artigos/aumento-do-custo-de-vida-tambem-chega-a-garagem-despesas-automotivas-exigem-atencao-dos-proprietarios/",
+  "publicadoEm": "2026-11-18T17:20:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-trader-19"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: o impacto no seu bolso",
+  "resumo": "A nova jornada de 42 horas entra em vigor em dezembro, mudando escalas e custos para muitas empresas. Entenda como isso pode afetar seu emprego e finanças.",
+  "fatos": [
+   "A jornada de 42 horas começa em 16 de dezembro de 2023.",
+   "O STF ainda não definiu data para julgamento do mérito das mudanças.",
+   "As empresas precisam redesenhar escalas e acordos até essa data.",
+   "A emenda traz novas exigências sobre a jornada de trabalho e folgas.",
+   "As mudanças nos quadros de funcionários poderão aumentar os custos operacionais."
+  ],
+  "explicacao": [
+   "A mudança rumo à jornada de 42 horas é uma resposta legal que impacta diretamente a operação das empresas.",
+   "Redesenhar escalas requer planejamento, visto que a emenda pode exigir mais funcionários para cobrir as novas folgas.",
+   "Empresas que não se adaptarem a tempo podem arcar com custos adicionais e riscos trabalhistas."
+  ],
+  "materia": "O STF mandou o caso para julgamento de mérito, sem data. A jornada de 42 horas começa em 16 de dezembro mesmo assim. Escalas, quadro e acordos coletivos precisam mudar antes da decisão final. A escala 6x1 começa a acabar em 16 de dezembro, e não há data para o STF dizer se as regras de transição continuam valendo. A escala 6x1 começa a acabar em 16 de dezembro, e não há data para o STF dizer se as regras de transição continuam valendo. Na terça-feira (17), o ministro Flávio Dino mandou as ações da CNC e da CNI contra a Emenda Constitucional 141/2026 para julgamento de mérito no plenário presencial e manteve em vigor a liminar que define como a mudança será aplicada. Para o RH, o recado é direto: a operação precisa estar redesenhada antes da sentença. A emenda vale. O que está em disputa é o caminho até ela. E é esse caminho que define o custo da mudança para quem opera com turnos, plantões e lojas abertas seis ou sete dias por semana. Para o RH, significa redesenhar escalas, recalcular quadro e reabrir acordos sem saber qual versão das regras vai sobreviver ao plenário. A sequência dos últimos dez dias explica por que a insegurança continua. A data do julgamento depende de o presidente do STF, Edson Fachin, incluir o processo na pauta. O resultado: a liminar é atacada por quem acha que ela flexibiliza demais e por quem acha que flexibiliza de menos. Isso aumenta a chance de ajustes no plenário, em qualquer direção. Para saber mais: STF , O Povo e Gazeta do Povo O recado do relator é explícito. Em publicação nas redes, Dino afirmou que a decisão não cria exceções nem autoriza negociação individual, e que adaptações setoriais exigem negociação coletiva com participação obrigatória do sindicato. O maior risco para o RH não é o STF mudar a data. É desenhar a escala nova em cima das partes da liminar que podem cair. A emenda é sólida: 42 horas agora, 40 horas em um ano. As válvulas de escape (8h24 por dia, folga compensada em outra semana) são o trecho frágil. Quem desenhar escalas e custos contando com elas compra um risco que hoje não aparece no balanço. Há um segundo efeito, menos óbvio. Ao fazer da convenção coletiva a única porta para flexibilidade, a decisão desloca o poder da transição do texto legal para a mesa de negociação. Sem acordo, vale a regra geral. Ou seja: o sindicato passa a ter algo que a empresa precisa, com prazo curto. Isso tem preço. 1. Redesenhar as escalas pelo piso da emenda, não pela liminar. O cenário-base deve ser 42 horas e dois repousos em 16/12, e 40 horas em 16/12/2027, sem contar com a jornada de 8h24 nem com a compensação flexível de folgas. A flexibilidade entra como ganho, não como premissa. 2. Recalcular quadro e custo. A queda de 44 para 42 horas tira duas horas semanais de cada contrato; a etapa de 40 horas, em 2027, tira quatro. Em operações abertas seis ou sete dias por semana, a conta de cobertura muda: com dois repousos garantidos, a mesma loja ou planta pode precisar de mais gente, turnos sobrepostos ou horário de funcionamento revisto. Exemplo: uma loja aberta de segunda a domingo refaz a grade para dar dois repousos a cada funcionário sem deixar buraco no fim de semana. 3. Abrir a negociação coletiva esta semana, com cláusula de gatilho. O prazo de 15/12 está a menos de um mês, e dezembro é o pico do comércio. Quem chegar com proposta pronta negocia; quem chegar em cima da hora aceita. O acordo deve prever revisão automática caso o plenário altere a liminar, para não refazer tudo em 2027. 4. Mapear contrapartidas e ajustar ponto e folha. A janela de 90 dias após 16/12 permite renegociar contrapartidas de acordos vigentes, mas proíbe mudanças unilaterais. Encerrado o prazo, cláusulas incompatíveis com a emenda deixam de valer. RH e jurídico precisam saber hoje quais cláusulas (bancos de horas, adicionais, prêmios) estão atreladas à escala atual. Em paralelo, o sistema de ponto precisa refletir o novo limite e, sem acordo, a regra em que os 24 minutos além da oitava hora não contam como",
+  "numeros": [
+   {
+    "valor": "180 dias",
+    "rotulo": "prazo para contratos administrativos"
+   },
+   {
+    "valor": "90 dias",
+    "rotulo": "janela para renegociar contrapartidas"
+   },
+   {
+    "valor": "16/12/2023",
+    "rotulo": "data de início da nova jornada"
+   }
+  ],
+  "fonte": "StartSe",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda de previsibilidade e aumento de custos operacionais.",
+  "angulo": "Entender o impacto econômico da nova jornada de trabalho é fundamental para buscar alternativas de renda no mercado financeiro.",
+  "gancho": "*Nova jornada de 42 horas* afeta seu emprego!",
+  "ideias": [
+   "Como o fim da escala 6x1 impacta sua renda?",
+   "Prepare-se para a nova jornada: o que fazer?",
+   "Mudanças nas leis trabalhistas: suas finanças em risco!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://www.startse.com/artigos/o-fim-da-escala-6x1-nao-vai-esperar-o-stf-por-que-o-rh-precisa-redesenhar-a-operacao-antes-de-dezembro-1/",
+  "publicadoEm": "2026-11-18T18:03:38-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-trader-18"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: o que muda já em dezembro?",
+  "resumo": "O presidente Lula assina decreto sobre o fim da escala 6x1. Mudanças na jornada de trabalho afetam milhões e trazem desafios e oportunidades no mercado financeiro.",
+  "fatos": [
+   "Lula deve assinar decreto às 9h do dia 19 de outubro.",
+   "O fim da escala 6x1 entra em transição a partir de 16 de dezembro.",
+   "O decreto regulamenta jornadas de trabalho especiais ou não convencionais.",
+   "Luiz Marinho, o ministro do Trabalho, confirmou que portarias podem especificar situações.",
+   "Milhões de trabalhadores podem ser impactados pela mudança na jornada."
+  ],
+  "explicacao": [
+   "A decisão do governo altera a estrutura da jornada de trabalho, podendo impactar a renda de quem depende de salários fixos.",
+   "A regularização do fim da escala 6x1 traz uma nova dinâmica nas relações de trabalho.",
+   "Para profissionais que buscam liberdade financeira, entender essas mudanças é vital para explorar novas oportunidades no mercado financeiro.",
+   "A transição em dezembro pode gerar uma adaptação necessária para trabalhadores e empresas, aumentando a flexibilidade."
+  ],
+  "materia": "Foto: Kebec Nogueira/Metrópoles. O presidente Luiz Inácio Lula da Silva (PT) vai assinar, nesta quinta-feira (19), o decreto com a regulamentação do fim da escala 6x1. A previsão é que a assinatura aconteça às 9h em cerimônia no Palácio do Planalto. O período de transição para o fim da escala 6x1 começa no dia 16 de dezembro. Todos os detalhes que vão compor o decreto serão informados nesta quinta. O ministro do Trabalho e Emprego, Luiz Marinho, disse que o decreto tratará de categorias com jornadas de trabalho especiais ou não convencionais, mas que eventuais portarias também poderão ser publicadas para especificar determinadas situações. #fim da escala 6x1 #decreto escala 6x1 #Lula #Luiz Marinho #jornada de trabalho Compartilhar:",
+  "numeros": [
+   {
+    "valor": "16 de dezembro",
+    "rotulo": "início da transição"
+   },
+   {
+    "valor": "9h",
+    "rotulo": "hora da assinatura do decreto"
+   }
+  ],
+  "fonte": "HC Notícias",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "Medo da instabilidade na renda com novas jornadas.",
+  "angulo": "Aprender sobre o mercado financeiro permite liberdade para lidar com incertezas nas novas jornadas e uma renda mais flexível.",
+  "gancho": "Descubra como o *fim da escala 6x1* te impacta!",
+  "ideias": [
+   "Novo decreto: o que esperar?",
+   "Como a jornada flexível pode gerar renda?",
+   "Desmistificando mudanças na carreira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-18T23:51:49-03:00",
+  "url": "https://hcnoticias.com.br/geral/fim-da-escala-6x1-lula-deve-assinar-decreto-de-regulamentacao-as-9h-desta-quinta-19-197723",
+  "publicadoEm": "2026-11-18T23:26:00-03:00",
+  "data": "2026-11-18",
+  "id": "2026-11-18-trader-17"
  },
  {
   "segmento": "trader",

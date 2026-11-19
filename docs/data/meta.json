@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-18T19:48:38-03:00",
+  "ultimaColeta": "2026-11-18T23:51:49-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1 e seu impacto no bolso; Fim da escala 6x1 gera mudanças urgentes no RH; Mudança na escala de trabalho pode impactar seu bolso.",
+  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1: o que muda já em dezembro?; Fim da escala 6x1: o impacto no seu bolso; Custo de vida e despesas com automóveis em alta.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-18T23:51:49-03:00",
    "2026-11-18T19:48:38-03:00",
    "2026-11-18T15:27:45-03:00",
    "2026-11-18T00:11:57-03:00",
@@ -18,19 +19,21 @@
    "2026-11-16T16:54:21-03:00",
    "2026-11-16T08:34:34-03:00",
    "2026-11-15T22:27:32-03:00",
-   "2026-11-15T17:42:02-03:00",
-   "2026-11-15T13:40:23-03:00"
+   "2026-11-15T17:42:02-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-18T19:48:38-03:00",
+  "ultimaColeta": "2026-11-18T23:51:49-03:00",
   "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Fraudes contábeis podem afetar muito seus negócios; Como o varejo perde oportunidades na Black Friday; Impactos da Dívida no Varejo: O Consumidor Paulistano em Apuros.",
-  "falhas": [],
+  "mensagem": "6 pauta(s) nova(s): GTA 6 e o alerta dos provedores de internet; IA da Decolar supera 400 lojas no Brasil e exterior; Ajuste fiscal de R$ 60 bilhões impacta empresas hoje.",
+  "falhas": [
+   "Consumidor Moderno (RuntimeError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-18T23:51:49-03:00",
    "2026-11-18T19:48:38-03:00",
    "2026-11-18T15:27:45-03:00",
    "2026-11-18T00:11:57-03:00",
@@ -41,8 +44,7 @@
    "2026-11-16T16:54:21-03:00",
    "2026-11-16T08:34:34-03:00",
    "2026-11-15T22:27:32-03:00",
-   "2026-11-15T17:42:02-03:00",
-   "2026-11-15T13:40:23-03:00"
+   "2026-11-15T17:42:02-03:00"
   ]
  }
 }
