@@ -1,6 +1,274 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Black Friday 2026: Impactos da IA no varejo",
+  "resumo": "A IA generativa promete transformar a experiência de compra durante a Black Friday de 2026, impactando vendas e estratégias de marketing no varejo.",
+  "fatos": [
+   "A Black Friday de 2026 deve ser marcada pela utilização de IA generativa.",
+   "Essa tecnologia irá alterar a forma como os consumidores fazem compras.",
+   "As empresas precisam se adaptar para se manter competitivas nesse novo cenário."
+  ],
+  "explicacao": [
+   "A introdução da IA generativa no varejo representa um avanço nas tecnologias de marketing.",
+   "Com essa ferramenta, as empresas podem personalizar ainda mais as experiências de compra dos consumidores.",
+   "Aquilo que funcionava até agora no varejo pode se tornar obsoleto se as empresas não inovarem."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "iMasters",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Temor de perder vendas para concorrentes adaptados",
+  "angulo": "Entender as novas tecnologias é essencial para quem quer se destacar no mercado atual.",
+  "gancho": "*IA generativa na Black Friday* - prepare-se para o",
+  "ideias": [
+   "A importância da tecnologia no varejo",
+   "Transformando a experiência de compra com IA",
+   "Como se preparar para a Black Friday de 2026"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://imasters.com.br/tecnologia/black-friday-2026-expoe-o-varejo-brasileiro-a-decisao-de-compra-feita-por-ia",
+  "publicadoEm": "2026-11-20T12:04:12-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Novas frequências da Starlink impactam usuários e empresários",
+  "resumo": "Com a liberação de novas frequências pela Anatel, a Starlink pode melhorar sua operação no Brasil. Contudo, isso não assegura uma internet mais rápida imediatamente.",
+  "fatos": [
+   "A Anatel autorizou a Starlink a usar novas frequências de comunicação no Brasil em 19 de outubro de 2023.",
+   "Foram liberadas nove subfaixas de radiofrequência: cinco para envio de dados e quatro para recebimento.",
+   "Essa mudança busca ampliar a capacidade de comunicação entre satélites e estações terrestres em todo o país.",
+   "A autorização melhora a flexibilidade do tráfego de dados, mas não garante velocidade imediata para os usuários.",
+   "O serviço Direct to Cell ainda depende de condições regulatórias e não está liberado comercialmente."
+  ],
+  "explicacao": [
+   "As novas frequências permitem que a Starlink distribua melhor seus dados, ajudando a reduzir congestionamentos.",
+   "Embora a operação seja ampliada, os clientes não verão um aumento imediato na velocidade da internet.",
+   "O controle das faixas não é exclusivo da Starlink, o que pode abrir espaço para outras empresas no mercado."
+  ],
+  "materia": "A Agência Nacional de Telecomunicações (Anatel) autorizou a Starlink a utilizar novas frequências de comunicação via satélite no Brasil . A medida foi oficializada nesta quinta-feira (19) e amplia a capacidade de operação da empresa nas bandas Ku, Ka e Q/V em todo o território nacional. Ao todo, foram liberadas nove subfaixas de radiofrequência, sendo cinco para envio de dados da Terra aos satélites e quatro para transmissão no sentido contrário. Na prática, a mudança abre espaço para ampliar a capacidade da rede, mas não garante um aumento imediato na velocidade da internet para os assinantes. A autorização foi publicada no Diário Oficial da União e altera a licença de exploração de satélites concedida à Starlink em abril de 2025. O que muda para os clientes da Starlink? A principal vantagem da liberação é a possibilidade de ampliar a capacidade de comunicação entre os satélites e as estações terrestres. Com mais frequências disponíveis, a Starlink ganha flexibilidade para distribuir o tráfego de dados em sua rede. Isso pode ajudar a reduzir congestionamentos e melhorar a estabilidade da conexão, principalmente em regiões com muitos assinantes. No entanto, esses benefícios dependem da infraestrutura e da forma como a empresa utilizará as novas faixas. A autorização não significa que os clientes terão internet mais rápida imediatamente , nem exige a troca das antenas atuais. A Anatel também não anunciou qualquer mudança nos planos ou preços do serviço. As novas frequências poderão ser utilizadas para serviços fixos por satélite e também para serviços móveis, desde que respeitadas as regras específicas de cada modalidade. Quais frequências foram liberadas? A autorização contempla cinco faixas para transmissão de dados aos satélites, conhecidas como enlaces de subida, e outras quatro para o recebimento das informações, chamadas de enlaces de descida. Confira as frequências autorizadas pela Anatel: Todas as faixas utilizam polarização circular e poderão ser exploradas em todo o Brasil, sem exclusividade. Isso significa que a Starlink não terá direito exclusivo sobre essas frequências. A ampliação foi solicitada pela empresa em janeiro de 2026 e passou por consulta pública em fevereiro. O Conselho Diretor da Anatel aprovou o pedido em 2 de outubro. A Starlink ainda deverá apresentar à agência um parecer definitivo da União Internacional das Telecomunicações (UIT) sobre o cumprimento dos limites de interferência de uma de suas redes de satélites. Starlink direto no celular também teve novidade Além das frequências destinadas à comunicação convencional por satélite, a Anatel formalizou uma nova autorização para a Starlink na banda S , utilizada em tecnologias de conexão direta entre satélites e dispositivos móveis. Essa faixa é importante para o desenvolvimento do serviço Direct to Cell, que permite conectar celulares compatíveis à rede de satélites sem depender de antenas tradicionais de telefonia em determinadas situações. No entanto, a autorização das frequências não significa que o serviço já esteja liberado comercialmente no Brasil. Sua operação ainda depende das condições regulatórias aplicáveis. Com as novas autorizações, a Starlink amplia as possibilidades de expansão de sua rede no país, tanto para a internet residencial quanto para futuros serviços de conectividade móvel.",
+  "numeros": [
+   {
+    "valor": "9",
+    "rotulo": "novas subfaixas de radiofrequência liberadas"
+   },
+   {
+    "valor": "5",
+    "rotulo": "faixas para envio de dados"
+   },
+   {
+    "valor": "4",
+    "rotulo": "faixas para recebimento de dados"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "A insegurança em garantir velocidades de internet competitivas",
+  "angulo": "Entender a importância de uma conexão estável pode levar à busca por serviços de marketing com posição online adequada em um mercado cada vez mais competitivo.",
+  "gancho": "*Mudanças na Starlink podem afetar seu negócio*",
+  "ideias": [
+   "Starlink avança: o que isso significa?",
+   "Conectividade e negócios: entenda a nova realidade",
+   "Novas frequências da Starlink: como impactarão suas vendas"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://canaltech.com.br/telecom/brasil-libera-novas-frequencias-para-starlink-veja-o-que-muda/",
+  "publicadoEm": "2026-11-20T11:21:20-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "WhatsApp: nova cobrança afeta atendimento e vendas das empresas",
+  "resumo": "A nova política de cobrança da Meta para o WhatsApp Business exige uma adaptação no atendimento ao cliente, impactando o orçamento e as operações das empresas que dependem da plataforma.",
+  "fatos": [
+   "Desde outubro de 2026, empresas que usam a API do WhatsApp Business pagam por mensagens enviadas na janela de 24 horas.",
+   "A API conecta o WhatsApp a sistemas externos, como CRMs e chatbots, permitindo automação.",
+   "No Brasil, há cerca de 148 milhões de usuários do WhatsApp, instalado em 99% dos smartphones.",
+   "82% dos pequenos negócios no Brasil consideram o WhatsApp seu principal canal de comunicação.",
+   "A mudança exige que as empresas revisem suas operações de atendimento e se tornem mais eficientes em suas interações."
+  ],
+  "explicacao": [
+   "A cobrança por mensagem enviadas pela Meta representa um desafio financeiro e operacional para empresas.",
+   "As empresas precisam inovar e integrar seus serviços para garantir um atendimento eficiente e a satisfação do cliente.",
+   "A nova política valoriza interações efetivas em vez de volume de mensagens, promovendo uma revisão dos processos."
+  ],
+  "materia": "Desde outubro de 2026, empresas que utilizam a API oficial do WhatsApp Business passaram a pagar individualmente pelas mensagens de serviço enviadas durante a janela de atendimento de 24 horas. A API (sigla para Interface de Programação de Aplicações) é uma tecnologia que permite conectar o aplicativo de mensagens a sistemas externos , como plataformas de atendimento, CRMs, chatbots e softwares de gestão, possibilitando automatizar e ampliar a comunicação com clientes. A mudança implementada pela Meta inclui respostas de texto livre, enviadas por atendentes ou automações, além de mensagens de utilidade, como confirmações de pedidos, atualizações de entrega e informações sobre pagamentos. Diferentemente do aplicativo gratuito WhatsApp Business, utilizado diretamente pelo celular, a API é voltada a operações estruturadas , que integram o aplicativo a sistemas e ferramentas corporativas. A alteração representa um novo desafio para empresas que utilizam o aplicativo como principal canal de relacionamento com consumidores. Estimativas apontam aproximadamente 148 milhões de usuários no Brasil . Segundo levantamento do Opinion Box, o WhatsApp está instalado em 99% dos smartphones brasileiros , enquanto 77% dos consumidores costumam conversar com marcas e empresas pela plataforma. Entre os pequenos negócios, a presença também é expressiva: pesquisa do Sebrae com mais de 8,2 mil empreendedores revelou que 82% consideram o aplicativo seu principal canal de comunicação e vendas. Para Diego Boesso, managing director da Syntrika, consultoria especializada em Salesforce e inteligência artificial do ecossistema Coaktion, a mudança vai além do impacto financeiro e exige uma revisão da forma como as empresas estruturam suas operações de atendimento. — Essa alteração coloca em evidência modelos de atendimento construídos com diálogos fragmentados, menus longos, perguntas repetidas e mensagens automáticas que pouco contribuem para a solução do problema. — afirma. — Cumprimentos enviados separadamente, solicitações de informações que a empresa já possui e confirmações redundantes deixam de ser apenas obstáculos à experiência: também representam custos adicionais — complementa. Na avaliação do executivo, o desafio não está em reduzir indiscriminadamente a quantidade de mensagens, mas em tornar cada interação mais eficiente e resolutiva. Isso envolve compreender a necessidade do consumidor , consultar seu histórico e oferecer informações completas, evitando que o cliente precise repetir dados ou passar por etapas desnecessárias. — Ser resolutivo não é responder de qualquer maneira para enviar menos mensagens. É compreender a necessidade do cliente, consultar seu histórico e oferecer, em uma interação clara e completa, as informações e os caminhos necessários para resolver a demanda — explica Diego Boesso. A revisão das operações também passa pela forma como as empresas medem a eficiência do atendimento. Indicadores como resolução no primeiro contato, tempo total até a solução, reincidência da demanda e quantidade média de mensagens por atendimento tendem a ganhar espaço ao lado das métricas tradicionais de velocidade. Além do impacto financeiro, a cobrança da Meta reforça a discussão sobre a dependência de plataformas externas nas estratégias de relacionamento com clientes. Alterações de preços, funcionalidades e políticas podem afetar empresas que concentram toda a jornada em um único ambiente. — O WhatsApp pode continuar sendo uma porta de entrada fundamental, mas os dados, o histórico e as regras de atendimento precisam pertencer à empresa e estar conectados a uma visão integrada do consumidor — afirma o executivo. Nesse cenário, a integração entre canais como site, aplicativo, telefone, e-mail e ferramentas de autoatendimento ganha importância para permitir que o consumidor continue sua jornada sem precisar recomeçar a cada contato. A preparação envolve mapear processos antes de automatizá-los, integrar áreas e desenvolver uma arquitetura tecno",
+  "numeros": [
+   {
+    "valor": "148 milhões",
+    "rotulo": "usuários de WhatsApp no Brasil"
+   },
+   {
+    "valor": "82%",
+    "rotulo": "pequenos negócios que usam WhatsApp como canal principal"
+   }
+  ],
+  "fonte": "GZH",
+  "categoria": "Atendimento",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "aumento de custos e desafios no relacionamento com o cliente",
+  "angulo": "Essa mudança torna essencial a gestão eficiente do atendimento, despertando a necessidade de uma estratégia que envolva automação e integração de canais.",
+  "gancho": "Nova cobrança do WhatsApp: *como você vai reagir?*",
+  "ideias": [
+   "Como a nova taxa do WhatsApp pode impactar seu negócio?",
+   "5 dicas para adaptar seu atendimento ao WhatsApp",
+   "A importância da automação no atendimento ao cliente"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://gauchazh.clicrbs.com.br/viral/noticia/2026/11/whatsapp-mais-caro-nova-cobranca-da-meta-coloca-eficiencia-do-atendimento-a-prova-cmwl2727x00ne015u08lwx7md.html",
+  "publicadoEm": "2026-11-20T12:55:12-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "O impacto do *5G+* nos negócios e vendas",
+  "resumo": "A nova tecnologia 5G+ promete revolucionar o mercado brasileiro, possibilitando melhores experiências para consumidores, rápida evolução da infraestrutura e novas oportunidades para negócios.",
+  "fatos": [
+   "O mercado de 5G Standalone foi avaliado em US$ 2,4 bilhões em 2024.",
+   "A previsão é que alcance US$ 5,6 bilhões em 2026 e US$ 33,4 bilhões em 2030.",
+   "O crescimento anual composto (CAGR) é de 55,6% entre 2025 e 2030.",
+   "O 5G+ oferece picos de velocidade de até 2 Gbps, dependendo da infraestrutura.",
+   "A tecnologia viabiliza aplicações avançadas de internet das coisas e automação industrial."
+  ],
+  "explicacao": [
+   "A evolução do 5G para a versão 5G Advanced (5G+) melhora a velocidade e a resposta da rede, impactando diretamente na experiência do usuário.",
+   "Com menor latência e maior capacidade, serviços como streaming e videoconferências ganham eficiência, essencial para empresas que dependem de tecnologia.",
+   "Além disso, a integração com inteligência artificial pode otimizar operações, reduzindo desperdícios e aumentando a eficiência energética para empresas."
+  ],
+  "materia": "A chegada da oferta de serviços da nova evolução do 5G, conhecida como 5G Advanced (5G-A ou 5.5G) e comercializada pela Vivo como 5G+, ao mercado consumidor brasileiro marca uma fase importante na evolução da tecnologia. Essa melhoria tecnológica tem como foco clientes mais exigentes, que buscam mais velocidade e novas possibilidades de experiências. E o mercado prevê bons resultados para a infraestrutura que sustenta essa evolução. Tanto que o setor global de redes 5G Standalone foi avaliado em US$ 2,4 bilhões em 2024, com previsão de US$ 5,6 bilhões em 2026 e US$ 33,4 bilhões em 2030 , com uma taxa de crescimento anual composta (CAGR) de 55,6% de 2025 a 2030. Os dados são da consultoria Grand View Research e se referem especificamente ao mercado de redes 5G Standalone, arquitetura que permite a implementação de recursos mais avançados. Principais vantagens De forma resumida, podemos dizer que essa evolução tecnológica oferece recursos como: O que é preciso? Para utilizar essa tecnologia, é preciso que a operadora ofereça o serviço na região, com infraestrutura de rede compatível, além de um plano de telefonia móvel, smartphone com suporte ao 5G Standalone e à agregação de frequências e chip habilitado. No caso da Vivo, a operadora informa que seus planos já oferecem acesso ao 5G+ sem cobrança adicional , desde que o cliente esteja em uma área de cobertura e tenha um aparelho compatível. Dependendo do dispositivo, pode ser necessário utilizar um chip 5G ou eSIM. O que muda? O 5G chegou inicialmente ao mercado brasileiro com implementações Non-Standalone (NSA), que utilizam parte da infraestrutura existente das redes 4G, especialmente o núcleo da rede. Ou seja, embora utilize antenas e frequências do 5G para a transmissão de dados, essa arquitetura ainda depende do 4G para algumas funções essenciais. A velocidade da conexão e a capacidade da rede melhoram , mas o usuário continua dependendo da infraestrutura anterior em parte da operação. O 5G NSA permitiu que as operadoras ampliassem a cobertura da nova tecnologia sem precisar substituir toda a estrutura de rede de uma só vez. Já no 5G Standalone (SA), a arquitetura utiliza um núcleo de rede próprio do 5G, independente do 4G. Com isso, torna-se possível explorar benefícios como menor latência, maior capacidade de transmissão de dados e recursos avançados de gerenciamento da rede. Essa estrutura também viabiliza aplicações como comunicação Machine-to-Machine (de máquina para máquina, muito utilizada pela indústria) e soluções mais avançadas de internet das coisas (IoT), por exemplo. É importante destacar que o 5G Standalone não é a mesma coisa que o 5G Advanced. O primeiro representa uma arquitetura de rede independente do 4G, enquanto o segundo reúne evoluções do padrão 5G, introduzidas a partir do Release 18 do 3GPP, para ampliar desempenho, eficiência e funcionalidades. Um dos recursos mais importantes da implementação do 5G+ pela Vivo é a agregação de portadoras, tecnologia de redes móveis já presente no 4G LTE Advanced, que combina duas ou mais faixas de frequência para ampliar a capacidade de transmissão de dados. No caso da Vivo, a tecnologia utiliza frequências de 3,5 GHz, 2,3 GHz e 2,1 GHz. A operadora anuncia picos de velocidade de até 2 Gbps, embora o desempenho real dependa de fatores como cobertura, condições da rede e aparelho utilizado. A tendência é que o 5G Standalone e os recursos do 5G Advanced ganhem espaço gradualmente, convivendo durante a transição com redes Non-Standalone. Quais as diferenças para o usuário? Com mais velocidade e menor latência, é possível ter downloads e uploads mais rápidos, maior estabilidade e melhor resposta da rede, dependendo das condições de uso. Isso tem impacto em serviços como streaming em alta resolução, videoconferência e jogos em nuvem, entre outros. Já a baixa latência é importante para aplicações que exigem respostas rápidas e precisas, quase em tempo real. Entre os exemplos estão sistemas de automação industrial, comuni",
+  "numeros": [
+   {
+    "valor": "55,6%",
+    "rotulo": "crescimento anual do mercado de 5G até 2030"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Perda de competitividade e oportunidades no mercado",
+  "angulo": "Entender como a nova tecnologia 5G+ pode transformar seu negócio e a necessidade de se adaptar à evolução tecnológica.",
+  "gancho": "Prepare seu negócio para o *futuro do 5G+*!",
+  "ideias": [
+   "5G+: O futuro das redes no Brasil",
+   "Como o 5G+ pode transformar seu negócio",
+   "Preparando sua empresa para a era do 5G+"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://canaltech.com.br/telecom/5g-promete-ate-2-gbps-no-brasil-veja-o-que-muda-para-voce/",
+  "publicadoEm": "2026-11-20T18:00:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças no IPVA para híbridos em São Paulo",
+  "resumo": "A isenção do IPVA para carros híbridos em SP acaba em 2026. A partir de 2027, os proprietários terão aumento progressivo na alíquota do imposto, impactando significativamente o orçamento.",
+  "fatos": [
+   "A isenção do IPVA para carros híbridos em São Paulo terminará em 31 de dezembro de 2026.",
+   "Proprietários de híbridos começarão a recolher o imposto a partir de janeiro de 2027.",
+   "A cobrança será escalonada: 1% em 2027, 2% em 2028, 3% em 2029 e 4% a partir de 2030.",
+   "Modelos como Toyota Corolla, Corolla Cross e Yaris Cross estão entre os afetados pela nova regra.",
+   "Um carro avaliado em R$ 200 mil pagará R$ 2 mil de IPVA no primeiro ano."
+  ],
+  "explicacao": [
+   "A nova legislação foi criada pela Lei Estadual 18.065/2024 e se aplica a uma categoria específica de híbridos.",
+   "Essa mudança impacta diretamente o orçamento dos proprietários, que devem se preparar para despesas adicionais.",
+   "Caso a PEC aprovada em julho avance, pode haver mudanças futuras na forma de cálculo do imposto."
+  ],
+  "materia": "Quem comprou um carro híbrido contando com a isenção permanente do IPVA em São Paulo precisa começar a se preparar para uma mudança no orçamento que vai acontecer em um futuro próximo. O benefício concedido pelo governo estadual tem data para terminar: 31 de dezembro de 2026 . A partir de janeiro de 2027, os proprietários dos modelos contemplados voltarão a recolher o imposto . A boa notícia é que a cobrança não será integral logo no primeiro ano, já que a legislação estabeleceu uma retomada escalonada , com aumento progressivo da alíquota. A regra foi criada pela Lei Estadual 18.065/2024 e vale para uma categoria específica de híbridos e carros movidos a hidrogênio. Portanto, não significa que todos os eletrificados que circulam pelo estado tenham recebido ou receberão o mesmo tratamento tributário. Veja quais híbridos perdem a isenção e quanto vão pagar O benefício contempla híbridos com motor a combustão flex ou abastecido exclusivamente com etanol, desde que também atendam às exigências técnicas do sistema elétrico. Entre elas estão potência mínima de 40 kW (cerca de 54 cv) para o motor elétrico e bateria com tensão mínima de 150 volts . O valor venal do automóvel também precisa respeitar o teto atualizado anualmente pelo IPCA, que em 2026 é de R$ 261.154,45. Na prática, modelos como Toyota Corolla, Corolla Cross e Yaris Cross híbridos estão entre os contemplados atualmente. A alíquota será de 1% em 2027, subirá para 2% em 2028 e 3% em 2029, até alcançar os 4% a partir de 2030. Em um carro avaliado em R$ 200 mil , por exemplo, isso representa R$ 2 mil de IPVA no primeiro ano , R$ 4 mil no segundo, R$ 6 mil no terceiro e R$ 8 mil a partir de 2030, caso o valor venal permaneça igual. O cenário só deverá mudar caso a PEC (Proposta de Emenda à Constituição) aprovada pela CCJ da Câmara em julho desse ano avance e altere a forma de calcular o imposto de uma vez por todas.",
+  "numeros": [
+   {
+    "valor": "4%",
+    "rotulo": "alíquota máxima do IPVA em 2030"
+   },
+   {
+    "valor": "R$ 2.000",
+    "rotulo": "IPVA no primeiro ano para carro de R$ 200 mil"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Comércio local",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Impactos financeiros inesperados no orçamento empresarial",
+  "angulo": "Essa mudança tributária destaca a importância de um planejamento financeiro sólido e gestão de custos. Considerar serviços de assessoria e automação pode minimizar impactos futuros.",
+  "gancho": "Prepare-se para a *mudança no IPVA dos híbridos*!",
+  "ideias": [
+   "Como planejar financeiramente para a nova alíquota do IPVA?",
+   "O que muda com o fim da isenção de IPVA para híbridos?",
+   "Despesas inesperadas: o impacto no seu negócio."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://canaltech.com.br/carros/acabou-a-farra-hibridos-tem-data-para-voltar-a-pagar-ipva-em-sao-paulo/",
+  "publicadoEm": "2026-11-20T14:02:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-vpr-07"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Descontos que afetam vendas e decisões",
   "resumo": "O Lenovo Ideapad Slim 3 está com 29% de desconto na Amazon, refletindo mudanças no consumo e competitividade do mercado, exigindo que empresas se adaptem rapidamente.",
   "fatos": [
@@ -321,6 +589,234 @@
   "publicadoEm": "2026-11-20T11:43:00-03:00",
   "data": "2026-11-20",
   "id": "2026-11-20-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novas regras de trabalho impactam seu bolso",
+  "resumo": "O decreto que extingue a escala 6x1 levanta dúvidas para empresários a menos de um mês de sua implementação, com possíveis aumentos de custos e necessidade de adaptação.",
+  "fatos": [
+   "O decreto, assinado por Lula em 19 de outubro, regulamenta o fim da escala 6x1.",
+   "Faltam 27 dias para o início da implementação, previsto para 16 de dezembro.",
+   "O setor precisa contratar 288 mil trabalhadores adicionais para manter a produção.",
+   "Estima-se um aumento de 10% a 22% nos custos do varejo e até 20% na folha de pagamento de bares e restaurantes.",
+   "A Confederação Nacional da Indústria pede mais tempo para adaptação, de 90 a 180 dias."
+  ],
+  "explicacao": [
+   "A mudança na jornada de trabalho gera incertezas para empresários, com dificuldades em reorganizar equipes e potencial aumento de custos operacionais.",
+   "Setores como comércio e hotelaria, que enfrentam movimentos intensos no final do ano, são os mais impactados.",
+   "A falta de clareza nas novas regras gera insegurança jurídica, levando empresas a temer decisões sem garantias sobre fiscalização."
+  ],
+  "materia": "O decreto assinado pelo presidente Luiz Inácio Lula da Silva na quinta-feira (19) para regulamentar o fim da escala 6x1 provocou novas críticas e questionamentos de entidades empresariais. Com apenas 27 dias até o início da mudança, representantes do comércio, da indústria, de bares e restaurantes e de outros setores apontam falta de clareza sobre a aplicação das regras, dificuldades para reorganizar as jornadas e possíveis aumentos de custos. Também há dúvidas sobre os critérios de remuneração e os efeitos da regulamentação sobre contratos e acordos coletivos em vigor. O próprio Lula reconheceu que a implementação deverá provocar conflitos e judicialização, com parte dos empresários que tentará encontrar brechas na interpretação do decreto. “Vai haver algumas confusões. Vai ter muitas queixas. Podem estar certos disso\", afirmou o presidente. \"É importante que o movimento sindical se prepare seus dirigentes para fazerem a negociação, [porque] o empresário não vai respeitar [o dirigente despreparado]. Acho importante que o Ministério do Trabalho prepare as delegacias do trabalho e que a Justiça esteja preparada, porque tudo que é novo enfrenta dificuldades.” Uma das principais reclamações das entidades é o prazo para adaptação. O Instituto para Desenvolvimento do Varejo (IDV) considera insuficiente o intervalo até 16 de dezembro, quando começa a primeira etapa da transição, e defende o adiamento da implementação por até um ano. A Confederação Nacional da Indústria (CNI) também pede maior previsibilidade para que as empresas possam reorganizar suas operações e adequar os contratos às novas regras. A Câmara Brasileira da Indústria da Construção (CBIC) defende um período de 90 a 180 dias para adaptação. A entidade estima que o setor precisaria contratar aproximadamente 288 mil trabalhadores adicionais para manter o ritmo atual de produção com a redução da jornada. A dificuldade é maior em atividades que dependem de funcionamento contínuo e escalas de revezamento, nas quais a diminuição das horas disponíveis exige reorganização das equipes. No comércio e na hotelaria, a Confederação Nacional do Comércio (CNC) alerta para o impacto da mudança justamente no período de maior movimento do fim do ano. A entidade defende que as negociações coletivas tenham espaço para adequar as jornadas às características de cada atividade. A preocupação envolve especialmente micro e pequenas empresas, que têm menos capacidade financeira para absorver custos adicionais e reorganizar equipes em pouco tempo. Além do prazo, as entidades questionam como algumas disposições do decreto serão aplicadas. A CNI aponta dúvidas sobre os efeitos dos novos divisores utilizados no cálculo do salário-hora, a remuneração de horas extras e adicionais e a aplicação das regras a contratos anteriores. A entidade também considera necessário esclarecer possíveis divergências entre o texto regulamentar e os parâmetros estabelecidos pelo ministro Flávio Dino, do Supremo Tribunal Federal (STF). A Abrasel chama a atenção para o custo do segundo descanso semanal remunerado. Segundo a entidade, estabelecimentos que já adotam a escala 5x2, mas cumprem 44 horas semanais, poderão ter aumento de 9,1% na folha de pagamento apenas com a incorporação do segundo repouso remunerado. A associação também estima que a redução da jornada poderá elevar os custos operacionais do setor e pressionar os preços cobrados dos consumidores. O IDV calcula que a mudança poderá elevar entre 10% e 22% os custos do varejo. Já a Abrasel estima que a folha de pagamento de bares e restaurantes poderá aumentar pelo menos 20% para compensar a redução da jornada, com possibilidade de repasse de parte das despesas aos preços. Também há questionamentos como serão tratados os regimes especiais e as atividades que exigem jornadas diferenciadas. A preocupação é que a falta de orientações suficientemente detalhadas obrigue empresas a tomar decisões sem segurança sobre os critérios que serão posteriormente exigidos pela",
+  "numeros": [
+   {
+    "valor": "10% a 22%",
+    "rotulo": "aumento nos custos do varejo"
+   },
+   {
+    "valor": "20%",
+    "rotulo": "aumento na folha de pagamentos dos restaurantes"
+   },
+   {
+    "valor": "288 mil",
+    "rotulo": "trabalhadores a mais necessários"
+   }
+  ],
+  "fonte": "Gazeta do Povo",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Aumento de custos e insegurança nas contratações",
+  "angulo": "Entender essas mudanças pode ser a chave para diversificar sua renda e se livrar de amarras financeiras.",
+  "gancho": "Você está preparado para o *fim da escala 6x1*?",
+  "ideias": [
+   "Como o fim da escala 6x1 afeta seu negócio?",
+   "Saiba o que muda com as novas regras de jornada!",
+   "Prepare-se: o fim da escala 6x1 chegou!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://www.gazetadopovo.com.br/economia/decreto-sobre-6x1-mantem-lacunas-a-menos-de-um-mes-da-implementacao-e-lula-admite-judicializacao/",
+  "publicadoEm": "2026-11-20T15:34:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 pode gerar novas oportunidades",
+  "resumo": "Sindicatos estão negociando o fim da escala 6x1, o que pode resultar em mais vagas no comércio. Essa mudança tem potencial de impactar diretamente o mercado de trabalho.",
+  "fatos": [
+   "Sindicatos iniciaram negociações sobre o fim da escala 6x1.",
+   "A mudança pode abrir novas vagas de emprego no setor comercial.",
+   "O movimento visa melhorar as condições de trabalho e atrair mais profissionais."
+  ],
+  "explicacao": [
+   "A escala 6x1, que implica em um dia de folga após seis de trabalho, vem sendo discutida por sindicatos que buscam flexibilização.",
+   "Se abolida, essa escala pode aumentar a rotatividade de funcionários e, consequentemente, a oferta de vagas.",
+   "O comércio, em particular, poderia se beneficiar com mais mão de obra disponível."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "CBN Goiânia",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "perda de estabilidade e oportunidades de renda",
+  "angulo": "Entender o impacto dessa mudança pode ser essencial para quem busca diversificar fontes de renda e segurança financeira.",
+  "gancho": "Novas *oportunidades no mercado de trabalho*",
+  "ideias": [
+   "Novas vagas à vista: o que isso significa?",
+   "Fim da escala 6x1: mudanças no emprego!",
+   "Como a flexibilização pode gerar renda?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://www.cbngoiania.com.br/tarde-cbn/sindicatos-iniciam-negociac-es-sobre-fim-da-escala-6x1-mudanca-pode-abrir-vagas-no-comercio-1.3483078",
+  "publicadoEm": "2026-11-20T15:28:51-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1: agronegócio em transição",
+  "resumo": "As novas regras da jornada 5x2 podem impactar negócios do agronegócio. O setor se vê pressionado a se adaptar, sem garantias de exceções como desejavam.",
+  "fatos": [
+   "O Decreto nº 13.173 estabelece a jornada 5x2 para trabalhadores urbanos, rurais e domésticos.",
+   "O decreto foi assinado pelo presidente Luiz Inácio Lula da Silva e publicado em 19 de novembro de 2026.",
+   "As horas de trabalho serão reduzidas de 44 para 42 horas a partir de 16 de dezembro de 2026.",
+   "A carga horária chegará a 40 horas em dezembro de 2027 sem redução salarial.",
+   "A Frente Parlamentar da Agropecuária pleiteou exceções para o setor, mas não foi atendida."
+  ],
+  "explicacao": [
+   "A decisão do governo altera a rotina de trabalho no agronegócio sem considerar suas características específicas.",
+   "As novas regras exigem uma adaptação que pode afetar a produtividade e a margem de lucro.",
+   "Ao não conceder excepcionais, o governo deixa o setor em uma situação incerta, impactando os empregos e a renda das famílias."
+  ],
+  "materia": "O Decreto nº 13.173 estabelece que a nova jornada se aplica a trabalhadores urbanos, rurais e domésticos, além dos trabalhadores avulsos, no que couber. Foto: Leandro Fonseca data: 20/06/2023 (Leandro Fonseca/Exame) Publicado em 20 de novembro de 2026 às 15h33 . Última atualização em 20 de novembro de 2026 às 15h59 . O agronegócio terá de se adaptar às novas regras da jornada de trabalho 5x2, apesar das tentativas de negociar exceções para o setor. O decreto assinado pelo presidente Luiz Inácio Lula da Silva (PT) e publicado na quinta-feira, 19, não contemplou as reivindicações da bancada ruralista por condições diferenciadas de trabalho. A Frente Parlamentar da Agropecuária (FPA) defende regras que considerem as particularidades de atividades como frigoríficos, pecuária e produção leiteira, que exigem funcionamento contínuo e nem sempre permitem a adoção de uma escala uniforme. Segundo a FPA, a criação de um regime específico para os trabalhadores rurais dependerá da aprovação de uma nova Proposta de Emenda à Constituição (PEC) que altere as regras da escala 6x1. O Decreto nº 13.173 estabelece que a nova jornada se aplica a trabalhadores urbanos, rurais e domésticos, além dos trabalhadores avulsos, no que couber. A carga horária semanal será reduzida gradualmente, das atuais 44 horas para 42 horas a partir de 16 de dezembro de 2026, chegando a 40 horas em dezembro de 2027, sem redução salarial. Empresa precisa de 350 mil toneladas de cevada para suas maltarias gaúchas, mas produção local ainda é insuficiente Estudo da AlmapBBDO e do Grupo Consumoteca ouviu 1.659 pessoas e revela o contraste entre o campo idealizado e a vida rural BTG Pactual vê melhora insuficiente nos bovinos, margens menores em suínos e pressão sobre o caixa em 2027 Setor brasileiro diz estar 'surpreso' com a decisão; votação do bloco europeu foi remarcada para 7 e 8 de dezembro",
+  "numeros": [
+   {
+    "valor": "350 mil toneladas",
+    "rotulo": "demanda de cevada para maltarias"
+   },
+   {
+    "valor": "44 a 40",
+    "rotulo": "carga horária semanal em horas"
+   },
+   {
+    "valor": "16 de dezembro de 2026",
+    "rotulo": "início da redução da jornada"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Trabalho",
+  "publico": [
+   "Empresários",
+   "Autônomos"
+  ],
+  "dor": "aumento no custo de operação e adaptação às novas regras",
+  "angulo": "A mudança nas regras de trabalho apresenta um desafio, levando empresários a buscar novas formas de renda por meio do aprendizado do mercado financeiro.",
+  "gancho": "Mudança na *escala de trabalho* afeta mais sua renda",
+  "ideias": [
+   "Adapte-se: as novas regras de trabalho",
+   "Alterações na jornada: o que vem por aí?",
+   "Como o mercado financeiro pode ajudar?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://exame.com/agro/fim-da-escala-6x1-agronegocio-tera-de-adotar-jornada-5x2-sem-regras-especificas/",
+  "publicadoEm": "2026-11-20T12:33:23-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudança na jornada de trabalho pode impactar recursos das empresas",
+  "resumo": "A alteração da jornada 6x1 para 5x2 pode gerar custos adicionais significativos para empresas. Empreendedores precisam se preparar para não comprometer seus negócios.",
+  "fatos": [
+   "A mudança para a jornada 5x2 pode custar até R$ 35 milhões por ano em empresas com 10 mil funcionários.",
+   "Esse valor representa 7,3% do EBIT, considerando um faturamento anual de R$ 12 bilhões.",
+   "Seriam necessárias 800 novas contratações para atender a nova jornada nesse cenário.",
+   "Empresas menores também enfrentariam novos custos, chegando a R$ 2,9 milhões por ano em um exemplo com 1 mil funcionários.",
+   "A mudança pode gerar uma queda no PIB entre 1,3% e 1,9% já no primeiro ano de implementação.",
+   "Há risco de aumento da informalidade e repasse de custos adicionais aos preços dos produtos.",
+   "Empresários devem se preparar e repensar a gestão antes da implementação das novas regras."
+  ],
+  "explicacao": [
+   "A tentativa de substituir a escala de trabalho 6x1 pela jornada 5x2 visa atender demandas por melhores condições, mas traz custos altos para as empresas.",
+   "Empresas enfrentarão desafios na adaptação, com necessidade de contratar mais funcionários, o que aumenta a folha de pagamento.",
+   "O impacto econômico pode ser significativo, com risco de diminuição de empregos e aumento da informalidade no mercado.",
+   "Os empresários precisam ser estratégicos, pensando em reorganização e eficiência para minimizar os efeitos da mudança nas operações.",
+   "Um planejamento adequado pode reduzir os custos em até 50%, evitando prejuízos e mantendo a operação sustentável."
+  ],
+  "materia": "Adequação à jornada 5x2 exigiria 800 novas contratações em um atacarejo; em uma empresa menor, custo seria de R$ 2,9 milhões Quanto vai custar para a sua empresa deixar a escala 6x1 e adotar a jornada 5x2? A resposta depende de como funciona cada negócio, mas um novo levantamento dá uma dimensão dessa conta: em uma empresa com 10 mil funcionários, a mudança poderia representar R$ 35 milhões em despesas adicionais por ano. O cálculo foi feito pela Peers Consulting + Technology , em parceria com a Tendências Consultoria, a partir de simulações com empresas de diferentes portes. Nos dois exemplos analisados, o impacto estimado foi equivalente a 0,29% do faturamento anual, embora o peso sobre o resultado operacional tenha sido diferente. No cenário de uma empresa de atacarejo, com faturamento anual de R$ 12 bilhões e 10 mil funcionários, a adequação à jornada 5x2 poderia custar R$ 35 milhões por ano. O valor representa 7,3% do EBIT, indicador que considera o resultado operacional da companhia. Para atender à nova jornada, a simulação também aponta a necessidade de contratar outros 800 colaboradores. A conta muda quando a operação é menor e não exige funcionamento contínuo. No segundo exemplo, de uma empresa de materiais de construção com mil funcionários e faturamento anual de R$ 1 bilhão, o custo estimado é de R$ 2,9 milhões por ano. Nesse caso, o negócio funciona seis dias por semana. A despesa adicional também equivale a 0,29% do faturamento, mas representa 4,9% do EBIT. A necessidade de reforçar a equipe seria de 66 novas posições. Faria Lima ainda não engoliu a vitória de Lula? Economista vê ‘má vontade’ do mercado com o governo O que abre e o que fecha no feriado da Consciência Negra? Confira funcionamento dos bancos, B3, Correios e INSS Os números fazem parte de uma calculadora de impacto desenvolvida pela Peers, que permite simular diferentes cenários de carga horária, os impactos bruto e líquido na folha de pagamento e a necessidade de novas contratações. A ferramenta pode ser utilizada por negócios de pequeno, médio e grande porte. A discussão, no entanto, não envolve apenas o orçamento de cada empresa. Nas simulações da Tendências Consultoria, a redução da jornada também poderia provocar uma queda importante e rápida da atividade econômica brasileira já no primeiro ano de vigência da medida. A depender das hipóteses de produtividade consideradas, o impacto estimado no Produto Interno Bruto (PIB) varia de -1,3% a -1,9%. As projeções também apontam possibilidade de perda de empregos no total, aumento da informalidade e repasse de parte dos custos adicionais do trabalho aos preços. Esses efeitos seriam especialmente relevantes nos setores mais suscetíveis à mudança. É o caso de atividades que dependem de trabalho presencial, cobertura contínua e jornadas superiores a 40 horas semanais, como varejo , alimentação, logística, hospitalidade e serviços operacionais. “Isso aponta a necessidade de implementação gradual da medida e, do ponto de vista das empresas, uma necessidade de antecipação no sentido de se preparar para a mudança, buscando minimização de impactos”, afirma Alessandra Ribeiro, sócia e diretora da área de Macroeconomia e Análise Setorial da Tendências Consultoria. Os valores dos dois exemplos consideram os impactos diretos da mudança na jornada. Ficaram de fora, portanto, os efeitos macroeconômicos e os custos indiretos que podem surgir durante a adaptação, como mudanças em sistemas, processos e treinamento de novos funcionários. Mas a conta não precisa necessariamente ficar nesses patamares. Segundo o levantamento, os montantes estimados poderiam ser reduzidos em até 50% com a adoção de processos estruturados, como rightsizing (redimensionamento das equipes), escalas organizadas de acordo com a demanda, banco de horas e automação. A ideia é que o empresário comece a olhar para a operação antes de precisar fazer as mudanças. Isso inclui entender onde será necessário contratar mais gente e quais processos podem s",
+  "numeros": [
+   {
+    "valor": "35 milhões",
+    "rotulo": "custo anual para empresa de 10 mil funcionários"
+   },
+   {
+    "valor": "800",
+    "rotulo": "novas contratações necessárias"
+   },
+   {
+    "valor": "1,3% a 1,9%",
+    "rotulo": "queda do PIB estimada"
+   }
+  ],
+  "fonte": "Seu Dinheiro",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "aumento de custos e perda de competitividade",
+  "angulo": "Entender como o mercado financeiro e a adaptação a essas mudanças podem gerar novas oportunidades e fontes de renda é essencial para empresários.",
+  "gancho": "Prepare-se para *mudanças no mercado de trabalho*",
+  "ideias": [
+   "Mudanças nas leis trabalhistas e impacto nas empresas",
+   "Como adaptar seu negócio à nova jornada 5x2",
+   "Oportunidades de renda no mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-20T19:28:10-03:00",
+  "url": "https://www.seudinheiro.com/2026/economia/fim-da-escala-6x1-pode-custar-r-35-milhoes-por-ano-a-empresa-com-10-mil-funcionarios-cbcb/",
+  "publicadoEm": "2026-11-20T18:35:00-03:00",
+  "data": "2026-11-20",
+  "id": "2026-11-20-trader-06"
  },
  {
   "segmento": "trader",

@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-20T15:03:56-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-11-20T19:28:10-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Fim da escala 6x1 e suas consequências para o trabalho; Fim da escala 6x1 pode impactar seu bolso; Fim da escala 6x1: impactos para construtoras.",
+  "mensagem": "4 pauta(s) nova(s): Mudança na jornada de trabalho pode impactar recursos das empresas; Fim da escala 6x1: agronegócio em transição; Fim da escala 6x1 pode gerar novas oportunidades.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-20T19:28:10-03:00",
    "2026-11-20T15:03:56-03:00",
    "2026-11-19T23:43:15-03:00",
    "2026-11-19T19:51:20-03:00",
@@ -18,19 +19,19 @@
    "2026-11-18T00:11:57-03:00",
    "2026-11-17T20:16:24-03:00",
    "2026-11-17T15:49:13-03:00",
-   "2026-11-17T01:13:55-03:00",
-   "2026-11-16T20:56:18-03:00"
+   "2026-11-17T01:13:55-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-20T15:03:56-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-20T19:28:10-03:00",
+  "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Como a IA pode transformar sua Black Friday em 2026; Ajustes econômicos exigem marketing estratégico em 2027; Queda nas vendas da Black Friday no Paraná.",
+  "mensagem": "5 pauta(s) nova(s): Mudanças no IPVA para híbridos em São Paulo; O impacto do *5G+* nos negócios e vendas; WhatsApp: nova cobrança afeta atendimento e vendas das empresas.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-20T19:28:10-03:00",
    "2026-11-20T15:03:56-03:00",
    "2026-11-19T23:43:15-03:00",
    "2026-11-19T19:51:20-03:00",
@@ -41,8 +42,7 @@
    "2026-11-18T00:11:57-03:00",
    "2026-11-17T20:16:24-03:00",
    "2026-11-17T15:49:13-03:00",
-   "2026-11-17T01:13:55-03:00",
-   "2026-11-16T20:56:18-03:00"
+   "2026-11-17T01:13:55-03:00"
   ]
  }
 }
