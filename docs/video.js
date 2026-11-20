@@ -217,45 +217,79 @@ const elKey=()=>LSv.get("rv-eleven-key",""),oaKey=()=>window.radarKey?.get()||""
 // Fish Audio passa pela ponte na Vercel (a API deles não aceita chamada do navegador); mesmas chaves do "Vídeo clássico"
 const fishKey=()=>LSv.get("radar-fish-key",""),fishVoz=()=>LSv.get("radar-fish-voz","");
 const PONTE_FISH="https://estudio-de-cards.vercel.app/api/fish";
-const INSTR="Fale em português do Brasil, com sotaque brasileiro natural (paulistano neutro), como um jornalista de economia gravando um Reels: "+
-  "tom de conversa, seguro e próximo, ritmo dinâmico com pausas curtas entre as frases, ênfase leve nos números. Nada de tom de locutor de rádio nem de robô.";
+// direção de voz: a base vale para todo o vídeo; cada cena ganha um ajuste conforme o papel dela
+const INSTR_BASE="Português do Brasil, sotaque brasileiro natural. Você é um criador de conteúdo de economia gravando um Reels que precisa prender a atenção: "+
+  "energia alta e contagiante, sorriso na voz, entonação que sobe e desce (nunca monótono), ênfase forte nos números e nas palavras-chave, "+
+  "pausas curtas e intencionais nas vírgulas e reticências, perguntas com entonação de pergunta. Ritmo dinâmico, sem pressa e sem arrastar. Nada de tom de locutor de rádio, de leitura ou de robô.";
+function direcao(c,i,n){const cap=String(c.cap||"").toUpperCase(),t=(c.visual||{}).tipo;
+  if(i===0)return "Abertura: comece com impacto, como quem conta uma novidade surpreendente para um amigo; energia máxima, segure a atenção nos primeiros segundos.";
+  if(t==="fim")return "Fechamento: tom caloroso e convidativo, sorrindo, chamando para a ação com convicção.";
+  if(t==="numero"||/N[ÚU]MERO|CONTA/.test(cap))return "Cena de número: faça uma micro pausa antes do número e dê ênfase forte nele, como uma revelação.";
+  if(/IMPACTO|IMPORTA/.test(cap))return "Cena de impacto: tom sério e firme, ênfase na consequência, mostrando por que isso mexe com a vida de quem assiste.";
+  if(/ENTENDA/.test(cap))return "Cena didática: tom de professor descontraído, claro e simpático, como quem desenrola um conceito difícil.";
+  if(/AGORA|OBSERV/.test(cap))return "Cena de expectativa: tom de suspense leve, criando curiosidade pelo que vem a seguir.";
+  if(t==="citacao")return "Cena de citação: tom de quem conta o que alguém importante disse, com ênfase na frase.";
+  return "Cena de desenvolvimento: tom de conversa animada, avançando a história com ritmo.";}
 function textoNarr(){return V.cenas.map(c=>String(c.narracao||"").trim()).filter(Boolean).map(t=>/[.!?…]$/.test(t)?t:t+".").join(" ");}
-async function vozOpenAI(txt){const key=oaKey();if(!key)throw {code:"sem_chave"};let r;
+const pont=t=>{t=String(t||"").trim();return /[.!?…]$/.test(t)?t:t+".";};
+async function vozOpenAI(txt,instr){const key=oaKey();if(!key)throw {code:"sem_chave"};let r;
   for(const modelo of ["gpt-4o-mini-tts","tts-1-hd"]){r=await fetch("https://api.openai.com/v1/audio/speech",{method:"POST",headers:{"Authorization":"Bearer "+key,"Content-Type":"application/json"},
-      body:JSON.stringify({model:modelo,voice:V.voz||"ash",input:txt,response_format:"mp3",...(modelo==="gpt-4o-mini-tts"?{instructions:INSTR}:{speed:1.05})})});
+      body:JSON.stringify({model:modelo,voice:V.voz||"ash",input:txt,response_format:"mp3",...(modelo==="gpt-4o-mini-tts"?{instructions:INSTR_BASE+" "+(instr||"")}:{speed:1.08})})});
     if(r.ok)break;if(r.status===401)throw {code:"bad_key"};}
   if(!r.ok)throw {code:"http_"+r.status};return await r.arrayBuffer();}
-async function vozEleven(txt,voz){const r=await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(voz)}?output_format=mp3_44100_128`,{method:"POST",
-    headers:{"xi-api-key":elKey(),"Content-Type":"application/json"},body:JSON.stringify({text:txt,model_id:"eleven_multilingual_v2",language_code:"pt",voice_settings:{stability:.45,similarity_boost:.8,style:.25,use_speaker_boost:true}})});
+async function vozEleven(txt,voz,ant,dep){const r=await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(voz)}?output_format=mp3_44100_128`,{method:"POST",
+    headers:{"xi-api-key":elKey(),"Content-Type":"application/json"},body:JSON.stringify({text:txt,model_id:"eleven_multilingual_v2",language_code:"pt",previous_text:ant||undefined,next_text:dep||undefined,
+      voice_settings:{stability:.32,similarity_boost:.8,style:.6,use_speaker_boost:true}})});
   if(r.status===401)throw {code:"eleven_key"};if(!r.ok)throw {code:"eleven_"+r.status};return await r.arrayBuffer();}
 function pedacos(txt,max){const fr=txt.split(/(?<=[.!?…])\s+/),out=[];let a="";for(const f of fr){if((a+" "+f).trim().length>max&&a){out.push(a.trim());a=f;}else a=(a+" "+f).trim();}if(a)out.push(a);return out;}
 async function vozFish(txt){const partes=[];for(const t of pedacos(txt,1800)){
     const r=await fetch(PONTE_FISH,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({key:fishKey(),voz:fishVoz(),text:t})});
     if(!r.ok){let m="";try{m=(await r.json())?.error?.message||"";}catch(e){}throw {code:r.status===401?"fish_key":r.status===402?"fish_credito":"fish_"+r.status,msg:m};}
     partes.push(new Uint8Array(await r.arrayBuffer()));}
-  // MP3 é feito de quadros: emendar os pedaços dá um áudio só
   const tot=partes.reduce((a,b)=>a+b.length,0),u=new Uint8Array(tot);let o=0;for(const p of partes){u.set(p,o);o+=p.length;}return u.buffer;}
-// "ouve" o áudio pronto para saber o tempo de cada palavra (legenda e cortes de cena no tempo exato)
-async function ouvir(mp3){const key=oaKey();if(!key)return null;try{const fd=new FormData();fd.append("file",new Blob([mp3],{type:"audio/mpeg"}),"narracao.mp3");fd.append("model","whisper-1");
+// tira o silêncio que as vozes deixam no começo e no fim, para a pausa entre cenas ser a que a gente escolhe
+function aparar(b){const d=b.getChannelData(0),lim=.012,sr=b.sampleRate;let i=0,j=d.length-1;while(i<d.length&&Math.abs(d[i])<lim)i++;while(j>i&&Math.abs(d[j])<lim)j--;
+  i=Math.max(0,i-Math.round(sr*.04));j=Math.min(d.length-1,j+Math.round(sr*.12));const out=actx().createBuffer(1,Math.max(1,j-i),sr);
+  const m=new Float32Array(j-i);for(let c=0;c<b.numberOfChannels;c++){const x=b.getChannelData(c);for(let k=0;k<m.length;k++)m[k]+=x[i+k]/b.numberOfChannels;}out.copyToChannel(m,0);return out;}
+// pausas entre cenas: maior depois do gancho e antes do fechamento
+function pausa(i,n){if(i===0)return .55;if(i===n-2)return .5;return .32;}
+function emendar(bufs){const sr=bufs[0].sampleRate,n=bufs.length;let tot=0;const ini=[];bufs.forEach((b,i)=>{ini.push(tot);tot+=b.length/sr+(i<n-1?pausa(i,n):.4);});
+  const out=actx().createBuffer(1,Math.ceil(tot*sr),sr),d=out.getChannelData(0);bufs.forEach((b,i)=>d.set(b.getChannelData(0),Math.round(ini[i]*sr)));return {buf:out,ini,lens:bufs.map(b=>b.length/sr)};}
+function wav(b){const d=b.getChannelData(0),sr=b.sampleRate,ab=new ArrayBuffer(44+d.length*2),v=new DataView(ab),w=(o,s)=>[...s].forEach((c,i)=>v.setUint8(o+i,c.charCodeAt(0)));
+  w(0,"RIFF");v.setUint32(4,36+d.length*2,true);w(8,"WAVEfmt ");v.setUint32(16,16,true);v.setUint16(20,1,true);v.setUint16(22,1,true);v.setUint32(24,sr,true);v.setUint32(28,sr*2,true);
+  v.setUint16(32,2,true);v.setUint16(34,16,true);w(36,"data");v.setUint32(40,d.length*2,true);for(let i=0;i<d.length;i++)v.setInt16(44+i*2,Math.max(-1,Math.min(1,d[i]))*32767,true);return ab;}
+// "ouve" o áudio pronto para saber o tempo de cada palavra (legenda no tempo exato da fala)
+async function ouvir(audio,tipo){const key=oaKey();if(!key)return null;try{const fd=new FormData();fd.append("file",new Blob([audio],{type:tipo||"audio/mpeg"}),tipo==="audio/wav"?"narracao.wav":"narracao.mp3");fd.append("model","whisper-1");
     fd.append("language","pt");fd.append("response_format","verbose_json");fd.append("timestamp_granularities[]","word");
     const r=await fetch("https://api.openai.com/v1/audio/transcriptions",{method:"POST",headers:{"Authorization":"Bearer "+key},body:fd});if(!r.ok)return null;const j=await r.json();
     return Array.isArray(j.words)&&j.words.length?j.words.map(w=>({w:String(w.word||""),s:+w.start,e:+w.end})):null;}catch(e){return null;}}
+// áudio enviado pelo usuário (um arquivo só): divide pelas palavras ouvidas ou pelo tamanho das falas
 function alinhar(dur,ouvidas){const cenas=V.cenas.map(c=>palavras(c.narracao));const tot=cenas.reduce((a,b)=>a+b.length,0);if(!tot){V._durs=V.cenas.map(()=>dur/V.cenas.length);V._tw=null;return;}
-  // tempo de cada palavra do roteiro: pelo áudio "ouvido" (mesma ordem, ajustado pela contagem) ou proporcional ao tamanho
   let tempos=[];
   if(ouvidas&&ouvidas.length){const n=ouvidas.length;for(let k=0;k<tot;k++){const j=Math.min(n-1,Math.round(k*(n/tot)));tempos.push(ouvidas[j].s);}}
   else{const ws=cenas.flat(),pesos=ws.map(w=>w.length+2+(/[.,;:!?]$/.test(w)?5:0)),sp=pesos.reduce((a,b)=>a+b,0);let acc=0;tempos=pesos.map(p=>{const s=acc/sp*dur;acc+=p;return s;});}
   let k=0;const ini=[];cenas.forEach(ws=>{ini.push(ws.length?Math.max(0,tempos[k]-.12):null);k+=ws.length;});
   for(let i=0;i<ini.length;i++)if(ini[i]==null)ini[i]=i?ini[i-1]:0;ini[0]=0;
   V._durs=ini.map((s,i)=>((i+1<ini.length?ini[i+1]:dur+.6)-s));k=0;V._tw=cenas.map((ws,i)=>{const t=ws.map((w,j)=>tempos[k+j]-ini[i]);k+=ws.length;return t;});}
-async function narrar(){if(!V)return false;const txt=textoNarr();if(!txt){st("O roteiro está vazio.","err");return false;}
+// narração gerada cena a cena: sabemos onde cada cena começa; as palavras ouvidas só afinam a legenda dentro de cada cena
+function alinharCenas(E,ouvidas){const n=V.cenas.length;V._durs=E.ini.map((s,i)=>(i+1<n?E.ini[i+1]:E.buf.duration+.3)-s);
+  V._tw=V.cenas.map((c,i)=>{const ws=palavras(c.narracao);if(!ws.length)return [];const a=E.ini[i],b=a+E.lens[i];
+    const dentro=(ouvidas||[]).filter(w=>w.s>=a-.05&&w.s<b+.05);
+    if(dentro.length>=Math.max(2,ws.length*.5)){return ws.map((w,j)=>dentro[Math.min(dentro.length-1,Math.round(j*dentro.length/ws.length))].s-a);}
+    const pesos=ws.map(w=>w.length+2+(/[.,;:!?…]$/.test(w)?5:0)),sp=pesos.reduce((x,y)=>x+y,0);let acc=0;return pesos.map(p=>{const s=acc/sp*E.lens[i];acc+=p;return s;});});}
+async function narrar(){if(!V)return false;if(!textoNarr()){st("O roteiro está vazio.","err");return false;}
   const ev=$v("vVoz").value||"";const usarEl=ev.startsWith("el:")&&elKey(),usarFish=ev==="fish";
   if(usarFish&&!fishKey()){st("Coloque a chave do Fish Audio e o ID da voz em \"Fish Audio\" aqui embaixo.","err");return false;}
-  if(!usarEl&&!usarFish&&!oaKey()){st("Para a narração, coloque a chave da OpenAI na aba Marca (ou ligue o ElevenLabs aqui embaixo).","err");return false;}
-  st(usarFish?"Gravando a narração com a sua voz do Fish Audio…":usarEl?"Gravando a narração com a voz do ElevenLabs…":"Gravando a narração…");$v("vNarrar").disabled=true;
-  try{const mp3=usarFish?await vozFish(txt):usarEl?await vozEleven(txt,ev.slice(3)):await vozOpenAI(txt);V._buf=await actx().decodeAudioData(mp3.slice(0));V._audioProprio=false;
-    st("Sincronizando a legenda com a fala…");const ouvidas=await ouvir(mp3);alinhar(V._buf.duration,ouvidas);
-    st(`Narração pronta (${Math.round(V._buf.duration)}s)${ouvidas?", legenda no tempo exato da fala":""}. Toque em Assistir ou Gravar vídeo.`,"ok");return true;}
+  if(!usarEl&&!usarFish&&!oaKey()){st("Para a narração, coloque a chave da OpenAI na aba Marca (ou ligue o Fish Audio ou o ElevenLabs aqui embaixo).","err");return false;}
+  const nome=usarFish?"Fish Audio":usarEl?"ElevenLabs":"OpenAI";$v("vNarrar").disabled=true;
+  try{const cs=V.cenas,n=cs.length,bufs=new Array(n);let feitos=0;st(`Gravando a narração (${nome}): 0 de ${n} cenas…`);
+    const uma=async i=>{const t=pont(cs[i].narracao);if(!String(cs[i].narracao||"").trim()){bufs[i]=actx().createBuffer(1,Math.round(actx().sampleRate*.6),actx().sampleRate);return;}
+      const mp3=usarFish?await vozFish(t):usarEl?await vozEleven(t,ev.slice(3),cs[i-1]?.narracao,cs[i+1]?.narracao):await vozOpenAI(t,direcao(cs[i],i,n));
+      bufs[i]=aparar(await actx().decodeAudioData(mp3.slice(0)));feitos++;st(`Gravando a narração (${nome}): ${feitos} de ${n} cenas…`);};
+    const fila=[...Array(n).keys()];await Promise.all(Array.from({length:4},async()=>{while(fila.length)await uma(fila.shift());}));
+    const E=emendar(bufs);V._buf=E.buf;V._audioProprio=false;st("Sincronizando a legenda com a fala…");
+    const ouvidas=await ouvir(wav(E.buf),"audio/wav");alinharCenas(E,ouvidas);
+    st(`Narração pronta (${Math.round(E.buf.duration)}s, com pausas entre as cenas)${ouvidas?", legenda no tempo exato da fala":""}. Toque em Assistir ou Gravar vídeo.`,"ok");return true;}
   catch(e){const c=e?.code||"";st(c==="bad_key"?"A chave da OpenAI foi recusada.":c==="eleven_key"?"A chave do ElevenLabs foi recusada.":c==="fish_key"?"A chave do Fish Audio foi recusada.":c==="fish_credito"?"Sua conta do Fish Audio está sem crédito.":/^fish_/.test(c)?"O Fish Audio não respondeu ("+c.slice(5)+(e.msg?": "+e.msg:"")+").":c==="sem_chave"?"Coloque a chave da OpenAI na aba Marca.":"Não consegui gravar a narração agora ("+c+"). Tente de novo.","err");return false;}
   finally{$v("vNarrar").disabled=false;renderLista();quadro();}}
 async function audioProprio(f){try{const ab=await f.arrayBuffer();V._buf=await actx().decodeAudioData(ab.slice(0));V._audioProprio=true;st("Sincronizando a legenda com o seu áudio…");
@@ -310,7 +344,7 @@ async function roteiroIA(modo){if(!iaOk()){st("Para a IA escrever o roteiro, col
   const contexto=APP.contexto?APP.contexto(V):`Perfil ${V.handle}: notícias do mercado financeiro explicadas de um jeito simples para quem investe ou quer começar.`;
   const prompt=`Você é roteirista de Reels em português do Brasil. ${contexto}
 ${mat}
-Escreva um roteiro de vídeo vertical de 55 a 80 segundos, falado como um brasileiro explicando para um amigo: frases curtas, ritmo de conversa, expressões naturais do dia a dia, nada de clichê, sem emoji, sem prometer ganho, sem recomendar compra ou venda. Escreva os números por extenso quando ajudar a leitura em voz alta (ex.: "cinco reais e noventa e três"), mas no campo "valor" do visual use o número curto. Só use números, nomes e fatos do material.
+Escreva um roteiro de vídeo vertical de 55 a 80 segundos, falado como um criador de conteúdo brasileiro que prende a atenção: energia, curiosidade e ritmo de Reels. Use frases curtas de impacto, perguntas que puxam a próxima cena ("E sabe o que aconteceu depois?"), viradas ("E não parou aí…"), reticências e vírgulas para marcar pausas, ponto de exclamação com moderação, expressões naturais do dia a dia. Nada de clichê de coach, sem emoji, sem prometer ganho, sem recomendar compra ou venda. Escreva os números por extenso quando ajudar a leitura em voz alta (ex.: "cinco reais e noventa e três"), mas no campo "valor" do visual use o número curto. Só use números, nomes e fatos do material.
 Estrutura: gancho forte na primeira cena; o que aconteceu; os números; por que importa; o que muda para quem assiste; um conceito explicado; o que observar; fechamento: ${fimTxt()}
 Divida em 9 a 13 cenas. Cada cena tem uma fala de 8 a 22 palavras e UM visual:
 - "numero": {"valor":"número curto do material, ex: R$ 11 tri, -20%, 5,93","rotulo":"até 7 palavras","objeto":"um objeto"}
@@ -342,29 +376,77 @@ function variar(cs){let ant="";const usados={};cs.forEach(c=>{const v=c.visual||
 function pronto(msg){cur=0;variar(V.cenas);V._buf=null;V._durs=null;V._tw=null;V.legendaPost=V.legendaPost||legendaLocal();salvar();renderLista();renderCena();quadro();if(msg)st(msg,"ok");}
 function legendaLocal(){const n=V.noticia;return APP.legenda?APP.legenda(V):`${plain(n.gancho||n.titulo)}\n\n${(n.explicacao||[]).slice(0,2).join("\n\n")||n.resumo}\n\nFonte: ${n.fonte}\n\n${fimTxt()}\n\nConteúdo informativo, não é recomendação de investimento.\n\n#mercadofinanceiro #investimentos #economia #bolsadevalores #trader`;}
 
+/* ---------------- trilha de fundo ----------------
+   Música composta aqui mesmo pelo navegador (sem direitos autorais de terceiros): bateria leve, baixo, acordes e arpejo.
+   Ela abaixa sozinha enquanto a voz fala e sobe nas pausas. */
+const TRILHAS={noticia:"Notícia (pulsante)",lofi:"Lo-fi (calma)",tensao:"Tensão (notícia pesada)",nenhuma:"Sem música"};
+const NOTA=n=>440*Math.pow(2,(n-69)/12);
+const ESTILOS={
+  noticia:{bpm:104,acordes:[[57,60,64],[53,57,60],[48,52,55],[55,59,62]],baixo:[45,41,36,43],kick:[0,2,2.5],caixa:[1,3],hat:"8",arp:true,brilho:2600},
+  lofi:{bpm:82,acordes:[[50,53,57,60],[55,59,62,65],[48,52,55,59],[57,60,64,67]],baixo:[38,43,36,45],kick:[0,1.75,2.5],caixa:[1,3],hat:"swing",arp:false,brilho:1500,vinil:true},
+  tensao:{bpm:118,acordes:[[57,60,64],[57,60,65],[57,60,64],[56,60,63]],baixo:[45,45,45,44],kick:[0,1,2,3],caixa:[],hat:"16",arp:true,brilho:2000,pulso:true}};
+const TRILHA_CACHE={};
+async function compor(estilo,dur){const E=ESTILOS[estilo];if(!E)return null;const k=estilo+"|"+Math.ceil(dur);if(TRILHA_CACHE[k])return TRILHA_CACHE[k];
+  const sr=44100,len=Math.ceil((dur+1)*sr),oc=new OfflineAudioContext(2,len,sr),beat=60/E.bpm,bar=beat*4;
+  const master=oc.createDynamicsCompressor();master.threshold.value=-18;master.ratio.value=3;const mg=oc.createGain();mg.gain.value=.9;master.connect(mg);mg.connect(oc.destination);
+  const ruido=oc.createBuffer(1,sr,sr);{const d=ruido.getChannelData(0);for(let i=0;i<d.length;i++)d[i]=Math.random()*2-1;}
+  // eco para o arpejo
+  const eco=oc.createDelay(1);eco.delayTime.value=beat*.75;const fb=oc.createGain();fb.gain.value=.28;const ecoF=oc.createBiquadFilter();ecoF.type="lowpass";ecoF.frequency.value=2200;
+  eco.connect(ecoF);ecoF.connect(fb);fb.connect(eco);const ecoOut=oc.createGain();ecoOut.gain.value=.35;ecoF.connect(ecoOut);ecoOut.connect(master);
+  const env=(g,t,a,v,r)=>{g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(v,t+a);g.gain.exponentialRampToValueAtTime(.0008,t+a+r);};
+  const kick=t=>{const o=oc.createOscillator(),g=oc.createGain();o.frequency.setValueAtTime(130,t);o.frequency.exponentialRampToValueAtTime(42,t+.12);env(g,t,.003,.9,.32);o.connect(g);g.connect(master);o.start(t);o.stop(t+.4);};
+  const barulho=(t,tipo,f,v,r)=>{const s=oc.createBufferSource();s.buffer=ruido;const fl=oc.createBiquadFilter();fl.type=tipo;fl.frequency.value=f;const g=oc.createGain();env(g,t,.002,v,r);s.connect(fl);fl.connect(g);g.connect(master);s.start(t);s.stop(t+r+.05);};
+  const tom=(t,n,d,v,tipo,f,dest)=>{const o=oc.createOscillator(),fl=oc.createBiquadFilter(),g=oc.createGain();o.type=tipo;o.frequency.value=NOTA(n);fl.type="lowpass";fl.frequency.value=f;
+    g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(v,t+.01);g.gain.setTargetAtTime(v*.5,t+.05,d*.3);g.gain.setTargetAtTime(0,t+d,.06);o.connect(fl);fl.connect(g);g.connect(dest||master);o.start(t);o.stop(t+d+.4);};
+  const pad=(t,ns,d)=>ns.forEach(n=>[-6,6].forEach(det=>{const o=oc.createOscillator(),fl=oc.createBiquadFilter(),g=oc.createGain();o.type="sawtooth";o.frequency.value=NOTA(n);o.detune.value=det;
+    fl.type="lowpass";fl.frequency.value=E.brilho*.5;fl.Q.value=.6;g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(.022,t+.6);g.gain.setValueAtTime(.022,t+d-.3);g.gain.linearRampToValueAtTime(0,t+d+.2);
+    o.connect(fl);fl.connect(g);g.connect(master);o.start(t);o.stop(t+d+.3);}));
+  const nb=Math.ceil(dur/bar)+1;
+  for(let b=0;b<nb;b++){const t0=b*bar,ci=b%4,ac=E.acordes[ci],intro=b===0;
+    pad(t0,ac,bar);
+    if(!intro){E.kick.forEach(x=>kick(t0+x*beat));E.caixa.forEach(x=>barulho(t0+x*beat,"bandpass",1900,.32,.16));}
+    const passos=E.hat==="16"?16:8;for(let s=0;s<passos;s++){let t=t0+s*bar/passos;if(E.hat==="swing"&&s%2)t+=bar/passos*.18;barulho(t,"highpass",7500,s%2?.07:.11,.04);}
+    [0,1.5,2,3.5].forEach((x,j)=>{if(!intro||j===0)tom(t0+x*beat,E.baixo[ci]-(j===3?0:0),beat*(j%2?.45:.9),.28,"triangle",500);});
+    if(E.pulso)for(let s=0;s<8;s++)tom(t0+s*bar/8,E.baixo[ci]+12,bar/8*.6,.08,"sawtooth",900);
+    if(E.arp&&!intro){const ns=[...ac,ac[0]+12,...ac.slice().reverse()];for(let s=0;s<8;s++)tom(t0+s*bar/8,ns[s%ns.length]+12,bar/8*.5,.05,"square",E.brilho,eco),tom(t0+s*bar/8,ns[s%ns.length]+12,bar/8*.5,.05,"square",E.brilho);}
+  }
+  if(E.vinil){const s=oc.createBufferSource();s.buffer=ruido;s.loop=true;const fl=oc.createBiquadFilter();fl.type="bandpass";fl.frequency.value=3200;const g=oc.createGain();g.gain.value=.012;s.connect(fl);fl.connect(g);g.connect(master);s.start(0);}
+  // entrada e saída suaves
+  mg.gain.setValueAtTime(0,0);mg.gain.linearRampToValueAtTime(.9,1.2);mg.gain.setValueAtTime(.9,Math.max(1.3,dur-1.5));mg.gain.linearRampToValueAtTime(0,dur+.8);
+  const out=await oc.startRendering();TRILHA_CACHE[k]=out;return out;}
+// volume da trilha acompanha a voz: baixo enquanto fala, sobe nas pausas
+function abaixarNaFala(gain,t0,base){const v=V._buf;gain.gain.setValueAtTime(base,t0);if(!v)return;const d=v.getChannelData(0),sr=v.sampleRate,jan=Math.round(sr*.1);let falando=null;
+  for(let i=0;i<d.length;i+=jan){let m=0;for(let j=i;j<Math.min(d.length,i+jan);j++)m=Math.max(m,Math.abs(d[j]));const f=m>.02;
+    if(f!==falando){gain.gain.setTargetAtTime(f?base*.32:base,t0+i/sr,f?.05:.35);falando=f;}}}
+function trilhaSel(){return $v("vTrilha")?.value||LSv.get("rv-trilha","noticia");}
+function trilhaVol(){return +($v("vTrilhaVol")?.value||LSv.get("rv-trilha-vol","0.5"));}
+
 /* ---------------- tocar e gravar ---------------- */
 function quadro(){if(!V||!cv())return;const g=cv().getContext("2d");const L=linha();desenhar(g,(L.ini[cur]||0)+Math.min(1.6,(L.dur[cur]||2)*.7),L);
   $v("vTempo").textContent=`${Math.round(L.total)}s · ${V.cenas.length} cenas${V._buf?" · com narração":""}`;}
 function parar(){if(tocando){tocando.stop=true;try{tocando.src.forEach(s=>s.stop());}catch(e){}tocando=null;}$v("vPlay").textContent="Assistir";}
-function rodar(dest,onFrame){const ctx=actx(),L=linha(),g=cv().getContext("2d"),t0=ctx.currentTime+.3,src=[];
+async function prepararTrilha(){const est=trilhaSel();if(est==="nenhuma")return null;if(!V._trilha||V._trilha.est!==est||V._trilha.dur<linha().total){
+    st("Compondo a trilha…");V._trilha={est,dur:linha().total,buf:await compor(est,linha().total)};}return V._trilha.buf;}
+function rodar(dest,onFrame,mus){const ctx=actx(),L=linha(),g=cv().getContext("2d"),t0=ctx.currentTime+.3,src=[];
   if(V._buf){const s=ctx.createBufferSource();s.buffer=V._buf;s.connect(ctx.destination);if(dest)s.connect(dest);s.start(t0);src.push(s);}
+  if(mus){const s=ctx.createBufferSource(),gn=ctx.createGain();s.buffer=mus;s.connect(gn);gn.connect(ctx.destination);if(dest)gn.connect(dest);abaixarNaFala(gn,t0,trilhaVol()*.35);s.start(t0);s.stop(t0+L.total+.3);src.push(s);}
   const est={stop:false,src};return {est,fim:new Promise(res=>{const passo=()=>{if(est.stop){res(false);return;}const t=ctx.currentTime-t0;
       if(t>=L.total+.2){res(true);return;}const i=desenhar(g,cl(t,0,L.total-.001),L);if(i!==cur){cur=i;marcar();}onFrame&&onFrame(cl(t/L.total));requestAnimationFrame(passo);};requestAnimationFrame(passo);})};}
-async function tocar(){if(tocando){parar();return;}await actx().resume();const r=rodar(null);tocando=r.est;$v("vPlay").textContent="Parar";await r.fim;if(tocando===r.est)parar();}
+async function tocar(){if(tocando){parar();return;}await actx().resume();const mus=await prepararTrilha();const r=rodar(null,null,mus);tocando=r.est;$v("vPlay").textContent="Parar";await r.fim;if(tocando===r.est)parar();}
 async function gravar(){if(!V||gravando)return false;const c=cv();
   if(!c.captureStream||typeof MediaRecorder==="undefined"){st("Este navegador não grava vídeo. Use o Chrome ou o Safari atualizado.","err");return false;}
   const mime=["video/mp4;codecs=avc1.42E01E,mp4a.40.2","video/mp4;codecs=avc1","video/mp4","video/webm;codecs=vp9,opus","video/webm"].find(m=>MediaRecorder.isTypeSupported(m));
   if(!mime){st("Este navegador não grava vídeo.","err");return false;}
-  parar();await document.fonts.ready;const ctx=actx();await ctx.resume();
+  parar();await document.fonts.ready;const ctx=actx();await ctx.resume();const mus=await prepararTrilha();
   const dest=ctx.createMediaStreamDestination(),vs=c.captureStream(FPS);
-  const stream=new MediaStream([...vs.getVideoTracks(),...(V._buf?dest.stream.getAudioTracks():[])]);
+  const stream=new MediaStream([...vs.getVideoTracks(),...(V._buf||mus?dest.stream.getAudioTracks():[])]);
   const chunks=[];const mr=new MediaRecorder(stream,{mimeType:mime,videoBitsPerSecond:10e6,audioBitsPerSecond:192e3});mr.ondataavailable=e=>e.data.size&&chunks.push(e.data);
   gravando=mr;$v("vRec").disabled=true;$v("vTudo").disabled=true;mr.start(500);
-  const r=rodar(dest,p=>st(`Gravando o vídeo… ${Math.round(p*100)}% (deixe esta aba aberta na tela)`));tocando=r.est;await r.fim;tocando=null;
+  const r=rodar(dest,p=>st(`Gravando o vídeo… ${Math.round(p*100)}% (deixe esta aba aberta na tela)`),mus);tocando=r.est;await r.fim;tocando=null;
   mr.stop();await new Promise(x=>mr.onstop=x);gravando=null;$v("vRec").disabled=false;$v("vTudo").disabled=false;
   const ext=mime.startsWith("video/mp4")?"mp4":"webm";const blob=new Blob(chunks,{type:mime.split(";")[0]});
   const nome=`video-${(typeof slug==="function"?slug(V.handle):"perfil")||"perfil"}-${new Date().toISOString().slice(0,10)}.${ext}`;
-  try{await downloads.save({filename:nome,data:blob});st((ext==="mp4"?"Vídeo MP4 pronto e baixado":"Vídeo baixado em WebM (este navegador não grava MP4; no Chrome atualizado ou no Safari sai em MP4)")+(V._buf?", com narração e legenda.":", sem narração."),"ok");return true;}
+  try{await downloads.save({filename:nome,data:blob});st((ext==="mp4"?"Vídeo MP4 pronto e baixado":"Vídeo baixado em WebM (este navegador não grava MP4; no Chrome atualizado ou no Safari sai em MP4)")+(V._buf?", com narração e legenda":", sem narração")+(mus?" e trilha de fundo.":"."),"ok");return true;}
   catch(e){st("Não consegui baixar o vídeo.","err");return false;}}
 // um toque: roteiro com IA → narração → legenda sincronizada → MP4
 async function tudo(){if(!V)return;if(!oaKey()&&!elKey()&&!fishKey()){st("Para sair tudo pronto, coloque a chave da OpenAI na aba Marca.","err");return;}
@@ -400,7 +482,7 @@ function abrir(n){const perfis=APP.perfis?APP.perfis():(typeof perfisOrd==="func
   $v("vMeu").value="";$v("vElKey").value=elKey()?"••••••••"+elKey().slice(-4):"";
   pronto(iaOk()?"Pronto para gerar. Toque em Fazer tudo para sair o vídeo pronto, ou vá passo a passo.":"Roteiro montado com a ficha. Coloque a chave da OpenAI na aba Marca para a IA e a narração.");
   const b=APP.marca?APP.marca(V):(typeof brandOf==="function"?brandOf(h):{});if(b?.fotoUrl||b?.foto)img(b.fotoUrl||blobSrc(b.foto));if(b?.logoUrl)img(b.logoUrl);}
-window.radarVideo={abrir};
+window.radarVideo={abrir,compor};
 document.addEventListener("click",e=>{const b=e.target.closest(APP.botoes||"[data-video],#nbVideo");if(!b)return;e.stopPropagation();
   const n=APP.noticiaDe?APP.noticiaDe(b):(NEWS.find(x=>x.id===(b.dataset.video||(typeof deck!=="undefined"&&deck?.noticiaId)))||(typeof deck!=="undefined"&&deck?.noticia));if(n)abrir(n);},true);
 
@@ -424,6 +506,10 @@ function ligarTela(){if(!$v("vCanvas"))return;
   $v("vMenos").onclick=()=>{if(V.cenas.length<=1)return;V.cenas.splice(cur,1);cur=Math.max(0,cur-1);V._buf=null;renderLista();renderCena();quadro();};
   $v("vLeg").onclick=()=>{const t=V?.legendaPost||"";navigator.clipboard?.writeText(t).then(()=>st("Legenda do post copiada.","ok"),()=>st(t));};
   if(elKey())carregarVozesEleven();
+  if($v("vTrilha")){$v("vTrilha").innerHTML=Object.entries(TRILHAS).map(([k,v])=>`<option value="${k}">${v}</option>`).join("");$v("vTrilha").value=LSv.get("rv-trilha","noticia");
+    $v("vTrilhaVol").value=LSv.get("rv-trilha-vol","0.5");
+    $v("vTrilha").onchange=e=>{LSv.set("rv-trilha",e.target.value);if(tocando)parar();st(e.target.value==="nenhuma"?"Vídeo sem música.":"Trilha trocada. Toque em Assistir para ouvir.");};
+    $v("vTrilhaVol").oninput=e=>LSv.set("rv-trilha-vol",e.target.value);}
   if($v("vFishSalvar")){$v("vFishKey").value=fishKey()?"••••••••"+fishKey().slice(-4):"";$v("vFishVoz").value=fishVoz();
     $v("vFishSalvar").onclick=()=>{const k=$v("vFishKey").value.trim(),v=$v("vFishVoz").value.trim();if(k&&!k.startsWith("••"))LSv.set("radar-fish-key",k);LSv.set("radar-fish-voz",v);
       $v("vFishKey").value=fishKey()?"••••••••"+fishKey().slice(-4):"";if(V){V.vozSel="fish";LSv.set("rv-voz-sel","fish");}renderVozes();
