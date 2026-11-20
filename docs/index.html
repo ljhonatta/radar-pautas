@@ -377,6 +377,17 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
 .cell.on .sl .hdr,.cell.on .sl .cnt>*{animation:entra .6s both}
 .cell.on .sl .cnt>*:nth-child(2){animation-delay:.08s}.cell.on .sl .cnt>*:nth-child(3){animation-delay:.16s}.cell.on .sl .cnt>*:nth-child(4){animation-delay:.24s}
 @media (prefers-reduced-motion:reduce){.cell .sl .ico svg,.cell.on .sl .hdr,.cell.on .sl .cnt>*{animation:none}}
+/* estúdio de vídeo novo (docs/video.js) */
+.xstudio{display:grid;grid-template-columns:300px minmax(0,1fr) 340px;gap:16px;align-items:start}
+@media (max-width:1180px){.xstudio{grid-template-columns:1fr 1fr}.xstudio .stage-col{grid-column:1/-1;order:-1}}
+@media (max-width:720px){.xstudio{grid-template-columns:1fr}}
+.xcanvas{width:100%;max-width:380px;aspect-ratio:9/16;height:auto;border-radius:14px;background:#000;display:block;margin:0 auto;box-shadow:0 18px 40px -18px rgba(0,0,0,.45)}
+.vlista{display:flex;flex-direction:column;gap:6px;max-height:420px;overflow:auto;margin-top:6px}
+.vcena{display:grid;grid-template-columns:28px minmax(0,1fr);gap:2px 8px;text-align:left;border:1px solid var(--line);background:var(--raise);border-radius:9px;padding:8px 10px;cursor:pointer;color:var(--ink);font:inherit}
+.vcena[aria-current="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.vcena .n{font-family:"JetBrains Mono",monospace;font-size:12px;color:var(--accent);grid-row:span 2}
+.vcena .t{font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.vcena .k{font-size:11.5px;color:var(--muted)}
 </style>
 
 <div class="wrap">
@@ -396,7 +407,8 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
   <nav class="tabs" role="tablist">
     <button class="tab" role="tab" aria-selected="true" data-tab="pautas">Pautas <span class="n" id="n-pautas">0</span></button>
     <button class="tab" role="tab" aria-selected="false" data-tab="carrossel">Criar carrossel</button>
-    <button class="tab" role="tab" aria-selected="false" data-tab="video">Criar vídeo</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="video2">Vídeo</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="video">Vídeo clássico</button>
     <button class="tab" role="tab" aria-selected="false" data-tab="historico">Histórico <span class="n" id="n-hist">0</span></button>
     <button class="tab" role="tab" aria-selected="false" data-tab="marca">Marca</button>
   </nav>
@@ -526,6 +538,53 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
           <div class="row"><label class="btn sm" for="vAudio" style="cursor:pointer">Enviar meu áudio</label><input type="file" id="vAudio" accept="audio/*" hidden></div>
           <textarea id="vNarr" style="min-height:140px" readonly></textarea></div></details>
         <p class="note">O vídeo é gravado em tempo real pelo navegador (um vídeo de 40 s leva 40 s). No Chrome sai em WebM; no Safari, em MP4. Para postar WebM no Instagram, converta no CapCut ou no próprio celular.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== VÍDEO (estúdio novo, docs/video.js) ===== -->
+  <section id="p-video2" role="tabpanel" hidden style="display:flex;flex-direction:column;gap:14px">
+    <div class="empty" id="xVazio">Escolha uma pauta na aba Pautas e toque em <b>Criar vídeo</b>.</div>
+    <div id="xCorpo" hidden style="display:flex;flex-direction:column;gap:14px">
+      <div class="newsbar"><div class="t"><span class="eyebrow" id="xbFonte"></span><div id="xbTitulo"></div></div><span class="status" id="xTempo"></span></div>
+      <div class="xstudio">
+        <div class="panel">
+          <button class="btn primary" id="xTudo" style="padding:13px 14px;font-size:15px">Fazer tudo: roteiro, voz e vídeo</button>
+          <p class="note">Um toque: a IA escreve o roteiro, grava a narração em português, sincroniza a legenda e baixa o MP4 pronto para postar.</p>
+          <h2 style="margin-top:6px">Ou passo a passo</h2>
+          <h2>1. Roteiro</h2>
+          <button class="btn" id="xIA">Escrever roteiro com IA</button>
+          <button class="btn sm ghost" id="xFicha" style="align-self:flex-start">Montar com a ficha (sem IA)</button>
+          <div class="field"><label for="xMeu">Ou cole o seu roteiro (um parágrafo por cena)</label><textarea id="xMeu" style="min-height:120px" placeholder="O dólar teve a maior alta em um dia desde 1999…"></textarea></div>
+          <button class="btn sm" id="xUsarMeu">Usar meu roteiro</button>
+          <h2 style="margin-top:6px">2. Voz</h2>
+          <div class="field"><label for="xVoz">Voz da narração</label><select id="xVoz"></select></div>
+          <button class="btn" id="xNarrar">Gerar narração</button>
+          <details class="field"><summary class="lbl" style="cursor:pointer">Voz brasileira mais natural (ElevenLabs)</summary>
+            <p class="note" style="margin-top:6px">Crie uma conta em elevenlabs.io, adicione uma voz brasileira da biblioteca às suas vozes e cole aqui a sua chave (Profile → API keys). Ela fica só neste navegador.</p>
+            <div class="row" style="gap:6px"><input type="password" id="xElKey" placeholder="chave do ElevenLabs" style="flex:1;min-width:140px;width:auto"><button class="btn sm" id="xElSalvar">Ligar</button><button class="btn sm ghost" id="xElRemover">Remover</button></div>
+          </details>
+          <div class="field"><span class="lbl">Ou use o seu áudio (MP3)</span><label class="btn sm" for="xAudio" style="cursor:pointer;align-self:flex-start">Enviar áudio</label><input type="file" id="xAudio" accept="audio/*" hidden></div>
+          <h2 style="margin-top:6px">3. Visual</h2>
+          <div class="field"><label for="xPerfil">Marca</label><select id="xPerfil"></select></div>
+        </div>
+        <div class="stage-col">
+          <canvas id="xCanvas" class="xcanvas" width="1080" height="1920"></canvas>
+          <div class="row" style="justify-content:center"><button class="btn" id="xPlay">Assistir</button><button class="btn" id="xRec">Gravar vídeo</button><button class="btn sm ghost" id="xLeg">Copiar legenda do post</button></div>
+          <div class="status" id="xStatus" style="text-align:center"></div>
+          <p class="note" style="text-align:center">A gravação acontece em tempo real: deixe esta aba aberta na tela até terminar. Sai em MP4 no Chrome atualizado e no Safari.</p>
+        </div>
+        <div class="panel">
+          <div class="row" style="justify-content:space-between"><h2 id="xcIdx">Cena</h2><div class="row" style="gap:6px"><button class="btn sm" id="xMais">+ Cena</button><button class="btn sm ghost" id="xMenos">Remover</button></div></div>
+          <div class="field"><label for="xcCap">Capítulo (etiqueta)</label><input type="text" id="xcCap"></div>
+          <div class="field"><label for="xcNarr">Fala (vira a legenda)</label><textarea id="xcNarr" style="min-height:90px"></textarea></div>
+          <div class="field"><label for="xcTipo">Visual</label><select id="xcTipo"></select></div>
+          <div class="field" id="xfObj"><label for="xcObj">Objeto 3D</label><select id="xcObj"></select></div>
+          <div class="field" id="xfValor"><span class="lbl">Número / valor</span><input type="text" id="xcValor"></div>
+          <div class="field" id="xfRot"><span class="lbl">Rótulo</span><input type="text" id="xcRot"></div>
+          <div class="field" id="xfItens" hidden><span class="lbl">Itens</span><textarea id="xcItens"></textarea></div>
+          <div class="vlista" id="xLista"></div>
+        </div>
       </div>
     </div>
   </section>
@@ -831,7 +890,7 @@ function setSeg(s){SEG=s;savePrefs();document.documentElement.dataset.seg=s;
 const clone=o=>JSON.parse(JSON.stringify(o));
 document.querySelectorAll(".segbtn").forEach(b=>b.onclick=()=>setSeg(b.dataset.s));
 function showTab(t){document.querySelectorAll(".tab").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===t)));
- ["pautas","carrossel","video","historico","marca"].forEach(x=>$("p-"+x).hidden=x!==t);
+ ["pautas","carrossel","video2","video","historico","marca"].forEach(x=>$("p-"+x).hidden=x!==t);
  if(t==="carrossel")requestAnimationFrame(()=>{layoutVP();fitAll();});if(t==="video")drawStill();}
 document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>showTab(b.dataset.tab));
 
@@ -1574,4 +1633,19 @@ document.fonts.ready.then(()=>{fitAll();renderKits();drawStill();});
  setStatus("dbstatus","Coleta automática às 7h, 13h e 19h pelo GitHub.");})();
 </script>
 
+<script>
+/* ganchos do estúdio de vídeo novo para o Radar de Pautas (Trader e VPR) */
+window.VIDEO_APP={pfx:"x",aba:"video2",semCores:true,botoes:"[data-vid]",
+  mostrar:t=>showTab(t),
+  noticiaDe:b=>{const p=PAUTAS.find(x=>x.id===b.dataset.vid);return p?{...p,explicacao:[[p.resumo,...(p.fatos||[]).slice(0,3)].filter(Boolean).join(" ")]}:null;},
+  handle:()=>marcaDe(SEG).handle,perfis:()=>[{handle:marcaDe(SEG).handle,nome:marcaDe(SEG).nome}],marcaTopo:()=>marcaDe(SEG).nome,
+  paleta:()=>{const P=PALETAS[SEG]?.dark||PALETAS.trader.dark;return {a:P.a,a2:P.a2};},
+  marca:()=>{const M=marcaDe(SEG);return {nome:M.nome,logoUrl:logoFor(SEG,null,"white")};},
+  cta:()=>{const M=marcaDe(SEG);return `Comente ${M.key} aqui embaixo ou toque no link da bio para conhecer ${SEG==="trader"?"a Trader School":"a VPR Vision Prime"}.`;},
+  botao:()=>"Comente "+marcaDe(SEG).key,
+  contexto:()=>{const M=marcaDe(SEG);return `${SEGS[SEG].ctx} O que oferecemos: ${M.oferta}`;},
+  temIA:()=>!!(sample&&window.radarKey?.get()),
+  legenda:V=>{const n=V.noticia,M=marcaDe(SEG);return `${plain(n.gancho||n.titulo)}\n\n${n.resumo||""}\n\n${(n.fatos||[]).slice(0,3).map(x=>"• "+x).join("\n")}\n\nFonte: ${n.fonte||""}\n\nComente ${M.key} ou toque no link da bio.\n\n#empreendedorismo #negocios #economia`;}};
+</script>
+<script src="video.js"></script>
 </body></html>
