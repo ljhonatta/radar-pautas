@@ -214,6 +214,9 @@ function linha(){const ini=[],dur=[];let t=0;V.cenas.forEach((c,i)=>{let d=V._bu
 let ACtx=null;const actx=()=>ACtx||(ACtx=new (window.AudioContext||window.webkitAudioContext)());
 const LSv={get:(k,d)=>{try{const v=localStorage.getItem(k);return v==null?d:v;}catch(e){return d;}},set:(k,v)=>{try{v?localStorage.setItem(k,v):localStorage.removeItem(k);}catch(e){}}};
 const elKey=()=>LSv.get("rv-eleven-key",""),oaKey=()=>window.radarKey?.get()||"";
+// Fish Audio passa pela ponte na Vercel (a API deles não aceita chamada do navegador); mesmas chaves do "Vídeo clássico"
+const fishKey=()=>LSv.get("radar-fish-key",""),fishVoz=()=>LSv.get("radar-fish-voz","");
+const PONTE_FISH="https://estudio-de-cards.vercel.app/api/fish";
 const INSTR="Fale em português do Brasil, com sotaque brasileiro natural (paulistano neutro), como um jornalista de economia gravando um Reels: "+
   "tom de conversa, seguro e próximo, ritmo dinâmico com pausas curtas entre as frases, ênfase leve nos números. Nada de tom de locutor de rádio nem de robô.";
 function textoNarr(){return V.cenas.map(c=>String(c.narracao||"").trim()).filter(Boolean).map(t=>/[.!?…]$/.test(t)?t:t+".").join(" ");}
@@ -225,6 +228,13 @@ async function vozOpenAI(txt){const key=oaKey();if(!key)throw {code:"sem_chave"}
 async function vozEleven(txt,voz){const r=await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(voz)}?output_format=mp3_44100_128`,{method:"POST",
     headers:{"xi-api-key":elKey(),"Content-Type":"application/json"},body:JSON.stringify({text:txt,model_id:"eleven_multilingual_v2",language_code:"pt",voice_settings:{stability:.45,similarity_boost:.8,style:.25,use_speaker_boost:true}})});
   if(r.status===401)throw {code:"eleven_key"};if(!r.ok)throw {code:"eleven_"+r.status};return await r.arrayBuffer();}
+function pedacos(txt,max){const fr=txt.split(/(?<=[.!?…])\s+/),out=[];let a="";for(const f of fr){if((a+" "+f).trim().length>max&&a){out.push(a.trim());a=f;}else a=(a+" "+f).trim();}if(a)out.push(a);return out;}
+async function vozFish(txt){const partes=[];for(const t of pedacos(txt,1800)){
+    const r=await fetch(PONTE_FISH,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({key:fishKey(),voz:fishVoz(),text:t})});
+    if(!r.ok){let m="";try{m=(await r.json())?.error?.message||"";}catch(e){}throw {code:r.status===401?"fish_key":r.status===402?"fish_credito":"fish_"+r.status,msg:m};}
+    partes.push(new Uint8Array(await r.arrayBuffer()));}
+  // MP3 é feito de quadros: emendar os pedaços dá um áudio só
+  const tot=partes.reduce((a,b)=>a+b.length,0),u=new Uint8Array(tot);let o=0;for(const p of partes){u.set(p,o);o+=p.length;}return u.buffer;}
 // "ouve" o áudio pronto para saber o tempo de cada palavra (legenda e cortes de cena no tempo exato)
 async function ouvir(mp3){const key=oaKey();if(!key)return null;try{const fd=new FormData();fd.append("file",new Blob([mp3],{type:"audio/mpeg"}),"narracao.mp3");fd.append("model","whisper-1");
     fd.append("language","pt");fd.append("response_format","verbose_json");fd.append("timestamp_granularities[]","word");
@@ -239,13 +249,14 @@ function alinhar(dur,ouvidas){const cenas=V.cenas.map(c=>palavras(c.narracao));c
   for(let i=0;i<ini.length;i++)if(ini[i]==null)ini[i]=i?ini[i-1]:0;ini[0]=0;
   V._durs=ini.map((s,i)=>((i+1<ini.length?ini[i+1]:dur+.6)-s));k=0;V._tw=cenas.map((ws,i)=>{const t=ws.map((w,j)=>tempos[k+j]-ini[i]);k+=ws.length;return t;});}
 async function narrar(){if(!V)return false;const txt=textoNarr();if(!txt){st("O roteiro está vazio.","err");return false;}
-  const ev=$v("vVoz").value||"";const usarEl=ev.startsWith("el:")&&elKey();
-  if(!usarEl&&!oaKey()){st("Para a narração, coloque a chave da OpenAI na aba Marca (ou ligue o ElevenLabs aqui embaixo).","err");return false;}
-  st(usarEl?"Gravando a narração com a voz do ElevenLabs…":"Gravando a narração…");$v("vNarrar").disabled=true;
-  try{const mp3=usarEl?await vozEleven(txt,ev.slice(3)):await vozOpenAI(txt);V._buf=await actx().decodeAudioData(mp3.slice(0));V._audioProprio=false;
+  const ev=$v("vVoz").value||"";const usarEl=ev.startsWith("el:")&&elKey(),usarFish=ev==="fish";
+  if(usarFish&&!fishKey()){st("Coloque a chave do Fish Audio e o ID da voz em \"Fish Audio\" aqui embaixo.","err");return false;}
+  if(!usarEl&&!usarFish&&!oaKey()){st("Para a narração, coloque a chave da OpenAI na aba Marca (ou ligue o ElevenLabs aqui embaixo).","err");return false;}
+  st(usarFish?"Gravando a narração com a sua voz do Fish Audio…":usarEl?"Gravando a narração com a voz do ElevenLabs…":"Gravando a narração…");$v("vNarrar").disabled=true;
+  try{const mp3=usarFish?await vozFish(txt):usarEl?await vozEleven(txt,ev.slice(3)):await vozOpenAI(txt);V._buf=await actx().decodeAudioData(mp3.slice(0));V._audioProprio=false;
     st("Sincronizando a legenda com a fala…");const ouvidas=await ouvir(mp3);alinhar(V._buf.duration,ouvidas);
     st(`Narração pronta (${Math.round(V._buf.duration)}s)${ouvidas?", legenda no tempo exato da fala":""}. Toque em Assistir ou Gravar vídeo.`,"ok");return true;}
-  catch(e){const c=e?.code||"";st(c==="bad_key"?"A chave da OpenAI foi recusada.":c==="eleven_key"?"A chave do ElevenLabs foi recusada.":c==="sem_chave"?"Coloque a chave da OpenAI na aba Marca.":"Não consegui gravar a narração agora ("+c+"). Tente de novo.","err");return false;}
+  catch(e){const c=e?.code||"";st(c==="bad_key"?"A chave da OpenAI foi recusada.":c==="eleven_key"?"A chave do ElevenLabs foi recusada.":c==="fish_key"?"A chave do Fish Audio foi recusada.":c==="fish_credito"?"Sua conta do Fish Audio está sem crédito.":/^fish_/.test(c)?"O Fish Audio não respondeu ("+c.slice(5)+(e.msg?": "+e.msg:"")+").":c==="sem_chave"?"Coloque a chave da OpenAI na aba Marca.":"Não consegui gravar a narração agora ("+c+"). Tente de novo.","err");return false;}
   finally{$v("vNarrar").disabled=false;renderLista();quadro();}}
 async function audioProprio(f){try{const ab=await f.arrayBuffer();V._buf=await actx().decodeAudioData(ab.slice(0));V._audioProprio=true;st("Sincronizando a legenda com o seu áudio…");
   const ouvidas=f.size<24e6?await ouvir(ab):null;alinhar(V._buf.duration,ouvidas);
@@ -258,6 +269,7 @@ async function carregarVozesEleven(){const k=elKey();if(!k)return;try{const r=aw
 let VOZES_EL=[];
 function renderVozes(){const sel=$v("vVoz");if(!sel)return;const atual=V?.vozSel||LSv.get("rv-voz-sel","oa:ash");
   sel.innerHTML=`<optgroup label="OpenAI (sotaque brasileiro por instrução)">${Object.entries(VOZES).map(([k,v])=>`<option value="oa:${k}">${v}</option>`).join("")}</optgroup>`+
+    `<optgroup label="Fish Audio (sua voz)"><option value="fish"${fishKey()&&fishVoz()?"":" disabled"}>Fish Audio${fishVoz()?" · voz "+esc(fishVoz().slice(0,8)):" (configure abaixo)"}</option></optgroup>`+
     (VOZES_EL.length?`<optgroup label="ElevenLabs (mais natural)">${VOZES_EL.map(v=>`<option value="el:${esc(v.id)}">${esc(v.nome)}${v.br?" · BR":""}</option>`).join("")}</optgroup>`:"");
   sel.value=[...sel.options].some(o=>o.value===atual)?atual:(VOZES_EL.find(v=>v.br)?"el:"+VOZES_EL.find(v=>v.br).id:"oa:ash");if(V){V.vozSel=sel.value;V.voz=sel.value.startsWith("oa:")?sel.value.slice(3):V.voz;}}
 
@@ -355,7 +367,7 @@ async function gravar(){if(!V||gravando)return false;const c=cv();
   try{await downloads.save({filename:nome,data:blob});st((ext==="mp4"?"Vídeo MP4 pronto e baixado":"Vídeo baixado em WebM (este navegador não grava MP4; no Chrome atualizado ou no Safari sai em MP4)")+(V._buf?", com narração e legenda.":", sem narração."),"ok");return true;}
   catch(e){st("Não consegui baixar o vídeo.","err");return false;}}
 // um toque: roteiro com IA → narração → legenda sincronizada → MP4
-async function tudo(){if(!V)return;if(!oaKey()&&!elKey()){st("Para sair tudo pronto, coloque a chave da OpenAI na aba Marca.","err");return;}
+async function tudo(){if(!V)return;if(!oaKey()&&!elKey()&&!fishKey()){st("Para sair tudo pronto, coloque a chave da OpenAI na aba Marca.","err");return;}
   $v("vTudo").disabled=true;try{if(iaOk())await roteiroIA("ficha");if(!await narrar())return;await gravar();}finally{$v("vTudo").disabled=false;}}
 
 /* ---------------- tela ---------------- */
@@ -412,6 +424,10 @@ function ligarTela(){if(!$v("vCanvas"))return;
   $v("vMenos").onclick=()=>{if(V.cenas.length<=1)return;V.cenas.splice(cur,1);cur=Math.max(0,cur-1);V._buf=null;renderLista();renderCena();quadro();};
   $v("vLeg").onclick=()=>{const t=V?.legendaPost||"";navigator.clipboard?.writeText(t).then(()=>st("Legenda do post copiada.","ok"),()=>st(t));};
   if(elKey())carregarVozesEleven();
+  if($v("vFishSalvar")){$v("vFishKey").value=fishKey()?"••••••••"+fishKey().slice(-4):"";$v("vFishVoz").value=fishVoz();
+    $v("vFishSalvar").onclick=()=>{const k=$v("vFishKey").value.trim(),v=$v("vFishVoz").value.trim();if(k&&!k.startsWith("••"))LSv.set("radar-fish-key",k);LSv.set("radar-fish-voz",v);
+      $v("vFishKey").value=fishKey()?"••••••••"+fishKey().slice(-4):"";if(V){V.vozSel="fish";LSv.set("rv-voz-sel","fish");}renderVozes();
+      st(fishKey()&&v?"Fish Audio ligado: escolhido como voz da narração.":"Falta a chave ou o ID da voz do Fish Audio.",fishKey()&&v?"ok":"err");};}
   document.fonts?.ready.then(quadro);}
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",ligarTela);else ligarTela();
 })();
