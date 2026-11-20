@@ -511,14 +511,20 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
         <label class="check"><input type="checkbox" id="vLeg" checked> Legenda da narração na tela</label>
       </div>
       <div class="panel">
-        <h2>Narração com Fish Audio</h2>
+        <h2>Narração</h2>
         <div class="steps">
-          <div class="step"><div class="field"><span>Copie o texto da narração (já sai pontuado para a voz).</span><button class="btn sm" id="vCopy" style="align-self:flex-start">Copiar texto da narração</button></div></div>
-          <div class="step"><div class="field"><span>Gere o áudio na sua conta do Fish Audio e baixe em MP3.</span><a class="btn sm" href="https://fish.audio/" target="_blank" rel="noopener" style="align-self:flex-start">Abrir Fish Audio ↗</a></div></div>
-          <div class="step"><div class="field"><span>Envie o áudio aqui. As cenas se ajustam ao tempo da fala.</span><div class="row"><label class="btn sm" for="vAudio" style="cursor:pointer">Enviar áudio</label><input type="file" id="vAudio" accept="audio/*" hidden><span class="status" id="vAudioSt">Sem áudio</span></div></div></div>
-          <div class="step"><div class="field"><span>Exporte o vídeo 1080×1920 para o Reels.</span><button class="btn primary" id="vExport" style="align-self:flex-start">Gravar e baixar vídeo</button><div class="bar"><i id="vBar"></i></div><span class="status" id="vExpSt"></span></div></div>
+          <div class="step"><div class="field"><span>Escolha a voz e gere a narração. Sai em português do Brasil, cena por cena, já sincronizada com a animação e a legenda.</span>
+            <select id="vVoz" aria-label="Voz da narração"></select>
+            <div class="row"><button class="btn sm primary" id="btnNarrar">Gerar narração</button><button class="btn sm" id="btnBaixarAudio" disabled>Baixar áudio</button></div>
+            <div class="bar"><i id="vNarBar"></i></div><span class="status" id="vAudioSt">Sem narração ainda</span></div></div>
+          <div class="step"><div class="field"><span>Toque em ▶ Prévia para ouvir com a animação.</span></div></div>
+          <div class="step"><div class="field"><span>Grave o vídeo 1080×1920 pronto para o Reels, com narração e legenda.</span><button class="btn primary" id="vExport" style="align-self:flex-start">Gravar e baixar vídeo</button><div class="bar"><i id="vBar"></i></div><span class="status" id="vExpSt"></span></div></div>
         </div>
-        <details><summary class="lbl" style="cursor:pointer">Texto da narração</summary><textarea id="vNarr" style="min-height:160px;margin-top:8px" readonly></textarea></details>
+        <details><summary class="lbl" style="cursor:pointer">Usar outro áudio (Fish Audio ou sua voz)</summary>
+          <div class="field" style="margin-top:8px"><button class="btn sm" id="vCopy" style="align-self:flex-start">Copiar texto da narração</button>
+          <a class="btn sm" href="https://fish.audio/" target="_blank" rel="noopener" style="align-self:flex-start">Abrir Fish Audio ↗</a>
+          <div class="row"><label class="btn sm" for="vAudio" style="cursor:pointer">Enviar meu áudio</label><input type="file" id="vAudio" accept="audio/*" hidden></div>
+          <textarea id="vNarr" style="min-height:140px" readonly></textarea></div></details>
         <p class="note">O vídeo é gravado em tempo real pelo navegador (um vídeo de 40 s leva 40 s). No Chrome sai em WebM; no Safari, em MP4. Para postar WebM no Instagram, converta no CapCut ou no próprio celular.</p>
       </div>
     </div>
@@ -1177,7 +1183,7 @@ function renderVideo(){if(!video)return;$("vbFonte").textContent=(video.pauta?.f
   ${video.estilo==="cartoes"&&(c.tipo==="gancho"||c.tipo==="frase")?`<select data-k="cena" aria-label="Ilustração">${Object.entries(CENAS).map(([k,v])=>`<option value="${k}"${k===c.cena?" selected":""}>${esc(v)}</option>`).join("")}</select>`:""}</div>`).join("");
  $("vNarr").value=video.cenas.map(c=>plain(c.narracao)).filter(Boolean).join("\n\n");drawStill();}
 $("cenas").addEventListener("input",e=>{const k=e.target.dataset.k,card=e.target.closest(".cena");if(!k||!card)return;const c=video.cenas[+card.dataset.i];
- c[k]=k==="itens"?e.target.value.split("\n").map(x=>x.trim()).filter(Boolean):e.target.value;vCur=+card.dataset.i;vTouch();
+ c[k]=k==="itens"?e.target.value.split("\n").map(x=>x.trim()).filter(Boolean):e.target.value;vCur=+card.dataset.i;vTouch();if(k==="narracao"&&AUDIO_DURS)setStatus("vAudioSt","Você mudou o texto: gere a narração de novo.","err");
  if(k==="tipo"||k==="cena"&&e.target.tagName==="SELECT")renderVideo();else{$("vNarr").value=video.cenas.map(c=>plain(c.narracao)).filter(Boolean).join("\n\n");drawStill();}});
 $("cenas").addEventListener("change",e=>{if(e.target.tagName==="SELECT")renderVideo();});
 $("cenas").addEventListener("click",e=>{const d=e.target.closest("[data-del]");if(d){if(video.cenas.length>1){video.cenas.splice(+d.dataset.del,1);vCur=0;vTouch();renderVideo();}return;}
@@ -1215,13 +1221,43 @@ $("btnMeu").onclick=()=>{const t=$("vMeu").value.trim();if(t.split(/\s+/).length
 $("vDur").onclick=e=>{const b=e.target.closest("button");if(!b)return;VDUR=+b.dataset.d;document.querySelectorAll("#vDur button").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));};
 
 /* áudio */
-$("vAudio").onchange=e=>{const f=e.target.files[0];e.target.value="";if(!f)return;if(AUDIO){AUDIO.pause();URL.revokeObjectURL(AUDIO.src);}
+$("vAudio").onchange=e=>{const f=e.target.files[0];e.target.value="";if(!f)return;AUDIO_DURS=null;if(AUDIO){AUDIO.pause();URL.revokeObjectURL(AUDIO.src);}
  AUDIO=new Audio();AUDIO.preload="auto";AUDIO.src=URL.createObjectURL(f);AUDIO.onloadedmetadata=()=>{setStatus("vAudioSt",`${esc(f.name).slice(0,28)} · ${AUDIO.duration.toFixed(1).replace(".",",")} s`,"ok");drawStill();};
  AUDIO.onerror=()=>{setStatus("vAudioSt","Não consegui ler esse áudio. Use MP3 ou WAV.","err");AUDIO=null;};};
 
+/* narração automática (OpenAI, voz em português do Brasil) */
+let AUDIO_DURS=null,AUDIO_WAV=null,AUDIO_CHAVE="";
+const VOZES={ash:"Masculina firme",onyx:"Masculina grave",echo:"Masculina leve",verse:"Masculina expressiva",coral:"Feminina calorosa",nova:"Feminina jovem",sage:"Feminina calma",shimmer:"Feminina clara"};
+const VOZ_INSTR="Locutor brasileiro falando português do Brasil, com sotaque brasileiro natural (nunca de Portugal). Tom de conversa, confiante e envolvente, como um criador de conteúdo que explica notícias no Instagram. Ritmo dinâmico, pausas curtas entre as frases e ênfase leve nos números e nas palavras importantes. Pronuncie siglas e números como um brasileiro fala no dia a dia.";
+function vozAtual(){try{return localStorage.getItem("radar-voz")||"ash";}catch(e){return "ash";}}
+$("vVoz").innerHTML=Object.entries(VOZES).map(([k,v])=>`<option value="${k}"${k===vozAtual()?" selected":""}>${v}</option>`).join("");
+$("vVoz").onchange=()=>{try{localStorage.setItem("radar-voz",$("vVoz").value);}catch(e){}};
+function wavDe(buf){const n=buf.length,sr=buf.sampleRate,d=buf.getChannelData(0),ab=new ArrayBuffer(44+n*2),v=new DataView(ab);const w=(o,s)=>{for(let i=0;i<s.length;i++)v.setUint8(o+i,s.charCodeAt(i));};
+ w(0,"RIFF");v.setUint32(4,36+n*2,true);w(8,"WAVE");w(12,"fmt ");v.setUint32(16,16,true);v.setUint16(20,1,true);v.setUint16(22,1,true);v.setUint32(24,sr,true);v.setUint32(28,sr*2,true);v.setUint16(32,2,true);v.setUint16(34,16,true);w(36,"data");v.setUint32(40,n*2,true);
+ for(let i=0;i<n;i++){const x=Math.max(-1,Math.min(1,d[i]));v.setInt16(44+i*2,x<0?x*0x8000:x*0x7fff,true);}return new Blob([ab],{type:"audio/wav"});}
+async function narrar(){const key=window.radarKey?.get?.()||"";if(!key){setStatus("vAudioSt","Coloque a chave da OpenAI na aba Marca para gerar a narração.","err");return false;}
+ const voz=$("vVoz").value||"ash",chave=voz+"|"+video.cenas.map(c=>plain(c.narracao)).join("|");if(AUDIO&&AUDIO_DURS&&AUDIO_CHAVE===chave)return true;
+ $("btnNarrar").disabled=true;const AC=window.AudioContext||window.webkitAudioContext,ac=new AC(),bufs=[];
+ try{for(let i=0;i<video.cenas.length;i++){const txt=plain(video.cenas[i].narracao||"").trim();$("vNarBar").style.width=Math.round(i/video.cenas.length*100)+"%";setStatus("vAudioSt",`Gerando a voz da cena ${i+1} de ${video.cenas.length}…`);
+   if(!txt){bufs.push(null);continue;}
+   const r=await fetch("https://api.openai.com/v1/audio/speech",{method:"POST",headers:{"Authorization":"Bearer "+key,"Content-Type":"application/json"},body:JSON.stringify({model:"gpt-4o-mini-tts",voice:voz,input:txt,instructions:VOZ_INSTR,response_format:"mp3"})});
+   if(r.status===401)throw {code:"bad_key"};if(r.status===429)throw {code:"rate_limited"};if(!r.ok)throw {code:"http_"+r.status};
+   bufs.push(await ac.decodeAudioData(await r.arrayBuffer()));}
+  const sr=(bufs.find(b=>b)||{sampleRate:24000}).sampleRate,PAUSA=.35,durs=bufs.map((b,i)=>(b?b.duration:1.6)+(i===bufs.length-1?.8:PAUSA));
+  const out=ac.createBuffer(1,Math.ceil(durs.reduce((a,b)=>a+b,0)*sr),sr),ch=out.getChannelData(0);let off=0;
+  bufs.forEach((b,i)=>{if(b){const src=b.getChannelData(0);ch.set(src.subarray(0,Math.min(src.length,ch.length-off)),off);}off+=Math.round(durs[i]*sr);});
+  AUDIO_WAV=wavDe(out);if(AUDIO){AUDIO.pause();URL.revokeObjectURL(AUDIO.src);}AUDIO=new Audio();AUDIO.preload="auto";AUDIO.src=URL.createObjectURL(AUDIO_WAV);
+  await new Promise(res=>{AUDIO.onloadedmetadata=res;AUDIO.onerror=res;});AUDIO_DURS=durs;AUDIO_CHAVE=chave;$("vNarBar").style.width="100%";$("btnBaixarAudio").disabled=false;
+  setStatus("vAudioSt",`Narração pronta: ${durs.reduce((a,b)=>a+b,0).toFixed(1).replace(".",",")} s, voz ${VOZES[voz].toLowerCase()}.`,"ok");drawStill();return true;}
+ catch(e){const c=e?.code;setStatus("vAudioSt",c==="bad_key"?"A chave da OpenAI foi recusada. Confira na aba Marca.":c==="rate_limited"?"A OpenAI pediu uma pausa. Tente de novo em 1 minuto.":"Não consegui gerar a narração ("+(c||e?.message||"erro")+").","err");return false;}
+ finally{$("btnNarrar").disabled=false;try{ac.close();}catch(e){}}}
+$("btnNarrar").onclick=()=>narrar();
+$("btnBaixarAudio").onclick=async()=>{if(!AUDIO_WAV)return;try{await downloads.save({filename:`narracao-${slug(plain(video.cenas[0]?.titulo))||"video"}.wav`,data:AUDIO_WAV});}catch(e){}};
+
 /* desenho */
 const vc=$("vc"),cx=vc.getContext("2d");const VIMG={};
-function tl(){const w=video.cenas.map(c=>Math.max(4,String(c.narracao||"").split(/\s+/).filter(Boolean).length));const tot=w.reduce((a,b)=>a+b,0);
+function tl(){if(AUDIO&&AUDIO_DURS&&AUDIO_DURS.length===video.cenas.length){const st=[];let a=0;AUDIO_DURS.forEach(d=>{st.push(a);a+=d;});return {durs:AUDIO_DURS.slice(),st,total:a};}
+ const w=video.cenas.map(c=>Math.max(4,String(c.narracao||"").split(/\s+/).filter(Boolean).length));const tot=w.reduce((a,b)=>a+b,0);
  const durs=(AUDIO&&isFinite(AUDIO.duration)&&AUDIO.duration>1)?w.map(x=>x/tot*AUDIO.duration):w.map((x,i)=>Math.max(2.8,x/2.6)+(video.cenas[i].tipo==="cta"?1:0));
  const st=[];let a=0;durs.forEach(d=>{st.push(a);a+=d;});return {durs,st,total:a};}
 function imgCena(id,T){const k=id+"|"+T.bg+T.a;if(VIMG[k])return VIMG[k];const im=new Image();im.onload=()=>drawStill();im.src="data:image/svg+xml;charset=utf-8,"+encodeURIComponent(cenaSVG(id,T).replace("<svg ",'<svg width="1080" height="630" '));VIMG[k]=im;return im;}
@@ -1286,7 +1322,7 @@ function vStop(){cancelAnimationFrame(vRaf);vRaf=0;if(AUDIO&&!vRec)AUDIO.pause()
 $("vPlay").onclick=()=>{vStop();const L=tl();const T0=performance.now();if(AUDIO){AUDIO.currentTime=0;AUDIO.play().catch(()=>{});}
  const loop=()=>{const t=AUDIO&&!AUDIO.paused?AUDIO.currentTime:(performance.now()-T0)/1000;draw(t,L);if(t>=L.total){vStop();return;}vRaf=requestAnimationFrame(loop);};loop();};
 $("vStop").onclick=()=>{vStop();drawStill();};
-$("vExport").onclick=async()=>{if(vRec)return;if(!downloads){setStatus("vExpSt","Download disponível ao abrir o painel no claude.ai.","err");return;}
+$("vExport").onclick=async()=>{if(vRec)return;if(!AUDIO&&window.radarKey?.get?.()){setStatus("vExpSt","Gerando a narração antes de gravar…");if(!await narrar()){setStatus("vExpSt","Sem narração: gere a narração ou envie um áudio.","err");return;}}if(!downloads){setStatus("vExpSt","Download disponível ao abrir o painel no claude.ai.","err");return;}
  if(!vc.captureStream||typeof MediaRecorder==="undefined"){setStatus("vExpSt","Este navegador não grava vídeo. Use o Chrome ou o Safari atualizado.","err");return;}
  const mime=["video/mp4;codecs=avc1","video/mp4","video/webm;codecs=vp9,opus","video/webm;codecs=vp8,opus","video/webm"].find(m=>MediaRecorder.isTypeSupported(m));if(!mime){setStatus("vExpSt","Este navegador não grava vídeo.","err");return;}
  vStop();await document.fonts.ready;const L=tl();const stream=vc.captureStream(30);
