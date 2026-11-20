@@ -6,8 +6,9 @@
 const W=1080,H=1920,MX=72,FPS=30;
 const VOZES={ash:"Ash (masculina, natural)",onyx:"Onyx (grave)",echo:"Echo (masculina leve)",nova:"Nova (feminina)",coral:"Coral (feminina calma)",sage:"Sage (feminina)",alloy:"Alloy (neutra)"};
 const OBJETOS={"seta-baixo":"Seta para baixo","seta-cima":"Seta para cima",termometro:"Termômetro (juros)",pilha:"Pilha de dinheiro",moedas:"Moedas",predio:"Prédio (Bolsa, BC)",
-  "placa-pare":"Placa de pare",alvo:"Alvo",relogio:"Relógio",calendario:"Calendário",cartao:"Cartão",escudo:"Escudo",lupa:"Lupa",barras:"Barras",nenhum:"Sem objeto"};
-const TIPOS_V={numero:"Número em destaque",objeto:"Objeto + frase",grafico:"Gráfico",comparativo:"Antes × depois",lista:"Lista",citacao:"Citação",titulo:"Título",fim:"Fechamento (seguir)"};
+  "placa-pare":"Placa de pare",alvo:"Alvo",relogio:"Relógio",calendario:"Calendário",cartao:"Cartão",escudo:"Escudo",lupa:"Lupa",barras:"Barras",
+  pessoa:"Personagem",grupo:"Grupo de pessoas",cifrao:"Símbolo R$",barril:"Barril de petróleo",cofre:"Cofrinho",casa:"Casa",carrinho:"Carrinho de compras",monitor:"Tela com gráfico",megafone:"Megafone",balanca:"Balança",nenhum:"Sem objeto"};
+const TIPOS_V={cena:"Cena montada (vários elementos)",numero:"Número em destaque",objeto:"Objeto + frase",grafico:"Gráfico",comparativo:"Antes × depois",lista:"Lista",citacao:"Citação",titulo:"Título",fim:"Fechamento (seguir)"};
 let V=null,cur=0,tocando=null,gravando=null;
 /* o mesmo motor serve o Radar Trader e o Radar de Pautas: cada painel pode passar window.VIDEO_APP com os ganchos dele */
 const APP=window.VIDEO_APP||{};const PFX=APP.pfx||"v";
@@ -92,7 +93,7 @@ function objeto(g,P,nome,t,f){ // f: 0→1 progresso de entrada (encher, crescer
     g.strokeStyle=A;g.lineWidth=7;g.beginPath();g.moveTo(0,0);g.lineTo(Math.cos(a1-1.6)*110,Math.sin(a1-1.6)*110);g.stroke();g.fillStyle="#222";g.beginPath();g.arc(0,0,14,0,7);g.fill();break;}
   case "calendario":{ext(g,P,g=>{rr(g,-190,-170,380,340,30);},30);g.fillStyle=A;rr(g,-190,-170,380,90,30);g.fill();g.fillRect(-190,-110,380,30);
     g.fillStyle=P.clayS;for(const x of [-100,100])rr(g,x-12,-200,24,64,12),g.fill();
-    const dia=V?.cenas?.[cur]?.visual?.dia;if(dia){fonte(g,900,150);g.textAlign="center";g.fillStyle="#26272b";g.fillText(dia,0,120);}
+    const dia=PAR().dia;if(dia){fonte(g,900,150);g.textAlign="center";g.fillStyle="#26272b";g.fillText(dia,0,120);}
     else{for(let r=0;r<3;r++)for(let c=0;c<5;c++){const on=r===1&&c===3;g.fillStyle=on?A:"rgba(0,0,0,.16)";rr(g,-150+c*62,-50+r*62,44,40,8);g.fill();}}break;}
   case "cartao":{g.save();g.rotate(-.12);ext(g,P,g=>{rr(g,-210,-130,420,260,30);},18,{face:mix(P.clay,A,.25)});g.fillStyle="#d8c690";rr(g,-160,-50,74,56,10);g.fill();
     g.fillStyle="rgba(0,0,0,.25)";for(let i=0;i<4;i++)rr(g,-160+i*86,60,66,16,8),g.fill();g.restore();break;}
@@ -101,10 +102,54 @@ function objeto(g,P,nome,t,f){ // f: 0→1 progresso de entrada (encher, crescer
   case "lupa":{g.save();g.rotate(-.5);ext(g,P,g=>{rr(g,-26,110,52,170,20);},22);g.restore();ext(g,P,g=>{g.beginPath();g.arc(0,-30,150,0,7);g.arc(0,-30,108,0,7,true);},28);
     const le=g.createRadialGradient(-40,-80,10,0,-30,112);le.addColorStop(0,"#f3f6f8");le.addColorStop(.7,"#c9d2d8");le.addColorStop(1,mix("#c9d2d8",A,.35));g.fillStyle=le;g.beginPath();g.arc(0,-30,108,0,7);g.fill();
     g.strokeStyle=rgba(A,.9);g.lineWidth=6;g.beginPath();g.arc(0,-30,112,0,7);g.stroke();g.fillStyle="rgba(255,255,255,.55)";g.beginPath();g.ellipse(-44,-84,30,13,-.6,0,7);g.fill();break;}
-  case "barras":{const dir=V?.cenas?.[cur]?.visual?.direcao==="cai"?-1:1;const hs=dir>0?[110,190,290]:[290,190,110];
+  case "pessoa":{const k=ease.out(f);
+    ext(g,P,g=>{rr(g,-34,40,30,140,14);},12);ext(g,P,g=>{rr(g,4,40,30,140,14);},12); // pernas
+    ext(g,P,g=>{rr(g,-70,-90,140,150,40);},18,{face:"#2b2c31",lado:"#1c1d21"}); // tronco (terno)
+    g.fillStyle=A;g.save();g.beginPath();g.moveTo(-60,-80);g.lineTo(-40,-90);g.lineTo(60,40);g.lineTo(40,52);g.closePath();g.globalAlpha=.9*k+.1;g.fill();g.restore(); // faixa
+    ext(g,P,g=>{rr(g,-96,-80,30,120,15);},10,{face:"#2b2c31",lado:"#1c1d21"});ext(g,P,g=>{rr(g,66,-80,30,120,15);},10,{face:"#2b2c31",lado:"#1c1d21"}); // braços
+    ext(g,P,g=>{g.beginPath();g.arc(0,-140,46,0,7);},14); // cabeça
+    g.fillStyle="#f6f5f1";g.beginPath();g.moveTo(-14,-88);g.lineTo(14,-88);g.lineTo(0,-50);g.closePath();g.fill();break;}
+  case "grupo":{for(const [x,s] of [[-150,.62],[150,.62],[0,.75]]){g.save();g.translate(x,40*(1-s)/.4);g.scale(s,s);
+      ext(g,P,g=>{rr(g,-60,-80,120,170,40);},14,{face:x?P.clay:mix(P.clay,A,.35)});ext(g,P,g=>{g.beginPath();g.arc(0,-130,44,0,7);},12);g.restore();}break;}
+  case "cifrao":{fonte(g,900,300);g.textAlign="center";g.textBaseline="middle";const tx=PAR().simbolo||"R$";
+    for(let i=26;i>0;i-=1.5){g.fillStyle=i>14?P.clayS:P.clayD;g.fillText(tx,i*.42,10+i*.62);}
+    const gr=g.createLinearGradient(-150,-150,150,150);gr.addColorStop(0,mix(A,"#ffffff",.35));gr.addColorStop(1,A);g.fillStyle=gr;g.fillText(tx,0,10);g.textBaseline="alphabetic";break;}
+  case "barril":{const cor=mix("#2b2c31",A,.15);g.fillStyle="#1a1b1f";g.beginPath();g.ellipse(0,170,120,34,0,0,7);g.fill();
+    g.fillStyle=cor;rr(g,-120,-170,240,340,16);g.fill();const gr=g.createLinearGradient(-120,0,120,0);gr.addColorStop(0,"rgba(255,255,255,.18)");gr.addColorStop(.4,"rgba(255,255,255,.04)");gr.addColorStop(1,"rgba(0,0,0,.35)");g.fillStyle=gr;rr(g,-120,-170,240,340,16);g.fill();
+    g.fillStyle=A;for(const y of [-100,90])g.fillRect(-120,y,240,16);g.fillStyle="#3a3b41";g.beginPath();g.ellipse(0,-170,120,34,0,0,7);g.fill();g.strokeStyle="rgba(255,255,255,.4)";g.lineWidth=3;g.stroke();
+    g.fillStyle="#111";g.beginPath();g.ellipse(50,-172,18,6,0,0,7);g.fill();break;}
+  case "cofre":{ext(g,P,g=>{g.beginPath();g.ellipse(0,0,190,140,0,0,7);},26,{face:mix(P.clay,A,.25)});ext(g,P,g=>{g.beginPath();g.ellipse(185,10,44,52,0,0,7);},14,{face:mix(P.clay,A,.35)});
+    for(const x of [-110,-30,50,120])ext(g,P,g=>{rr(g,x-20,110,40,70,12);},10,{face:mix(P.clay,A,.25)});
+    g.fillStyle="#26272b";rr(g,-50,-138,100,14,7);g.fill();g.beginPath();g.arc(100,-40,10,0,7);g.fill();
+    const k=ease.out(cl(f*1.5));if(k<1){g.save();g.translate(0,-180-160*(1-k));ext(g,P,g=>{g.beginPath();g.ellipse(0,0,46,46,0,0,7);},10,{face:mix(A,"#ffffff",.25)});g.restore();}break;}
+  case "casa":{ext(g,P,g=>{g.beginPath();g.moveTo(-200,-20);g.lineTo(0,-200);g.lineTo(200,-20);g.closePath();},26,{face:mix(P.clay,A,.55)});ext(g,P,g=>{rr(g,-160,-30,320,210,8);},26);
+    g.fillStyle="#26272b";rr(g,-40,60,80,120,8);g.fill();g.fillStyle=rgba(A,.8);rr(g,60,10,70,60,6);g.fill();rr(g,-130,10,70,60,6);g.fill();break;}
+  case "carrinho":{g.strokeStyle=P.clay;g.lineWidth=18;g.lineCap="round";g.lineJoin="round";g.beginPath();g.moveTo(-220,-140);g.lineTo(-170,-140);g.lineTo(-120,80);g.lineTo(150,80);g.stroke();
+    ext(g,P,g=>{g.beginPath();g.moveTo(-160,-100);g.lineTo(200,-100);g.lineTo(160,40);g.lineTo(-125,40);g.closePath();},20);
+    const n=Math.round(4*ease.out(f));for(let i=0;i<n;i++)ext(g,P,g=>{rr(g,-110+i*70,-170+(i%2)*20,56,80,10);},10,{face:i%2?mix(P.clay,A,.6):mix(P.clay,"#7fb3ff",.25)});
+    for(const x of [-90,120]){g.fillStyle="#26272b";g.beginPath();g.arc(x,130,26,0,7);g.fill();g.strokeStyle=P.clay;g.lineWidth=6;g.stroke();}break;}
+  case "monitor":{ext(g,P,g=>{rr(g,-30,120,60,70,8);},12);ext(g,P,g=>{rr(g,-120,180,240,20,8);},10);ext(g,P,g=>{rr(g,-230,-170,460,300,22);},22,{face:"#2b2c31",lado:"#1c1d21"});
+    g.fillStyle="#0d0e11";rr(g,-206,-148,412,256,12);g.fill();const dir=PAR().direcao==="cai"?-1:1,m=Math.max(2,Math.floor(ease.inout(cl(f))*24));
+    g.strokeStyle=dir>0?P.pos:P.neg;g.lineWidth=6;g.lineJoin="round";g.beginPath();for(let i=0;i<=m;i++){const x=-186+i*16,y=-20-dir*(i*7-80)+Math.sin(i*1.9)*18;i?g.lineTo(x,y):g.moveTo(x,y);}g.stroke();break;}
+  case "megafone":{g.save();g.rotate(-.25);ext(g,P,g=>{g.beginPath();g.moveTo(-140,-50);g.lineTo(120,-150);g.lineTo(120,150);g.lineTo(-140,50);g.closePath();},26,{face:mix(P.clay,A,.25)});
+    ext(g,P,g=>{rr(g,-200,-50,70,100,14);},18);ext(g,P,g=>{rr(g,-120,40,40,110,14);},12);g.restore();
+    g.strokeStyle=A;g.lineWidth=10;g.lineCap="round";for(const r of [70,120]){g.globalAlpha=.4+.6*Math.abs(Math.sin(t*3+r));g.beginPath();g.arc(140,-40,r,-.6,.6);g.stroke();}g.globalAlpha=1;break;}
+  case "balanca":{const inc=.18*Math.sin(t*1.4)*(1-ease.out(cl(f)))+(PAR().direcao==="cai"?-.12:.12)*ease.out(cl(f));
+    ext(g,P,g=>{rr(g,-80,150,160,30,10);},12);ext(g,P,g=>{rr(g,-12,-150,24,310,10);},12);g.save();g.translate(0,-150);g.rotate(inc);ext(g,P,g=>{rr(g,-210,-10,420,20,10);},10);
+    for(const x of [-190,190]){g.save();g.translate(x,0);g.rotate(-inc);g.strokeStyle=P.clayD;g.lineWidth=4;g.beginPath();g.moveTo(0,0);g.lineTo(-60,120);g.moveTo(0,0);g.lineTo(60,120);g.stroke();
+      ext(g,P,g=>{g.beginPath();g.ellipse(0,125,80,20,0,0,7);},10,{face:x<0?mix(P.clay,A,.4):P.clay});g.restore();}g.restore();break;}
+  case "barras":{const dir=PAR().direcao==="cai"?-1:1;const hs=dir>0?[110,190,290]:[290,190,110];
     hs.forEach((h,i)=>{const hh=h*ease.out(cl(f*1.3-i*.15));ext(g,P,g=>{rr(g,-200+i*140,170-hh,110,hh,10);},26,{face:i===(dir>0?2:0)?mix(P.clay,A,.6):P.clay});});break;}
   }
 }
+
+// objeto que já terminou de entrar é desenhado uma vez numa imagem e reaproveitado nos quadros seguintes (gravação fluida)
+const OBJ_VIVOS=new Set(["relogio","megafone","balanca"]),OBJ_CACHE=new Map();
+function objetoRapido(g,P,nome,t,f){if(f<1||OBJ_VIVOS.has(nome)){objeto(g,P,nome,t,f);return;}
+  const par=PAR(),k=[nome,P.a,P.a2,par.direcao||"",par.simbolo||"",par.dia||"",nome==="predio"?V?.predioTxt||"":""].join("|");let c=OBJ_CACHE.get(k);
+  if(!c){c=document.createElement("canvas");c.width=c.height=1100;const x=c.getContext("2d");x.translate(550,520);x.scale(1.25,1.25);objeto(x,P,nome,t,1);
+    if(OBJ_CACHE.size>80)OBJ_CACHE.clear();OBJ_CACHE.set(k,c);}
+  g.drawImage(c,-550/1.25,-520/1.25,1100/1.25,1100/1.25);}
 
 /* ---------------- peças de interface ---------------- */
 function cabecalho(g,P,c,al){g.save();g.globalAlpha=al;fonte(g,600,22,"'JetBrains Mono',monospace");espaco(g,"4px");g.fillStyle=P.sub;g.textAlign="left";
@@ -143,18 +188,64 @@ function legenda(g,P,c,tc,dur,tw){const ws=palavras(c.narracao);if(!ws.length)re
 function rodape(g,P,i,n,al){g.save();g.globalAlpha=al;const y=1712,w=W-2*MX;g.fillStyle="rgba(255,255,255,.10)";rr(g,MX,y,w,5,3);g.fill();g.fillStyle=P.a;rr(g,MX,y,w*((i+1)/n),5,3);g.fill();g.restore();}
 
 /* ---------------- cena ---------------- */
+/* ---------------- cena montada: vários elementos entrando junto com a fala ----------------
+   atores: [{tipo:"objeto"|"numero"|"etiqueta"|"citacao", objeto, valor, rotulo, texto, quem, gatilho, direcao}]
+   Cada ator aparece na palavra "gatilho" da fala. Números ficam num card no alto (o mais novo substitui o anterior);
+   objetos e etiquetas formam uma fileira no palco, cada um com a sua sombra e a sua etiqueta presa. */
+let ATOR=null;const PAR=()=>ATOR||V?.cenas?.[cur]?.visual||{};
+const semAcento=s=>String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z0-9%$]/g,"");
+function temposPalavras(c,i,dur){const ws=palavras(c.narracao);if(V._tw&&V._tw[i]&&V._tw[i].length===ws.length)return V._tw[i];
+  const pesos=ws.map(w=>w.length+2+(/[.,;:!?…]$/.test(w)?4:0)),tot=pesos.reduce((a,b)=>a+b,0)||1,fala=Math.max(.5,dur-.25);let acc=0;return pesos.map(p=>{const s=acc/tot*fala;acc+=p;return s;});}
+// instante (dentro da cena) em que cada ator entra
+function entradas(c,i,dur){const at=(c.visual||{}).atores||[],ws=palavras(c.narracao).map(semAcento),tw=temposPalavras(c,i,dur);
+  return at.map((a,k)=>{const gt=semAcento(String(a.gatilho||"").split(/\s+/)[0]);let j=gt?ws.findIndex(w=>w&&(w.startsWith(gt)||gt.startsWith(w)&&w.length>3)):-1;
+    if(j<0)j=Math.round(k/Math.max(1,at.length)*Math.max(0,ws.length-1)*.8);return Math.max(.05,(tw[j]??0)-.1);});}
+// atores herdados: a cena com "continua" mantém o palco da anterior e só acrescenta
+function elenco(i,L){const c=V.cenas[i],v=c.visual||{},own=(v.atores||[]).map((a,k)=>({a,t:entradas(c,i,L.dur[i])[k],own:true}));
+  if(!v.continua||i===0||(V.cenas[i-1].visual||{}).tipo!=="cena")return own;
+  const ant=elenco(i-1,L).map(x=>({a:x.a,t:-99,own:false}));return [...ant,...own];}
+function etiqueta(g,P,txt,x,y,k,forte){if(!txt||k<=0)return;fonte(g,700,24,"'JetBrains Mono',monospace");espaco(g,"2px");const t=String(txt).toUpperCase(),w=Math.min(W-2*MX,g.measureText(t).width+40);
+  g.save();g.globalAlpha=k;g.translate(x,y+(1-k)*16);g.fillStyle=forte?P.a:"rgba(18,19,23,.92)";rr(g,-w/2,-24,w,48,10);g.fill();if(!forte){g.strokeStyle=rgba(P.a,.6);g.lineWidth=2;g.stroke();}
+  g.fillStyle=forte?"#fff":P.txt;g.textAlign="center";g.fillText(t,0,9,w-30);espaco(g,"0px");g.restore();}
+function laje(g,P,txt,k){ // etiqueta como bloco 3D no palco
+  fonte(g,800,36);const ls=quebra(g,String(txt||"").toUpperCase(),330).slice(0,3),w=Math.max(220,Math.min(380,Math.max(...ls.map(l=>g.measureText(l).width))+60)),h=ls.length*44+50;
+  g.save();g.rotate(-.04);ext(g,P,g=>{rr(g,-w/2,-h/2,w,h,10);},16,{face:mix(P.a,"#0e0f12",.15),lado:mix(P.a,"#000",.55),semBorda:true});
+  g.fillStyle="#fff";g.textAlign="center";ls.forEach((l,j)=>g.fillText(l,0,-h/2+25+36+j*44));g.restore();}
+function entradaObj(nome,k){ // deslocamento e escala de entrada por tipo de objeto
+  if(nome==="seta-baixo")return {dy:-520*(1-ease.out(k))+Math.sin(k*Math.PI)*0,s:1,bounce:k>.6?Math.sin((k-.6)/.4*Math.PI)*-18:0};
+  if(nome==="seta-cima")return {dy:420*(1-ease.out(k)),s:1,bounce:0};
+  if(nome==="carrinho"||nome==="grupo")return {dx:-700*(1-ease.out(k)),s:1,bounce:0};
+  return {dy:0,s:.55+.45*ease.back(k),bounce:0};}
+function desCena(g,P,c,i,tc,L,tAbs){const v=c.visual||{},el=elenco(i,L);
+  // número: só o mais recente que já entrou
+  const nums=el.filter(x=>x.a.tipo==="numero"&&tc>=x.t);const num=nums[nums.length-1];
+  const cits=el.filter(x=>x.a.tipo==="citacao"&&tc>=x.t);const cit=cits[cits.length-1];
+  const palco=el.filter(x=>x.a.tipo==="objeto"||x.a.tipo==="etiqueta").slice(-4);
+  const n=palco.length,esc=(n<=1?1.05:n===2?.8:n===3?.62:.5)*(cit?.8:1),gap=n<=1?0:(W-2*MX-40)/(n),x0=W/2-gap*(n-1)/2,base=cit?1230:num?1170:1090;
+  palco.forEach((x,j)=>{const k=cl((tc-x.t)/.6);if(k<=0)return;ATOR=x.a;const px=x0+j*gap,py=base-40+Math.sin(tAbs*1.5+j)*7;
+    g.save();if(x.a.tipo==="etiqueta"){g.translate(px,py-60);const s=esc*1.05*(.6+.4*ease.back(k));g.scale(s,s);g.globalAlpha*=cl(k*2);laje(g,P,x.a.texto||x.a.rotulo,k);g.restore();}
+    else{const e=entradaObj(x.a.objeto,k);g.translate(px+(e.dx||0),py+(e.dy||0)+(e.bounce||0));g.scale(esc*e.s,esc*e.s);g.globalAlpha*=cl(k*2.5);
+      g.save();g.translate(0,190);sombra(g,170);g.restore();objetoRapido(g,P,x.a.objeto,tAbs,x.t<-50?1:cl((tc-x.t)/1.4));g.restore();
+      if(x.a.rotulo)etiqueta(g,P,x.a.rotulo,px,py-250*esc-30,ease.out(cl((tc-x.t-.25)/.4)),false);}
+    ATOR=null;});
+  if(num)cardNumero(g,P,num.a,tc-num.t,n?690:950);
+  else if(cit)desCitacao(g,P,{frase:cit.a.frase||cit.a.texto,quem:cit.a.quem},tc-cit.t,n?870:1080);
+}
 function desenhar(g,tAbs,L){
   const P=paleta();let i=L.ini.findIndex((s,k)=>tAbs<s+L.dur[k]);if(i<0)i=L.ini.length-1;
   const c=V.cenas[i],tc=tAbs-L.ini[i],dur=L.dur[i],v=c.visual||{},tipo=v.tipo||"objeto";
-  const sai=cl((dur-tc)/.28),ent=cl(tc/.3),al=Math.min(sai,1);const cy=tipo==="fim"?1000:1060;
+  const continua=tipo==="cena"&&v.continua&&i>0,proxContinua=(V.cenas[i+1]?.visual||{}).continua&&(V.cenas[i+1]?.visual||{}).tipo==="cena"&&tipo==="cena";
+  const sai=proxContinua?1:cl((dur-tc)/.28),ent=cl(tc/.3),al=Math.min(sai,1);const cy=tipo==="fim"?1000:1060;
   g.setTransform(1,0,0,1,0,0);fundo(g,tAbs,P,cy);
   // câmera: aproximação lenta durante a cena
-  const zoom=1+.035*ease.inout(cl(tc/Math.max(1,dur)));g.save();g.translate(W/2,cy);g.scale(zoom,zoom);g.translate(-W/2,-cy);
+  // câmera: aproxima devagar; cena nova entra subindo um pouco (cena que continua não pula)
+  const zoom=1+.05*ease.inout(cl(tc/Math.max(1,dur)))+(continua?0:.04*(1-ease.out(cl(tc/.45))));const sobe=continua?0:60*(1-ease.out(cl(tc/.45)));
+  g.save();g.translate(W/2,cy+sobe);g.scale(zoom,zoom);g.translate(-W/2,-cy);
   g.globalAlpha=al;
   const obj=v.objeto&&v.objeto!=="nenhum"?v.objeto:null;
   if(tipo==="numero"||tipo==="objeto"||tipo==="titulo"){
     if(obj){const k=ease.back(cl(tc/.55));g.save();g.translate(W/2,cy-40+Math.sin(tAbs*1.6)*9);g.scale(.62+.38*k,.62+.38*k);g.rotate(Math.sin(tAbs*.9)*.025);
-      g.save();g.translate(0,190);sombra(g,170);g.restore();objeto(g,P,obj,tAbs,cl(tc/1.2));g.restore();}
+      g.save();g.translate(0,190);sombra(g,170);g.restore();objetoRapido(g,P,obj,tAbs,cl(tc/1.2));g.restore();}
     if(tipo==="numero")cardNumero(g,P,v,tc,obj?720:1000);
     else if(tipo==="titulo")cardFrase(g,P,v.texto||c.narracao,tc,obj?700:1000,obj?64:84);
     else if(v.texto)cardFrase(g,P,v.texto,tc,700,52);
@@ -163,8 +254,10 @@ function desenhar(g,tAbs,L){
   else if(tipo==="lista"){desLista(g,P,v,tc);}
   else if(tipo==="citacao"){desCitacao(g,P,v,tc);}
   else if(tipo==="fim"){desFim(g,P,v,tc,tAbs);}
+  else if(tipo==="cena"){desCena(g,P,c,i,tc,L,tAbs);}
   g.restore();g.globalAlpha=1;
-  cabecalho(g,P,c,Math.min(ent,sai)*.999+.001);
+  cabecalho(g,P,c,Math.min(continua?1:ent,sai)*.999+.001);
+  if(v.topico)etiqueta(g,P,v.topico,W/2,290,ease.out(cl((tc-.1)/.4))*Math.min(1,sai),true);
   legenda(g,P,c,tc,dur,V._tw&&V._tw[i]);rodape(g,P,i,V.cenas.length,1);
   graoPor(g,tAbs);return i;}
 function desGrafico(g,P,v,tc){const x=MX+20,y=560,w=W-2*MX-40,h=640,k=ease.out(prog(tc,.1,.5));card(g,P,x,y,w,h,k,(1-k)*30);
@@ -192,9 +285,10 @@ function desLista(g,P,v,tc){const its=(v.itens||[]).slice(0,4);if(!its.length)re
   blocos.forEach((b,i)=>{const k=ease.out(prog(tc,.15+i*.35,.5));card(g,P,x,y,w,hs[i],k,(1-k)*30);g.save();g.globalAlpha=k;g.translate(0,(1-k)*30);
     g.fillStyle=P.a;g.beginPath();g.arc(x+70,y+hs[i]/2,30,0,7);g.fill();g.fillStyle="#fff";fonte(g,800,32,"'JetBrains Mono',monospace");g.textAlign="center";g.fillText(String(i+1),x+70,y+hs[i]/2+11);
     fonte(g,700,46);g.textAlign="left";g.fillStyle=P.txt;b.forEach((l,j)=>g.fillText(l,x+130,y+30+46+j*56));g.restore();y+=hs[i]+20;});}
-function desCitacao(g,P,v,tc){const k=ease.out(prog(tc,.1,.5));const x=MX+10,w=W-2*MX-20;fonte(g,800,58);const ls=quebra(g,"“"+(v.frase||"")+"”",w-110).slice(0,6);
-  const h=ls.length*70+190,y=1080-h;card(g,P,x,y,w,h,k,(1-k)*30);g.save();g.globalAlpha=k;g.translate(0,(1-k)*30);g.fillStyle=P.txt;g.textAlign="left";
-  ls.forEach((l,i)=>g.fillText(l,x+60,y+90+i*70));fonte(g,600,26,"'JetBrains Mono',monospace");espaco(g,"2px");g.fillStyle=P.a2;g.fillText("— "+String(v.quem||"").toUpperCase().slice(0,48),x+60,y+h-50);espaco(g,"0px");g.restore();}
+function desCitacao(g,P,v,tc,yb){const k=ease.out(prog(tc,.1,.5));const x=MX+10,w=W-2*MX-20;let fs=58,ls;
+  for(;fs>=36;fs-=4){fonte(g,800,fs);ls=quebra(g,"“"+(v.frase||"")+"”",w-110);if(ls.length*(fs*1.2)+190<=(yb||1080)-340)break;}ls=ls.slice(0,6);
+  const lh=fs*1.2,h=ls.length*lh+190,y=Math.max(340,(yb||1080)-h);card(g,P,x,y,w,h,k,(1-k)*30);g.save();g.globalAlpha=k;g.translate(0,(1-k)*30);g.fillStyle=P.txt;g.textAlign="left";
+  ls.forEach((l,i)=>g.fillText(l,x+60,y+90+i*lh));fonte(g,600,26,"'JetBrains Mono',monospace");espaco(g,"2px");g.fillStyle=P.a2;g.fillText("— "+String(v.quem||"").toUpperCase().slice(0,48),x+60,y+h-50);espaco(g,"0px");g.restore();}
 const IMGS={};
 function img(src){if(!src)return null;if(IMGS[src])return IMGS[src].complete?IMGS[src]:null;const im=new Image();im.src=src;IMGS[src]=im;return null;}
 function desFim(g,P,v,tc,tAbs){const b=(APP.marca?APP.marca(V):(typeof brandOf==="function"?brandOf(V.handle):{}))||{};const k=ease.back(cl(tc/.6));const cy=880;
@@ -322,19 +416,29 @@ function numeroEm(s){const re=/(R\$|US\$)?\s?[+-]?\d[\d.,]*\s?(%|mi\b|bi\b|tri\b
 const fimTxt=()=>APP.cta?APP.cta(V):`Siga ${V.handle} para entender o mercado todos os dias.`;
 const fimBotao=()=>APP.botao?APP.botao(V):"Seguir";
 function roteiroDaFicha(n){const cs=[];const add=(cap,narr,visual)=>narr&&cs.push({cap,narracao:cortaP(narr,26),visual});
-  add("A NOTÍCIA",(n.gancho?plain(n.gancho)+". ":"")+(frases(n.resumo)[0]||n.titulo),{tipo:"titulo",texto:plain(n.gancho||n.titulo),objeto:objetoPara(n.titulo)});
+  const gat=(f,x)=>{const w=palavras(x||"").find(p=>p.length>3);return w||palavras(f)[1]||"";};
+  const ob=f=>({tipo:"objeto",objeto:objetoPara(f),gatilho:gat(f)});
+  add("A NOTÍCIA",(n.gancho?plain(n.gancho)+". ":"")+(frases(n.resumo)[0]||n.titulo),{tipo:"cena",topico:plain(n.gancho||n.titulo).split(" ").slice(0,6).join(" "),atores:[{tipo:"objeto",objeto:"pessoa",gatilho:""},{...ob(n.titulo),gatilho:palavras(n.resumo||n.titulo)[3]||""}]});
   const base=(n.explicacao||[])[0]||(n.fatos||[]).slice(0,2).join(" ");
-  frases(base).slice(0,2).forEach(f=>{const num=numeroEm(f);add("O FATO",f,num?{tipo:"numero",valor:num,rotulo:cortaP(f.replace(num,""),8).replace(/\.$/,""),objeto:objetoPara(f)}:{tipo:"objeto",objeto:objetoPara(f)});});
-  (n.numeros||[]).slice(0,2).forEach(x=>add("OS NÚMEROS",`${x.valor}: ${x.rotulo}.`,{tipo:"numero",valor:x.valor,rotulo:x.rotulo,objeto:objetoPara(x.rotulo+" "+x.valor)}));
+  frases(base).slice(0,2).forEach((f,j)=>{const num=numeroEm(f);const at=[ob(f)];if(num)at.push({tipo:"numero",valor:num,rotulo:cortaP(f.replace(num,""),7).replace(/\.$/,""),gatilho:palavras(num)[palavras(num).length-1]});
+    add("O FATO",f,{tipo:"cena",topico:j?"":"O QUE ACONTECEU",continua:j>0,atores:at});});
+  const nums=(n.numeros||[]).slice(0,3);
+  if(nums.length){const f=nums.map(x=>`${x.valor}, ${x.rotulo}`).join(". ")+".";
+    add("OS NÚMEROS",f,{tipo:"cena",topico:"OS NÚMEROS",atores:nums.map((x,j)=>({tipo:"objeto",objeto:objetoPara(x.rotulo+" "+x.valor),rotulo:cortaP(x.rotulo,3).replace(/\.$/,""),gatilho:palavras(x.valor)[0]})).concat(nums.map(x=>({tipo:"numero",valor:x.valor,rotulo:x.rotulo,gatilho:palavras(x.valor)[0]})))});}
   if((n.comparativo||[]).length)add("ANTES × DEPOIS","Veja o que mudou: "+n.comparativo.map(x=>`${x.item}, de ${x.antes} para ${x.depois}`).join("; ")+".",{tipo:"comparativo",itens:n.comparativo.map(x=>({rotulo:x.item,antes:x.antes,depois:x.depois}))});
-  if((n.declaracoes||[]).length){const d=n.declaracoes[0];add("QUEM FALOU",`${d.quem.split(",")[0]} resumiu assim: ${d.oque}`,{tipo:"citacao",frase:d.oque,quem:d.quem});}
-  frases(n.porQueImporta||n.dor).slice(0,1).forEach(f=>add("POR QUE IMPORTA",f,{tipo:"objeto",objeto:objetoPara(f)}));
-  frases(n.impactoMercado).slice(0,1).forEach(f=>add("O IMPACTO",f,{tipo:"grafico",direcao:/cai|queda|recu|press/.test(f)?"cai":"sobe",rotulo:"movimento ilustrativo"}));
-  frases(n.entenda||n.angulo).slice(0,1).forEach(f=>add(n.entenda?"ENTENDA":"O CAMINHO",f,{tipo:"objeto",objeto:n.entenda?"lupa":"alvo"}));
-  frases(n.observar).slice(0,1).forEach(f=>add("E AGORA",f,{tipo:"objeto",objeto:"calendario"}));
-  add("",fimTxt(),{tipo:"fim",texto:fimBotao()});return cs;}
+  (n.detalhes||[]).slice(0,2).forEach((d,j)=>add("OS DETALHES",d,{tipo:"cena",topico:j?"":"OS DETALHES",continua:j>0,atores:[{...ob(d),rotulo:numeroEm(d)||""}]}));
+  if((n.declaracoes||[]).length){const d=n.declaracoes[0];add("QUEM FALOU",`${d.quem.split(",")[0]} resumiu assim: ${d.oque}`,{tipo:"cena",topico:"O QUE DISSERAM",atores:[{tipo:"objeto",objeto:"pessoa",rotulo:d.quem.split(",")[0],gatilho:""},{tipo:"citacao",frase:d.oque,quem:d.quem,gatilho:"assim"}]});}
+  frases(n.porQueImporta||n.dor).slice(0,1).forEach(f=>add("POR QUE IMPORTA",f,{tipo:"cena",topico:"POR QUE IMPORTA",atores:[{tipo:"objeto",objeto:"grupo",gatilho:""},ob(f)]}));
+  frases(n.impactoMercado).slice(0,1).forEach(f=>add("O IMPACTO",f,{tipo:"cena",topico:"O SEU BOLSO",atores:[{tipo:"objeto",objeto:"monitor",direcao:/cai|queda|recu|press/.test(f)?"cai":"sobe",gatilho:""},ob(f)]}));
+  frases(n.entenda||n.angulo).slice(0,1).forEach(f=>add(n.entenda?"ENTENDA":"O CAMINHO",f,{tipo:"cena",topico:n.entenda?"ENTENDA":"O CAMINHO",atores:[{tipo:"objeto",objeto:n.entenda?"lupa":"alvo",gatilho:""}]}));
+  frases(n.observar).slice(0,1).forEach(f=>add("E AGORA",f,{tipo:"cena",topico:"O QUE VEM AÍ",atores:[{tipo:"objeto",objeto:"calendario",gatilho:""},{tipo:"objeto",objeto:"relogio",gatilho:palavras(f)[Math.floor(palavras(f).length/2)]}]}));
+  add("",fimTxt(),{tipo:"fim",texto:fimBotao()});
+  // objetos repetidos em cenas seguidas viram outro parecido
+  let ant=new Set();cs.forEach(c=>{const v=c.visual||{};if(v.tipo!=="cena"){ant=new Set();return;}const agora=new Set();(v.atores||[]).forEach(a=>{if(a.tipo==="objeto"&&!v.continua&&ant.has(a.objeto)){const op=(ALT[a.objeto]||["alvo","barras"]).find(o=>!ant.has(o));if(op)a.objeto=op;}if(a.tipo==="objeto")agora.add(a.objeto);});ant=agora;});
+  return cs;}
 function roteiroDoTexto(txt){const ps=String(txt||"").split(/\n\s*\n|\n/).map(x=>x.trim()).filter(Boolean);
-  const cs=ps.map((p,i)=>{const num=numeroEm(p);return {cap:i?"":"A NOTÍCIA",narracao:p,visual:num&&i?{tipo:"numero",valor:num,rotulo:cortaP(p.replace(num,""),7).replace(/\.$/,""),objeto:objetoPara(p)}:{tipo:i?"objeto":"titulo",texto:i?"":cortaP(p,9),objeto:objetoPara(p)}};});
+  const cs=ps.map((p,i)=>{const num=numeroEm(p),at=[{tipo:"objeto",objeto:i?objetoPara(p):"pessoa",gatilho:""}];if(i===0)at.push({tipo:"objeto",objeto:objetoPara(p),gatilho:palavras(p)[3]||""});
+    if(num)at.push({tipo:"numero",valor:num,rotulo:cortaP(p.replace(num,""),7).replace(/\.$/,""),gatilho:palavras(num)[0]});return {cap:i?"":"A NOTÍCIA",narracao:p,visual:{tipo:"cena",topico:i?"":cortaP(p,6).replace(/\.$/,"").toUpperCase(),atores:at}};});
   cs.push({cap:"",narracao:fimTxt(),visual:{tipo:"fim",texto:fimBotao()}});return cs;}
 const iaOk=()=>APP.temIA?APP.temIA():(typeof temIA==="function"&&temIA());
 async function roteiroIA(modo){if(!iaOk()){st("Para a IA escrever o roteiro, coloque a chave da OpenAI na aba Marca. Usei a ficha da notícia.","err");V.cenas=roteiroDaFicha(V.noticia);pronto();return false;}
@@ -346,31 +450,36 @@ async function roteiroIA(modo){if(!iaOk()){st("Para a IA escrever o roteiro, col
 ${mat}
 Escreva um roteiro de vídeo vertical de 55 a 80 segundos, falado como um criador de conteúdo brasileiro que prende a atenção: energia, curiosidade e ritmo de Reels. Use frases curtas de impacto, perguntas que puxam a próxima cena ("E sabe o que aconteceu depois?"), viradas ("E não parou aí…"), reticências e vírgulas para marcar pausas, ponto de exclamação com moderação, expressões naturais do dia a dia. Nada de clichê de coach, sem emoji, sem prometer ganho, sem recomendar compra ou venda. Escreva os números por extenso quando ajudar a leitura em voz alta (ex.: "cinco reais e noventa e três"), mas no campo "valor" do visual use o número curto. Só use números, nomes e fatos do material.
 Estrutura: gancho forte na primeira cena; o que aconteceu; os números; por que importa; o que muda para quem assiste; um conceito explicado; o que observar; fechamento: ${fimTxt()}
-Divida em 9 a 13 cenas. Cada cena tem uma fala de 8 a 22 palavras e UM visual:
-- "numero": {"valor":"número curto do material, ex: R$ 11 tri, -20%, 5,93","rotulo":"até 7 palavras","objeto":"um objeto"}
-- "objeto": {"objeto":"um objeto","texto":"opcional, até 6 palavras"}
-- "grafico": {"direcao":"sobe|cai|oscila","valor":"opcional, número do material","rotulo":"até 6 palavras"}
-- "comparativo": {"itens":[{"rotulo":"","antes":"","depois":""}]} só com valores do material
-- "lista": {"itens":["até 3 itens de até 9 palavras"]}
-- "citacao": {"frase":"paráfrase curta","quem":"nome e cargo do material"}
-- "titulo": {"texto":"até 8 palavras","objeto":"um objeto"}
-- a última cena é {"tipo":"fim","texto":"${fimBotao()}"}
-Objetos possíveis: ${Object.keys(OBJETOS).join(", ")}. Varie os visuais; não repita o mesmo objeto em cenas seguidas.
+Divida em 9 a 12 cenas de 8 a 24 palavras cada. O vídeo precisa ser visual e "montado" junto com a fala, como uma animação explicativa: a maioria das cenas é do tipo "cena", com 2 a 4 elementos que vão aparecendo um a um, cada um na palavra da fala que o menciona.
+Formato do visual "cena": {"tipo":"cena","topico":"faixa no topo, até 6 palavras em caixa alta (ex: POR QUE TANTO MEDO? A CONTA)","continua":false,"atores":[...]}
+Elementos possíveis em "atores" (cada um com "gatilho": a palavra exata da fala em que ele entra):
+- {"tipo":"objeto","objeto":"um dos objetos","rotulo":"etiqueta presa nele, até 4 palavras, ex: ITAÚ −14% ou DÍVIDA","direcao":"sobe|cai (para seta, barras, tela e balança)","gatilho":""}
+- {"tipo":"numero","valor":"número curto do material, ex: R$ 11 tri, −20%, 5,93","rotulo":"até 7 palavras","gatilho":""}  (vira um card grande no alto; um número novo substitui o anterior)
+- {"tipo":"etiqueta","texto":"bloco de texto no palco, até 6 palavras, ex: FLÁVIO · 70 A 90% DE CHANCE","gatilho":""}
+- {"tipo":"citacao","frase":"paráfrase curta","quem":"nome e cargo do material","gatilho":""}
+Use "continua":true quando a cena seguinte é sobre o mesmo assunto: o palco da cena anterior fica e só ganha os elementos novos (ex.: uma seta para cada empresa que caiu, a pilha da dívida que depois ganha o card do número).
+Para comparar (empresas, antes e depois, setores), use vários objetos lado a lado, cada um com seu rótulo. Para listas de coisas do dia a dia (gasolina, comida, remédio), um objeto por item com o rótulo do item.
+Pode usar de vez em quando os visuais simples: {"tipo":"grafico","direcao":"sobe|cai|oscila","valor":"","rotulo":""}, {"tipo":"comparativo","itens":[{"rotulo":"","antes":"","depois":""}]}, {"tipo":"lista","itens":[""]}.
+A última cena é {"tipo":"fim","texto":"${fimBotao()}"}.
+Objetos possíveis: ${Object.keys(OBJETOS).filter(k=>k!=="nenhum").join(", ")}. "pessoa" é um personagem (use para governo, presidente, investidor, consumidor), "grupo" para pessoas em geral.
 "cap" é a etiqueta do capítulo em 1 ou 2 palavras (ex: A NOTÍCIA, A CONTA, O IMPACTO, ENTENDA, E AGORA).
-Responda só com JSON: {"cenas":[{"cap":"","narracao":"","visual":{"tipo":"","...":""}}],"legenda":"legenda do post com 2 parágrafos, a fonte e 5 hashtags"}`;
+Responda só com JSON: {"cenas":[{"cap":"","narracao":"","visual":{"tipo":"cena","topico":"","continua":false,"atores":[{"tipo":"objeto","objeto":"","rotulo":"","gatilho":""}]}}],"legenda":"legenda do post com 2 parágrafos, a fonte e 5 hashtags"}`;
   try{const r=await sample.json(prompt,{cache:false});if(!Array.isArray(r?.cenas)||!r.cenas.length)throw {code:"invalid_json"};
     V.cenas=r.cenas.map(c=>({cap:String(c.cap||""),narracao:String(c.narracao||""),visual:limpaVisual(c.visual,c.narracao)}));
     const ult=V.cenas[V.cenas.length-1];if(ult.visual.tipo!=="fim")V.cenas.push({cap:"",narracao:fimTxt(),visual:{tipo:"fim",texto:fimBotao()}});else ult.visual.texto=ult.visual.texto||fimBotao();
     V.legendaPost=String(r.legenda||"");pronto("Roteiro pronto.");return true;}
   catch(e){st("A IA não respondeu agora. Usei a ficha da notícia; tente de novo depois.","err");V.cenas=roteiroDaFicha(n);pronto();return false;}}
 function limpaVisual(v,narr){v=v&&typeof v==="object"?v:{};const tipo=TIPOS_V[v.tipo]?v.tipo:"objeto";const o={tipo};
-  for(const k of ["valor","rotulo","texto","frase","quem","direcao","dia"])if(v[k])o[k]=String(v[k]);
+  for(const k of ["valor","rotulo","texto","frase","quem","direcao","dia","topico"])if(v[k])o[k]=String(v[k]);
+  if(tipo==="cena"){o.continua=!!v.continua;o.atores=(Array.isArray(v.atores)?v.atores:[]).slice(0,4).map(a=>{const t=["objeto","numero","etiqueta","citacao"].includes(a?.tipo)?a.tipo:"objeto";const x={tipo:t};
+      for(const k of ["valor","rotulo","texto","frase","quem","direcao","gatilho"])if(a?.[k])x[k]=String(a[k]);if(t==="objeto")x.objeto=OBJETOS[a?.objeto]&&a.objeto!=="nenhum"?a.objeto:objetoPara((a?.rotulo||"")+" "+narr);return x;});
+    if(!o.atores.length)o.atores=[{tipo:"objeto",objeto:objetoPara(narr)}];o.objeto="nenhum";return o;}
   if(Array.isArray(v.itens))o.itens=v.itens.slice(0,4).map(x=>typeof x==="object"?{rotulo:String(x.rotulo||x.item||""),antes:String(x.antes||""),depois:String(x.depois||"")}:String(x));
   o.objeto=OBJETOS[v.objeto]?v.objeto:(["numero","objeto","titulo"].includes(tipo)?objetoPara(narr+" "+(v.rotulo||"")):"nenhum");return o;}
 const ALT={moedas:["pilha","barras","seta-cima","cartao"],pilha:["moedas","barras","predio"],termometro:["barras","seta-cima","relogio"],predio:["barras","seta-baixo","alvo"],
   "seta-baixo":["barras","placa-pare","escudo"],"seta-cima":["barras","alvo","moedas"],alvo:["escudo","lupa","barras"],calendario:["relogio","alvo"],relogio:["calendario","alvo"],
   escudo:["alvo","lupa"],lupa:["alvo","escudo"],cartao:["moedas","pilha"],"placa-pare":["seta-baixo","escudo"],barras:["seta-cima","moedas","alvo"]};
-function variar(cs){let ant="";const usados={};cs.forEach(c=>{const v=c.visual||{};if(!v.objeto||v.objeto==="nenhum"){ant="";return;}
+function variar(cs){let ant="";const usados={};cs.forEach(c=>{const v=c.visual||{};if(v.tipo==="cena"){ant="";return;}if(!v.objeto||v.objeto==="nenhum"){ant="";return;}
   if(v.objeto===ant||(usados[v.objeto]||0)>=2){const op=(ALT[v.objeto]||["alvo","barras","lupa"]).find(o=>o!==ant&&(usados[o]||0)<2);if(op)v.objeto=op;}
   usados[v.objeto]=(usados[v.objeto]||0)+1;ant=v.objeto;});return cs;}
 function pronto(msg){cur=0;variar(V.cenas);V._buf=null;V._durs=null;V._tw=null;V.legendaPost=V.legendaPost||legendaLocal();salvar();renderLista();renderCena();quadro();if(msg)st(msg,"ok");}
@@ -461,12 +570,18 @@ function renderCena(){if(!V)return;const c=V.cenas[cur];if(!c)return;const v=c.v
   $v("vcCap").value=c.cap||"";$v("vcNarr").value=c.narracao||"";$v("vcTipo").value=v.tipo||"objeto";$v("vcObj").value=v.objeto||"nenhum";
   $v("vcValor").value=v.valor||v.texto||v.frase||"";$v("vcRot").value=v.rotulo||v.quem||v.direcao||"";
   $v("vcItens").value=(v.itens||[]).map(x=>typeof x==="object"?`${x.rotulo}; ${x.antes}; ${x.depois}`:x).join("\n");
-  const t=v.tipo;$v("vfValor").querySelector("span").textContent=t==="citacao"?"Frase":t==="titulo"||t==="objeto"||t==="fim"?"Texto na tela":"Número / valor";
+  const t=v.tipo;$v("vfValor").querySelector("span").textContent=t==="cena"?"Faixa no topo (tópico)":t==="citacao"?"Frase":t==="titulo"||t==="objeto"||t==="fim"?"Texto na tela":"Número / valor";
+  if(t==="cena"){$v("vcValor").value=v.topico||"";$v("vcRot").value=v.continua?"continua":"";$v("vcItens").value=(v.atores||[]).map(a=>[a.tipo,a.tipo==="objeto"?a.objeto:a.tipo==="numero"?a.valor:a.tipo==="citacao"?a.frase:a.texto,a.tipo==="citacao"?a.quem:a.rotulo||"",a.gatilho||""].join("; ")).join("\n");}
   $v("vfRot").querySelector("span").textContent=t==="citacao"?"Quem falou":t==="grafico"?"Rótulo (ou: sobe / cai)":"Rótulo";
-  $v("vfItens").hidden=!["lista","comparativo"].includes(t);$v("vfItens").querySelector("span").textContent=t==="comparativo"?"Linhas (item; antes; depois)":"Itens (um por linha)";
+  $v("vfItens").hidden=!["lista","comparativo","cena"].includes(t);$v("vfItens").querySelector("span").textContent=t==="cena"?"Elementos, um por linha: tipo; objeto ou valor; rótulo; palavra que faz aparecer (tipos: objeto, numero, etiqueta, citacao)":t==="comparativo"?"Linhas (item; antes; depois)":"Itens (um por linha)";
+  if(t==="cena")$v("vfRot").querySelector("span").textContent="Escreva \"continua\" para manter o palco da cena anterior";
   $v("vfObj").hidden=!["numero","objeto","titulo"].includes(t);$v("vcIdx").textContent=`Cena ${cur+1} de ${V.cenas.length}`;}
 function editar(){const c=V.cenas[cur];if(!c)return;const v=c.visual=c.visual||{};const antes=c.narracao;c.cap=$v("vcCap").value;c.narracao=$v("vcNarr").value;v.tipo=$v("vcTipo").value;v.objeto=$v("vcObj").value;
   const a=$v("vcValor").value,b=$v("vcRot").value;delete v.valor;delete v.texto;delete v.frase;delete v.quem;delete v.rotulo;
+  if(v.tipo==="cena"){v.topico=a;v.continua=/continua/i.test(b);const ls=$v("vcItens").value.split("\n").map(x=>x.trim()).filter(Boolean);
+    v.atores=ls.slice(0,4).map(l=>{const p=l.split(";").map(x=>x.trim());const tp=["objeto","numero","etiqueta","citacao"].includes(p[0])?p[0]:"objeto";const x={tipo:tp,gatilho:p[3]||""};
+      if(tp==="objeto"){x.objeto=OBJETOS[p[1]]?p[1]:objetoPara(p[1]);x.rotulo=p[2]||"";}else if(tp==="numero"){x.valor=p[1]||"";x.rotulo=p[2]||"";}else if(tp==="citacao"){x.frase=p[1]||"";x.quem=p[2]||"";}else x.texto=p[1]||"";return x;});
+    renderLista();quadro();salvar();return;}
   if(v.tipo==="citacao"){v.frase=a;v.quem=b;}else if(["titulo","objeto","fim"].includes(v.tipo))v.texto=a;else{v.valor=a;v.rotulo=b;if(v.tipo==="grafico")v.direcao=/cai|queda/i.test(b)?"cai":/oscil/i.test(b)?"oscila":"sobe";}
   const ls=$v("vcItens").value.split("\n").map(x=>x.trim()).filter(Boolean);v.itens=v.tipo==="comparativo"?ls.map(l=>{const p=l.split(";");return {rotulo:(p[0]||"").trim(),antes:(p[1]||"").trim(),depois:(p.slice(2).join(";")||"").trim()};}):ls;
   if(antes!==c.narracao&&V._buf&&!V._audioProprio){V._buf=null;V._durs=null;V._tw=null;st("A fala mudou: toque em Gerar narração de novo.");}
@@ -482,7 +597,7 @@ function abrir(n){const perfis=APP.perfis?APP.perfis():(typeof perfisOrd==="func
   $v("vMeu").value="";$v("vElKey").value=elKey()?"••••••••"+elKey().slice(-4):"";
   pronto(iaOk()?"Pronto para gerar. Toque em Fazer tudo para sair o vídeo pronto, ou vá passo a passo.":"Roteiro montado com a ficha. Coloque a chave da OpenAI na aba Marca para a IA e a narração.");
   const b=APP.marca?APP.marca(V):(typeof brandOf==="function"?brandOf(h):{});if(b?.fotoUrl||b?.foto)img(b.fotoUrl||blobSrc(b.foto));if(b?.logoUrl)img(b.logoUrl);}
-window.radarVideo={abrir,compor};
+window.radarVideo={abrir,compor,quadroEm:t=>{const L=linha();desenhar(cv().getContext("2d"),t,L);return L;}};
 document.addEventListener("click",e=>{const b=e.target.closest(APP.botoes||"[data-video],#nbVideo");if(!b)return;e.stopPropagation();
   const n=APP.noticiaDe?APP.noticiaDe(b):(NEWS.find(x=>x.id===(b.dataset.video||(typeof deck!=="undefined"&&deck?.noticiaId)))||(typeof deck!=="undefined"&&deck?.noticia));if(n)abrir(n);},true);
 
