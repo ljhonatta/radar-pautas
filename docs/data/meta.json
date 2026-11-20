@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-19T23:43:15-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-11-20T15:03:56-03:00",
+  "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Novo decreto muda jornada de trabalho e gera impactos; Mudança na jornada de trabalho: fim da escala 6x1; Fim da escala 6x1: impactos para todos os setores.",
+  "mensagem": "5 pauta(s) nova(s): Fim da escala 6x1 e suas consequências para o trabalho; Fim da escala 6x1 pode impactar seu bolso; Fim da escala 6x1: impactos para construtoras.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-20T15:03:56-03:00",
    "2026-11-19T23:43:15-03:00",
    "2026-11-19T19:51:20-03:00",
    "2026-11-19T15:43:13-03:00",
@@ -18,19 +19,19 @@
    "2026-11-17T20:16:24-03:00",
    "2026-11-17T15:49:13-03:00",
    "2026-11-17T01:13:55-03:00",
-   "2026-11-16T20:56:18-03:00",
-   "2026-11-16T16:54:21-03:00"
+   "2026-11-16T20:56:18-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-19T23:43:15-03:00",
+  "ultimaColeta": "2026-11-20T15:03:56-03:00",
   "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): iFood expõe dados e alerta para segurança digital; Influenciadores podem transformar suas vendas e decisões; Capacitação gratuita para impulsionar vendas e clientes.",
+  "mensagem": "6 pauta(s) nova(s): Como a IA pode transformar sua Black Friday em 2026; Ajustes econômicos exigem marketing estratégico em 2027; Queda nas vendas da Black Friday no Paraná.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-20T15:03:56-03:00",
    "2026-11-19T23:43:15-03:00",
    "2026-11-19T19:51:20-03:00",
    "2026-11-19T15:43:13-03:00",
@@ -41,8 +42,7 @@
    "2026-11-17T20:16:24-03:00",
    "2026-11-17T15:49:13-03:00",
    "2026-11-17T01:13:55-03:00",
-   "2026-11-16T20:56:18-03:00",
-   "2026-11-16T16:54:21-03:00"
+   "2026-11-16T20:56:18-03:00"
   ]
  }
 }
