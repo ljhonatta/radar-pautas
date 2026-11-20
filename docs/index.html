@@ -526,7 +526,13 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
         <h2>Narração</h2>
         <div class="steps">
           <div class="step"><div class="field"><span>Escolha a voz e gere a narração. Sai em português do Brasil, cena por cena, já sincronizada com a animação e a legenda.</span>
+            <div class="seg" id="vProv" role="group" aria-label="Quem gera a voz"><button data-p="openai" aria-pressed="true">Voz pronta (OpenAI)</button><button data-p="fish" aria-pressed="false">Fish Audio</button></div>
             <select id="vVoz" aria-label="Voz da narração"></select>
+            <div id="fishCfg" class="field" hidden>
+              <label for="fishKey">Chave da API do Fish Audio</label><input type="password" id="fishKey" autocomplete="off" placeholder="Cole aqui a sua chave">
+              <label for="fishVoz">ID da voz (modelo)</label><input type="text" id="fishVoz" autocomplete="off" placeholder="ex.: 7f92f8af…">
+              <span class="note">A chave e o ID ficam só neste navegador. Pegue a chave em fish.audio → API Keys. O ID da voz é o código no fim do link da voz que você escolheu ou clonou.</span>
+            </div>
             <div class="row"><button class="btn sm primary" id="btnNarrar">Gerar narração</button><button class="btn sm" id="btnBaixarAudio" disabled>Baixar áudio</button></div>
             <div class="bar"><i id="vNarBar"></i></div><span class="status" id="vAudioSt">Sem narração ainda</span></div></div>
           <div class="step"><div class="field"><span>Toque em ▶ Prévia para ouvir com a animação.</span></div></div>
@@ -1289,26 +1295,40 @@ let AUDIO_DURS=null,AUDIO_WAV=null,AUDIO_CHAVE="";
 const VOZES={ash:"Masculina firme",onyx:"Masculina grave",echo:"Masculina leve",verse:"Masculina expressiva",coral:"Feminina calorosa",nova:"Feminina jovem",sage:"Feminina calma",shimmer:"Feminina clara"};
 const VOZ_INSTR="Locutor brasileiro falando português do Brasil, com sotaque brasileiro natural (nunca de Portugal). Tom de conversa, confiante e envolvente, como um criador de conteúdo que explica notícias no Instagram. Ritmo dinâmico, pausas curtas entre as frases e ênfase leve nos números e nas palavras importantes. Pronuncie siglas e números como um brasileiro fala no dia a dia.";
 function vozAtual(){try{return localStorage.getItem("radar-voz")||"ash";}catch(e){return "ash";}}
+const LSg=(k,d="")=>{try{return localStorage.getItem(k)??d;}catch(e){return d;}},LSs=(k,v)=>{try{localStorage.setItem(k,v);}catch(e){}};
+let PROV=LSg("radar-voz-prov","openai");
+function mostraProv(){document.querySelectorAll("#vProv button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.p===PROV)));$("fishCfg").hidden=PROV!=="fish";$("vVoz").hidden=PROV!=="openai";}
+$("vProv").onclick=e=>{const b=e.target.closest("button");if(!b)return;PROV=b.dataset.p;LSs("radar-voz-prov",PROV);mostraProv();};
+$("fishKey").value=LSg("radar-fish-key");$("fishVoz").value=LSg("radar-fish-voz");
+$("fishKey").onchange=()=>LSs("radar-fish-key",$("fishKey").value.trim());$("fishVoz").onchange=()=>LSs("radar-fish-voz",$("fishVoz").value.trim());
+mostraProv();
+const FISH_URL="https://estudio-de-cards.vercel.app/api/fish";
+async function vozCena(txt,ctx){
+ if(PROV==="fish"){const r=await fetch(FISH_URL,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({key:ctx.fishKey,voz:ctx.fishVoz,text:txt})});
+  if(r.status===401||r.status===403)throw {code:"bad_key"};if(r.status===402)throw {code:"sem_credito"};if(r.status===429)throw {code:"rate_limited"};if(!r.ok){let m="";try{m=(await r.json())?.error?.message||"";}catch(e){}throw {code:"http_"+r.status,message:m};}
+  return r.arrayBuffer();}
+ const r=await fetch("https://api.openai.com/v1/audio/speech",{method:"POST",headers:{"Authorization":"Bearer "+ctx.key,"Content-Type":"application/json"},body:JSON.stringify({model:"gpt-4o-mini-tts",voice:ctx.voz,input:txt,instructions:VOZ_INSTR,response_format:"mp3"})});
+ if(r.status===401)throw {code:"bad_key"};if(r.status===429)throw {code:"rate_limited"};if(!r.ok)throw {code:"http_"+r.status};return r.arrayBuffer();}
 $("vVoz").innerHTML=Object.entries(VOZES).map(([k,v])=>`<option value="${k}"${k===vozAtual()?" selected":""}>${v}</option>`).join("");
 $("vVoz").onchange=()=>{try{localStorage.setItem("radar-voz",$("vVoz").value);}catch(e){}};
 function wavDe(buf){const n=buf.length,sr=buf.sampleRate,d=buf.getChannelData(0),ab=new ArrayBuffer(44+n*2),v=new DataView(ab);const w=(o,s)=>{for(let i=0;i<s.length;i++)v.setUint8(o+i,s.charCodeAt(i));};
  w(0,"RIFF");v.setUint32(4,36+n*2,true);w(8,"WAVE");w(12,"fmt ");v.setUint32(16,16,true);v.setUint16(20,1,true);v.setUint16(22,1,true);v.setUint32(24,sr,true);v.setUint32(28,sr*2,true);v.setUint16(32,2,true);v.setUint16(34,16,true);w(36,"data");v.setUint32(40,n*2,true);
  for(let i=0;i<n;i++){const x=Math.max(-1,Math.min(1,d[i]));v.setInt16(44+i*2,x<0?x*0x8000:x*0x7fff,true);}return new Blob([ab],{type:"audio/wav"});}
-async function narrar(){const key=window.radarKey?.get?.()||"";if(!key){setStatus("vAudioSt","Coloque a chave da OpenAI na aba Marca para gerar a narração.","err");return false;}
- const voz=$("vVoz").value||"ash",chave=voz+"|"+video.cenas.map(c=>plain(c.narracao)).join("|");if(AUDIO&&AUDIO_DURS&&AUDIO_CHAVE===chave)return true;
+async function narrar(){const key=window.radarKey?.get?.()||"",fishKey=$("fishKey").value.trim(),fishVoz=$("fishVoz").value.trim();
+ if(PROV==="fish"&&!fishKey){setStatus("vAudioSt","Cole a sua chave do Fish Audio para gerar a narração.","err");return false;}
+ if(PROV==="openai"&&!key){setStatus("vAudioSt","Coloque a chave da OpenAI na aba Marca para gerar a narração.","err");return false;}
+ const voz=$("vVoz").value||"ash",ctx={key,voz,fishKey,fishVoz},chave=PROV+"|"+(PROV==="fish"?fishVoz:voz)+"|"+video.cenas.map(c=>plain(c.narracao)).join("|");if(AUDIO&&AUDIO_DURS&&AUDIO_CHAVE===chave)return true;
  $("btnNarrar").disabled=true;const AC=window.AudioContext||window.webkitAudioContext,ac=new AC(),bufs=[];
  try{for(let i=0;i<video.cenas.length;i++){const txt=plain(video.cenas[i].narracao||"").trim();$("vNarBar").style.width=Math.round(i/video.cenas.length*100)+"%";setStatus("vAudioSt",`Gerando a voz da cena ${i+1} de ${video.cenas.length}…`);
    if(!txt){bufs.push(null);continue;}
-   const r=await fetch("https://api.openai.com/v1/audio/speech",{method:"POST",headers:{"Authorization":"Bearer "+key,"Content-Type":"application/json"},body:JSON.stringify({model:"gpt-4o-mini-tts",voice:voz,input:txt,instructions:VOZ_INSTR,response_format:"mp3"})});
-   if(r.status===401)throw {code:"bad_key"};if(r.status===429)throw {code:"rate_limited"};if(!r.ok)throw {code:"http_"+r.status};
-   bufs.push(await ac.decodeAudioData(await r.arrayBuffer()));}
+   bufs.push(await ac.decodeAudioData(await vozCena(txt,ctx)));}
   const sr=(bufs.find(b=>b)||{sampleRate:24000}).sampleRate,PAUSA=.35,durs=bufs.map((b,i)=>(b?b.duration:1.6)+(i===bufs.length-1?.8:PAUSA));
   const out=ac.createBuffer(1,Math.ceil(durs.reduce((a,b)=>a+b,0)*sr),sr),ch=out.getChannelData(0);let off=0;
   bufs.forEach((b,i)=>{if(b){const src=b.getChannelData(0);ch.set(src.subarray(0,Math.min(src.length,ch.length-off)),off);}off+=Math.round(durs[i]*sr);});
   AUDIO_WAV=wavDe(out);if(AUDIO){AUDIO.pause();URL.revokeObjectURL(AUDIO.src);}AUDIO=new Audio();AUDIO.preload="auto";AUDIO.src=URL.createObjectURL(AUDIO_WAV);
   await new Promise(res=>{AUDIO.onloadedmetadata=res;AUDIO.onerror=res;});AUDIO_DURS=durs;AUDIO_CHAVE=chave;$("vNarBar").style.width="100%";$("btnBaixarAudio").disabled=false;
-  setStatus("vAudioSt",`Narração pronta: ${durs.reduce((a,b)=>a+b,0).toFixed(1).replace(".",",")} s, voz ${VOZES[voz].toLowerCase()}.`,"ok");drawStill();return true;}
- catch(e){const c=e?.code;setStatus("vAudioSt",c==="bad_key"?"A chave da OpenAI foi recusada. Confira na aba Marca.":c==="rate_limited"?"A OpenAI pediu uma pausa. Tente de novo em 1 minuto.":"Não consegui gerar a narração ("+(c||e?.message||"erro")+").","err");return false;}
+  setStatus("vAudioSt",`Narração pronta: ${durs.reduce((a,b)=>a+b,0).toFixed(1).replace(".",",")} s, ${PROV==="fish"?"voz do Fish Audio":"voz "+VOZES[voz].toLowerCase()}.`,"ok");drawStill();return true;}
+ catch(e){const c=e?.code;const quem=PROV==="fish"?"do Fish Audio":"da OpenAI";setStatus("vAudioSt",c==="bad_key"?`A chave ${quem} foi recusada. Confira e cole de novo.`:c==="sem_credito"?"Sua conta do Fish Audio está sem créditos.":c==="rate_limited"?`O serviço ${quem} pediu uma pausa. Tente de novo em 1 minuto.`:"Não consegui gerar a narração ("+(e?.message||c||"erro")+").","err");return false;}
  finally{$("btnNarrar").disabled=false;try{ac.close();}catch(e){}}}
 $("btnNarrar").onclick=()=>narrar();
 $("btnBaixarAudio").onclick=async()=>{if(!AUDIO_WAV)return;try{await downloads.save({filename:`narracao-${slug(plain(video.cenas[0]?.titulo))||"video"}.wav`,data:AUDIO_WAV});}catch(e){}};
@@ -1381,7 +1401,7 @@ function vStop(){cancelAnimationFrame(vRaf);vRaf=0;if(AUDIO&&!vRec)AUDIO.pause()
 $("vPlay").onclick=()=>{vStop();const L=tl();const T0=performance.now();if(AUDIO){AUDIO.currentTime=0;AUDIO.play().catch(()=>{});}
  const loop=()=>{const t=AUDIO&&!AUDIO.paused?AUDIO.currentTime:(performance.now()-T0)/1000;draw(t,L);if(t>=L.total){vStop();return;}vRaf=requestAnimationFrame(loop);};loop();};
 $("vStop").onclick=()=>{vStop();drawStill();};
-$("vExport").onclick=async()=>{if(vRec)return;if(!AUDIO&&window.radarKey?.get?.()){setStatus("vExpSt","Gerando a narração antes de gravar…");if(!await narrar()){setStatus("vExpSt","Sem narração: gere a narração ou envie um áudio.","err");return;}}if(!downloads){setStatus("vExpSt","Download disponível ao abrir o painel no claude.ai.","err");return;}
+$("vExport").onclick=async()=>{if(vRec)return;if(!AUDIO&&(PROV==="fish"?$("fishKey").value.trim():window.radarKey?.get?.())){setStatus("vExpSt","Gerando a narração antes de gravar…");if(!await narrar()){setStatus("vExpSt","Sem narração: gere a narração ou envie um áudio.","err");return;}}if(!downloads){setStatus("vExpSt","Download disponível ao abrir o painel no claude.ai.","err");return;}
  if(!vc.captureStream||typeof MediaRecorder==="undefined"){setStatus("vExpSt","Este navegador não grava vídeo. Use o Chrome ou o Safari atualizado.","err");return;}
  const mime=["video/mp4;codecs=avc1","video/mp4","video/webm;codecs=vp9,opus","video/webm;codecs=vp8,opus","video/webm"].find(m=>MediaRecorder.isTypeSupported(m));if(!mime){setStatus("vExpSt","Este navegador não grava vídeo.","err");return;}
  vStop();await document.fonts.ready;const L=tl();const stream=vc.captureStream(30);
