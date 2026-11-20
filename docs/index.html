@@ -1069,12 +1069,35 @@ async function blobURL(id){if(!id)return "";if(IMGCACHE[id])return IMGCACHE[id];
 let expCache={key:"",blobs:null};
 function invalidateExport(){expCache={key:"",blobs:null};}
 const nomeArq=(i,s)=>`${pad2(i+1)}-${slug(TIPOS[s.tipo]).slice(0,18)}.${prefs.ext}`;
+/* iPhone (Safari) borra as caixas arredondadas com borda ao salvar a imagem (fundo cinza manchado).
+   Antes de salvar, cada caixa arredondada vira uma imagem desenhada pelo próprio navegador com a mesma cor, sem cantos para o Safari recortar. */
+function achatar(raiz){
+  const tr=v=>!v||v==="transparent"||/rgba\([^)]*,\s*0\)$/.test(v);
+  for(const x of raiz.querySelectorAll("*")){
+    const c=getComputedStyle(x);if(c.backgroundImage!=="none"||c.display==="inline")continue;
+    const w=x.offsetWidth,h=x.offsetHeight;if(!w||!h)continue;
+    const rads=[c.borderTopLeftRadius,c.borderTopRightRadius,c.borderBottomRightRadius,c.borderBottomLeftRadius].map(v=>/%/.test(v)?parseFloat(v)/100*Math.min(w,h):(parseFloat(v)||0));
+    if(!Math.max(...rads))continue;
+    const bws=[c.borderTopWidth,c.borderRightWidth,c.borderBottomWidth,c.borderLeftWidth].map(v=>parseFloat(v)||0);
+    const bg=c.backgroundColor,bc=c.borderTopColor,bw=bws[0];
+    if(tr(bg)&&(!bw||tr(bc)))continue;
+    if(bws.some(v=>v!==bw)||rads.some(v=>v!==rads[0]))continue; /* bordas diferentes por lado: deixa como está */
+    const r=Math.min(rads[0],w/2,h/2),s=bw&&!tr(bc)?bw:0;
+    const cv=document.createElement("canvas"),k=2;cv.width=Math.ceil(w*k);cv.height=Math.ceil(h*k);const g=cv.getContext("2d");g.scale(k,k);
+    const rr=Math.max(0,r-s/2),x0=s/2,y0=s/2,ww=w-s,hh=h-s;
+    g.beginPath();g.moveTo(x0+rr,y0);g.arcTo(x0+ww,y0,x0+ww,y0+hh,rr);g.arcTo(x0+ww,y0+hh,x0,y0+hh,rr);g.arcTo(x0,y0+hh,x0,y0,rr);g.arcTo(x0,y0,x0+ww,y0,rr);g.closePath();
+    if(!tr(bg)){g.fillStyle=bg;g.fill();}if(s){g.lineWidth=s;g.strokeStyle=bc;g.stroke();}
+    x.style.backgroundColor="transparent";x.style.backgroundImage=`url("${cv.toDataURL("image/png")}")`;
+    x.style.backgroundSize="100% 100%";x.style.backgroundOrigin="border-box";x.style.backgroundClip="border-box";x.style.backgroundRepeat="no-repeat";x.style.borderColor="transparent";x.style.borderRadius="0";
+  }
+}
 async function renderBlobs(onP){const key=JSON.stringify([deck.slides,deck.tema,deck.capa,deck.opts,prefs.ext,MARCA[deck.seg],LOGO[deck.seg]?.ink?.length]);
  if(expCache.key===key&&expCache.blobs)return expCache.blobs;
  if(typeof html2canvas==="undefined")throw new Error("lib");await document.fonts.ready;
  const host=$("offstage"),out=[],T=palDe(deck.seg,layOk(deck.tema,deck.seg)),tipo=prefs.ext==="jpg"?"image/jpeg":"image/png";
  for(let i=0;i<deck.slides.length;i++){onP&&onP(i);host.innerHTML=slideHTML(deck,deck.slides[i],i);const el=host.firstElementChild;fit(el);
   await Promise.all([...el.querySelectorAll("img")].map(im=>im.complete?0:new Promise(r=>{im.onload=im.onerror=r;})));
+  achatar(el);
   const c=await html2canvas(el,{width:1080,height:1350,scale:1,backgroundColor:T.bg.startsWith("#")?T.bg:"#000",useCORS:true,logging:false});
   out.push(await new Promise((res,rej)=>c.toBlob(b=>b?res(b):rej(new Error("blob")),tipo,.95)));}
  host.innerHTML="";expCache={key,blobs:out};return out;}
