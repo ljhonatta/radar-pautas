@@ -372,7 +372,7 @@ function alinharCenas(E,ouvidas){const n=V.cenas.length;V._durs=E.ini.map((s,i)=
     if(dentro.length>=Math.max(2,ws.length*.5)){return ws.map((w,j)=>dentro[Math.min(dentro.length-1,Math.round(j*dentro.length/ws.length))].s-a);}
     const pesos=ws.map(w=>w.length+2+(/[.,;:!?…]$/.test(w)?5:0)),sp=pesos.reduce((x,y)=>x+y,0);let acc=0;return pesos.map(p=>{const s=acc/sp*E.lens[i];acc+=p;return s;});});}
 async function narrar(){if(!V)return false;if(!textoNarr()){st("O roteiro está vazio.","err");return false;}
-  const ev=$v("vVoz").value||"";const usarEl=ev.startsWith("el:")&&elKey(),usarFish=ev==="fish";
+  const ev=$v("vVoz").value||(elKey()?"el:"+VOZ_PADRAO_EL.id:"");const usarEl=ev.startsWith("el:")&&elKey(),usarFish=ev==="fish";
   if(usarFish&&!fishKey()){st("Coloque a chave do Fish Audio e o ID da voz em \"Fish Audio\" aqui embaixo.","err");return false;}
   if(!usarEl&&!usarFish&&!oaKey()){st("Para a narração, coloque a chave da OpenAI na aba Marca (ou ligue o Fish Audio ou o ElevenLabs aqui embaixo).","err");return false;}
   const nome=usarFish?"Fish Audio":usarEl?"ElevenLabs":"OpenAI";$v("vNarrar").disabled=true;
@@ -395,11 +395,16 @@ async function carregarVozesEleven(){const k=elKey();if(!k)return;try{const r=aw
     vs.sort((a,b)=>b.br-a.br||a.nome.localeCompare(b.nome));VOZES_EL=vs;renderVozes();st(`${vs.length} vozes do ElevenLabs carregadas${vs.some(v=>v.br)?" (as brasileiras aparecem primeiro)":""}.`,"ok");}
   catch(e){st("Não consegui ler suas vozes do ElevenLabs. Confira a chave.","err");}}
 let VOZES_EL=[];
-function renderVozes(){const sel=$v("vVoz");if(!sel)return;const atual=V?.vozSel||LSv.get("rv-voz-sel","oa:ash");
-  sel.innerHTML=`<optgroup label="OpenAI (sotaque brasileiro por instrução)">${Object.entries(VOZES).map(([k,v])=>`<option value="oa:${k}">${v}</option>`).join("")}</optgroup>`+
-    `<optgroup label="Fish Audio (sua voz)"><option value="fish"${fishKey()&&fishVoz()?"":" disabled"}>Fish Audio${fishVoz()?" · voz "+esc(fishVoz().slice(0,8)):" (configure abaixo)"}</option></optgroup>`+
-    (VOZES_EL.length?`<optgroup label="ElevenLabs (mais natural)">${VOZES_EL.map(v=>`<option value="el:${esc(v.id)}">${esc(v.nome)}${v.br?" · BR":""}</option>`).join("")}</optgroup>`:"");
-  sel.value=[...sel.options].some(o=>o.value===atual)?atual:(VOZES_EL.find(v=>v.br)?"el:"+VOZES_EL.find(v=>v.br).id:"oa:ash");if(V){V.vozSel=sel.value;V.voz=sel.value.startsWith("oa:")?sel.value.slice(3):V.voz;}}
+// voz padrão da narração: Yuri (ElevenLabs, brasileira, feita para redes sociais) — vale quando há chave do ElevenLabs
+const VOZ_PADRAO_EL={id:"WSBwiRQRmi2mEG7BfKwS",nome:"Yuri (padrão)"};
+function renderVozes(){const sel=$v("vVoz");if(!sel)return;const temEl=!!elKey();let atual=V?.vozSel||LSv.get("rv-voz-sel","");
+  if(temEl&&(!atual||atual==="oa:ash"))atual="el:"+VOZ_PADRAO_EL.id; // com ElevenLabs ligado, o padrão é o Yuri
+  const outras=VOZES_EL.filter(v=>v.id!==VOZ_PADRAO_EL.id);
+  sel.innerHTML=`<optgroup label="ElevenLabs (mais natural)"><option value="el:${VOZ_PADRAO_EL.id}"${temEl?"":" disabled"}>${VOZ_PADRAO_EL.nome}${temEl?"":" · cole a chave do ElevenLabs abaixo"}</option>${temEl?outras.map(v=>`<option value="el:${esc(v.id)}">${esc(v.nome)}${v.br?" · BR":""}</option>`).join(""):""}</optgroup>`+
+    `<optgroup label="OpenAI (sotaque brasileiro por instrução)">${Object.entries(VOZES).map(([k,v])=>`<option value="oa:${k}">${v}</option>`).join("")}</optgroup>`+
+    `<optgroup label="Fish Audio (sua voz)"><option value="fish"${fishKey()&&fishVoz()?"":" disabled"}>Fish Audio${fishVoz()?" · voz "+esc(fishVoz().slice(0,8)):" (configure abaixo)"}</option></optgroup>`;
+  const ok=[...sel.options].some(o=>o.value===atual&&!o.disabled);sel.value=ok?atual:(temEl?"el:"+VOZ_PADRAO_EL.id:"oa:ash");
+  if(V){V.vozSel=sel.value;if(sel.value.startsWith("oa:"))V.voz=sel.value.slice(3);}}
 
 /* ---------------- roteiro ---------------- */
 const cortaP=(s,n)=>{const w=palavras(s);return w.length>n?w.slice(0,n).join(" ").replace(/[,;:]$/,"")+".":w.join(" ");};
@@ -589,7 +594,7 @@ function editar(){const c=V.cenas[cur];if(!c)return;const v=c.visual=c.visual||{
 function abrir(n){const perfis=APP.perfis?APP.perfis():(typeof perfisOrd==="function"?perfisOrd():[]);
   const h=APP.handle?APP.handle():((typeof atH==="function"&&atH(prefs.handle))||perfis[0]?.handle||"@seuperfil");
   V={id:"v"+Date.now().toString(36),noticiaId:n.id,noticia:n,handle:h,paleta:(typeof brandOf==="function"&&(brandOf(h)||{}).paleta)||prefs.paleta||"laranja",
-    voz:"ash",vozSel:LSv.get("rv-voz-sel","oa:ash"),marca:APP.marcaTopo?APP.marcaTopo():"Radar Trader",cenas:[],criadoEm:new Date().toISOString()};
+    voz:"ash",vozSel:LSv.get("rv-voz-sel",""),marca:APP.marcaTopo?APP.marcaTopo():"Radar Trader",cenas:[],criadoEm:new Date().toISOString()};
   V.cenas=roteiroDaFicha(n);cur=0;(APP.mostrar||showTab)(APP.aba||"video");$v("vVazio").hidden=true;$v("vCorpo").hidden=false;$v("vbTitulo").textContent=n.titulo;$v("vbFonte").textContent=n.fonte||"";
   $v("vPerfil").innerHTML=perfis.map(p=>`<option value="${esc(p.handle)}" ${p.handle===h?"selected":""}>${esc(p.nome||p.handle)} · ${esc(p.handle)}</option>`).join("")||`<option>${esc(h)}</option>`;
   renderVozes();
