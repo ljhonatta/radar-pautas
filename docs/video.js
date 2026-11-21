@@ -201,7 +201,7 @@ function entradas(c,i,dur){const at=(c.visual||{}).atores||[],ws=palavras(c.narr
   return at.map((a,k)=>{const gt=semAcento(String(a.gatilho||"").split(/\s+/)[0]);let j=gt?ws.findIndex(w=>w&&(w.startsWith(gt)||gt.startsWith(w)&&w.length>3)):-1;
     if(j<0)j=Math.round(k/Math.max(1,at.length)*Math.max(0,ws.length-1)*.8);return Math.max(.05,(tw[j]??0)-.1);})
     // o palco nunca começa vazio: o primeiro objeto (ou bloco de texto) entra logo no início da cena
-    .map((t,k,arr)=>{const p=at.findIndex(a=>a.tipo==="objeto"||a.tipo==="etiqueta");return k===p&&!(c.visual||{}).continua?Math.min(t,.25):t;});}
+    .map((t,k,arr)=>{const p=at.findIndex(a=>a.tipo==="objeto"||a.tipo==="etiqueta");return k===p&&(!(c.visual||{}).continua||i===0)?Math.min(t,.25):t;});}
 // atores herdados: a cena com "continua" mantém o palco da anterior e só acrescenta
 function elenco(i,L){const c=V.cenas[i],v=c.visual||{},own=(v.atores||[]).map((a,k)=>({a,t:entradas(c,i,L.dur[i])[k],own:true}));
   if(!v.continua||i===0||(V.cenas[i-1].visual||{}).tipo!=="cena")return own;
@@ -527,13 +527,15 @@ Responda só com JSON: {"cenas":[{"cap":"","narracao":"","visual":{"tipo":"cena"
     const ult=V.cenas[V.cenas.length-1];if(ult.visual.tipo!=="fim")V.cenas.push({cap:"",narracao:fimTxt(),visual:{tipo:"fim",texto:fimBotao()}});else ult.visual.texto=ult.visual.texto||fimBotao();
     V.legendaPost=String(r.legenda||"");pronto("Roteiro pronto.");return true;}
   catch(e){st("A IA não respondeu agora. Usei a ficha da notícia; tente de novo depois.","err");V.cenas=roteiroDaFicha(n);pronto();return false;}}
-function limpaVisual(v,narr){v=v&&typeof v==="object"?v:{};const tipo=TIPOS_V[v.tipo]?v.tipo:"objeto";const o={tipo};
+function limpaVisual(v,narr){v=v&&typeof v==="object"?v:{};
+  // a IA às vezes manda um elemento solto (objeto, número, etiqueta) no lugar da cena: vira uma cena montada com ele
+  if(["objeto","numero","etiqueta","citacao"].includes(v.tipo)&&(v.gatilho!==undefined||v.tipo==="etiqueta")){const {topico,continua,...ator}=v;v={tipo:"cena",topico:topico||"",continua:!!continua,atores:[ator]};}const tipo=TIPOS_V[v.tipo]?v.tipo:"objeto";const o={tipo};
   for(const k of ["valor","rotulo","texto","frase","quem","direcao","dia","topico"])if(v[k])o[k]=String(v[k]);
   if(tipo==="cena"){o.continua=!!v.continua;o.atores=(Array.isArray(v.atores)?v.atores:[]).slice(0,4).map(a=>{const t=["objeto","numero","etiqueta","citacao"].includes(a?.tipo)?a.tipo:"objeto";const x={tipo:t};
       for(const k of ["valor","rotulo","texto","frase","quem","direcao","gatilho"])if(a?.[k])x[k]=String(a[k]);if(t==="objeto")x.objeto=OBJETOS[a?.objeto]&&a.objeto!=="nenhum"?a.objeto:objetoPara((a?.rotulo||"")+" "+narr);return x;});
     if(!o.atores.length)o.atores=[{tipo:"objeto",objeto:objetoPara(narr)}];
     // cena só com card de número fica vazia embaixo: entra um objeto que combina com a fala
-    else if(!o.continua&&!o.atores.some(x=>x.tipo==="objeto"||x.tipo==="etiqueta"))o.atores.unshift({tipo:"objeto",objeto:objetoPara(narr),gatilho:""});
+    else if(!o.continua&&!o.atores.some(x=>x.tipo==="objeto"))o.atores.unshift({tipo:"objeto",objeto:objetoPara(narr),gatilho:""}); // sem objeto (só número ou texto): entra um que combina
     const objs=o.atores.filter(x=>x.tipo==="objeto");
     if(!o.continua&&objs.length===1&&o.atores.length<4){const ws=palavras(narr),par=(ALT[objs[0].objeto]||["alvo","barras"])[0];
       o.atores.push({tipo:"objeto",objeto:par,gatilho:ws[Math.floor(ws.length*.55)]||""});}
