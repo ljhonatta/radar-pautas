@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-21T13:59:15-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-11-21T18:23:58-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Fim da escala 6x1: impactos para trabalhadores e empresas; Fim da escala 6×1: impacto na jornada de trabalho; Fim da escala 6x1 pode elevar preços em 10%.",
+  "mensagem": "6 pauta(s) nova(s): Fim da escala 6x1 traz novos desafios para empresas; Protestos na Europa e o custo de vida; Mudanças tributárias impactam seu bolso e sua empresa.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-21T18:23:58-03:00",
    "2026-11-21T13:59:15-03:00",
    "2026-11-20T23:53:42-03:00",
    "2026-11-20T19:28:10-03:00",
@@ -18,19 +19,19 @@
    "2026-11-18T23:51:49-03:00",
    "2026-11-18T19:48:38-03:00",
    "2026-11-18T15:27:45-03:00",
-   "2026-11-18T00:11:57-03:00",
-   "2026-11-17T20:16:24-03:00"
+   "2026-11-18T00:11:57-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-21T13:59:15-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-21T18:23:58-03:00",
+  "novas": 3,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Novo imposto da UE pode impactar grandes empresas de tecnologia; Impacto do imposto sobre big techs e sua influência; Black Friday gera oportunidades; planeje-se para não perder vendas.",
+  "mensagem": "3 pauta(s) nova(s): Governança de IA: 5 falhas que comprometem empresas; Desafios que a IA traz para sua empresa; O que a venda do Maksoud Plaza ensina sobre negócios?.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-21T18:23:58-03:00",
    "2026-11-21T13:59:15-03:00",
    "2026-11-20T23:53:42-03:00",
    "2026-11-20T19:28:10-03:00",
@@ -41,8 +42,7 @@
    "2026-11-18T23:51:49-03:00",
    "2026-11-18T19:48:38-03:00",
    "2026-11-18T15:27:45-03:00",
-   "2026-11-18T00:11:57-03:00",
-   "2026-11-17T20:16:24-03:00"
+   "2026-11-18T00:11:57-03:00"
   ]
  }
 }

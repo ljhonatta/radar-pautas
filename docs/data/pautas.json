@@ -1,6 +1,181 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "O que a venda do Maksoud Plaza ensina sobre negócios?",
+  "resumo": "O fechamento do Maksoud Plaza trouxe desafios financeiros que impactaram diretamente suas vendas. A transformação do hotel em condomínio pode servir de alerta para empresários do setor.",
+  "fatos": [
+   "O Maksoud Plaza, símbolo de luxo em SP, fechou em 2021.",
+   "Enfrentou dívidas superiores a R$ 500 milhões e pediu recuperação judicial em 2020.",
+   "O prédio está sendo analisado para reforma, visando a construção de 398 apartamentos.",
+   "O projeto incluirá 152 unidades de uso não residencial e cinco lojas no térreo.",
+   "O empreendimento terá seis subsolos, 26 andares e 595 vagas de estacionamento."
+  ],
+  "explicacao": [
+   "O fechamento do Maksoud Plaza foi resultado de dificuldades financeiras agravadas pela pandemia e disputas entre os sócios.",
+   "A transformação do espaço em condomínio visa aproveitar a infraestrutura existente, adaptando-a à demanda atual por imóveis residenciais.",
+   "Essa mudança é um reflexo das novas dinâmicas de consumo e economia que exigem flexibilidade nos negócios."
+  ],
+  "materia": "Fechado em 2021 após enfrentar desafios financeiros por causa da pandemia e disputas entre os sócios, o antigo hotel de luxo Maksoud Plaza pode virar um edifício de uso misto, com apartamentos residenciais e unidades de hospedagem. De acordo com a prefeitura de SP, o prédio está em análise para uma reforma que prepara o novo empreendimento, ainda sem nome definido. “A Secretaria Municipal de Urbanismo e Licenciamento (SMUL) informa que consta em análise na pasta pedido de Alvará de Aprovação de Reforma para o local onde funcionava o antigo Hotel Maksoud (Rua São Carlos do Pinhal, 424)”, informou a Prefeitura. O edifício do hotel foi arrematado em 2011 pelos irmãos Fernando e Jussara Simões, da Simpar, para quitar dívidas trabalhistas, mas recursos na Justiça e impasses entre os herdeiros de Henry Maksoud sobre a entrega do prédio e o destino dos bens se arrastaram por anos. Procurados, os sócios da Simpar não quiseram comentar sobre o empreendimento. O projeto do empreendimento terá 398 apartamentos residenciais, 152 unidades de uso não residencial (hospedagem) e cinco lojas no térreo. O edifício terá ainda seis subsolos, térreo e mais 26 andares. No estacionamento, entre vagas para moradores e hóspedes, estão previstas 595 posições. A Prefeitura informou que, até o momento, não há previsão de data para a conclusão da análise. “O pedido segue em tramitação com verificação do atendimento à legislação urbanística e edilícia vigente”, diz a nota. Em 2020, o Maksoud Plaza entrou com pedido de recuperação judicial com dívidas de mais de R$ 500 milhões e fechou as portas no ano seguinte. O hotel foi símbolo de luxo na capital paulista nos anos 80 e 90 e é conhecido, também, por apresentações do tenor Frank Sinatra, bem como por ter hospedado vários artistas. O fechamento do hotel encerrou a disputa pela propriedade. Em seu perfil público no LinkedIn, Henry Maksoud Neto, herdeiro do hotel, conta a história do encerramento e venda do imóvel. “Negociei e executei, com sucesso, a liquidação ordenada e o desinvestimento estratégico do portfólio imobiliário e dos ativos corporativos do grupo, transformando uma crise histórica aguda em uma saída institucional definitiva e saneada”, diz o perfil na rede social, em uma seção sobre sua trajetória no Maksoud Group. Procurado, Maksoud Neto disse que, desde que entregou o prédio em 2022, não tem mais informações sobre o destino do imóvel. Com informações de Estadão Conteúdo (Lucas Agrela) Imagem: Shutterstock Leia diariamente as notícias mais impactantes sobre varejo, consumo, franquias, shopping center e foodservice, entre outros temas, no Brasil e no mundo.",
+  "numeros": [
+   {
+    "valor": "500 milhões",
+    "rotulo": "dívidas do hotel na recuperação judicial"
+   },
+   {
+    "valor": "398",
+    "rotulo": "apartamentos planejados no novo condomínio"
+   },
+   {
+    "valor": "152",
+    "rotulo": "unidades de uso não residencial"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Perda de vendas e desafios para se adaptar ao mercado",
+  "angulo": "A necessidade de adaptação em mercados em transformação destaca a importância de um planejamento eficaz e da presença online para negócios sustentáveis.",
+  "gancho": "Maksoud Plaza: *uma lição de adaptação*",
+  "ideias": [
+   "Como o fechamento de um ícone impacta o mercado?",
+   "Muda tudo: a nova dinâmica do consumo",
+   "Adapte-se ou feche as portas: lições do Maksoud"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://mercadoeconsumo.com.br/21/11/2026/economia/maksoud-plaza-hotel-de-luxo-fechado-em-2021-pode-virar-condominio-com-398-apartamentos/",
+  "publicadoEm": "2026-11-21T12:14:58-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Desafios que a IA traz para sua empresa",
+  "resumo": "Estudo revela que enquanto a IA aumenta a produção, não garante produtividade. Entenda a importância de capacitar equipes e integrar áreas para aproveitar seus benefícios.",
+  "fatos": [
+   "Um estudo da Universidade de Harvard analisou dados de mais de 700 mil desenvolvedores.",
+   "O tempo gasto em revisões de código aumentou quase 50% com o uso de IA.",
+   "93% das empresas ainda não incorporaram a IA em suas estratégias de negócios.",
+   "65% dos líderes não acreditam no potencial das iniciativas de IA.",
+   "As empresas brasileiras investem, em média, mais de US$ 20 milhões por ano em IA."
+  ],
+  "explicacao": [
+   "O uso de IA não garante aumento imediato de produtividade, pois a operação ainda depende da estrutura organizacional.",
+   "Os times de tecnologia e negócios precisam falar a mesma língua para atuar de forma integrada.",
+   "A verdadeira eficiência surge quando se aprimoram os processos internos, não apenas se aumenta a produção de tecnologia."
+  ],
+  "materia": "Um estudo recente da Universidade de Harvard, que analisou dados de mais de 700 mil desenvolvedores, revelou uma contradição crítica para o mercado: o uso de ferramentas de Inteligência Artificial na rotina de tecnologia já permite que equipes gerem um maior número de códigos, mas a quantidade não reflete um aumento proporcional de produtividade para os colaboradores. Enquanto a velocidade para programar se multiplica na ponta técnica, o tempo gasto com revisões, por exemplo, disparou quase 50%. Se a operação esbarra em processos, no nível executivo, o desafio é maior. Diante do abismo entre uso da tecnologia e faturamento, segundo o MIT Sloan, 93% das empresas ainda não conseguiram incorporar a IA ao centro da estratégia de negócios, e 88% não acompanham o retorno financeiro do impacto dessas ferramentas. Esse paradoxo, assim, ilustra um dos maiores desafios corporativos da década: produzir mais tecnologia não significa, necessariamente, resolver mais problemas do negócio ou aumentar muitas vezes mais o faturamento da empresa. O gargalo da inovação mudou de lugar. Transferindo desafios As áreas de tecnologia e inovação se posicionam para embasar o ritmo das transformações, tornando-se as vanguardas de empresas e até de seus respectivos setores. Mas, ao mesmo tempo em que o campo está um passo à frente, as estruturas organizacionais continuam operando na velocidade anterior. Logo, se um desenvolvedor entrega uma nova solução em poucos dias, e a empresa leva meses para identificar uma oportunidade, priorizar demandas ou tomar decisões, o ganho de produtividade fica represado. Essa contenção tem um custo alto. Dados da pesquisa global da SAP e Oxford Economics apontam que as empresas brasileiras já investem, em média, mais de US$ 20 milhões por ano em Inteligência Artificial. No entanto, o mesmo estudo revela que 65% dos líderes executivos ainda não estão convencidos de que essas iniciativas entregam todo o potencial. O verdadeiro gargalo migrou da escrita de código para a capacidade organizacional de absorção. E o salto definitivo de produtividade só virá quando as empresas tiverem a coragem de mudar seus fluxos de trabalho e organogramas, uma tarefa que pouquíssimas já adotaram nos últimos anos. O abismo do repertório compartilhado Durante muito tempo, as corporações operavam sob uma divisão clara: as áreas de negócios, como Vendas, Finanças, RH e Marketing, identificavam as dores, e a missão de desenvolver soluções ficava com a Tecnologia. Esse modelo, porém, criou uma distância perigosa entre quem vivencia o problema e quem domina a ferramenta para resolvê-lo. E, com a chegada da IA generativa, essa separação perdeu o sentido. O principal gap hoje não é puramente técnico, mas a falta de um repertório compartilhado entre os diferentes times que, juntos, formam um só negócio. É como um quebra-cabeça e as suas centenas de peças, onde a tecnologia tem a capacidade de fabricar cada pecinha, mas são as áreas de negócios que sabem qual é a imagem final que precisa aparecer. Profissionais de negócios, muitas vezes, não conseguem imaginar o que já é possível transformar com a tecnologia atual, formulando pedidos mais restritos e simplificados. Em contrapartida, os times técnicos entregam sistemas brilhantes, mas nem sempre compreendem os indicadores e as prioridades que garantem o sucesso de uma operação. Para as áreas de negócios, a urgência não é transformar profissionais de marketing ou finanças em programadores. É desenvolver fluência tecnológica, pensamento orientado a dados e a capacidade de redesenhar processos. Para o setor de TI, por outro lado, a exigência agora é visão sistêmica e capacidade de traduzir entregas técnicas em resultados concretos para a organização. Mas existe uma competência transversal que conecta esses dois mundos: a capacidade de experimentar. As empresas mais competitivas serão aquelas que conseguirem diminuir a distância entre esses departamentos, criando um idioma em que negócios e tecnologia consigam",
+  "numeros": [
+   {
+    "valor": "20 milhões",
+    "rotulo": "investimento médio anual em IA"
+   },
+   {
+    "valor": "93%",
+    "rotulo": "empresas que não incorporaram IA ao negócio"
+   },
+   {
+    "valor": "50%",
+    "rotulo": "aumento no tempo de revisões de código"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Profissionais liberais",
+   "Indústria"
+  ],
+  "dor": "Dificuldade em transformar tecnologia em resultados financeiros",
+  "angulo": "Capacitar equipes e integrar áreas é crucial para aproveitar ao máximo as ferramentas de IA no seu negócio.",
+  "gancho": "A *IA não garante produtividade* como você imagina",
+  "ideias": [
+   "Como capacitar sua equipe para o futuro",
+   "Integração de áreas: o caminho para a eficiência",
+   "Os desafios da IA nas empresas hoje"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://olhardigital.com.br/2026/11/21/colunistas/o-que-uma-empresa-ganha-ao-capacitar-seus-times-de-negocios-em-tecnologia/",
+  "publicadoEm": "2026-11-21T08:10:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Governança de IA: 5 falhas que comprometem empresas",
+  "resumo": "A adoção da inteligência artificial nas empresas requer uma governança eficaz. Sem diretrizes claras, os riscos operacionais e custos podem crescer, comprometendo os resultados esperados.",
+  "fatos": [
+   "93% das empresas pesquisadas exploram IA, mas apenas 46% têm políticas de governança.",
+   "47% das organizações com diretrizes afirmam que funcionários raramente as seguem.",
+   "Os custos da IA podem aumentar se ferramentas redundantes forem utilizadas.",
+   "84% dos executivos de tecnologia não operacionalizaram a gestão financeira da IA.",
+   "85% não têm visibilidade integral dos gastos com a tecnologia."
+  ],
+  "explicacao": [
+   "A governança de IA é crucial para a adoção segura e eficiente da tecnologia nas empresas.",
+   "A falta de critérios claros pode resultar em problemas operacionais e aumento de custos.",
+   "Estabelecer diretrizes e responsabilidades evita dependências e conflitos entre ferramentas de IA diferentes."
+  ],
+  "materia": "Por Rodrigo Resende | 21/11/2026 às 10:30 A inteligência artificial já faz parte da rotina de muitas empresas, mas incorporar a tecnologia às operações é apenas uma etapa do processo. À medida que novas ferramentas e agentes passam a executar atividades, acessar informações e apoiar decisões, cresce também a necessidade de estabelecer critérios para orientar e controlar seu uso. Nesse cenário, a governança de IA deixa de ser uma preocupação restrita à área de tecnologia e passa a ser um elemento fundamental para garantir que a adoção aconteça de forma segura, coordenada e alinhada aos objetivos do negócio. Quando diferentes departamentos adotam soluções de IA sem critérios compartilhados, o que deveria representar um ganho de produtividade pode gerar problemas operacionais, riscos de segurança e custos difíceis de administrar. O desafio não está apenas em incorporar novas ferramentas, mas em entender como elas serão utilizadas, por quem e com qual finalidade. Um levantamento do Capgemini Research Institute , publicado em 2025 e realizado com 1.100 executivos de grandes empresas de 15 países, ajuda a dimensionar essa questão. Embora 93% das organizações pesquisadas já explorassem, testassem ou implementassem recursos de inteligência artificial generativa, apenas 46% possuíam políticas de governança estabelecidas. Entre aquelas que contavam com essas diretrizes, 47% relataram que seus funcionários raramente as seguiam. Os dados mostram que o interesse e a implementação da tecnologia nem sempre são acompanhados pela maturidade necessária para administrá-la. Na prática, cinco erros podem comprometer os resultados dessa transformação: Um dos equívocos na adoção de novas tecnologias é associar o avanço tecnológico à quantidade de ferramentas disponíveis. Na tentativa de acompanhar o mercado, algumas empresas passam a incorporar soluções de inteligência artificial até mesmo em atividades nas quais a tecnologia não oferece vantagens claras ou um processo mais simples já resolveria o problema. Nem toda tarefa precisa de IA. Antes de implementar uma solução, é importante identificar qual problema ela deve resolver, quais resultados são esperados e se existe uma alternativa mais adequada. Sem essa avaliação, a organização corre o risco de acumular ferramentas, aumentar a complexidade da operação e investir recursos em aplicações que pouco contribuem para o negócio. Essa análise também deve considerar a qualidade dos resultados. Uma ferramenta pode automatizar determinada atividade, mas exigir tantas revisões e correções humanas que o ganho de produtividade acaba sendo reduzido ou até anulado. Quando cada departamento escolhe suas próprias soluções, sem alinhamento com as diretrizes da empresa, surgem diferentes ambientes de utilização da IA. Uma equipe pode contratar uma plataforma, outra desenvolver uma aplicação independente e uma terceira compartilhar informações corporativas em ferramentas externas sem que a área de tecnologia tenha conhecimento. Esse cenário dificulta o controle sobre quais sistemas estão sendo utilizados, quais dados são compartilhados e quem tem acesso a eles. Também pode criar dependência de fornecedores e soluções que não se comunicam entre si. Por isso, é fundamental estabelecer regras claras de utilização, definir quais ferramentas são autorizadas e orientar os colaboradores sobre os limites de uso. Um primeiro passo é fazer um levantamento das soluções de IA utilizadas pelos diferentes departamentos, identificando suas finalidades, os responsáveis por cada aplicação e os tipos de dados envolvidos. A governança precisa alcançar toda a organização, sem ficar restrita à equipe de tecnologia. Com a evolução da tecnologia, os agentes de IA passaram a executar tarefas que antes exigiam a participação humana em diferentes etapas de um processo. O desafio aparece quando as empresas começam a criar múltiplos agentes sem definir claramente o papel e os limites de atuação de cada um. Imagine uma operação em que dois age",
+  "numeros": [
+   {
+    "valor": "93 a 46",
+    "rotulo": "percentual de empresas que exploram IA versus as que têm políticas de governança"
+   },
+   {
+    "valor": "84 a 85",
+    "rotulo": "percentual de executivos sem gestão financeira da IA e visibilidade de gastos"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "não cuidar da governança pode aumentar custos e riscos",
+  "angulo": "Entender a importância de uma governança sólida em IA é crucial para evitar desperdícios e maximizar o uso dessa tecnologia nas operações.",
+  "gancho": "*Evite desperdícios* com a governança em IA",
+  "ideias": [
+   "Como a governança de IA pode salvar sua empresa?",
+   "5 erros na adoção da IA: você comete algum?",
+   "Governança de IA: por que é um investimento necessário?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
+  "publicadoEm": "2026-11-21T10:30:03-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-08"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Inovação e produtividade para MPEs em nova oportunidade",
   "resumo": "O Sebrae-SP oferece 6,8 mil vagas gratuitas para micro e pequenas empresas que desejam inovar e aumentar sua produtividade.",
   "fatos": [
@@ -377,6 +552,361 @@
   "publicadoEm": "2026-11-21T11:50:04-03:00",
   "data": "2026-11-21",
   "id": "2026-11-21-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Marchas em Lisboa enfrentam custo de vida crescente",
+  "resumo": "Manifestantes em Lisboa exigem altos salários e redução dos preços de bens essenciais em meio à crise de moradia. A insatisfação popular cresce diante das disparadas de custos.",
+  "fatos": [
+   "Milhares de pessoas marcharam em Lisboa no dia 21 para protestar.",
+   "O evento foi organizado pela Confederação Geral dos Trabalhadores Portugueses (CGTP).",
+   "Os manifestantes pediram salários e aposentadorias mais altos e preços mais baixos para bens essenciais.",
+   "A inflação em Portugal atingiu 3,8% em outubro, impulsionada por alimentos e energia.",
+   "Os preços das casas em Portugal mais que dobraram desde 2017, e aluguéis novos quase dobraram."
+  ],
+  "explicacao": [
+   "As manifestações refletem a insatisfação com a crise econômica que impacta o bolso dos cidadãos.",
+   "Os preços em ascensão dificultam a vida de trabalhadores, aposentados e jovens, que enfrentam dificuldades em acessar moradia.",
+   "A situação se agrava com o baixo rendimento médio, que permanece 37% abaixo da média da União Europeia."
+  ],
+  "materia": "Milhares de pessoas marcharam pelo centro de Lisboa neste sábado (21), apesar da chuva forte, para protestar contra o aumento vertiginoso do custo de vida, o agravamento da crise imobiliária e os baixos salários. A Confederação Geral dos Trabalhadores Portugueses (CGTP), maior federação sindical de Portugal e organizadora do evento, pediu salários e aposentadorias mais altos, preços mais baixos para bens e serviços essenciais e medidas para conter os custos da moradia. A CGTP afirmou que a participação chegou a “milhares”, enquanto manifestantes com guarda-chuvas e capuzes desfilavam por duas das principais avenidas de Lisboa. A polícia não divulgou estimativa. “Trabalhamos mais, temos mais despesas e não temos dinheiro para o dia a dia”, disse Manuel Gomes, 44, operário de fábrica, argumentando que as políticas do governo de centro-direita pioraram a situação. “Nossos salários são baixos, os preços do diesel e da gasolina não param de subir, assim como os custos de moradia e tudo o mais. Temos que mudar isso.” O rendimento médio anual de Portugal em 2025 ficou 37% abaixo da média da União Europeia, segundo o Eurostat. A inflação atingiu 3,8% em outubro, impulsionada pelos preços dos alimentos e da energia em meio às tensões contínuas no Oriente Médio. Portugal também enfrenta uma das crises de acessibilidade à moradia mais graves da Europa. Os preços das casas mais que dobraram desde 2017, enquanto os aluguéis para novos contratos quase dobraram, afetando particularmente os jovens. Luís Russo, 66, técnico de TI aposentado, disse que estava se manifestando para exigir “salários e aposentadorias mais altos e contra a especulação no mercado de aluguéis”, acusando o governo de servir aos “grandes interesses” em vez de servir ao povo comum. O protesto ocorreu após semanas de agitação, incluindo acampamentos de ativistas por moradia em Lisboa e no Porto, e surge em meio a uma onda mais ampla de manifestações em toda a Europa contra o custo de vida e a falta de moradia. A participação nos protestos , em grande parte pacíficos, na França neste sábado foi menor do que nas semanas anteriores.",
+  "numeros": [
+   {
+    "valor": "3,8%",
+    "rotulo": "inflação em outubro"
+   },
+   {
+    "valor": "37%",
+    "rotulo": "rendimento médio abaixo da média da UE"
+   },
+   {
+    "valor": "dobraram desde 2017",
+    "rotulo": "preços de casas"
+   },
+   {
+    "valor": "quase dobraram",
+    "rotulo": "aluguéis novos"
+   }
+  ],
+  "fonte": "Agência Brasil Últimas",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "o aumento das despesas diárias e a dificuldade em fechar o mês",
+  "angulo": "Aprender sobre o mercado financeiro pode oferecer alternativas de renda e segurança financeira em tempos de incerteza econômica.",
+  "gancho": "Como *segurança financeira* é possível sem salário fixo?",
+  "ideias": [
+   "Custo de vida: como lidar no dia a dia",
+   "Entenda a crise imobiliária e suas consequências",
+   "Por que diversificar suas fontes de renda é essencial"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/manifestantes-marcham-em-lisboa-contra-aumento-no-custo-de-vida",
+  "publicadoEm": "2026-11-21T16:30:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Protestos contra custo de vida se espalham pela Europa",
+  "resumo": "França enfrenta sexto sábado de protestos, com participação reduzida. Outros países europeus, como Espanha e Portugal, também se mobilizam contra a inflação e a crise habitacional.",
+  "fatos": [
+   "Protestos na França ocorrem há seis sábados consecutivos, com 2200 manifestantes contabilizados.",
+   "Autoridades mobilizaram cerca de 70 mil policiais em todo o país.",
+   "Participação dos manifestantes foi menor comparada aos sábados anteriores.",
+   "Protestos em outros países europeus, como Espanha, Portugal, Grécia e Alemanha, também focam no custo de vida.",
+   "Movimentos sociais exigem respostas do governo francês sobre as condições de vida e moradia."
+  ],
+  "explicacao": [
+   "Os protestos na França refletem um descontentamento crescente com o custo de vida e a gestão do governo.",
+   "A alta inflação e a crise habitacional geraram preocupação em vários países da Europa, levando a mobilizações em massa.",
+   "Como resultado, trabalhadores e jovens estão se unindo para exigir mudanças, afetando serviços públicos e a rotina nas cidades.",
+   "O contexto de escassez econômica torna importante que as pessoas busquem alternativas para garantir sua renda e estabilidade financeira."
+  ],
+  "materia": "Protestos contra custo de vida continuam na França no sexto sábado consecutivo (Sylvain THOMAS/AFP) Publicado em 21 de novembro de 2026 às 14h23 . A França enfrenta protestos semanais contra o custo de vida e a gestão do governo, com participação menor neste sábado. Manifestantes, incluindo os Coletes Amarelos, concentraram-se em Paris e outras cidades, enquanto autoridades reforçam segurança. O movimento ganhou eco em outros países europeus preocupados com moradia e inflação. A França enfrenta protestos semanais contra o custo de vida e a gestão do governo, com participação menor neste sábado. Manifestantes, incluindo os Coletes Amarelos, concentraram-se em Paris e outras cidades, enquanto autoridades reforçam segurança. O movimento ganhou eco em outros países europeus preocupados com moradia e inflação. A França teve neste sábado, 21, o sexto sábado consecutivo de protestos contra o custo de vida e a forma como o governo lida com as semanas de agitação social, a pouco mais de um ano da eleição presidencial. O Ministério do Interior contabilizou cerca de 2.200 manifestantes em todo o país às 14h (horário local), em 44 atos. É um número menor que o dos sábados anteriores. Segundo o ministério, o clima era \"geralmente calmo, sem incidentes notáveis\". Foram registradas sete prisões. Na capital, a polícia autorizou uma marcha organizada por sindicatos e grupos de jovens, da Praça da República à Praça da Nação, com início às 14h e passagem pelos 3º, 10º, 11º e 12º arrondissements . Os Coletes Amarelos tiveram o trajeto até a Praça da Concórdia negado e afirmaram que seguirão o mesmo percurso dos outros sábados. Antes da manifestação, uma fonte policial disse à BFM TV que a expectativa era de 15 mil a 30 mil pessoas em Paris. Cerca de 70 mil policiais foram mobilizados em todo o país, e a prefeitura de polícia reforçou a segurança no transporte público da região de Paris para evitar distúrbios. Entidades francesas de defesa dos inquilinos aderiram aos atos. Segundo a France 24 , o apelo assinado por essas organizações teve eco em sete países europeus. Em Espanha, Portugal, Grécia e Alemanha, os protestos se concentram na alta do custo de vida, com o acesso à moradia no topo das preocupações. Na sexta-feira, 20, manifestações lideradas por jovens e trabalhadores ocorreram em mais de 20 países europeus. Dezenas de milhares de pessoas protestaram contra o encarecimento da vida, a piora das condições de ensino, a crise climática e o impacto dos conflitos globais. Os atos afetaram aulas, transporte e serviços públicos em várias cidades, e houve alguns confrontos com a polícia. O partido de extrema esquerda França Insubmissa (La France Insoumise) convocou os manifestantes a manterem a pressão. \"Sem resposta do governo, a luta continua\", escreveu a legenda nas redes sociais, pedindo que as pessoas saiam às ruas \"junto com os jovens e os sindicatos\". No sábado anterior, o Ministério do Interior estimou 146 mil manifestantes no país, 24 mil deles em Paris. A central sindical CGT falou em 500 mil, sendo 175 mil na capital. Na ocasião, cerca de 70 mil policiais e gendarmes foram mobilizados para acompanhar de 50 a 60 marchas. Termo francês para os distritos administrativos de Paris, cada um com suas próprias características e governança local. Movimento social francês iniciado em 2018, inicialmente contra aumentos de impostos sobre combustíveis, que evoluiu para protestos contra o custo de vida e políticas governamentais Projeção indica que, em 2070, serão mais de 3,6 bilhões de islâmicos contra pouco menos de 3 bilhões de cristãos Intitulado 'Heal', o programa 'profundamente pessoal' será exibido pela BBC em 29 de novembro O presidente ucraniano afirmou neste sábado, 21, que a adesão à aliança militar é uma das 'garantias de segurança mais evidentes' para o país Fausto Isidro Meza foi preso na sexta-feira, 20, em Sinaloa",
+  "numeros": [
+   {
+    "valor": "2200",
+    "rotulo": "manifestantes na França"
+   },
+   {
+    "valor": "70000",
+    "rotulo": "policiais mobilizados"
+   },
+   {
+    "valor": "44",
+    "rotulo": "atos realizados"
+   }
+  ],
+  "fonte": "Exame",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "a inflação e o custo de vida comprometem a renda",
+  "angulo": "Aprender sobre o mercado financeiro pode ser a chave para se desvincular da pressão econômica atual e buscar mais liberdade financeira.",
+  "gancho": "A inflação pode apertar seu bolso! *Aprenda a investir*",
+  "ideias": [
+   "Desafios do Custo de Vida",
+   "Alternativas à Dependência do Salário",
+   "Como Sobreviver à Crise Financeira"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://exame.com/mundo/franca-tem-sexto-sabado-seguido-de-protestos-contra-o-custo-de-vida/",
+  "publicadoEm": "2026-11-21T11:23:08-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Protestos em Lisboa refletem crise do custo de vida",
+  "resumo": "Milhares se mobilizaram contra o alto custo de vida e a crise imobiliária em Lisboa, exigindo ações efetivas do governo. A insatisfação é crescente entre os trabalhadores, preocupados com seus rendimentos.",
+  "fatos": [
+   "Protestos ocorreram no sábado (21) em Lisboa, com milhares de participantes.",
+   "A CGTP organizou o evento, pedindo aumento de salários e aposentadorias.",
+   "Inflação em Portugal chegou a 3,8% em outubro, afetando alimentos e energia.",
+   "O rendimento médio anual em Portugal é 37% inferior à média da UE.",
+   "Os preços das residências dobraram desde 2017, impactando principalmente os jovens."
+  ],
+  "explicacao": [
+   "Os protestos em Lisboa refletem a insatisfação popular com as políticas econômicas locais.",
+   "As famílias enfrentam crescentes dificuldades financeiras, exacerbadas pela alta do custo de vida.",
+   "A especulação imobiliária é apontada como um dos principais problemas de acessibilidade à moradia.",
+   "Essas mobilizações são parte de um descontentamento mais amplo na Europa sobre o custo de vida.",
+   "As exigências da população incluem não apenas salários mais altos, mas também moradia acessível."
+  ],
+  "materia": "Milhares de pessoas marcharam pelo centro de Lisboa no sábado (21), apesar da chuva forte, para protestar contra o aumento vertiginoso do custo de vida, o agravamento da crise imobiliária e os baixos salários. A mobilização tomou as ruas da capital portuguesa em meio a um cenário de insatisfação popular generalizada com as políticas econômicas vigentes no país europeu. A Confederação Geral dos Trabalhadores Portugueses (CGTP), maior federação sindical de Portugal e organizadora do evento, pediu salários e aposentadorias mais altos, preços mais baixos para bens e serviços essenciais e medidas concretas para conter os custos da moradia. A CGTP afirmou que a participação chegou a milhares de pessoas, enquanto manifestantes munidos de guarda-chuvas e capuzes desfilavam por duas das principais avenidas da cidade. A polícia local não divulgou uma estimativa oficial sobre o público presente no ato. Trabalhadores de diferentes setores relataram dificuldades financeiras crescentes no cotidiano. Argumentos sobre a alta nos combustíveis e na alimentação reforçaram o descontentamento com os impactos das decisões do governo de centro-direita na renda das famílias. O rendimento médio anual de Portugal ficou 37% abaixo da média da União Europeia, de acordo com dados divulgados pelo Eurostat. O quadro financeiro das famílias é pressionado por uma inflação que atingiu 3,8% em outubro, impulsionada principalmente pelos preços dos alimentos e da energia. Essas pressões econômicas refletem o impacto de tensões internacionais sobre a economia doméstica, reduzindo o poder de compra da população e gerando um ambiente de forte cobrança por reajustes salariais e por apoio estatal . Além da inflação, Portugal enfrenta uma das crises de acessibilidade à moradia mais graves da Europa. Os preços das residências mais que dobraram desde 2017, enquanto os aluguéis para novos contratos registraram alta expressiva, atingindo duramente a parcela mais jovem da população. Manifestantes apontaram a especulação imobiliária como um dos principais entraves para a estabilidade social no país. A cobrança por políticas públicas voltadas à habitação acessível tem sido o motor de diversas mobilizações recentes em centros urbanos portugueses. O ato em Lisboa ocorreu após semanas de agitação social, incluindo acampamentos de ativistas por moradia na capital e na cidade do Porto. A manifestação integra uma onda mais ampla de descontentamento que se espalha pela Europa, com protestos voltados ao custo de vida e à escassez de moradia acessível em diferentes países do continente. Continue acompanhando o portal Fato Paulista para se manter informado sobre os principais acontecimentos do cenário internacional, economia e políticas públicas, com cobertura aprofundada e compromisso com o jornalismo de qualidade.",
+  "numeros": [
+   {
+    "valor": "37%",
+    "rotulo": "rendimento médio abaixo da média da UE"
+   },
+   {
+    "valor": "3,8%",
+    "rotulo": "inflação em outubro"
+   }
+  ],
+  "fonte": "Fato Paulista",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "perda de poder de compra e dificuldades financeiras",
+  "angulo": "Entender como o custo de vida crescente impacta a renda é crucial. Aprender sobre o mercado financeiro pode proporcionar novas formas de renda, além de enfrentar esse cenário complicado.",
+  "gancho": "O que *realmente* está pesando no seu bolso?",
+  "ideias": [
+   "Como a crise imobiliária afeta você?",
+   "Descontentamento popular e suas consequências",
+   "Aprenda a garantir uma renda além do salário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://fatopaulista.com.br/protesto-lisboa-custo-de-vida/",
+  "publicadoEm": "2026-11-21T17:33:12-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças tributárias impactam seu bolso e sua empresa",
+  "resumo": "A nova reforma tributária promete afetar diretamente o fluxo de caixa das empresas e as contas das famílias. Conheça os detalhes das mudanças e seus impactos financeiros.",
+  "fatos": [
+   "Reforma tributária foi debatida no 42º Encontro Nacional dos Contadores em Natal (RN).",
+   "O novo sistema inclui o split payment, dividindo a cobrança de tributos em pagamentos.",
+   "A devolução de tributos sobre gás, luz e internet será total até 2027 para famílias de baixa renda.",
+   "Em 2026, a reforma começará em fase de teste com alíquotas de 0,9% e 0,1%.",
+   "Os tributos ICMS e ISS serão extintos em 2033, enquanto novos impostos entrarão em vigor gradualmente."
+  ],
+  "explicacao": [
+   "Essa reforma surge em um cenário de busca por alívio nas despesas de famílias e empresas.",
+   "No dia a dia, as mudanças exigirem um planejamento mais rigoroso do fluxo de caixa para empresas que vendem a prazo.",
+   "As famílias de baixa renda se beneficiarão de cashback em serviços essenciais, enquanto empresas lidarão com novas alíquotas e a necessidade de recalcular preços."
+  ],
+  "materia": "Os efeitos da reforma tributária sobre o caixa das empresas e as despesas das famílias abriram, na manhã deste sábado (21), a programação do 42º Encontro Nacional dos Contadores do Setor de Energia Elétrica (Enconsel), em Natal (RN). Realizada no Serhs Natal Grand Hotel & Resort, a primeira rodada de debates tratou de como as empresas vão recolher os novos tributos, o que muda nos contratos e como a transição pode chegar à conta de luz. A programação segue até quarta-feira (25). O presidente da Associação Brasileira dos Contadores do Setor de Energia Elétrica (Abraconee), João Vicente Amato Torres, conduziu a abertura do 20º Comitê Tributário. A programação da sessão também incluiu Edilson Coelho da Silveira, coordenador-geral do encontro, e Alberto Henrique de Lima Oliveira, diretor técnico tributário da associação. Sócio de tributos da Deloitte, Mário Nascimento Souza Neto afirmou que a reforma vai afetar todas as áreas das empresas e que o setor tributário passou a ocupar uma posição estratégica no planejamento de caixa. Ele participou do painel sobre o papel dos bancos e dos meios de pagamento no recolhimento dos novos tributos, moderado por Jorge Luiz de Souza Cerqueira, gerente corporativo tributário do Grupo Energisa. Uma das mudanças debatidas foi o split payment, mecanismo que separa o imposto quando o pagamento é processado. Nas operações abrangidas pelo sistema, o prestador do serviço de pagamento recolhe a parcela devida da Contribuição sobre Bens e Serviços (CBS), federal, e do Imposto sobre Bens e Serviços (IBS), de estados e municípios. O restante vai para a empresa. Nas vendas parceladas pelo próprio fornecedor, a separação ocorre proporcionalmente à medida que cada parcela é liquidada. A implantação será gradual. Para uma empresa que vende a prazo e precisa pagar fornecedores e salários antes de receber dos clientes, a mudança exige recalcular o capital de giro, dinheiro que sustenta a operação entre uma despesa e a próxima entrada de receita. Uma rede de supermercados, uma operadora de telecomunicações ou uma distribuidora de energia terá de fazer a nota fiscal, a cobrança e o valor recebido baterem em milhares de operações. O comercial precisará revisar preços e condições de venda, a área de compras terá de acompanhar os créditos tributários e a tesouraria terá de incorporar os novos valores às projeções de caixa. A mesma lógica alcança distribuidoras e revendedores de gás nas operações sujeitas ao novo mecanismo. O valor líquido recebido por uma venda precisa ser considerado na hora de repor estoques, pagar fornecedores e calcular margens. Já para as famílias de baixa renda, a mudança aparece na devolução de tributos sobre a compra de botijão de até 13 quilos e sobre o fornecimento residencial de gás canalizado. A devolução, conhecida como cashback, também alcança energia elétrica, abastecimento de água, esgotamento sanitário e serviços de telecomunicações, como internet e telefonia. A lei prevê a devolução de 100% da CBS a partir de 2027 e de 20% do IBS a partir de 2029 nessas operações. Os percentuais incidem sobre o valor do tributo. O benefício é destinado a famílias inscritas no Cadastro Único com renda mensal de até meio salário mínimo por pessoa, observados os demais requisitos legais. Para o consumidor em geral, a reforma estabelece alíquota zero de CBS e IBS para os produtos da Cesta Básica Nacional de Alimentos. O preço na prateleira continuará sujeito ao custo de compra, ao frete e às margens de fabricantes, distribuidores e varejistas. Para as empresas, a revisão de preços vai depender tanto da tributação sobre o que vendem quanto dos créditos que podem aproveitar nas compras. Em 2026, a reforma está na fase de teste, com alíquotas de 0,9% para a CBS e de 0,1% para o IBS. A legislação prevê dispensa de recolhimento para os contribuintes que cumprirem as obrigações acessórias aplicáveis. Em 2027, a CBS substitui PIS e Cofins. Entre 2029 e 2032, o IBS ganha espaço à medida que ICMS e ISS são reduz",
+  "numeros": [
+   {
+    "valor": "100%",
+    "rotulo": "devolução da CBS para famílias de baixa renda até 2027"
+   },
+   {
+    "valor": "0,9%",
+    "rotulo": "alíquota da CBS em fase de teste em 2026"
+   },
+   {
+    "valor": "2033",
+    "rotulo": "ano em que ICMS e ISS serão extintos"
+   }
+  ],
+  "fonte": "JBNEWS",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "medo de perder margem de lucro e controle financeiro",
+  "angulo": "Com as mudanças tributárias, conhecer o mercado financeiro pode se tornar uma forma de minimizar riscos e gerar renda independente.",
+  "gancho": "Como a *reforma tributária* afeta suas finanças?",
+  "ideias": [
+   "Entenda a nova reforma tributária!",
+   "Como a reforma afeta o seu bolso?",
+   "Fluxo de caixa: o que muda para sua empresa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://jbnews.com.br/reforma-tributaria-muda-o-caixa-das-empresas-e-preve-devolver-tributos-sobre-luz-gas-e-internet/",
+  "publicadoEm": "2026-11-21T15:05:22-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-07"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Protestos na Europa e o custo de vida",
+  "resumo": "Milhares de pessoas foram às ruas na Europa para protestar contra o alto custo de vida. A insatisfação é generalizada e reflete preocupações com a inflação e o poder de compra.",
+  "fatos": [
+   "Milhares de europeus se mobilizaram em protestos contra o custo de vida.",
+   "Os manifestantes expressam insatisfação com a inflação crescente.",
+   "A situação reflete preocupações sobre o poder de compra das pessoas."
+  ],
+  "explicacao": [
+   "Os protestos foram impulsionados pelo aumento significativo dos preços, que afetou o dia a dia da população.",
+   "Com a inflação em alta, muitos cidadãos se sentem pressionados, o que gera um clima de insatisfação.",
+   "Essas mobilizações podem impactar a política e as decisões econômicas em vários países."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "UOL Notícias",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "Medo de não conseguir arcar com as despesas mensais",
+  "angulo": "Esses protestos mostram que depender apenas de um salário está arriscado. Aprender a operar no mercado financeiro pode ser a solução.",
+  "gancho": "Desemprego e *custo de vida* em alta!",
+  "ideias": [
+   "O impacto do custo de vida nas famílias",
+   "Como o mercado financeiro pode ajudar a driblar crises",
+   "Profissionais em protesto: o que isso significa?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/21/protestos-contra-custo-de-vida-levam-milhares-as-ruas-da-europa-neste-sabado.ghtm",
+  "publicadoEm": "2026-11-21T18:10:12-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-06"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 traz novos desafios para empresas",
+  "resumo": "A nova jornada de trabalho de 40 horas semanais exige adaptações operacionais e encarece o cálculo das horas extras. Essa transição demanda planejamento e pode impactar o mercado de trabalho.",
+  "fatos": [
+   "O decreto sobre a transição de 6x1 para 5x2 foi assinado pelo presidente Luiz Inácio Lula da Silva em 19 de outubro.",
+   "A carga horária semanal será reduzida de 44 horas para 42 horas a partir de 16 de dezembro de 2026.",
+   "Em dezembro de 2027, a jornada máxima será de 40 horas semanais.",
+   "O divisor para calcular o salário-hora muda de 220 para 210 com 42 horas, e para 200 com 40 horas.",
+   "A nova regra permitirá que a compensação dos períodos de descanso ocorra ao longo de um ciclo de 30 dias."
+  ],
+  "explicacao": [
+   "A mudança das jornadas de trabalho visa proporcionar mais tempo livre e melhor qualidade de vida aos trabalhadores.",
+   "No entanto, essa transição exige que as empresas ajustem suas operações, o que pode levar a contratações ou ajustes na equipe.",
+   "O encarecimento das horas extras poderá impactar o custo de operação das empresas, tornando-as mais cautelosas com contratações permanentes.",
+   "As negociações coletivas entre patrões e sindicatos serão cruciais para adaptar a nova realidade, garantindo direitos trabalhistas essenciais.",
+   "Essas mudanças podem tornar a renda dependente de salários mais instável, levando profissionais a considerar o aprendizado sobre o mercado financeiro."
+  ],
+  "materia": "Decreto assinado regulamenta transição gradual para jornada de 40 horas semanais e muda cálculo do salário-hora Sábado, 21 Novembro de 2026 - 14:10 | Do Portal R7 A transição da escala de trabalho 6x1 para o modelo 5x2, que garante dois dias de descanso semanal remunerado sem redução salarial, exigirá adaptações operacionais e financeiras das empresas brasileiras. Na última quinta-feira (19), o presidente Luiz Inácio Lula da Silva (PT) assinou o decreto que regulamenta a emenda constitucional responsável por instituir a nova regra trabalhista. O texto normativo define o cronograma para a diminuição gradual da carga horária, altera o cálculo do salário-hora e autoriza a adequação de acordos coletivos conforme as especificidades de cada segmento econômico. Pelo calendário oficial estabelecido no decreto, a jornada semanal cai das atuais 44 horas para 42 horas a partir do dia 16 de dezembro deste ano. Em dezembro de 2027, o limite máximo passará definitivamente para 40 horas semanais, mantendo o funcionamento dos estabelecimentos comerciais e de serviços aos sábados e domingos mediante escalas alternadas. Segundo especialistas na área trabalhista, empregadores que operam nos fins de semana precisarão reestruturar turnos e dimensionar equipes para cumprir os períodos obrigatórios de repouso. “Isso exigirá um planejamento mais cuidadoso dos turnos, distribuição de folgas e dimensionamento do quadro de funcionários. Algumas empresas poderão precisar contratar novos trabalhadores, redistribuir atividades ou rever horários de funcionamento”, afirma a advogada trabalhista e professora da Universidade do Estado do Rio de Janeiro (Uerj), Silvia Correa. Além da reorganização administrativa, a redução da carga horária eleva diretamente o valor das horas extras devido à alteração no divisor utilizado para calcular o salário-hora. A nova regulamentação fixa o divisor 210 para a etapa intermediária de 42 horas semanais e o divisor 200 para a jornada final de 40 horas, substituindo o atual divisor 220. De acordo com a professora Silvia Correa, essa mudança matemática encarece o custo unitário do trabalho extraordinário para o empregador. “O divisor é o número utilizado para transformar o salário mensal em valor por hora de trabalho. Quando esse número diminui, o valor da hora normal aumenta e, consequentemente, o custo da hora extra também pode subir”, explica Silvia Correa. Por outro lado, a advogada trabalhista Silvia Rebello Monteiro, sócia do escritório Urbano Vitalino Advogados, avalia que o encarecimento da hora extra não implica automaticamente a abertura de novas vagas formais. Segundo a especialista, em muitos cenários operacionais, o pagamento de horas adicionais permanece mais vantajoso do que a ampliação definitiva da folha de pagamento. “Encarecer a hora extra, por si só, não garante a criação de empregos. Para cobrir picos de demanda ou ausências pontuais, a hora extra dá à empresa flexibilidade para ajustar a equipe, dentro dos limites legais”, explica. Para setores com dificuldade logística de conceder dois dias livres na mesma semana, o decreto autoriza a compensação dos períodos de descanso ao longo de um ciclo de 30 dias, assegurando o mínimo de oito folgas mensais. Silvia Rebello defende que a negociação coletiva entre patrões e sindicatos será fundamental para equilibrar os custos da transição sem prejudicar os direitos conquistados pelos trabalhadores. “O ideal seria preservar a redução da jornada e os dois dias de descanso e permitir que empresas e sindicatos negociassem um divisor de transição. Isso daria às empresas mais previsibilidade para reorganizar as equipes e absorver o aumento do custo das horas extras”, complementa.",
+  "numeros": [
+   {
+    "valor": "44 para 40",
+    "rotulo": "carga horária semanal"
+   }
+  ],
+  "fonte": "diariodigital.com.br",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "encarecimento das horas extras e dificuldade na contratação",
+  "angulo": "A medicina da nova jornada trabalhista demanda habilidades financeiras, onde o trader se torna uma solução alternativa à dependência do salário fixo.",
+  "gancho": "Como *a nova jornada* afeta seu bolso?",
+  "ideias": [
+   "Novas regras de trabalho: o que esperar?",
+   "Como a jornada de 40 horas muda sua vida?",
+   "Prepare-se: o impacto econômico da nova jornada"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T18:23:58-03:00",
+  "url": "https://www.diariodigital.com.br/geral/fim-da-escala-6x1-encarece-hora-extra-e-exige-ajuste-de-turnos-no-pais",
+  "publicadoEm": "2026-11-21T15:10:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-05"
  },
  {
   "segmento": "trader",
