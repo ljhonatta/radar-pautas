@@ -331,10 +331,22 @@ async function vozOpenAI(txt,instr){const key=oaKey();if(!key)throw {code:"sem_c
       body:JSON.stringify({model:modelo,voice:V.voz||"ash",input:txt,response_format:"mp3",...(modelo==="gpt-4o-mini-tts"?{instructions:INSTR_BASE+" "+(instr||"")}:{speed:1.08})})});
     if(r.ok)break;if(r.status===401)throw {code:"bad_key"};}
   if(!r.ok)throw {code:"http_"+r.status};return await r.arrayBuffer();}
-async function vozEleven(txt,voz,ant,dep){const r=await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(voz)}?output_format=mp3_44100_128`,{method:"POST",
-    headers:{"xi-api-key":elKey(),"Content-Type":"application/json"},body:JSON.stringify({text:txt,model_id:"eleven_multilingual_v2",language_code:"pt",previous_text:ant||undefined,next_text:dep||undefined,
+// se a voz escolhida não existe para esta chave (chave de outro espaço de trabalho do ElevenLabs), usa uma voz da própria conta:
+// primeiro uma chamada "Yuri", depois uma brasileira, depois a primeira disponível
+let EL_TROCA=null;
+async function vozDaConta(){const r=await fetch("https://api.elevenlabs.io/v1/voices",{headers:{"xi-api-key":elKey()}});if(!r.ok)return null;const vs=(await r.json()).voices||[];
+  const br=v=>/portug|brazil|brasil|pt-br|\bpt\b/i.test(JSON.stringify(v.labels||{})+" "+(v.description||""));
+  return vs.find(v=>/yuri/i.test(v.name))||vs.find(br)||vs[0]||null;}
+async function vozEleven(txt,voz,ant,dep){if(EL_TROCA&&EL_TROCA.de===voz)voz=EL_TROCA.para;
+  const pede=v=>fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(v)}?output_format=mp3_44100_128`,{method:"POST",
+    headers:{"xi-api-key":elKey(),"Content-Type":"application/json"},body:JSON.stringify({text:txt,model_id:"eleven_multilingual_v2",previous_text:ant||undefined,next_text:dep||undefined,
       voice_settings:{stability:.32,similarity_boost:.8,style:.6,use_speaker_boost:true}})});
-  if(r.status===401)throw {code:"eleven_key"};if(!r.ok)throw {code:"eleven_"+r.status};return await r.arrayBuffer();}
+  let r=await pede(voz);
+  if(r.status===404||r.status===400&&/voice/i.test(await r.clone().text())){const alt=await vozDaConta();
+    if(alt&&alt.voice_id!==voz){EL_TROCA={de:voz,para:alt.voice_id,nome:alt.name};r=await pede(alt.voice_id);}}
+  if(r.status===401)throw {code:"eleven_key"};
+  if(!r.ok){let m="";try{const j=await r.json();m=j?.detail?.message||j?.detail?.status||(typeof j?.detail==="string"?j.detail:"");}catch(e){}throw {code:"eleven_"+r.status,msg:m};}
+  return await r.arrayBuffer();}
 function pedacos(txt,max){const fr=txt.split(/(?<=[.!?…])\s+/),out=[];let a="";for(const f of fr){if((a+" "+f).trim().length>max&&a){out.push(a.trim());a=f;}else a=(a+" "+f).trim();}if(a)out.push(a);return out;}
 async function vozFish(txt){const partes=[];for(const t of pedacos(txt,1800)){
     const r=await fetch(PONTE_FISH,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({key:fishKey(),voz:fishVoz(),text:t})});
@@ -383,8 +395,12 @@ async function narrar(){if(!V)return false;if(!textoNarr()){st("O roteiro está 
     const fila=[...Array(n).keys()];await Promise.all(Array.from({length:4},async()=>{while(fila.length)await uma(fila.shift());}));
     const E=emendar(bufs);V._buf=E.buf;V._audioProprio=false;st("Sincronizando a legenda com a fala…");
     const ouvidas=await ouvir(wav(E.buf),"audio/wav");alinharCenas(E,ouvidas);
-    st(`Narração pronta (${Math.round(E.buf.duration)}s, com pausas entre as cenas)${ouvidas?", legenda no tempo exato da fala":""}. Toque em Assistir ou Gravar vídeo.`,"ok");return true;}
-  catch(e){const c=e?.code||"";st(c==="bad_key"?"A chave da OpenAI foi recusada.":c==="eleven_key"?"A chave do ElevenLabs foi recusada.":c==="fish_key"?"A chave do Fish Audio foi recusada.":c==="fish_credito"?"Sua conta do Fish Audio está sem crédito.":/^fish_/.test(c)?"O Fish Audio não respondeu ("+c.slice(5)+(e.msg?": "+e.msg:"")+").":c==="sem_chave"?"Coloque a chave da OpenAI na aba Marca.":"Não consegui gravar a narração agora ("+c+"). Tente de novo.","err");return false;}
+    st(`Narração pronta (${Math.round(E.buf.duration)}s, com pausas entre as cenas)${ouvidas?", legenda no tempo exato da fala":""}${EL_TROCA?`. A voz escolhida não está na conta desta chave do ElevenLabs; usei "${EL_TROCA.nome}"`:""}. Toque em Assistir ou Gravar vídeo.`,"ok");return true;}
+  catch(e){const c=e?.code||"";
+    if(/^eleven_/.test(c)&&oaKey()&&!V._semEleven){ // ElevenLabs recusou de vez: a narração sai na voz da OpenAI para o vídeo não parar
+      V._semEleven=true;const sel=$v("vVoz");sel.value="oa:ash";V.vozSel="oa:ash";V.voz="ash";$v("vNarrar").disabled=false;
+      const ok=await narrar();V._semEleven=false;if(ok)st($v("vStatus").textContent+` (O ElevenLabs recusou: ${e.msg||c.slice(7)}. Esta narração saiu na voz da OpenAI; confira a chave do ElevenLabs na aba Marca.)`,"err");return ok;}
+    st(c==="bad_key"?"A chave da OpenAI foi recusada.":c==="eleven_key"?"A chave do ElevenLabs foi recusada.":/^eleven_/.test(c)?"O ElevenLabs recusou ("+c.slice(7)+(e.msg?": "+e.msg:"")+"). Confira se a chave é do mesmo espaço de trabalho onde está a voz.":c==="fish_key"?"A chave do Fish Audio foi recusada.":c==="fish_credito"?"Sua conta do Fish Audio está sem crédito.":/^fish_/.test(c)?"O Fish Audio não respondeu ("+c.slice(5)+(e.msg?": "+e.msg:"")+").":c==="sem_chave"?"Coloque a chave da OpenAI na aba Marca.":"Não consegui gravar a narração agora ("+c+"). Tente de novo.","err");return false;}
   finally{$v("vNarrar").disabled=false;renderLista();quadro();}}
 async function audioProprio(f){try{const ab=await f.arrayBuffer();V._buf=await actx().decodeAudioData(ab.slice(0));V._audioProprio=true;st("Sincronizando a legenda com o seu áudio…");
   const ouvidas=f.size<24e6?await ouvir(ab):null;alinhar(V._buf.duration,ouvidas);
