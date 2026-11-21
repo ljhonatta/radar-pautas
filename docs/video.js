@@ -206,6 +206,32 @@ function entradas(c,i,dur){const at=(c.visual||{}).atores||[],ws=palavras(c.narr
 function elenco(i,L){const c=V.cenas[i],v=c.visual||{},own=(v.atores||[]).map((a,k)=>({a,t:entradas(c,i,L.dur[i])[k],own:true}));
   if(!v.continua||i===0||(V.cenas[i-1].visual||{}).tipo!=="cena")return own;
   const ant=elenco(i-1,L).map(x=>({a:x.a,t:-99,own:false}));return [...ant,...own];}
+/* ---- camada automática que acompanha a fala ----
+   Palavras-chave (dólar, juros, Selic, bolsa…) e verbos de movimento (caiu, disparou…) viram etiquetas com ícone
+   que pulam no palco na hora em que são faladas; cada uma dá um "soco" de zoom na câmera. */
+const CHAVES=[[/^d[oó]lar/i,"DÓLAR","$"],[/^juros?$/i,"JUROS","%"],[/^selic/i,"SELIC","%"],[/^copom/i,"COPOM","%"],[/^(bolsa|b3)$/i,"BOLSA","▤"],[/^ibovespa/i,"IBOVESPA","▤"],
+  [/^infla[cç][aã]o/i,"INFLAÇÃO","↑"],[/^ipca/i,"IPCA","↑"],[/^fed$/i,"FED","%"],[/^nasdaq/i,"NASDAQ","▤"],[/^(ia|ai)$/i,"IA","◆"],[/^intelig[eê]ncia$/i,"IA","◆"],
+  [/^petr[oó]leo/i,"PETRÓLEO","●"],[/^ouro$/i,"OURO","●"],[/^bitcoin/i,"BITCOIN","₿"],[/^cripto/i,"CRIPTO","₿"],[/^pib$/i,"PIB","▤"],[/^d[ií]vida/i,"DÍVIDA","$"],
+  [/^impostos?$/i,"IMPOSTO","$"],[/^lucros?$/i,"LUCRO","$"],[/^preju[ií]zo/i,"PREJUÍZO","$"],[/^recess[aã]o/i,"RECESSÃO","↓"],[/^empregos?$/i,"EMPREGO","●"],
+  [/^sal[aá]rios?$/i,"SALÁRIO","$"],[/^gasolina/i,"GASOLINA","●"],[/^investidor/i,"INVESTIDOR","●"],[/^mercados?$/i,"MERCADO","▤"],[/^a[cç][oõ]es$/i,"AÇÕES","▤"],
+  [/^(ca[ií]|caiu|despenc|desab|recu|tomb|afund|derret)/i,"QUEDA","▼"],[/^(sob|subiu|dispar|salt|avan[cç]|cresc|explod|dispara)/i,"ALTA","▲"]];
+function chaves(c,i,dur){if(c._ch&&c._ch.d===dur&&c._ch.n===c.narracao)return c._ch.v;const ws=palavras(c.narracao),tw=temposPalavras(c,i,dur),out=[],vistos=new Set();
+  ws.forEach((w,j)=>{const cw=w.replace(/[.,;:!?…"“”()]/g,"");for(const [re,txt,ic] of CHAVES)if(re.test(cw)&&!vistos.has(txt)){vistos.add(txt);out.push({t:Math.max(.05,tw[j]??0),txt,ic});break;}});
+  const v=out.slice(0,5);c._ch={d:dur,n:c.narracao,v};return v;}
+function chip(g,P,x,y,txt,ic,k){if(k<=0)return;const cor=ic==="▼"?P.neg:ic==="▲"?P.pos:P.a;fonte(g,800,30);espaco(g,"2px");const w=g.measureText(txt).width+96;
+  g.save();g.translate(x,y);const s=.6+.4*ease.back(cl(k));g.scale(s,s);g.globalAlpha*=cl(k*2);
+  g.fillStyle="rgba(14,15,18,.92)";rr(g,-w/2,-32,w,64,32);g.fill();g.strokeStyle=rgba(cor,.85);g.lineWidth=3;g.stroke();
+  g.fillStyle=cor;g.beginPath();g.arc(-w/2+32,0,22,0,7);g.fill();g.fillStyle="#fff";fonte(g,900,26);g.textAlign="center";g.fillText(ic,-w/2+32,9);
+  fonte(g,800,30);espaco(g,"2px");g.fillStyle=P.txt;g.textAlign="left";g.fillText(txt,-w/2+64,11);espaco(g,"0px");g.restore();}
+function desChaves(g,P,c,i,tc,dur){const cs=chaves(c,i,dur).filter(x=>tc>=x.t);const vis=cs.slice(-3);if(!vis.length)return;
+  fonte(g,800,30);const ws=vis.map(x=>{espaco(g,"2px");return g.measureText(x.txt).width+96;});espaco(g,"0px");const tot=ws.reduce((a,b)=>a+b,0)+(vis.length-1)*18;let x=W/2-tot/2;
+  vis.forEach((x0,j)=>{const cx=x+ws[j]/2;chip(g,P,cx,1385+Math.sin((tc+j)*2.2)*3,x0.txt,x0.ic,(tc-x0.t)/.35);x+=ws[j]+18;});}
+// "soco" de zoom em cada palavra-chave falada
+function soco(c,i,tc,dur){let z=0;for(const x of chaves(c,i,dur)){const d=tc-x.t;if(d>=0&&d<.6)z=Math.max(z,.035*Math.exp(-d*7));}return z;}
+// gráfico vivo no fundo (bem discreto) e grade de pontos
+function fundoVivo(g,P,t,tipo){g.save();g.globalAlpha=.07;g.fillStyle="#fff";for(let y=420;y<1360;y+=60)for(let x=MX;x<W-MX;x+=60)g.fillRect(x,y,2,2);
+  g.globalAlpha=.16;g.strokeStyle=P.a;g.lineWidth=4;g.lineJoin="round";g.beginPath();
+  for(let k=0;k<=36;k++){const x=k*(W/36),f=k*.55+t*.9;const y=760+Math.sin(f)*36+Math.sin(f*.37)*60+(tipo==="queda"?k*5:tipo==="alta"?-k*5:0);k?g.lineTo(x,y):g.moveTo(x,y);}g.stroke();g.restore();}
 function etiqueta(g,P,txt,x,y,k,forte){if(!txt||k<=0)return;fonte(g,700,24,"'JetBrains Mono',monospace");espaco(g,"2px");const t=String(txt).toUpperCase(),w=Math.min(W-2*MX,g.measureText(t).width+40);
   g.save();g.globalAlpha=k;g.translate(x,y+(1-k)*16);g.fillStyle=forte?P.a:"rgba(18,19,23,.92)";rr(g,-w/2,-24,w,48,10);g.fill();if(!forte){g.strokeStyle=rgba(P.a,.6);g.lineWidth=2;g.stroke();}
   g.fillStyle=forte?"#fff":P.txt;g.textAlign="center";g.fillText(t,0,9,w-30);espaco(g,"0px");g.restore();}
@@ -239,9 +265,10 @@ function desenhar(g,tAbs,L){
   const continua=tipo==="cena"&&v.continua&&i>0,proxContinua=(V.cenas[i+1]?.visual||{}).continua&&(V.cenas[i+1]?.visual||{}).tipo==="cena"&&tipo==="cena";
   const sai=proxContinua?1:cl((dur-tc)/.28),ent=cl(tc/.3),al=Math.min(sai,1);const cy=tipo==="fim"?1000:1060;
   g.setTransform(1,0,0,1,0,0);fundo(g,tAbs,P,cy);
+  if(tipo!=="fim"){const ch=chaves(c,i,dur).filter(x=>tc>=x.t).map(x=>x.ic);fundoVivo(g,P,tAbs,ch.includes("▼")?"queda":ch.includes("▲")?"alta":"");}
   // câmera: aproximação lenta durante a cena
   // câmera: aproxima devagar; cena nova entra subindo um pouco (cena que continua não pula)
-  const zoom=1+.05*ease.inout(cl(tc/Math.max(1,dur)))+(continua?0:.04*(1-ease.out(cl(tc/.45))));const sobe=continua?0:60*(1-ease.out(cl(tc/.45)));
+  const zoom=1+.05*ease.inout(cl(tc/Math.max(1,dur)))+(continua?0:.04*(1-ease.out(cl(tc/.45))))+(tipo==="fim"?0:soco(c,i,tc,dur));const sobe=continua?0:60*(1-ease.out(cl(tc/.45)));
   g.save();g.translate(W/2,cy+sobe);g.scale(zoom,zoom);g.translate(-W/2,-cy);
   g.globalAlpha=al;
   const obj=v.objeto&&v.objeto!=="nenhum"?v.objeto:null;
@@ -257,6 +284,7 @@ function desenhar(g,tAbs,L){
   else if(tipo==="citacao"){desCitacao(g,P,v,tc);}
   else if(tipo==="fim"){desFim(g,P,v,tc,tAbs);}
   else if(tipo==="cena"){desCena(g,P,c,i,tc,L,tAbs);}
+  if(tipo!=="fim"&&tipo!=="comparativo"&&tipo!=="lista")desChaves(g,P,c,i,tc,dur);
   g.restore();g.globalAlpha=1;
   cabecalho(g,P,c,Math.min(continua?1:ent,sai)*.999+.001);
   if(v.topico)etiqueta(g,P,v.topico,W/2,290,ease.out(cl((tc-.1)/.4))*Math.min(1,sai),true);
@@ -327,7 +355,7 @@ function direcao(c,i,n){const cap=String(c.cap||"").toUpperCase(),t=(c.visual||{
   if(t==="citacao")return "Cena de citação: tom de quem conta o que alguém importante disse, com ênfase na frase.";
   return "Cena de desenvolvimento: tom de conversa animada, avançando a história com ritmo.";}
 function textoNarr(){return V.cenas.map(c=>String(c.narracao||"").trim()).filter(Boolean).map(t=>/[.!?…]$/.test(t)?t:t+".").join(" ");}
-const pont=t=>{t=String(t||"").trim();return /[.!?…]$/.test(t)?t:t+".";};
+const pont=t=>{t=String(t||"").trim().replace(/@[\w.]+/g,"o perfil").replace(/\s{2,}/g," ");return /[.!?…]$/.test(t)?t:t+".";};
 async function vozOpenAI(txt,instr){const key=oaKey();if(!key)throw {code:"sem_chave"};let r;
   for(const modelo of ["gpt-4o-mini-tts","tts-1-hd"]){r=await fetch("https://api.openai.com/v1/audio/speech",{method:"POST",headers:{"Authorization":"Bearer "+key,"Content-Type":"application/json"},
       body:JSON.stringify({model:modelo,voice:V.voz||"ash",input:txt,response_format:"mp3",...(modelo==="gpt-4o-mini-tts"?{instructions:INSTR_BASE+" "+(instr||"")}:{speed:1.08})})});
@@ -441,7 +469,8 @@ function numeroEm(s){const re=/(R\$|US\$)?\s?[+-]?\d[\d.,]*\s?(%|mi\b|bi\b|tri\b
   while((m=re.exec(String(s||"")))){const t=m[0].trim(),antes=String(s).slice(Math.max(0,m.index-1),m.index);
     if(antes==="("||/^\d{1,2}$/.test(t)&&!m[1]&&!m[2]||/^(19|20)\d\d$/.test(t))continue; // dia do mês, ano, número solto
     if(m[1]||m[2]||/[.,]\d/.test(t)||/^\d{3,}$/.test(t.replace(/\D/g,"")))return t;}return "";}
-const fimTxt=()=>APP.cta?APP.cta(V):`Siga ${V.handle} para entender o mercado todos os dias.`;
+// fechamento falado sem o @ do perfil (a voz tropeça no nome); o nome aparece escrito na tela final
+const fimTxt=()=>APP.cta?APP.cta(V):"Segue o perfil pra ficar por dentro das novidades do mercado todo dia!";
 const fimBotao=()=>APP.botao?APP.botao(V):"Seguir";
 function roteiroDaFicha(n){const cs=[];const add=(cap,narr,visual)=>narr&&cs.push({cap,narracao:cortaP(narr,26),visual});
   const gat=(f,x)=>{const w=palavras(x||"").find(p=>p.length>3);return w||palavras(f)[1]||"";};
@@ -478,7 +507,8 @@ async function roteiroIA(modo){if(!iaOk()){st("Para a IA escrever o roteiro, col
 ${mat}
 Escreva um roteiro de vídeo vertical de 55 a 80 segundos, falado como um criador de conteúdo brasileiro que prende a atenção: energia, curiosidade e ritmo de Reels. Use frases curtas de impacto, perguntas que puxam a próxima cena ("E sabe o que aconteceu depois?"), viradas ("E não parou aí…"), reticências e vírgulas para marcar pausas, ponto de exclamação com moderação, expressões naturais do dia a dia. Nada de clichê de coach, sem emoji, sem prometer ganho, sem recomendar compra ou venda. Escreva os números por extenso quando ajudar a leitura em voz alta (ex.: "cinco reais e noventa e três"), mas no campo "valor" do visual use o número curto. Só use números, nomes e fatos do material.
 Estrutura: gancho forte na primeira cena; o que aconteceu; os números; por que importa; o que muda para quem assiste; um conceito explicado; o que observar; fechamento: ${fimTxt()}
-Divida em 9 a 12 cenas de 8 a 24 palavras cada. O vídeo precisa ser visual e "montado" junto com a fala, como uma animação explicativa: a maioria das cenas é do tipo "cena", com 2 a 4 elementos que vão aparecendo um a um, cada um na palavra da fala que o menciona.
+Nunca escreva @ nem o nome do perfil nas falas (a voz não lê bem); no fechamento, só convide a seguir o perfil para acompanhar as novidades.
+Divida em 9 a 12 cenas de 8 a 24 palavras cada. O vídeo precisa ser visual e "montado" junto com a fala, como uma animação explicativa: a maioria das cenas é do tipo "cena", com 3 a 4 elementos que vão aparecendo um a um, cada um na palavra da fala que o menciona.
 Formato do visual "cena": {"tipo":"cena","topico":"faixa no topo, até 6 palavras em caixa alta (ex: POR QUE TANTO MEDO? A CONTA)","continua":false,"atores":[...]}
 Elementos possíveis em "atores" (cada um com "gatilho": a palavra exata da fala em que ele entra):
 - {"tipo":"objeto","objeto":"um dos objetos","rotulo":"etiqueta presa nele, até 4 palavras, ex: ITAÚ −14% ou DÍVIDA","direcao":"sobe|cai (para seta, barras, tela e balança)","gatilho":""}
@@ -493,7 +523,7 @@ Objetos possíveis: ${Object.keys(OBJETOS).filter(k=>k!=="nenhum").join(", ")}. 
 "cap" é a etiqueta do capítulo em 1 ou 2 palavras (ex: A NOTÍCIA, A CONTA, O IMPACTO, ENTENDA, E AGORA).
 Responda só com JSON: {"cenas":[{"cap":"","narracao":"","visual":{"tipo":"cena","topico":"","continua":false,"atores":[{"tipo":"objeto","objeto":"","rotulo":"","gatilho":""}]}}],"legenda":"legenda do post com 2 parágrafos, a fonte e 5 hashtags"}`;
   try{const r=await sample.json(prompt,{cache:false});if(!Array.isArray(r?.cenas)||!r.cenas.length)throw {code:"invalid_json"};
-    V.cenas=r.cenas.map(c=>({cap:String(c.cap||""),narracao:String(c.narracao||""),visual:limpaVisual(c.visual,c.narracao)}));
+    V.cenas=r.cenas.map(c=>({cap:String(c.cap||""),narracao:String(c.narracao||"").replace(/@[\w.]+/g,"o perfil"),visual:limpaVisual(c.visual,c.narracao)}));
     const ult=V.cenas[V.cenas.length-1];if(ult.visual.tipo!=="fim")V.cenas.push({cap:"",narracao:fimTxt(),visual:{tipo:"fim",texto:fimBotao()}});else ult.visual.texto=ult.visual.texto||fimBotao();
     V.legendaPost=String(r.legenda||"");pronto("Roteiro pronto.");return true;}
   catch(e){st("A IA não respondeu agora. Usei a ficha da notícia; tente de novo depois.","err");V.cenas=roteiroDaFicha(n);pronto();return false;}}
@@ -504,6 +534,9 @@ function limpaVisual(v,narr){v=v&&typeof v==="object"?v:{};const tipo=TIPOS_V[v.
     if(!o.atores.length)o.atores=[{tipo:"objeto",objeto:objetoPara(narr)}];
     // cena só com card de número fica vazia embaixo: entra um objeto que combina com a fala
     else if(!o.continua&&!o.atores.some(x=>x.tipo==="objeto"||x.tipo==="etiqueta"))o.atores.unshift({tipo:"objeto",objeto:objetoPara(narr),gatilho:""});
+    const objs=o.atores.filter(x=>x.tipo==="objeto");
+    if(!o.continua&&objs.length===1&&o.atores.length<4){const ws=palavras(narr),par=(ALT[objs[0].objeto]||["alvo","barras"])[0];
+      o.atores.push({tipo:"objeto",objeto:par,gatilho:ws[Math.floor(ws.length*.55)]||""});}
     o.objeto="nenhum";return o;}
   if(Array.isArray(v.itens))o.itens=v.itens.slice(0,4).map(x=>typeof x==="object"?{rotulo:String(x.rotulo||x.item||""),antes:String(x.antes||""),depois:String(x.depois||"")}:String(x));
   o.objeto=OBJETOS[v.objeto]?v.objeto:(["numero","objeto","titulo"].includes(tipo)?objetoPara(narr+" "+(v.rotulo||"")):"nenhum");return o;}
@@ -657,7 +690,7 @@ function ligarTela(){if(!$v("vCanvas"))return;
   $v("vLista").addEventListener("click",e=>{const b=e.target.closest("[data-vc]");if(!b)return;parar();cur=+b.dataset.vc;marcar();quadro();});
   ["vcCap","vcNarr","vcValor","vcRot","vcItens"].forEach(id=>$v(id).addEventListener("input",editar));["vcTipo","vcObj"].forEach(id=>$v(id).addEventListener("change",editar));
   if($v("vCor"))$v("vCor").addEventListener("click",e=>{const b=e.target.closest("[data-vcor]");if(!b||!V)return;V.paleta=b.dataset.vcor;$v("vCor").querySelectorAll(".swc").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));quadro();salvar();});
-  $v("vPerfil").onchange=e=>{V.handle=e.target.value;const f=V.cenas[V.cenas.length-1];if(f?.visual?.tipo==="fim"){f.narracao=fimTxt();V._buf=null;}renderLista();quadro();};
+  $v("vPerfil").onchange=e=>{V.handle=e.target.value;const f=V.cenas[V.cenas.length-1];if(f?.visual?.tipo==="fim"&&/@/.test(f.narracao)){f.narracao=fimTxt();V._buf=null;}renderLista();quadro();};
   $v("vVoz").onchange=e=>{V.vozSel=e.target.value;LSv.set("rv-voz-sel",V.vozSel);if(!V._audioProprio){V._buf=null;}st("Voz trocada. Toque em Gerar narração.");quadro();};
   $v("vIA").onclick=()=>roteiroIA("ficha");$v("vUsarMeu").onclick=()=>{const t=$v("vMeu").value.trim();if(!t){st("Escreva ou cole o seu roteiro: um parágrafo por cena.","err");return;}
     if(iaOk())roteiroIA("meu");else{V.cenas=roteiroDoTexto(t);pronto("Roteiro dividido em cenas. Ajuste o visual de cada uma se quiser.");}};
