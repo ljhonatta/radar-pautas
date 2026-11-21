@@ -496,7 +496,10 @@ function limpaVisual(v,narr){v=v&&typeof v==="object"?v:{};const tipo=TIPOS_V[v.
   for(const k of ["valor","rotulo","texto","frase","quem","direcao","dia","topico"])if(v[k])o[k]=String(v[k]);
   if(tipo==="cena"){o.continua=!!v.continua;o.atores=(Array.isArray(v.atores)?v.atores:[]).slice(0,4).map(a=>{const t=["objeto","numero","etiqueta","citacao"].includes(a?.tipo)?a.tipo:"objeto";const x={tipo:t};
       for(const k of ["valor","rotulo","texto","frase","quem","direcao","gatilho"])if(a?.[k])x[k]=String(a[k]);if(t==="objeto")x.objeto=OBJETOS[a?.objeto]&&a.objeto!=="nenhum"?a.objeto:objetoPara((a?.rotulo||"")+" "+narr);return x;});
-    if(!o.atores.length)o.atores=[{tipo:"objeto",objeto:objetoPara(narr)}];o.objeto="nenhum";return o;}
+    if(!o.atores.length)o.atores=[{tipo:"objeto",objeto:objetoPara(narr)}];
+    // cena só com card de número fica vazia embaixo: entra um objeto que combina com a fala
+    else if(!o.continua&&!o.atores.some(x=>x.tipo==="objeto"||x.tipo==="etiqueta"))o.atores.unshift({tipo:"objeto",objeto:objetoPara(narr),gatilho:""});
+    o.objeto="nenhum";return o;}
   if(Array.isArray(v.itens))o.itens=v.itens.slice(0,4).map(x=>typeof x==="object"?{rotulo:String(x.rotulo||x.item||""),antes:String(x.antes||""),depois:String(x.depois||"")}:String(x));
   o.objeto=OBJETOS[v.objeto]?v.objeto:(["numero","objeto","titulo"].includes(tipo)?objetoPara(narr+" "+(v.rotulo||"")):"nenhum");return o;}
 const ALT={moedas:["pilha","barras","seta-cima","cartao"],pilha:["moedas","barras","predio"],termometro:["barras","seta-cima","relogio"],predio:["barras","seta-baixo","alvo"],
