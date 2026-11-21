@@ -389,7 +389,8 @@ function alinharCenas(E,ouvidas){const n=V.cenas.length;V._durs=E.ini.map((s,i)=
     if(dentro.length>=Math.max(2,ws.length*.5)){return ws.map((w,j)=>dentro[Math.min(dentro.length-1,Math.round(j*dentro.length/ws.length))].s-a);}
     const pesos=ws.map(w=>w.length+2+(/[.,;:!?…]$/.test(w)?5:0)),sp=pesos.reduce((x,y)=>x+y,0);let acc=0;return pesos.map(p=>{const s=acc/sp*E.lens[i];acc+=p;return s;});});}
 async function narrar(){if(!V)return false;if(!textoNarr()){st("O roteiro está vazio.","err");return false;}
-  const ev=$v("vVoz").value||(elKey()?"el:"+VOZ_PADRAO_EL.id:"");const usarEl=ev.startsWith("el:")&&elKey(),usarFish=ev==="fish";
+  const ev=/^el:/.test($v("vVoz").value||"")?$v("vVoz").value:"el:"+VOZ_PADRAO_EL.id;const usarEl=true,usarFish=false;
+  if(!elKey()){st("Para a narração, coloque a chave do ElevenLabs na aba Marca.","err");return false;}
   if(usarFish&&!fishKey()){st("Coloque a chave do Fish Audio e o ID da voz em \"Fish Audio\" aqui embaixo.","err");return false;}
   if(!usarEl&&!usarFish&&!oaKey()){st("Para a narração, coloque a chave da OpenAI na aba Marca (ou ligue o Fish Audio ou o ElevenLabs aqui embaixo).","err");return false;}
   const nome=usarFish?"Fish Audio":usarEl?"ElevenLabs":"OpenAI";$v("vNarrar").disabled=true;
@@ -397,13 +398,13 @@ async function narrar(){if(!V)return false;if(!textoNarr()){st("O roteiro está 
     const uma=async i=>{const t=pont(cs[i].narracao);if(!String(cs[i].narracao||"").trim()){bufs[i]=actx().createBuffer(1,Math.round(actx().sampleRate*.6),actx().sampleRate);return;}
       const mp3=usarFish?await vozFish(t):usarEl?await vozEleven(t,ev.slice(3),cs[i-1]?.narracao,cs[i+1]?.narracao):await vozOpenAI(t,direcao(cs[i],i,n));
       bufs[i]=aparar(await actx().decodeAudioData(mp3.slice(0)));feitos++;st(`Gravando a narração (${nome}): ${feitos} de ${n} cenas…`);};
-    const fila=[...Array(n).keys()],juntos=usarEl?2:usarFish?2:4; // o ElevenLabs aceita só 2 pedidos ao mesmo tempo nos planos menores
+    const fila=[...Array(n).keys()],juntos=1; // ElevenLabs: uma cena por vez (os planos menores limitam pedidos simultâneos)
     await Promise.all(Array.from({length:juntos},async()=>{while(fila.length)await uma(fila.shift());}));
     const E=emendar(bufs);V._buf=E.buf;V._audioProprio=false;st("Sincronizando a legenda com a fala…");
     const ouvidas=await ouvir(wav(E.buf),"audio/wav");alinharCenas(E,ouvidas);
     st(`Narração pronta (${Math.round(E.buf.duration)}s, com pausas entre as cenas)${ouvidas?", legenda no tempo exato da fala":""}${EL_TROCA?`. A voz escolhida não está na conta desta chave do ElevenLabs; usei "${EL_TROCA.nome}"`:""}. Toque em Assistir ou Gravar vídeo.`,"ok");return true;}
   catch(e){const c=e?.code||"";
-    if(/^eleven_/.test(c)&&c!=="eleven_429"&&oaKey()&&!V._semEleven){ // ElevenLabs recusou de vez: a narração sai na voz da OpenAI para o vídeo não parar
+    if(false){ // a narração é só pelo ElevenLabs: sem trocar para outra voz // ElevenLabs recusou de vez: a narração sai na voz da OpenAI para o vídeo não parar
       V._semEleven=true;const sel=$v("vVoz");sel.value="oa:ash";V.vozSel="oa:ash";V.voz="ash";$v("vNarrar").disabled=false;
       const ok=await narrar();V._semEleven=false;if(ok)st($v("vStatus").textContent+` (O ElevenLabs recusou: ${e.msg||c.slice(7)}. Esta narração saiu na voz da OpenAI; confira a chave do ElevenLabs na aba Marca.)`,"err");return ok;}
     st(c==="bad_key"?"A chave da OpenAI foi recusada.":c==="eleven_key"?"A chave do ElevenLabs foi recusada.":/^eleven_/.test(c)?"O ElevenLabs recusou ("+c.slice(7)+(e.msg?": "+e.msg:"")+"). Confira se a chave é do mesmo espaço de trabalho onde está a voz.":c==="fish_key"?"A chave do Fish Audio foi recusada.":c==="fish_credito"?"Sua conta do Fish Audio está sem crédito.":/^fish_/.test(c)?"O Fish Audio não respondeu ("+c.slice(5)+(e.msg?": "+e.msg:"")+").":c==="sem_chave"?"Coloque a chave da OpenAI na aba Marca.":"Não consegui gravar a narração agora ("+c+"). Tente de novo.","err");return false;}
@@ -422,13 +423,11 @@ let VOZES_EL=[];
 const VOZ_PADRAO_EL={id:"JBFqnCBsd6RMkjVDRZzb",nome:"George (padrão)"};
 const VOZ_YURI={id:"WSBwiRQRmi2mEG7BfKwS",nome:"Yuri (brasileiro)"};
 function renderVozes(){const sel=$v("vVoz");if(!sel)return;const temEl=!!elKey();let atual=V?.vozSel||LSv.get("rv-voz-sel","");
-  if(temEl&&(!atual||atual==="oa:ash"))atual="el:"+VOZ_PADRAO_EL.id; // com ElevenLabs ligado, o padrão é o Yuri
+  if(!/^el:/.test(atual))atual="el:"+VOZ_PADRAO_EL.id; // a narração é só pelo ElevenLabs
   const outras=[VOZ_YURI,...VOZES_EL.filter(v=>v.id!==VOZ_YURI.id)].filter(v=>v.id!==VOZ_PADRAO_EL.id);
-  sel.innerHTML=`<optgroup label="ElevenLabs (mais natural)"><option value="el:${VOZ_PADRAO_EL.id}"${temEl?"":" disabled"}>${VOZ_PADRAO_EL.nome}${temEl?"":" · cole a chave do ElevenLabs abaixo"}</option>${temEl?outras.map(v=>`<option value="el:${esc(v.id)}">${esc(v.nome)}${v.br?" · BR":""}</option>`).join(""):""}</optgroup>`+
-    `<optgroup label="OpenAI (sotaque brasileiro por instrução)">${Object.entries(VOZES).map(([k,v])=>`<option value="oa:${k}">${v}</option>`).join("")}</optgroup>`+
-    `<optgroup label="Fish Audio (sua voz)"><option value="fish"${fishKey()&&fishVoz()?"":" disabled"}>Fish Audio${fishVoz()?" · voz "+esc(fishVoz().slice(0,8)):" (configure abaixo)"}</option></optgroup>`;
-  const ok=[...sel.options].some(o=>o.value===atual&&!o.disabled);sel.value=ok?atual:(temEl?"el:"+VOZ_PADRAO_EL.id:"oa:ash");
-  if(V){V.vozSel=sel.value;if(sel.value.startsWith("oa:"))V.voz=sel.value.slice(3);}}
+  sel.innerHTML=temEl?`<optgroup label="Vozes do ElevenLabs"><option value="el:${VOZ_PADRAO_EL.id}">${VOZ_PADRAO_EL.nome}</option>${outras.map(v=>`<option value="el:${esc(v.id)}">${esc(v.nome)}${v.br?" · BR":""}</option>`).join("")}</optgroup>`
+    :`<option value="" disabled selected>Cole a chave do ElevenLabs na aba Marca</option>`;
+  if(temEl){sel.value=[...sel.options].some(o=>o.value===atual)?atual:"el:"+VOZ_PADRAO_EL.id;}if(V)V.vozSel=sel.value;}
 
 /* ---------------- roteiro ---------------- */
 const cortaP=(s,n)=>{const w=palavras(s);return w.length>n?w.slice(0,n).join(" ").replace(/[,;:]$/,"")+".":w.join(" ");};
@@ -590,7 +589,9 @@ async function gravar(){if(!V||gravando)return false;const c=cv();
   try{await downloads.save({filename:nome,data:blob});st((ext==="mp4"?"Vídeo MP4 pronto e baixado":"Vídeo baixado em WebM (este navegador não grava MP4; no Chrome atualizado ou no Safari sai em MP4)")+(V._buf?", com narração e legenda":", sem narração")+(mus?" e trilha de fundo.":"."),"ok");return true;}
   catch(e){st("Não consegui baixar o vídeo.","err");return false;}}
 // um toque: roteiro com IA → narração → legenda sincronizada → MP4
-async function tudo(){if(!V)return;if(V._pronto&&V._buf){await gravar();return;} // vídeo pronto do robô: só gravarif(!oaKey()&&!elKey()&&!fishKey()){st("Para sair tudo pronto, coloque a chave da OpenAI na aba Marca.","err");return;}
+async function tudo(){if(!V)return;
+  if(V._pronto&&V._buf){await gravar();return;} // vídeo pronto do robô: só gravar
+  if(!elKey()){st("Para a narração, coloque a chave do ElevenLabs na aba Marca.","err");return;}
   $v("vTudo").disabled=true;try{if(iaOk())await roteiroIA("ficha");if(!await narrar())return;await gravar();}finally{$v("vTudo").disabled=false;}}
 
 /* ---------------- tela ---------------- */
@@ -657,7 +658,7 @@ function ligarTela(){if(!$v("vCanvas"))return;
   ["vcCap","vcNarr","vcValor","vcRot","vcItens"].forEach(id=>$v(id).addEventListener("input",editar));["vcTipo","vcObj"].forEach(id=>$v(id).addEventListener("change",editar));
   if($v("vCor"))$v("vCor").addEventListener("click",e=>{const b=e.target.closest("[data-vcor]");if(!b||!V)return;V.paleta=b.dataset.vcor;$v("vCor").querySelectorAll(".swc").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));quadro();salvar();});
   $v("vPerfil").onchange=e=>{V.handle=e.target.value;const f=V.cenas[V.cenas.length-1];if(f?.visual?.tipo==="fim"){f.narracao=fimTxt();V._buf=null;}renderLista();quadro();};
-  $v("vVoz").onchange=e=>{V.vozSel=e.target.value;LSv.set("rv-voz-sel",V.vozSel);if(V.vozSel.startsWith("oa:"))V.voz=V.vozSel.slice(3);if(!V._audioProprio){V._buf=null;}st("Voz trocada. Toque em Gerar narração.");quadro();};
+  $v("vVoz").onchange=e=>{V.vozSel=e.target.value;LSv.set("rv-voz-sel",V.vozSel);if(!V._audioProprio){V._buf=null;}st("Voz trocada. Toque em Gerar narração.");quadro();};
   $v("vIA").onclick=()=>roteiroIA("ficha");$v("vUsarMeu").onclick=()=>{const t=$v("vMeu").value.trim();if(!t){st("Escreva ou cole o seu roteiro: um parágrafo por cena.","err");return;}
     if(iaOk())roteiroIA("meu");else{V.cenas=roteiroDoTexto(t);pronto("Roteiro dividido em cenas. Ajuste o visual de cada uma se quiser.");}};
   $v("vFicha").onclick=()=>{V.cenas=roteiroDaFicha(V.noticia);pronto("Roteiro montado com a ficha da notícia.");};
