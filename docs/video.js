@@ -581,7 +581,7 @@ async function gravar(){if(!V||gravando)return false;const c=cv();
   try{await downloads.save({filename:nome,data:blob});st((ext==="mp4"?"Vídeo MP4 pronto e baixado":"Vídeo baixado em WebM (este navegador não grava MP4; no Chrome atualizado ou no Safari sai em MP4)")+(V._buf?", com narração e legenda":", sem narração")+(mus?" e trilha de fundo.":"."),"ok");return true;}
   catch(e){st("Não consegui baixar o vídeo.","err");return false;}}
 // um toque: roteiro com IA → narração → legenda sincronizada → MP4
-async function tudo(){if(!V)return;if(!oaKey()&&!elKey()&&!fishKey()){st("Para sair tudo pronto, coloque a chave da OpenAI na aba Marca.","err");return;}
+async function tudo(){if(!V)return;if(V._pronto&&V._buf){await gravar();return;} // vídeo pronto do robô: só gravarif(!oaKey()&&!elKey()&&!fishKey()){st("Para sair tudo pronto, coloque a chave da OpenAI na aba Marca.","err");return;}
   $v("vTudo").disabled=true;try{if(iaOk())await roteiroIA("ficha");if(!await narrar())return;await gravar();}finally{$v("vTudo").disabled=false;}}
 
 /* ---------------- tela ---------------- */
@@ -620,9 +620,25 @@ function abrir(n){const perfis=APP.perfis?APP.perfis():(typeof perfisOrd==="func
   $v("vMeu").value="";$v("vElKey").value=elKey()?"••••••••"+elKey().slice(-4):"";
   pronto(iaOk()?"Pronto para gerar. Toque em Fazer tudo para sair o vídeo pronto, ou vá passo a passo.":"Roteiro montado com a ficha. Coloque a chave da OpenAI na aba Marca para a IA e a narração.");
   const b=APP.marca?APP.marca(V):(typeof brandOf==="function"?brandOf(h):{});if(b?.fotoUrl||b?.foto)img(b.fotoUrl||blobSrc(b.foto));if(b?.logoUrl)img(b.logoUrl);}
-window.radarVideo={abrir,compor,quadroEm:t=>{const L=linha();desenhar(cv().getContext("2d"),t,L);return L;}};
+/* vídeos já narrados pelo robô do GitHub (coletor/narrar.py): roteiro + narração do ElevenLabs + tempo de cada palavra */
+let PRONTOS={};
+async function carregarProntos(){if(PFX!=="v")return;try{PRONTOS=(await (await fetch("data/videos/index.json?t="+Date.now())).json())||{};}catch(e){PRONTOS={};}marcarProntos();}
+function marcarProntos(){document.querySelectorAll("[data-video]").forEach(b=>{if(PRONTOS[b.dataset.video]&&!b.dataset.pronto){b.dataset.pronto="1";b.textContent="Vídeo pronto";b.classList.add("primary");b.title="Roteiro e narração já feitos: é só gravar";}});}
+async function abrirPronto(n){const info=PRONTOS[n.id];abrir(n);st("Carregando o vídeo pronto (roteiro e narração)…");
+  try{const url=info.pasta,base=url.slice(0,url.lastIndexOf("/")+1);const j=await (await fetch(url+"?t="+Date.now())).json();
+    const bufs=await Promise.all(j.cenas.map(c=>fetch(base+c.audio).then(x=>x.arrayBuffer()).then(ab=>actx().decodeAudioData(ab))));
+    V.cenas=j.cenas.map(c=>({cap:String(c.cap||""),narracao:String(c.narracao||""),visual:limpaVisual(c.visual,c.narracao)}));
+    if(j.perfil)V.handle=j.perfil;V.legendaPost=j.legenda||V.legendaPost;
+    const E=emendar(bufs);V._buf=E.buf;V._audioProprio=false;V._pronto=true;
+    V._durs=E.ini.map((s0,i)=>(i+1<E.ini.length?E.ini[i+1]:E.buf.duration+.3)-s0);V._tw=j.cenas.map(c=>Array.isArray(c.tw)?c.tw:null);
+    cur=0;renderLista();renderCena();quadro();
+    st(`Vídeo pronto: roteiro e narração do ElevenLabs já feitos (${Math.round(E.buf.duration)}s). Toque em Assistir ou Gravar vídeo.`,"ok");}
+  catch(e){st("Não consegui carregar o vídeo pronto; montei pela ficha da notícia.","err");}}
+if(PFX==="v"){carregarProntos();setInterval(carregarProntos,10*60e3);new MutationObserver(()=>marcarProntos()).observe(document.body,{childList:true,subtree:true});}
+window.radarVideo={abrir,abrirPronto,compor,quadroEm:t=>{const L=linha();desenhar(cv().getContext("2d"),t,L);return L;}};
 document.addEventListener("click",e=>{const b=e.target.closest(APP.botoes||"[data-video],#nbVideo");if(!b)return;e.stopPropagation();
-  const n=APP.noticiaDe?APP.noticiaDe(b):(NEWS.find(x=>x.id===(b.dataset.video||(typeof deck!=="undefined"&&deck?.noticiaId)))||(typeof deck!=="undefined"&&deck?.noticia));if(n)abrir(n);},true);
+  const n=APP.noticiaDe?APP.noticiaDe(b):(NEWS.find(x=>x.id===(b.dataset.video||(typeof deck!=="undefined"&&deck?.noticiaId)))||(typeof deck!=="undefined"&&deck?.noticia));if(!n)return;
+  if(PRONTOS[n.id])abrirPronto(n);else abrir(n);},true);
 
 /* ---------------- eventos ---------------- */
 function ligarTela(){if(!$v("vCanvas"))return;
