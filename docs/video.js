@@ -199,7 +199,9 @@ function temposPalavras(c,i,dur){const ws=palavras(c.narracao);if(V._tw&&V._tw[i
 // instante (dentro da cena) em que cada ator entra
 function entradas(c,i,dur){const at=(c.visual||{}).atores||[],ws=palavras(c.narracao).map(semAcento),tw=temposPalavras(c,i,dur);
   return at.map((a,k)=>{const gt=semAcento(String(a.gatilho||"").split(/\s+/)[0]);let j=gt?ws.findIndex(w=>w&&(w.startsWith(gt)||gt.startsWith(w)&&w.length>3)):-1;
-    if(j<0)j=Math.round(k/Math.max(1,at.length)*Math.max(0,ws.length-1)*.8);return Math.max(.05,(tw[j]??0)-.1);});}
+    if(j<0)j=Math.round(k/Math.max(1,at.length)*Math.max(0,ws.length-1)*.8);return Math.max(.05,(tw[j]??0)-.1);})
+    // o palco nunca começa vazio: o primeiro objeto (ou bloco de texto) entra logo no início da cena
+    .map((t,k,arr)=>{const p=at.findIndex(a=>a.tipo==="objeto"||a.tipo==="etiqueta");return k===p&&!(c.visual||{}).continua?Math.min(t,.25):t;});}
 // atores herdados: a cena com "continua" mantém o palco da anterior e só acrescenta
 function elenco(i,L){const c=V.cenas[i],v=c.visual||{},own=(v.atores||[]).map((a,k)=>({a,t:entradas(c,i,L.dur[i])[k],own:true}));
   if(!v.continua||i===0||(V.cenas[i-1].visual||{}).tipo!=="cena")return own;
