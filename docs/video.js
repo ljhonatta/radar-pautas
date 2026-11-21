@@ -336,7 +336,7 @@ async function vozOpenAI(txt,instr){const key=oaKey();if(!key)throw {code:"sem_c
 let EL_TROCA=null;
 async function vozDaConta(){const r=await fetch("https://api.elevenlabs.io/v1/voices",{headers:{"xi-api-key":elKey()}});if(!r.ok)return null;const vs=(await r.json()).voices||[];
   const br=v=>/portug|brazil|brasil|pt-br|\bpt\b/i.test(JSON.stringify(v.labels||{})+" "+(v.description||""));
-  return vs.find(v=>/yuri/i.test(v.name))||vs.find(br)||vs[0]||null;}
+  return vs.find(v=>v.voice_id===VOZ_PADRAO_EL.id)||vs.find(v=>/yuri/i.test(v.name))||vs.find(br)||vs[0]||{voice_id:VOZ_PADRAO_EL.id,name:"George"};}
 async function vozEleven(txt,voz,ant,dep){if(EL_TROCA&&EL_TROCA.de===voz)voz=EL_TROCA.para;
   const pede=v=>fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(v)}?output_format=mp3_44100_128`,{method:"POST",
     headers:{"xi-api-key":elKey(),"Content-Type":"application/json"},body:JSON.stringify({text:txt,model_id:"eleven_multilingual_v2",previous_text:ant||undefined,next_text:dep||undefined,
@@ -411,11 +411,13 @@ async function carregarVozesEleven(){const k=elKey();if(!k)return;try{const r=aw
     vs.sort((a,b)=>b.br-a.br||a.nome.localeCompare(b.nome));VOZES_EL=vs;renderVozes();st(`${vs.length} vozes do ElevenLabs carregadas${vs.some(v=>v.br)?" (as brasileiras aparecem primeiro)":""}.`,"ok");}
   catch(e){st("Não consegui ler suas vozes do ElevenLabs. Confira a chave.","err");}}
 let VOZES_EL=[];
-// voz padrão da narração: Yuri (ElevenLabs, brasileira, feita para redes sociais) — vale quando há chave do ElevenLabs
-const VOZ_PADRAO_EL={id:"WSBwiRQRmi2mEG7BfKwS",nome:"Yuri (padrão)"};
+// voz padrão da narração (ElevenLabs, quando há chave): George, voz padrão do ElevenLabs que existe em toda conta.
+// O Yuri (brasileiro) fica logo abaixo na lista como alternativa.
+const VOZ_PADRAO_EL={id:"JBFqnCBsd6RMkjVDRZzb",nome:"George (padrão)"};
+const VOZ_YURI={id:"WSBwiRQRmi2mEG7BfKwS",nome:"Yuri (brasileiro)"};
 function renderVozes(){const sel=$v("vVoz");if(!sel)return;const temEl=!!elKey();let atual=V?.vozSel||LSv.get("rv-voz-sel","");
   if(temEl&&(!atual||atual==="oa:ash"))atual="el:"+VOZ_PADRAO_EL.id; // com ElevenLabs ligado, o padrão é o Yuri
-  const outras=VOZES_EL.filter(v=>v.id!==VOZ_PADRAO_EL.id);
+  const outras=[VOZ_YURI,...VOZES_EL.filter(v=>v.id!==VOZ_YURI.id)].filter(v=>v.id!==VOZ_PADRAO_EL.id);
   sel.innerHTML=`<optgroup label="ElevenLabs (mais natural)"><option value="el:${VOZ_PADRAO_EL.id}"${temEl?"":" disabled"}>${VOZ_PADRAO_EL.nome}${temEl?"":" · cole a chave do ElevenLabs abaixo"}</option>${temEl?outras.map(v=>`<option value="el:${esc(v.id)}">${esc(v.nome)}${v.br?" · BR":""}</option>`).join(""):""}</optgroup>`+
     `<optgroup label="OpenAI (sotaque brasileiro por instrução)">${Object.entries(VOZES).map(([k,v])=>`<option value="oa:${k}">${v}</option>`).join("")}</optgroup>`+
     `<optgroup label="Fish Audio (sua voz)"><option value="fish"${fishKey()&&fishVoz()?"":" disabled"}>Fish Audio${fishVoz()?" · voz "+esc(fishVoz().slice(0,8)):" (configure abaixo)"}</option></optgroup>`;

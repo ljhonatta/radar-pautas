@@ -571,8 +571,8 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
             <input type="password" id="xFishKey" placeholder="chave do Fish Audio">
             <div class="row" style="gap:6px"><input type="text" id="xFishVoz" placeholder="ID da voz (reference_id)" style="flex:1;min-width:140px;width:auto"><button class="btn sm" id="xFishSalvar">Usar</button></div>
           </details>
-          <details class="field"><summary class="lbl" style="cursor:pointer">ElevenLabs · voz padrão: Yuri</summary>
-            <p class="note" style="margin-top:6px">Cole aqui a chave da API do ElevenLabs (elevenlabs.io → Developers → API keys). Com ela, a narração sai na voz brasileira do Yuri por padrão; dá para trocar na lista acima. A chave fica só neste navegador.</p>
+          <details class="field"><summary class="lbl" style="cursor:pointer">ElevenLabs · voz padrão: George</summary>
+            <p class="note" style="margin-top:6px">Cole aqui a chave da API do ElevenLabs (elevenlabs.io → Developers → API keys). Com ela, a narração sai na voz do George por padrão (o Yuri, brasileiro, está logo abaixo na lista). A chave fica só neste navegador.</p>
             <div class="row" style="gap:6px"><input type="password" id="xElKey" placeholder="chave do ElevenLabs" style="flex:1;min-width:140px;width:auto"><button class="btn sm" id="xElSalvar">Ligar</button><button class="btn sm ghost" id="xElRemover">Remover</button></div>
           </details>
           <div class="field"><span class="lbl">Ou use o seu áudio (MP3)</span><label class="btn sm" for="xAudio" style="cursor:pointer;align-self:flex-start">Enviar áudio</label><input type="file" id="xAudio" accept="audio/*" hidden></div>
@@ -633,7 +633,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);paddin
       <div class="row"><input type="password" id="aiKey" autocomplete="off" placeholder="sk-..." style="flex:1;min-width:220px;width:auto;border:1px solid var(--line);background:var(--raise);border-radius:8px;padding:8px 10px;font-size:13.5px"><button class="btn primary" id="aiSalvar">Salvar chave</button><button class="btn ghost" id="aiRemover">Remover</button></div>
       <span class="status" id="aiStatus"></span>
       <div class="field" style="margin-top:10px;border-top:1px solid var(--line);padding-top:12px"><span class="lbl">Chave do ElevenLabs (voz da narração dos vídeos)</span>
-        <p class="note" style="margin:0">Pegue em elevenlabs.io → Developers → API keys. Com ela, os vídeos saem na voz brasileira do Yuri. Fica só neste navegador.</p>
+        <p class="note" style="margin:0">Pegue em elevenlabs.io → Developers → API keys. Com ela, os vídeos saem na voz do George (dá para trocar pelo Yuri na aba Vídeo). Fica só neste navegador.</p>
         <div class="row"><input type="password" id="elKeyMarca" autocomplete="off" placeholder="sk_..." style="flex:1;min-width:220px;width:auto;border:1px solid var(--line);background:var(--raise);border-radius:8px;padding:8px 10px;font-size:13.5px"><button class="btn primary" id="elSalvarMarca">Salvar chave</button><button class="btn ghost" id="elRemoverMarca">Remover</button></div>
         <span class="status" id="elStatusMarca"></span>
       </div>
@@ -1683,7 +1683,7 @@ window.VIDEO_APP={pfx:"x",aba:"video2",semCores:true,botoes:"[data-vid]",
 <script>
 /* chave do ElevenLabs na aba Marca: mesma chave que o estúdio de vídeo usa (localStorage "rv-eleven-key") */
 (function(){const K="rv-eleven-key",g=()=>{try{return localStorage.getItem(K)||"";}catch(e){return "";}},s=v=>{try{v?localStorage.setItem(K,v):localStorage.removeItem(K);}catch(e){}};
- const st=()=>{const k=g();setStatus("elStatusMarca",k?"Chave salva (termina em "+k.slice(-4)+"). Os vídeos saem na voz do Yuri.":"Sem chave: a narração usa a voz da OpenAI.",k?"ok":"");};
+ const st=()=>{const k=g();setStatus("elStatusMarca",k?"Chave salva (termina em "+k.slice(-4)+"). Os vídeos saem na voz do George.":"Sem chave: a narração usa a voz da OpenAI.",k?"ok":"");};
  document.getElementById("elSalvarMarca").onclick=()=>{const v=document.getElementById("elKeyMarca").value.trim();if(v.length<20){setStatus("elStatusMarca","Cole a chave inteira do ElevenLabs.","err");return;}
    s(v);document.getElementById("elKeyMarca").value="";try{localStorage.removeItem("rv-voz-sel");}catch(e){}st();};
  document.getElementById("elRemoverMarca").onclick=()=>{s("");st();};st();})();
