@@ -343,9 +343,12 @@ async function vozEleven(txt,voz,ant,dep){if(EL_TROCA&&EL_TROCA.de===voz)voz=EL_
   const pede=v=>fetch(`https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(v)}?output_format=mp3_44100_128`,{method:"POST",
     headers:{"xi-api-key":elKey(),"Content-Type":"application/json"},body:JSON.stringify({text:txt,model_id:"eleven_multilingual_v2",previous_text:ant||undefined,next_text:dep||undefined,
       voice_settings:{stability:.32,similarity_boost:.8,style:.6,use_speaker_boost:true}})});
+  const espera=ms=>new Promise(x=>setTimeout(x,ms));
   let r=await pede(voz);
+  for(let t=1;r.status===429&&t<=6;t++){await espera(1500*t+Math.random()*700);r=await pede(EL_TROCA&&EL_TROCA.de===voz?EL_TROCA.para:voz);} // plano com poucos pedidos simultâneos: espera e tenta de novo
   if(r.status===404||r.status===400&&/voice/i.test(await r.clone().text())){const alt=await vozDaConta();
-    if(alt&&alt.voice_id!==voz){EL_TROCA={de:voz,para:alt.voice_id,nome:alt.name};r=await pede(alt.voice_id);}}
+    if(alt&&alt.voice_id!==voz){EL_TROCA={de:voz,para:alt.voice_id,nome:alt.name};r=await pede(alt.voice_id);
+      for(let t=1;r.status===429&&t<=6;t++){await espera(1500*t);r=await pede(alt.voice_id);}}}
   if(r.status===401)throw {code:"eleven_key"};
   if(!r.ok){let m="";try{const j=await r.json();m=j?.detail?.message||j?.detail?.status||(typeof j?.detail==="string"?j.detail:"");}catch(e){}throw {code:"eleven_"+r.status,msg:m};}
   return await r.arrayBuffer();}
@@ -394,12 +397,13 @@ async function narrar(){if(!V)return false;if(!textoNarr()){st("O roteiro está 
     const uma=async i=>{const t=pont(cs[i].narracao);if(!String(cs[i].narracao||"").trim()){bufs[i]=actx().createBuffer(1,Math.round(actx().sampleRate*.6),actx().sampleRate);return;}
       const mp3=usarFish?await vozFish(t):usarEl?await vozEleven(t,ev.slice(3),cs[i-1]?.narracao,cs[i+1]?.narracao):await vozOpenAI(t,direcao(cs[i],i,n));
       bufs[i]=aparar(await actx().decodeAudioData(mp3.slice(0)));feitos++;st(`Gravando a narração (${nome}): ${feitos} de ${n} cenas…`);};
-    const fila=[...Array(n).keys()];await Promise.all(Array.from({length:4},async()=>{while(fila.length)await uma(fila.shift());}));
+    const fila=[...Array(n).keys()],juntos=usarEl?2:usarFish?2:4; // o ElevenLabs aceita só 2 pedidos ao mesmo tempo nos planos menores
+    await Promise.all(Array.from({length:juntos},async()=>{while(fila.length)await uma(fila.shift());}));
     const E=emendar(bufs);V._buf=E.buf;V._audioProprio=false;st("Sincronizando a legenda com a fala…");
     const ouvidas=await ouvir(wav(E.buf),"audio/wav");alinharCenas(E,ouvidas);
     st(`Narração pronta (${Math.round(E.buf.duration)}s, com pausas entre as cenas)${ouvidas?", legenda no tempo exato da fala":""}${EL_TROCA?`. A voz escolhida não está na conta desta chave do ElevenLabs; usei "${EL_TROCA.nome}"`:""}. Toque em Assistir ou Gravar vídeo.`,"ok");return true;}
   catch(e){const c=e?.code||"";
-    if(/^eleven_/.test(c)&&oaKey()&&!V._semEleven){ // ElevenLabs recusou de vez: a narração sai na voz da OpenAI para o vídeo não parar
+    if(/^eleven_/.test(c)&&c!=="eleven_429"&&oaKey()&&!V._semEleven){ // ElevenLabs recusou de vez: a narração sai na voz da OpenAI para o vídeo não parar
       V._semEleven=true;const sel=$v("vVoz");sel.value="oa:ash";V.vozSel="oa:ash";V.voz="ash";$v("vNarrar").disabled=false;
       const ok=await narrar();V._semEleven=false;if(ok)st($v("vStatus").textContent+` (O ElevenLabs recusou: ${e.msg||c.slice(7)}. Esta narração saiu na voz da OpenAI; confira a chave do ElevenLabs na aba Marca.)`,"err");return ok;}
     st(c==="bad_key"?"A chave da OpenAI foi recusada.":c==="eleven_key"?"A chave do ElevenLabs foi recusada.":/^eleven_/.test(c)?"O ElevenLabs recusou ("+c.slice(7)+(e.msg?": "+e.msg:"")+"). Confira se a chave é do mesmo espaço de trabalho onde está a voz.":c==="fish_key"?"A chave do Fish Audio foi recusada.":c==="fish_credito"?"Sua conta do Fish Audio está sem crédito.":/^fish_/.test(c)?"O Fish Audio não respondeu ("+c.slice(5)+(e.msg?": "+e.msg:"")+").":c==="sem_chave"?"Coloque a chave da OpenAI na aba Marca.":"Não consegui gravar a narração agora ("+c+"). Tente de novo.","err");return false;}
