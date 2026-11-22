@@ -1,6 +1,345 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Como o IPO da Anthropic afeta seu negócio",
+  "resumo": "O IPO da Anthropic revelou a incerteza do mercado sobre empresas de IA. Isso impacta diretamente a confiança dos investidores e a estratégia de negócios das empresas do setor.",
+  "fatos": [
+   "A Anthropic levantou US$ 93,5 bilhões no IPO, a maior oferta da história.",
+   "As ações abriram a US$ 111,50 e fecharam a US$ 88,91 no segundo dia, caindo 8,5%.",
+   "A capitalização de mercado da Anthropic é próxima de US$ 1,2 trilhão.",
+   "A desvalorização ocorre em um contexto de queda no Nasdaq, que recuou 10%.",
+   "Investidores aportaram US$ 141 bilhões na Anthropic até setembro, incluindo US$ 26 bilhões de grandes empresas de tecnologia."
+  ],
+  "explicacao": [
+   "O IPO da Anthropic foi um marco no setor de tecnologia, mas a queda das ações mostra a cautela dos investidores com a valorização de empresas de inteligência artificial.",
+   "Essa volatilidade afeta a percepção de risco no mercado, de forma que investidores reavaliam suas estratégias para empresas do setor.",
+   "Valores elevados de avaliação levantam questões sobre a capacidade de retorno financeiro, especialmente diante de altos investimentos necessários."
+  ],
+  "materia": "A Anthropic protagonizou o maior IPO da história, levantando US$ 93,5 bilhões em sua estreia na Nasdaq , nos Estados Unidos, em 19 de novembro de 2026. Apesar da forte valorização inicial, as ações da desenvolvedora do Claude recuaram no pregão seguinte, em meio a um cenário de pessimismo no mercado de tecnologia e questionamentos sobre as avaliações das empresas de inteligência artificial (IA). O desempenho da companhia expôs um contraste entre o volume de recursos movimentado no mercado privado e a reação dos investidores na Bolsa. Mesmo com uma operação histórica e participações bilionárias para fundos de venture capital, a Anthropic encerrou a primeira semana de negociações com suas ações próximas do preço estabelecido na oferta pública, enquanto outras gigantes de tecnologia também enfrentavam perdas. O sucesso do IPO não se sustentou na Bolsa A Anthropic definiu o preço de suas ações em US$ 83 durante o IPO . No primeiro dia de negociações, os papéis chegaram a US$ 111,50 na abertura e encerraram o pregão com valorização de aproximadamente 17%. O movimento, entretanto, perdeu força rapidamente. Na sexta-feira (20), as ações fecharam cotadas a US$ 88,91 , uma queda de 8,5% em relação ao encerramento do dia anterior. Nas negociações após o fechamento, chegaram a US$ 87,80, com recuo adicional de 1,25%. Apesar da desvalorização, os papéis ainda estavam acima do preço definido no IPO. A capitalização de mercado da Anthropic ficou próxima de US$ 1,2 trilhão, enquanto sua avaliação totalmente diluída chegou a aproximadamente US$ 1,6 trilhão. A Reuters destaca que a empresa estava sendo negociada por cerca de 40 vezes sua receita dos últimos 12 meses. A avaliação elevada contribuiu para as preocupações sobre a capacidade de sustentar o valor das ações, especialmente em um momento de maior cautela dos investidores. A queda também ocorreu em meio a perdas generalizadas no setor. Segundo a CNBC , o Nasdaq recuou 10% nos cinco pregões da semana, em seu pior desempenho desde os primeiros meses da pandemia de Covid-19, em 2020. A Nvidia acumulou desvalorização semanal de 23%, a maior em 18 anos, enquanto Meta, Amazon e Microsoft também registraram perdas. Para Robert Pavlik, gestor sênior de portfólio da Dakota Wealth, a reação não significa necessariamente que os investidores tenham perdido a confiança na Anthropic. Em declaração à Reuters, ele afirmou que o ceticismo está relacionado ao mercado como um todo, e não a problemas específicos da empresa, de sua administração ou de seu negócio. Mercado privado e Bolsa apresentam dinâmicas diferentes O tamanho do IPO da Anthropic também chama atenção quando comparado ao histórico recente de abertura de capital de empresas de tecnologia. A companhia levantou US$ 93,5 bilhões na oferta pública e recebeu outros US$ 26 bilhões de grandes empresas de tecnologia que compraram ações pelo preço estabelecido no IPO. Até setembro, investidores haviam aportado US$ 141 bilhões na Anthropic, segundo informações do prospecto da companhia citadas pela CNBC. Parte desse capital veio de fundos de venture capital que agora possuem participações avaliadas em dezenas de bilhões de dólares. Menlo Ventures e Lightspeed Venture Partners, por exemplo, tinham aproximadamente US$ 25 bilhões em ações da Anthropic cada uma, considerando o preço do IPO. Já a participação da Bessemer Venture Partners estava avaliada em cerca de US$ 10 bilhões. Esse resultado contrasta com um período de menor atividade no mercado de ofertas públicas. De acordo com dados do professor emérito da Universidade da Flórida Jay Ritter, os IPOs de empresas apoiadas por venture capital movimentaram US$ 73 bilhões em 2021. Nos quatro anos seguintes, o total somado foi de apenas US$ 39 bilhões. A quantidade de empresas de tecnologia que abriram capital também diminuiu. Em 2021, foram 126 companhias, contra 34 em 2025. Nesse intervalo, muitas startups que planejavam chegar à Bolsa enfrentaram cortes de empregos, rodadas de investimento com avaliaç",
+  "numeros": [
+   {
+    "valor": "93,5 bilhões",
+    "rotulo": "recursos levantados no IPO"
+   },
+   {
+    "valor": "88,91",
+    "rotulo": "preço das ações após queda"
+   },
+   {
+    "valor": "1,2 trilhões",
+    "rotulo": "capitalização de mercado da Anthropic"
+   },
+   {
+    "valor": "141 bilhões",
+    "rotulo": "investimentos na Anthropic até setembro"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "temor de instabilidade no mercado e redução de vendas",
+  "angulo": "A movimentação do IPO da Anthropic evidencia a necessidade de um planejamento estratégico robusto e de marketing digital, para que empresas do setor se adaptem a esse novo cenário.",
+  "gancho": "O *paradoxo do IPO* e suas implicações",
+  "ideias": [
+   "O impacto do IPO da Anthropic em seu negócio",
+   "Como a volatilidade do mercado afeta o setor de IA",
+   "Por que planejar marketing diante das incertezas do mercado"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://olhardigital.com.br/2026/11/21/pro/anthropic-e-o-paradoxo-do-ipo-bilionario/",
+  "publicadoEm": "2026-11-21T14:29:14-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-16"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento das compras online no Ceará: entenda o impacto",
+  "resumo": "O Ceará viu um aumento de 37,3% nas compras online, mas o gasto médio caiu. Como isso afeta seu negócio?",
+  "fatos": [
+   "As compras online no Ceará cresceram 37,3% de janeiro a outubro de 2026.",
+   "O valor médio dos pedidos caiu 13,7% em comparação ao mesmo período do ano passado.",
+   "O Ceará registrou 30,3 milhões de pedidos, movimentando R$ 10 bilhões.",
+   "O faturamento cresceu 18,5%, metade do avanço em quantidade de compras.",
+   "O tíquete médio foi de R$ 331,24, 25% superior à média nacional de R$ 265,88.",
+   "A Black Friday está marcada para 27 de novembro, com aumento da demanda.",
+   "A Amazon abriu 584 vagas temporárias no Ceará para atender a demanda de compras online."
+  ],
+  "explicacao": [
+   "O crescimento no volume de pedidos indica uma maior movimentação no e-commerce, mas a queda no valor médio sugere uma mudança no comportamento do consumidor, que busca mais transações de menor valor.",
+   "Embora o faturamento tenha crescido, a redução no tíquete médio traz reflexões sobre como os lojistas devem ajustar suas estratégias de marketing e atendimento.",
+   "Com a proximidade da Black Friday, essas alterações no gasto do consumidor exigem que as empresas se preparem para cumprir prazos de entrega e manter a eficiência logística."
+  ],
+  "materia": "As compras online no Ceará cresceram 37,3% em quantidade de pedidos entre janeiro e outubro de 2026, mas o valor médio de cada compra caiu 13,7% na comparação com o mesmo período do ano passado. A diferença revela um mercado em que a movimentação de encomendas avança mais rapidamente que o dinheiro gasto pelos consumidores , às vésperas da Black Friday. Segundo levantamento da Confi/Neotrust, divulgado pelo E-Commerce Brasil, o Estado recebeu 30,3 milhões de pedidos , que movimentaram R$ 10 bilhões. O faturamento cresceu 18,5% no período, praticamente metade do avanço percentual registrado na quantidade de compras. A diferença aparece no tíquete médio, que chegou a R$ 331,24 por pedido . Isso significa que o comércio eletrônico passou a registrar mais transações, embora cada uma represente, em média, um valor meno r. O indicador, isoladamente, não permite concluir que as lojas estejam lucrando menos. O comportamento das compras online no Ceará acompanha uma tendência brasileira, mas com crescimento mais acelerado no volume de pedidos. No País, o indicador avançou 34,4% , enquanto o faturamento aumentou 16,6% nos dez primeiros meses do ano, conforme a mesma pesquisa. Mesmo com a redução do valor médio, o Ceará manteve um tíquete aproximadamente 25% superior à média nacional , de R$ 265,88. Essa diferença mostra que a queda registrada no Estado não eliminou a distância em relação ao padrão brasileiro de gasto por compra. Para as operações de comércio eletrônico, a quantidade de pedidos também importa porque cada encomenda precisa passar por etapas de separação, expedição e transporte. Com a Black Friday marcada para 27 de novembro, a Amazon abriu 584 vagas temporárias no Estado para reforçar a logística das compras online no Ceará. Os novos postos atendem atividades como recebimento, separação e envio de mercadorias durante o período de maior demanda. A Shopee também chega à campanha com uma estrutura maior que a da Black Friday de 2025 . Em maio, inaugurou seu primeiro centro de distribuição cearense, em Itaitinga, na Grande Fortaleza. A unidade utiliza o modelo cross-docking , que permite encaminhar produtos para entrega sem armazená-los por longos períodos. Além do centro de distribuição, a empresa mantém cinco hubs logísticos e mais de 90 Agências Shopee no Ceará. A rede atende diferentes etapas do transporte e oferece pontos de coleta, retirada e devolução de encomendas. A Black Friday será o próximo teste para esse reforço logístico, diante do crescimento das compras online no Ceará ao longo de 2026. Com mais encomendas previstas para a campanha, o resultado mais importante para os consumidores será o cumprimento dos prazos de entrega, especialmente nas cidades atendidas fora da capital.",
+  "numeros": [
+   {
+    "valor": "30,3 milhões",
+    "rotulo": "pedidos realizados"
+   },
+   {
+    "valor": "R$ 10 bilhões",
+    "rotulo": "movimentação total"
+   },
+   {
+    "valor": "584",
+    "rotulo": "vagas temporárias abertas pela Amazon"
+   }
+  ],
+  "fonte": "Economic News Brasil",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "vendas menores devido ao comportamento do consumidor",
+  "angulo": "Entender esses dados pode ajudar os empresários a ajustarem suas estratégias de marketing e aquisição, aproveitando o aumento no volume de pedidos.",
+  "gancho": "*Compras online no Ceará*: um crescimento a ser explorado",
+  "ideias": [
+   "Como a Black Friday afeta suas vendas?",
+   "Entenda o comportamento do consumidor cearense",
+   "Dicas para otimizar suas vendas online agora"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://economicnewsbrasil.com.br/2026/11/21/compras-online-no-ceara-pedidos-valor-medio/",
+  "publicadoEm": "2026-11-21T14:07:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-15"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday: IA facilita compras, mas gera riscos de fraudes",
+  "resumo": "Durante a Black Friday, a inteligência artificial ajuda a encontrar ofertas, mas também pode ser usada para criar golpes personalizados. Cuidado é essencial para evitar prejuízos.",
+  "fatos": [
+   "A IA pode facilitar a procura de ofertas e criar fraudes mais convincentes.",
+   "Criminosos usam IA para desenvolver anúncios falsos e explorar interesses pessoais dos consumidores.",
+   "Fraudes se aproveitam da personalização, aumentando as chances de enganar os consumidores.",
+   "Práticas fraudulentas incluem manipulação de ofertas e preços artificialmente elevados.",
+   "Recomenda-se acessar apenas os canais oficiais para evitar golpes."
+  ],
+  "explicacao": [
+   "A IA transforma a experiência de compra, mas também a torna vulnerável a fraudes.",
+   "Criminosos utilizam dados pessoais para criar anúncios direcionados e enganadores.",
+   "Com a manipulação de preços e prazos, o consumidor deve ser cauteloso durante a Black Friday."
+  ],
+  "materia": "A inteligência artificial pode facilitar as compras durante a Black Friday, mas também oferece recursos para a criação de fraudes mais convincentes e direcionadas. Enquanto assistentes virtuais ajudam consumidores a localizar produtos, comparar preços e acompanhar pedidos, criminosos podem utilizar a mesma tecnologia para desenvolver anúncios falsos, reproduzir a imagem de artistas e influenciadores e explorar interesses pessoais para induzir compras por impulso. Para Fernando Amatte , Information Security Advisor do Oakmont Group, a personalização é um dos principais pontos de atenção. Sistemas de IA analisam hábitos de compra, preferências e histórico de consumo para recomendar produtos e apresentar promoções relevantes. Nas mãos de criminosos, esses recursos permitem criar abordagens fraudulentas alinhadas ao perfil de cada consumidor, aumentando as chances de enganá-lo. A manipulação também pode envolver mensagens que simulam escassez ou exclusividade, como “últimas unidades” e “oferta imperdível”, mesmo quando essas condições não correspondem à realidade. O objetivo é provocar uma sensação de urgência e reduzir o tempo dedicado à avaliação da redução do preço. “Na Black Friday, a IA pode ajudar você a encontrar a melhor oferta, mas também pode ajudar um criminoso a construir o golpe perfeito”, alerta Amatte. Para evitar fraudes, o especialista recomenda acessar diretamente os canais oficiais das lojas e fabricantes, sem utilizar links recebidos por mensagens ou anúncios suspeitos. Também é importante conferir a identidade do vendedor e a confiabilidade do meio de pagamento. A aparência profissional de uma página, a presença de uma pessoa conhecida em um anúncio ou uma promoção alinhada aos interesses do consumidor não garantem a legitimidade da oferta. Outro cuidado envolve a chamada “Black Fraude”, prática em que preços são elevados antes do período promocional para simular descontos maiores durante a campanha. Nesse caso, assistentes de IA podem ajudar a acompanhar o histórico de preços e comparar valores, oferecendo mais elementos para identificar reduções artificiais. “A compra por impulso pode te levar a uma fraude planejada”, adverte Amatte. Descontos muito distantes dos preços normalmente praticados merecem atenção redobrada, especialmente quando acompanhados de prazos curtos para pagamento ou condições aparentemente vantajosas. Além da segurança nas compras, a inteligência artificial também pode melhorar a experiência do consumidor e a operação do varejo. Chatbots e assistentes virtuais permitem atendimento durante 24 horas, esclarecem dúvidas, ajudam a localizar produtos mesmo quando o cliente não sabe exatamente como procurá-los e fornecem informações sobre pedidos. Nas empresas, a tecnologia também contribui para prever a demanda e organizar os estoques de acordo com o comportamento de consumo. Para Amatte, o avanço da IA exige atenção tanto às oportunidades de uso quanto às novas possibilidades de fraude. Na Black Friday, verificar a origem das ofertas e a legitimidade dos canais de venda continua sendo fundamental para aproveitar os descontos sem transformar uma compra em prejuízo.",
+  "numeros": [],
+  "fonte": "Cyber Security Brazil",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perda financeira por fraudes em compras online",
+  "angulo": "Nesta Black Friday, mostre como a gestão de redes e um site seguro podem proteger seu consumidor e fortalecer suas vendas.",
+  "gancho": "Cuidado: *fraudes podem estar a um clique*",
+  "ideias": [
+   "Como a IA pode ajudar ou prejudicar sua Black Friday?",
+   "Dicas para evitar fraudes na hora das compras",
+   "Entenda como a personalização pode ser uma armadilha"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://www.cybersecbrazil.com.br/post/black-friday-ia-ajuda-a-encontrar-ofertas-mas-tamb%C3%A9m-pode-criar-golpes-personalizados",
+  "publicadoEm": "2026-11-21T19:33:56-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Prepare-se: vendas de R$ 9 bilhões na Black Friday e Natal",
+  "resumo": "Com a Black Friday e Natal se aproximando, a expectativa é de movimentação de R$ 9,04 bilhões no varejo de Campinas. Lojistas devem se antecipar com promoções e contratações temporárias.",
+  "fatos": [
+   "A Black Friday e o Natal devem movimentar R$ 9,04 bilhões no varejo de Campinas e região.",
+   "A Black Friday deve gerar R$ 1,38 bilhão, um aumento de 7,5% em relação a 2025.",
+   "As vendas para o Natal devem alcançar R$ 7,66 bilhões, alta de 5%.",
+   "A ACIC prevê a contratação de 14 mil trabalhadores temporários na região para atender à demanda.",
+   "Lojistas estão se preparando com promoções antecipadas e liquidações para atrair clientes."
+  ],
+  "explicacao": [
+   "As datas de Black Friday e Natal são importantes para o aumento das vendas, especialmente devido ao pagamento do 13º salário.",
+   "Alguns comerciantes utilizam promoções antecipadas para maximizar as vendas, mas devem estar atentos aos custos.",
+   "Contratar trabalhadores temporários é uma estratégia para atender o aumento no fluxo de clientes durante esse período."
+  ],
+  "materia": "Por Victor Hugo Bittencourt, EPTV e g1 Campinas e Região A Black Friday e o Natal devem movimentar R$ 9,04 bilhões no varejo de Campinas e região. A projeção é da Associação Comercial e Industrial de Campinas. A Black Friday, na sexta-feira (27), deve gerar R$ 1,38 bilhão. Já as vendas de Natal devem alcançar R$ 7,66 bilhões na região. Lojistas preparam promoções antecipadas e liquidações para atrair clientes. O contador Rodrigo Leite orienta os comerciantes a calcularem todos os custos antes de definirem os descontos. Para atender a demanda de fim de ano, a associação prevê a contratação de cerca de 14 mil trabalhadores temporários na região de Campinas. Black Friday deve movimentar R$ 1 bilhão no comércio de Campinas A Black Friday e o Natal devem movimentar R$ 9,04 bilhões no varejo de Campinas e região neste fim de ano. A projeção é do Departamento de Economia da Associação Comercial e Industrial de Campinas (ACIC). Só a Black Friday, em 27 de novembro, deve gerar R$ 1,38 bilhão em vendas, valor 7,5% maior que o de 2025. Para o Natal, a expectativa é de R$ 7,66 bilhões, alta de 5%. Segundo a ACIC, o cenário é de otimismo, apesar da “insegurança econômica e política mundial”. O economista Mario Eduardo Campos afirma que o apelo das datas e o pagamento do 13º salário favorecem as compras. Em shoppings e lojas de rua, as vitrines já anunciam promoções. Para a consumidora Ana Júlia Araújo, os descontos despertam a vontade de comprar. “Dá aquela ansiedade, né? E acaba comprando”, diz. Em uma loja de cosméticos de um shopping de Campinas, as vendas cresceram com as promoções, principalmente nos fins de semana. Além dos produtos de R$ 10, o estabelecimento montou uma bancada com itens de R$ 1 a R$ 7. Segundo a gerente Andressa dos Santos, a ação é um “esquenta” para uma promoção ainda maior no fim do mês. Os descontos podem atrair clientes e aumentar as vendas, mas também reduzir o lucro dos comerciantes. O contador Rodrigo Leite, sócio da Move Contabilidade Consultiva, orienta os lojistas a considerar todos os custos do negócio antes de definir as promoções. “Importante ele olhar a precificação dele, qual a margem, o ponto máximo que ele pode oferecer aquele produto, e lembrando, colocando os custos adicionais também, como folha de pagamento, aluguel e outros custo para se manter aberto, porque se ele olhar a relação somente de produto versos venda pode ser que ele possa estar tendo um prejuizo”, diz o especialista. Em uma loja de roupas para adolescentes, a estratégia é aproveitar a Black Friday para abrir espaço para novas coleções. A liquidação começou no início do mês e já resultou na venda de mais de 500 peças. Os preços foram reduzidos conforme a oferta e a procura. Para facilitar a identificação dos descontos, as peças receberam bolinhas coloridas. “São últimas peças, a gente prefere colocar na liquidação do que trabalhar as últimas peças numa venda nova”, diz a comerciante Bruna Novello. Os produtos em promoção na entrada também atraem clientes para conhecer o restante da loja e, em alguns casos, comprar outros itens. Para os consumidores, Leite recomenda avaliar a necessidade da compra e acompanhar os preços ao longo do tempo para verificar se o desconto é real. “Hoje a gente tem que analisar muito bem: eu preciso desse produto? Se precisa, vai lá, aproveita”, afirma.Há também quem espere a data para antecipar os presentes de Natal. “Chega nessa época, a gente quer comprar e presentear a família toda para o Natal”, conta Roseli Araujo. A ACIC prevê a contratação de cerca de 14 mil trabalhadores temporários na região, alta de 4,2% em relação a 2025. Outro atrativo será o Natal Caminhos dos Sonhos, realizado pela Prefeitura de Campinas em parceria com a associação. Com o tema Estações Encantadas, a programação vai de 27 de novembro a 24 de dezembro. As atrações serão gratuitas e ocorrerão principalmente na região central. Entre os destaques estão a Vila do Papai Noel, no Largo do Rosário, e a Parada de Natal, na Avenida F",
+  "numeros": [
+   {
+    "valor": "14 mil",
+    "rotulo": "trabalhadores temporários contratados"
+   },
+   {
+    "valor": "R$ 9,04 bilhões",
+    "rotulo": "movimentação esperada no varejo"
+   },
+   {
+    "valor": "R$ 1,38 bilhão",
+    "rotulo": "vendas na Black Friday"
+   },
+   {
+    "valor": "R$ 7,66 bilhões",
+    "rotulo": "vendas no Natal"
+   },
+   {
+    "valor": "4,2%",
+    "rotulo": "aumento na contratação de temporários"
+   }
+  ],
+  "fonte": "G1",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "O comerciante teme prejuízos com descontos mal calculados.",
+  "angulo": "Entender como a demanda aumenta nas datas festivas e como um bom planejamento de marketing pode minimizar riscos financeiros é essencial para o sucesso do negócio.",
+  "gancho": "E você, já está pronto para a *temporada de",
+  "ideias": [
+   "Dicas para aproveitar a Black Friday ao máximo",
+   "Como as promoções podem impactar os lucros",
+   "Preparação: o que considerar antes de promover grandes descontos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/black-friday-e-natal-devem-movimentar-r-9-bilhoes-no-comercio-de-campinas-e-regiao.ghtml",
+  "publicadoEm": "2026-11-21T20:47:43-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como Black Friday e Natal impactam o varejo local",
+  "resumo": "Com a expectativa de movimentar R$ 9 bilhões, Black Friday e Natal são momentos cruciais para o varejo de Campinas e região. Empresários devem se preparar para aproveitar essa oportunidade.",
+  "fatos": [
+   "A Black Friday e o Natal devem movimentar R$ 9 bilhões no varejo de Campinas e região.",
+   "Essas datas são essenciais para impulsionar as vendas no comércio local.",
+   "Empresários precisam se preparar e adotar estratégias de marketing eficazes."
+  ],
+  "explicacao": [
+   "As datas possuem grande relevância para o varejo, porque representam um aumento significativo nas vendas.",
+   "Para se destacar e captar mais clientes, o planejamento e a execução de estratégias de marketing são vitais.",
+   "Com a concorrência acirrada, o uso de ferramentas digitais e anúncios pode fazer a diferença nos resultados."
+  ],
+  "materia": "",
+  "numeros": [],
+  "fonte": "Portal VV8",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local"
+  ],
+  "dor": "Perder vendas e clientes para a concorrência.",
+  "angulo": "A movimentação do mercado nas datas mostra como um planejamento adequado pode trazer resultados. Conheça nossos serviços de marketing.",
+  "gancho": "Aproveite *a chance de vender mais*!",
+  "ideias": [
+   "Preparativos para as grandes vendas",
+   "Dicas para um Natal de sucesso",
+   "Como se destacar na Black Friday"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://portalvv8.com.br/noticia/86723/black-friday-e-natal-devem-movimentar-r-9-bilhoes-no-varejo-de-campinas-e-regiao/amp",
+  "publicadoEm": "2026-11-21T21:01:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday: O desafio de valorizar sua marca",
+  "resumo": "Consumidores se tornam mais seletivos, exigindo que as marcas construam valor além dos descontos. Entenda como isso pode impactar suas vendas e estratégias de marketing.",
+  "fatos": [
+   "90% dos consumidores brasileiros adotaram ao menos um comportamento de trade-down, como redução de quantidade ou adiamento de compras.",
+   "O anticonsumo inteligente cresce à medida que consumidores se tornam mais criteriosos em suas escolhas.",
+   "Marcas enfrentam a pressão de vender, mas precisam concentrar-se em valor e não apenas em preço.",
+   "O design dos produtos é crucial para criar percepção de valor em um mar de ofertas similares.",
+   "Posicionamento claro das marcas ajuda a construir razões para escolhas fora do período promocional."
+  ],
+  "explicacao": [
+   "A Black Friday é um momento de intensa competição pelo consumidor, que está mais consciente sobre suas compras.",
+   "Marcas que se diferenciam por design e posicionamento têm mais chances de conquistar o cliente, reduzindo a pegada letárgica do preço como critério único.",
+   "É essencial que as empresas tenham uma gestão estratégica eficaz, especialmente em períodos de alta demanda, para alinhar campanhas e objetivos."
+  ],
+  "materia": "Com consumidores mais seletivos e expostos a um volume crescente de promoções, data amplia desafio do varejo de construir valor para além do desconto A Black Friday é marcada por urgência, promoções e uma disputa intensa pela atenção do consumidor. Mas, em um cenário de compras mais planejadas, aumentar descontos e estímulos pode não ser suficiente para garantir a escolha. Pesquisa da McKinsey mostra que 90% dos consumidores brasileiros adotaram ao menos um comportamento de trade-down, como reduzir quantidades, adiar compras ou buscar alternativas mais econômicas. O dado reforça um movimento de maior seletividade e ajuda a explicar o avanço do chamado anticonsumo inteligente, marcado por menos impulso e mais critério na decisão de compra. Para as marcas, surge um paradoxo: justamente quando cresce a pressão para vender, também aumenta a necessidade de ir além de preço e urgência. Na Black Friday, o desafio passa a ser construir valor suficiente para convencer um consumidor cada vez mais disposto a simplesmente não comprar. Pensando nesse cenário, quatro executivos apontam diferentes razões pelas quais reduzir o excesso de estímulos pode ajudar as marcas a construir mais valor e relevância na Black Friday. 1. Design pode evitar que a disputa termine no menor preço Em uma data marcada pela comparação entre inúmeras ofertas, marcas que não conseguem tornar sua diferenciação visível correm o risco de transformar o preço no principal critério de escolha. Nesse cenário, design deixa de ser apenas uma questão estética e passa a influenciar diretamente a percepção de valor. Para Moisés Hansen, Co-fundador e Diretor de Negócios da Valkiria Inteligência Criativa, a apresentação de um produto e seus diversos aspectos pode ser determinante para evitar essa equiparação. “Na Black Friday, o consumidor encontra muitas opções semelhantes em pouco tempo. Se ele não consegue perceber rapidamente o que diferencia uma oferta, a decisão tende a cair no preço. O design ajuda justamente a traduzir qualidade, posicionamento e proposta de valor em elementos concretos, como desenho, materiais e acabamentos, funcionalidades, identidade visual, embalagem e experiência de uso. É aí que o investimento começa a gerar retorno para o negócio.” 2. Posicionamento cria razões para a escolha além da promoção O desconto pode funcionar como estímulo imediato, mas não necessariamente cria preferência. Quando diferentes marcas recorrem aos mesmos argumentos de urgência e preço, aumenta o risco de a escolha ser definida apenas pela melhor oferta do momento. Segundo Carolina Fernandes, Fundadora e CEO da Cubo Comunicação, um posicionamento claro ajuda a ampliar os critérios considerados pelo consumidor. “Quando todas as marcas entram na mesma lógica de desconto, urgência e volume de mensagens, o consumidor tende a escolher simplesmente quem oferece a melhor condição. O posicionamento ajuda a tirar a disputa desse lugar e cria outras razões para a marca ser escolhida, inclusive fora do período promocional.” 3. Picos de demanda aumentam a necessidade de senioridade no marketing A Black Friday também concentra decisões dentro das empresas. Em poucas semanas, áreas de marketing precisam coordenar campanhas, mídia, canais, parceiros, metas e equipes, muitas vezes sem uma liderança sênior dedicada exclusivamente à estratégia. É nesse contexto que modelos mais flexíveis de gestão ganham espaço. Para Gabriela Sterenberg, Fundadora da Artesania Marketing e pioneira no modelo de CMO as a Service no Brasil, esse formato permite às empresas acessar senioridade sem necessariamente ampliar a estrutura fixa. “Momentos de alta demanda aumentam a complexidade do marketing e expõem rapidamente quando existem muitas ações acontecendo, mas pouca coordenação estratégica. O CMO as a Service entra justamente para organizar prioridades, direcionar times e parceiros e conectar as iniciativas aos objetivos do negócio, trazendo essa visão executiva de forma flexível.” 4. Excesso de comunicação p",
+  "numeros": [
+   {
+    "valor": "20,7%",
+    "rotulo": "crescimento esperado no comércio eletrônico"
+   }
+  ],
+  "fonte": "Confederação Nacional de Dirigentes Lojistas",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "A perda de relevância das ofertas e da marca no mercado.",
+  "angulo": "Com as mudanças no comportamento do consumidor, é vital que empresas priorizem estratégias que valorizem seus produtos e sua comunicação.",
+  "gancho": "Como *diferenciar sua marca* na Black Friday?",
+  "ideias": [
+   "Aumente suas vendas com design",
+   "Estratégias que vão além do preço",
+   "O impacto do anticonsumo na sua marca"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://cndl.org.br/varejosa/black-friday-em-tempos-de-anticonsumo-4-razoes-do-por-que-estimular-menos-pode-ajudar-marcas-a-vender-melhor/",
+  "publicadoEm": "2026-11-21T21:11:08-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-vpr-11"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "O que a venda do Maksoud Plaza ensina sobre negócios?",
   "resumo": "O fechamento do Maksoud Plaza trouxe desafios financeiros que impactaram diretamente suas vendas. A transformação do hotel em condomínio pode servir de alerta para empresários do setor.",
   "fatos": [
@@ -552,6 +891,294 @@
   "publicadoEm": "2026-11-21T11:50:04-03:00",
   "data": "2026-11-21",
   "id": "2026-11-21-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "O desafio das tempestades: como isso impacta sua renda",
+  "resumo": "A devastação em Tupanciretã pode afetar a economia local. Entender como desastres naturais impactam o dia a dia é fundamental para evitar a dependência do salário.",
+  "fatos": [
+   "Uma tempestade devastou a cidade de Tupanciretã, Rio Grande do Sul, na madrugada de 20 de outubro.",
+   "Três pessoas morreram e cerca de 60 ficaram feridas devido ao tornado.",
+   "Das 8,6 mil casas na cidade, 8 mil sofreram destelhamento.",
+   "Ministros do governo federal vão atuar nas localidades afetadas.",
+   "O governador eleito, Luciano Zucco, também estará presente nas ações de recuperação."
+  ],
+  "explicacao": [
+   "Desastres naturais como tempestades impactam diretamente a infraestrutura e a economia local.",
+   "A forte destruição das casas em Tupanciretã pode levar a uma crise de emprego e aumento do custo de vida.",
+   "Aprender sobre o mercado financeiro se torna uma habilidade essencial para reduzir a dependência de uma única fonte de renda."
+  ],
+  "materia": "O presidente Luiz Inácio Lula da Silva prestou solidariedade neste sábado (21) aos atingidos pelas tempestades no Rio Grande do Sul . O temporal devastou a cidade de Tupanciretã , na madrugada de sexta-feira (20). Três pessoas morreram e há cerca de 60 feridos. \"Vamos dar nossa solidariedade ao povo da cidade de Tupanciretã, no Rio Grande do Sul, porque teve um tornado lá. A informação que eu tive ontem é que, de 8,6 mil casas, 8 mil tiveram destelhamento, escolas [também]\", afirmou o presidente no início de uma live , com apresentação do deputado federal André Janones (Rede-MG), e veiculada pelas redes sociais . A transmissão ocorreu a partir da residência oficial da Granja do Torto, em Brasília. Lula também destacou a presença de autoridades do governo federal na cidade, como os ministros da Integração Nacional, Waldez Góes, e da Saúde, Alexandre Padilha, além das pastas da Casa Civil, do Desenvolvimento Agrário e do Desenvolvimento e Assistência Social, Família e Combate à Fome, que vão atuar nas localidades junto com representantes do governo estadual, incluindo o governador eleito, Luciano Zucco (PL). \"Vamos, mais uma vez, fazer todo o esforço possível para que a gente recupere a normalidade na cidade de Tupanciertã\", acrescentou Lula. Logo no começo da transmissão, o presidente disse que nunca havia ficado com rouquidão por tanto tempo, quadro que ele enfrenta por mais de uma semana. \"Espero que nos próximos dias eu esteja 100% curado\", afirmou, ao destacar que os diversos exames não apontaram nenhuma anormalidade preocupante. Para o presidente, os sintomas podem ser resultado do cansaço após um desgastante processo eleitoral. A rouquidão de Lula chegou a fazer com que o ministro do Meio Ambiente e Mudança do Clima, João Paulo Capobianco, lesse seu discurso durante a 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), na semana passada. Sobre COP31 , em Antália, no sul da Turquia, o presidente destacou o que considera a presença nesta edição a mais importante do país na história da COPs. \"Desta vez, o Brasil chegou altamente preparado com propostas. Foi o país que apresentou as melhores propostas\", disse Lula. Ele enfatizou, por exemplo, a proposta do mapa do caminho para o afastamento dos combustíveis fósseis, que são os principais causadores das mudanças climáticas, e da necessidade de garantir financiamento para que os países, especialmente os mais pobres, possam fazer uma transição justa. Ainda sobre as eleições, em que obteve virada histórica , Lula disse que havia grande expectativa no mundo inteiro. \"Houve um medo quando eu não ganhei no primeiro turno as eleições. Houve um certo pavor no mundo inteiro. Se o Brasil perdesse, seria uma derrota simbólica do país mais importante da América Latina, que ia perder o regime democrático. Então, o mundo inteiro estava inquieto.\" Lula confirmou que irá, na próxima sexta-feira (27), à Universidade Federal Fluminense (UFF), em Niterói (RJ), para agradecer aos estudantes que realizaram a primeira mobilização de rua após o primeiro turno das eleições, o que, segundo o presidente, impulsionou grandes marchas populares no país inteiro. \"Na sexta-feira da semana que vem, eu quero ir na Universidade [Federal] Fluminense, em Niterói, para fazer um agradecimento à coragem e à ousadia dos estudantes, que começaram a reviravolta da eleição no segundo turno.\"",
+  "numeros": [
+   {
+    "valor": "8,6 mil casas",
+    "rotulo": "número de casas afetadas"
+   },
+   {
+    "valor": "8 mil",
+    "rotulo": "casas destelhadas"
+   },
+   {
+    "valor": "3",
+    "rotulo": "vidas perdidas"
+   }
+  ],
+  "fonte": "Agência Brasil Política",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "dependência de um emprego regular e previsível.",
+  "angulo": "A devastação de Tupanciretã nos mostra como o inesperado pode afetar nossas finanças. Aprender sobre o mercado financeiro é um passo crucial para ter mais liberdade e segurança!",
+  "gancho": "Como *tempestades* podem impactar sua renda?",
+  "ideias": [
+   "Tempestades e suas consequências econômicas",
+   "A importância da educação financeira em desastres",
+   "Como evitar a dependência do salário"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade",
+  "publicadoEm": "2026-11-21T12:20:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Protestos em Lisboa revelam crise de custo de vida",
+  "resumo": "Milhares se manifestaram em Lisboa exigindo melhorias nas condições de vida. A crise habitacional e o aumento dos preços geram insatisfação no povo, refletindo uma realidade que também pode ser vista em outras cidades.",
+  "fatos": [
+   "Milhares participaram de um protesto em Lisboa no dia 21, sob forte chuva.",
+   "A manifestação foi organizada pela Confederação Geral dos Trabalhadores Portugueses (CGTP).",
+   "Os manifestantes exigiam aumentos salariais e medidas contra o aumento do custo de bens essenciais e moradia.",
+   "O rendimento médio anual em Portugal é 37% abaixo da média da UE em 2025.",
+   "A inflação em outubro foi de 3,8%, e os preços das casas dobraram desde 2017."
+  ],
+  "explicacao": [
+   "Os protestos refletem uma crescente insatisfação com a administração do governo e a falta de soluções para a crise habitacional.",
+   "A má gestão das necessidades da população gera um aumento nos custos de vida e na pressão sobre os cidadãos.",
+   "Essas manifestações em Lisboa são parte de um movimento maior que se espalha pela Europa, mostrando o descontentamento econômico."
+  ],
+  "materia": "Um protesto significativo tomou as ruas de Lisboa, atraindo milhares de pessoas que clamaram por melhores condições de vida em meio a uma crise econômica crescente. i Por que importa para Osasco Aumento do custo de vida é uma preocupação crescente em diversas cidades. A crise habitacional em Portugal reflete desafios que podem ser observados em outras regiões. A manifestação, realizada no último sábado (21), ocorreu sob forte chuva e foi organizada pela Confederação Geral dos Trabalhadores Portugueses (CGTP). Os participantes exigiram aumentos salariais e medidas para reduzir o custo de bens essenciais e da moradia. Os manifestantes percorreram duas das principais avenidas da capital, expressando suas frustrações com a situação atual. A CGTP afirmou que a participação foi significativa, embora a polícia não tenha fornecido números oficiais. Os protestos foram impulsionados pela insatisfação com a administração do governo de centro-direita, que, segundo os trabalhadores, não tem abordado adequadamente as suas necessidades. A crise habitacional e o aumento dos preços têm afetado especialmente os jovens. 📊 Em números Rendimento médio anual de Portugal37% abaixo da média da UE (2025) Inflação em outubro3,8% (dados de 2023) Os preços das casas em Portugal mais que dobraram desde 2017, enquanto os aluguéis para novos contratos também sofreram um aumento significativo. Essa situação tem gerado uma pressão crescente sobre a população, que se sente cada vez mais insatisfeita. Os protestos recentes em Lisboa e Porto se inserem em um contexto mais amplo de manifestações por todo o continente europeu, onde a população tem se mobilizado contra o aumento do custo de vida e a falta de acesso à moradia digna. 👀 O que observar Possíveis novas manifestações em resposta à crise habitacional. Desdobramentos das políticas do governo em relação aos salários e à moradia.",
+  "numeros": [
+   {
+    "valor": "37%",
+    "rotulo": "rendimento médio abaixo da UE em 2025"
+   },
+   {
+    "valor": "3,8%",
+    "rotulo": "inflação em outubro"
+   }
+  ],
+  "fonte": "PlanetaOsasco.com",
+  "categoria": "Custo de vida",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Jovens"
+  ],
+  "dor": "crescimento das contas e queda no poder de compra",
+  "angulo": "Aprender a investir pode ser uma forma de contornar crises e gastos crescentes, criando novas fontes de renda.",
+  "gancho": "Custo de vida em alta *afeta a todos*",
+  "ideias": [
+   "Como o custo de vida impacta seu bolso?",
+   "Aumente sua renda aprendendo o mercado financeiro",
+   "Por que depender só do salário é arriscado?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://planetaosasco.com/observatorio/902836-milhares-protestam-em-lisboa-contra-aumento-do-custo-de-vida",
+  "publicadoEm": "2026-11-21T16:54:08-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 gera dúvidas e custos para empresários",
+  "resumo": "O decreto que acaba com a escala 6x1 traz inseguranças ao varejo e aumento de custos significativos em diversos setores, como comércio e construção civil, preocupando todos os empresários.",
+  "fatos": [
+   "O novo modelo de jornada 5x2 entrará em vigor em 16 de dezembro de 2026.",
+   "Entidades do comércio demandam esclarecimentos e um prazo de adaptação maior, sugerindo prazos até 2028.",
+   "O aumento de custo com a nova jornada pode variar de 5% a 22%, afetando a folha de pagamento.",
+   "Durante a Black Friday, empresários requisitam ajuda do governo para adequações rápidas.",
+   "Construção civil estima a necessidade de 288 mil novos postos de trabalho para manter a produção."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 influencia diretamente o planejamento financeiro das empresas, que enfrentam pressões crescentes no custo de mão de obra.",
+   "A falta de um período adequado para adaptação pode gerar confusões e impactos negativos, especialmente em setores sensíveis.",
+   "A lei altera a dinâmica de trabalho e aumenta encargos, o que pressiona os preços ao consumidor e impacta a inflação."
+  ],
+  "materia": "São Paulo – Associações que representam diversos setores da economia estão insatisfeitas com o decreto do governo Lula (PT) que regulamenta o fim da escala 6×1. A jornada será substituída pela 5×2, com duas folgas, em 16 de dezembro de 2026. Entidades empresariais, no entanto, reclamam da falta de um período de adaptação ao novo modelo. O decreto foi assinado pelo presidente na quinta-feira (19). Na cerimônia no Palácio do Planalto, Lula disse que “empresário não respeitará” o fim da 6×1 e que é “importante se preparar, porque vai ter confusão”. O presidente do Instituto para Desenvolvimento do Varejo (IDV), Jorge Gonçalves Filho, disse que o decreto está gerando dúvidas para a aplicação da mudança no comércio varejista. 📢 Clique aqui para seguir o canal do Diário do Comércio no WhatsApp “Nós imaginávamos que o decreto viria com mais informações. Tem vários pontos que nós ainda precisamos entender melhor”, diz ele. A entidade diz estar preocupada com o curto tempo para a adequação às novas regras impostas pela emenda constitucional. “Temos menos de um mês para fazer isso. Isso gera uma questão muito difícil, uma insegurança. A gente está ávido por ter mais informações do Ministério do Trabalho. E o Supremo Tribunal Federal (STF), se for tomar uma decisão, que seja rápido”, disse. “O varejo está no meio de uma Black Friday, em que todo mundo está preocupado em atender os clientes e estocar. Precisamos que as autoridades competentes nos ajudem.” O IDV diz que o prazo inviabiliza acordos com sindicatos já para dezembro. A entidade argumenta que outros países que mexeram na jornada de trabalho deram maior prazo para adequação às novas regras. “Teria que aumentar esse prazo para, pelo menos, um ano, prorrogando para o final de dezembro de 2027 e a outra fase para dezembro de 2028”, afirma Gonçalves Filho, que fala em um aumento de custo de 10% a 22% com a implementação em dezembro. Paulo Solmucci, o presidente da Abrasel, entidade que representa os interesses de bares e restaurantes no país, disse à Folha que o decreto assinado por Lula “não esclareceu nada”. “Não se sabe nem se as decisões do Flávio Dino [ministro do STF] continuam valendo”, afirmou. Ele afirma que as empresas que já estão adotando o modelo de jornada 5×2 estão sendo surpreendidas com um aumento de 9,1% na folha por conta do segundo dia de descanso remunerado (DSR). “Isso vai ter um impacto muito negativo para a sociedade, com choque de preços que vai dificultar o controle da inflação e a queda da taxa de juros. A população vai perder poder de compra”, vaticina Solmucci. A entidade tem dialogado com parlamentares para a implementação de uma nova emenda constitucional que retire a necessidade de pagamento do segundo DSR. O projeto deve ser relatado pelo senador Eduardo Braga (MDB). “O mínimo que se esperava do decreto era um prazo de transição razoável, o que não veio”, afirma. As entidades argumentam que o governo não pode “perder a mão” nos setores que serão enquadrados em um regime de exceção. Operadores de plataformas de petróleo e funcionários do setor da aviação, por exemplo, devem figurar nessa lista. A Confederação Nacional da Indústria (CNI) disse, em nota, que ainda há questões que precisam ser contempladas especialmente quanto à aplicação das regras de jornada e descanso, à organização das escalas de trabalho e aos regimes diferenciados. “A instituição reconhece os avanços e a importância da regulamentação para contribuir com a adaptação das empresas. Ao mesmo tempo, ressalta a necessidade de maior clareza sobre os efeitos da fixação dos novos divisores para o cálculo do salário-hora eleva os custos em verbas trabalhistas pagas à base horária, como horas extras e adicional noturno”, afirma a entidade. Para a CNI, também é necessário avançar no esclarecimento de questões levantadas nas Ações Diretas de Inconstitucionalidade (ADIs) em análise no STF, especialmente os efeitos da elevação retroativa do valor da hora de trabalho sobre contratos firmados antes",
+  "numeros": [
+   {
+    "valor": "288 mil",
+    "rotulo": "novos postos de trabalho necessários na construção"
+   }
+  ],
+  "fonte": "Diário do Comércio",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "Aumentos de custos ameaçam viabilidade financeira",
+  "angulo": "Entender o mercado financeiro é essencial para garantir uma renda alternativa e segura, evitando amarras de leis que afetam diretamente seu bolso.",
+  "gancho": "prepare-se para o *novo modelo de trabalho*",
+  "ideias": [
+   "Como o novo decreto impacta sua empresa?",
+   "Aumento de custos: o que fazer?",
+   "Mudanças na jornada de trabalho: fique atento!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://diariodocomercio.com.br/economia/entidades-criticam-fim-escala-6x1/",
+  "publicadoEm": "2026-11-21T19:30:00-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 pode impactar seu bolso",
+  "resumo": "O governo dá um prazo de 14 dias para manifestações sobre o fim da escala 6x1, que pode afetar trabalhadores e empresários. Entenda as consequências no seu dia a dia.",
+  "fatos": [
+   "O governo deu um prazo de 14 dias para que sejam feitas manifestações sobre a mudança na escala 6x1.",
+   "A proposta pode impactar trabalhadores que atuam sob esse regime.",
+   "Sem mudanças, a decisão sobre a escala deverá ser tomada após o período de manifestações.",
+   "A escala 6x1 é uma jornada de trabalho afetando a vida de muitos trabalhadores.",
+   "O fim da escala representa uma nova dinâmica nas relações de trabalho, especialmente no setor de serviços."
+  ],
+  "explicacao": [
+   "Essa mudança foi proposta como parte de uma revisão nas leis trabalhistas.",
+   "Na prática, o fim da escala 6x1 pode proporcionar maior flexibilidade para os trabalhadores.",
+   "Entretanto, pode gerar preocupações entre os empresários sobre a manutenção de suas equipes.",
+   "Essas alterações estão sendo discutidas no contexto de ajustes econômicos mais amplos.",
+   "O impacto direto será sentido no dia a dia de profissionais e empresas, exigindo adaptações."
+  ],
+  "materia": "Jornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine Entrar",
+  "numeros": [
+   {
+    "valor": "14 dias",
+    "rotulo": "prazo para manifestações"
+   }
+  ],
+  "fonte": "Estadão",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "pode perder estabilidade no emprego e renda",
+  "angulo": "Mudanças na lei que afetam a escala de trabalho podem abrir novas oportunidades no mercado financeiro, tornando essencial entender como funciona.",
+  "gancho": "*Mudanças na escala de trabalho* e suas repercussões",
+  "ideias": [
+   "Como o fim da escala 6x1 afeta seu emprego?",
+   "O que muda com a nova proposta de trabalho?",
+   "Preparando-se para as mudanças: o mercado financeiro como solução"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://www.estadao.com.br/em-alta/economia/dino-prazo-manifestacoes-liberar-julgamento-fim-escala-6x1/",
+  "publicadoEm": "2026-11-21T17:03:11-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Fim da escala 6x1 afetará milhões de trabalhadores",
+  "resumo": "Portarias do Ministério do Trabalho regulam o fim da escala 6x1, garantindo manutenção de salário e horas extras. A mudança impacta diretamente 14,8 milhões de trabalhadores.",
+  "fatos": [
+   "Ministério do Trabalho publicará portaria sobre o fim da escala 6x1 em 23 de novembro.",
+   "A nova norma garante manutenção de salários e define regras para horas extras.",
+   "Cerca de 14,8 milhões de trabalhadores em regime 6x1 serão diretamente afetados.",
+   "Outros 21,7 milhões que já trabalham 5 dias também serão beneficiados.",
+   "Portarias estarão completas até 16 de dezembro, com jornada máxima de 42 horas.",
+   "Novo regime inclui orientações sobre Descanso Semanal Remunerado."
+  ],
+  "explicacao": [
+   "A mudança ocorre para proporcionar uma jornada de trabalho mais equilibrada e digna para os trabalhadores.",
+   "Com a redução, as empresas precisarão reorganizar escalas e garantir a adequada compensação financeira.",
+   "Essa regulamentação busca impactar positivamente a qualidade de vida dos trabalhadores, ampliando seu tempo livre."
+  ],
+  "materia": "21/11/2026 20h06 Atualizado 21/11/2026 20h13 Ministério do Trabalho publica 1ª portaria para regulamentar fim da escala 6x1 na segunda-feira (23) O Ministério do Trabalho e Emprego publica, na próxima segunda-feira (23), a primeira de uma série de portarias que vão regulamentar a implementação do fim da escala 6x1 . As normas devem garantir a manutenção dos salários e estabelecer regras para o pagamento de horas extras, além de esclarecer como serão organizados os dois dias de descanso semanal. Bolsonaro é transferido para UTI com quadro de obstrução abdominal Lula diz que projeto fiscal aprovado pelo Senado é ajuste no Orçamento, não reforma A primeira portaria será válida para todos os trabalhadores e deve abordar questões como o Descanso Semanal Remunerado, que se refere ao direito do trabalhador de ter um dia de folga remunerada por semana, além de orientações para acordos e convenções coletivas. O ministério também pretende disponibilizar um manual de perguntas e respostas para orientar empresas, trabalhadores e sindicatos. Todas as portarias serão publicadas até 16 de dezembro, quando passam a valer a jornada máxima de 42 horas semanais e os dois dias de descanso obrigatórios. Os próximos documentos vão apresentar regras específicas para categorias que possuem legislação própria ou regimes especiais de trabalho, como jornalistas, petroleiros e profissionais da saúde e outros. Fabricio Silva, advogado trabalhista, explica que a medida precisará ser bem esclarecida, já que a redução vai exigir reorganização das escalas de trabalho dentro das empresas. \"Imagina um trabalhador que hoje cumpre 44 horas semanais e passará a trabalhar 42 horas recebendo o mesmo salário. Isso muda o valor da hora trabalhada e, consequentemente, o cálculo das horas extras. As empresas precisarão ter bastante cuidado para que essas mudanças não resultem em pagamento incorreto. Para mim, o maior desafio será garantir a continuidade das atividades das empresas sem comprometer o atendimento à população. Será necessário reorganizar escalas contra novos profissionais, assegurando o cujo direito dos trabalhadores e a manutenção dos salários.\" O presidente Lula , afirmou durante uma Live , neste sábado (21), nas redes sociais, que a ação busca trazer uma vida mais digna para os trabalhadores. \"Então, essa redução é levar para uma parte dos trabalhadores e trabalhadoras brasileiras uma jornada de trabalho humanista, civilizatória. Ou seja, a pessoa tem um pouco mais de tempo para ficar com a família, para visitar um parente, para cuidar da família. Sabe, então, não custa nada reduzir quatro horas, não vai prejudicar ninguém. Não vai prejudicar ninguém e vai ter um trabalhador entrando para trabalhar com mais prazer. Portanto, eu acho que daqui a algum tempo, sabe, os que estão contra hoje, vamos agradecer.\" Segundo o governo, cerca de 14,8 milhões de trabalhadores que hoje cumprem a escala 6x1 serão diretamente afetados pela mudança. Outros 21,7 milhões de trabalhadores que já trabalham cinco dias por semana também serão beneficiados pela redução gradual da jornada. Panorama da Semana: o pacote fiscal, a escala 5x2 e a crise na PF Panorama da Semana: o pacote fiscal, a escala 5x2 e a crise na PF PGR analisa relação de ministros do STF com Vorcaro; julgamento da dosimetria; alerta de tempestade no domingo Lula fala em confusão com pacote fiscal e critica pressão por anúncio de ministros; dólar volta a subir Trump, Xi Jinping e Putin se reúnem na China; Lula deve assinar hoje fim da escala 6x1; avança pacote de ajuste fiscal Dólar tem sexta alta seguida; operação contra Esportes da Sorte; o lançamento do GTA 6 As normas devem definir regras para salários, horas extras e distribuição dos dias de descanso. Mesmo com a partida disputada em São Paulo, a comemoração tomou conta de pontos tradicionais da cidade. Samuel Lino marcou o gol de empate no segundo tempo e garantiu ao rubro-negro o título brasileiro. De acordo com a Secretaria de Segurança Pública, o bai",
+  "numeros": [
+   {
+    "valor": "42",
+    "rotulo": "jornada máxima de horas semanais"
+   },
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso obrigatórios"
+   },
+   {
+    "valor": "14,8 milhões",
+    "rotulo": "trabalhadores afetados pela mudança"
+   }
+  ],
+  "fonte": "CBN",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais",
+   "Jovens"
+  ],
+  "dor": "aumento de carga horária ou perda de remuneração",
+  "angulo": "Com a mudança da jornada de trabalho, muitos buscam alternativas para aumentar sua renda, como a formação em day trade, que pode ser feita sem amarras de horário.",
+  "gancho": "Mudança na escala *e novas oportunidades de renda*",
+  "ideias": [
+   "Você está preparado para o fim da escala 6x1?",
+   "Entenda como isso impacta seu trabalho e renda!",
+   "Dicas para aproveitar a nova jornada de trabalho!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-21T22:43:19-03:00",
+  "url": "https://cbn.globo.com/politica/noticia/2026/11/21/ministerio-do-trabalho-publica-1a-portaria-para-regulamentar-fim-da-escala-6x1-na-segunda-feira-23.ghtml",
+  "publicadoEm": "2026-11-21T20:06:04-03:00",
+  "data": "2026-11-21",
+  "id": "2026-11-21-trader-11"
  },
  {
   "segmento": "trader",

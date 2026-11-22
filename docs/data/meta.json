@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-21T18:23:58-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-21T22:43:19-03:00",
+  "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): Fim da escala 6x1 traz novos desafios para empresas; Protestos na Europa e o custo de vida; Mudanças tributárias impactam seu bolso e sua empresa.",
+  "mensagem": "5 pauta(s) nova(s): Fim da escala 6x1 afetará milhões de trabalhadores; Fim da escala 6x1 pode impactar seu bolso; Fim da escala 6x1 gera dúvidas e custos para empresários.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-21T22:43:19-03:00",
    "2026-11-21T18:23:58-03:00",
    "2026-11-21T13:59:15-03:00",
    "2026-11-20T23:53:42-03:00",
@@ -18,19 +19,19 @@
    "2026-11-19T15:43:13-03:00",
    "2026-11-18T23:51:49-03:00",
    "2026-11-18T19:48:38-03:00",
-   "2026-11-18T15:27:45-03:00",
-   "2026-11-18T00:11:57-03:00"
+   "2026-11-18T15:27:45-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-21T18:23:58-03:00",
-  "novas": 3,
+  "ultimaColeta": "2026-11-21T22:43:19-03:00",
+  "novas": 6,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "3 pauta(s) nova(s): Governança de IA: 5 falhas que comprometem empresas; Desafios que a IA traz para sua empresa; O que a venda do Maksoud Plaza ensina sobre negócios?.",
+  "mensagem": "6 pauta(s) nova(s): Black Friday: O desafio de valorizar sua marca; Como Black Friday e Natal impactam o varejo local; Prepare-se: vendas de R$ 9 bilhões na Black Friday e Natal.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-21T22:43:19-03:00",
    "2026-11-21T18:23:58-03:00",
    "2026-11-21T13:59:15-03:00",
    "2026-11-20T23:53:42-03:00",
@@ -41,8 +42,7 @@
    "2026-11-19T15:43:13-03:00",
    "2026-11-18T23:51:49-03:00",
    "2026-11-18T19:48:38-03:00",
-   "2026-11-18T15:27:45-03:00",
-   "2026-11-18T00:11:57-03:00"
+   "2026-11-18T15:27:45-03:00"
   ]
  }
 }
