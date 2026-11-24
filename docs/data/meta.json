@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-24T02:39:21-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-11-24T17:24:37-03:00",
+  "novas": 9,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Novo regime de trabalho e suas implicações financeiras; Fim da escala 6x1: desafios e oportunidades; Novidade para microempreendedores: *PixMEI* sem devolução.",
+  "mensagem": "9 pauta(s) nova(s): Fim da escala 6x1: entenda as novas regras; Fim da escala 6x1: mudanças que impactam seu salário; Novo ajuste fiscal pode impactar seu bolso.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-24T17:24:37-03:00",
    "2026-11-24T02:39:21-03:00",
    "2026-11-23T23:42:56-03:00",
    "2026-11-23T18:45:39-03:00",
@@ -18,19 +19,19 @@
    "2026-11-21T18:23:58-03:00",
    "2026-11-21T13:59:15-03:00",
    "2026-11-20T23:53:42-03:00",
-   "2026-11-20T19:28:10-03:00",
-   "2026-11-20T15:03:56-03:00"
+   "2026-11-20T19:28:10-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-24T02:39:21-03:00",
-  "novas": 5,
+  "ultimaColeta": "2026-11-24T17:24:37-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s): Pressão no varejo evidencia a necessidade de inovação digital; Mudanças nas escalas de trabalho que afetam os empresários; Preparação para Black Friday: desafios e oportunidades para PMEs.",
+  "mensagem": "4 pauta(s) nova(s): Inadimplência recorde: um desafio para o varejo; Black Friday pode movimentar R$ 11,52 bilhões em 2026; Fim da escala 6×1: um custo inesperado para o varejo.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-24T17:24:37-03:00",
    "2026-11-24T02:39:21-03:00",
    "2026-11-23T23:42:56-03:00",
    "2026-11-23T18:45:39-03:00",
@@ -41,8 +42,7 @@
    "2026-11-21T18:23:58-03:00",
    "2026-11-21T13:59:15-03:00",
    "2026-11-20T23:53:42-03:00",
-   "2026-11-20T19:28:10-03:00",
-   "2026-11-20T15:03:56-03:00"
+   "2026-11-20T19:28:10-03:00"
   ]
  }
 }
