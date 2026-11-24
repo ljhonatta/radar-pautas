@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-23T23:42:56-03:00",
-  "novas": 12,
+  "ultimaColeta": "2026-11-24T02:39:21-03:00",
+  "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "12 pauta(s) nova(s): Mudanças no trabalho: jornada 5x2 e folha de pagamento; Mudanças na jornada de trabalho afetam seu bolso; Novas regras de trabalho: impactos no seu bolso.",
+  "mensagem": "4 pauta(s) nova(s): Novo regime de trabalho e suas implicações financeiras; Fim da escala 6x1: desafios e oportunidades; Novidade para microempreendedores: *PixMEI* sem devolução.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-24T02:39:21-03:00",
    "2026-11-23T23:42:56-03:00",
    "2026-11-23T18:45:39-03:00",
    "2026-11-22T23:02:21-03:00",
@@ -18,19 +19,19 @@
    "2026-11-21T13:59:15-03:00",
    "2026-11-20T23:53:42-03:00",
    "2026-11-20T19:28:10-03:00",
-   "2026-11-20T15:03:56-03:00",
-   "2026-11-19T23:43:15-03:00"
+   "2026-11-20T15:03:56-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-23T23:42:56-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-24T02:39:21-03:00",
+  "novas": 5,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Projeto de Lei que pode afetar seu negócio!; Aumento de 8% nas vendas de produtos natalinos em 2026; Natal 2026: alta projetada de 8% nas vendas do varejo.",
+  "mensagem": "5 pauta(s) nova(s): Pressão no varejo evidencia a necessidade de inovação digital; Mudanças nas escalas de trabalho que afetam os empresários; Preparação para Black Friday: desafios e oportunidades para PMEs.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-24T02:39:21-03:00",
    "2026-11-23T23:42:56-03:00",
    "2026-11-23T18:45:39-03:00",
    "2026-11-22T23:02:21-03:00",
@@ -41,8 +42,7 @@
    "2026-11-21T13:59:15-03:00",
    "2026-11-20T23:53:42-03:00",
    "2026-11-20T19:28:10-03:00",
-   "2026-11-20T15:03:56-03:00",
-   "2026-11-19T23:43:15-03:00"
+   "2026-11-20T15:03:56-03:00"
   ]
  }
 }
