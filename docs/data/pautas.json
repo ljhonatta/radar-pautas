@@ -1,6 +1,426 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Mudanças na jornada de trabalho afetarão seus negócios",
+  "resumo": "A nova regulamentação da jornada de trabalho impõe limites que começam em 42h semanais em 2026 e 40h em 2027, impactando as contratações e a gestão de equipes. Prepare-se agora.",
+  "fatos": [
+   "A partir de 16 de dezembro de 2026, a jornada máxima será de 42h semanais.",
+   "Em 16 de dezembro de 2027, a jornada máxima será reduzida para 40h semanais.",
+   "Os trabalhadores passarão a ter dois dias de repouso semanal remunerado.",
+   "Cerca de 14,8 milhões de trabalhadores estão na jornada de 6×1 e 21,7 milhões na jornada de 5×2, mas com 44 horas por semana.",
+   "Para um salário de R$ 3 mil, o valor da hora saltará de R$ 13,64 para R$ 15 na jornada de 40h."
+  ],
+  "explicacao": [
+   "A mudança foi regulamentada pelo Decreto 13.173/2026 para humanizar o trabalho e garantir melhores condições aos trabalhadores.",
+   "Com a redução das horas trabalhadas, a gestão de equipes se tornará mais complexa.",
+   "Empresários precisam rever suas práticas de contratação e compensação salarial.",
+   "O Simulador Escala do Sebrae oferece soluções para planejar essas mudanças.",
+   "A transição sem redução salarial representa um desafio que exige planejamento e adaptação imediatas."
+  ],
+  "materia": "A partir de 16 de dezembro de 2026 os empreendedores deverão limitar a jornada dos empregados em até 42h semanais e, a partir de 16 de dezembro de 2027 em até 40h semanais, em ambos os casos com dois dias de repouso por semana. Os pequenos negócios podem se preparar para a mudança com a ajuda de uma ferramenta gratuita do Sebrae, o Simulador Escala Sebrae. A ferramenta indica como distribuir os funcionários nos dias de trabalho, possíveis alterações de horários, indicação de contratações, sugestão de atuação com freelancers, pagamentos de horas extras, dependendo de cada caso. O Simulador será atualizado à medida que novas regras forem sendo deliberadas. Acesse a ferramenta Regulamentação O Decreto 13.173/2026, assinado pelo presidente Luiz Inácio Lula da Silva nesta quinta-feira (19), regulamenta a Emenda Constitucional (141/2026) que implementou a escala 5×2 no mercado de trabalho brasileiro e estabeleceu mecanismos para garantir a transição para a nova jornada sem redução salarial. No total, estima-se que serão contemplados 14,8 milhões de trabalhadores com jornada 6×1 e outros 21,7 milhões que já estão na escala 5×2, mas que trabalham 44 horas na semana . “O que estamos fazendo é tentar humanizar o mundo do trabalho. Para que as pessoas saiam para trabalhar confortáveis e sejam tratadas com respeito, com tempo suficiente para viver dignamente”, destacou o presidente da República, Luiz Inácio Lula da Silva. Presidente Lula, durante cerimônia de assinatura do decreto que regulamenta a nova escala de trabalho 5×2 | Foto: Marcelo Camargo/Agência Brasil Para o presidente do Sebrae, Décio Lima, todos saem ganhando quando a qualidade de vida dos trabalhadores é colocada em primeiro lugar, principalmente os pequenos negócios. “Fim da escala 6 x 1 é a humanização do trabalho. O país reconhece que a qualidade de vida dos trabalhadores e a dignidade dos milhões de brasileiros e brasileiras está em primeiro lugar”, disse. A Emenda Constitucional beneficia os colaboradores e estimula o crescimento da economia e o desenvolvimento dos pequenos negócios. O Sebrae avalia que várias atividades devem ser beneficiadas diretamente com o tempo mais livre destas pessoas, que poderão investir mais nas áreas de lazer, turismo, bares e restaurantes, por exemplo. Décio Lima, presidente do Sebrae Repouso A nova normativa estabelece o repouso semanal remunerado de dois dias, sem redução salarial, e define os critérios para o cálculo do salário-hora, considerando as jornadas de 42 horas semanais, a partir de 16 de dezembro deste ano, e de 40 horas semanais, a partir de 16 dezembro de 2027. Como o trabalhador passará a cumprir menos horas sem redução do salário mensal, o valor da hora será ajustado para preservar a remuneração. Para a jornada de 42 horas semanais, o divisor será 210. Para a jornada de 40 horas, será 200. Se houver lei, acordo ou convenção coletiva com condição mais favorável ao trabalhador, prevalecerá o que for melhor para o funcionário. Na prática, para um trabalhador com salário mensal de R$ 3 mil, o valor da hora passa de R$ 13,64 para R$ 14,29 na jornada de 42 horas e para R$ 15 na jornada de 40 horas. Essa alteração no valor do salário-hora trará reflexos para o cálculo de horas extras, adicional noturno e DSR, sendo necessário rever a parametrização da folha. Durante o evento de assinatura do decreto, o vice-presidente da República, Geraldo Alckmin, disse que a iniciativa repassa aos trabalhadores os avanços tecnológicos conquistados nas últimas décadas. “O nosso tempo é de mudança, e é impressionante como elas ocorrem de maneira rápida. No entanto, levou 38 anos para que esta conquista avançasse e chegasse às 40 horas semanais. É um ganho da sociedade essa jornada 5×2. O decreto assinado hoje traz segurança jurídica às relações de trabalho”, enfatizou. Foto: Marcello Casal Jr./Agência Brasil Entenda O repouso semanal remunerado de dois dias é a principal mudança trazida pela Emenda Constitucional nº 141/2026, e o Decreto regulam",
+  "numeros": [
+   {
+    "valor": "14,8 milhões",
+    "rotulo": "trabalhadores na jornada 6×1 que serão afetados"
+   },
+   {
+    "valor": "21,7 milhões",
+    "rotulo": "trabalhadores na jornada 5×2, mas com 44h"
+   },
+   {
+    "valor": "R$ 3.000",
+    "rotulo": "salário mensal de exemplo para cálculo"
+   },
+   {
+    "valor": "R$ 15",
+    "rotulo": "novo valor da hora na jornada de 40 horas"
+   }
+  ],
+  "fonte": "Agência Sebrae",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "medo de não se adaptar às novas exigências trabalhistas",
+  "angulo": "O novo cenário exige que empresários investam em automação e no gerenciamento eficaz de equipes para não perder competitividade.",
+  "gancho": "*Prepare sua empresa* para as novas regras trabalhistas",
+  "ideias": [
+   "Você está pronto para a nova jornada de trabalho?",
+   "Como o novo decreto pode impactar seus negócios?",
+   "5 dicas de planejamento para a nova jornada 5×2"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://agenciasebrae.com.br/economia-e-politica/regulamentada-a-escala-5x2-empreendedores-podem-se-preparar-com-o-simulador-do-sebrae/",
+  "publicadoEm": "2026-11-23T16:32:57-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "43,9% dos brasileiros desejam agente de IA para compras",
+  "resumo": "Uma nova pesquisa mostra que a inteligência artificial pode revolucionar o comércio, mas o interesse ainda é moderado. Entenda como isso impacta suas vendas.",
+  "fatos": [
+   "43,9% dos brasileiros com smartphone gostariam de ter um agente de IA para comprar online.",
+   "O relatório da pesquisa Super Panorama Mobile Time/Opinion Box será lançado em 3 de dezembro.",
+   "O interesse é maior entre as classes A e B (49,5%) e jovens de 16 a 24 anos (47,4%).",
+   "Homens estão mais abertos à ideia (47,5%) do que mulheres (40,9%).",
+   "Especialistas destacam que a confiança no uso de IA para compras tende a crescer com o tempo."
+  ],
+  "explicacao": [
+   "A pesquisa explora a aceitação por agentes de IA no comércio conversacional, onde o consumidor decide após a pesquisa feita pela tecnologia.",
+   "O interesse é alto entre os jovens, mas a hesitação de deixar a IA fazer compras sozinha é significativa.",
+   "Esse fenômeno reflete uma evolução gradual das preferências de consumo, similar ao que ocorreu com o comércio eletrônico no passado."
+  ],
+  "materia": "A chegada da inteligência artificial agêntica tem potencial para alavancar o chamado “comércio conversacional” ou “chat commerce”. 43,9% dos brasileiros com smartphone gostariam de ter um agente de inteligência artificial encarregado de fazer compras online em seu nome , revela nova edição da pesquisa Super Panorama Mobile Time/Opinion Box cujo relatório será lançado dia 3 de dezembro, para download gratuito no site do Mobile Time. No enunciado da pergunta, foi esclarecido que o consumidor precisaria apenas conversar com o agente, informando o que deseja comprar, o limite de preço, as condições de pagamento e de entrega, e o agente se encarregaria de buscar em diferentes sites e apresentar as melhores opções, cabendo à pessoa a aprovação final de pagamento. O interesse por um agente de IA para compras é maior entre brasileiros das classes A e B (49,5%) que entre aqueles das classes C (42,1%) ou D e E (43,1%). Os homens estão mais abertos a essa ideia (47,5%) que as mulheres (40,9%). O conceito agrada mais aos jovens de 16 a 24 anos (47,4%) e menos ao grupo com 50 anos ou mais (40,9%). “O número [de brasileiros interessados em agentes de IA para compras] pode parecer baixo, mas acho que é mais realista do que os números que o setor tem divulgado. Repare no que a pesquisa perguntou: um agente que procura, compara e mostra as melhores opções, mas quem aprova o pagamento é a pessoa. A inteligência artificial faz a pesquisa e a decisão continua com o consumidor. Mesmo assim, menos da metade se interessou. Uma pesquisa feita pela PYMNTS com a Visa neste ano mostra bem esse efeito. Quando perguntaram se o brasileiro espera usar agentes de IA para ajudar nas compras, 70% disseram que sim. Quando a pergunta foi se ele deixaria o agente comprar sozinho, com 24 horas para cancelar, a resposta caiu para 28%. Quando a pergunta fica concreta, o entusiasmo diminui”, comenta Edson Luiz dos Santos, conselheiro estratégico e especialista em meios de pagamentos, fundador da Conlink Advisory. O especialista esclarece, porém, que esse relativo baixo interesse pelo comércio agêntico não o preocupa. “No início do comércio eletrônico muita gente tinha medo de digitar o número do cartão numa loja virtual. Em 2001, nos Estados Unidos, 55% das pessoas que ainda não compravam pela internet diziam que o risco de fraude as afastava, segundo a Ipsos. Mesmo assim, o comércio eletrônico cresceu, porque quando havia fraude o prejuízo ficava com o lojista, e não com o consumidor. A confiança veio depois do hábito, e o hábito veio porque alguém assumiu o risco”, recorda. “As diferenças entre os grupos nesta pesquisa são pequenas: de 42,1% a 49,5% entre as classes sociais, de 40,9% a 47,4% entre as faixas de idade e de 40,9% a 47,5% entre mulheres e homens. São bem menores que as que aparecem na escolha entre cartão e Pix. O interesse não está concentrado em nenhum grupo. O que vai decidir é quem paga a conta quando o agente cometer um erro. No modelo da pesquisa, o consumidor aprova cada pagamento, e por isso ele é um bom primeiro passo: o risco é pequeno e fácil de entender. O salto vem depois, quando alguém (o banco, a bandeira ou a empresa que oferece o agente) assumir o prejuízo do erro, como o lojista norte americano assumiu o da fraude no começo da internet”, prevê Santos. Mais resultados da nova pesquisa Super Panorama Mobile Time/Opinion Box serão apresentados em primeira mão no Mobimeeting Finance + ID , evento organizado por Mobile Time que acontecerá na próxima quinta-feira, 26, no WTC Skybridge, em São Paulo, reunindo também executivos de bancos, fintechs, redes de adquirência, bandeiras de cartão, bureaus de crédito e provedores de soluções de autenticação e identificação digitais. O evento terá também um painel de discussão sobre pagamentos agênticos, com representantes de Bradesco, Cielo, Elo e Zoop. A agenda atualizada e mais informações estão disponíveis em www.mobimeeting.com.br Receba gratuitamente a newsletter do Mobile Time e fique bem infor",
+  "numeros": [
+   {
+    "valor": "43,9%",
+    "rotulo": "interesse em agentes de IA para compras"
+   },
+   {
+    "valor": "49,5%",
+    "rotulo": "interesse na classe A e B"
+   },
+   {
+    "valor": "47,4%",
+    "rotulo": "interesse entre jovens de 16 a 24 anos"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder vendas por não acompanhar inovações do mercado",
+  "angulo": "Entender o interesse dos consumidores em IA para compras pode ajudar empresas a se prepararem e a implementarem estratégias de vendas segmentadas.",
+  "gancho": "Você está *perdendo vendas* por não usar IA?",
+  "ideias": [
+   "A vez da IA nas suas vendas?",
+   "Como a IA pode ajudar seu comércio",
+   "Prepare-se para o futuro das compras!"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/23/11/2026/agente-de-ia-super/",
+  "publicadoEm": "2026-11-23T15:22:03-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA já é realidade para 89% dos criadores de conteúdo",
+  "resumo": "Uma pesquisa do YouTube revela que 89% dos criadores de conteúdo no Brasil já utilizam IA em suas produções, com um alto interesse em diversificar suas abordagens.",
+  "fatos": [
+   "89% dos criadores de conteúdo brasileiros usam IA para criar ou editar vídeos.",
+   "73% dos produtores que publicaram vídeos nos últimos 12 meses querem diversificar usando IA.",
+   "81% dos criadores se sentiram inspirados a testar novas ferramentas de IA ao verem vídeos que utilizam essa tecnologia.",
+   "63% dos criadores de conteúdo gerado por IA disseram que aparecem nas suas criações.",
+   "A pesquisa entrevistou 644 brasileiros ativos no YouTube, com idades entre 14 e 44 anos."
+  ],
+  "explicacao": [
+   "O uso de IA na criação de conteúdo tem crescido entre os produtores de vídeo no Brasil, conforme aponta a pesquisa do YouTube.",
+   "Com ferramentas de IA, os criadores têm a possibilidade de melhorar a qualidade e a criatividade dos seus vídeos.",
+   "Isso gera novas oportunidades e formas de engajamento com o público, fundamental para se destacar em um mercado competitivo."
+  ],
+  "materia": "YouTube muda contagem de visualizações para o primeiro segundo de vídeo Entenda a nova regra do YouTube para contagem de visualizações em vídeos e como a mudança afeta os criadores de conteúdo na plataforma. Cerca de 89% dos criadores de conteúdo brasileiros usam IA para criar ou editar imagens e vídeos, concluiu uma pesquisa do YouTube. O número está contido no novo “Relatório de Cultura e Tendências” da plataforma, intitulado “Criatividade Humana e IA”. “Apesar do ceticismo popular sobre o papel das ferramentas generativas na criação de vídeos, o uso dessa tecnologia na criação de conteúdo já é surpreendentemente comum”, conclui a pesquisa. “Muitas pessoas estão abertas a usar IA para transformar a própria aparência ou examinar a identidade em uma tendência social”, continuou. Segundo o levantamento, 73% dos produtores que publicaram vídeos nos últimos 12 meses têm interesse em usar a tecnologia para diversificar a forma como aparecem nos próprios conteúdos . Outros 81% dos entrevistados afirmam se sentir inspirados a testar novas ferramentas de IA depois de assistir a vídeos que as utilizam. Além disso, 63% dos criadores que publicaram conteúdo gerado por máquina dizem que aparecem nas criações. Há uma infinidade de maneiras de incorporar IA generativa em vídeos do YouTube — desde a preparação, com a elaboração de roteiros e storyboards, até a pós-produção, com thumbnails e cenas extras. No material, porém, o YouTube não entra em detalhes sobre como os participantes da pesquisa utilizam IA generativa em vídeos , mas cita alguns casos de uso notáveis. A pesquisa ouviu 644 brasileiros ativos na plataforma, com idades entre 14 e 44 anos. Quer ficar por dentro das novidades do mundo da tecnologia? Acesse o TecMundo e acompanhe as últimas notícias sobre inteligência artificial, YouTube e criação de conteúdo. As falhas tecnológicas são apenas o começo; entenda como a IA provocará ainda mais interrupções Pornô gerado por IA: entenda os perigos por trás do DeepNude Hacker vaza suposto arquivo executável de GTA 6 Toshiba volta ao Brasil em parceria com Hisense com nova linha de TVs NoisyTCP: falha no kernel do Linux ficou escondida por 11 anos",
+  "numeros": [
+   {
+    "valor": "89%",
+    "rotulo": "criadores que usam IA"
+   },
+   {
+    "valor": "73%",
+    "rotulo": "produtores que desejam diversificar com IA"
+   },
+   {
+    "valor": "81%",
+    "rotulo": "criadores inspirados por vídeos com IA"
+   },
+   {
+    "valor": "644",
+    "rotulo": "entrevistados na pesquisa"
+   }
+  ],
+  "fonte": "TecMundo",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder relevância no mercado devido à concorrência",
+  "angulo": "A crescente adoção de IA pode ser um diferencial competitivo, tornando essencial explorar soluções de automação e inovação no marketing.",
+  "gancho": "Descubra como a *IA já está moldando o conteúdo*",
+  "ideias": [
+   "Você já usa IA no seu marketing?",
+   "Como a IA está mudando a criação de conteúdo",
+   "Sua empresa está preparada para a revolução da IA?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://www.estadao.com.br/tecmundo/produto-e-review/ia-ja-e-usada-por-quase-90-dos-criadores-de-conteudo-no-brasil-revela-youtube/",
+  "publicadoEm": "2026-11-23T18:00:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "O impacto da Amazon no varejo brasileiro",
+  "resumo": "A Amazon expandiu sua oferta de produtos importados e reduziu o prazo de entrega, impactando o varejo local. Isso pode afetar as vendas dos comerciantes que não se adaptarem.",
+  "fatos": [
+   "A Amazon cresceu 50% nas vendas de produtos internacionais em 2026.",
+   "Mais de 4 milhões de itens importados foram adicionados ao catálogo em 2026.",
+   "Prazos de entrega foram reduzidos em cerca de 40% desde 2024.",
+   "Pedidos para São Paulo agora chegam em até sete dias.",
+   "A plataforma permite pagamentos comuns no Brasil, como Pix e parcelamento."
+  ],
+  "explicacao": [
+   "O crescimento das vendas de produtos importados reflete um aumento na demanda por novidades pelos consumidores brasileiros.",
+   "A redução no prazo de entrega representa uma competitividade maior no mercado, favorecendo a Amazon em relação aos vendedores locais.",
+   "Os comerciantes que não se adaptarem a essas mudanças podem ver suas vendas afetadas."
+  ],
+  "materia": "Com crescimento de 50% nas vendas de produtos internacionais em 2026, a Amazon acrescentou mais de 4 milhões de itens importados dos Estados Unidos e da Ásia em 2026, com destaques para livros físicos, vestuário, discos de vinil e utensílios para casa. A oferta internacional complementa os produtos brasileiros disponíveis em mais de 50 categorias, comercializados também por milhares de vendedores locais. “Nosso objetivo é sempre oferecer mais produtos, com preços competitivos e entrega rápida, gerando conveniência para todos os brasileiros. Isso está em linha com o desejo crescente dos consumidores brasileiros por novidades”, afirma Hayley Muller, líder de seleção internacional da Amazon Brasil. Logística e custos de importação Desde a chegada da seleção internacional ao Brasil, em 2024, a Amazon reduziu os prazos de entrega em cerca de 40%. Nos últimos 12 meses, a promessa de entrega ficou 22% mais rápida, com pedidos destinados a São Paulo chegando em até sete dias. As condições de compra também incluem opções de pagamento utilizadas no mercado brasileiro, como Pix e parcelamento. Para produtos vendidos e entregues pela Amazon, os preços são apresentados em reais e incluem impostos e custos de importação. Já nas compras feitas de vendedores internacionais, a plataforma informa uma estimativa dos tributos e das taxas antes da conclusão do pedido. Os itens contam com a Garantia de A a Z, quando aplicável, que prevê suporte ao consumidor em situações como recebimento de produtos danificados, com defeito ou diferentes da descrição, com possibilidade de reembolso ou substituição. Imagem: Divulgação O post Amazon amplia oferta de importados e reduz prazo de entrega em 40% apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "50%",
+    "rotulo": "crescimento nas vendas internacionais"
+   },
+   {
+    "valor": "4 milhões",
+    "rotulo": "itens importados adicionados"
+   },
+   {
+    "valor": "22%",
+    "rotulo": "redução no prazo de entrega"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Varejo",
+  "publico": [
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "aumento da concorrência e queda nas vendas",
+  "angulo": "Entender como a Amazon está mudando o cenário do varejo é essencial para que os empresários ajustem suas estratégias e não sejam superados.",
+  "gancho": "Amazon *transforma o varejo* brasileiro!",
+  "ideias": [
+   "Como se destacar em meio à concorrência?",
+   "O que a Amazon ensina sobre vendas?",
+   "Sua loja está pronta para a nova realidade?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://mercadoeconsumo.com.br/23/11/2026/ecommerce/amazon-amplia-oferta-de-importados-e-reduz-prazo-de-entrega-em-40/",
+  "publicadoEm": "2026-11-23T16:27:54-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Natal 2026: alta projetada de 8% nas vendas do varejo",
+  "resumo": "A MBRF prevê um crescimento de 8% nas vendas de Natal de 2026, impulsionado pela diminuição dos gastos com apostas. O mercado se adapta às mudanças no perfil de consumo.",
+  "fatos": [
+   "A MBRF, uma das maiores companhias de proteínas, projeta alta de 8% nas vendas do Natal de 2026.",
+   "O crescimento se relaciona ao fim das apostas esportivas, redirecionando recursos para o consumo.",
+   "Supermercadistas relatam melhorias nas vendas em outubro e novembro.",
+   "A empresa antecipa o abastecimento em aproximadamente 18 a 20 dias em relação ao ano passado.",
+   "Kits natalinos corporativos representam um terço das operações da MBRF e quadruplicaram em quatro anos."
+  ],
+  "explicacao": [
+   "A alta projetada para o Natal de 2026 reflete mudanças nos hábitos de consumo após o fim das bets.",
+   "A MBRF, com sua vasta gama de produtos, está se adaptando às novas preferências dos consumidores, que buscam ceias mais intimistas.",
+   "A antecipação do abastecimento é uma estratégia para evitar falhas logísticas durante a alta demanda de fim de ano."
+  ],
+  "materia": "A MBRF, uma das maiores companhias de proteínas do mundo, projeta crescimento de 8% nas vendas do Natal de 2026 e vê a possibilidade de um desempenho ainda mais favorável do varejo alimentar diante da redução dos gastos dos consumidores com apostas esportivas, as chamadas bets. A avaliação foi apresentada nesta segunda-feira, 23, por executivos da empresa em encontro com jornalistas. Marcos Molina, presidente do Conselho de Administração da companhia, disse que o Natal deste ano pode surpreender por consequência do fim das bets. Segundo Molina, relatos recebidos de supermercadistas indicam melhora nas vendas em outubro e novembro, movimento que, na avaliação do executivo, pode estar relacionado ao redirecionamento de recursos antes destinados às apostas para o consumo. “Acho que, pelas informações que estamos recebendo, pode ter uma surpresa muito boa”, afirmou Molina, durante o lançamento do “Maior Natal do Mundo”, da MBRF . A perspectiva de crescimento também está associada a uma estratégia comercial construída ao longo do ano, que combina ampliação do portfólio, antecipação das entregas e maior proximidade com o varejo para identificar mudanças nos hábitos de compra. Dona de marcas como Sadia e Perdigão, a MBRF trabalha com cerca de 35 produtos comemorativos e uma operação nacional voltada tanto ao consumidor final quanto ao mercado corporativo de kits natalinos. Diferentes consumidores, diferentes ceias Uma das principais apostas da companhia é adaptar o portfólio às transformações no perfil das famílias brasileiras. O Natal continua sendo uma das principais datas de consumo de proteínas, mas a composição das ceias está mudando. Dados apresentados pela MBRF mostram que oito em cada dez brasileiros comemoram a data. Segundo levantamento da Worldpanel by Numerator, citado pela companhia, um em cada quatro consumidores prefere celebrações mais intimistas, com grupos de três a quatro pessoas. Ao mesmo tempo, as aves natalinas continuam liderando as escolhas de proteínas para a ceia, com participação de 56%, avanço de seis pontos porcentuais. Para Luiz Franco, diretor executivo de Marketing e Inovação da MBRF, a mudança não significa necessariamente menor consumo, mas a necessidade de oferecer formatos mais adequados a cada ocasião. O executivo destacou que o Chester inteiro continua relevante, mas cresce a procura por cortes menores, como o peito da ave, que permitem atender famílias pequenas sem abrir mão da tradição. Entre os lançamentos deste ano está o peito inteiro de Chester Perdigão, com até 1,2 quilo, temperado e indicado para preparo na air fryer. A marca também apresenta coxa com sobrecoxa de Chester desossada e recheada com queijo e bacon, além de opções para aperitivos. A Sadia, por sua vez, lança nuggets de peru em formatos natalinos e amplia sua oferta de produtos premium, com itens como lombo temperado com molho de abacaxi e pernil marinado em espumante. A diversificação também acompanha a presença crescente do churrasco nas comemorações de fim de ano, com cortes bovinos, suínos e de frango. A estratégia amplia as ocasiões de consumo para além da ceia tradicional de 24 e 25 de dezembro. Franco destacou ainda a importância da conveniência. Segundo dados apresentados no encontro, 64% dos lares brasileiros possuem air fryer, equipamento que vem influenciando o desenvolvimento de produtos e os formatos de preparo. Proximidade com o varejo orienta a operação A estratégia para o Natal também passa pela relação com os supermercadistas. Segundo Manoel Martins, vice-presidente de Mercado Brasil e Marketing da MBRF, o planejamento considera diferenças regionais, perfil dos consumidores, tamanho das lojas e capacidade de execução comercial. A companhia trabalha com uma base recorrente de aproximadamente 345 mil pontos de venda e utiliza informações de mercado para definir o volume e a distribuição dos produtos sazonais. O objetivo é adequar o sortimento à demanda de cada canal, evitando tanto a falta de mercadorias quanto ",
+  "numeros": [
+   {
+    "valor": "8%",
+    "rotulo": "crescimento projetado nas vendas do Natal de 2026"
+   },
+   {
+    "valor": "40",
+    "rotulo": "opções de kits natalinos corporativos"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "medo de perder vendas por falta de planejamento",
+  "angulo": "A situação destaca a importância de um planejamento estratégico de marketing para capitalizar o consumo em alta.",
+  "gancho": "Natal 2026: *oportunidade de vendas à vista*",
+  "ideias": [
+   "Como aumentar suas vendas no Natal",
+   "O impacto do fim das bets no varejo",
+   "Estratégias para aproveitar o potencial de consumo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://mercadoeconsumo.com.br/23/11/2026/foodservice/mbrf-projeta-alta-de-8-no-natal-e-ve-possivel-impulso-ao-consumo-com-fim-das-bets/",
+  "publicadoEm": "2026-11-23T15:12:28-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Aumento de 8% nas vendas de produtos natalinos em 2026",
+  "resumo": "A MBRF projeta um crescimento significativo nas vendas natalinas para 2026, impulsionado por inovações e comportamento positivo do varejo. Mudanças no consumo devem beneficiar o setor.",
+  "fatos": [
+   "A MBRF projeta um aumento de 8% nas vendas de produtos natalinos em 2026.",
+   "O crescimento é impulsionado por inovações no portfólio e expectativa de maior consumo no varejo.",
+   "Relatos indicam avanço de 3% a 5% nas vendas de supermercados.",
+   "Os produtos natalinos começaram a ser distribuídos 18 dias antes do calendário de 2025.",
+   "As aves especiais representam 60% do volume comercializado durante o período."
+  ],
+  "explicacao": [
+   "A mudança no comportamento do consumidor e a antecipação das campanhas são estratégias para maximizar vendas.",
+   "Inovações nos produtos são vistas como chave para o crescimento, enquanto itens tradicionais crescem menos.",
+   "Empresas que se prepararem com planejamento e marketing eficaz podem atender à demanda crescente."
+  ],
+  "materia": "A MBRF, dona das marcas Sadia, Perdigão e Qualy, projeta crescimento de 8% nas vendas de produtos natalinos neste ano de 2026, impulsionada principalmente pelas inovações do portfólio e pela expectativa de maior consumo no varejo. A companhia também avalia que o desempenho de outubro e novembro sinaliza um Natal potencialmente mais forte para o mercado de alimentos e proteínas. Durante encontro com jornalistas promovido pela companhia, o Marcos Molina, chairman e controlador da MBRF, afirmou que o comportamento recente do varejo tem surpreendido positivamente, com relatos de avanço nas vendas em supermercados. Segundo ele, a perspectiva de um consumidor com orçamento mais apertado pode não se confirmar na intensidade esperada, diante de sinais de retomada do consumo. “Se você pegar outubro e novembro, que está indo muito bem, quando comenta que vai ser um final de ano com o bolso mais apertado, pelas informações que a gente está sentindo, pode ter uma surpresa muito boa neste ano”, afirmou. O executivo relacionou o desempenho do varejo à possível mudança no comportamento de consumo, citando relatos de supermercados sobre aumento das compras de alimentos após a redução dos gastos dos consumidores com apostas online. Segundo Molina, varejistas têm reportado crescimento de 3% a 5% nas vendas. A avaliação é de que o movimento pode beneficiar principalmente o consumo de proteínas durante as festas de fim de ano. Inovações puxam crescimento Para a temporada de Natal, a companhia espera avanço de volume, mas sem grandes expansões nos produtos tradicionais, como Chester e peru. A expectativa é de que os lançamentos e inovações do portfólio contribuam de forma mais significativa para o crescimento das vendas. “Os itens regulares, Chester e peru, não têm grandes crescimentos. Eles vão crescer, mas não tão forte como já aconteceu nos anos anteriores. As inovações são um adicional, até porque sempre temos uma aposta nas inovações, que recorrentemente vêm trazendo bons resultados”, afirmou Manoel Martins, Diretor Vice-Presidente de Mercado Brasil e Marketing. A operação de Natal também foi antecipada neste ano e os produtos chegaram aos pontos de venda cerca de 18 dias antes do calendário adotado em 2025, movimento planejado pela companhia para dar mais tempo à organização da campanha e à distribuição dos itens nas redes varejistas. Segundo a MBRF, a antecipação foi uma decisão estratégica, considerando a complexidade da operação, que envolve diversos produtos e mudanças na organização dos espaços de exposição dos supermercados. “Quanto mais tranquilidade, quanto mais planejamento, melhor é o nosso resultado. Uma campanha de comemorativos feita na correria pode deixar alguma coisa para trás, em virtude da complexidade da operação”, afirmou o Martins. Produção de aves especiais O planejamento da produção também considera a sazonalidade da demanda por aves especiais, já que o abate dos animais maiores começa em abril e se estende até outubro e, em alguns casos, ao início de novembro. Na primeira quinzena de novembro, a companhia avaliou a necessidade de ajustes nos volumes para atender aos pedidos adicionais da campanha. A empresa informou que solicitou volumes extras para o Natal, diante das expectativas para a temporada. As aves especiais representam cerca de 60% do volume comercializado no período, e as campanhas de marketing são tradicionalmente concentradas em dezembro, com foco no consumidor final. A estratégia combina antecipação da distribuição, ampliação do portfólio e expectativa de aumento no consumo durante as festas, período considerado um dos mais importantes para o mercado de proteínas.",
+  "numeros": [
+   {
+    "valor": "60",
+    "rotulo": "percentual do volume de aves especiais"
+   }
+  ],
+  "fonte": "CNN Brasil",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Receio de vendas aquém do esperado nas festas de fim de ano.",
+  "angulo": "Com planejamento e inovações, sua empresa pode se destacar no forte aumento do consumo natalino.",
+  "gancho": "Prepare-se para o *aumento nas vendas de Natal*!",
+  "ideias": [
+   "Estratégias para aumentar vendas na temporada natalina",
+   "A importância de inovações no portfólio de produtos",
+   "Como antecipar campanhas de marketing pode maximizar resultados"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://www.cnnbrasil.com.br/agro/mbrf-preve-aumento-de-8-nas-vendas-de-produtos-natalinos-em-2026/",
+  "publicadoEm": "2026-11-23T21:26:30-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-vpr-08"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Projeto de Lei que pode afetar seu negócio!",
+  "resumo": "O PL 4675/2025 preocupa empresários com riscos de aumento de custos e insegurança jurídica. Entidades pedem ajustes para não prejudicar pequenos negócios que dependem de plataformas digitais.",
+  "fatos": [
+   "O PL 4675/2025 visa regulamentar o mercado digital afetando grandes plataformas.",
+   "Associações como Abes e Amobitec alertam para aumento de custos e insegurança jurídica.",
+   "O projeto foi adiado na Câmara dos Deputados na terça-feira, 17.",
+   "Critérios de faturamento para acompanhamento serão de R$ 50 bilhões globalmente e R$ 5 bilhões no Brasil.",
+   "A regulamentação pode impactar especialmente pequenos e médios negócios que utilizam serviços digitais.",
+   "A ABES pede tratamento diferenciado para PMEs e uma análise de impacto regulatório.",
+   "A Coalision for App Fairness defende que a lei é necessária para aumentar a concorrência digital."
+  ],
+  "explicacao": [
+   "A proposta visa criar uma Superintendência de Mercados Digitais para regular grandes plataformas que dominam o mercado.",
+   "Entidades temem que as novas regras aumentem custos e promovam insegurança jurídica para pequenos comerciantes.",
+   "Essas obrigações podem resultar em aumentos de preço nos serviços digitais que você usa para vender.",
+   "A discussão sobre a necessidade dessa nova regulação está polarizada, e muitos sentem que as regras atuais já são suficientes.",
+   "A insegurança em investimentos pode causar um efeito negativo na sua capacidade de inovar e competir."
+  ],
+  "materia": "Embora tenha como alvo as grandes plataformas digitais, o PL 4675/2025 preocupa entidades empresariais pelos possíveis efeitos sobre negócios que dependem desses ecossistemas. As associações ouvidas por Mobile Time, Abes e Amobitec, alertam para riscos de aumento de custos, insegurança jurídica e impactos sobre investimentos, serviços e empresas de menor porte. Defensores da proposta, por outro lado, como a especialista em direito do consumidor, Flávia Lefèvre, e a Coalision for App Fairness (CAF), argumentam que a legislação concorrencial atual não é suficiente para enfrentar o poder de mercado das big techs. Vale lembrar que, na última terça-feira, 17, a Câmara dos Deputados adiou a discussão e a votação do PL. Seu texto que altera a Lei de Defesa da Concorrência para instituir a Superintendência de Mercados Digitais dentro da estrutura do Cade (Conselho Administrativo de Defesa Econômica). O texto também pretende estabelecer como serão identificadas as grandes empresas com importância estratégica nos mercados digitais e definir obrigações especiais para essas plataformas. O relator do projeto de lei é de Aliel Machado (PV-PR). Essa nova unidade especializada terá a atribuição de conduzir processos administrativos voltados à identificação e designação de agentes econômicos de relevância sistêmica, compreendendo grandes plataformas tecnológicas que exercem forte influência e poder de mercado, as big techs. Caberá à Superintendência de Mercados Digitais determinar quais são as plataformas digitais que vão se enquadrar nesta fiscalização. No entanto, o PL estabelece critérios de faturamento – R$ 50 bilhões no âmbito mundial e R$ 5 bilhões no Brasil – e características estruturais para enquadrar essas empresas, permitindo a determinação de obrigações especiais focadas em: promover a livre concorrência; reduzir barreiras de entrada; e coibir práticas abusivas. A Abes (Associação Brasileira das Empresas de Software) reconhece avanços no substitutivo do projeto, relatado pelo deputado Aliel Machado (PV-PR), mas defende ajustes para evitar que as obrigações impostas às plataformas designadas como agentes de relevância sistêmica afetem pequenos e médios desenvolvedores que atuam em seus ecossistemas. A entidade propõe tratamento diferenciado para pequenas e médias empresas (PMEs), prazo de transição para adaptação às novas regras e análise de impacto regulatório antes da imposição de obrigações. Segundo a ABES, a maioria das empresas brasileiras de software desenvolve ou customiza soluções dentro dos ecossistemas das grandes plataformas. “Queremos um marco que estimule a concorrência sem penalizar quem inova a partir dessas plataformas”, afirma a associação em comunicado enviado a este noticiário. A preocupação com o impacto da regulação sobre empresas que dependem dos serviços digitais também aparece na nota técnica da Camara-e.Net . A entidade aponta que os custos de adaptação tecnológica, compliance e reestruturação operacional das plataformas podem ser repassados ao longo da cadeia, atingindo anunciantes, vendedores e negócios de menor porte que utilizam ferramentas digitais para comercializar produtos, conquistar clientes e fazer publicidade. A associação também vê riscos de redução da oferta e encarecimento de serviços digitais caso as medidas previstas no projeto levem a mudanças estruturais ou inviabilizem determinados produtos e funcionalidades no Brasil. Para a Camara-e.Net, faltam estudos que dimensionem os efeitos agregados das medidas sobre investimentos, inovação e funcionamento das cadeias digitais. A entidade também questiona quais problemas específicos o projeto pretende resolver que não poderiam ser tratados pelos instrumentos já disponíveis ao Cade. Outro ponto levantado é a possível sobreposição entre a nova legislação e o arcabouço regulatório existente, que já abrange defesa da concorrência, proteção de dados e direitos do consumidor. Na avaliação da entidade, a criação de novas regras pode ampliar a insegurança",
+  "numeros": [
+   {
+    "valor": "R$ 50 bilhões",
+    "rotulo": "faturamento mundial para fiscalização"
+   },
+   {
+    "valor": "R$ 5 bilhões",
+    "rotulo": "faturamento no Brasil para fiscalização"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Leis e economia",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "preocupação com custos e a legislação que afeta vendas",
+  "angulo": "Entender como a entrada dessa legislação pode atrapalhar seu negócio é essencial. A VPR Vision Prime pode ajudar com estratégias para navegar por essas mudanças.",
+  "gancho": "*Cuidado! Mudanças à vista no mercado digital!*",
+  "ideias": [
+   "Como PL 4675 pode impactar seu negócio?",
+   "Seus custos estão em risco com novas leis?",
+   "Entenda a importância do marketing digital com as mudanças"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/23/11/2026/pl-4675-nao-e-consenso/",
+  "publicadoEm": "2026-11-23T20:40:04-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-vpr-07"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Dólar a R$ 6 pode impactar sua Black Friday",
   "resumo": "A alta do dólar complicará os custos de importação e reposição de produtos, afetando preços no varejo. Empresários devem ficar atentos às mudanças no mercado.",
   "fatos": [
@@ -367,6 +787,736 @@
   "publicadoEm": "2026-11-23T18:31:41-03:00",
   "data": "2026-11-23",
   "id": "2026-11-23-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Ajuste fiscal pode afetar sua renda e negócios",
+  "resumo": "Projeto de ajuste fiscal aprovado na Câmara limita despesas para alcançar superávit a partir de 2027. Isso pode impactar a carga tributária e seu bolso.",
+  "fatos": [
+   "Aprovado o texto-base do PLP 299/26 com 353 votos favoráveis.",
+   "Não foram aceitas mudanças para permitir envio à sanção presidencial.",
+   "Meta de superávit para 2027 é de R$ 18,7 bilhões.",
+   "O governo terá que economizar cerca de R$ 70,6 bilhões para alcançar essa meta.",
+   "Expectativa de fechamento de 2026 com déficit de R$ 52 bilhões.",
+   "Líderes do governo afirmam que o projeto combate privilégios fiscais."
+  ],
+  "explicacao": [
+   "O projeto de lei visa estabelecer um melhor controle fiscal para o governo federal, possibilitando o ajuste nas despesas.",
+   "Com a meta de superávit primário, a arrecadação poderá ser afetada, impactando diretamente a carga tributária.",
+   "Essas mudanças podem significar aumento de impostos para setores produtivos, afetando empresários e profissionais liberais."
+  ],
+  "materia": "A Câmara dos Deputados aprovou o texto-base do Projeto de Lei Complementar (PLP) 299/26, do Senado, que muda as regras fiscais para permitir ao Poder Executivo limitar a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. Foram 353 votos a favor, 128 contra e 5 abstenções. Os deputados começam a analisar agora os destaques apresentados ao texto pelos partidos na tentativa de mudar trechos do projeto. A meta de 2027 é de um superávit (sobra de dinheiro) de R$ 18,7 bilhões após deduções da ordem de R$ 64,7 bilhões permitidas pelo arcabouço fiscal que reduzem a meta de 0,5% do PIB (R$ 83,4 bi em valores nominais). O relator do projeto, deputado Mauro Benevides Filho (União-CE), apresentou parecer pela aprovação do projeto sem mudanças, a fim de permitir seu envio à sanção presidencial, caso aprovado. Em comparação com 2026, o governo terá de conseguir economizar cerca de R$ 70,6 bilhões para chegar aos R$ 18,6 bi positivos, pois fechará o ano com déficit (resultado negativo) de menos R$ 52 bilhões. Deputados da base do governo defenderam o projeto de ajuste fiscal, enquanto parlamentares da oposição apontaram aumento da carga tributária sobre o setor produtivo. Líderes governistas defenderam a proposta como um instrumento para combater distorções tributárias sem cortar recursos de políticas sociais. O líder do governo, deputado Paulo Pimenta (PT-RS), afirmou que o ajuste fiscal é uma maneira de combater privilégios e distorções dos setores \"acostumados a não pagar impostos\" no Brasil. \"Jamais o presidente Lula encaminharia uma proposta que tivesse por objetivo diminuir recursos para a saúde\", disse. Segundo ele, o coração do projeto é fazer o ajuste sobre aqueles que não pagam impostos, seja por meio de créditos tributários e isenções fiscais. O deputado Marcel van Hattem (Novo-RS), vice-líder da oposição, afirmou que falta credibilidade ao governo federal. \"Nada apresentado vai resolver o problema fiscal. Poderia ser o melhor projeto do mundo pautado aqui. Já criaram o arcabouço fiscal, que não durou um ano\", disse, em relação às alterações na Lei Complementar 200/23, que criou mecanismo de controle do endividamento e um regime fiscal focado no equilíbrio entre arrecadação e despesas. Use esse formulário para comunicar erros ou fazer sugestões sobre o novo portal da Câmara dos Deputados. Para qualquer outro assunto, utilize o Fale Conosco .",
+  "numeros": [
+   {
+    "valor": "353",
+    "rotulo": "votos a favor na Câmara"
+   },
+   {
+    "valor": "18,7 bilhões",
+    "rotulo": "meta de superávit em 2027"
+   },
+   {
+    "valor": "70,6 bilhões",
+    "rotulo": "economia necessária para atingir a meta"
+   }
+  ],
+  "fonte": "Agência Câmara",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Impostos maiores podem diminuir sua renda",
+  "angulo": "Entender essas mudanças é essencial para se adaptar e buscar novas fontes de renda no mercado financeiro.",
+  "gancho": "*Ajuste fiscal* pode impactar sua renda!",
+  "ideias": [
+   "O que esperar do ajuste fiscal?",
+   "Como o ajuste fiscal pode afetar seu negócio?",
+   "Impostos maiores: e agora?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe",
+  "publicadoEm": "2026-11-23T22:41:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-18"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Acordo global é necessário para segurança da IA",
+  "resumo": "António Guterres solicita que países desenvolvam um marco para mitigar riscos impostos pela inteligência artificial em até um ano. A regulamentação global ainda é desafiadora.",
+  "fatos": [
+   "O pedido foi feito durante uma conferência em Barbados no dia 23 de outubro.",
+   "Guterres quer um marco multilateral para a gestão dos riscos da IA em um ano.",
+   "O CEO da OpenAI e outros líderes tech pediram desaceleração no desenvolvimento da IA.",
+   "As regulamentações atuais parecem distantes, com disputas entre EUA e China.",
+   "Guterres enfatizou a necessidade de reformar instituições globais desde 1945."
+  ],
+  "explicacao": [
+   "A discussão sobre a regulamentação da IA se intensifica, visando garantir a segurança no uso da tecnologia.",
+   "O pedido de Guterres surge em meio a um crescente interesse e preocupação sobre os riscos da IA.",
+   "A proposta é que haja um esforço conjunto para prevenir cenários perigosos, especialmente com a evolução da automação."
+  ],
+  "materia": "Estados Unidos | AFP O secretÃ¡rio-geral da ONU , AntÃ³nio Guterres, pediu nesta segunda-feira (23) que paÃ­ses do mundo todo adotem um mecanismo para mitigar os riscos impostos pela inteligÃªncia artificial , durante uma conferÃªncia sobre a tecnologia em Barbados. Ã medida que se aproxima o fim de seu mandato Ã frente da organizaÃ§Ã£o, Guterres tem se manifestado cada vez mais sobre a necessidade de medidas de seguranÃ§a em IA para evitar um futuro em que \"robÃ´s assassinos\" sejam uma realidade. \"Hoje, peÃ§o aos Estados-membros que coordenem esforÃ§os e desenvolvam, no prazo de um ano, um marco multilateral globalmente inclusivo e baseado em princÃ­pios para a gestÃ£o dos riscos da IA, respaldado por uma supervisÃ£o independente e confiÃ¡vel\", afirmou. A regulamentaÃ§Ã£o internacional da IA parece pouco mais que um sonho distante, enquanto as superpotÃªncias da tecnologia, Estados Unidos e China, disputam pela lideranÃ§a em pesquisa e desenvolvimento. Ainda assim, Guterres afirmou que um ponto de partida poderia ser um acordo entre os paÃ­ses sobre medidas comuns de seguranÃ§a, um regime de testes e requisitos bÃ¡sicos para uma supervisÃ£o independente. Em setembro, o CEO da Anthropic, Dario Amodei, o CEO da OpenAI, Sam Altman, e o chefe da SpaceX, Elon Musk, pediram uma desaceleraÃ§Ã£o no desenvolvimento da IA . Outros, como o CEO da Nvidia, Jensen Huang, e o CEO da Meta, Mark Zuckerberg, querem avanÃ§ar a todo vapor. Ã improvÃ¡vel que os Ã³rgÃ£os reguladores dos EUA, onde o desenvolvimento da IA avanÃ§ou em ritmo mais acelerado, intervenham. Em setembro, o presidente Donald Trump recebeu um grupo de executivos americanos do setor de tecnologia, que concordaram em seguir um cÃ³digo de conduta voluntÃ¡rio sobre seguranÃ§a em IA . Guterres afirmou nesta segunda, durante a CÃºpula Especial de Bridgetown sobre SeguranÃ§a em IA, que \"quando se observam outras instituiÃ§Ãµes de governanÃ§a global [...], elas correspondem Ã realidade do mundo de 1945\". \"EstÃ¡ claro que as instituiÃ§Ãµes precisam ser reformadas para se adaptar Ã s realidades do mundo atual\", disse ele em resposta a uma pergunta da AFP. \"Isso se aplica Ã ONU, Ã arquitetura financeira internacional e ao sistema de comÃ©rcio mundial.\" Guterres afirmou que aconselharia seu sucessor âque deverÃ¡ assumir o cargo no Ano Novo, mas ainda nÃ£o foi escolhido â que controlar adequadamente a IA seria necessÃ¡rio para que \"a humanidade mantenha o controle do nosso mundo\". Lucro tem como base o valor mÃ¡ximo que o presidente dos EUA poderia deter, segundo sua declaraÃ§Ã£o financeira mais recente Com produÃ§Ã£o na Argentina e no Brasil, utilitÃ¡rios marcam expansÃ£o da montadora no segmento de veÃ­culos comerciais leves OUTRO LADO: Procurada por email, empresa disse que nÃ£o iria comentar Leitor poderÃ¡ tocar na propaganda e acessar conteÃºdo da marca sem sair do jornal; por ora, formato estarÃ¡ disponÃ­vel apenas no aplicativo SecretÃ¡rio-geral quer que paÃ­ses coordenem esforÃ§os e desenvolvam marco multilateral em atÃ© um ano",
+  "numeros": [
+   {
+    "valor": "1 ano",
+    "rotulo": "Prazo para o marco global"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "Profissionais liberais",
+   "Autônomos"
+  ],
+  "dor": "medo da insegurança em decisões automáticas",
+  "angulo": "Entender os riscos da IA é fundamental para adaptar suas estratégias e gerar renda sem depender apenas do salário.",
+  "gancho": "A *segurança da IA* deve ser discutida agora",
+  "ideias": [
+   "IA: segurança ou risco?",
+   "Regulamentação de IA: o que esperar?",
+   "Como a IA pode afetar seus negócios"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/chefe-da-onu-pede-acordo-global-para-conter-riscos-da-ia.shtml",
+  "publicadoEm": "2026-11-23T22:40:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-17"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Preço de carros populares dispara e aperta o bolso",
+  "resumo": "Os carros populares Kwid e Mobi tiveram seus preços elevados, comprometendo o acesso de muitos consumidores. Esses veículos que antes eram considerados uma opção mais em conta já ultrapassam os R$ 80 mil.",
+  "fatos": [
+   "Os compactos Renault Kwid e Fiat Mobi têm se alternado como os mais baratos do Brasil nos últimos dez anos.",
+   "O preço do Mobi aumentou de R$ 31,9 mil em 2016 para R$ 86.490 na linha 2027.",
+   "O Kwid, lançado em 2017 por R$ 29.990, agora é vendido a partir de R$ 82.790.",
+   "Os modelos mais atuais saem de fábrica com ar-condicionado e direção elétrica, itens que não eram obrigatórios anteriormente.",
+   "Em outubro de 2023, o Kwid vendeu 6.346 unidades, enquanto o Mobi emplacou 3.927."
+  ],
+  "explicacao": [
+   "A elevação nos preços dos carros populares se deve ao incremento de itens de segurança e conforto, que encarecem a fabricação.",
+   "Os preços atuais afastam boa parte do público que busca opções de veículos na faixa de preço popular.",
+   "Esse cenário compromete a possibilidade de muitos consumidores de adquirirem veículos considerados acessíveis, aumentando a dependência de locação ou transporte alternativo."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. Nos Ãºltimos dez anos, os compactos Renault Kwid e Fiat Mobi tÃªm se alternado no posto de carro zero-quilÃ´metro mais barato do Brasil. SÃ£o modelos que jÃ¡ nasceram com os itens bÃ¡sicos de seguranÃ§a exigidos por lei desde 2014 e, portanto, mais evoluÃ­dos que os antecessores entre os carros populares. Ao longo dos anos, ambos receberam itens de conforto. Os avanÃ§os, entretanto, cobram seu preÃ§o. As versÃµes mais atualizadas desses modelos passaram pelo teste Folha MauÃ¡ . Os dois saem de fÃ¡brica com ar-condicionado e direÃ§Ã£o com assistÃªncia elÃ©trica, itens que eram opcionais quando os modelos foram lanÃ§ados. Em abril de 2016, o Mobi estreou com preÃ§o a partir de R$ 31,9 mil. Corrigido pelo IPCA (Ãndice Nacional de PreÃ§os ao Consumidor Amplo) , o valor equivale hoje a R$ 53,3 mil. Conforme divulgado no site da Fiat, os valores da linha 2027 comeÃ§am em R$ 86.490. O Kwid foi lanÃ§ado em agosto de 2017 por R$ 29.990 na versÃ£o mais simples. ApÃ³s a correÃ§Ã£o, chega-se a R$ 47,9 mil atualmente âvalor distante do anunciado pelo Renault para o modelo atual, que parte de R$ 82.790. Os compactos chegaram para o teste em versÃµes mais completas. A opÃ§Ã£o Trekking do Mobi (R$ 88.990) veio com adesivos nas laterais e no capÃ´, barras longitudinais no teto, central multimÃ­dia e ajuste de altura do banco do motorista. Oferecido por R$ 85.890, o Kwid Techno traz bancos com forraÃ§Ãµes azuladas, comandos de som no volante e retrovisores com acionamento elÃ©trico. RENAULT KWID TECHNO PreÃ§o: R$ 85.890 (novembro/2026) Motor: flex, dianteiro, 999 cmÂ³ PotÃªncia: 71 cv (etanol) e 68 cv (gasolina) a 5.500 rpm Torque: 10 kgfm (etanol) e 9,4 kgfm (gasolina) a 4.250 rpm TransmissÃ£o : cÃ¢mbio manual de cinco marchas Pneus: 165/70 R14 Peso: 820 kg Porta-malas: 290 litros Tanque: 38 litros Comprimento: 3,72 m Largura: 1,58 m Altura: 1,48 m Entre-eixos: 2,42 m AceleraÃ§Ã£o (0 a 100 km/h, em segundos): 15,5 (etanol) e 15,7 (gasolina) Retomada (80 km/h a 120 km/h, em segundos): 16,1 (etanol) e 17,9 (gasolina) Consumo urbano (km/l): 11,9 (etanol) e 16,5 (gasolina) Consumo rodoviÃ¡rio (km/l): 15,3 (etanol) e 21,7 (gasolina) Autonomia rodoviÃ¡ria com etanol (a 90 km/h): 581 km Autonomia rodoviÃ¡ria com gasolina (a 90 km/h): 825 km Dados sobre preÃ§o, potÃªncia, dimensÃµes e capacidades sÃ£o de responsabilidade da montadora; consumo e desempenho foram medidos pelo Instituto MauÃ¡ de Tecnologia Embora as versÃµes atuais sejam mais equipadas, as altas dos preÃ§os distanciam esses veÃ­culos de grande parte do pÃºblico. Houve reduÃ§Ãµes durante a vigÃªncia do programa Move Brasil , mas os valores foram recompostos ao longo do segundo semestre. Em outubro, o Kwid teve 6.346 unidades vendidas e ficou na 9Âª colocaÃ§Ã£o em vendas, conforme o ranking divulgado pela Fenabrave (associaÃ§Ã£o dos distribuidores de veÃ­culos). O Mobi aparece no 21Âº lugar, com 3.927 emplacamentos. Apenas 58 unidades do compacto da Fiat foram comercializadas no varejo. A predominÃ¢ncia das vendas diretas mostra a forÃ§a do compacto nos segmentos de locaÃ§Ã£o e atendimento a frotas de empresas. O motor 1.0 flex (75 cv) do Mobi exige trabalho constante do cÃ¢mbio para manter o embalo. Ã atÃ© divertido no meio urbano, quando o motorista precisa reduzir marchas para vencer aclives e ter uma relaÃ§Ã£o mais prÃ³xima com o carro. FIAT MOBI TREKKING PreÃ§o: R$ 88.990 (novembro/2026) Motor: flex, dianteiro, 999 cmÂ³ PotÃªncia: 75 cv (etanol) e 71 cv (gasolina) a 6.000 rpm ",
+  "numeros": [
+   {
+    "valor": "6.346",
+    "rotulo": "vendas do Kwid em outubro"
+   },
+   {
+    "valor": "3.927",
+    "rotulo": "vendas do Mobi em outubro"
+   },
+   {
+    "valor": "R$ 86.490",
+    "rotulo": "preço do Mobi linha 2027"
+   },
+   {
+    "valor": "R$ 82.790",
+    "rotulo": "preço do Kwid atual"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "aumento de custo de transporte e mobilidade",
+  "angulo": "Diante da alta dos preços, aprender sobre investimentos pode proporcionar uma nova fonte de renda, ajudando a lidar com esses custos crescentes.",
+  "gancho": "A *mobilidade* agora custa mais caro!",
+  "ideias": [
+   "Carros populares: a nova realidade de preços altos",
+   "Kwid e Mobi: como isso impacta seu orçamento?",
+   "Alternativas ao transporte: você já pensou em investir?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/preco-do-kwid-e-do-mobi-carros-mais-baratos-do-brasil-dispara-e-ultrapassa-os-r-80-mil.shtml",
+  "publicadoEm": "2026-11-23T23:00:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-16"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "R$ 200 milhões em maternidades filantrópicas pode impactar seu bolso",
+  "resumo": "O Ministério da Saúde anunciou a liberação de R$ 200 milhões para maternidades filantrópicas, beneficiando 893 instituições que atendem pelo SUS e ampliando serviços de saúde.",
+  "fatos": [
+   "O repasse de R$ 200 milhões startou pelo Ministério da Saúde.",
+   "Serão beneficiadas 893 maternidades filantrópicas que atendem pelo SUS.",
+   "O valor será entregue em parcela única ainda este ano.",
+   "Os recursos vão por meio do Fundo Nacional de Saúde (FNS).",
+   "O programa totaliza R$ 1 bilhão para Santas Casas e hospitais filantrópicos.",
+   "R$ 800 milhões serão divididos em duas parcelas para outros serviços.",
+   "O objetivo é ampliar o atendimento e reduzir filas por serviços médicos.",
+   "Instituições costumam receber conforme o número de partos do ano anterior."
+  ],
+  "explicacao": [
+   "O repasse foi decidido para fortalecer a saúde pública, especialmente em serviços maternos.",
+   "Maternidades filantrópicas que atendem pelo SUS, como Santas Casas, são priorizadas.",
+   "Essa medida visa não só atender um maior número de pacientes, mas também melhorar a qualidade no cuidado.",
+   "Com mais recursos, a expectativa é que a fila por consultas e exames, que pode impactar diretamente a saúde da população, diminua.",
+   "Assim, o governo investe na ampliação do sistema, refletindo, talvez, em menos gastos com saúde particular."
+  ],
+  "materia": "O Ministério da Saúde informou ter iniciado o repasse de R$ 200 milhões a maternidades de hospitais filantrópicos que atendem pacientes do Sistema Único de Saúde (SUS). Serão beneficiadas 893 instituições. Os recursos são para ampliar o atendimento a gestantes, puérperas e recém-nascidos. De acordo com o ministério, o repasse de R$ 200 milhões será feito em parcela única ainda este ano, por meio do Fundo Nacional de Saúde (FNS), que envia para fundos estaduais, distrital e municipais. Esses são os responsáveis pela transferência para as maternidades. No total, o programa Agora Tem Especialistas prevê montante de R$ 1 bilhão para Santas Casas e hospitais filantrópicos. As instituições recebem conforme o número de partos feitos pelo SUS no ano passado. Já os R$ 800 milhões restantes serão repassados em duas parcelas pelos serviços prestados por Santas Casas e hospitais filantrópicos (cirurgias, internações, consultas, exames e tratamentos especializados). Um dos objetivos do programa Agora Tem Especialistas é oferecer mais atendimentos especializados e reduzir a fila de espera por consultas, exames e cirurgias. A estratégia é ampliar o valor pago pelos serviços, com a inclusão do cuidado integrado, que prevê exames, consultas especializadas e cirurgias. Em 2025, por exemplo, as instituições receberam R$ 62,3 bilhões do SUS, quase três vezes o valor que seria pago com base exclusivamente na Tabela SUS.",
+  "numeros": [
+   {
+    "valor": "200 milhões",
+    "rotulo": "repasses do Ministério da Saúde"
+   },
+   {
+    "valor": "893",
+    "rotulo": "maternidades beneficiadas"
+   },
+   {
+    "valor": "1 bilhão",
+    "rotulo": "total do programa Agora Tem Especialistas"
+   }
+  ],
+  "fonte": "Agência Brasil Últimas",
+  "categoria": "Negócios",
+  "publico": [
+   "Autônomos",
+   "Profissionais liberais",
+   "Aposentados"
+  ],
+  "dor": "aumento dos custos de saúde e riscos financeiros",
+  "angulo": "Com a pressão no setor de saúde, aprender sobre investimentos pode ser uma forma de garantir segurança financeira e não depender só do salário.",
+  "gancho": "*R$ 200 milhões* para saúde pública pode impactar seu",
+  "ideias": [
+   "O que a saúde pública significa para seus investimentos?",
+   "Como crescer financeiramente em tempos de incerteza?",
+   "Dependendo só do emprego é risco elevado!"
+  ],
+  "formatos": [
+   "Reels",
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-200-milhoes-para-maternidades-filantropicas",
+  "publicadoEm": "2026-11-23T19:50:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-15"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aposta da Toyota em picapes híbridas e diesel",
+  "resumo": "A Toyota intensifica sua presença no mercado de veículos comerciais ao lançar novas picapes, com foco em opções híbridas e diesel, visando atender à demanda crescente no Brasil.",
+  "fatos": [
+   "A Toyota lançou o furgão Hiace no Brasil, iniciando sua jornada no setor de veículos comerciais.",
+   "Duas novas picapes foram anunciadas: Tacoma, com produção na Argentina, e Corolla Deck, em Sorocaba (SP).",
+   "A Tacoma exigiu um investimento de US$ 1,3 bilhão para construção de uma linha de produção específica.",
+   "As previsões apontam a chegada da Tacoma ao mercado em 2030 e da Corolla Deck em 2027.",
+   "Entre janeiro e outubro de 2026, foram emplacadas 388.897 picapes no Brasil, com a Fiat Toro liderando com 48.137 unidades.",
+   "A nova fábrica em Sorocaba emprega 1.700 pessoas e deve alcançar 2.000 empregos até 2030.",
+   "A expectativa é produzir 100 mil unidades da Corolla Deck por ano em Sorocaba."
+  ],
+  "explicacao": [
+   "A Toyota está se consolidando no mercado de comerciais leves para atender a demanda no Brasil, que está em crescimento.",
+   "O investimento significativo em novas fábricas e veículos visa oferecer alternativas no segmento híbrido e diesel.",
+   "Com as novas picapes, a companhia espera competir diretamente com líderes de mercado e diversificar suas ofertas.",
+   "A expansão da linha de veículos comerciais também está alinhada com as tendências de sustentabilidade e eficiência.",
+   "Essas mudanças no setor automotivo podem impactar tanto o emprego, com novas vagas, quanto oferecer opções melhores para os consumidores."
+  ],
+  "materia": "Sorocaba (SP) A Toyota entrou de vez no segmento de veÃ­culos comerciais, uma jornada que comeÃ§ou no ano passado, quando lanÃ§ou no paÃ­s pela primeira vez um modelo utilitÃ¡rio com foco no transporte de carga ou passageiros, o furgÃ£o Hiace. A consolidaÃ§Ã£o desse movimento veio com duas picapes anunciadas quase que simultaneamente nas Ãºltimas duas semanas: a Tacoma, que serÃ¡ produzida na Argentina, e a Corolla Deck, em Sorocaba (SP). No caso da primeira, a montadora precisou investir na fÃ¡brica ZÃ¡rate US$ 1,3 bilhÃ£o para construir uma linha especÃ­fica para o modelo, que superarÃ¡ em proporÃ§Ãµes e em preÃ§o a picape intermediÃ¡ria Hilux, que faz sucesso na regiÃ£o. No MÃ©xico, a Tacoma Ã© construÃ­da sobre a plataforma TNGA-F, projetada para veÃ­culos com carroceria sobre chassi. Sob o capÃ´, hÃ¡ um motor 2.4 turbo de quatro cilindros a gasolina que gera atÃ© 278 cv de potÃªncia. HÃ¡ tambÃ©m uma versÃ£o hÃ­brida, que Ã© mais potente: 326 cv. A transmissÃ£o da picape tem opÃ§Ãµes automÃ¡tica de oito marchas ou manual de seis velocidades, de acordo com as versÃµes. A versÃ£o hÃ­brida, que serÃ¡ produzida na Argentina, deverÃ¡ ter 5,44 metros comprimento, 2,03 m de largura, 1,92 m de altura total e distÃ¢ncia entre-eixos de 3,35 m, com capacidade de reboque de atÃ© 2.722 quilos. A previsÃ£o Ã© de o modelo chegar ao mercado em 2030, segundo a montadora japonesa. JÃ¡ a Corolla Deck ocupa um lugar de destaque na estratÃ©gia da Toyota de conquistar espaÃ§o no segmento de veÃ­culos comerciais de menor porte. SerÃ¡ a primeira picape da marca desenvolvida para o Brasil em 68 anos de operaÃ§Ãµes locais, inserindo a marca em um segmento muito concorrido no paÃ­s, no qual a Fiat Toro Ã© a lÃ­der. A Deck chegarÃ¡ em 2027 com a missÃ£o de atrair consumidores que buscam opÃ§Ãµes de motores para alÃ©m daqueles que funcionam por meio do diesel. No caso da picape nacional da Toyota, o motor hÃ­brido flex serÃ¡ um triunfo nesse planejamento da fabricante pelo carÃ¡ter inÃ©dito desse tipo de motorizaÃ§Ã£o no segmento. A lÃ­der Fiat Toro tem versÃ£o equipada com motor do tipo hÃ­brido leve (MHEV), que funciona como um gerador de energia para melhorar a eficiÃªncia do conjunto. No caso da Deck, a proposta Ã© outra, com um motor do tipo hÃ­brido pleno (HEV) que proporciona traÃ§Ã£o ao powertrain em determinadas condiÃ§Ãµes. Este nicho tende a aumentar no futuro, considerando que as vindouras BYD Mako, Volkswagen Tukan e Renault Niagara tambÃ©m prometem versÃµes com esta proposta. \"As caracterÃ­sticas da nossa regiÃ£o demandam um veÃ­culo combinado. A Corolla Deck chega em uma faixa que estÃ¡ em 6% do mercado e Ã© onde observamos uma sinergia do nosso line-up entre o Corolla e o Corolla Cross\", diz Evandro Maggio, presidente da companhia no Brasil. Entre janeiro e outubro de 2026, foram emplacadas 388.897 picapes no paÃ­s, segundo dados da Fenabrave, que Ã© a associaÃ§Ã£o que representa os distribuidores de veÃ­culos no paÃ­s. A Fiat Toro liderou a disputa no perÃ­odo, com 48.137 unidades vendidas no ano e 21,58% de participaÃ§Ã£o de mercado. A Chevrolet Montana, por sua vez, registrou 14.349 emplacamentos, com 6,43% de participaÃ§Ã£o, enquanto a Renault Oroch, que jÃ¡ nÃ£o Ã© mais produzida no paÃ­s, somou 8.552 unidades, com 3,83% do mercado. A Corolla Deck serÃ¡ produzida em uma nova estrutura industrial instalada dentro do complexo que mantÃ©m em Sorocaba. A expectativa da montadora Ã© que neste espaÃ§o sejam produzidas 100 mil unidades do modelo por ano. Chamada de Sorocaba 2, a fÃ¡brica faz parte do investimento de R$ 11,5 bilhÃµes (cerca de US$ 2 bilhÃµes) anunciado pela Toyota em 2024, recurso que foi aplicado na construÃ§Ã£o da fÃ¡brica, na instalaÃ§Ã£o de equipamentos, no desenvolvimento de processos produtivos e na implementaÃ§Ã£o de novas tecnologias. A nova fÃ¡brica inicia as operaÃ§Ãµes com 1.700 empregos diretos e espera chegar a 2.000 atÃ© 2030. No complexo de Sorocaba sÃ£o produzidos cinco modelos. Corolla Cross, Yaris Cross,",
+  "numeros": [
+   {
+    "valor": "388.897",
+    "rotulo": "picapes emplacadas entre janeiro e outubro de 2026"
+   },
+   {
+    "valor": "48.137",
+    "rotulo": "vendas da Fiat Toro em 2026"
+   },
+   {
+    "valor": "1.700",
+    "rotulo": "empregos diretos na nova fábrica"
+   },
+   {
+    "valor": "100.000",
+    "rotulo": "unidades esperadas da Corolla Deck por ano"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados",
+   "Jovens"
+  ],
+  "dor": "dificuldades financeiras com dependência de salário fixo",
+  "angulo": "O mercado financeiro oferece oportunidades para quem quer escapar das amarras do emprego tradicional, permitindo a gestão de renda sem depender apenas de um único salário.",
+  "gancho": "*Toyota expande* e você pode também!",
+  "ideias": [
+   "A nova era das picapes: o que vem por aí?",
+   "Como a Toyota está moldando o futuro das picapes",
+   "Aumente sua renda: aprenda sobre o mercado financeiro"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/toyota-amplia-aposta-em-veiculos-comerciais-com-picapes-hibridas-e-a-diesel.shtml",
+  "publicadoEm": "2026-11-23T23:00:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-14"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Crédito travado pode dificultar 2027 para todos nós",
+  "resumo": "O presidente do Bradesco alertou que o crédito está travado, o que pode dificultar o crescimento da economia em 2027, impactando tanto indivíduos quanto empresas.",
+  "fatos": [
+   "Marcelo Noronha, presidente do Bradesco, afirma que o crédito no Brasil está 'totalmente travado'.",
+   "Ele estima que a economia crescerá apenas 0,4% no próximo ano (2024).",
+   "Se o dólar se mantiver próximo de R$ 6 por três ou quatro meses, a inflação poderá aumentar.",
+   "Com o aumento da inflação, pode ser necessário elevar ainda mais os juros.",
+   "Noronha acredita que 2027 será um ano muito difícil para a economia.",
+   "Ele sugere que o presidente Lula precisará de uma equipe econômica forte e experiente para lidar com o Congresso."
+  ],
+  "explicacao": [
+   "A afirmação sobre o crédito travado indica um cenário de dificuldade no acesso a recursos financeiros para pessoas e empresas.",
+   "Isso pode refletir em um crescimento econômico baixo, impactando negativamente a geração de empregos e a capacidade de investimento.",
+   "A relação entre câmbio, juros e inflação sugere que a situação pode se agravar se não forem adotadas medidas adequadas.",
+   "Aprender a investir no mercado financeiro pode ser uma alternativa para gerar renda fora das amarras dos salários fixos."
+  ],
+  "materia": "O presidente do Bradesco , Marcelo Noronha , afirmou que o crédito no Brasil está “totalmente travado”, tanto para pessoas físicas quanto para empresas. Em conversa com o Estadão/Broadcast , antes do início da cerimônia de posse de Luiz Carlos Trabuco Cappi na presidência do Movimento Brasil Competitivo (MBC), Noronha disse que 2027 será um ano muito difícil, embora tenha evitado falar em recessão. O executivo estima que a economia crescerá apenas 0,4% no próximo ano. Segundo ele, se o dólar permanecer próximo de R$ 6 por três ou quatro meses, a inflação deverá subir, e poderá ser necessário elevar ainda mais os juros. O executivo também avaliou que o presidente Luiz Inácio Lula da Silva terá força política para apresentar medidas duras e necessárias no início do mandato, após vencer a eleição. Para acalmar o mercado, disse, Lula precisará escolher uma boa equipe econômica. Noronha citou Armínio Fraga e Ilan Goldfajn como nomes com experiência para enfrentar o Congresso e elogiou o trânsito político do vice-presidente Geraldo Alckmin . Leia também Trabuco defende agenda ampla para reduzir custo Brasil com foco em juros, segurança e logística Se o câmbio ficar nesse patamar por quatro meses, 2027 será ainda mais difícil, diz CEO do Bradesco Trabuco defende agenda ampla para reduzir custo Brasil com foco em juros, segurança e logística Se o câmbio ficar nesse patamar por quatro meses, 2027 será ainda mais difícil, diz CEO do Bradesco Noronha participa do jantar promovido pelo MBC, no qual Jorge Gerdau passará a presidência do movimento a Trabuco. Gerdau, que completa 90 anos em dezembro, liderou a entidade por 25 anos. Câmara aprova texto-base de ajuste fiscal de Lula com impacto de até R$ 50 bilhões em 2027 Veja como votou cada deputado no projeto de ajuste fiscal do governo Lula Lula produz superávits primários recordes, mas eles são engolidos por um ministério Avenida no Rio supera rua de SP e se torna a mais cara do Brasil para o comércio Fim de benefício fiscal nos Estados faz empresas repensarem localização de fábricas e galpões",
+  "numeros": [
+   {
+    "valor": "0,4%",
+    "rotulo": "crescimento econômico estimado para 2024"
+   },
+   {
+    "valor": "R$ 6",
+    "rotulo": "dólar próximo ao valor atual"
+   }
+  ],
+  "fonte": "Estadão Economia",
+  "categoria": "Juros e crédito",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "custo de vida elevado e dificuldade em financiar projetos",
+  "angulo": "Entender a situação atual do crédito pode motivar a busca por aprendizado em investimentos financeiros, abrindo novas oportunidades de renda.",
+  "gancho": "2027 pode ser difícil para *quem não se adapta*",
+  "ideias": [
+   "O que o crédito travado significa para você?",
+   "Preparação ante dificuldades econômicas!",
+   "Aprenda a gerar renda sem amarras!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://www.estadao.com.br/economia/credito-esta-travado-2027-sera-dificil-para-a-economia-diz-presidente-do-bradesco/",
+  "publicadoEm": "2026-11-23T21:32:44-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-13"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Ajuste fiscal pode impactar seu bolso até 2027",
+  "resumo": "Aprovado novo ajuste fiscal de R$ 50 bilhões até 2027, afetando cidadãos e empresas. Isso pode aumentar a pressão financeira em um cenário econômico já desafiador.",
+  "fatos": [
+   "Aprovado o ajuste fiscal com impacto de R$ 50 bilhões até 2027, por 353 votos a favor.",
+   "Muitas isenções e compensações tributárias serão limitadas, afetando a arrecadação e o orçamento.",
+   "Críticas da oposição e mesmo de parte da esquerda foram registradas durante a votação.",
+   "O governo argumenta que os cortes são necessários para a estabilidade econômica do país.",
+   "O projeto venceu uma obstrução do PSOL, que contestou várias das medidas propostas.",
+   "Na economia, a projeção de PIB foi reduzida, enquanto a inflação subiu para 2026 e 2027."
+  ],
+  "explicacao": [
+   "O ajuste é uma resposta ao cenário fiscal deficitário, visando contenção de gastos.",
+   "Medidas como cortes em isenções tributárias e restrições na compensação de créditos impactarão empresas.",
+   "A aprovação deste projeto indica uma tentativa do governo de controle das despesas públicas."
+  ],
+  "materia": "A Câmara dos Deputados aprovou o projeto de ajuste fiscal do governo Lula, com impacto de R$ 50 bilhões até 2027. A proposta, criticada pela oposição e parte da esquerda, visa conter gastos e ajustar contas públicas. O PSOL obstruiu a votação, enquanto Lindbergh Farias, do PT, criticou o projeto. O governo defende que o ajuste é necessário para estabilidade econômica. O projeto inclui medidas como corte de isenções e limitação de compensações tributárias, com apoio de lideranças de centro. BRASÍLIA - A Câmara dos Deputados aprovou nesta segunda-feira, 23, o texto principal do projeto de lei complementar que reúne medidas de ajuste fiscal propostas pelo governo Lula, com impacto estimado em R$ 50 bilhões nas contas de 2027. O texto-base foi aprovado por 353 votos favoráveis, 128 contrários e cinco abstenções - eram necessários pelo menos 257 votos. Agora, os deputados vão votar propostas de modificação ao projeto. A oposição criticou a proposta do governo Lula, que foi recebida com desconfiança pelo mercado financeiro. O dólar chegou a bater R$ 6 nesta segunda-feira, antes de fechar o dia a R$ 5,92. “Não faz um mês que as eleições acabaram e, literalmente, o Lula está transferindo a conta dos cortes para a população”, afirmou o deputado federal Nikolas Ferreira (PL-MG). “Aquilo que durante 20 anos o governo Lula tem prometido para a população, mais uma vez, nem passou um mês das eleições, tem, literalmente, enganado e traído o povo brasileiro nesse sentido. Você escuta que até a própria esquerda está obstruindo um ajuste fiscal que não tem nada de ajuste.” O PSOL decidiu obstruir a votação. Em discurso, o líder do partido, Tarcísio Motta (RJ), afirmou que, longe de ser contraditória, a posição era coerente com a trajetória do partido. “Nós do PSOL, em 2023, votamos unificadamente contra o arcabouço fiscal. E por quê? Considerávamos naquele momento uma amarra desnecessária, feita pelo próprio governo Lula, que limitaria o alcance das suas políticas públicas”, disse. “Nós somos contrários porque aquilo que era o tesouraço do Flávio Bolsonaro foi derrotado pelo povo brasileiro”, continuou. “Nós somos contrários porque eles querem agradar a Faria Lima, nós queremos garantir investimentos em políticas públicas, eles querem sabotar o governo, nós queremos que ele dê certo.” O deputado Lindbergh Farias, que já havia liderado o fogo amigo contra o ajuste do governo durante a votação no Senado, foi o único parlamentar do PT a discursar contra a proposta no plenário. “Continuo sendo Lula. Lula é a grande esperança desse povo trabalhador brasileiro. O Lula é a grande esperança de uma outra política no mundo. Mas eu me insurjo contra, porque, em alguns momentos da história, a gente tem que saber se posicionar para defender da melhor forma o Lula”, disse. “Tem uma armadilha do mercado, eles vão botar o dólar lá para cima, eles vão nos quebrar, vai ter inflação, não há alternativa”, prosseguiu. “Eu me insurjo nesse momento, porque tem outro caminho, tem outro caminho, aproveitar a energia das ruas, apresentar um projeto de desenvolvimento nacional, dizer que dá para tirar investimentos do arcabouço das regras fiscais, nós já fizemos isso. Tinha outro caminho, que é de enfrentar esse discurso falso da gastança.” Na semana passada, Lindbergh e o ministro do Planejamento e Orçamento, Bruno Moretti - que gestou o projeto de ajuste -, tiveram embates por causa da posição pública do parlamentar contra a proposta do governo Lula. No entanto, ensaiaram uma trégua. No fim de semana, o próprio presidente Luiz Inácio Lula da Silva criticou ala da esquerda que se opôs ao ajuste fiscal e afirmou que as queixas eram injustas. “O que fico triste é porque fizemos coisas importantes e meus companheiros se preocuparam com o que não íamos fazer: corte de dinheiro na educação e na saúde, o que não vai ter”, disse. Lideranças de centro saíram em defesa do projeto. Pedro Lucas Fernandes (MA), líder do União Brasil na Câmara, defendeu a medida. “No governo passado",
+  "numeros": [
+   {
+    "valor": "353 a 128",
+    "rotulo": "votos a favor na Câmara"
+   },
+   {
+    "valor": "50 bilhões",
+    "rotulo": "impacto até 2027"
+   }
+  ],
+  "fonte": "Estadão Economia",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "aumento de impostos e menos suporte financeiro",
+  "angulo": "Com a instabilidade fiscal, aprender a operar no mercado financeiro pode ser uma alternativa para diversificar a renda e evitar amarras de um salário fixo.",
+  "gancho": "Como o ajuste impacta *seu dinheiro*?",
+  "ideias": [
+   "O que aprender com o ajuste fiscal?",
+   "Dicas para lidar com o aumento de impostos!",
+   "Como garantir renda no cenário econômico atual?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://www.estadao.com.br/economia/camara-aprova-urgencia-e-acelera-votacao-de-projeto-de-ajuste-fiscal-do-governo-lula/",
+  "publicadoEm": "2026-11-23T19:47:26-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-12"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Aprovado plano que pode aumentar impostos e apertar o bolso",
+  "resumo": "A Câmara dos Deputados aprovou o plano Moretti, que propõe medidas de ajuste fiscal com aumento de arrecadação a partir de 2027, impactando diretamente o bolso do cidadão e empresários.",
+  "fatos": [
+   "A aprovação ocorreu em 23/10/2023, com 353 votos a favor e 128 contra.",
+   "O plano prevê ações para elevar a arrecadação e conter gastos a partir de 2027.",
+   "Entre as medidas, está a autorização para corte de 10% nos benefícios fiscais de empresas.",
+   "Um novo piso de contingenciamento pode resultar em R$ 12,8 bilhões a menos em gastos em 2027.",
+   "Estimativas apontam que a proposta pode gerar receitas extras de até R$ 18,3 bilhões."
+  ],
+  "explicacao": [
+   "Com a aprovação do plano Moretti, o governo busca melhorar seu equilíbrio fiscal sem penalizar excessivamente gastos sociais.",
+   "As medidas impactarão diretamente a vida de trabalhadores e empresários, especialmente com a possibilidade de aumento de impostos e contenção de recursos.",
+   "Os cortes em benefícios fiscais podem resultar em maiores encargos para as empresas, refletindo nos preços e no emprego."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. A CÃ¢mara dos Deputados aprovou nesta segunda-feira (23) o texto-base do chamado plano Moretti , projeto de ajuste apresentado pelo governo de Luiz InÃ¡cio Lula da Silva (PT) para melhorar a situaÃ§Ã£o das contas pÃºblicas . A iniciativa prevÃª medidas para elevar a arrecadaÃ§Ã£o e permitir maior contenÃ§Ã£o de gastos a partir de 2027. O presidente da Casa, Hugo Motta (Republicanos-PB), convocou sessÃ£o extraordinÃ¡ria para acelerar a tramitaÃ§Ã£o da proposta, e as discussÃµes comeÃ§aram pouco depois das 19h. O texto-base foi aprovado por volta das 22h30, com placar de 353 votos a 128, alÃ©m de cinco abstenÃ§Ãµes âtodas vindas de deputados do PT ou do PSOL. A proposta havia sido aprovada pelo Senado na Ãºltima quarta-feira (18), apÃ³s a equipe econÃ´mica concordar com algumas flexibilizaÃ§Ãµes em nome de acordos com a oposiÃ§Ã£o. O ministro Bruno Moretti (Planejamento e OrÃ§amento), principal nome por trÃ¡s das medidas, afirmou que as mudanÃ§as nÃ£o afetam o alcance fiscal do projeto, calculado entre R$ 46 bilhÃµes e R$ 56 bilhÃµes no ano que vem. A CÃ¢mara jÃ¡ rejeitou trÃªs mudanÃ§as e ainda vai votar mais trÃªs. Se o governo conseguir derrubar todas as alteraÃ§Ãµes, o texto seguirÃ¡ para sanÃ§Ã£o do presidente da RepÃºblica. Sem perspectiva de novas alteraÃ§Ãµes no texto, Moretti preferiu se reunir antes com algumas bancadas aliadas (como as do PSOL e do PCdoB), mas nÃ£o acompanhou a votaÃ§Ã£o de dentro do plenÃ¡rio. Foi uma postura diferente da adotada durante a apreciaÃ§Ã£o no Senado, quando o ministro acompanhou de perto todas as negociaÃ§Ãµes de acordo e atÃ© ajudou a redigir alteraÃ§Ãµes para facilitar a aprovaÃ§Ã£o. Moretti tambÃ©m precisou voltar Ã s atenÃ§Ãµes Ã elaboraÃ§Ã£o do relatÃ³rio de avaliaÃ§aÃµ do OrÃ§amento, que serÃ¡ divulgado nesta terÃ§a-feira (24). Ã nele que o governo indica a necessidade ou nÃ£o de segurar gastos para cumprir a meta fiscal do ano. Antes da votaÃ§Ã£o, o deputado JosÃ© GuimarÃ£es, que foi exonerado do cargo de ministro da SRI (Secretaria de RelaÃ§Ãµes Institucionais) para participar da votaÃ§Ã£o, disse que a aprovaÃ§Ã£o era necessÃ¡ria para justamente evitar uma contenÃ§Ã£o ainda maior de recursos no OrÃ§amento de 2026. Um dos artigos autoriza o governo a descontar da meta fiscal deste ano atÃ© R$ 10,5 bilhÃµes em gastos com a subvenÃ§Ã£o ao diesel. O governo persegue todos os anos uma meta de resultado primÃ¡rio, cujo saldo efetivo impacta a trajetÃ³ria da dÃ­vida pÃºblica. Quando hÃ¡ frustraÃ§Ã£o de receitas e essa meta fica sob risco, a equipe econÃ´mica precisa segurar despesas por meio de uma ferramenta conhecida como contingenciamento. Desde 2023, o alvo da polÃ­tica fiscal ainda conta com uma margem de tolerÃ¢ncia âou seja, se o resultado for pior do que a meta central, mas ficar acima do piso, a regra serÃ¡ cumprida. O que o projeto prevÃª sÃ£o aÃ§Ãµes para buscar efetivamente o centro da meta, ou seja, um saldo melhor das contas. Para isso, a proposta aprovada pelo Senado e que agora passou pelo crivo da CÃ¢mara cria um piso de contingenciamento , como antecipou a Folha . Se a queda das receitas levar o resultado primÃ¡rio para menos que o piso da meta fiscal, a expansÃ£o real do limite de gastos do arcabouÃ§o cairÃ¡ dos atuais 2,5% acima da inflaÃ§Ã£o para 2%. Isso representarÃ¡ uma contenÃ§Ã£o de ao menos R$ 12,8 bilhÃµes em 2027. O texto tambÃ©m dÃ¡ ao Executivo aval para segurar alguns gastos obrigatÃ³rios, hoje imunes ao congelamento de verbas, como seguro-defeso",
+  "numeros": [
+   {
+    "valor": "353 a 128",
+    "rotulo": "votação na Câmara"
+   },
+   {
+    "valor": "R$ 12,8 bilhões",
+    "rotulo": "corte de gastos estimado"
+   },
+   {
+    "valor": "R$ 18,3 bilhões",
+    "rotulo": "receitas extras possíveis"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Impostos",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Autônomos"
+  ],
+  "dor": "aumento de impostos e custos podem reduzir a margem de lucro",
+  "angulo": "Entender o ajuste fiscal é essencial para quem teme a instabilidade econômica. Aprender sobre o mercado financeiro pode ajudar a construir estratégias e novas fontes de renda.",
+  "gancho": "*Aumento de impostos* e contenção de gastos: entenda os",
+  "ideias": [
+   "Como o plano Moretti afeta seu bolso?",
+   "Impostos e ganhos: o que esperar do futuro?",
+   "Aposte no conhecimento financeiro para se proteger"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-sessao-para-votar-plano-moretti-com-medidas-para-conter-gastos-e-elevar-receitas.shtml",
+  "publicadoEm": "2026-11-23T19:16:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-11"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Indicações para o Banco Central: alerta para o mercado",
+  "resumo": "O presidente Lula é aconselhado a indicar nomes para o Banco Central que não desestabilizem o mercado financeiro. As decisões podem impactar diretamente a economia e a inflação.",
+  "fatos": [
+   "Lula deve indicar seis nomes para a diretoria do BC até o final de 2027.",
+   "Duas cadeiras estão desocupadas desde janeiro e mais duas até fevereiro de 2024.",
+   "A cotação do dólar ultrapassou R$ 6, fechando em R$ 5,92 após sinalizações do governo.",
+   "O ministro da Fazenda, Dario Durigan, apresentou o tema a investidores, visando conter a volatilidade.",
+   "O presidente Lula se reunirá com sua equipe econômica para discutir o plano de ajuste fiscal."
+  ],
+  "explicacao": [
+   "As indicações para o Banco Central são vistas como cruciais para o futuro econômico do país.",
+   "O governo busca tranquilizar o mercado financeiro, evitando escolhas que possam mudar a política econômica.",
+   "A alta do dólar e os impactos na inflação geram preocupação, especialmente para consumidores e empresários."
+  ],
+  "materia": "Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Gostaria de receber as principais notÃ­cias do Brasil e do mundo? Acesse seus artigos salvos em Minha Folha , sua Ã¡rea personalizada Acesse os artigos do assunto seguido na Minha Folha , sua Ã¡rea personalizada Gostaria de receber as principais notÃ­cias do Brasil e do mundo? VocÃª tem 7 acessos por dia para dar de presente. Qualquer pessoa que nÃ£o Ã© assinante poderÃ¡ ler. Assinantes podem liberar 7 acessos por dia para conteÃºdos da Folha. O presidente Luiz InÃ¡cio Lula da Silva foi aconselhado por auxiliares da Ã¡rea econÃ´mica a indicar nomes para a diretoria do Banco Central que nÃ£o afrontem o mercado financeiro. O recado, segundo relatos obtidos pela Folha, foi levado a investidores pelo ministro da Fazenda, Dario Durigan, nesta segunda-feira (23) em meio Ã escalada do dÃ³lar, que pela manhÃ£ ultrapassou a barreira de R$ 6. A mensagem foi interpretada por agentes do mercado como um freio a nomes como o do diretor-executivo do Brasil no FMI (Fundo MonetÃ¡rio Internacional), AndrÃ© Roncaglia, e do secretÃ¡rio-executivo do MinistÃ©rio do Planejamento, Guilherme Mello, em postos na diretoria do BC. Ambos os economistas sÃ£o considerados mais alinhados ao pensamento econÃ´mico do PT. A sinalizaÃ§Ã£o ajudou a conter a alta do dÃ³lar no final do dia, e a cotaÃ§Ã£o fechou em R$ 5,92. O patamar atingido pela moeda norte-americana, que tem efeitos sobre a inflaÃ§Ã£o, preocupa a Ã¡rea econÃ´mica, e o assunto deverÃ¡ ser tratado nesta terÃ§a-feira (24) por Lula. O presidente vai receber integrantes da equipe econÃ´mica para falar do plano de ajuste fiscal. Entre os convocados estÃ£o o vice, Geraldo Alckmin, e os ministros Bruno Moretti (Planejamento), Miriam Belchior (Casa Civil) e Esther Dweck (GestÃ£o), alÃ©m de Durigan. O presidente do Banco Central, Gabriel GalÃ­polo, tambÃ©m foi chamado. O presidente ainda nÃ£o conversou sobre nomes para a diretoria do BC e disse que falaria em outro momento, de acordo com pessoas a par do tema ouvidas pela Folha. As indicaÃ§Ãµes de Lula para o BC estÃ£o sendo acompanhadas com lupa pelo mercado financeiro e, para muitos economistas, sÃ£o apontadas atÃ© como mais importantes do que o anÃºncio do nome do futuro ministro da Fazenda. Como mostrou a Folha , Lula poderÃ¡ indicar seis nomes para a diretoria do Banco Central atÃ© o fim de 2027. Duas cadeiras estÃ£o desocupadas desde janeiro, e mais duas indicaÃ§Ãµes poderÃ£o ser feitas atÃ© fevereiro do prÃ³ximo ano. Outras duas vagas abrem em 31 de dezembro de 2027. HÃ¡ o temor de que, com isso, haja uma mudanÃ§a do perfil do BC e, portanto, do colegiado do Copom (ComitÃª de PolÃ­tica MonetÃ¡ria), que decide o rumo dos juros do paÃ­s. Para conter as especulaÃ§Ãµes que tÃªm afetado negativamente a cotaÃ§Ã£o do dÃ³lar, o ministro da Fazenda adotou uma estratÃ©gia de \"bombeiro\" ao longo do dia, num movimento coordenado, jÃ¡ que havia a expectativa na equipe econÃ´mica de uma maior volatilidade depois da fala de Lula no fim de semana. Em live no sÃ¡bado, o presidente voltou a atacar o que chamou de \"yuppies da Faria Lima\" e afirmou que nÃ£o aceitarÃ¡ a pressÃ£o de bancos e investidores sobre a conduÃ§Ã£o da polÃ­tica econÃ´mica de seu governo. Em evento do ItaÃº Unibanco, nesta segunda-feira (23), o ministro da Fazenda sinalizou que o presidente vai decidir, nas prÃ³ximas duas semanas, as indicaÃ§Ãµes para cargos no BC, na CVM (ComissÃ£o de Valores MobiliÃ¡rios) e no Cade (Conselho Administrativo de Defesa EconÃ´mica). Segundo ele, a definiÃ§Ã£o da agenda fiscal tambÃ©m Ã© importante para dar previsibilidade Ã votaÃ§Ã£o do OrÃ§amento de 2027. Ao longo do dia, Durigan tambÃ©m negou que o governo planeja adotar medidas de controle de capitais e alterar a meta de inflaÃ§Ã£o no quarto mandato de Lula. \"Ã muito importante notar que nÃ£o planejamos, embora tenha havido algum barulho durante o perÃ­odo eleitoral vindo de alguns representantes do PT , nÃ£o temos nada planejado, nÃ£o discutimos ",
+  "numeros": [
+   {
+    "valor": "6",
+    "rotulo": "números que Lula pode indicar para o BC"
+   },
+   {
+    "valor": "R$ 5,92",
+    "rotulo": "cotação do dólar ao fechamento"
+   }
+  ],
+  "fonte": "Folha Mercado",
+  "categoria": "Negócios",
+  "publico": [
+   "Empresários",
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "medo de perder estabilidade financeira",
+  "angulo": "Entender como as decisões de indicações para o BC impactam sua vida financeira é essencial para estar preparado e diversificar fontes de renda.",
+  "gancho": "Decisões *do Banco Central* afetam seu bolso",
+  "ideias": [
+   "O impacto das escolhas do BC na sua vida",
+   "Por que as indicações do BC importam",
+   "Como a alta do dólar pode afetar você"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-e-aconselhado-pela-area-economica-a-indicar-nomes-para-bc-que-nao-afrontem-o-mercado.shtml",
+  "publicadoEm": "2026-11-23T23:00:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-10"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Novas regras de trabalho: impactos no seu bolso",
+  "resumo": "O Ministério do Trabalho lançou a Portaria MTE nº 2.041/2026, alterando a jornada de trabalho com nova escala 5x2. Isso pode afetar seu salário e tempo livre.",
+  "fatos": [
+   "A Portaria MTE nº 2.041/2026 foi publicada em 23 de outubro de 2023.",
+   "A nova jornada 5x2 garante 42 horas semanais a partir de 16 de dezembro de 2026 e 40 horas a partir de 16 de dezembro de 2027.",
+   "Trabalhadores devem ter dois dias de descanso por semana, preferencialmente um domingo.",
+   "Se trabalharem no dia de descanso, o pagamento será em dobro se não houver compensação.",
+   "Faltas sem justificativa podem resultar em perda de remuneração do repouso semanal."
+  ],
+  "explicacao": [
+   "A nova regulamentação visa proporcionar uma carga horária mais equilibrada para os trabalhadores, garantindo descanso adequado.",
+   "A mudança nos limites de horas também busca proteger os direitos trabalhistas, evitando sobrecarga de trabalho.",
+   "Para empresários, isso significa necessidade de ajustar escalas e compensações, impactando a gestão de recursos humanos."
+  ],
+  "materia": "Portaria do Ministério do Trabalho publicada nesta segunda-feira (23) estabelece regras para dois dias de descanso semanal O Ministério do Trabalho publicou nesta segunda-feira (23) a Portaria MTE nº 2.041/2026 , que regulamenta a duração do trabalho e os períodos de descanso no modelo da jornada 5x2. Na quinta-feira (19) passada, a pasta anunciou que começaria a publicar portarias específicas para as categorias especiais a partir de hoje . A mudança será implementada em duas etapas. A partir de 16 de dezembro de 2026, a jornada normal ficará limitada a 42 horas semanais. Já em 16 de dezembro de 2027, o limite passará a ser de 40 horas. Não é permitido reduzir o salário dos colaboradores. A norma assegura dois dias de repouso semanal a todos os empregados, cada um com 24 horas consecutivas. Um deles deverá ser concedido preferencialmente aos domingos. As folgas poderão ser consecutivas. As empresas também poderão adotar regimes compensatórios por meio de convenção ou acordo coletivo, desde que garantam uma média de dois repousos por semana no mês-calendário. Nesse modelo, o trabalhador não poderá permanecer mais de seis dias consecutivos em atividade antes de receber uma folga. Uma empresa bem-sucedida erra ao confiar demais na própria fórmula: CEO do Itaú revela o que aprendeu sobre liderança 56% dos profissionais acreditam que podem precisar mudar de carreira nos próximos anos, aponta HP Para calcular a média, o total de descansos no mês deverá ser igual ou superior ao dobro do número de dias do mês dividido por sete, com arredondamento para o número inteiro imediatamente superior. Nas atividades que exigem trabalho aos domingos por razões técnicas ou de interesse público, as empresas deverão manter uma escala mensal de revezamento. A portaria estabelece regras específicas: Se o empregado trabalhar no dia de repouso e não receber uma folga compensatória na mesma semana, o pagamento deverá ser feito em dobro. A portaria prevê a perda da remuneração do repouso semanal quando o empregado, sem motivo justificado ou em razão de punição disciplinar, deixar de trabalhar durante toda a semana e não cumprir integralmente o horário de trabalho. Já as ausências legalmente justificadas, como férias e licenças previstas na CLT e na Lei nº 605/1949, não prejudicam a frequência exigida para manter o direito ao descanso. A regulamentação da 5x2 também altera os divisores utilizados para calcular o salário-hora normal, que serve de base para o pagamento de horas extras, adicional noturno e outras parcelas calculadas por hora. O cálculo é feito pela divisão do salário mensal contratual pelo divisor aplicável. A mudança dos divisores não altera o valor nominal do salário mensal. Também ficam preservados os divisores mais favoráveis previstos em acordos ou convenções coletivas, contratos individuais ou regulamentos internos das empresas. A portaria ainda esclarece que o divisor do salário-hora não se confunde com a aferição do limite médio da duração semanal e mensal no mês-calendário. As horas acumuladas no banco de horas até 15 de dezembro de 2026 deverão ser compensadas ou pagas conforme as condições do instrumento coletivo ou acordo individual original. Já as horas trabalhadas a partir de 16 de dezembro deverão respeitar os limites constitucionais de cada etapa. A portaria também estabelece regras para regimes específicos: Turnos ininterruptos de revezamento: jornada de seis horas diárias, mantidos os dois dias de repouso semanal. Escala 12x36: descanso de 36 horas ininterruptas após 12 horas de trabalho. Se a média mensal ultrapassar o limite constitucional semanal, deverá haver pagamento de horas extras ou compensação. Outra determinação é a proibição de iniciar as férias nos dois dias que antecedem um feriado ou o dia de repouso semanal. A portaria prevê prazo de 90 dias para a observância do critério da dupla visita pela fiscalização do trabalho na jornada 5x2. A contagem será independente para cada etapa: começa em 16 de dezembro de 20",
+  "numeros": [
+   {
+    "valor": "2",
+    "rotulo": "dias de descanso semanal"
+   },
+   {
+    "valor": "42",
+    "rotulo": "horas semanais a partir de 2026"
+   },
+   {
+    "valor": "40",
+    "rotulo": "horas semanais a partir de 2027"
+   }
+  ],
+  "fonte": "Seu Dinheiro",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "perda de renda e dificuldade em gerenciar folgas",
+  "angulo": "Aprender sobre o mercado financeiro pode ser a chave para diversificar sua renda e escapar das amarras do emprego tradicional.",
+  "gancho": "Novas regras de trabalho: *seus direitos em jogo*",
+  "ideias": [
+   "O que muda na jornada de trabalho?",
+   "Entenda suas novas folgas e direitos!",
+   "Como as novas leis impactam seu salário?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://www.seudinheiro.com/2026/carreiras/escala-5x2-novas-regras-definem-folgas-aos-domingos-descontos-por-faltas-e-horas-extras-cbcb/",
+  "publicadoEm": "2026-11-23T18:28:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-09"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças na jornada de trabalho afetam seu bolso",
+  "resumo": "Nova portaria muda a escala de trabalho, garantindo mais folgas, mas alterando o cálculo de horas e remuneração. Isso pode impactar sua renda e a forma como trabalha.",
+  "fatos": [
+   "Portaria do Ministério do Trabalho estabelece nova jornada de 5x2, a partir de 16 de dezembro.",
+   "Trabalhadores têm direito a duas folgas semanais, mas apenas uma será remunerada.",
+   "Empresas serão inspecionadas em 90 dias para adequação às novas regras.",
+   "A jornada semanal terá redução de 44 para 42 horas inicialmente e, em 2027, cairá para 40 horas.",
+   "Desempregados podem sofrer com as novas regras de remuneração das horas extras."
+  ],
+  "explicacao": [
+   "A nova portaria busca atender à demanda por uma jornada de trabalho mais equilibrada, mas gera preocupações sobre a remuneração.",
+   "Apesar das duas folgas, a mudança no cálculo do descanso remunerado pode resultar em impactar a renda total dos trabalhadores.",
+   "A fiscalização das empresas se intensifica, e as penalidades em caso de descumprimento podem afetar a estabilidade no emprego."
+  ],
+  "materia": "Portaria publicada nesta segunda-feira pelo governo prevê que o Ministério do Trabalho fará duas visitas a empresas, no prazo de 90 dias, para inspecionar a aplicação da nova escala 5x2, que entra em vigor em 16 de dezembro. Nesta data, o trabalhador terá direito a duas folgas semanais e carga horária de 42 horas. Após ir a R$ 6: Dólar fecha em baixa a R$ 5,92, com incertezas sobre política fiscal e cenário externo Fora do ajuste fiscal: Previdência dos militares tem déficit de R$ 53 bi: menos de 1% fica na ativa até os 60 anos A partir de 16 de dezembro de 2027, a jornada cairá para 40 horas semanais, quando os auditores retornarão às empresas. Na primeira inspeção, os fiscais vão orientar os empregadores sobre a adequação às novas regras. Caso as irregularidades não sejam sanadas, as empresas serão multadas. A portaria complementa o decreto presidencial assinado na quinta-feira que trata da implementação da nova escala de trabalho para os assalariados do país. A norma reforça as premissas da Emenda que acaba com a escala 6x1 promulgada pelo Congresso em 16 de outubro. Fim da escala 6x1: governo atende a empresários e exclui segunda folga do cálculo do descanso remunerado (DSR) Um dos principais pontos é a neutralidade salarial, ou seja, a nova escala não pode gerar nem redução e nem aumento de salário. Para isso, o governo fixou um divisor para calcular o valor unitário da hora trabalhada: Na primeira fase, o valor da remuneração deve ser dividido por 210, quando a jornada atual baixar de 44 horas para 42 horas e, na segunda, por 200 quando a jornada semanal cair para 40 horas. O valor unitário da hora influencia no pagamento da hora extra, que tem um adicional de 50% sobre a hora normal. Focus: mercado eleva previsão de inflação para 2026 e 2027 e vê Selic a 13% no próximo ano Embora o trabalhador passe a ter direito a dois dias de folgas na semana, ele será remunerado apenas por um. No caso de uma falta injustificada na semana, o empregador poderá descontar um dia do descanso remunerado e não dois. A portaria também abre possibilidade para que os dois de descanso não sejam seguidos e nem dentro da semana. Contudo, eles precisam ser contabilizados dentro do mês e os sindicatos poderão negociar como as folgas serão compensadas. Câmara deve votar pacote fiscal hoje; veja outras pautas econômicas que o governo tenta aprovar até dezembro O trabalhadores com escala 12x36 poderão compensar as horas trabalhadas ou serem remunerados pelas horas extras quando a jornada resultar, no mês-calendário, em média superior ao limite semanal constitucional, nos termos de convenção ou acordo coletivo de trabalho. Ainda nesta semana, o Ministério do Trabalho deverá publicar várias portarias para adequar às novas regras atividades econômicas com escala definidas em leis específicas, como tripulantes de voo e petroleiros. Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui Quer acessar a conta da sua assinatura? Login aqui",
+  "numeros": [
+   {
+    "valor": "42 horas",
+    "rotulo": "jornada semanal inicial"
+   },
+   {
+    "valor": "40 horas",
+    "rotulo": "jornada semanal em 2027"
+   },
+   {
+    "valor": "90 dias",
+    "rotulo": "prazo para fiscalização"
+   }
+  ],
+  "fonte": "O GLOBO",
+  "categoria": "Trabalho",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "preocupação com a diminuição da renda mensal",
+  "angulo": "Entender o mercado financeiro pode proporcionar novas oportunidades de renda sem depender das regras tradicionais de trabalho.",
+  "gancho": "Mudanças na jornada de trabalho *podem afetar seu salário*",
+  "ideias": [
+   "Nova jornada: o que você precisa saber",
+   "Como as mudanças afetam seu salário?",
+   "A importância de diversificar sua renda"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://oglobo.globo.com/google/amp/economia/noticia/2026/11/23/fim-da-escala-6x1-portaria-preve-fiscalizacao-em-empresas-em-90-dias-a-partir-da-entrada-em-vigor-de-nova-jornada.ghtml",
+  "publicadoEm": "2026-11-23T18:56:57-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-08"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Mudanças no trabalho: jornada 5x2 e folha de pagamento",
+  "resumo": "O novo decreto do governo altera a jornada de trabalho a partir de 16 de dezembro, trazendo impacto nos salários e custos de horas extras. Entenda como isso afeta o seu bolso.",
+  "fatos": [
+   "A jornada 5x2, com cinco dias trabalhados e dois de descanso, entra em vigor em 16 de dezembro.",
+   "O limite de horas semanais será reduzido de 44 para 42 horas, e para 40 horas a partir de dezembro de 2027.",
+   "O cálculo da hora trabalhada vai mudar com a alteração do divisor de 220 para 210 em dezembro.",
+   "Salário de R$ 5.500 resultará em R$ 26,19 por hora após a mudança, comparado a R$ 25 atualmente.",
+   "A nova regra exige que os trabalhadores tenham, no mínimo, dois dias de descanso por semana, preferencialmente aos domingos.",
+   "Acordos coletivos poderão estabelecer regras diferenciadas para dias de descanso, mas não devem ser incompatíveis com estas novas normas."
+  ],
+  "explicacao": [
+   "Essas mudanças foram implementadas para regular o tempo de trabalho e garantir os direitos dos trabalhadores.",
+   "Com a redução das horas semanais, o valor da hora trabalhada aumentará, impactando o cálculo de horas extras.",
+   "Por consequência, aumentarão os custos das empresas com horas extras, o que pode afetar a margem de lucro.",
+   "A nova jornada busca promover uma melhor qualidade de vida para os trabalhadores, mas pode pressionar os empresários."
+  ],
+  "materia": "O ministério do Trabalho publicou, nesta segunda-feira (23), uma portaria com regras complementares ao decreto assinado na última quinta-feira (19), que regulamentou a jornada de trabalho 5x2, com cinco dias de trabalho e dois de descanso , a partir de 16 de dezembro. Entenda como fica o cálculo salarial a partir do dia 16, bem como as regras do descanso semanal e o papel dos acordos coletivos de trabalho: Todos os empregados terão direito a dois dias de descanso por semana, cada um com 24 horas consecutivas. Ou seja, o descanso deverá ser tirado durante um dia inteiro, sem fracioná-lo em dias de meio período de trabalho. Um desses dias deve ser, preferencialmente, aos domingos. Mesmo que não sejam em dias consecutivos, esses dias devem ser tirados dentro da mesma semana. É possível, mediante convenção ou acordo coletivo de trabalho, uma distribuição dos dias de descanso diferente ao longo do mês. Nesses casos, deverá ser garantida a média de dois dias de repouso semanal remunerado dentro do mês. E é obrigatório conceder, ao menos, um dia de descanso a cada período máximo de seis dias consecutivos de trabalho. Para os empregados que trabalham em escala de 12 horas consecutivas de trabalho por 36 horas ininterruptas de descanso (12x36), quando a média de horas trabalhadas no mês ultrapassar o limite semanal constitucional, deverá ser assegurada a compensação das horas excedentes ou o pagamento de horas extras, nos termos de convenção ou acordo coletivo de trabalho. A duração normal do trabalho passará a ser de cinco dias de jornada semanal por dois dias de descanso e haverá redução do atual limite semanal de 44 horas para 42 horas a partir de dezembro e para 40 horas, a partir de dezembro de 2027. Como o trabalhador receberá o mesmo salário por uma carga horária mensal menor, o valor de referência da hora sobe. Consequentemente, eleva o custo das horas extras e de outros adicionais trabalhistas. Para calcular o valor da hora de trabalho, será preciso usar um número, que o governo chama de divisor. Atualmente, esse divisor é o número 220, porque são 44 horas semanais de trabalho. O trabalhador deverá dividir o seu salário mensal por 220. Assim, descobrirá quanto sua hora de trabalho vale. Se o salário mensal é de R$ 5,5 mil, por exemplo, significa que a hora trabalhada, hoje, vale R$ 25. Com a redução para 42 horas em 16 de dezembro, o divisor passará a ser 210. Assim, o salário de R$ 5,5 mil usado acima como exemplo não se altera. Mas o valor da hora trabalhada passará a ser de R$ 26,19. A partir de 16 de dezembro de 2027, quando a jornada passar para 40 horas semanais, será utilizado o divisor 200. A partir dessa data, a hora trabalhada de quem recebe um salário de R$ 5,5 mil será de R$ 27,50. No caso de trabalhadores remunerados por hora, dia, tarefa, peça ou comissão, o cálculo observará as regras específicas previstas na Portaria. Essas regras garantem a manutenção da remuneração mensal. No caso dos horistas, a remuneração dos dois dias de repouso poderá ser incorporada ao valor da hora efetivamente trabalhada, mediante aumento de 16,667% sobre o salário-hora normal. A negociação alcançada por meio de convenção ou acordo coletivo pode determinar quando ocorrerão os dias de descanso semanal remunerado ou estabelecer uma regra excepcional para a distribuição desses dias. Caso a jornada diária exceda o máximo de 8 horas, a convenção ou acordo coletivo poderá determinar como será feita essa compensação ao trabalhador, como já ocorre, e observada a legislação trabalhista. As novas regras não afastam a possibilidade de realização de horas extras nem a adoção de regimes diferenciados de trabalho previstos em lei. No entanto, acordos coletivos ou cláusulas de convenções que sejam incompatíveis com os novos limites de jornada e repouso semanal, deixarão de ser válidas a partir da data em que as respectivas obrigações se tornarem exigíveis. Ficarão preservadas as demais disposições dos instrumentos coletivos e as condições mais favor",
+  "numeros": [
+   {
+    "valor": "220 para 200",
+    "rotulo": "divisores de horas de trabalho"
+   },
+   {
+    "valor": "16 de dezembro de 2027",
+    "rotulo": "data da nova jornada de 40 horas"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Aposentados",
+   "Empresários"
+  ],
+  "dor": "aumentos nas despesas com folha de pagamento",
+  "angulo": "Com as novas regras, aprender sobre o mercado financeiro pode ser essencial para se adaptar e aumentar sua renda sem depender de horários fixos.",
+  "gancho": "Novas regras de *jornada de trabalho* impactam seu bolso",
+  "ideias": [
+   "Entenda as mudanças na jornada de trabalho",
+   "O que significa a jornada 5x2 para seu salário",
+   "Como a nova legislação pode afetar seus custos"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-23T23:42:56-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/jornada-5x2-veja-como-ficam-regras-de-salario-folgas-e-horas-extras",
+  "publicadoEm": "2026-11-23T20:40:00-03:00",
+  "data": "2026-11-23",
+  "id": "2026-11-23-trader-07"
  },
  {
   "segmento": "trader",
