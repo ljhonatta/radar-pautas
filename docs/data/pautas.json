@@ -1,6 +1,465 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Workshop sobre IA: potencial para transformar negócios",
+  "resumo": "O Summit Inteligência Artificial visa capacitar empresários a aplicar IA em suas operações. Edição em 2 de dezembro promete resultados práticos a partir de workshops.",
+  "fatos": [
+   "O Summit Inteligência Artificial ocorrerá em 2 de dezembro de 2026, em São Paulo.",
+   "Participantes confeccionarão um agente de IA funcional durante o evento.",
+   "O encontro é parte de uma programação que discutiu temas como pagamentos e plataformas.",
+   "Bruno Pati, CEO do E-Commerce Brasil, destaca a diferença entre conhecer e aplicar tecnologia.",
+   "Exemplos de uso de IA no varejo foram citados, como o Grupo Boticário e o Assaí."
+  ],
+  "explicacao": [
+   "O evento busca reduzir a lacuna entre a teoria e a prática na aplicação de inteligência artificial.",
+   "Os participantes desenvolverão uma ferramenta que pode otimizar diversas funções no cotidiano empresarial.",
+   "O workshop enfatiza a importância de medir a eficácia da tecnologia na melhora dos processos."
+  ],
+  "materia": "Os participantes do último Summit do E-Commerce Brasil em 2026 vão sair do encontro com um agente de inteligência artificial funcionando . O formato troca parte das palestras por workshop, com vagas limitadas. O Summit Inteligência Artificial acontece em 2 de dezembro, em São Paulo. Cada participante deve levar o próprio notebook e acompanhar a construção de um agente aplicado ao negócio em que trabalha. O encontro encerra a programação de Summits do ano, que teve edições dedicadas a pagamentos, plataformas, indústria e outros temas. A proposta parte da diferença entre conhecer a tecnologia e aplicá-la na operação. “Passamos o ano inteiro discutindo inteligência artificial, suas possibilidades e o impacto que ela pode ter nos negócios. Mas existe uma diferença muito grande entre ouvir falar de IA e conseguir construir algo que funcione na sua operação”, afirma Bruno Pati, CEO do E-Commerce Brasil. Segundo ele, a ideia é reduzir essa distância e fazer com que os participantes entendam na prática como usar a tecnologia para resolver problemas da própria rotina. A organização separa dois usos. A ferramenta generativa produz texto, imagem e análise, enquanto o agente pode ser configurado para atuar em etapas de um processo, consultar informações e executar ações dentro de parâmetros definidos. No comércio eletrônico, o formato abre caminho para organização de informações, análise de dados, acompanhamento de operações e automação de rotinas. A aplicação de IA no varejo já aparece em frentes distintas, do desconto calculado por algoritmo para toda a base de fidelidade do Grupo Boticário ao reconhecimento de imagem que o Assaí prepara para os caixas de todas as lojas. O comércio conduzido por agentes também entrou nos acordos entre plataformas e meios de pagamento, e neste mês Temu e Mastercard ampliaram a parceria com foco em pagamentos e compras agênticas. “Não basta uma empresa dizer que está usando inteligência artificial. A pergunta que precisamos fazer é: o que essa tecnologia está melhorando? Ela está economizando tempo, ajudando a tomar decisões ou tornando algum processo mais eficiente?”, acrescenta Pati. O encontro acontece na próxima quarta-feira, 2 de dezembro de 2026, na sede do E-Commerce Brasil, na Avenida Francisco Matarazzo, 1400, Torre Milano, 9º andar, no bairro Água Branca, em São Paulo. Faça sua inscrição .",
+  "numeros": [
+   {
+    "valor": "2 de dezembro de 2026",
+    "rotulo": "data do evento"
+   }
+  ],
+  "fonte": "E-Commerce Brasil",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Indústria"
+  ],
+  "dor": "perda de competitividade e eficiência nos negócios",
+  "angulo": "Entender como a IA pode ser aplicada no seu negócio é essencial para se destacar na concorrência. Aprender a usar essa tecnologia é um passo importante.",
+  "gancho": "*Transforme seu negócio* com inteligência artificial!",
+  "ideias": [
+   "Como usar IA no seu negócio?",
+   "Desenvolva um agente de IA: inscreva-se!",
+   "O impacto da IA no futuro do varejo"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://www.ecommercebrasil.com.br/noticias/summit-ia-aposta-em-workshops-para-levar-agentes-a-pratica",
+  "publicadoEm": "2026-11-25T17:19:04-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-vpr-23"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "IA e novas ferramentas: essencial para seu negócio",
+  "resumo": "O Google Mensagens agora conta com a integração do Gemini Tasks, um assistente de IA que poderá avisar sobre entregas e promoções, mas ainda não está disponível no Brasil.",
+  "fatos": [
+   "O Google Mensagens ganhou integração com o Gemini Tasks, um agente de IA.",
+   "Essa ferramenta permite procurar atualizações de entrega e alertas de promoções.",
+   "O Gemini Tasks pode enviar resumos diários com informações importantes.",
+   "Ainda não está disponível no Brasil, foi liberado apenas para algumas regiões.",
+   "O Gemini Spark e ChatGPT podem ser usados para configurar alertas de preços."
+  ],
+  "explicacao": [
+   "A integração do Google com a IA visa facilitar o acompanhamento de entregas e promoções.",
+   "Essas novidades têm o potencial de melhorar o atendimento ao consumidor e aumentar as vendas.",
+   "Empresas que investem em tecnologia e automação tendem a se destacar no mercado, mesmo nas promoções.",
+   "Com a corrida para a Black Friday, estar à frente em tecnologia pode fazer a diferença.",
+   "O monitoramento de preços por IA ajuda os consumidores a serem mais informados sobre suas compras."
+  ],
+  "materia": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam O Google Mensagens ganhou uma integração com o Gemini Tasks , agente de IA capaz de executar tarefas automaticamente. Entre os destaques, é possível procurar por atualizações de entrega de pedidos e mostrar alertas de promoções. Os resultados são entregues pelo Gemini dentro de uma conversa com o assistente no mensageiro. De acordo com o site 9to5Google, a ferramenta pode enviar resumos diários pela manhã e pela noite com informações importantes, como horários de voos, lembretes de assinaturas próximas do fim e cupons de desconto. Ainda é possível usar o chat como uma janela de conversa padrão com a IA para tirar dúvidas. O Gemini Tasks, entretanto, ainda não está disponível no Brasil — a ferramenta foi liberada na última semana para um grupo limitado de regiões. IA pode monitorar descontos Ainda que o recurso não tenha chegado por aqui, é possível usar IAs para configurar alertas de descontos e promoções, especialmente durante a Black Friday. O Gemini Spark consegue criar listas de produtos favoritos , pesquisar na web pelos preços e avaliar possíveis mudanças de valores. O ChatGPT, por sua vez, consegue criar alertas de preços para determinados itens e informar se o valor foi atingido. A função requer o modelo GPT-6.2, usado para criar pesquisas recorrentes, e o limite de buscas varia de acordo com cada plano de assinatura.",
+  "numeros": [
+   {
+    "valor": "6.2",
+    "rotulo": "modelo do ChatGPT para alertas"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "perder clientes para concorrentes mais informados",
+  "angulo": "Com as novas soluções de IA, seu negócio pode se destacar ao oferecer suporte proativo e informações relevantes para seus clientes, valorizando a experiência do consumidor.",
+  "gancho": "novas ferramentas que *podem transformar seu atendimento*",
+  "ideias": [
+   "Como a IA pode ajudar seu negócio?",
+   "Promova sua empresa com as novas tecnologias",
+   "Esteja à frente na corrida da Black Friday"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "celular",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/",
+  "publicadoEm": "2026-11-25T16:01:00-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-vpr-22"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Samsung e a importância da IA na fotografia móvel",
+  "resumo": "A Samsung está desenvolvendo um recurso de IA que melhora a qualidade de fotos com zoom nos celulares Galaxy. A novidade pode impactar a forma como os consumidores utilizam a fotografia em seus dispositivos.",
+  "fatos": [
+   "A ferramenta se chama 'Zoom Enhancer' e faz parte da One UI 9.5 para celulares Galaxy.",
+   "Ela utiliza inteligência artificial para aprimorar fotos tiradas com zoom, mesmo após a captura.",
+   "O recurso está atualmente na versão beta e foi identificado pelo SamMobile.",
+   "Fotos de baixa resolução também podem ser melhoradas pelo Zoom Enhancer.",
+   "A Samsung pode oferecer uma assinatura chamada Galaxy AI Premium para funcionalidades adicionais, mas não confirmou se o Zoom Enhancer fará parte disso."
+  ],
+  "explicacao": [
+   "A criação do Zoom Enhancer surge para resolver a perda de detalhes comum em fotos com zoom digital.",
+   "Ele utiliza o Galaxy AI para identificar automaticamente imagens que podem ser aprimoradas.",
+   "Embora melhore a nitidez, a Samsung ressalta que os detalhes gerados podem diferir do que foi capturado."
+  ],
+  "materia": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular A Samsung está desenvolvendo uma ferramenta de inteligência artificial (IA) capaz de melhorar a qualidade de fotografias tiradas com zoom nos celulares Galaxy. O “ Zoom Enhancer” permitirá aprimorar a nitidez de imagens diretamente na Galeria do celular, mesmo após a captura. A novidade foi identificada pelo SamMobile nesta quarta-feira (25) na primeira versão beta da One UI 9.5 para a linha Galaxy S26. A ferramenta ainda está oculta no sistema e não pode ser acessada pelos participantes do programa de testes. Como funciona o Zoom Enhancer da Samsung? Diferentemente do zoom óptico, que utiliza as lentes da câmera para aproximar uma cena, o zoom digital recorta e amplia uma parte da imagem capturada pelo sensor. Esse processo pode resultar na perda de detalhes e na redução da nitidez da fotografia. O Zoom Enhancer utilizará o Galaxy AI para aprimorar tanto fotos tiradas com altos níveis de zoom quanto imagens de baixa resolução. Após ativar o recurso nas configurações da Galeria, o aplicativo deverá identificar automaticamente fotografias que podem ser aprimoradas e sugerir a edição. Nos exemplos divulgados pelo SamMobile, a ferramenta conseguiu reduzir os ruídos presentes na fotografia, mas apresentou uma melhora pouco significativa no nível de detalhes. A própria Samsung alerta que os detalhes gerados pela IA podem ser diferentes daqueles presentes na cena original . Isso significa que a ferramenta pode recriar elementos e texturas que não foram registrados com precisão pela câmera. Após o processamento, será possível comparar a imagem original com a versão aprimorada, salvar o resultado na Galeria ou compartilhá-lo. O Android Authority também identificou que a ferramenta depende do processamento em nuvem. Segundo informações encontradas na interface do recurso, a Samsung não armazenará as imagens processadas em seus servidores. Zoom Enhancer será um recurso pago? A Samsung está desenvolvendo uma possível assinatura chamada Galaxy AI Premium , que deverá oferecer ferramentas mais avançadas de inteligência artificial e limites maiores de utilização. A fabricante já informou que os recursos básicos do Galaxy AI continuarão gratuitos, mas que novas funcionalidades poderão ser pagas. Ainda não há confirmação de que o Zoom Enhancer fará parte da assinatura. One UI 9.5 terá novidades na câmera Além do Zoom Enhancer, outras ferramentas relacionadas à fotografia foram anunciadas ou identificadas na nova versão do sistema: Reformulação do aplicativo Câmera , com botões maiores e configurações personalizáveis nos modos Pro e Vídeo Pro; Captura de fotografias panorâmicas de até 360 graus , utilizando as câmeras frontal e traseira do celular; Criação de vídeos curtos com IA , a partir de fotos e vídeos armazenados na Galeria. A One UI 9.5 está em fase beta em seis países, e o Brasil ainda não faz parte do programa de testes. A expectativa é que a versão estável seja lançada no início de 2027, junto à linha Galaxy S27. Veja também: Quando a One UI 9.5 será lançada?",
+  "numeros": [
+   {
+    "valor": "2027",
+    "rotulo": "lançamento da One UI 9.5 estável"
+   }
+  ],
+  "fonte": "Canaltech",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Profissionais liberais",
+   "Restaurantes",
+   "Comércio local",
+   "Empresários"
+  ],
+  "dor": "perder oportunidades de vendas por fotos de baixa qualidade",
+  "angulo": "A novidade da Samsung mostra como a IA está transformando a fotografia e como empresas podem se beneficiar com boas imagens para atrair clientes.",
+  "gancho": "Aumente suas vendas com *fotos que impressionam*",
+  "ideias": [
+   "Como a IA muda a fotografia empresarial",
+   "Impacto da qualidade da imagem nas vendas",
+   "O futuro da fotografia com IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://canaltech.com.br/software/one-ui-95-vai-ganhar-recurso-de-ia-que-melhora-fotos-com-zoom-no-celular/",
+  "publicadoEm": "2026-11-25T15:20:03-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-vpr-21"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Golpes financeiros ameaçam empresas com uso de IA",
+  "resumo": "Com o avanço da inteligência artificial, os golpes financeiros estão mais sofisticados, aumentando riscos para as empresas. É essencial adotar medidas de segurança para proteger operações comerciais.",
+  "fatos": [
+   "Mais de 24 milhões de brasileiros foram vítimas de golpes entre julho de 2024 e junho de 2025, com prejuízos de quase R$ 29 bilhões.",
+   "O Brasil teve 10,9 milhões de tentativas de fraude nos primeiros nove meses de 2025.",
+   "Um funcionário de uma multinacional em Hong Kong perdeu US$ 25,6 milhões após ser enganado por uma videoconferência fraudulenta em 2024.",
+   "38% dos entrevistados em pesquisa do Radar Febraban relataram ter sofrido golpes ou tentativas.",
+   "Os golpes variam entre fraudes com deepfake e métodos tradicionais, como phishing e boletos adulterados."
+  ],
+  "explicacao": [
+   "Os golpes financeiros estão se tornando mais complexos, especialmente com a utilização de inteligência artificial.",
+   "Tecnologias como deepfake estão permitindo que golpistas reproduzam identidades de forma convincente, tornando tarefas como a confirmação de transferências muito mais desafiadoras.",
+   "Empresas que não adaptarem seus processos e sistemas de segurança poderão sofrer perdas financeiras significativas e comprometer suas operações."
+  ],
+  "materia": "Imagine receber uma videochamada de alguém que parece ser seu diretor, reconhecer a voz, identificar o rosto e ouvir uma solicitação urgente de transferência bancária. Tudo parece legítimo, mas existe um detalhe que pode mudar completamente a situação: a pessoa do outro lado da tela pode não ser quem aparenta ser. Com o avanço da inteligência artificial, golpes financeiros estão ganhando novas formas e tornando mais difícil identificar tentativas de fraude. A reprodução digital de vozes, rostos e até de reuniões virtuais inteiras passou a representar um desafio para empresas de diferentes portes, especialmente aquelas que ainda dependem exclusivamente da confiança e de procedimentos internos pouco rigorosos para autorizar pagamentos. O assunto entrou em pauta em Florianópolis durante uma reunião do Conselho Deliberativo da Câmara de Dirigentes Lojistas (CDL) da Capital, realizada na terça-feira, 24 de novembro. O encontro reuniu especialistas do Sicredi para discutir a evolução dos golpes financeiros, os prejuízos causados às empresas e as medidas necessárias para proteger o patrimônio e as operações comerciais. Os números apresentados durante a reunião ajudam a dimensionar o problema. Levantamento do Fórum Brasileiro de Segurança Pública aponta que aproximadamente 24 milhões de brasileiros foram vítimas de golpes entre julho de 2024 e junho de 2025. Nesse período, os prejuízos chegaram a quase R$ 29 bilhões. Outro dado, da Serasa Experian, mostra que o Brasil registrou 10,9 milhões de tentativas de fraude nos primeiros nove meses de 2025. Isso representa uma tentativa a cada 2,2 segundos. Já uma pesquisa do Radar Febraban, divulgada em março de 2025, identificou que 38% dos entrevistados relataram ter sofrido algum tipo de golpe ou tentativa. Os dados foram apresentados por Geraldo Cardoso, assessor de segmentos de associados do Sicredi, e Patrícia Müller, gerente da agência do Centro da instituição financeira. [caption id=\"attachment_67480\" align=\"alignnone\" width=\"1200\"] Foto: Divulgação - CDL - Agora Floripa.[/caption] Inteligência artificial está mudando a forma de aplicar golpes Um dos exemplos mais impressionantes apresentados durante o encontro ocorreu em 2024, em Hong Kong. Uma multinacional sofreu um prejuízo de US$ 25,6 milhões, aproximadamente R$ 127 milhões na época, depois que um funcionário realizou transferências bancárias acreditando estar seguindo orientações legítimas de seus superiores. O trabalhador participou de uma videoconferência na qual o diretor financeiro e os demais participantes haviam sido recriados digitalmente por meio de inteligência artificial. A tecnologia utilizada, conhecida como deepfake , permite produzir imagens, vídeos e reproduções de voz extremamente convincentes. Na situação apresentada, a aparência e a voz dos participantes foram suficientes para fazer com que o funcionário acreditasse estar diante de uma reunião verdadeira. O episódio demonstra como os métodos tradicionais de identificação podem deixar de ser suficientes. Reconhecer a voz de um gestor ou visualizar seu rosto durante uma chamada já não representa, isoladamente, uma confirmação segura da identidade de quem está solicitando uma operação financeira. Para empresas de Florianópolis e da Grande Florianópolis, o cenário chama a atenção principalmente para os procedimentos de autorização de pagamentos, transferências e alterações de dados bancários. Quais são os golpes financeiros mais utilizados? Além das fraudes envolvendo inteligência artificial, diferentes modalidades continuam sendo utilizadas pelos criminosos para conseguir dinheiro ou acessar informações pessoais e bancárias. Entre os principais golpes apresentados durante a reunião estão: Falsa central de atendimento: criminosos entram em contato se passando por funcionários de bancos e instituições financeiras, utilizando abordagens que simulam procedimentos de segurança. Falso advogado: golpistas utilizam informações relacionadas a processos judiciais para conven",
+  "numeros": [
+   {
+    "valor": "24 milhões",
+    "rotulo": "vítimas de golpes em 2025"
+   },
+   {
+    "valor": "R$ 29 bilhões",
+    "rotulo": "prejuízos causados por golpes"
+   },
+   {
+    "valor": "10,9 milhões",
+    "rotulo": "tentativas de fraude em 2025"
+   },
+   {
+    "valor": "38%",
+    "rotulo": "entrevistados que relataram golpes"
+   }
+  ],
+  "fonte": "Agora Floripa",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "as empresas podem perder dinheiro e credibilidade",
+  "angulo": "Diante dessa grave ameaça, entender e implementar medidas de proteção é essencial. Nossa agência pode ajudar a fortalecer sua presença digital e a gestão de segurança.",
+  "gancho": "*Estar preparado para fraudes é fundamental!*",
+  "ideias": [
+   "Como a IA está mudando os golpes financeiros",
+   "Segurança financeira: como proteger sua empresa",
+   "10 medidas para evitar fraudes com tecnologias"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://agorafloripa.com.br/golpes-com-inteligencia-artificial-acendem-alerta-em-florianopolis-e-colocam-empresas-em-risco/",
+  "publicadoEm": "2026-11-25T19:49:01-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-vpr-20"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Varejo enfrenta desafios para o Natal 2026",
+  "resumo": "Estudo revela que 90,5% das empresas sentem impacto do Natal, mas otimismo recua. Empresários apostam em atendimento e promoções para aumentar vendas.",
+  "fatos": [
+   "90,5% das empresas sentem impacto do Natal em seus negócios.",
+   "43,4% dos comerciantes esperam faturar mais do que em 2025, abaixo dos 52% do ano anterior.",
+   "Entre os que preveem crescimento, 49,4% são impulsionados pela confiança no período.",
+   "29,3% temem a retração devido ao endividamento das famílias.",
+   "36% das empresas utilizam o comércio eletrônico como parte de suas operações."
+  ],
+  "explicacao": [
+   "Os empresários estão mais cautelosos neste Natal, evidenciando a necessidade de inovação e adaptação.",
+   "O aumento do endividamento das famílias e a inflação impactam diretamente a disposição para gastar.",
+   "A gestão eficaz do atendimento ao cliente e promoções são essenciais para converter intenções de compra em vendas."
+  ],
+  "materia": "Pesquisa mostra que 90,5% das empresas sentem impacto da data e 43,4% projetam alta nas vendas em relação a 2025 O Natal mantém o posto de principal motor comercial do ano para o varejo, embora os empresários adotem uma postura mais cautelosa nesta temporada. De acordo com a Pesquisa Expectativa de Vendas Natal 2026 , elaborada pelo Núcleo de Inteligência & Pesquisa da Fecomércio MG entre os dias 5 e 12 de novembro, 90,5% das empresas do setor afirmam que a data movimenta seus negócios, mas o índice de otimismo recuou em comparação ao ciclo anterior. Receba as notícias do dia – clique AQUI para seguir o canal MEON no WhatsApp! Segundo o levantamento, 43,4% dos comerciantes mineiros projetam faturar mais do que em 2025 — percentual abaixo dos 52% registrados no estudo passado —, enquanto 22,7% esperam repetir o desempenho do ano anterior (grupo no qual 72% avaliaram os resultados de 2025 como satisfatórios). Entre os lojistas que preveem crescimento, a confiança no período (49,4%) e o apelo afetivo das festas (25,9%) aparecem como principais impulsionadores, seguidos por campanhas promocionais e aquecimento geral do mercado (17,8% cada). Já entre os que temem retração, os entraves mais citados são o endividamento das famílias (29,3%) , a alta dos preços e a inflação (26,3%) e a percepção de consumo enfraquecido (23,2%). Para a economista da Fecomércio MG, Gabriela Martins , o desafio dos lojistas será converter a intenção de compra em vendas concretas diante de orçamentos mais apertados. Segundo ela, embora a tradição de presentear favoreça o varejo, a decisão final passa diretamente pelo planejamento financeiro doméstico e pela confiança do consumidor. Para conquistar clientes, o atendimento diferenciado lidera as apostas do setor, citado por 40,8% dos entrevistados, à frente de promoções e liquidações (27,5%), ações de visibilidade de loja (12,8%) e concessão de descontos diretos (9,3%). Na gestão de estoque, 50,1% já realizaram encomendas e aguardam entrega, enquanto 31,7% receberam todas as mercadorias. O estudo também detalha o comportamento esperado para dezembro: O comércio eletrônico faz parte da operação de 36% das empresas impactadas pelo Natal. No ambiente on-line, o vestuário também lidera a procura esperada (26%), seguido por calçados (9,1%) e bebidas (7,8%), funcionando como vitrine e canal complementar às unidades físicas.",
+  "numeros": [
+   {
+    "valor": "90,5%",
+    "rotulo": "empresas que sentem impacto do Natal"
+   },
+   {
+    "valor": "43,4%",
+    "rotulo": "comerciantes que projetam alta nas vendas"
+   },
+   {
+    "valor": "29,3%",
+    "rotulo": "que temem retração devido ao endividamento"
+   }
+  ],
+  "fonte": "MEON",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Receio de quedas nas vendas e dificuldades financeiras",
+  "angulo": "A cautela no varejo exige planejamento estratégico, marketing eficiente e otimização digital para maximizar resultados. O Atendimento e promoções são chave.",
+  "gancho": "Como *enfrentar a cautela do varejo*?",
+  "ideias": [
+   "O que esperar do Natal 2026?",
+   "Como promover suas vendas no Natal?",
+   "Estratégias de atendimento para impulsionar vendas"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://www.meon.com.br/noticias/brasil/varejo-aposta-em-atendimento-e-promocoes-para-o-natal-2026-com-expectativa-mais-moderada-aponta-fecomercio-mg",
+  "publicadoEm": "2026-11-25T20:10:00-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-vpr-19"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Como juro alto e estoque elevado desafiam vendas",
+  "resumo": "A Ford enfrenta quedas nas vendas devido a juros altos e estoques elevados. A situação evidencia a importância de uma boa estratégia de marketing para manter a competitividade.",
+  "fatos": [
+   "A Ford investiu US$ 870 milhões na fábrica de General Pacheco, Argentina.",
+   "As linhas de montagem da Ranger ficarão paradas por oito semanas em dezembro.",
+   "A produção caiu 17%, de 380 para 315 veículos por dia.",
+   "As vendas da Ranger no Brasil caíram 14,8% em outubro de 2023.",
+   "A Ford implementou campanhas promocionais para estimular vendas, incluindo desconto e taxa zero."
+  ],
+  "explicacao": [
+   "Altos juros estão inibindo a demanda, especialmente entre produtores rurais e clientes comerciais.",
+   "Apesar do crescimento projetado de 9% nas vendas até 2026, a competitividade está ameaçada.",
+   "A necessidade de ajustes em estoques indica uma falta de adaptação às condições do mercado."
+  ],
+  "materia": "Após três anos consecutivos de expansão na casa dos 20%, a montadora prevê crescimento de 9% neste ano. O CEO na América do Sul Martín Galdeano explica ao NeoFeed os ajustes na operação Linha de montagem da Ranger na fábrica de General Pacheco da Ford, localizada nos arredores de Buenos Aires, na Argentina A Ford investiu US$ 870 milhões na fábrica de General Pacheco, Argentina, onde produz a picape Ranger. Em dezembro, a unidade ficará parada por oito semanas devido a férias coletivas, obras e ajuste de estoques, após uma redução de 17% na produção. A montadora, que reestruturou seu portfólio para veículos de maior valor, espera um crescimento de 9% nas vendas na América do Sul em 2026, apesar de a Argentina enfrentar um mercado abaixo das expectativas. No Brasil, os altos juros impactam a demanda, especialmente entre produtores rurais e clientes comerciais, resultando em uma queda de 14,8% nas vendas da Ranger em outubro. A Ford lançou campanhas promocionais para estimular as vendas, mas enfrenta desafios com estoques elevados e crédito caro. Além disso, a competitividade é afetada por impostos na Argentina e pela crescente presença de montadoras chinesas. A Ford planeja investir em uma versão híbrida da Ranger e em vans elétricas para o mercado de entregas urbanas. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed Desde 2020, a Ford investiu US$ 870 milhões em sua fábrica de General Pacheco, na Argentina, onde concentra a produção de veículos na América do Sul. Em dezembro deste ano, as linhas de montagem da unidade, dedicadas exclusivamente à fabricação da picape Ranger, ficarão paradas por oito semanas. A interrupção, que combina férias coletivas, obras de modernização e a necessidade de ajustar os estoques, ocorre após a montadora reduzir em 17% o ritmo de produção da unidade, de 380 para 315 veículos por dia. A reestruturação iniciada pela Ford antes mesmo do fechamento das fábricas brasileiras, em 2021, combinou a redução dos custos fixos com o reposicionamento do portfólio para veículos de maior valor agregado. A estratégia permitiu à montadora voltar a registrar lucro operacional na América do Sul após quase uma década de prejuízos anuais. Mas também aumentou a importância da fábrica, que fica nos arredores de Buenos Aires, e do desempenho comercial da Ranger para o negócio regional. Após três anos consecutivos de crescimento na casa dos 20%, a Ford deve encerrar 2026 com uma expansão de 9% nas vendas na América do Sul. Na Argentina, a indústria automobilística se preparou para um mercado de até 700 mil veículos, mas deve fechar o ano com cerca de 530 mil unidades, segundo estimativas da própria montadora. No Brasil, principal destino das exportações da fábrica argentina, os juros elevados pressionam a demanda de dois públicos estratégicos para o negócio de picapes: os produtores rurais e os clientes comerciais. Em outubro, os emplacamentos da Ranger no Brasil recuaram 14,8% em relação ao mesmo mês no ano passado, para 2.818, segundo dados da Fenabrave. Durante evento de fim de ano da montadora, Martín Galdeano , presidente da Ford na América do Sul, afirmou ao NeoFeed que uma das prioridades da companhia é adequar os estoques à demanda e ajustar a operação da rede de concessionárias a um ambiente de crédito mais restritivo. “Com os juros altos, temos de ter certeza de que estamos adaptando nossos estoques e a rede de concessionárias ao que o cliente procura. Queremos ter um giro maior do que tivemos em alguns momentos deste ano”, afirma Galdeano. Para 2027, a montadora trabalha com a perspectiva de um mercado brasileiro de veículos ainda mais desafiador, já que os juros elevados, além de afetar a capacidade de investimento dos produtores rurais e dos clientes comerciais, encarecem o financiamento subsidiado, uma das ferramentas utilizadas para estimular as vendas. Em novembro, a Ford lançou campanhas promocionais para a Ranger que incluem descontos, financiamento com taxa zero e o p",
+  "numeros": [
+   {
+    "valor": "14,8%",
+    "rotulo": "queda nas vendas da Ranger em outubro"
+   },
+   {
+    "valor": "8 semanas",
+    "rotulo": "paralisação da fábrica em dezembro"
+   },
+   {
+    "valor": "17%",
+    "rotulo": "redução na produção"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "Temor de estoque elevado e vendas em queda",
+  "angulo": "Neste contexto desafiador, entender a importância de um bom marketing digital pode ser a chave para uma estratégia eficaz.",
+  "gancho": "A *importância do marketing* em tempos de crise",
+  "ideias": [
+   "Estratégias de marketing para altos juros",
+   "Como reduzir estoques e aumentar vendas",
+   "Campanhas eficientes em momentos de recessão"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://neofeed.com.br/negocios/estoque-elevado-na-argentina-e-juro-alto-no-brasil-colocam-a-prova-estrategia-da-ford-na-america-do-sul/",
+  "publicadoEm": "2026-11-25T17:45:31-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-vpr-18"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Mudanças no comportamento do consumidor: hora de se adaptar",
+  "resumo": "Com consumidores cada vez mais cautelosos, suas decisões de compra estão sendo influenciadas por novas prioridades. O planejamento financeiro se tornou fundamental para as vendas.",
+  "fatos": [
+   "84% dos brasileiros comparam preços antes de comprar.",
+   "Frete grátis tem mais peso que preços baixos na decisão.",
+   "34% planejam compras na Black Friday após meses de espera.",
+   "84,6 milhões de pessoas estão negativadas no Brasil.",
+   "Comportamento financeiro gera compras de maior valor e frequências menores."
+  ],
+  "explicacao": [
+   "O cenário econômico fez os brasileiros se tornarem mais analíticos sobre suas compras, priorizando preços e ofertas. Com a inadimplência alta, o planejamento financeiro se torna crucial, impactando diretamente o varejo.",
+   "A Amazon introduziu a Alexa para Compras, uma ferramenta que ajuda na comparação de preços e traz inovação para facilitar a jornada do consumidor.",
+   "Os consumidores também buscam comprar de forma mais consciente, considerando as despesas totais e optando por pagamentos que ajustem ao orçamento."
+  ],
+  "materia": "Pesquisa encomendada pela Amazon mostra que 84% dos brasileiros intensificaram a comparação de preços e que o frete grátis pesa mais que o desconto nominal na decisão de compra. A Alexa para Compras mostra o histórico de preços de até um ano, enquanto Pix com desconto e parcelamento em 21 vezes atendem às duas pontas do orçamento. Tênis de corrida, dermocosméticos, suplementos e impressoras 3D, que crescem mais de 300% segundo a empresa, mostram para onde o brasileiro direciona o dinheiro em 2027. Depois de quase um mês de ofertas no ar, a Amazon está chegando ao dia oficial da Black Friday , realizado nesta sexta-feira (27/11). Em 2026, a temporada da empresa conta com novidades e descontos publicados diariamente. Já o consumidor atravessa esse período com um paradoxo. Em outubro, o Brasil registrou 84,6 milhões de pessoas negativadas , o maior contingente de inadimplentes da série histórica do Mapa da Inadimplência da Serasa. Ainda assim, 41% dos brasileiros planejam gastar mais neste fim de ano do que em 2025, segundo pesquisa encomendada pela Amazon. O mesmo levantamento mostra que 84% intensificaram a comparação de preços entre sites. Além disso, 79% dedicam mais tempo a avaliações e detalhes técnicos antes de fechar o carrinho. Ou seja, o brasileiro não deixou de comprar, mas passou a comprar como quem audita cada gasto. Para Ricardo Perez, diretor de Categorias de Varejo da Amazon Brasil , o consumidor deste ano trata a data como uma decisão financeira. “As pessoas estão encarando essa Black Friday como uma oportunidade de compra eficiente. Elas manifestam isso verbalmente, e isso envolve uma decisão consciente de planejamento financeiro”, afirma. Esse planejamento puxa o ticket médio em duas direções opostas, segundo o executivo. De um lado, crescem os itens de maior valor agregado, adiados durante meses à espera do desconto. De acordo com a pesquisa, 34% dos compradores aguardam a data especificamente para levar produtos que já estavam salvos em suas listas. Do outro lado, a expansão da Amazon em itens de rotina, como supermercado, higiene e casa, traz compras menores e mais frequentes. Ela é sustentada por programas de compra recorrente e de desconto progressivo por volume. A pesquisa também desloca o fator de decisão. Para metade dos entrevistados, o frete grátis está entre os três principais indicativos de valor de uma oferta. O menor preço de vitrine e o percentual de desconto aparecem atrás, citados por 27% cada um. A entrega rápida é mencionada por 31%. Em outras palavras, o consumidor que compara preços também compara o custo total e a previsibilidade da entrega. A forma de pagamento revela o mesmo comportamento dividido. Segundo Ricardo, crescem ao mesmo tempo as compras à vista no Pix, que costumam receber de 5% a 10% de desconto adicional – a depender do produto e do momento –, e o parcelamento estendido, que chega a 21 vezes sem juros no Cartão Amazon. A lógica acompanha o tamanho da compra. O parcelamento tende a sustentar os produtos de maior valor, em que a parcela precisa caber em um orçamento já comprometido. Um levantamento da Bain & Company aponta que 83% dos brasileiros reduziram ou pretendem reduzir seus gastos. Nesse contexto, oferecer as duas opções deixou de ser um diferencial comercial e virou condição para não perder a venda. A principal novidade da Amazon para a temporada aposta justamente no consumidor que desconfia . Lançada no Brasil em 12 de novembro, a Alexa para Compras é uma assistente de Inteligência Artificial gratuita, disponível no app e no site da Amazon. Ela compara produtos lado a lado, considerando especificações, preços e avaliações, sugere itens de reposição com base no histórico do cliente e até monta listas de compras sob demanda por ocasião. Ainda, a ferramenta orienta escolhas técnicas. Em uma busca por televisores, por exemplo, pergunta ao consumidor sobre a iluminação do ambiente e o tamanho da sala onde o aparelho será instalado. O recurso que mais chama a atenção nos ",
+  "numeros": [
+   {
+    "valor": "84%",
+    "rotulo": "brasileiros que intensificaram comparação de preços"
+   },
+   {
+    "valor": "34%",
+    "rotulo": "que planejam compras na Black Friday"
+   },
+   {
+    "valor": "84,6 milhões",
+    "rotulo": "de pessoas negativadas"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perda de vendas por falta de adaptação ao consumidor",
+  "angulo": "Entender as mudanças no comportamento do consumidor é vital para ajustar estratégias de marketing e vendas, incentivando a busca por soluções de gestão digital.",
+  "gancho": "O *futuro do consumo* depende de você!",
+  "ideias": [
+   "A nova era do consumo: o que muda?",
+   "Estratégias para se destacar em 2027!",
+   "Como a inteligência artificial transforma compras?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://consumidormoderno.com.br/black-friday-amazon-tendencias-consumo/",
+  "publicadoEm": "2026-11-25T18:21:21-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-vpr-17"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Black Friday: altos impostos e juros afetam seu bolso",
+  "resumo": "Na Black Friday, mais de 60% do preço de alguns produtos são impostos. Juros altos e dívidas podem anular os benefícios dos descontos.",
+  "fatos": [
+   "Em smartphones e perfumes, mais de 60% do preço é formado por impostos.",
+   "A Selic está em 13,75% ao ano, afetando compras parceladas.",
+   "Há 84,2 milhões de brasileiros inadimplentes, cerca de 51,1% da população adulta.",
+   "O PIB foi revisado de 4,9% para 5,3% de inflação até 2026.",
+   "32,8% dos consumidores pretendem usar cartão de crédito, com 86% deles parcelando"
+  ],
+  "explicacao": [
+   "A Black Friday trouxe promoções, mas a realidade é que altos impostos e juros tornam as compras mais caras.",
+   "Os tributos embutidos influenciam diretamente no preço final dos produtos, especialmente com a inflação em alta.",
+   "O cenário econômico atual exige que os consumidores avaliem o custo total das compras para não prejudicar o orçamento."
+  ],
+  "materia": "Na Black Friday, o verdadeiro custo das compras vai muito além do desconto anunciado na vitrine. Em itens como smartphones e perfumes importados, mais de 60% do preço final corresponde a impostos, segundo estimativas do Impostômetro da ACSP. Esse peso tributário se soma a um cenário econômico desafiador — com projeção de alta na inflação, desaceleração do PIB para 2026 e 2027, juros altos (com a Selic em 13,75% ao ano) e um recorde de 84,2 milhões de brasileiros inadimplentes. Nesse ambiente, o parcelamento no cartão de crédito, quando acompanhado de juros elevados, pode anular completamente a vantagem da promoção e comprometer o orçamento familiar por meses. Na Black Friday , um smartphone ou um perfume importado podem carregar uma carga tributária superior a 60% do preço final. As estimativas do Impostômetro, da Associação Comercial de São Paulo (ACSP) , ajudam a dimensionar o peso dos impostos sobre o consumo brasileiro. Entretanto, a tributação não é o único fator que influencia o custo das compras. Juros elevados, inflação e despesas adicionais também podem reduzir a vantagem financeira das promoções. A temporada de promoções, que acontece nesta sexta-feira (27), coincide com a revisão das perspectivas econômicas do País. Na segunda-feira (23), a Secretaria de Política Econômica (SPE) do Ministério da Fazenda elevou de 4,9% para 5,3% a previsão de inflação para 2026. Além disso, o governo reduziu de 2% para 1,9% a expectativa de crescimento do Produto Interno Bruto (PIB) neste ano. Para o próximo ano, o cenário econômico também inspira cautela. A projeção de crescimento do PIB recuou de 2,3% para 1,8%. Já a estimativa de inflação passou de 3,8% para 4,5%. Essas perspectivas merecem atenção especial dos consumidores que pretendem parcelar suas compras. Afinal, uma aquisição em 12 prestações comprometerá parte da renda familiar durante quase todo o próximo ano. Diante desse cenário, aproveitar a Black Friday exige mais do que identificar descontos. É preciso avaliar o custo total da compra e seus desdobramentos sobre o orçamento familiar. Quanto do dinheiro que o consumidor desembolsa na Black Friday corresponde efetivamente a tributos? A tabela pública do Impostômetro apresenta estimativas da carga tributária incidente sobre diferentes produtos, incluindo eletrônicos, eletrodomésticos e cosméticos. Cabe destacar que os tributos já integram o preço dos produtos. A tabela do Impostômetro não informa a data de atualização dos percentuais. Além disso, a tributação efetiva pode variar conforme a classificação da mercadoria, sua origem e as características da operação comercial. Se os impostos ajudam a explicar a composição dos preços, as condições de pagamento também determinam o custo final de uma compra. Segundo a Abecs/Datafolha , os cartões de crédito e débito concentram 56% das preferências de pagamento nesta Black Friday. Entre os consumidores que preferem utilizar cartões, 86% pretendem parcelar suas compras. Contudo, o parcelamento não representa, necessariamente, uma dificuldade financeira. A modalidade também pode funcionar como instrumento de organização do orçamento, sobretudo quando não envolve juros. Em um ambiente de juros elevados, o financiamento de uma compra pode reduzir ou até eliminar a vantagem financeira de uma promoção. Imagine um produto de R$ 1 mil anunciado durante a Black Friday. À vista, esse será o desembolso do consumidor, desconsiderando eventuais despesas adicionais. Entretanto, caso a compra envolva um financiamento em 12 parcelas, com juros de 3% ao mês, o valor total ultrapassará R$ 1,2 mil. O cenário econômico reforça a necessidade de atenção. Em novembro, o Comitê de Política Monetária (Copom) manteve a taxa Selic em 13,75% ao ano. Além disso, uma pesquisa de taxas de juros do Procon-SP , realizada neste mês, identificou taxa média de 8,48% ao mês no empréstimo pessoal. O levantamento considerou seis instituições financeiras e as taxas máximas prefixadas oferecidas a clientes não preferenci",
+  "numeros": [
+   {
+    "valor": "60%",
+    "rotulo": "impostos no preço de produtos"
+   },
+   {
+    "valor": "84,2 milhões",
+    "rotulo": "brasileiros inadimplentes"
+   }
+  ],
+  "fonte": "Consumidor Moderno",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "o que você perde ao não planejar suas compras",
+  "angulo": "Compreender os custos reais das compras é essencial. Uma boa estratégia de marketing pode ajudar a gerenciar esse cenário desafiador.",
+  "gancho": "*Altos impostos podem anular descontos!*",
+  "ideias": [
+   "Entenda o verdadeiro custo da Black Friday",
+   "Você sabe quanto paga de impostos ao comprar?",
+   "Juros altos: o que isso significa para suas compras?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://consumidormoderno.com.br/black-friday-juros-impostos-consumo/",
+  "publicadoEm": "2026-11-25T16:55:27-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-vpr-16"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "Novos FIDC e financiamentos impactam o mercado",
   "resumo": "A Pagaleve levantou R$ 250 milhões para financiar Pix parcelado, potencializando suas operações e serviços ao varejo. Entenda como isso pode afetar seu negócio.",
   "fatos": [
@@ -857,6 +1316,229 @@
   "publicadoEm": "2026-11-24T22:56:46-03:00",
   "data": "2026-11-24",
   "id": "2026-11-25-vpr-01"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Projeto pode reduzir seguro-desemprego a duas parcelas",
+  "resumo": "Uma proposta na Câmara busca vincular o seguro-desemprego à taxa de desocupação. Se aprovada, trabalhadores demitidos receberiam apenas duas parcelas do benefício.",
+  "fatos": [
+   "O Projeto de Lei 5920/2026 foi protocolado pelo deputado Diego Andrade.",
+   "A proposta altera a Lei 7.998/1990 sobre o seguro-desemprego.",
+   "O número de parcelas passaria a depender da taxa de desocupação do IBGE.",
+   "Com 5,2% de desemprego, um trabalhador demitido receberia apenas duas parcelas.",
+   "O projeto estabelece uma nova estrutura de seis faixas baseadas nessa taxa.",
+   "Caso aprovado, a nova lei entra em vigor 180 dias após a publicação.",
+   "As regras atuais garantem de três a cinco parcelas do benefício."
+  ],
+  "explicacao": [
+   "O PL busca ajustar os benefícios do seguro-desemprego à realidade econômica do país.",
+   "Trabalhadores podem enfrentar dificuldades financeiras com a redução nas parcelas.",
+   "A proposta visa estimular a recolocação profissional em momentos de maior oferta de empregos.",
+   "Embora a intenção seja racionalizar o sistema, pode gerar insegurança para muitos trabalhadores.",
+   "Se aprovada, a mudança afetará diretamente o amparo em épocas de aquecimento do mercado."
+  ],
+  "materia": "Proposta protocolada na Câmara vincula a duração do benefício trabalhista aos índices trimestrais de desocupação divulgados pelo IBGE (Foto: Pedro Ventura, Agencia Brasil) O deputado federal Diego Andrade (PSD-MG) protocolou na Câmara o Projeto de Lei 5920/2026 para alterar a Lei 7.998/1990 e tornar variável o número de parcelas do seguro-desemprego de acordo com a taxa nacional de desocupação divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) antes da dispensa do trabalhador. Se o PL fosse aprovado hoje, o trabalhador demitido receberia apenas duas parcelas . Segundo o deputado, a iniciativa busca adequar as despesas do Fundo de Amparo ao Trabalhador (FAT) ao ciclo econômico do país, encurtando a duração do benefício quando a oferta de vagas está aquecida e estendendo o amparo em cenários de retração. “Não se pretende retirar a proteção de quem efetivamente necessita, mas estabelecer um sistema mais racional, que amplie o amparo nos momentos de crise e estimule a recolocação profissional nos períodos de maior oferta de empregos”, justificou o autor. Enquanto o modelo em vigor garante, como regra geral, de três a cinco parcelas calculadas pelo tempo de vínculo empregatício e pela quantidade de solicitações prévias, a nova proposta fixa seis faixas baseadas na estatística do IBGE : desemprego até 5% libera uma parcela; Como a desocupação no trimestre terminado em setembro de 2026 marcou 5,2% , e antes 5,6% no mesmo intervalo de 2025, um trabalhador demitido sob essas regras receberia hoje apenas duas parcelas. O projeto estabelece que a quantidade de parcelas fixada no momento da aprovação do pedido não sofrerá alteração até a última parcela ser paga, independentemente de variações posteriores no índice do IBGE. Além de manter intactas as exigências básicas para habilitação ao programa, o texto resguarda as regras próprias de empregados domésticos, pescadores artesanais durante o defeso e trabalhadores resgatados de trabalho análogo à escravidão . Se avançar no Legislativo e receber sanção presidencial, a nova lei entrará em vigor após 180 dias de sua publicação , respeitando os benefícios concedidos sob a regra antiga, com prazo de 90 dias para regulamentação pelo Poder Executivo. Este site usa cookies para fornecer serviços e analisar o tráfego. Política de privacidade",
+  "numeros": [
+   {
+    "valor": "5,2%",
+    "rotulo": "taxa de desemprego atual"
+   },
+   {
+    "valor": "180 dias",
+    "rotulo": "prazo para a nova lei entrar em vigor"
+   }
+  ],
+  "fonte": "NSC Total",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Aposentados",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "receber menos do seguro-desemprego em caso de demissão",
+  "angulo": "Aprender sobre investimentos no mercado financeiro pode trazer autonomia e segurança financeira, especialmente em tempos de mudanças na legislação trabalhista.",
+  "gancho": "Você pode ficar *sem amparo* após a demissão!",
+  "ideias": [
+   "Como a nova lei pode impactar seu bolso?",
+   "Diminuição do seguro-desemprego: o que fazer?",
+   "Invista no seu futuro: proteja-se das mudanças!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://www.nsctotal.com.br/economia/trabalhador-demitido-pode-receber-so-duas-parcelas-do-seguro-desemprego-se-projeto-avancar-na-camara",
+  "publicadoEm": "2026-11-25T17:25:00-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-trader-18"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "Subsídio ao diesel pode trazer impacto no seu bolso",
+  "resumo": "Governo prorroga subsídio de R$ 2,12 ao diesel por mais um mês, elevando o custo total ao impacto fiscal em até R$ 85 bilhões em 2026.",
+  "fatos": [
+   "O subsídio ao diesel será prorrogado por 30 dias, custando entre R$ 8 bilhões e R$ 10,5 bilhões.",
+   "O impacto total das políticas de contenção de preços de combustíveis pode chegar a R$ 85 bilhões em 2026.",
+   "Essa decisão foi anunciada pelo ministro do Planejamento, Bruno Moretti, em 25 de outubro.",
+   "O governo espera compensar esses gastos com receitas adicionais provenientes do petróleo.",
+   "As subvenções aos combustíveis agregaram R$ 75 bilhões às contas públicas em 2023."
+  ],
+  "explicacao": [
+   "A prorrogação do subsídio busca evitar aumentos nos preços dos combustíveis e garantir o abastecimento.",
+   "As medidas fiscais tentam equilibrar receitas e despesas, mas a manutenção do subsídio pode aumentar a pressão inflacionária.",
+   "Com o subsídio, a inflação poderia ser ao menos 1 ponto percentual maior, afetando diretamente o custo de vida da população."
+  ],
+  "materia": "A equipe econômica deve prorrogar por mais 30 dias a subvenção de R$ 2,12 por litro de diesel comercializado no país. A extensão do benefício pode custar entre R$ 8 bilhões e R$ 10,5 bilhões, elevando para cerca de R$ 85 bilhões o impacto total das políticas de contenção dos preços dos combustíveis nas contas públicas em 2026. A previsão foi anunciada nesta quarta-feira (25) pelo ministro do Planejamento e Orçamento, Bruno Moretti, durante entrevista sobre a liberação de R$ 3,43 bilhões do Orçamento. A portaria que formaliza a renovação ainda precisa ser validada pelo governo. “O custo era estimado em R$ 10,5 bilhões [por mês], mas a gente tem verificado na execução que esses valores giram um pouco abaixo. Na prática, temos visto algo na faixa entre R$ 8 bilhões e R$ 10,5 bilhões”, afirmou Moretti. Segundo o ministro, as medidas adotadas para reduzir os efeitos da alta internacional do petróleo já provocaram impacto de aproximadamente R$ 75 bilhões nas contas públicas neste ano. O valor inclui de R$ 64 bilhões a R$ 65 bilhões em subvenções aos combustíveis e cerca de R$ 10 bilhões em perda de arrecadação com desonerações tributárias. A nova prorrogação ainda não está incluída no impacto de R$ 75 bilhões. Com o gasto adicional, o custo total poderá chegar a aproximadamente R$ 85 bilhões, caso a subvenção fique no limite estimado pelo governo. Moretti afirmou que a equipe econômica pretende reduzir gradualmente os incentivos, conforme os preços internacionais do petróleo recuem. A prioridade, neste momento, é garantir o abastecimento e evitar aumentos bruscos nas bombas. “Nesta semana, vamos anunciar mais uma renovação de subvenção de R$ 2,12 do diesel. Tem necessidade de manter por mais um mês, mas temos a perspectiva de ir revendo esses valores, na expectativa de que os parâmetros [de preço] cedam”, disse o ministro. O governo esperava compensar os gastos com os subsídios por meio de receitas extraordinárias decorrentes da valorização do petróleo, incluindo royalties, tributos sobre o setor e o Imposto de Exportação sobre petróleo, prorrogado até 31 de dezembro. Moretti afirmou que parte da arrecadação deve entrar apenas em 2027, devido ao calendário de pagamento dos tributos. Segundo ele, considerando esses recursos, o governo espera manter o equilíbrio entre receitas e despesas extraordinárias. “Na margem, estamos equilibrados, considerando que uma parte dessas receitas entra no ano que vem, porque é como se paga cada um desses tributos”, afirmou. A prorrogação ocorre após o Congresso autorizar a exclusão de até R$ 10,5 bilhões em despesas com subsídios ao diesel do cálculo da meta fiscal de 2026. A medida foi sancionada pelo presidente Luiz Inácio Lula da Silva na terça-feira (24). A autorização permitiu reduzir o contingenciamento de despesas de R$ 13,6 bilhões para R$ 12,3 bilhões. Com o desbloqueio de R$ 2,1 bilhões, o governo liberou cerca de R$ 3,4 bilhões do Orçamento. O contingenciamento é utilizado para ajustar as despesas à previsão de receitas e evitar o descumprimento da meta fiscal. Já o bloqueio ocorre quando os gastos projetados ultrapassam o limite estabelecido pelo arcabouço fiscal. Moretti afirmou que, sem a política de subsídios, o governo teria registrado superávit primário em 2026. No entanto, segundo ele, o resultado poderia ocorrer às custas de maior instabilidade nos preços dos combustíveis e de efeitos negativos sobre a economia. “Se não tivéssemos feito a política, teríamos superávit primário já neste ano, mas às custas de instabilidade de preços, que prejudicaria nosso resultado nominal e o bem-estar da população”, justificou. O secretário-executivo do Ministério da Fazenda, Rogério Ceron, afirmou que, sem os incentivos, a inflação ao consumidor poderia ser pelo menos 1 ponto percentual maior. “Certamente, a gente teria diesel acima de R$ 10, gasolina acima de R$ 10. Um cenário bem difícil do ponto de vista social e de cadeias logísticas”, disse Ceron. Além da subvenção de R$ 2,12 por litro de dies",
+  "numeros": [
+   {
+    "valor": "R$ 85 bilhões",
+    "rotulo": "impacto total em 2026"
+   },
+   {
+    "valor": "30 dias",
+    "rotulo": "tempo de prorrogação do subsídio"
+   },
+   {
+    "valor": "R$ 8 a R$ 10,5 bilhões",
+    "rotulo": "custo da prorrogação"
+   }
+  ],
+  "fonte": "Agência Brasil Economia",
+  "categoria": "Custo de vida",
+  "publico": [
+   "CLT",
+   "Profissionais liberais",
+   "Autônomos",
+   "Aposentados"
+  ],
+  "dor": "Aumento de custos e insegurança financeira",
+  "angulo": "Entender como as políticas de subsídio influenciam na inflação e no seu dia a dia é essencial em tempos de incerteza econômica.",
+  "gancho": "*O impacto do diesel no seu bolso*",
+  "ideias": [
+   "Como o subsídio ao diesel afeta sua conta?",
+   "Inflacão e custo de vida: o que esperar?",
+   "Prepare-se: impactos dos subsídios no dia a dia"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-deve-renovar-subsidio-ao-diesel-por-mais-30-dias",
+  "publicadoEm": "2026-11-25T18:11:00-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-trader-17"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "AGU se opõe ao fim da escala 6x1",
+  "resumo": "A Advocacia Geral da União se manifestou contra a liminar que estabelece o fim da escala 6x1, impactando trabalhadores e empresas do setor. O assunto gera insegurança no mercado.",
+  "fatos": [
+   "A Advocacia Geral da União (AGU) se manifestou contra uma decisão judicial que determina o fim da escala 6x1.",
+   "A liminar foi concedida pelo juiz Paulo Sérgio Pimentel.",
+   "A medida afeta diretores de empresas e trabalhadores que operam no regime 6x1.",
+   "Trabalhadores podem perder a flexibilidade nas jornadas de trabalho.",
+   "A AGU argumenta que a decisão vai contra a legislação trabalhista vigente."
+  ],
+  "explicacao": [
+   "A decisão do juiz visa alterar a jornada de trabalho no setor, o que impacta tanto trabalhadores quanto empresas.",
+   "A escala 6x1 é uma prática comum que permite mais flexibilidade na jornada, mas pode ser revista.",
+   "Se a liminar for mantida, trabalhadores poderão ter uma nova carga horária imposta, afetando suas rendas."
+  ],
+  "materia": "TecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine Entrar",
+  "numeros": [],
+  "fonte": "Estadão",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Profissionais liberais"
+  ],
+  "dor": "possibilidade de perda de renda e flexibilidade",
+  "angulo": "A mudança judicial no trabalho pode deixar muitos empregados inseguros sobre suas escalas e finanças. Conhecer o mercado financeiro pode ser uma alternativa para maior estabilidade.",
+  "gancho": "Impacto do *fim da escala 6x1*",
+  "ideias": [
+   "O que muda sem a escala 6x1?",
+   "Flexibilidade e renda: como evitar perdas?",
+   "Mercado financeiro: a alternativa à incerteza?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://www.estadao.com.br/em-alta/economia/agu-se-manifesta-contra-liminar-dino-fim-escala-6x1/",
+  "publicadoEm": "2026-11-25T17:54:15-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-trader-16"
+ },
+ {
+  "segmento": "trader",
+  "titulo": "CNI contesta fim da escala 6x1 no STF",
+  "resumo": "A CNI tentou derrubar decretos que mudam a escala de trabalho, afetando direitos de trabalhadores e empregadores. A transição para novas regras está marcada para 16 de dezembro.",
+  "fatos": [
+   "CNI entrou com ação no STF em 24 de outubro sobre o fim da escala 6x1.",
+   "Transição para novas regras está prevista para 16 de dezembro.",
+   "O decreto e a portaria regulamentam jornada de até 42 horas semanais e duas folgas.",
+   "A ação questiona obrigações que deveriam ser definidas pelo Congresso.",
+   "Empresas têm até 90 dias para renegociar condições contratuais após 16 de dezembro."
+  ],
+  "explicacao": [
+   "O fim da escala 6x1 altera profundamente a jornada de trabalho e pode impactar a remuneração dos trabalhadores.",
+   "As novas regras visam a flexibilização das folgas e a adequação da carga horária ao que é definido nas negociações coletivas.",
+   "Caso as empresas não cheguem a um acordo até a data limite, a jornada pode ser dividida em cinco dias, complicando a gestão de recursos humanos."
+  ],
+  "materia": "Indústria questiona decreto e portaria do governo. A transição segue prevista para 16 de dezembro, com jornada de até 42 horas semanais e duas folgas remuneradas. A Confederação Nacional da Indústria (CNI) entrou com uma nova ação no Supremo Tribunal Federal (STF) na terça-feira (24) para derrubar o decreto e a portaria que regulamentam o fim da escala 6x1. A entidade afirma que o governo federal criou obrigações sobre jornada, folgas e remuneração que deveriam ser definidas por lei aprovada pelo Congresso Nacional. O protocolo da ação, por si só, não suspende as normas nem altera o calendário da transição. Até esta quarta-feira (25), a primeira etapa segue prevista para 16 de dezembro. Na Ação Direta de Inconstitucionalidade (ADI) 8051, a CNI pede a suspensão e a declaração de inconstitucionalidade de dois atos do Executivo. O primeiro é o Decreto nº 13.173/2026, assinado em 19 de novembro. O segundo é a Portaria nº 2.041/2026 do Ministério do Trabalho e Emprego, publicada no Diário Oficial da União no dia 23. Os atos detalham temas como compensação de horas, turnos de revezamento, salário-hora e pagamento do repouso semanal. A CNI também questiona regras da portaria sobre fiscalização, saúde e segurança no trabalho e envio de informações ao eSocial. A confederação sustenta que o Executivo foi além de regulamentar a legislação e invadiu a competência do Congresso. A Advocacia-Geral da União (AGU), em manifestação apresentada nas ações anteriores sobre a emenda constitucional, defendeu a validade da reforma e afirmou que o decreto esclarece dúvidas sobre a aplicação das novas regras. A AGU também pediu a revogação da liminar concedida pelo ministro Flávio Dino, sob o argumento de que a regulamentação publicada pelo governo tornou a decisão provisória desnecessária. O pedido da AGU depende de decisão do Supremo. A redução alcança os contratos em vigor e deve preservar o salário e o piso da categoria. Quem já tem jornada de até 40 horas semanais mantém a carga contratada, sem redução proporcional automática, e passa a ter direito aos dois repousos, observadas as regras aplicáveis à categoria. As 42 horas podem ser divididas em cinco dias? Sim. A liminar de Dino nas ADIs 8041 e 8042 prevê que, se a categoria chegar a 15 de dezembro sem acordo ou convenção coletiva sobre a distribuição da jornada, as 42 horas poderão ser divididas em cinco dias de até 8 horas e 24 minutos. Nesse arranjo provisório, os 24 minutos acima da oitava hora diária não geram, por si só, pagamento de hora extra. A autorização pode ser aplicada até 15 de dezembro de 2027, se a decisão for mantida. A liminar também abriu 90 dias a partir de 16 de dezembro para sindicatos e empregadores renegociarem contrapartidas previstas nos instrumentos coletivos em vigor. O prazo é para negociar essas contrapartidas. O calendário de redução da jornada começa em dezembro. As duas folgas precisam ser no fim de semana? A regra geral prevê dois repousos remunerados por semana, um deles preferencialmente aos domingos. A portaria permite folgas consecutivas e prevê que elas podem ser distribuídas de outra forma por acordo ou convenção coletiva, desde que respeitados os critérios de compensação. A liminar de Dino flexibilizou os limites de distribuição das folgas por negociação coletiva, preservando o direito aos dois repousos. Empresas com escalas de revezamento devem conferir o instrumento coletivo da categoria e acompanhar o julgamento antes de aplicar um regime compensatório. O que empresas e trabalhadores devem conferir agora As ações anteriores sobre a emenda serão julgadas diretamente no mérito pelo plenário do STF. A análise virtual da liminar foi interrompida por pedido de destaque do ministro Luiz Fux. A nova ação da CNI, que trata do decreto e da portaria, ainda aguarda análise do pedido de suspensão. Usamos cookies para melhorar sua experiência e analisar o tráfego do site, em conformidade com a LGPD (Lei Geral de Proteção de Dados).",
+  "numeros": [
+   {
+    "valor": "16 de dezembro",
+    "rotulo": "data de início da transição"
+   },
+   {
+    "valor": "90 dias",
+    "rotulo": "prazo para renegociar contratos"
+   }
+  ],
+  "fonte": "Gazeta do Paraná",
+  "categoria": "Emprego e renda",
+  "publico": [
+   "CLT",
+   "Autônomos",
+   "Empresários"
+  ],
+  "dor": "precarização do trabalho e incerteza nas receitas",
+  "angulo": "Aprender a navegar no mercado financeiro pode ser a chave para manter a renda mesmo em cenários incertos no trabalho.",
+  "gancho": "*mudança drástica* na jornada de trabalho!",
+  "ideias": [
+   "Entenda as implicações do fim da escala 6x1",
+   "Como o novo decreto pode afetar sua renda?",
+   "Negociações coletivas: o que você precisa saber!"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-25T20:56:47-03:00",
+  "url": "https://gazetadoparana.com.br/publico/cni-contesta-regras-do-fim-da-escala-6x1-no-stf-veja-o-que-vale-agora",
+  "publicadoEm": "2026-11-25T19:30:00-03:00",
+  "data": "2026-11-25",
+  "id": "2026-11-25-trader-15"
  },
  {
   "segmento": "trader",
