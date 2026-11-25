@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-24T21:17:03-03:00",
-  "novas": 5,
-  "atualizadas": 2,
+  "ultimaColeta": "2026-11-25T01:38:51-03:00",
+  "novas": 7,
+  "atualizadas": 0,
   "status": "ok",
-  "mensagem": "5 pauta(s) nova(s) e 2 atualizada(s): Ajuste fiscal: quem paga a conta no bolso?; Ajuste fiscal pode impactar seu bolso em breve; Mudanças fiscais podem impactar seu bolso.",
+  "mensagem": "7 pauta(s) nova(s): Fim da escala 6x1: impactos no trabalho; Impactos do fim da escala 6x1 no seu bolso; CNI contesta novas regras de jornada no Supremo.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-25T01:38:51-03:00",
    "2026-11-24T21:17:03-03:00",
    "2026-11-24T17:24:37-03:00",
    "2026-11-24T02:39:21-03:00",
@@ -18,19 +19,19 @@
    "2026-11-22T14:27:25-03:00",
    "2026-11-21T22:43:19-03:00",
    "2026-11-21T18:23:58-03:00",
-   "2026-11-21T13:59:15-03:00",
-   "2026-11-20T23:53:42-03:00"
+   "2026-11-21T13:59:15-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-24T21:17:03-03:00",
-  "novas": 12,
+  "ultimaColeta": "2026-11-25T01:38:51-03:00",
+  "novas": 8,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "12 pauta(s) nova(s): Open Finance para PJ: é hora de agregar valor; Bons tempos para PMEs na Black Friday em 2026?; Como o novo Simples Nacional afeta seu caixa?.",
+  "mensagem": "8 pauta(s) nova(s): Novas regras na Austrália podem afetar Google e Meta; Muse no Instagram: a nova era das vendas; Aprenda com as vendas da Black Friday 2025.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-25T01:38:51-03:00",
    "2026-11-24T21:17:03-03:00",
    "2026-11-24T17:24:37-03:00",
    "2026-11-24T02:39:21-03:00",
@@ -41,8 +42,7 @@
    "2026-11-22T14:27:25-03:00",
    "2026-11-21T22:43:19-03:00",
    "2026-11-21T18:23:58-03:00",
-   "2026-11-21T13:59:15-03:00",
-   "2026-11-20T23:53:42-03:00"
+   "2026-11-21T13:59:15-03:00"
   ]
  }
 }
