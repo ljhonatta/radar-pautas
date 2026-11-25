@@ -1,13 +1,29 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-25T01:38:51-03:00",
+  "ultimaColeta": "2026-11-25T16:38:48-03:00",
   "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Fim da escala 6x1: impactos no trabalho; Impactos do fim da escala 6x1 no seu bolso; CNI contesta novas regras de jornada no Supremo.",
-  "falhas": [],
+  "mensagem": "7 pauta(s) nova(s): Tarifas dos EUA podem afetar negócios no Brasil; Aumento do capital regulatório e o endividamento; Redução da Selic pode aumentar inflação e pobreza.",
+  "falhas": [
+   "Google Notícias 'escala 6x1' (HTTPError)",
+   "Google Notícias 'Receita Federal' (HTTPError)",
+   "Google Notícias 'imposto de renda' (HTTPError)",
+   "Google Notícias 'INSS aposentadoria' (HTTPError)",
+   "Google Notícias 'salário mínimo' (HTTPError)",
+   "Google Notícias 'desemprego IBGE' (HTTPError)",
+   "Google Notícias 'inflação IPCA' (HTTPError)",
+   "Google Notícias 'Copom Selic juros' (HTTPError)",
+   "Google Notícias 'MEI Simples Nacional' (HTTPError)",
+   "Google Notícias 'Câmara aprova projeto trabalhador' (HTTPError)",
+   "Google Notícias 'Senado aprova empresas' (HTTPError)",
+   "Google Notícias 'custo de vida' (HTTPError)",
+   "Google Notícias 'CLT direitos trabalhistas' (HTTPError)",
+   "Google Notícias 'reforma tributária empresas' (HTTPError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-25T16:38:48-03:00",
    "2026-11-25T01:38:51-03:00",
    "2026-11-24T21:17:03-03:00",
    "2026-11-24T17:24:37-03:00",
@@ -18,19 +34,32 @@
    "2026-11-22T18:26:32-03:00",
    "2026-11-22T14:27:25-03:00",
    "2026-11-21T22:43:19-03:00",
-   "2026-11-21T18:23:58-03:00",
-   "2026-11-21T13:59:15-03:00"
+   "2026-11-21T18:23:58-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-25T01:38:51-03:00",
-  "novas": 8,
+  "ultimaColeta": "2026-11-25T16:38:48-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): Novas regras na Austrália podem afetar Google e Meta; Muse no Instagram: a nova era das vendas; Aprenda com as vendas da Black Friday 2025.",
-  "falhas": [],
+  "mensagem": "7 pauta(s) nova(s): Black Friday: Riscos jurídicos que afetam seus negócios; Risco fiscal afeta investimentos e vendas de empresas; Shopee e Mercado Livre dominam compras pelo smartphone.",
+  "falhas": [
+   "Google Notícias 'Instagram novidade empresas' (HTTPError)",
+   "Google Notícias 'WhatsApp Business' (HTTPError)",
+   "Google Notícias 'Meta anúncios' (HTTPError)",
+   "Google Notícias 'Google anúncios pequenas empresas' (HTTPError)",
+   "Google Notícias 'TikTok Shop' (HTTPError)",
+   "Google Notícias 'inteligência artificial pequenas empresas' (HTTPError)",
+   "Google Notícias 'varejo vendas pesquisa' (HTTPError)",
+   "Google Notícias 'e-commerce Brasil' (HTTPError)",
+   "Google Notícias 'Black Friday varejo' (HTTPError)",
+   "Google Notícias 'Sebrae pequenos negócios' (HTTPError)",
+   "Google Notícias 'comportamento do consumidor pesquisa' (HTTPError)",
+   "Google Notícias 'PEGN empreendedor' (HTTPError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-25T16:38:48-03:00",
    "2026-11-25T01:38:51-03:00",
    "2026-11-24T21:17:03-03:00",
    "2026-11-24T17:24:37-03:00",
@@ -41,8 +70,7 @@
    "2026-11-22T18:26:32-03:00",
    "2026-11-22T14:27:25-03:00",
    "2026-11-21T22:43:19-03:00",
-   "2026-11-21T18:23:58-03:00",
-   "2026-11-21T13:59:15-03:00"
+   "2026-11-21T18:23:58-03:00"
   ]
  }
 }
