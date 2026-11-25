@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-24T17:24:37-03:00",
-  "novas": 9,
-  "atualizadas": 0,
+  "ultimaColeta": "2026-11-24T21:17:03-03:00",
+  "novas": 5,
+  "atualizadas": 2,
   "status": "ok",
-  "mensagem": "9 pauta(s) nova(s): Fim da escala 6x1: entenda as novas regras; Fim da escala 6x1: mudanças que impactam seu salário; Novo ajuste fiscal pode impactar seu bolso.",
+  "mensagem": "5 pauta(s) nova(s) e 2 atualizada(s): Ajuste fiscal: quem paga a conta no bolso?; Ajuste fiscal pode impactar seu bolso em breve; Mudanças fiscais podem impactar seu bolso.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-24T21:17:03-03:00",
    "2026-11-24T17:24:37-03:00",
    "2026-11-24T02:39:21-03:00",
    "2026-11-23T23:42:56-03:00",
@@ -18,19 +19,19 @@
    "2026-11-21T22:43:19-03:00",
    "2026-11-21T18:23:58-03:00",
    "2026-11-21T13:59:15-03:00",
-   "2026-11-20T23:53:42-03:00",
-   "2026-11-20T19:28:10-03:00"
+   "2026-11-20T23:53:42-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-24T17:24:37-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-11-24T21:17:03-03:00",
+  "novas": 12,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Inadimplência recorde: um desafio para o varejo; Black Friday pode movimentar R$ 11,52 bilhões em 2026; Fim da escala 6×1: um custo inesperado para o varejo.",
+  "mensagem": "12 pauta(s) nova(s): Open Finance para PJ: é hora de agregar valor; Bons tempos para PMEs na Black Friday em 2026?; Como o novo Simples Nacional afeta seu caixa?.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-24T21:17:03-03:00",
    "2026-11-24T17:24:37-03:00",
    "2026-11-24T02:39:21-03:00",
    "2026-11-23T23:42:56-03:00",
@@ -41,8 +42,7 @@
    "2026-11-21T22:43:19-03:00",
    "2026-11-21T18:23:58-03:00",
    "2026-11-21T13:59:15-03:00",
-   "2026-11-20T23:53:42-03:00",
-   "2026-11-20T19:28:10-03:00"
+   "2026-11-20T23:53:42-03:00"
   ]
  }
 }
