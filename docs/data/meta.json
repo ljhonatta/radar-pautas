@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-25T20:56:47-03:00",
-  "novas": 4,
+  "ultimaColeta": "2026-11-26T00:49:28-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): CNI contesta fim da escala 6x1 no STF; AGU se opõe ao fim da escala 6x1; Subsídio ao diesel pode trazer impacto no seu bolso.",
+  "mensagem": "7 pauta(s) nova(s): Como usar o 13º para evitar dívidas em 2027; Novas regras de crédito podem apertar o bolso; Novas regras de crédito impactam finanças das famílias.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-26T00:49:28-03:00",
    "2026-11-25T20:56:47-03:00",
    "2026-11-25T16:38:48-03:00",
    "2026-11-25T01:38:51-03:00",
@@ -18,19 +19,21 @@
    "2026-11-23T18:45:39-03:00",
    "2026-11-22T23:02:21-03:00",
    "2026-11-22T18:26:32-03:00",
-   "2026-11-22T14:27:25-03:00",
-   "2026-11-21T22:43:19-03:00"
+   "2026-11-22T14:27:25-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-25T20:56:47-03:00",
-  "novas": 8,
+  "ultimaColeta": "2026-11-26T00:49:28-03:00",
+  "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "8 pauta(s) nova(s): Black Friday: altos impostos e juros afetam seu bolso; Mudanças no comportamento do consumidor: hora de se adaptar; Como juro alto e estoque elevado desafiam vendas.",
-  "falhas": [],
+  "mensagem": "7 pauta(s) nova(s): Preparação digital para a Black Friday é essencial; Como novas placas de vídeo impactam seu negócio?; Golpes digitais: como isso afeta seu negócio?.",
+  "falhas": [
+   "Google Notícias 'e-commerce Brasil' (HTTPError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-26T00:49:28-03:00",
    "2026-11-25T20:56:47-03:00",
    "2026-11-25T16:38:48-03:00",
    "2026-11-25T01:38:51-03:00",
@@ -41,8 +44,7 @@
    "2026-11-23T18:45:39-03:00",
    "2026-11-22T23:02:21-03:00",
    "2026-11-22T18:26:32-03:00",
-   "2026-11-22T14:27:25-03:00",
-   "2026-11-21T22:43:19-03:00"
+   "2026-11-22T14:27:25-03:00"
   ]
  }
 }
