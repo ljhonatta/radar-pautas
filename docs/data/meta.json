@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-26T00:49:28-03:00",
-  "novas": 7,
+  "ultimaColeta": "2026-11-26T16:19:02-03:00",
+  "novas": 0,
   "atualizadas": 0,
-  "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Como usar o 13º para evitar dívidas em 2027; Novas regras de crédito podem apertar o bolso; Novas regras de crédito impactam finanças das famílias.",
+  "status": "sem_novas",
+  "mensagem": "Nenhuma pauta nova relevante desde 26/11 às 00:49.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-26T16:19:02-03:00",
    "2026-11-26T00:49:28-03:00",
    "2026-11-25T20:56:47-03:00",
    "2026-11-25T16:38:48-03:00",
@@ -18,21 +19,19 @@
    "2026-11-23T23:42:56-03:00",
    "2026-11-23T18:45:39-03:00",
    "2026-11-22T23:02:21-03:00",
-   "2026-11-22T18:26:32-03:00",
-   "2026-11-22T14:27:25-03:00"
+   "2026-11-22T18:26:32-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-26T00:49:28-03:00",
+  "ultimaColeta": "2026-11-26T16:19:02-03:00",
   "novas": 7,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "7 pauta(s) nova(s): Preparação digital para a Black Friday é essencial; Como novas placas de vídeo impactam seu negócio?; Golpes digitais: como isso afeta seu negócio?.",
-  "falhas": [
-   "Google Notícias 'e-commerce Brasil' (HTTPError)"
-  ],
+  "mensagem": "7 pauta(s) nova(s): Pressão sobre Google: transparência em anúncios é exigida; Google enfrenta multa de R$ 200 mil por dia; Ajustes em IA: O que isso significa para seu negócio?.",
+  "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-26T16:19:02-03:00",
    "2026-11-26T00:49:28-03:00",
    "2026-11-25T20:56:47-03:00",
    "2026-11-25T16:38:48-03:00",
@@ -43,8 +42,7 @@
    "2026-11-23T23:42:56-03:00",
    "2026-11-23T18:45:39-03:00",
    "2026-11-22T23:02:21-03:00",
-   "2026-11-22T18:26:32-03:00",
-   "2026-11-22T14:27:25-03:00"
+   "2026-11-22T18:26:32-03:00"
   ]
  }
 }

@@ -1,6 +1,436 @@
 [
  {
   "segmento": "vpr",
+  "titulo": "Queda no market share de smartphones vai afetar negócios",
+  "resumo": "Estudo aponta quedas significativas no mercado de smartphones até 2027. Isso impacta diretamente as vendas e a estratégia de empresas de tecnologia.",
+  "fatos": [
+   "Remessas mundiais de smartphones deverão cair 14% em 2026 e 6% em 2027.",
+   "Os custos de componentes estão elevados, impactando a produção e os preços.",
+   "Menor disponibilidade de dispositivos baratos afetará consumidores de menor poder aquisitivo.",
+   "A demanda por smartphones premium se manteve, mas não é suficiente para compensar a queda do mercado de massa.",
+   "Empresas como Apple e Samsung enfrentarão quedas menores em seus embarques, mas o mercado geral continua em contração."
+  ],
+  "explicacao": [
+   "A queda nas remessas é reflexo da alta nos custos de produção e da falta de componentes acessíveis.",
+   "Os fabricantes estão retirando modelos menos rentáveis, concentrando-se em aparelhos de maior valor.",
+   "O impacto é maior para consumidores de baixa renda, que têm menos opções de compra.",
+   "Além disso, a demanda por inteligência artificial e servidores está priorizando a alocação de componentes, prejudicando a produção de smartphones.",
+   "As pessoas precisam se adaptar às novas realidades do mercado para manterem suas operações e vendas competitivas."
+  ],
+  "materia": "As remessas globais de smartphones devem registrar queda de 14% em 2026 e outros 6% em 2027 , de acordo com a mais recente edição do Smartphone Market Outlook Tracker , da Counterpoint Research , na comparação ano contra ano. A forte alta dos custos dos componentes ainda é o principal fator de queda em 2026, assim como menor disponibilidade de dispositivos de baixo custo e pela deterioração do poder de compra dos consumidores. De acordo com o estudo da Counterpoint , os fabricantes responderam com aumentos de preços, redução das configurações de memória, retirada de produtos com margens menores e concentração de recursos em um número menor de modelos e mercados prioritários. Por outro lado, a demanda por aparelhos premium permaneceu relativamente resiliente, embora isso tenha contribuído pouco para compensar a contração dos segmentos de mercado de massa. As condições dos canais de distribuição e de produção também continuam desiguais, com algumas regiões começando a registrar níveis baixos de estoque. De acordo com os analistas da consultoria, era esperado que 2026 marcasse o “fundo do poço” do ciclo, mas a situação da memória continuou mais restritiva do que o previsto e deverá continuar em 2027 e o período não será mais o início da recuperação. A demanda por chips de memória aumentou muito por causa da expansão da inteligência artificial e dos data centers que processam essas aplicações. Como esses segmentos têm maior valor agregado, estão recebendo prioridade na alocação de componentes. Com isso, sobra menos memória disponível para a fabricação de smartphones. Os fabricantes estão pagando mais caro pelos componentes, mas esse aumento não é repassado imediatamente. Ele vai sendo incorporado gradualmente aos novos modelos e aos preços praticados no varejo. Esse processo está levando mais tempo do que o previsto. Com componentes mais caros e menor disponibilidade de memória, os fabricantes terão dificuldade para manter aparelhos baratos no mercado. Isso deve afetar principalmente os consumidores de menor poder aquisitivo e os países onde a demanda é mais sensível a aumentos de preços. Os principais fatores por trás da piora das perspectivas para 2027 são a continuidade das restrições na alocação de DRAM para dispositivos móveis, a expectativa de novos aumentos nos preços de LPDDR no início do próximo ano e a falta de sinais concretos de expansão de curto prazo da capacidade destinada ao setor de smartphones, diante da maior rentabilidade das aplicações de IA e servidores. De acordo com o estudo da Counterpoint, o aumento dos custos dos componentes leva os fabricantes a elevar preços e especificações mínimas, além de retirar de linha modelos menos rentáveis. Com isso, o mercado de smartphones abaixo de US$ 200 está encolhendo e se concentrando em aparelhos mais caros. A Apple deverá permanecer como a maior fabricante de smartphones em volume de embarques em 2026 e 2027. No entanto, sua vantagem sobre a Samsung é pequena. Os embarques da empresa devem recuar 1% em 2026 e 4% em 2027. A companhia continua se beneficiando de seu posicionamento no segmento premium, das opções de financiamento, da fidelidade ao seu ecossistema e da prioridade junto aos fornecedores. As remessas ao varejo da Samsung devem cair 1% em 2026 e 3% em 2027, desempenho significativamente superior ao do mercado em geral. Sua capacidade interna de produção de componentes, o amplo portfólio e os relacionamentos consolidados com operadoras e varejistas oferecem maior flexibilidade para garantir o fornecimento e manter a disponibilidade dos aparelhos, de acordo com a Counterpoint. No entanto, os ganhos esperados nos segmentos premium e de dobráveis dificilmente compensarão a fraqueza nos volumes de embarques da linha Galaxy A. As principais fabricantes chinesas de smartphones deverão registrar novas quedas nos embarques em 2027, após contrações expressivas em 2026. Essas empresas estão mais expostas à pressão sobre os segmentos de menor preço, uma vez que a dispo",
+  "numeros": [
+   {
+    "valor": "14%",
+    "rotulo": "queda das remessas em 2026"
+   },
+   {
+    "valor": "6%",
+    "rotulo": "queda das remessas em 2027"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria"
+  ],
+  "dor": "Perda de vendas e clientes devido a altas de preços",
+  "angulo": "A situação demandará um planejamento de marketing mais eficaz e um foco na melhoria da presença digital das empresas.",
+  "gancho": "É hora de se preparar: *quedas no mercado*",
+  "ideias": [
+   "O que a queda nas vendas significa para sua empresa?",
+   "Como se adaptar à nova realidade do mercado de smartphones?",
+   "A importância de um site e marketing digital em tempos de crise"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "loja",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:19:02-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/26/11/2026/smartphones-queda-2026/",
+  "publicadoEm": "2026-11-26T14:16:12-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-vpr-14"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Consumo em supermercados cresce com proibição das apostas",
+  "resumo": "Após o fim das apostas online, o consumo nos supermercados aumentou. Isso pode indicar uma mudança significativa no comportamento do consumidor e no planejamento financeiro das famílias.",
+  "fatos": [
+   "Em novembro, o consumo cresceu 8% em comparação ao mesmo período do ano passado.",
+   "Esse crescimento começou no primeiro mês após a proibição das apostas online.",
+   "O vice-presidente da Abras, Márcio Milan, comentou sobre a nova percepção dos brasileiros.",
+   "O aumento no consumo é também influenciado por um reajuste no Bolsa Família, estimando-se que R$ 45 a R$ 47 sejam direcionados ao consumo.",
+   "Para a Black Friday, a Abras projeta um crescimento de 5,5% a 6,5% no consumo.",
+   "Milan expressou preocupação com a nova jornada de trabalho 5x2 e possíveis rupturas na cadeia produtiva."
+  ],
+  "explicacao": [
+   "A proibição das apostas online liberou uma parte do orçamento das famílias, permitindo um aumento no consumo em supermercados.",
+   "Esse novo cenário é observado juntamente com um reajuste do Bolsa Família, que também contribui para a melhoria nas vendas.",
+   "No entanto, a nova jornada de trabalho 5x2 pode afetar a oferta e os preços, trazendo incertezas ao mercado."
+  ],
+  "materia": "A alta do consumo nos supermercados observada em outubro, primeiro mês após a proibição das apostas online, ganhou força em novembro. Para a Associação Brasileira de Supermercados ( Abras ), o comportamento dos consumidores nas lojas já sinaliza que o fim das bets abriu espaço no orçamento das famílias, embora não seja o único fator por trás do avanço. “Os brasileiros estão se dando conta de que existe uma vida sem bets”, afirmou o vice-presidente da Abras, Márcio Milan, em coletiva de imprensa. Entre os dias 9 e 15 de novembro, o consumo cresceu 8% na comparação com mesmo período do ano passado, segundo monitoramento semanal iniciado pela entidade em 5 de outubro. O executivo chamou a atenção para o fato de que o avanço ocorreu antes dos pagamentos do Bolsa Família no mês. “Não é uma coisa pontual, é contínuo, com tendência de crescimento”, afirmou o Milan. Além do fim das bets, a Abras atribui parte do fortalecimento do consumo ao reajuste do Bolsa Família. Dos R$ 97 de aumento no benefício, a entidade estima que entre R$ 45 e R$ 47 sejam direcionados ao consumo. O executivo reconhece que o endividamento das famílias permanece elevado, mas destaca que, em uma perspectiva de prazo mais longo, a evolução da renda tem acompanhado a variação dos preços da cesta de 35 produtos monitorada pela entidade, o AbrasMercado. Black Friday Na avaliação de Milan, a Black Friday já deve dar sinais de uma mudança no nível de consumo das famílias brasileiras. A entidade projeta crescimento de 5,5% a 6,5% no consumo nos supermercados durante o período promocional. “Ela não vai decepcionar, mas talvez não seja uma maravilha”, disse. O executivo minimizou os efeitos da recente valorização do dólar sobre os preços dos produtos. Segundo ele, boa parte dos produtos mais dependentes do câmbio já foi internalizada pelas empresas entre agosto e setembro, o que limita a exposição às oscilações da moeda. Jornada de trabalho Se, por um lado, o setor supermercadista identifica sinais de melhora no consumo, por outro, a proximidade da implementação da escala de trabalho 5×2 acende um alerta sobre o abastecimento e os preços dos alimentos. Milan afirmou que os supermercados cumprirão rigorosamente a legislação, mas manifestou preocupação com o curto prazo de adaptação de toda a cadeia produtiva, especialmente em um período de maior demanda. “Uma das nossas preocupações é que, nesse período de reorganização e ajuste, possa haver alguma ruptura e, eventualmente, também aumento de preços”, disse Milan. Com informações de Estadão Conteúdo (Júlia Pestana). Imagem: Shutterstock O post Para Abras, brasileiros estão se dando conta de que ‘existe uma vida sem bets’ apareceu primeiro em Mercado&Consumo .",
+  "numeros": [
+   {
+    "valor": "8",
+    "rotulo": "crescimento do consumo em novembro"
+   },
+   {
+    "valor": "45 a 47",
+    "rotulo": "reais do Bolsa Família direcionados ao consumo"
+   },
+   {
+    "valor": "5,5 a 6,5",
+    "rotulo": "crescimento projetado na Black Friday"
+   },
+   {
+    "valor": "35",
+    "rotulo": "produtos monitorados pela Abras"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Consumo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "perda de vendas devido ao comportamento instável do consumidor",
+  "angulo": "Esse cenário ressalta a importância de um bom planejamento de marketing e gestão de redes sociais para se destacar no mercado.",
+  "gancho": "*Mudança* no consumo: como se preparar?",
+  "ideias": [
+   "Como a proibição das bets impacta seu negócio?",
+   "Entenda o crescimento do consumo em supermercados",
+   "O que a nova jornada de trabalho significa para o seu comércio?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "funil",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:19:02-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/11/2026/economia/para-abras-brasileiros-estao-se-dando-conta-de-que-existe-uma-vida-sem-bets/",
+  "publicadoEm": "2026-11-26T14:06:03-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-vpr-13"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Novos anúncios no Modo IA do Google afetam varejo",
+  "resumo": "O Google começou a liberar anúncios no Modo IA, permitindo que marcas apresentem produtos contextualmente relevantes nas buscas. Essa mudança impacta diretamente o comportamento de compra dos consumidores.",
+  "fatos": [
+   "O Google começou a implementar anúncios no Modo IA no Brasil em 26 de outubro.",
+   "Executivos afirmaram que os novos formatos estarão ativos durante a Black Friday.",
+   "Os anúncios só aparecerão se o sistema detectar relevância comercial na consulta do usuário.",
+   "Aproximadamente 2,5 bilhões de pessoas têm acesso a Visões Gerais de IA mundialmente.",
+   "Apenas 4% dos anunciantes brasileiros utilizam plenamente os recursos necessários para IA."
+  ],
+  "explicacao": [
+   "A mudança no Google busca conectar a publicidade ao contexto completo das buscas dos usuários.",
+   "Isso significa que anúncios podem aparecer em resposta a consultas que não têm intenção de compra explícita.",
+   "O varejo precisa estar atento, pois agora há uma nova via para alcançar consumidores durante a jornada de compra."
+  ],
+  "materia": "O Google começou a implementar anúncios publicitários no Modo IA de seu buscador no Brasil. A informação foi confirmada nesta quinta-feira, 26, por Gustavo Souza, diretor de Produtos Publicitários do Google no País, durante um encontro com jornalistas, em São Paulo . No evento Virada Black Friday no Modo IA executivos da companhia apresentaram um blend de pesquisas e estudos proprietários, além de novidades, por conta da Black Friday. A novidade, cuja chegada ao mercado brasileiro havia sido anunciada em outubro, está sendo liberada gradualmente e permitirá que marcas e varejistas apresentem produtos e ofertas em respostas geradas por InteligênciaArtificial. “A gente já começou a implementação. Essa implementação é aos poucos, então pode ser que alguns de vocês vejam esses anúncios”, afirmou o executivo. Segundo ele, os novos formatos já estarão em implantação durante a Black Friday, embora ainda não estejam disponíveis para todos os usuários. Até então, o Modo IA não exibia publicidade no Brasil, enquanto as Visões Gerais de IA permitiam anúncios em posições anteriores ou posteriores aos resumos. Com a mudança, os formatos patrocinados poderão aparecer ao final das respostas produzidas pela tecnologia, quando o sistema identificar uma intenção comercial relevante. A novidade inclui anúncios em texto e formatos de shopping, que apresentam produtos e preços a partir dos catálogos dos varejistas. As peças serão identificadas como resultados ou produtos patrocinados e poderão aparecer em buscas que não necessariamente começaram com uma intenção explícita de compra. Um consumidor que procura informações sobre problemas relacionados ao sono, por exemplo, pode receber sugestões de produtos se, durante a conversa, surgir uma necessidade comercial relacionada a colchões. A proposta é conectar a publicidade ao contexto completo da pesquisa, e não somente às palavras utilizadas na primeira pergunta. Segundo Souza, os anúncios serão exibidos apenas quando o sistema identificar relevância comercial para a consulta. “Se o modelo não detectar que existe relevância, a gente não insere o anúncio. Só insere se entender que aquela informação comercial é importante para o resultado do usuário.” IA amplia possibilidades de descoberta de produtos O lançamento ocorre em meio à expansão das ferramentas de Inteligência Artificial na jornada de compra. Segundo dados apresentados pelo Google , mais de 2,5 bilhões de pessoas têm acesso às Visões Gerais de IA (do Google) em todo o mundo, enquanto o Modo IA ultrapassou 1 bilhão de usuários. A companhia também informou que duas em cada cinco consultas realizadas no Modo IA envolvem algum elemento multimodal, como imagem, voz ou documento, ampliando as formas de interação com o buscador. Essa mudança permite que as pesquisas se tornem mais detalhadas. Em vez de buscar apenas um modelo de televisão, por exemplo, o consumidor pode comparar características técnicas, preços, condições de pagamento e adequação do produto às suas necessidades. Para o varejo, a transformação amplia as possibilidades de contato com consumidores que ainda estão explorando opções, comparando produtos ou buscando informações para decidir uma compra. Nesse sentido, é importante que as empresas divulguem o máximo de informações possíveis sobre os produtos. O Google também destacou que a Inteligência Artificial não necessariamente reduz o tempo dedicado à pesquisa. Ao permitir consultas mais complexas e novas perguntas durante a navegação, a tecnologia pode estimular o consumidor a explorar outras alternativas e categorias. Apenas 4% dos anunciantes avaliados utilizam plenamente recursos de IA Embora os novos formatos ampliem as oportunidades comerciais, a companhia afirma que a maioria dos anunciantes brasileiros ainda não utiliza plenamente as ferramentas necessárias para aproveitar a publicidade baseada em inteligência artificial. Segundo dados apresentados por Souza, apenas 4% dos anunciantes avaliados pela plataforma de maturidade e",
+  "numeros": [
+   {
+    "valor": "15%",
+    "rotulo": "aumento nas conversões com campanhas automatizadas"
+   },
+   {
+    "valor": "4%",
+    "rotulo": "anunciantes que usam plenamente recursos de IA"
+   }
+  ],
+  "fonte": "Mercado & Consumo",
+  "categoria": "Anúncios",
+  "publico": [
+   "Comércio local",
+   "Restaurantes",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "perder vendas para concorrentes mais preparados",
+  "angulo": "Entender as novas ferramentas do Google pode ajudar a direcionar estratégias e otimizar resultados.",
+  "gancho": "Descubra como *anúncios IA* revolucionam vendas",
+  "ideias": [
+   "Prepare-se para a Black Friday com IA!",
+   "Como os anúncios IA podem aumentar suas vendas?",
+   "Entenda a importância dos anúncios no novo Modo IA"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "imposto",
+  "potencial": 3,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:19:02-03:00",
+  "url": "https://mercadoeconsumo.com.br/26/11/2026/tecnologia/google-comeca-a-liberar-anuncios-no-modo-ia-no-brasil-afirma-diretor/",
+  "publicadoEm": "2026-11-26T13:56:04-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-vpr-12"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Crescimento no setor de eventos demanda eficiência em bilheteiras",
+  "resumo": "O setor de eventos movimentou R$ 76,9 bilhões no primeiro semestre de 2026, com uma previsão de crescimento de 8,2%. Isso exige plataformas eficientes para vendas e segurança.",
+  "fatos": [
+   "O setor de eventos movimentou R$ 76,9 bilhões no primeiro semestre de 2026.",
+   "Esse valor representa um crescimento de 8,2% em relação ao mesmo período do ano anterior.",
+   "Os dados são da ABRAPE e marcam o maior resultado da série histórica desde 2019.",
+   "Maior volume de vendas aumenta a necessidade de sistemas de organização e controle de ingressos.",
+   "Principais desafios incluem segurança na experiência de compra e redução de fraudes.",
+   "A plataforma TickZap foi desenvolvida para simplificar a venda com pagamentos via Pix pelo WhatsApp.",
+   "A proposta da TickZap é concentrar a jornada de compra e automatizar a comercialização.",
+   "O foco é atender pequenos e médios produtores que buscam estruturar sua bilheteira."
+  ],
+  "explicacao": [
+   "O crescimento acentuado do setor de eventos reforça a necessidade de soluções tecnológicas para facilitar as vendas e garantir segurança.",
+   "Com o aumento dos eventos, os organizadores enfrentam desafios em garantir uma experiência de compra fluida e sem fraudes.",
+   "A falta de eficiência nos processos pode fazer consumidores desistirem de compra, impactando negativamente a receita dos produtores.",
+   "Soluções como a TickZap têm se mostrado eficazes em otimizar a venda e o controle de ingressos, integrando tudo em um único ambiente."
+  ],
+  "materia": "Mercado cresce 8,2% em 2026 e amplia a demanda por plataformas capazes de reduzir fraudes, melhorar a conversão e simplificar a venda de ingressos O setor de eventos de cultura e entretenimento movimentou R$ 76,9 bilhões em consumo no primeiro semestre de 2026, alta de 8,2% em relação ao mesmo período do ano anterior. Os dados são do Radar Econômico da Associação Brasileira dos Promotores de Eventos (ABRAPE) e representam o maior resultado da série histórica para os primeiros seis meses do ano, iniciada em 2019. O avanço reforça o peso econômico de um mercado que movimenta áreas como hospedagem, alimentação, publicidade, infraestrutura, segurança, produção artística e atividades esportivas. Crescimento aumenta pressão sobre a operação Com mais eventos e maior volume de transações, cresce também a necessidade de sistemas capazes de organizar vendas, pagamentos, acesso e controle de ingressos. Para Vinicius Pietracatella, cofundador da TickZap, o desafio do setor não está apenas em vender mais, mas em garantir segurança e reduzir atritos na experiência de compra. “Não basta processar o pagamento: é preciso oferecer uma experiência segura e eliminar brechas que favorecem os golpes”, afirma. Segundo ele, links suspeitos, pagamentos fora dos canais oficiais e ingressos sem mecanismos de validação ainda representam pontos de risco para consumidores e organizadores. A venda de ingressos é uma das principais fontes de receita direta para muitos produtores e influencia decisões sobre estrutura, atrações, fornecedores e divulgação. Por isso, o acompanhamento do fluxo de vendas, dos meios de pagamento e da distribuição de ingressos passou a ter peso maior na gestão financeira dos eventos. Pietracatella aponta quatro gargalos principais: fluxo de caixa, dependência de intermediários para divulgação, taxas pouco transparentes e perdas de conversão em jornadas de compra complexas. “Processos longos, sites lentos e dificuldades no pagamento podem fazer o consumidor desistir da compra”, afirma. A TickZap desenvolveu uma plataforma integrada à API oficial da Meta para WhatsApp. A solução permite que o consumidor escolha o ingresso, realize o pagamento via Pix e receba o ticket diretamente na conversa, sem precisar baixar outro aplicativo ou criar uma conta convencional. Para os organizadores, a proposta é concentrar a jornada de compra em um único ambiente e automatizar etapas da comercialização. O foco está principalmente em pequenos e médios produtores, que buscam estruturar a bilheteria sem depender exclusivamente de plataformas tradicionais. Tecnologia passa a atuar em segurança e conversão Com o amadurecimento do setor, plataformas de ingressos deixam de ser apenas ferramentas de emissão e passam a ter papel mais amplo na operação. Além de processar pagamentos, elas precisam contribuir para prevenção de fraudes, acompanhamento de desempenho e redução de atritos na jornada de compra. Para Pietracatella, simplificar a experiência também é uma forma de reduzir exposição do consumidor a canais não oficiais. “Quando a compra oficial é simples, rápida e segura, o consumidor não precisa buscar alternativas que podem colocá-lo em risco”, afirma. Aprenda algo novo todos os dias. Assine gratuitamente as newsletters da Adnews.",
+  "numeros": [
+   {
+    "valor": "76,9 bilhões",
+    "rotulo": "movimentação do setor de eventos"
+   },
+   {
+    "valor": "8,2%",
+    "rotulo": "crescimento em relação ao ano anterior"
+   }
+  ],
+  "fonte": "Adnews",
+  "categoria": "Varejo",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais"
+  ],
+  "dor": "Perder vendas por falta de eficiência e segurança na bilheteira",
+  "angulo": "A demanda crescente no setor reforça a necessidade de soluções de marketing e automação para gerenciar vendas de forma eficaz.",
+  "gancho": "Setor de eventos: *eficiência é a prioridade*",
+  "ideias": [
+   "Por que a tecnologia é essencial para o setor de eventos?",
+   "Como evitar fraudes na venda de ingressos?",
+   "A importância da automação para pequenos produtores de eventos."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:19:02-03:00",
+  "url": "https://adnews.com.br/post/setor-de-eventos-movimenta-r-76-9-bilhoes-no-primeiro-semestre-e-pressiona-bilheterias-por-mais-eficiencia",
+  "publicadoEm": "2026-11-26T14:30:34-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-vpr-11"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Ajustes em IA: O que isso significa para seu negócio?",
+  "resumo": "Mirabaud começa a reduzir a exposição ao setor de tecnologia e a IA, alertando sobre a necessidade de diversificação. Empreendedores devem se preparar para possíveis oscilações de mercado.",
+  "fatos": [
+   "A Mirabaud reduziu sua exposição a ações de IA de 50% para 45% do portfólio.",
+   "A gestora começou a buscar alternativas em setores defensivos como farmacêuticas e utilities.",
+   "A inflação nos EUA se aproxima de 3,8% em 12 meses até outubro de 2026.",
+   "O foco no Brasil ficou restrito a clientes brasileiros, com 100% em renda fixa.",
+   "A empresa administra US$ 5 bilhões na América Latina, sendo US$ 2,5 bilhões no Brasil."
+  ],
+  "explicacao": [
+   "A Mirabaud, diante da desaceleração no setor de tecnologia e inflação alta, ajustou sua estratégia investindo em setores mais seguros.",
+   "As ações de IA, alguém tradicionalmente fortes, estão sendo retiradas dos portfólios, refletindo um movimento cauteloso frente a incertezas econômicas.",
+   "Empreendedores devem entender esses ajustes como um sinal para reavaliarem suas estratégias de marketing e investimento em tecnologia."
+  ],
+  "materia": "Gestora começou a diminuir exposição ao setor de tecnologia. Estratégia inclui aumento de posições defensivas e cautela com crédito, enquanto Brasil segue fora do radar das carteiras globais Para a Mirabaud, o único ‘almoço grátis’ para o investidor é voltar a diversificar o portfólio A Mirabaud começou a reduzir sua exposição ao setor de tecnologia, especialmente à inteligência artificial (IA), devido a sinais de que o ciclo de crescimento pode estar perdendo força. O grupo suíço, que anteriormente mantinha uma posição \"overweight\" em tecnologia, agora busca alternativas em setores defensivos, como farmacêuticas e utilities. A redução da exposição a ações de IA foi gradual, passando de 50% para 45% do portfólio, enquanto aumentou a alocação em renda fixa e ouro. A cautela se deve à alta inflação nos EUA e incertezas sobre a sustentabilidade dos resultados do setor de IA. Apesar da diminuição na exposição a ações, a Mirabaud continua a buscar oportunidades no mercado privado. O Brasil permanece fora do radar da gestora, que mantém foco em renda fixa para clientes brasileiros, refletindo a perda de interesse no país desde 2015. * Resumo gerado por inteligência artificial e revisado pelos jornalistas do NeoFeed A inteligência artificial continua sendo uma das principais forças por trás do crescimento da economia americana, mas os sinais de que o ciclo pode estar perdendo fôlego levaram o grupo Mirabaud a rever gradualmente sua exposição ao setor. Depois de manter uma posição overweight (equivalente à compra) em tecnologia durante boa parte de 2026, o grupo suíço começou, no último mês, a reduzir o peso das ações ligadas ao segmento e a buscar alternativas em setores menos associados à IA. “Não é possível saber o que vai acontecer nos próximos dois meses. O único ‘almoço grátis’ que podemos ter é voltar a diversificar. Isso significa sair da principal aposta vencedora dos últimos quatro anos: a inteligência artificial e tudo o que está relacionado a ela”, afirma Ricardo Castillo, diretor de investimentos do grupo, ao NeoFeed . O movimento foi dividido em dois passos. Em renda fixa , o Mirabaud aumentou a exposição em títulos americanos com vencimento intermediário, na faixa de cinco anos. Segundo Castillo, a instituição evitava a classe quando os juros estavam mais baixos, mas passou a aumentar as posições gradualmente à medida que o rendimento das Treasuries de 10 anos superou os 5%. Na renda variável, por sua vez, a instituição reduziu a exposição à IA de forma gradativa. Primeiro, trocou a aposta em semicondutores em favor de uma posição mais ampla em tecnologia, depois passou a uma alocação neutra no setor e, posteriormente, a uma posição underweight (equivalente à venda). “O mercado vai reagir antes da queda das expectativas de lucros em IA, e não o contrário. Quem esperar que os analistas reduzam suas projeções para agir, vai ficar para trás”, alerta Castillo. “Se nada mudar no cenário, podemos cortar um pouco mais a exposição a ações ainda em 2026. É um movimento defensivo tático neste momento do ano”. O Mirabaud reduziu sua exposição a ações de 50% do portfólio para 45%. A alocação média também inclui 35% em títulos de renda fixa, 5% em ouro e o restante dividido entre hedge funds e estratégias descorrelacionadas. O grupo administra US$ 5 bilhões na América Latina – o Brasil representa uma fatia de US$ 2,5 bilhões do montante. A instituição também aumentou a exposição a setores defensivos no último mês, como farmacêuticas na Europa, utilities e companhias de consumo básico. “São setores bem monótonos, mas que podem ajudar bastante na diversificação. São empresas que não apresentam quase nenhum crescimento se comparadas ao setor de tecnologia”, defende. A cautela com IA vem de uma combinação de fatores. Em primeiro lugar está a alta inflação nos Estados Unidos , associada à possibilidade de juros altos por mais tempo. Os preços ainda estão longe da meta de 2% estabelecida pelo Federal Reserve (Fed, o banco central american",
+  "numeros": [
+   {
+    "valor": "50% para 45%",
+    "rotulo": "redução da exposição a ações de IA"
+   },
+   {
+    "valor": "3,8%",
+    "rotulo": "inflação nos EUA"
+   },
+   {
+    "valor": "US$ 5 bilhões",
+    "rotulo": "ativos administrados na América Latina"
+   }
+  ],
+  "fonte": "NeoFeed",
+  "categoria": "Inteligência artificial",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço",
+   "Profissionais liberais",
+   "Indústria",
+   "Restaurantes"
+  ],
+  "dor": "perda de competitividade e lucros em um mercado instável",
+  "angulo": "Diante das mudanças no setor de IA, empresários devem repensar suas estratégias para se manterem competitivos e não ficarem para trás.",
+  "gancho": "Prepare-se! *Quem não agir, vai ficar para trás*",
+  "ideias": [
+   "Sua empresa está preparada para as mudanças na IA?",
+   "Ajuste sua estratégia diante das oscilações do mercado.",
+   "Não fique para trás: diversifique com nossos serviços."
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "calendario",
+  "potencial": 4,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:19:02-03:00",
+  "url": "https://neofeed.com.br/wealth-management/apos-rali-da-ia-mirabaud-pisa-no-freio-e-faz-alerta-quem-nao-agir-vai-ficar-para-tras/",
+  "publicadoEm": "2026-11-26T15:30:25-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-vpr-10"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Google enfrenta multa de R$ 200 mil por dia",
+  "resumo": "A Senacon exige que o Google amplie dados sobre anúncios, ou enfrentará multa diária. Essa situação destaca a necessidade de transparência para os empresários que usam plataformas digitais.",
+  "fatos": [
+   "A Senacon determinou que o Google Brasil amplie as informações sobre anúncios pagos em suas plataformas.",
+   "Caso não cumpra, a empresa poderá ser multada em R$ 200 mil por dia.",
+   "A decisão foi divulgada em 26 de setembro de 2026, mas foi instaurada um dia antes.",
+   "As novas regras exigem informações detalhadas, como período de veiculação e número de pessoas alcançadas.",
+   "As exigências se aplicam a anúncios mesmo que não sejam direcionados exclusivamente ao público brasileiro.",
+   "Os provedores com mais de um milhão de usuários ativos devem manter um repositório público sobre anúncios.",
+   "Mudanças têm a intenção de proteger consumidores contra publicidades enganosas e facilitar a identificação de golpes."
+  ],
+  "explicacao": [
+   "A decisão da Senacon visa aumentar a transparência nas plataformas digitais de publicidade, facilitando a consulta a informações relevantes.",
+   "Os anunciantes precisam estar atentos, pois a regulamentação exige um padrão elevado na prestação de contas.",
+   "Para os empresários, isso reflete a importância de usar serviços de marketing digital que garantam conformidade com as novas regras.",
+   "Com o aumento da fiscalização, uma gestão adequada das campanhas se torna crucial para evitar penalidades.",
+   "As mudanças podem impactar a estratégia de anúncios e exigem mais planejamento na execução das campanhas."
+  ],
+  "materia": "A Secretaria Nacional do Consumidor ( Senacon ), vinculada ao Ministério da Justiça e Segurança Pública, determinou que o Google Brasil amplie as informações disponíveis sobre anúncios pagos em suas plataformas. A empresa tem dez dias, a partir da notificação, para implementar as mudanças. Caso descumpra a determinação, poderá receber multa diária de R$ 200 mil. A decisão foi divulgada nesta quinta-feira (26), mas faz parte de processo administrativo instaurado na quarta-feira (25) pelo Departamento de Proteção e Defesa do Consumidor (DPDC). A medida cautelar exige alterações na Central de Transparência de Anúncios do Google, ferramenta que permite consultar publicidades veiculadas pela empresa. As exigências abrangem anúncios e impulsionamentos pagos que alcancem usuários no Brasil, mesmo quando as campanhas não forem direcionadas exclusivamente ao público brasileiro. As regras também incluem publicidades exibidas no YouTube. Entre as informações que deverão ficar disponíveis estão: O período em que cada anúncio foi veiculado; O número total estimado de pessoas alcançadas; O endereço eletrônico para o qual a publicidade direciona o usuário; Outros identificadores relacionados aos anúncios. A Senacon também determinou mudanças nos mecanismos de consulta da ferramenta. Atualmente, a exigência é de que as buscas não fiquem restritas ao nome do anunciante. O sistema deverá permitir pesquisar, filtrar, ordenar e recuperar informações a partir de diferentes campos. Para comprovar o cumprimento da determinação, o Google Brasil terá de encaminhar à secretaria uma documentação técnica com a descrição das funcionalidades implementadas, os endereços eletrônicos de acesso às informações, registros de tela e uma demonstração prática das ferramentas. Exigências abrangem anúncios e impulsionamentos pagos que alcancem usuários no Brasil, mesmo quando as campanhas não forem direcionadas exclusivamente ao público brasileiro – Imagem: Mijansk786/Shutterstock Leia mais: Amazon e Google terão quase 30% da Anthropic após IPO; entenda acordo IA começa a pressionar principal negócio de publicidade do Google Austrália ameaça Google e Meta com multas de até 5% da receita global Governo estabeleceu novas regras para anúncios digitais A decisão da Senacon está relacionada à Portaria Conjunta Senacon/SEDIGI/SPDIGI nº 3, publicada em 22 de setembro de 2026. A regulamentação estabeleceu novas obrigações de transparência para plataformas digitais que oferecem serviços de publicidade e impulsionamento pago. Entre as determinações, provedores com mais de um milhão de usuários ativos mensais no Brasil devem manter repositório público, gratuito e pesquisável de anúncios. As informações precisam permanecer disponíveis por pelo menos um ano após o encerramento das campanhas. A norma também prevê a divulgação de dados como identificação do contratante, período de veiculação, parâmetros de segmentação do público, estimativa de pessoas alcançadas e informações sobre pagamentos. Segundo o Ministério da Justiça, as regras buscam ampliar a proteção dos consumidores contra publicidades enganosas, abusivas ou fraudulentas. Um dos objetivos é facilitar a identificação de golpes, inclusive aqueles que utilizam anúncios que simulam programas e serviços governamentais. Google terá prazo para apresentar defesa A determinação tem caráter cautelar e integra um processo administrativo sancionador. Segundo a Senacon, foram identificados indícios de possíveis condutas incompatíveis com o Código de Defesa do Consumidor (CDC) e com as obrigações estabelecidas pela regulamentação de publicidade digital. Além do prazo de dez dias para implementar as mudanças na ferramenta, o Google Brasil terá 20 dias para apresentar sua defesa formal e indicar as provas que pretende produzir durante o processo. O Olhar Digital procurou o Google, que disse que não comenta casos em andamento. O post Google pode pagar R$ 200 mil por dia se não revelar mais dados sobre anúncios apareceu primeiro em Olhar",
+  "numeros": [
+   {
+    "valor": "R$ 200 mil",
+    "rotulo": "multa diária por descumprimento"
+   },
+   {
+    "valor": "10 dias",
+    "rotulo": "prazo para implementar mudanças"
+   },
+   {
+    "valor": "20 dias",
+    "rotulo": "prazo para defesa do Google"
+   }
+  ],
+  "fonte": "Olhar Digital",
+  "categoria": "Anúncios",
+  "publico": [
+   "Empresários",
+   "Comércio local",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de recursos com anúncios ineficazes e multas",
+  "angulo": "As novas regras de transparência sinalizam a importância de um planejamento adequado para evitar complicações e maximizar resultados com anúncios digitais.",
+  "gancho": "*Mudanças no Google* podem afetar seu negócio",
+  "ideias": [
+   "Entenda as novas regras de anúncios do Google",
+   "Como evitar multas por anúncios digitais",
+   "Transparência nos anúncios: o que muda para você?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels",
+   "Stories"
+  ],
+  "cena": "imposto",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:19:02-03:00",
+  "url": "https://olhardigital.com.br/2026/11/26/pro/google-pode-pagar-r-200-mil-por-dia-se-nao-revelar-mais-dados-sobre-anuncios/",
+  "publicadoEm": "2026-11-26T15:46:59-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-vpr-09"
+ },
+ {
+  "segmento": "vpr",
+  "titulo": "Pressão sobre Google: transparência em anúncios é exigida",
+  "resumo": "A Senacon estabeleceu prazos para que o Google amplie a transparência sobre anúncios no Brasil. Descumprimento pode resultar em multas diárias.",
+  "fatos": [
+   "Senacon determinou que o Google aumente a transparência em anúncios.",
+   "A medida foi instaurada no dia 25 de outubro.",
+   "Google tem prazo de dez dias para disponibilizar os dados exigidos.",
+   "Se não cumprir, pode enfrentar multa de R$ 200 mil por dia.",
+   "Dados requisitados incluem período de veiculação, alcance total e links de destino.",
+   "Decisão também abrange anúncios no YouTube.",
+   "Google terá 20 dias para apresentar defesa e comprovações.",
+   "Documentação técnica deve ser encaminhada à Senacon."
+  ],
+  "explicacao": [
+   "A exigência da Senacon surge como resposta à falta de transparência dos dados de anúncios no Brasil.",
+   "Na prática, isso significa que o Google precisará oferecer detalhes acessíveis sobre a publicidade veiculada.",
+   "Essa medida visa proteger os consumidores e assegurar que as empresas tenham acesso a informações essenciais sobre sua publicidade."
+  ],
+  "materia": "A Senacon determinou em medida cautelar que o Google ampliasse as informações disponíveis em sua Central de Transparência de Anúncios. A determinação faz parte de processo administrativo sancionador instaurado na última quarta-feira, 25, pelo Departamento de Proteção e Defesa do Consumidor. Em caso de descumprimento, a big tech deverá pagar multa de R$ 200 mil por dia. De acordo com a decisão, o Google tem um prazo de dez dias para que as informações a respeito dos anúncios e impulsionamentos pagos que alcancem usuários no Brasil sejam disponibilizadas. – período em que cada anúncio foi veiculado; – número total estimado de pessoas alcançadas; – endereço eletrônico para o qual o anúncio direciona o usuário. A ferramenta de pesquisa na Central de Transparência de Anúncios deverá permitir consultar, filtrar, ordenar e recuperar dados a partir de diferentes campos, e não apenas pelo nome do anunciante. Segundo a Senacon, a determinação abrange também os anúncios veiculados no YouTube. O Google terá dez dias para disponibilizar os dados e 20 dias para apresentar defesa no processo sancionador, além de indicar as provas que pretende produzir. A empresa também deverá encaminhar à Senacon documentação técnica que comprove o cumprimento da medida cautelar. O material deverá incluir a descrição das funcionalidades implementadas, os links de acesso às informações, registros de tela e uma demonstração prática das ferramentas. Procurado por este noticiário, o Google informou que não comenta processos em andamento. Receba gratuitamente a newsletter do Mobile Time e fique bem informado sobre tecnologia móvel e negócios. Cadastre-se aqui! As ilustrações das matérias são produzidas por Mobile Time com IA Isabel Butcher é editora assistente do Mobile Time As principais notícias da indústria móvel, de segunda a sexta, no seu email. Para mais informações sobre a coleta e uso dos dados no Mobile Time, consulte nossa Política de Privacidade",
+  "numeros": [
+   {
+    "valor": "R$ 200 mil",
+    "rotulo": "multa diária pelo descumprimento"
+   },
+   {
+    "valor": "10 dias",
+    "rotulo": "prazo para disponibilizar dados"
+   },
+   {
+    "valor": "20 dias",
+    "rotulo": "prazo para apresentação de defesa"
+   }
+  ],
+  "fonte": "Mobile Time",
+  "categoria": "Anúncios",
+  "publico": [
+   "Comércio local",
+   "Indústria",
+   "Prestadores de serviço"
+  ],
+  "dor": "perda de transparência nos anúncios pode impactar vendas",
+  "angulo": "A falta de informações claras sobre anúncios pode comprometer o desempenho de suas campanhas, enfatizando a necessidade de uma gestão de tráfego pago eficiente.",
+  "gancho": "descubra como *otimizar seus anúncios agora*",
+  "ideias": [
+   "Transparência em anúncios: O que muda para você?",
+   "Google e Senacon: entenda a nova exigência",
+   "Como garantir eficácia nos seus anúncios?"
+  ],
+  "formatos": [
+   "Carrossel",
+   "Reels"
+  ],
+  "cena": "funil",
+  "potencial": 5,
+  "status": "nova",
+  "coletadoEm": "2026-11-26T16:19:02-03:00",
+  "url": "https://www.mobiletime.com.br/noticias/26/11/2026/senacon-google-anuncios/",
+  "publicadoEm": "2026-11-26T16:11:26-03:00",
+  "data": "2026-11-26",
+  "id": "2026-11-26-vpr-08"
+ },
+ {
+  "segmento": "vpr",
   "titulo": "IA ajuda amadores na busca por exoplanetas",
   "resumo": "Dois entusiastas usaram ferramentas de IA para identificar sinais em dados da NASA, mas verificação científica é necessária para confirmação. Isso demonstra como a tecnologia pode democratizar a pesquisa científica.",
   "fatos": [
