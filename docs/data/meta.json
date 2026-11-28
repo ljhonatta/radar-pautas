@@ -1,13 +1,14 @@
 {
  "trader": {
-  "ultimaColeta": "2026-11-27T20:51:52-03:00",
+  "ultimaColeta": "2026-11-28T00:37:22-03:00",
   "novas": 4,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "4 pauta(s) nova(s): Aumento de preços nos bares e restaurantes à vista!; Mudanças na jornada de trabalho impactam restaurantes e bares; A expectativa sobre a escala 6x1 e seu impacto.",
+  "mensagem": "4 pauta(s) nova(s): Desconfiança no mercado financeiro e seus impactos; Previdência sob nova análise com governo Trabuco; Mudanças tributárias que impactam seu bolso e negócios.",
   "falhas": [],
   "manual": false,
   "historico": [
+   "2026-11-28T00:37:22-03:00",
    "2026-11-27T20:51:52-03:00",
    "2026-11-27T16:12:37-03:00",
    "2026-11-27T00:51:05-03:00",
@@ -18,19 +19,21 @@
    "2026-11-25T16:38:48-03:00",
    "2026-11-25T01:38:51-03:00",
    "2026-11-24T21:17:03-03:00",
-   "2026-11-24T17:24:37-03:00",
-   "2026-11-24T02:39:21-03:00"
+   "2026-11-24T17:24:37-03:00"
   ]
  },
  "vpr": {
-  "ultimaColeta": "2026-11-27T20:51:52-03:00",
-  "novas": 6,
+  "ultimaColeta": "2026-11-28T00:37:22-03:00",
+  "novas": 3,
   "atualizadas": 0,
   "status": "ok",
-  "mensagem": "6 pauta(s) nova(s): A nova era do varejo: *inteligência artificial* em destaque; Dólar cai, mas Bolsa reflete desconfiança econômica; Crescimento de 28% na Black Friday de 2026.",
-  "falhas": [],
+  "mensagem": "3 pauta(s) nova(s): A Black Friday aos olhos da Inteligência Artificial; Black Friday 2026: Oportunidades e desafios no varejo; Black Friday: descontos atraem, mas desconfiança é alta.",
+  "falhas": [
+   "Consumidor Moderno (RuntimeError)"
+  ],
   "manual": false,
   "historico": [
+   "2026-11-28T00:37:22-03:00",
    "2026-11-27T20:51:52-03:00",
    "2026-11-27T16:12:37-03:00",
    "2026-11-27T00:51:05-03:00",
@@ -41,8 +44,7 @@
    "2026-11-25T16:38:48-03:00",
    "2026-11-25T01:38:51-03:00",
    "2026-11-24T21:17:03-03:00",
-   "2026-11-24T17:24:37-03:00",
-   "2026-11-24T02:39:21-03:00"
+   "2026-11-24T17:24:37-03:00"
   ]
  }
 }
